@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<mainCategory>Feleségtartási díj</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Gépkocsi</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Gépkocsi</mainCategory>
+		<subcategory>Kocsifizetés</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Gépkocsi</mainCategory>
+		<subcategory>Benzin / Dízel</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Gépkocsi</mainCategory>
+		<subcategory>Karbantartás</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bankköltség</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bankköltség</mainCategory>
+		<subcategory>Kifizetett kamat</subcategory>
+		<expense>1</expense>
+		<defaultForInterestPaid>1</defaultForInterestPaid>
+	</record>
+	<record>
+		<mainCategory>Bankköltség</mainCategory>
+		<subcategory>Szolgáltatási díj</subcategory>
+		<expense>1</expense>
+		<defaultForServiceCharge>1</defaultForServiceCharge>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Kábel- / Műholdas TV</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Mobiltelefon</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Villanyszámla</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Szemetes</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Fitneszterem</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Lakástulajdonosi illeték</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Tagdíj</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Jelzáloghitel fizetése</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Gázszámla</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Újság</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Online</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Egyéb hitelfizetés</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Lakbér</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Diákhitel</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Otthoni telefon</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Számla</mainCategory>
+		<subcategory>Vízszámla</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Pénzkivevés</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Jótékonysági adomány</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Gyermekgondozás</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Gyerek / Játék</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Gyerek / Játék</mainCategory>
+		<subcategory>Gyermektartás</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Gyerek / Játék</mainCategory>
+		<subcategory>Óvoda</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Ruházat</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Hitelkártyafizetés / Átutalás</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Vendéglő</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Oktatás</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Oktatás</mainCategory>
+		<subcategory>Könyv / Készletek</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Oktatás</mainCategory>
+		<subcategory>Más díj</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Oktatás</mainCategory>
+		<subcategory>Tandíj</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Szórakozás</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Díj</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Élelmiszer</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Ajándék</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Egészségügy</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Egészségügy</mainCategory>
+		<subcategory>Fogorvos</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Egészségügy</mainCategory>
+		<subcategory>Szemész</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Egészségügy</mainCategory>
+		<subcategory>Kórház</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Egészségügy</mainCategory>
+		<subcategory>Orvos</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Egészségügy</mainCategory>
+		<subcategory>Recept</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<subcategory>Könyv / Magazin</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<subcategory>Kulturális rendezvény</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<subcategory>Szórakoztatás</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<subcategory>Mozi / Videó bérlés</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<subcategory>Sportrendezvény</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<subcategory>Sportszer</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<subcategory>Kompaktlemez / DVD</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobbi / Szabadidő</mainCategory>
+		<subcategory>Játék</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Lakásfelújítás</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Háztartás</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Háztartás</mainCategory>
+		<subcategory>Lakberendezés</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Háztartás</mainCategory>
+		<subcategory>Takarítás</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Háztartás</mainCategory>
+		<subcategory>Udvar</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Biztosítás</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Biztosítás</mainCategory>
+		<subcategory>Gépkocsi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Biztosítás</mainCategory>
+		<subcategory>Egészségi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Biztosítás</mainCategory>
+		<subcategory>Háztulajdonosi / Bérlői</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Biztosítás</mainCategory>
+		<subcategory>Élet</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Munkaköltség</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Munkaköltség</mainCategory>
+		<subcategory>Visszatérítettlen</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Munkaköltség</mainCategory>
+		<subcategory>Visszatérített</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hitel</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Hitel</mainCategory>
+		<subcategory>Hitelkamat</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hitel</mainCategory>
+		<subcategory>Jelzáloghitel-kamat</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hitel</mainCategory>
+		<subcategory>Diákhitel kamat</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Vegyes</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
+	</record>
+	<record>
+		<mainCategory>Jelzáloghitel / Lakbér</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Testápolás</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Háziállat</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Háziállat</mainCategory>
+		<subcategory>Eledel</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Háziállat</mainCategory>
+		<subcategory>Kellék</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Háziállat</mainCategory>
+		<subcategory>Állatorvos</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Otthoni- / Mobiltelefon</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Szolgáltatás / Tagdíj</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Adó</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Adó</mainCategory>
+		<subcategory>VAT</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Utazás / Vakáció</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Utazás / Vakáció</mainCategory>
+		<subcategory>Megszállás</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Utazás / Vakáció</mainCategory>
+		<subcategory>Utazás</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Közmű</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Befektetési jövedelem</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Befektetési jövedelem</mainCategory>
+		<subcategory>Tőkenyereség</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Befektetési jövedelem</mainCategory>
+		<subcategory>Osztalék</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Befektetési jövedelem</mainCategory>
+		<subcategory>Kamat</subcategory>
+		<expense>0</expense>
+		<defaultForInterestEarned>1</defaultForInterestEarned>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Befektetési jövedelem</mainCategory>
+		<subcategory>Adómentes kamat</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Egyébi jövedelem</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Egyébi jövedelem</mainCategory>
+		<subcategory>Kapott gyermektartás</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Egyébi jövedelem</mainCategory>
+		<subcategory>Részvényopció</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Egyébi jövedelem</mainCategory>
+		<subcategory>Kapott ajándék</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Egyébi jövedelem</mainCategory>
+		<subcategory>Toto-lotto nyerés</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Egyébi jövedelem</mainCategory>
+		<subcategory>Munkanélküli fizetés</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Nyugdíj</mainCategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Munkabér / Fizetés</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Munkabér / Fizetés</mainCategory>
+		<subcategory>Pótlék</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Munkabér / Fizetés</mainCategory>
+		<subcategory>Jutalék</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Munkabér / Fizetés</mainCategory>
+		<subcategory>Bruttó fizetés</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Munkabér / Fizetés</mainCategory>
+		<subcategory>Nettó fizetés</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Munkabér / Fizetés</mainCategory>
+		<subcategory>Túlóra</subcategory>
+		<expense>0</expense>
+	</record>
+</records>

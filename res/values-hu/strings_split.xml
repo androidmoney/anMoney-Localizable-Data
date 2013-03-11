@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splits">Osztások</string>
+    <string name="split">Osztás</string>
+    <string name="split_canceled">Osztás megszakítva</string>
+    <string name="new_split">Új osztás</string>
+    <string name="edit_split">Osztás módosítása</string>
+    <string name="edit_splits">Osztások módosítása</string>
+    <string name="delete_split">Osztás törlése</string>
+	<string name="delete_split_warning">Az osztás törölve lesz</string>
+	<string name="sum_of_splits">Osztások összege</string>
+	<string name="unassigned">Hozzárendelés nélküli</string>
+	<string name="transaction_total">Tranzakció összege</string>
+    <string name="go_back_to_edit">Menjen vissza a szerkesztéséhez</string>
+    <string name="unassigned_split_message_format">^1 az osztások összege, de ^2 a tranzakció összege. Ez hagy ^3-t hozzárendelés nélkül, ami nem javasolt</string>
+    <string name="what_would_you_like_to_do">Mit szeretne csinálni</string>
+    <string name="set_the_total_format">Állítsa az összeget ^1-ra</string>
+    <string name="distribute_format">Egyenlően ossza el a ^1-t</string>
+    <string name="leave_unassigned_format">Hagyja a ^1-t hozzárendelés nélkül</string>
+    <string name="distributed">Elosztva</string>
+</resources>

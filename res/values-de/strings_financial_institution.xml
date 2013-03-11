@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="financial_institution">Finanzinstitut</string>
+	<string name="financial_institutions">Finanzinstitute</string>
+	<string name="financial_institution_bank_first">Finanzinstitute mit Bankkoten zuerst</string>
+	<string name="financial_institution_cash_first">Finanzinstitut mit Kassenkonten zuerst</string>
+	<string name="view_financial_institution">Finanzinstitut ansehen</string>
+	<string name="edit_financial_institution">Finanzinstitut ändern</string>
+	<string name="call_financial_institution">Finanzinstitut anrufen</string>
+	<string name="new_financial_institution">Neues Finanzinstitut</string>
+	<string name="delete_financial_institution">Finanzinstitut löschen</string>
+	<string name="delete_financial_institution_warning_format">Finanzinstitut ^1 wird dauerhaft gelöscht und von allen Konten entfernt</string>
+	<string name="add_financial_institution_as_a_contact">Finanzinstitut als Kontakt hinzufügen</string>
+	<string name="financial_institution_exists">Ein Finanzinstitut mit diesem Namen existiert schon</string>
+    <string name="no_financial_institutions">Sie haben keine Finanzinstitute</string>
+    <string name="create_financial_institution_instructions_format">Um zu beginnen, drücken Sie ^i oben auf den Bildschirm</string>
+	<string name="view_financial_institutions">Finanzinstitute ansehen</string>
+	<string name="financial_institution_name">Name des Finanzinstituts</string>
+    <string name="contact_exists">Ein Kontakt mit dem Namen ist schon vorhanden</string>
+    <string name="link_financial_institution">Möchten Sie die Informationen zusammenführen</string>
+		
+	<string name="no_financial_institutions_yet">Noch keine Finanzinstitute</string>
+	<string-array name="financial_institution_count_format_plurals">
+		<item>1 Finanzinstitut</item>
+		<item>^1 Finanzinstitute</item>
+	</string-array>
+</resources>

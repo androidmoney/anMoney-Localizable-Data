@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="estimated_indicator">~</string>
+    <string name="recurring_bills_and_deposits">Factures i dipòsits recurrents</string>
+
+    <string name="recurring_bills_and_deposits_by_direction_order_format">Factures i dipòsits per ^2 ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="view_recurring">Mostrar recurrrents</string>
+	<string name="new_recurring">Nou recurrent</string>
+	<string name="enter">Enregistrar</string>
+	<string name="entered">Enregistrat</string>
+	<string name="enter_canceled">Enregistrar cancel·lat</string>
+	<string name="enter_into_register">Enregistrar</string>
+	<string name="enter_into_register_warning">Si us plau, confirmi que vol enregistrar-ho en aquest moment</string>
+	<string name="enter_now">Enregistrar-ho ara</string>
+	<string name="enter_after_editing">Enregistrar després d’editar</string>
+	<string name="enter_partially_after_editing">Enregistrar-ho parcialment després d’editar</string>
+	<string name="move_to_next_occurrence">Moure cap a la propera ocurrència</string>
+	<string name="remain_on_this_occurrence_format">Romandre en aquesta ocurrència, si la quantitat inserida és inferior a ^1</string>	    	    	
+	<string name="edit_recurring">Editar recurrència</string>
+	<string name="edit_series">Editar sèrie</string>
+	<string name="edit_occurrence">Edit ocurrència</string>
+	<string name="entire_series">Sèrie sensera</string>
+	<string name="edit_template_warning">Hi ha ocurrències futures personalitzades.\n\nA l’editar la sèrie s’esborraran aquestes personalitzacions</string>
+	<string name="delete_recurring">Esborrar recurrència</string>
+	<string name="delete_recurring_warning_part1_format">Esborrar ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="delete_recurring_warning_part2">Totes les ocurrències futures seran esborrades</string>
+	<string name="change_recurring_amount_format">Canviar l’import de la recurrència de ^1 a ^2</string> <!-- This is a question -->
+	<string name="skip">Saltar</string>
+	<string name="skip_occurrence">Saltar ocurrència</string>
+	<string name="skipped">Saltada</string>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item/> <!-- Not used -->
+		<item>Saltades ^1 ocurrències</item>
+	</string-array>
+	<string name="skip_canceled">Saltar cancel·lat</string>
+	<string name="skip_which">Saltar quina</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="skip_one_occurrence_warning">Saltar la propera ocurrència</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="no_recurrings_format">No té cap factura o dipòsit recurrent.\n\nPer a crear-ne un:\n\n<li>^1</li>\n\n<li>Toqui uns segons alguna transacció i després toqui ^2</li></string>
+    <string name="create_recurring_instructions_format">Toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
+	<string name="recurring_no_accounts_yet">Si us plau, crei comptes i beneficiaris abans d’afegir elements recurrents</string>
+	<string name="specify_account">Si us plau, especifiqui el compte en primer lloc</string>
+	<string name="account_and_amount">Compte i Import</string>
+	<string name="payee_and_category">Beneficiari i Categoria</string>
+	<string name="auto_enter_and_reminder">Enregistrament automàtic i Recordatori</string>
+	<string name="pay_by_check">Es paga a través de xec</string>
+	<string name="amount_is">L’import és</string>
+	<string name="fixed">Fix</string>
+	<string name="estimated">Aproximat</string>
+	<string name="estimated_amount_format">^1^2</string>
+	<string name="upcoming">Proper/a</string>
+	<string name="no_upcoming">Cap factura o dipòsit propers</string>
+	<string name="no_upcoming_bills">Cap factura propera</string>
+	<string name="no_upcoming_deposits">Cap dipòsit proper</string>
+	<string name="enter_automatically">Enregistrar automàticament</string>
+	<string name="notify_me">Notifica-m’ho</string>
+	<string name="entered_recurring_bill">Factura recurrent enregistrada</string>
+	<string name="cannot_auto_enter">Degut a possibles fluctuacions del tipus de canvi, les factures i dipòsits recurrents en els que estan involucrades transferències entre comptes amb diferents divises no seran enregistrades automàticament.\n\nHaurà d’enregistrar aquesta transacció manualment i especificar el tipus de canvi vigent</string>
+	<string name="entered_recurring_deposit">Dipòsit recurrent enregistrat</string>
+	<string name="notify_me_when_entered">Notifica’m a la Barra de Notificacions quan sigui enregistrat</string>
+	<string name="the_last_day_of_the_month">L’últim dia del mes</string>
+	<string name="include_in_budget">Incloure al pressupost</string>
+	<string name="include_recurrings">Incloure elements recurrents</string> <!-- as in "Include recurring items on report" -->
+	<string name="make_recurring_budget_question_part1">Vol que aquesta sèrie formi part del seu pressupost</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part2_format">Encara que toqui ^1, podrà canviar-ho més tard a l’editar la sèrie</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+		
+	<!-- These three below form a sentence -->
+	<string name="based_part1">Basat en</string>
+	<string name="based_part2_singular">l’última</string>
+	<string-array name="based_part2_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>les últimes ^1</item>
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>ocurrència</item>
+		<item>ocurrències</item>
+	</string-array>
+	<string name="end_date_if_any">Inclusive data de fi, si n’hi ha</string>
+	<string name="invalid_date">Data no vàlida</string>
+	<string name="repeat">Repetir</string>
+	<string name="every_1">Cada</string>
+	<string name="every_2"/> <!-- Intentionally left empty -->
+	<string name="every_3"/> <!-- Intentionally left empty -->
+	<string-array name="every_day_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_week_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_month_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_year_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+	</string-array>
+	<string name="never">Mai</string>
+	<string name="day_upper">Dia</string>
+	<string name="day_lower">dia</string>
+	<string name="days_upper">Dies</string>
+	<string name="daily">Cada dia</string>
+	<string name="week_upper">Setmana</string>
+	<string name="weeks_upper">Setmanes</string>
+	<string name="weekly">Cada setmana</string>
+	<string name="biweekly">Cada quinzena</string>
+	<string name="two_weeks">Dues setmanes</string>
+	<string name="month_upper">Mes</string>
+	<string name="month_lower">mes</string>
+	<string name="months_upper">Mesos</string>
+	<string name="monthly">Cada mes</string>
+	<string name="twice_a_month">Dos cops al mes</string>
+	<string name="quarters_upper">Trimestres</string>
+	<string name="half_year">Mig any</string>
+	<string name="half_yearly">Semi anualment</string>
+	<string name="year_upper">Any</string>
+	<string name="year_lower">any</string>
+	<string name="years_upper">Anys</string>
+	<string name="yearly">Cada any</string>
+	<string-array name="day_plurals">
+		<item>@string/day_lower</item>
+		<item>dies</item>
+	</string-array>
+	<string-array name="week_plurals">
+		<item>setmana</item>
+		<item>setmanes</item>
+	</string-array>
+	<string-array name="month_plurals">
+		<item>@string/month_lower</item>
+		<item>mesos</item>
+	</string-array>
+	<string-array name="year_plurals">
+		<item>@string/year_lower</item>
+		<item>anys</item>
+	</string-array>
+	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
+	<string name="if_it_falls_on_a_weekend">Si la data cau en cap de setmana</string>
+	<string name="skip_weekends">Saltar caps de setmana</string>
+	
+	<string name="no_recurrings_yet">Cap factura o dipòsit recurrent encara</string>
+	<string-array name="recurrings_count_format_plurals">
+		<item>1 factura o dipòsit recurrent</item>
+		<item>^1 factures o dipòsits recurrents</item>
+	</string-array>
+	
+	<string name="overdue_count_format">^1/^2</string>
+	<string name="overdue_format">^1 endarrerit</string>
+	<string-array name="overdue_count_plurals">
+		<item>^1 factura o dipòsit endarrerit</item>
+		<item>^1 factures o dipòsits endarrerits</item>
+	</string-array>
+
+	<string-array name="enter_into_register_fixed_amount_items">
+		<item>@string/enter_now</item>
+		<item>Editar la transacció en primer lloc</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">Fer servir la data d’avui a la transacció</string>
+
+	<string-array name="skip_which_items">
+		<item>Propera ocurrència</item>
+		<item>Totes les ocurrències endarrerides</item>
+	</string-array>
+
+	<string-array name="workday_adjustment_methods">
+		<item>No fer res</item>
+		<item>Moure a l’anterior dia de la setmana</item>
+		<item>Moure al següent dia de la setmana</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>El dia 1</item>
+		<item>El dia 2</item>
+		<item>El dia 3</item>
+		<item>El dia 4</item>
+		<item>El dia 5</item>
+		<item>El dia 6</item>
+		<item>El dia 7</item>
+		<item>El dia 8</item>
+		<item>El dia 9</item>
+		<item>El dia 10</item>
+		<item>El dia 11</item>
+		<item>El dia 12</item>
+		<item>El dia 13</item>
+		<item>El dia 14</item>
+		<item>El dia 15</item>
+		<item>El dia 16</item>
+		<item>El dia 17</item>
+		<item>El dia 18</item>
+		<item>El dia 19</item>
+		<item>El dia 20</item>
+		<item>El dia 21</item>
+		<item>El dia 22</item>
+		<item>El dia 23</item>
+		<item>El dia 24</item>
+		<item>El dia 25</item>
+		<item>El dia 26</item>
+		<item>El dia 27</item>
+		<item>El dia 28</item>
+		<item>El dia 29</item>
+		<item>El dia 30</item>
+		<item>El dia 31</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month_and_on_the">
+		<item>El dia 1 i el dia</item>
+		<item>El dia 2 i el dia</item>
+		<item>El dia 3 i el dia</item>
+		<item>El dia 4 i el dia</item>
+		<item>El dia 5 i el dia</item>
+		<item>El dia 6 i el dia</item>
+		<item>El dia 7 i el dia</item>
+		<item>El dia 8 i el dia</item>
+		<item>El dia 9 i el dia</item>
+		<item>El dia 10 i el dia</item>
+		<item>El dia 11 i el dia</item>
+		<item>El dia 12 i el dia</item>
+		<item>El dia 13 i el dia</item>
+		<item>El dia 14 i el dia</item>
+		<item>El dia 15 i el dia</item>
+		<item>El dia 16 i el dia</item>
+		<item>El dia 17 i el dia</item>
+		<item>El dia 18 i el dia</item>
+		<item>El dia 19 i el dia</item>
+		<item>El dia 20 i el dia</item>
+		<item>El dia 21 i el dia</item>
+		<item>El dia 22 i el dia</item>
+		<item>El dia 23 i el dia</item>
+		<item>El dia 24 i el dia</item>
+		<item>El dia 25 i el dia</item>
+		<item>El dia 26 i el dia</item>
+		<item>El dia 27 i el dia</item>
+		<item>El dia 28 i el dia</item>
+		<item>El dia 29 i el dia</item>
+		<item>El dia 30 i el dia</item>
+		<item>El dia 31 i el dia</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_month">L’últim dia del mes</string>
+	<string-array name="on_the_nth_day_of_the_week_format">
+		<item>El primer ^1</item>
+		<item>El segon ^1</item>
+		<item>El tercer ^1</item>
+		<item>El quart ^1</item>
+	</string-array>
+	<string-array name="on_the_nth_day_of_the_week_days">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string name="on_the_last_day_of_the_week_format">L’últim ^1</string>
+
+	<string name="work_week">Setmana laboral</string>
+	<string name="period_end_day_of_the_month">Últim dia del mes del període</string>
+	<string name="fiscal_year">Any fiscal</string>
+	
+	<string name="time_of_reminder">Hora del recordatori</string>
+	<string name="reminder_hour_of_day_change_warning">Si us plau, tingueu en compte que els recordatoris existents, si n’hi ha, <b>no</b> seran modificats. Per a fer-ho, si us plau, dirigiu-vos al calendari del vostre dispositiu i editeu els recordatoris allà.\n\nLa nova hora serà emprada pels nous recordatoris així com per a properes instàncies d’existents factures i dipòsits recurrents</string>
+
+	<string-array name="auto_enter_days_before">
+		<item>No enregistrar automàticament</item>
+		<item>A la data de venciment</item>
+		<item>El dia abans del venciment</item>
+		<item>Dos dies abans del venciment</item>
+		<item>Tres dies abans del venciment</item>
+		<item>Una setmana abans del venciment</item>
+		<item>Dues setmanes abans del venciment</item>
+		<item>Tres setmanes abans del venciment</item>
+		<item>Un mes abans del venciment</item>
+	</string-array>	
+	
+	<string-array name="days_before_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 dies abans</item>
+	</string-array>
+	
+	<string-array name="days_before_due_date_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 dies abans del venciment</item>
+	</string-array>
+	
+	<string name="specify_custom_number_of_days">Especificar nombre de dies</string>
+</resources>

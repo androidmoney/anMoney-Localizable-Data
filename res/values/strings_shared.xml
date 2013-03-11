@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="two_part_format">^1 ^2</string>
+    <string name="sentence_end_period_format">^1.</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="two_items_parantheses_format">^1 (^2)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 No. ^2</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+    <string name="ellipsize_format">^1…</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+    <string name="option_on_symbol">✓</string>
+    <string name="option_off_symbol">✗</string>
+    <string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 for ^2 by ^3 ^4 for ^5</string> <!-- Example: "All transactions for AMEX by decreasing date for all dates" -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="done">Done</string>
+    <string name="_continue">Continue</string>
+	<string name="continue_question">Continue</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="home">Home</string>
+	<string name="home_screen">Home screen</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="_import">Import</string>
+    <string name="imported">Imported</string>
+    <string name="importing">Importing</string>
+    <string name="import_canceled">Import cancelled</string>
+    <string name="export">Export</string>
+	<string name="exporting">Exporting</string>
+    <string name="export_canceled">Export cancelled</string>
+	<string name="import_export">Import/export</string>
+    <string name="settings">Settings</string>
+    <string name="display_options">Display options</string>
+    <string name="favorites">Favourites</string>
+    <string name="add_favorite">Add to favourites</string>
+    <string name="added_to_favorites">Added to favourites</string>
+    <string name="remove">Remove</string>
+    <string name="remove_favorite">Remove from favourites</string>
+    <string name="removed_from_favorites">Removed from favourites</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="save_canceled">Save cancelled</string>
+    <string name="canceled">Cancelled</string>
+    <string name="delete">Delete</string>
+    <string name="deleted">Deleted</string>
+    <string name="delete_canceled">Delete cancelled</string>
+    <string name="deleting">Deleting</string>
+    <string name="create">Create</string>
+    <string name="created">Created</string>
+    <string name="create_canceled">Create cancelled</string>
+	<string name="create_what">Create what</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">Edit</string>
+    <string name="edit_canceled">Edit cancelled</string>
+	<string name="edit_which">Edit which</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="copy">Copy</string>
+    <string name="copied">Copied</string>
+    <string name="move">Move</string>
+    <string name="moved">Moved</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="duplicated">Duplicated</string>
+    <string name="rename">Rename</string>
+    <string name="renamed">Renamed</string>
+    <string name="rename_canceled">Rename cancelled</string>
+    <string name="link">Link</string>
+    <string name="linked">Linked</string>
+    <string name="combine">Combine</string>
+    <string name="combined">Combined</string>
+    <string name="copy_to_clipboard">Copy to clipboard</string>
+    <string name="set">Set</string>
+    <string name="show">Show</string>
+	<string name="share">Share</string>
+	<string name="share_canceled">Share cancelled</string>
+    <string name="create_in_app_name_format">Create in ^1</string>
+    <string name="pick_from_app_name_format">Pick from ^1</string>
+    <string name="do_not_ask_again">Do not ask again</string>
+    <string name="apply_to_all">Apply to all</string>
+	<string name="all_items">All items</string>
+    <string name="notes">Notes</string>
+    <string name="no_notes">No notes yet</string>
+    <string name="required">Required</string>
+    <string name="name">Name</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="name_exists">Name exists</string>
+    <string name="amount">Amount</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="must_be_less_than_format">Must be &lt; ^1</string>
+    <string name="must_be_greater_than_format">Must be > ^1</string>
+    <string name="reset">Reset</string>
+    <string name="total">Total</string>
+    <string name="grand_total">Grand total</string>
+    <string name="average">Average</string>
+    <string name="export_file_name">Export file name</string>
+    <string name="specify_export_file_name">Specify export file name</string>
+    <string name="file_exists">A file with that name already exists</string>
+    <string name="folder_exists">A folder with that name already exists</string>
+    <string name="choose_another_name">Choose another name</string>
+    <string name="will_be_overwritten">It will be overwritten</string>
+    <string name="calendar">Calendar</string>
+    <string name="remind_me">Remind me</string>
+    <string name="add_as_a_contact">Add as a contact</string>
+    <string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
+    <string name="to">To</string> <!-- To <account> -->
+    <string name="from">From</string> <!-- From <account> -->
+	<string name="send_email">Send email</string>
+	<string name="please_read">Please read</string>
+	<string name="rate_app_format">Rate ^1</string>
+	<string name="please_rate_app_format">Please take a moment\nto rate ^1</string>
+	<string name="later_rate_description">You will be reminded in about a week</string>
+	<string name="no_rate_description_format">You can do this at any time from the ^1 screen</string>
+	<string name="task_killer_warning_format">Warning about “task killer” apps:\n\nYour device will “wake up” once a day to perform automatic processing. Since this processing only lasts a few seconds, it will not have a detrimental effect on the battery life of your device.\n\nTask killers can and will prevent this background processing from properly executing and should not be used with ^1</string>
+	<string name="no_thanks">No, thanks</string>
+	<string name="maybe_later">Maybe later</string>
+	<string name="unexpected_error_warning">An unexpected error occurred forcing anMoney to stop.\n\nPlease help us fix this by emailing us an error report. You will have a chance to edit the email before it is sent.\n\nThanks for your cooperation.</string>
+    <string name="unexpected_error_notification_ticker">Unexpected error. Please send a report.</string>
+    <string name="unexpected_error_notification_title">anMoney has stopped</string>
+    <string name="unexpected_error_notification_text">Tap here to send a report.</string>
+    <string name="unexpected_error_comment">If you’d like, please describe what you were doing when the problem occurred</string>
+	<string name="archiving">Archiving</string>
+	<string name="archiving_settings">Archiving settings</string>
+    <string name="more">More</string>
+    <string name="specify_export_options">Specify export options</string>
+	<string name="select_all">Select all</string>
+	<string name="unselect_all">Unselect all</string>
+	<string name="expand_all">Expand all</string>
+	<string name="all_expanded">All expanded</string>
+	<string name="collapse_all">Collapse all</string>
+	<string name="all_collapsed">All collapsed</string>
+    <string name="postal_address">Postal address</string>
+    <string name="postal_address_hint">Street\nTown\nPostal Code</string>
+    <string name="cannot_perform_sd_card_operation">This operation cannot be performed right now as either there is no SD card in your device, or your device is currently connected to your computer making the SD card inaccessible</string>
+    <string name="cannot_perform_file_system_operation_format">This operation cannot be performed right now as the internal memory path (^1) is not accessible</string>
+    <string name="please_correct_and_try_again">Please correct and try again</string>
+    <string name="no_network_message_format">^1 requires periodic network access for license verification purposes.\n\nPlease enable the network, and, once you have data connection, try again. You may disable the network afterwards.\n\nTapping ^2 will take you to the <b>Wireless &amp; networks</b> settings</string>
+    <string name="calculator">Calculator</string>
+    <string name="only_in_full_version">Only in the PRO version</string>
+    <string name="will_not_effect_transactions">This will <b>not</b> affect any existing transactions</string>
+    
+	<string name="free_limitations">Purchase the PRO version on the <b>Google Play</b> or the <b>Amazon Appstore</b> to remove the following limitations:\n\n
+	<li>No password security</li>\n
+	<li>No auto backups of your data</li>\n
+	<li>No custom reports</li>\n
+	<li>QIF imports only</li>\n
+	<li>No Contacts integration</li>\n
+	<li>At most 2 bank, 1 credit and 1 cash account</li>\n
+	<li>At most 5 budget items</li>\n
+	<li>At most 3 recurring bills or deposits</li> 
+	</string>
+
+	<string name="no_items">No items</string>
+    <string name="no_items_yet">No items yet</string>
+	<string-array name="items_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 items</item>
+    </string-array>
+    
+	<string-array name="selected_format_plurals">
+        <item>1 selected</item>
+        <item>^1 selected</item>
+    </string-array>
+    
+    <string-array name="reminder_leads">
+        <item>Do not remind me</item>
+        <item>That day</item>
+        <item>Day before</item>
+        <item>Two days before</item>
+        <item>A week before</item>
+        <item>Two weeks before</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1<sup><small>st</small></sup></item>
+		<item>2<sup><small>nd</small></sup></item>
+		<item>3<sup><small>rd</small></sup></item>
+		<item>4<sup><small>th</small></sup></item>
+		<item>5<sup><small>th</small></sup></item>
+		<item>6<sup><small>th</small></sup></item>
+		<item>7<sup><small>th</small></sup></item>
+		<item>8<sup><small>th</small></sup></item>
+		<item>9<sup><small>th</small></sup></item>
+		<item>10<sup><small>th</small></sup></item>
+		<item>11<sup><small>th</small></sup></item>
+		<item>12<sup><small>th</small></sup></item>
+		<item>13<sup><small>th</small></sup></item>
+		<item>14<sup><small>th</small></sup></item>
+		<item>15<sup><small>th</small></sup></item>
+		<item>16<sup><small>th</small></sup></item>
+		<item>17<sup><small>th</small></sup></item>
+		<item>18<sup><small>th</small></sup></item>
+		<item>19<sup><small>th</small></sup></item>
+		<item>20<sup><small>th</small></sup></item>
+		<item>21<sup><small>st</small></sup></item>
+		<item>22<sup><small>nd</small></sup></item>
+		<item>23<sup><small>rd</small></sup></item>
+		<item>24<sup><small>th</small></sup></item>
+		<item>25<sup><small>th</small></sup></item>
+		<item>26<sup><small>th</small></sup></item>
+		<item>27<sup><small>th</small></sup></item>
+		<item>28<sup><small>th</small></sup></item>
+		<item>29<sup><small>th</small></sup></item>
+		<item>30<sup><small>th</small></sup></item>
+		<item>31<sup><small>st</small></sup></item>
+	</string-array>
+
+    <string name="display_direction">Display direction</string>
+	<string-array name="sort_direction_items">
+		<item>Increasing</item>
+		<item>Decreasing</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>increasing</item>
+		<item>decreasing</item>
+	</string-array>
+</resources>

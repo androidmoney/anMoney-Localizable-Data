@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency">Валюта</string>
+    <string name="currencies">Валюты</string>
+    <string name="edit_currency">Изменить валюту</string>
+    <string name="set_as_base_currency">Назначить основной валютой</string>
+    <string name="base_currency_set">Основная валюта назначена</string>
+    <string name="exchange_rate">Курс</string>
+    <string name="exchange_rates">Курсы обмена</string>
+    <string name="country">Страна</string>
+    <string name="region">Регион</string>
+    <string name="currency_name">Название валюты</string>
+    <string name="symbol">Символ</string>
+    <string name="symbol_required">Укажите символ</string>
+    <string name="exchange_rate_required">Укажите курс обмена</string>
+    <string name="view_currencies">Показать валюты</string>
+    <string name="tap_to_modify_converted_amounts">Нажмите для изменения сумм</string>
+    <string name="currency_converter">Конвертер валют</string>
+    <string name="invert">Обратить</string>
+    <string name="save_exchange_rate">Запомнить значение курса</string>
+    <string name="all_currencies">Все валюты</string>
+	<string name="used_currencies">Используемые валюты</string>
+	<string name="and_prior_format">^1 и ранее</string>
+	
+	<string-array name="currency_list_status_filter_title_bar">
+		<item>@string/all_currencies</item>
+		<item>@string/used_currencies</item>
+	</string-array>
+
+	<string-array name="currency_list_sort_order_title_bar">
+		<item>названию</item>
+		<item>региону</item>
+	</string-array>
+
+	<string-array name="currency_count_format_plurals">
+	    <item>^1 валюта</item>
+        <item>^1 валюты</item>
+        <item>^1 валют</item>
+	</string-array>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="report">Rapport</string>
+    <string name="reports">Rapports</string>
+	<string name="view_report">Voir le rapport</string>
+	<string name="view_reports">Voir les rapports</string>
+	<string name="report_canceled">Rapport annulé</string>
+	<string name="export_report">Exporter le rapport</string>
+	<string name="report_exported">Exporté avec succès sur la carte SD</string>
+	<string name="share_report">Partager le rapport</string>
+	<string name="report_settings">Paramètres du rapport</string>
+	<string name="creating_report">Création du rapport</string>
+	<string name="updating_report">Mise à jour du rapport</string>
+	<string name="custom_dates">Dates personnalisées</string>
+	<string name="other">Autre</string>
+	<string name="report_empty">Il n’y a pas de données à afficher</string>
+    <string name="report_settings_instructions_format">Pour modifier les paramètres du rapport, appuyez sur ^i en haut de l’écran</string>
+	<string name="reset_report_settings">Les paramètres seront remis à leurs valeurs par défaut</string>
+	<string name="settings_reset">Paramètres par défaut</string>
+	<string name="reset_canceled">Remise par défaut annulée</string>
+	<string name="report_settings_tip">Pour modifier les paramètres d’un rapport:\n\n<li>Appuyez longuement sur le nom du rapport et tapez sur <b>Paramètres du rapport</b></li>\n\n<li>Appuyez sur l’icône en haut et à droite de l’écran une fois le rapport affiché</li></string>
+	<string name="report_name">Nom du rapport</string>
+	<string name="all_reports">Tous les rapports</string>
+	<string name="favorite_reports">Rapports favoris</string>
+	<string name="save_report_as">Enregistrer le rapport</string>
+	<string name="delete_report">Supprimer le rapport</string>
+	<string name="rename_report">Renommer le rapport</string>
+    <string name="duplicate_report">Dupliquer le rapport</string>
+	<string name="delete_report_warning_format">Le rapport ^1 sera définitivement supprimé</string>
+	<string name="report_type">Type de rapport</string>
+	<string name="group">Grouper</string>
+	<string name="do_not_group">Ne pas grouper</string>
+	<string name="today">Aujourd’hui</string>
+	<string name="tomorrow">Demain</string>
+	<string name="yesterday">Hier</string>
+	<string name="select_report">Sélectionner le rapport</string>
+	
+	<string-array name="report_count_format_plurals">
+		<item>1 rapport</item>
+		<item>^1 rapports</item>
+	</string-array>
+
+	<string name="chart_type">Type de graphique</string>
+	<string name="text_report">Rapport texte</string>
+	<string name="pie_chart">Camembert</string>
+	<string name="line_chart">Courbes</string>
+	<string name="bar_chart">Histogrammes</string>
+
+	<string name="page_format">Page ^1</string>
+
+	<string name="page_size">Taille de la page</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Lettre</item>
+		<item>Légal</item>
+		<item>Tabloïd</item>
+	</string-array>
+
+	<string name="page_orientation">Orientation de la page</string>
+	<string-array name="page_orientation_items">
+		<item>Portrait</item>
+		<item>Paysage</item>
+	</string-array>
+
+	<string name="amounts_on_charts">Afficher les montants dans les graphiques</string>
+	<string name="percentages_on_pie_charts">Afficher les pourcentages dans les camemberts</string>
+	<string name="create_settings_page">Créer page de paramètres</string>
+	<string name="create_settings_page_description">Si l’option est sélectionnée, une page résumant les paramètres du rapport sera créée lors de l’envoi ou de l’exportation d’un document PDF</string>
+		
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Page web</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Lisible par les applications de tableur, telles que Microsoft® Excel ou Google™ Docs</item>
+		<item>Convient pour l’impression ou la création d’un rapport papier. Nécessite Adobe Reader ou un autre lecteur PDF</item>
+		<item>Convient pour la publication sur un site web ou pour la visualisation dans un navigateur web</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Spécifier le format de partage</string>
+
+	<string-array name="report_list_status_filter_title_bar">
+		<item>@string/all_reports</item>
+		<item>@string/favorite_reports</item>
+	</string-array>
+</resources>

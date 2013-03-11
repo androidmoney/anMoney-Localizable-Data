@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="FilePicker_open_folder">Mappa nyitása</string>
+	<string name="FilePicker_select_file">Fájl kijelölése</string>
+	<string name="FilePicker_deselect_file">Fájl kijelölésének törlése</string>
+	<string name="FilePicker_delete_file">Fájl törlése</string>
+	<string name="FilePicker_go_to_parent_folder">Szülőmappához ugrás</string>
+</resources>

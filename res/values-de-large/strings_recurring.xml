@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
+    <string name="notify_me_when_entered">Benachrichtigung wenn eingegeben</string>
+</resources>

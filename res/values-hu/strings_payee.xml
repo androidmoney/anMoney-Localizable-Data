@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_payee">Kedvezményezett megtekintése</string>
+    <string name="edit_payee">Kedvezményezett módosítása</string>
+    <string name="new_payee">Új kedvezményezett</string>
+    <string name="call_payee">Kedvezményezett felhívása</string>
+    <string name="delete_payee">Kedvezményezett törlése</string>
+    <string name="delete_payee_warning_format">A kedvezményezett ^1 véglegesen le lesz törölve</string>
+    <string name="delete_from_app_format">Törölje a ^1-ból is</string>
+    <string name="add_payee_as_a_contact">Kedvezményezett hozzáadása személyként</string>
+    <string name="payee">Kedvezményezett</string>
+    <string name="payer">Fizető</string>
+	<string name="payees">Kedvezményezettek</string>
+    <string name="payee_required">Kedvezményezett kötelező</string>
+    <string name="payer_required">Fizető kötelező</string>
+    <string name="call">Felhív</string>
+    <string name="view_address">Cím megtekintése</string>
+    <string name="map_address">Cím térképezése</string>
+    <string name="no_payees">Nincsenek kedvezményezettjei</string>
+    <string name="create_payee_instructions_format">Kedvezményezett létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
+    <string name="payee_transaction_list_empty">Nincsenek tranzakciói ezzel a kedvezményezettel</string>
+    <string name="payee_exists">Egy kedvezményezett már létezik ezzel a névvel</string>
+    <string name="combine_payees">Szeretné egyesíteni a két kedvezményezettet</string>
+    <string name="payee_name">Kedvezményezett neve</string>
+    <string name="link_payee">Szeretné hozzákapcsolni ezt a kedvezményezettet a már meglévő személyhez</string>
+    <string name="account_number">Számlaszám</string>
+    <string name="phone">Telefon</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email cím</string>
+    <string name="url">URL</string>
+    <string name="web_address">Honlap</string>
+    <string name="select_account">Válasszon számlát/ákat</string>
+    <string name="open_web_page">Weboldal megnyitása</string>
+    <string name="view_payees">Kedvezményezettek megtekintése</string>
+    <string name="default_payee_name">Kedvezményezettem</string>
+	<string name="spending_by_payee">Költés kedvezményezettenként</string>
+    <string name="all_payees_hidden_by_filter">A szűrő elrejtette az összes kedvezményezettet</string>
+        
+    <string name="without_payee">Kedvezményezett nélkül</string>
+    <string name="no_payees_yet">Nincsenek még kedvezményezettek</string>
+	<string-array name="payee_count_format_plurals">
+        <item>^1 kedvezményezett</item>
+    </string-array>
+
+	
+	
+    <string name="all_payees">Összes kedvezményezett</string>
+	<string name="payees_in_open_accounts">Kedvezményezettek nyitott számlában</string>
+	<string name="payees_in_closed_accounts_only">Kedvezményezettek csak lezárt számlában</string>
+	<string name="unused_payees">Nem használt kedvezményezettek</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

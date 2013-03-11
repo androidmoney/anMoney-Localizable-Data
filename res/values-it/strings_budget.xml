@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="budget">Budget</string>
+    <string name="view_budget">Visualizza budget</string>
+    <string name="edit_budget_item">Modifica voce del budget</string>
+    <string name="new_budget_item">Nuova voce del budget</string>
+    <string name="expenses_over_budget">Spese fuori budget</string>
+    <string name="expenses_within_budget">Spese all’interno del budget</string>
+    <string name="budgeted_amount">Preventivati</string>
+<!-- New --> <string name="actual_amount">Reale</string>
+    <string name="remainder_amount">Rimanenza</string>
+<!-- New --> <string name="budget_vs_actual">Preventivati vs. Reale</string> <!-- This is a report name -->
+	<string name="budget_over_time">Budget nel tempo</string>
+    <string name="recurring_bill_or_deposit_from">Spese ricorrenti o depositi da</string>
+    <string name="an_additional_amount_for_this_category">Un importo aggiuntivo per questa categoria</string>
+    <string name="the_additional_amount_for_this_category">Importo aggiuntivo per questa categoria</string>
+	<string name="currently_weekly_format">attualmente ^1 settimanali</string>
+
+	<string name="currently_monthly_format">attualmente ^1 mensili</string>
+    <string name="currently_half_yearly_format">attualmente ^1 félévente</string>
+<!-- New --> <string name="currently_yearly_format">attualmente ^1 semestrali</string>
+    <string name="currently_custom_format">attualmente una stima personalizzata per un totale di ^1 annuali</string>
+    <string name="budget_no_categories_yet">Si prega di creare delle categorie prima di impostare il bilancio</string>
+    <string name="select_budget_period">Seleziona un periodo del budget da visualizzare</string>
+    <string name="all_other_spending">Tutte le altre spese</string>
+    <string name="special_item">Voce speciale</string>
+    <string name="no_budget_items">Non hai impostato nessuna voce nel budget</string>
+<!-- New --> <string name="create_budget_item_instructions_format">Per creare voci nel budget, toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an image -->
+    <string name="customized_schedule">Personalizza stima</string>
+<!-- New --> <string name="include_budget_items">Includi voci del budget</string> <!-- as in "Include budget items on report" -->
+</resources>

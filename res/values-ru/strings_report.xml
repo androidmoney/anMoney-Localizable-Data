@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="report">Отчёт</string>
+    <string name="reports">Отчёты</string>
+    <string name="view_report">Показать отчёт</string>
+    <string name="view_reports">Показать отчёты</string>
+	<string name="report_canceled">Отчёт отменён</string>
+    <string name="export_report">Экспортировать отчёт</string>
+    <string name="report_exported">Успешно экспортирован на карту SD</string>
+	<string name="share_report">Отправить отчёт</string>
+    <string name="report_settings">Настройки отчёта</string>
+    <string name="creating_report">Создание отчёта</string>
+    <string name="updating_report">Обновление отчёта</string>
+    <string name="custom_dates">Произвольный период</string>
+    <string name="other">Прочие</string>
+	<string name="report_empty">Данные не найдены</string>
+    <string name="report_settings_instructions_format">Для изменения настроек отчёта, нажмите ^i в верхней части экрана</string>
+    <string name="reset_report_settings">Настройки будут сброшены в состояние по умолчанию</string>
+    <string name="settings_reset">Сброс настроек</string>
+    <string name="reset_canceled">Сброс отменён</string>
+    <string name="report_settings_tip">Для изменения настроек отчёта:\n\n<li>Нажмите и удержите имя отчёта, затем выберите <b>Настройки отчёта</b></li>\n\n<li>Во время просмотра отчёта нажмите иконку в верхней правой части экрана</li></string>
+	<string name="report_name">Название отчёта</string>
+	<string name="all_reports">Все отчёты</string>
+	<string name="favorite_reports">Избранные отчёты</string>
+	<string name="save_report_as">Сохранить отчёт как</string>
+	<string name="delete_report">Удалить отчёт</string>
+    <string name="rename_report">Переименовать отчёт</string>
+    <string name="duplicate_report">Сделать отчёт</string>
+    <string name="delete_report_warning_format">Отчёт ^1 будет безвозвратно удалён</string>
+	<string name="report_type">Тип отчёта</string>
+    <string name="group">Группировать</string>
+	<string name="do_not_group">Не группировать</string>
+    <string name="today">Сегодня</string>
+	<string name="tomorrow">Завтра</string>
+	<string name="yesterday">Вчера</string>
+    <string name="select_report">Выберите отчёт</string>
+	
+	<string-array name="report_count_format_plurals">
+	    <item>^1 отчёт</item>
+		<item>^1 отчёта</item>
+		<item>^1 отчётов</item>
+	</string-array>
+
+    <string name="chart_type">Вид отчёта</string>
+	<string name="text_report">Текстовый отчёт</string>
+	<string name="pie_chart">Круговая диаграмма</string>
+	<string name="line_chart">График</string>
+	<string name="bar_chart">Гистограмма</string>
+
+    <string name="page_format">Страница ^1</string>
+
+    <string name="page_size">Размер страницы</string>
+	<string-array name="page_size_items">
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>B5</item>
+        <item>Letter</item>
+        <item>Legal</item>
+        <item>Tabloid</item>
+    </string-array>
+
+    <string name="page_orientation">Ориентация страницы</string>
+	<string-array name="page_orientation_items">
+        <item>Портретная</item>
+        <item>Ландшафтная</item>
+    </string-array>
+
+	<string name="amounts_on_charts">Показывать суммы на графиках</string>
+	<string name="percentages_on_pie_charts">Показывать проценты на круговых диаграммах</string>
+	<string name="create_settings_page">Создать страницу с параметрами</string>
+	<string name="create_settings_page_description">Если отмечено, при отправке или экспорте PDF документа будет создана страница с параметрами отчёта</string>
+		
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+		<item>Веб-страница</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+        <item>Подходит для таких приложений, как Microsoft® Excel или Google™ Docs</item>
+        <item>Подходит для печати. Требуется Adobe Reader или другое приложение для просмотра PDF</item>
+		<item>Подходит для публикации на веб-сайте или просмотра в браузере</item>
+    </string-array>
+
+	<string name="specify_format_to_share_as">Выберите формат для отправки</string>
+</resources>

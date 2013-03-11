@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="based_part2_singular">l’última</string>
+	<string-array name="based_part2_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>les últimes ^1</item>
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>ocurrència</item>
+		<item>ocurrències</item>
+	</string-array>
+</resources>

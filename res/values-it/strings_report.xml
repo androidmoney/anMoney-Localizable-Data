@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="report">Report</string>
+    <string name="reports">Reports</string>
+	<string name="view_report">Visualizza report</string>
+	<string name="view_reports">Visualizza reports</string>
+	<string name="report_canceled">Report cancellato</string>
+	<string name="export_report">Esporta report</string>
+	<string name="report_exported">Esportato con successo nella memoria SD</string>
+<!-- New --> <string name="share_report">Spedisci report</string>
+	<string name="report_settings">Parametri report</string>
+	<string name="creating_report">Crea report</string>
+	<string name="updating_report">Aggiorna report</string>
+	<string name="custom_dates">Personalizza date</string>
+	<string name="other">Altro</string>
+	<string name="report_empty">Non vi sono dati da visualizzare</string>
+<!-- New --> <string name="report_settings_instructions_format">Per modificare i parametri del report, toccare ^i nella parte superiore dello schermo</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">I parametri saranno cancellati e impostati quelli predefiniti</string>
+	<string name="settings_reset">Reset parametri</string>
+	<string name="reset_canceled">Reset cancellato</string>
+<!-- New --> <string name="report_settings_tip">Per cambiare i parametri di un report:\n\n<li>Tieni premuto sul nome del report e seleziona <b>Parametri report</b></li>\n\n<li>Toccare l’icona nell’angolo in alto a destra dello schermo, mentre il report viene visualizzato</li></string>
+	<string name="report_name">Nome report</string>
+	<string name="all_reports">Tutti i reports</string>
+	<string name="favorite_reports">Reports favoriti</string>
+	<string name="save_report_as">Salva report come</string>
+	<string name="delete_report">Elimina report</string>
+    <string name="rename_report">Rinomina report</string>
+    <string name="duplicate_report">Duplica report</string>
+    <string name="delete_report_warning_format">Report ^1 sarà definitivamente eliminato</string>
+	<string name="report_type">Tipo report</string>
+<!-- New --> <string name="group">Raggruppare</string>
+<!-- New --> <string name="do_not_group">Non raggruppare</string>
+	<string name="today">Oggi</string>
+	<string name="tomorrow">Domani</string>
+	<string name="yesterday">Ieri</string>
+<!-- New --> <string name="select_report">Selezionare report</string>	
+		
+	<string-array name="report_count_format_plurals">
+		<item>1 report</item>
+		<item>^1 reports</item>
+	</string-array>
+
+	<string name="chart_type">Tipo grafico</string>
+	<string name="text_report">Testo report</string>
+	<string name="pie_chart">Grafico torta</string>
+	<string name="line_chart">Grafico linea</string>
+	<string name="bar_chart">Grafico bar</string>
+
+	<string name="page_format">Pagina ^1</string>
+
+	<string name="page_size">Dimensione pagina</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Letter</item>
+		<item>Legal</item>
+		<item>Tabloid</item>
+	</string-array>
+
+	<string name="page_orientation">Orientamento pagina</string>
+	<string-array name="page_orientation_items">
+		<item>Verticale</item>
+		<item>Orizzontale</item>
+	</string-array>
+
+	<string name="amounts_on_charts">Mostra gli importi sui grafici</string>
+	<string name="percentages_on_pie_charts">Mostra percentuali sui grafici a torta</string>
+<!-- New --> <string name="create_settings_page">Creare pagina parametri</string>
+<!-- New --> <string name="create_settings_page_description">If selected, a page with the report settings will be created when sending or exporting a PDF document</string>
+		
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Web page</item>
+    </string-array>
+
+   	<string-array name="report_export_file_type_description">
+		<item>Leggibile da applicazioni di foglio elettronico, come Microsoft® Excel™ o Google Docs</item>
+		<item>Adatto per la stampa o la creazione di un registro cartaceo. Richiede Adobe Reader o un altro visualizzatore di PDF</item>
+		<item>Adatto per la pubblicazione su un sito web o per la visualizzazione in un browser Web</item>
+	</string-array>
+
+<!-- New --> <string name="specify_format_to_share_as">Specificare il formato da inviare</string>
+
+	<string-array name="report_list_status_filter_title_bar">
+		<item>@string/all_reports</item>
+		<item>@string/favorite_reports</item>
+	</string-array>
+</resources>

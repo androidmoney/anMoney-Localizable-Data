@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_payee">Просмотр получателя</string>
+    <string name="edit_payee">Изменить получателя</string>
+    <string name="new_payee">Новый получатель</string>
+    <string name="call_payee">Позвонить</string>
+    <string name="delete_payee">Удалить получателя</string>
+    <string name="delete_payee_warning_format">Получатель ^1 будет удалён</string>
+    <string name="delete_from_app_format">Также удалить из ^1</string>
+    <string name="add_payee_as_a_contact">Добавить в контакты</string>
+    <string name="payee">Получатель</string>
+    <string name="payer">Плательщик</string>
+    <string name="payees">Получатели</string>
+    <string name="payee_required">Укажите получателя</string>
+    <string name="payer_required">Укажите плательщика</string>
+    <string name="call">Позвонить</string>
+    <string name="view_address">Показать почтовый адрес</string>
+    <string name="map_address">Показать на карте</string>
+    <string name="no_payees">Отсутствуют получатели</string>
+    <string name="create_payee_instructions_format">Для создания нового получателя, нажмите ^i в верхней части экрана</string>
+    <string name="payee_transaction_list_empty">Нет транзакций по этому получателю</string>
+    <string name="payee_exists">Получатель с таким именем уже есть</string>
+    <string name="combine_payees">Объединить двух получателей</string>
+    <string name="payee_name">Имя получателя</string>
+    <string name="link_payee">Связать получателя с существующим контактом</string>
+    <string name="account_number">Номер счёта</string>
+    <string name="phone">Телефон</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="email">Email</string>
+    <string name="email_address">Адрес email</string>
+    <string name="url">URL</string>
+    <string name="web_address">Сайт</string>
+    <string name="select_account">Выберите счёт</string>
+    <string name="open_web_page">Открыть сайт</string>
+    <string name="view_payees">Показать получателей</string>
+    <string name="default_payee_name">Новый получатель</string>
+    <string name="spending_by_payee">Расходы по получателям</string>
+    <string name="all_payees_hidden_by_filter">Нет получателей, удовлетворяющих условиям фильтра</string>
+
+    <string name="without_payee">Без получателя</string>
+    <string name="no_payees_yet">Нет получателей</string>
+	<string-array name="payee_count_format_plurals">
+	    <item>^1 получатель</item>
+	    <item>^1 получателя</item>
+	    <item>^1 получателей</item>
+	</string-array>
+
+    <string name="all_payees">Все получатели</string>
+	<string name="payees_in_open_accounts">Получатели в открытых счетах</string>
+	<string name="payees_in_closed_accounts_only">Получатели только в закрытых счетах</string>
+	<string name="unused_payees">Неиспользуемые получатели</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>дате</item>
+        <item/> <!-- Not used -->
+		<item>названию</item>
+		<item>сумме</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

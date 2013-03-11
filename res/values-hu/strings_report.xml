@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="report">Jelentés</string>
+    <string name="reports">Jelentések</string>
+	<string name="view_report">Jelentés megtekintése</string>
+	<string name="view_reports">Jelentések megtekintése</string>
+	<string name="report_canceled">Jelentés készítése megszakítva</string>
+	<string name="export_report">Jelentés exportálása</string>
+	<string name="report_exported">Exportálta a jelentést az SD-kártyára</string>
+	<string name="share_report">Jelentés megosztása</string>
+	<string name="report_settings">Jelentés beállításai</string>
+	<string name="creating_report">Jelentés készítése</string>
+	<string name="updating_report">Jelentés frissítése</string>
+	<string name="custom_dates">Egyéni dátumok</string>
+	<string name="other">Más</string>
+	<string name="report_empty">Nincs megjeleníthető adat</string>
+    <string name="report_settings_instructions_format">Jelentés beállításához érintse meg a ^i -ot a képernyő tetején</string>
+	<string name="reset_report_settings">A beállítások vissza lesznek állítva az alapértékeikre</string>
+	<string name="settings_reset">Beállítások visszaállítva</string>
+	<string name="reset_canceled">Visszaállítás megszakítva</string>
+    <string name="report_settings_tip">Hogy módosítsa a jelentés beállításait:\n\n<li>Hosszú-érintse meg a jelentés nevét és érintse meg a <b>Jelentés beállításai</b>-t</li>\n\n<li>Érintse meg az ikont a jobb felső sarokban, amíkor nézi a jelentést</li></string>
+	<string name="report_name">Jelentés neve</string>
+	<string name="all_reports">Összes jelentés</string>
+	<string name="favorite_reports">Kedvenc jelentések</string>
+	<string name="save_report_as">Jelentés mentése, mint</string>
+	<string name="delete_report">Jelentés törlése</string>
+    <string name="rename_report">Jelentés átnevezés</string>
+    <string name="duplicate_report">Jelentés másolása</string>
+    <string name="delete_report_warning_format">A jelentés ^1 véglegesen le lesz törölve</string>
+	<string name="report_type">Jelentés típusa</string>
+	<string name="group">Csoportosítás</string>
+	<string name="do_not_group">Nincs csoportosítva</string>
+	<string name="today">Ma</string>
+	<string name="tomorrow">Holnap</string>
+	<string name="yesterday">Tegnap</string>
+	<string name="select_report">Válassza ki a jelentést</string>
+    		
+	<string-array name="report_count_format_plurals">
+		<item>^1 jelentés</item>
+	</string-array>
+	
+	
+	<string name="chart_type">Diagram típusa</string>
+	<string name="text_report">Szöveges jelentés</string>
+	<string name="pie_chart">Kördiagram</string>
+	<string name="line_chart">Vonaldiagram</string>
+	<string name="bar_chart">Sávdiagram</string>
+
+	<string name="page_format">^1</string>
+
+	<string name="page_size">Oldalméret</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Levél</item>
+		<item>Jogi</item>
+		<item>Bulvárlap</item>
+	</string-array>
+
+	<string name="page_orientation">Oldal tájolása</string>
+	<string-array name="page_orientation_items">
+		<item>Portré</item>
+		<item>Tájkép</item>
+	</string-array>
+
+	<string name="amounts_on_charts">Összegek mutatása a diagramokon</string>
+	<string name="percentages_on_pie_charts">Százalékok mutatása a kördiagramon</string>
+	<string name="create_settings_page">Beállítási lap készítése</string>
+	<string name="create_settings_page_description">Ha jelölt, egy beállításokat mutató lap lesz késztítve a jelentés exportálásakor / küldésekor (csak a PDF-en)</string>
+			
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Weboldal</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Olvashatja egy táblázatkezelő szoftverrel, mint például a Microsoft® Excel vagy a Google™ Docs</item>
+		<item>Használható nyomtatásra vagy egy papíralap létrehozására. Szüksége lesz az Adobe Reader-re vagy egy hasonló PDF néző szoftverre</item>
+		<item>Használható honlapon való közzétételre, vagy megtekintésre böngészőben</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Válassza ki a megosztási formátumot</string>
+
+	<string-array name="report_list_status_filter_title_bar">
+		<item>@string/all_reports</item>
+		<item>@string/favorite_reports</item>
+	</string-array>
+</resources>

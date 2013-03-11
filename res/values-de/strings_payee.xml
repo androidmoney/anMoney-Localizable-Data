@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="view_payee">Empfänger ansehen</string>
+	<string name="edit_payee">Empfänger  ändern</string>
+	<string name="new_payee">Neuer Empfänger</string>
+	<string name="call_payee">Empfänger  anrufen</string>
+	<string name="delete_payee">Empfänger  löschen</string>
+	<string name="delete_payee_warning_format">Empfänger ^1 wird dauerhaft gelöscht</string>
+	<string name="delete_from_app_format">Ebenso löschen von ^1</string>
+	<string name="add_payee_as_a_contact">Empfänger als Kontakt hinzufügen</string>
+	<string name="payee">Empfänger</string>
+	<string name="payer">Zahler</string>
+	<string name="payees">Empfänger</string>
+	<string name="payee_required">Empfänger benötigt</string>
+	<string name="payer_required">Zahler benötigt</string>
+	<string name="call">Anrufen</string>
+	<string name="view_address">Postadresse ansehen</string>
+	<string name="map_address">Adresse auf Landkarte</string>
+    <string name="no_payees">Sie haben keine Empfänger</string>
+    <string name="create_payee_instructions_format">Um zu beginnen, drücken Sie ^i oben auf den Bildschirm</string>
+	<string name="payee_transaction_list_empty">Sie haben keine Transaktionen für diesen Empfänger</string>
+	<string name="payee_exists">Ein Empfänger mit diesem Namen existiert schon</string>
+    <string name="combine_payees">Möchten Sie die beiden Empfänger kombinieren</string>
+	<string name="payee_name">Name des Empfängers</string>
+    <string name="link_payee">Möchten Sie die Infos zm bestehenden Kontakt verbinden</string>
+	<string name="account_number">Kontonummer</string>
+	<string name="phone">Telefon</string>
+	<string name="phone_number">Telefonnummer</string>
+	<string name="email">Email</string>
+	<string name="email_address">Email Adresse</string>
+	<string name="url">URL</string>
+	<string name="web_address">Web-Adresse</string>
+	<string name="select_account">Wähle Konto</string>
+	<string name="open_web_page">Öffne Web-Seite</string>
+	<string name="view_payees">Empfänger ansehen</string>
+	<string name="default_payee_name">Mein Empfänger</string>
+	<string name="spending_by_payee">Ausgaben nach Empfänger</string>
+	<string name="all_payees_hidden_by_filter">Alle Empfänger sind durch den Ansichts-Filter versteckt</string>
+	    
+    <string name="without_payee">Ohne empfänger</string>
+	<string name="no_payees_yet">Noch keine Empfänger</string>
+	<string-array name="payee_count_format_plurals">
+		<item>1 Empfänger</item>
+		<item>^1 Empfänger</item>
+	</string-array>
+
+	<string name="all_payees">Alle Empfänger</string>
+	<string name="payees_in_open_accounts">Empfänger in geöffneten Konten</string>
+	<string name="payees_in_closed_accounts_only">Nur Empfänger in geschlossenen Konten</string>
+	<string name="unused_payees">Ungenutzte Empfänger</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

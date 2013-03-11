@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account">Számla</string>
+    <string name="accounts">Számlák</string>
+    <string name="all_accounts">Összes számla</string>
+    <string name="open_accounts">Nyitott számlák</string>
+    <string name="liability">Kötelezettség</string>
+    <string name="asset">Vagyontárgy</string>
+    <string name="credit_liability_details">Hitel / Kötelezettség részletei</string>
+<!-- <string name="associated_loan">Associated loan</string> -->
+<!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
+<!-- <string name="associated_reward_program">Associated reward program</string> -->
+<!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
+    <string name="account_balances">Számlaegyenlegek</string>
+    <string name="vehicle_details">Jármű adatai</string>
+    <string name="property_details">Ingatlan adatai</string>
+    <string name="view_accounts">Számlák megtekintése</string>
+    <string name="new_account">Új számla</string>
+    <string name="edit_account">Számla módosítása</string>
+    <string name="balance_noun">Egyenleg</string>
+    <string name="balances_noun">Egyenlegek</string>
+    <string name="adjust">Igazítás</string>
+    <string name="adjust_balance">Egyenleg igazítása</string>
+	<string name="balance_adjusted">Igazítva</string>
+	<string name="balance_adjustment_note">Az egyenleg igazítása</string>
+	<string name="category_for_adjustment_transaction">Kategória az egyenleg igazítására</string>
+	<string name="postpone">Elhalasztás</string>
+    <string name="balance_verb">Kiegyenlítés</string>
+    <string name="balance_account">Számlá kiegyenlítése</string>
+    <string name="balanced">Kiegyenlítette</string>
+    <string name="balance_postponed">Kiegyenlítés el lett halasztva</string>
+    <string name="balance_canceled">Kiegyenlítés megszakítva</string>
+	<string name="started_balancing_already">Már el kezdte egyenlíteni ezt a számlát</string>
+	<string name="postpone_balancing_warning">El akarja halasztani</string>
+	<string name="account_balance_does_not_match_bank_warning_format">A megadott kezdő egyenleg, ^1, nem egyenlő a korábban egyeztetett tranzakciók összegével, ^2</string>
+	<string name="account_balance_does_not_match_credit_warning_format">A megadott múlt hónapbani tartozás, ^1, nem egyenlő a korábban egyeztetett tranzakciók összegével, ^2</string>
+	<string name="account_balance_does_not_match_fix">Próbálja rendbehozni ezekkel:\n\n<li>Még egyszer ellenőrizze a számlakivonatot</li>\n<li>Egyeztetettnek jelöljön meg tranzakciókat</li>\n<li>Egyeztetetlennek jelöljön meg tranzakciókat</li>\n<li>Módosítja a számlaegyenleget</li></string>
+	<string name="left_to_reconcile">Egyeztetendő marad</string>
+	<string name="statement_balance">Számlakivonat egyenlege</string>
+    <string name="statement_date">Számlakivonat dátuma</string>
+    <string name="statement_starting_balance">Számlakivonat kezdő egyenlege</string>
+    <string name="statement_ending_balance">Számlakivonat záró egyenlege</string>
+    <string name="amount_owed_last_month">Tartozás a múlt hónapban</string>
+    <string name="amount_owed_this_month">Tartozás ebben a hónapban</string>
+	<string name="service_charge_amount">Szolgáltatási díj összege</string>
+    <string name="service_charge_category">Szolgáltatási díj kategóriája</string>
+    <string name="service_charge_notes_format">Szolgáltatási díj a ^1-on záródó számlakivonaton</string>
+    <string name="interest_earned_amount">Kamat</string>
+    <string name="interest_earned_category">Kamat kategóriája</string>
+    <string name="interest_earned_notes_format">Kamat a ^1-on záródó számlakivonaton</string>
+    <string name="interest_paid_amount">Kamatot fizetett</string>
+    <string name="interest_paid_category">Kategória a fizetett kamatra</string>
+    <string name="interest_paid_notes_format">Kamatot fizetett a ^1-on záródó számlakivonaton</string>
+    <string name="clear_all_transactions">Számolja el az összes tranzakciót</string>
+	<string name="clear_all_transactions_on_all_pages">Számolja el a bármelyik lapon lévő tranzakciókat</string>
+    <string name="export_account">Számla exportálása</string>
+    <string name="delete_account">Számla törlése</string>
+    <string name="deleting_account">Törli a számlát</string>
+    <string name="close_account">Számla bezárása</string>
+    <string name="reopen_account">Számla újranyitása</string>
+    <string name="repair_account">Számla javítása</string>
+    <string name="repaired">Megjavította</string>
+    <string name="copy_account_number">Számlaszám másolása</string>
+    <string name="book_total">Könyv összeg</string>
+    <string name="favorites_total">Kedvencek összege</string>
+	<string name="delete_account_warning_part1_format">A számla ^1 véglegesen le lesz törölve.\n\nMivel ezt a számlát használta tranzakciókban, valamennyi kapcsolódó tranzakció is le lesz törölve</string>
+	<string name="delete_account_warning_part2_format">Ha el szeretné rejteni a számlát, de meg is akarja tartani a történetét, érintse meg a ^1-t és zárja le a számlát helyette</string>
+	<string name="no_accounts">Nincsenek számlái</string>
+    <string name="create_account_instructions_format">Számla létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
+    <string name="no_transactions_for_account">Nincsenek tranzakciói ebben a számlában</string>
+    <string name="account_type">Számla típusa</string>
+    <string name="account_type_bank_first">Számla típusa bankszámlával elsőként</string>
+    <string name="account_type_cash_first">Számla típusa készpénzzel elsőként</string>
+    <string name="account_name">Számlanév</string>
+    <string name="abbreviation">Rövidítés</string>
+    <string name="abbr">Röv.</string>
+    <string name="type">Típus</string>
+    <string name="favorite_account">Kedvenc számla</string>
+    <string name="favorite_accounts">Kedvenc számlák</string>
+    <string name="budget_account">Költségvetési számla</string>
+    <string name="account_has_been_closed">A számla le van zárva</string>
+    <string name="acquisition_date">Akvizíció időpontja</string>
+    <string name="credit_limit">Hitelkeret</string>
+    <string name="must_pay_balance">Köteles vagyok fizetni a teljes egyenleget havonta (Charge kártya)</string>
+    <string name="will_pay_balance">Kívánom fizetni a teljes egyenleget havonta</string>
+    <string name="interest_rate">Kamatláb</string>
+    <string name="introductory_rate_in_effect">Van egy bevezető kamatláb</string>
+    <string name="introductory_rate">Bevezető kamatláb</string>
+    <string name="valid_until">Érvényes</string>
+    <string name="minimum_balance">Minimum egyenleg</string>
+    <string name="date">Dátum</string>
+    <string name="make">Márka</string>
+    <string name="vehicle_make">A jármű márkája</string>
+    <string name="year">Év</string>
+    <string name="model">Modell</string>
+    <string name="vehicle_model">A jármű modellje</string>
+    <string name="vehicle_identification_number">Alvázszám (VIN)</string>
+    <string name="vin">VIN</string>
+    <string name="purchase_location">Vásárlás helye</string>
+    <string name="location">Hely</string>
+    <string name="warranty_information">Garancia részletei</string>
+    <string name="type_details_about_warranty_information">Írja be ide a garancia részleteit</string>
+    <string name="warranty_expiration_date">Garancia lejárati dátuma</string>
+    <string name="manufacturer_web_address">A gyártó webcíme</string>
+    <string name="property_address">Az ingatlan címe</string>
+    <string name="closed">Lezárva</string>
+    <string name="reopened">Újranyitva</string>
+    <string name="reopen_canceled">Újranyitás megszakítva</string>
+    <string name="no_financial_institution_assigned">Nincs pénzintézet</string>
+    <string name="maximum_100">Maximum 100%</string>
+    <string name="must_be_less_than_interest_rate">Kell &lt; kamatláb</string>
+    <string name="must_be_in_future">Jövőben kell lennie</string>
+    <string name="must_be_in_past">Múltban kell lennie</string>
+    <string name="invalid_year">Érvénytelen</string>
+    <string name="invalid_vin_number">17 betű és/vagy számjegy kell</string>
+    <string name="invalid_url">Érvénytelen URL</string>
+	<string name="opening_balance_warning_message">Ebben a számlában már vannak egyeztetett tranzakciók.\n\nAz számlaegyenleg módosítása okozhatja, hogy a rekordja el fog térni a pénzintézetitől</string>
+	<string name="no_exchange_rate_warning_message_format">Nincsen árfolyam megadva a ^1 és a ^2 között, ami miatt a könyv egyenlege pontatlan lesz</string>
+    <string name="would_you_like_to_give_one_after_saving">Szeretné megadni a mentés után</string>
+	<string name="net_worth">Nettó vagyon</string>
+    <string name="net_worth_over_time">Nettó vagyon időben / Prognózis</string>
+	<string name="set_total_to_show">Összeg kiválasztása</string>
+	<string name="total_to_show">Megjelenítendő összeg</string>
+    <string name="selected_total">Kijelölt összeg</string>
+	<string name="entered_total">Bejegyzett összeg</string>
+	<string name="balance_as_of_today">Mai egyenleg</string>
+	<string name="cleared_total">Elszámolt összeg</string>
+	<string name="reconciled_total">Egyeztetett összeg</string>
+    <string name="default_cash_account_name">Készpénzem</string>
+    <string name="default_checking_account_name">Folyószámlám</string>
+    <string name="default_savings_account_name">Takarékszámlám</string>
+    <string name="default_credit_account_name">Hitelkártyám</string>
+    <string name="color">Szín</string>
+    <string name="projected_balance">Előrejelzett</string>
+    <string name="projected_balance_at_the_end_of_the_month">Előrejelzett egyenleg a hónap végén</string>
+    <string name="at_months_end">Hónap végén</string>
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">Előrejelzett egyenleg a ^1</string>
+	<string name="total_for_format">^1 összesen</string>
+	<string name="total_for_month">Hónap összege</string>
+	<string name="period">Időszak</string>
+	<string name="total_for_period">Időszak összege</string>
+	<string name="total_for_unassigned">Kiosztatlan összeg</string>
+	<string name="make_account_budget_question_part1">Szeretné, hogy ez legyen egy költségvetési számla</string>
+	<string name="make_account_budget_question_part2_format">Még ha megérinti a ^1-et is, akkor is még később módoshitja a számlát</string>
+	<string name="show_option_format">Mutasd a ^1 opciót</string>
+	<string name="show_closed">Lezártak mutatása</string>
+	
+    <string name="no_accounts_yet">Nincsenek még számlák</string>
+	<string-array name="account_count_format_plurals">
+        <item>^1 számla</item>
+    </string-array>
+
+
+	<string-array name="pending_count_plurals">
+        <item>^1 új tranzakció</item>
+    </string-array>
+
+
+	<string-array name="account_group_labels">
+		<item>Bankszámlák</item>
+		<item>Készpénz</item>
+		<item>Hitelszámlák</item>
+		<item>Befektetett készpénz</item>
+		<!-- <item>Loans and liabilities</item> -->
+		<item>Egyéb kötelezettségek</item>
+		<item>Egyéb vagyontárgyak</item>
+	</string-array>
+
+	<string-array name="total_for_account_group_labels">
+		<item>Bankszámlák összesen</item>
+		<item>Készpénz összesen</item>
+		<item>Hitelszámlák összesen</item>
+		<item>Befektetett készpénz összesen</item>
+		<!-- <item>Total for loans and liabilities</item> -->
+		<item>Kötelezettségek összesen</item>
+		<item>Vagyontárgyak összesen</item>
+	</string-array>
+
+	<string-array name="opening_balance_new_labels">
+	    <item>Számla egyenlege</item>
+		<item>Vételár</item>
+		<item>Tartozás a számlán</item>
+		<item>Tartozás a kártyán</item>
+	</string-array>
+
+	<string name="opening">Egyenleg</string>
+	<string-array name="opening_balance_edit_labels">
+	    <item>Számla egyenlege</item>
+		<item>Eredeti vételár</item>
+		<item>Eredeti tartozás a számlán</item>
+		<item>Eredeti tartozás a kártyán</item>
+	</string-array>
+
+	<string-array name="current_balance_edit_labels">
+	    <item>Aktuális egyenleg</item>
+		<item>Mostani érték</item>
+		<item>Mostani tartozás a számlán</item>
+		<item>Mostani tartozás a kártyán</item>
+	</string-array>
+
+	<string-array name="account_type_names">
+	    <item>Bank</item>
+		<item>Készpénz / Egyéb</item>
+		<item>Hitel- / Fizetőkártya</item>
+		<item>Hitelkeret</item>
+		<item>Hitel</item>
+<!-- 		<item>Other liability</item> Loan Loans -->
+		<item>Egyéb kötelezettség</item>
+		<item>Ingatlan</item>
+		<item>Jármű</item>
+		<item>Egyéb vagyontárgy</item>
+		<item>Befektetett készpénz</item>
+	</string-array>
+
+	<string-array name="default_account_names">
+	    <item>Bank</item>
+		<item>Készpénz</item>
+		<item>Hitelkártya</item>
+		<item>Hitelkeret</item>
+		<item>Hitel</item>
+		<item>@string/liability</item>
+		<item>Ingatlan</item>
+		<item>Jármű</item>
+		<item>@string/asset</item>
+		<item>Befektetetés</item>
+	</string-array>
+
+    <string name="show_account_numbers">Mutassa a számlaszámokat</string>
+    <string name="show_account_numbers_description">Ha van, mutassa a számlaszámot a név alatt</string>
+
+    <string name="use_abbreviations">Használja a rövidítéseket</string>
+    <string name="use_abbreviations_description">Ha van, mutassa a rövidített számlanevet</string>
+
+    <string name="show_group_totals">Mutassa a csoportok összegeit</string>
+    <string name="show_group_totals_description">Mutassa mindegyik csoport összegét</string>
+
+	<string-array name="account_list_status_filter_title_bar">
+		<item>Az összes számla</item>
+		<item>@string/open_accounts</item>
+		<item>@string/favorite_accounts</item>
+	</string-array>
+
+	<string-array name="account_list_sort_order_title_bar">
+		<item>@string/type</item>
+		<item/> <!-- Intentionally left empty -->
+		<item>@string/name</item>
+		<item>@string/financial_institution</item>
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+
+    <string name="all_transactions">Összes tranzakció</string>
+	<string-array name="transaction_list_filter_title_bar">
+    	<item>összes tranzakciói</item>
+		<item>egyeztetettlenei</item>
+		<item>egyeztetettei</item>
+		<item>elszámoltai</item>
+		<item>függői</item>
+		<item>követettei</item>
+    	<item>exportálatlanai</item>
+	</string-array>
+    
+    <string name="display_order">Rendelés</string>
+    <string name="entry_date">Bejegyzési idő</string>
+    <string-array name="transaction_list_sort_order_title_bar">
+    	<item>@string/date</item>
+		<item>@string/number</item>
+		<item>@string/payee</item>
+		<item>@string/amount</item>
+		<item>@string/category</item>
+		<item>entry date</item>
+		<item/> <!-- Not unused -->
+		<item/> <!-- Not unused -->
+		<item>@string/account</item>
+	</string-array>
+    
+    <string name="date_range">Dátumtartomány</string>
+	<string name="current_month">Aktuális hónap</string>
+	<string name="previous_month">Múlt hónap</string>
+	<string name="next_month">Jövő hónap</string>
+	<string name="current_half_year">Aktuális félév</string>
+	<string name="previous_half_year">Múlt félév</string>
+	<string name="next_half_year">Jövő félév</string>
+	<string name="current_year">Folyó év</string>
+	<string name="previous_year">Múlt év</string>
+	<string name="next_year">Jövő év</string>
+	<string name="current_week">Aktuális hét</string>
+	<string name="previous_week">Múlt hét</string>
+	<string name="next_week">Jövő hét</string>
+
+	
+	
+	<string name="all_dates">Minden dátum</string>
+	<string-array name="date_range_items">
+		<item>@string/all_dates</item>
+		<item>Mind a mai napig</item>
+		<item>@string/current_month</item>
+		<item>@string/current_year</item>
+		<item>E havi a ma napig</item>
+		<item>Ez évi a ma napig</item>
+		<item>@string/previous_month</item>
+		<item>@string/previous_year</item>
+		<item>Utolsó 30 nap</item>
+		<item>Utolsó 3 hónap</item>
+		<item>Utolsó 6 hónap</item>
+		<item>Utolsó 12 hónap</item>
+		<item>Jövő 30 days</item>
+		<item>Jövő 3 hónap</item>
+		<item>Jövő 6 hónap</item>
+		<item>Jövő 12 hónap</item>
+		<item>@string/custom_dates</item>
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>minden dátumra</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>az utolsó 30 napra</item>
+		<item>az utolsó 3 hónapra</item>
+		<item>az utolsó 6 hónapra</item>
+		<item>az utolsó 12 hónapra</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar_months">
+		<item>januárra</item>
+		<item>februárra</item>
+		<item>márciusira</item>
+		<item>április</item>
+		<item>májusra</item>
+		<item>júniusra</item>
+		<item>júliusra</item>
+		<item>augusztusra</item>
+		<item>szeptemberre</item>
+		<item>októberre</item>
+		<item>novemberre</item>
+		<item>decemberra</item>
+	</string-array>
+	
+    <string name="display_grouping">Csoportosítás</string>
+</resources>

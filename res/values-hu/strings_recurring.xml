@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="estimated_indicator">~</string>
+	<string name="recurring_bills_and_deposits">Ismétlődő számlák és betétek</string>
+	
+	<string name="recurring_bills_and_deposits_by_direction_order_format">Számlák és betétek ^1 ^2 szerint</string>	
+	<string name="view_recurring">Ismétlődők megtekintése</string>
+	<string name="new_recurring">Új ismétlődő</string>
+	<string name="enter">Beírja</string>
+	<string name="entered">Beírva</string>
+	<string name="enter_canceled">Beírás megszakítva</string>
+	<string name="enter_into_register">Regiszterbe írás</string>
+	<string name="enter_into_register_warning">Kérjük, erősítse meg, hogy most be szeretné írni ezt a regiszterbe</string>
+	<string name="enter_now">Írja be most</string>
+	<string name="enter_after_editing">Írja be a módosítását követően</string>
+	<string name="enter_partially_after_editing">Részben írja be a módosítását követően</string>
+	<string name="move_to_next_occurrence">Lépjen a következő előforduláshoz</string>
+	<string name="remain_on_this_occurrence_format">Maradjon ezen az előforduláson, ha a beírt összeg kisebb, mint ^1</string>	    	    	
+	<string name="edit_recurring">Ismétlődő módosítása</string>
+	<string name="edit_series">Sorozat módosítása</string>
+	<string name="edit_occurrence">Előfordulás módosítása</string>
+	<string name="entire_series">Az egész sorozatot</string>
+	<string name="edit_template_warning">Vannak már egyedi előfordulások.\n\nHa módosítja a sorozatot, ezek el fognak veszni</string>
+	<string name="delete_recurring">Ismétlődő törlése</string>
+	<string name="delete_recurring_warning_part1_format">Törölje a ^1-t</string>
+	<string name="delete_recurring_warning_part2">Az összes jövőbeli előfordulás le lesz törölve</string>
+	<string name="change_recurring_amount_format">Módosítsa az ismétlődő összeget ^1-ról ^2-ra</string>
+	<string name="skip">Kihagyás</string>
+	<string name="skip_occurrence">Előfordulás kihagyása</string>
+	<string name="skipped">Kihagyva</string>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item>Kihagyta a ^1 előfordulást</item>
+	</string-array>
+
+	<string name="skip_canceled">Kihagyás megszakítva</string>
+	<string name="skip_which">Melyiket hagyja ki</string>
+	<string name="skip_one_occurrence_warning">Hagyja ki a soron következő előfordulást</string>
+	<string name="no_recurrings_format">Nincsenek Ismétlődő számlái vagy betétei.\n\nLétrehozásához:\n\n<li>^1</li>\n\n<li>Hosszú-érintse meg bármelyik tranzakciót és érintse meg a ^2-t</li></string>
+	<string name="create_recurring_instructions_format">Érintse meg a ^i -ot a képernyő tetején</string>
+	<string name="recurring_no_accounts_yet">Kérjük, elöször hozzon létre számlákat és kedvezményezetteket</string>
+	<string name="specify_account">Kérjük, először adja meg a számlát</string>
+	<string name="account_and_amount">Számla és Összeg</string>
+	<string name="payee_and_category">Kedvezményezett és Kategória</string>
+	<string name="auto_enter_and_reminder">Automatikus beírás és Emlékeztető</string>
+	<string name="pay_by_check">Ezt csekkel fizetem</string>
+	<string name="amount_is">Az összeg</string>
+	<string name="fixed">Állandó</string>
+	<string name="estimated">Becsült</string>
+	<string name="estimated_amount_format">^1^2</string>
+	<string name="upcoming">Soron következők</string>
+	<string name="no_upcoming">Nincsenek soron következő számlák vagy betétek</string>
+	<string name="no_upcoming_bills">Nincsenek soron következő számlák</string>
+	<string name="no_upcoming_deposits">Nincsenek soron következő betétek</string>
+	<string name="enter_automatically">Automatikusan be lesz írva a regiszterbe</string>
+	<string name="notify_me">Értesítsen</string>
+	<string name="cannot_auto_enter">A lehetséges árfolyam-ingadozások miatt, azokat az ismétlődő számlákat vagy betéteket, amelyek átutalások két különböző pénznemben lévő számla között, nem lehet beírni automatikusan.\n\Ezeket kézzel kell beírni, és meg kell adni az érvényes árfolyamot</string>
+	<string name="entered_recurring_bill">Ismétlődő számla be lett írva</string>
+	<string name="entered_recurring_deposit">Ismétlődő betét be lett írva</string>
+	<string name="notify_me_when_entered">Értesíten az Értesítési Sávon miután beírta</string>
+	<string name="the_last_day_of_the_month">A hónap utolsó napja</string>
+	<string name="include_in_budget">A költségvetés része</string>
+	<string name="include_recurrings">Tartalmazza az ismétlődőket is</string>
+	<string name="make_recurring_budget_question_part1">Szeretné, hogy ez legyen egy költségvetési sorozat</string>
+	<string name="make_recurring_budget_question_part2_format">Még ha megérinti a ^1-et is, akkor is még később módoshitja a sorozatot</string>
+			
+	<!-- These three below form a sentence -->
+	<string name="based_part1">Az</string>
+	<string name="based_part2_singular">utolsó</string>
+	<string-array name="based_part2_plurals">
+		<item>utolsó ^1</item>
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>előfordulás alapján</item>
+	</string-array>
+
+	
+	<string name="end_date_if_any">Befejezési időpont, ha van</string>
+	<string name="invalid_date">Érvénytelen dátum</string>
+	<string name="repeat">Ismétel</string>
+	<string name="every_1"> </string>
+	<string-array name="every_day_plurals">
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_week_plurals">
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_month_plurals">
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_year_plurals">
+		<item>@string/every_1</item>
+	</string-array>	
+
+
+	
+		
+	<string name="never">Soha</string>
+	<string name="day_upper">Nap</string>
+	<string name="day_lower">nap</string>
+	<string name="days_upper">Napok</string>
+	<string name="daily">Naponta</string>
+	<string name="week_upper">Hét</string>
+	<string name="weeks_upper">Hetek</string>
+	<string name="weekly">Hetente</string>
+
+
+	<string name="month_upper">Hónap</string>
+	<string name="month_lower">hónap</string>
+	<string name="months_upper">Hónapok</string>
+	<string name="monthly">Havonta</string>
+	<string name="twice_a_month">Havonta kétszer</string>
+	<string name="quarters_upper">Negyedek</string>
+	<string name="half_year">Félév</string>
+	<string name="half_yearly">Félévente</string>
+	<string name="year_upper">Év</string>
+	<string name="year_lower">év</string>
+	<string name="years_upper">Évek</string>
+	<string name="yearly">Évente</string>
+	<string-array name="day_plurals">
+		<item>naponként</item>
+	</string-array>
+
+	<string-array name="week_plurals">
+		<item>hetenként</item>
+	</string-array>
+	
+	<string-array name="month_plurals">
+		<item>havonként</item>
+	</string-array>
+	
+	<string-array name="year_plurals">
+		<item>évenként</item>
+	</string-array>
+
+	<string name="every_n_period_format">^2 ^3</string>
+	<string name="if_it_falls_on_a_weekend">Ha a dátum a hétvégére esik</string>
+	<string name="skip_weekends">Átugorja a hétvéget</string>
+	
+	<string name="no_recurrings_yet">Nincsenek még ismétlődő számlák vagy betétek</string>
+	<string-array name="recurrings_count_format_plurals">
+		<item>^1 ismétlődő számla vagy betét</item>
+	</string-array>
+
+	<string name="overdue_count_format">^1/^2</string>
+	<string name="overdue_format">^1 megkésett</string>
+	<string-array name="overdue_count_plurals">
+		<item>^1 megkésett számla vagy betét</item>
+	</string-array>
+
+	
+	<string-array name="enter_into_register_fixed_amount_items">
+		<item>@string/enter_now</item>
+		<item>Módosítja a tranzakciót elöször</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">Használja a mai dátumot</string>
+
+	<string-array name="skip_which_items">
+		<item>A soron következő előfordulást</item>
+		<item>Az összes megkésett előfordulást</item>
+	</string-array>
+
+	<string-array name="workday_adjustment_methods">
+		<item>Ne csináljon semmit</item>
+		<item>Igazít az előző hétköznapra</item>
+		<item>Igazít a következő hétköznapra</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>1-jén</item>
+		<item>2-án</item>
+		<item>3-án</item>
+		<item>4-én</item>
+		<item>5-én</item>
+		<item>6-án</item>
+		<item>7-én</item>
+		<item>8-án</item>
+		<item>9-én</item>
+		<item>10-én</item>
+		<item>11-én</item>
+		<item>12-én</item>
+		<item>13-án</item>
+		<item>14-én</item>
+		<item>15-én</item>
+		<item>16-án</item>
+		<item>17-én</item>
+		<item>18-án</item>
+		<item>19-én</item>
+		<item>20-án</item>
+		<item>21-én</item>
+		<item>22-én</item>
+		<item>23-án</item>
+		<item>24-én</item>
+		<item>25-én</item>
+		<item>26-án</item>
+		<item>27-én</item>
+		<item>28-án</item>
+		<item>29-én</item>
+		<item>30-án</item>
+		<item>31-én</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month_and_on_the">
+		<item>1-jén és</item>
+		<item>2-án és</item>
+		<item>3-án és</item>
+		<item>4-én és</item>
+		<item>5-én és</item>
+		<item>6-án és</item>
+		<item>7-én és</item>
+		<item>8-án és</item>
+		<item>9-én és</item>
+		<item>10-én és</item>
+		<item>11-én és</item>
+		<item>12-én és</item>
+		<item>13-án és</item>
+		<item>14-én és</item>
+		<item>15-én és</item>
+		<item>16-án és</item>
+		<item>17-én és</item>
+		<item>18-án és</item>
+		<item>19-én és</item>
+		<item>20-án és</item>
+		<item>21-én és</item>
+		<item>22-én és</item>
+		<item>23-án és</item>
+		<item>24-én és</item>
+		<item>25-én és</item>
+		<item>26-án és</item>
+		<item>27-én és</item>
+		<item>28-án és</item>
+		<item>29-én és</item>
+		<item>30-án és</item>
+		<item>31-én és</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_month">A hónap utolsó napján</string>
+	<string-array name="on_the_nth_day_of_the_week_format">
+		<item>Az első ^1</item>
+		<item>A második ^1</item>
+		<item>A harmadik ^1</item>
+		<item>A negyedik ^1</item>
+	</string-array>
+	<string-array name="on_the_nth_day_of_the_week_days">
+		<item>vasárnapon</item>
+		<item>hétfőn</item>
+		<item>kedden</item>
+		<item>szerdán</item>
+		<item>csütörtökön</item>
+		<item>pénteken</item>
+		<item>szombaton</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_week_format">Az utolsó ^1</string>
+
+	<string name="work_week">Munkahét</string>
+	<string name="period_end_day_of_the_month">Időszak végének napja</string>
+	<string name="fiscal_year">Költségvetési év</string>
+	
+	<string name="time_of_reminder">Emlékeztető időpontja</string>
+	<string name="reminder_hour_of_day_change_warning">Kérjük, vegye figyelembe, hogy ha vannak meglévő emlékeztetői, azok <b>nem</b> lesznek módosítva. Ehhez keresse fel a naptárt a készülékén, és módosítsa a emlékeztetőket ott.\n\nAz új idő lesz használva minden új emlékeztetőhöz, valamint a soron következő előfordulásokra</string>
+
+	<string-array name="auto_enter_days_before">
+		<item>Ne írja be automatikusan</item>
+		<item>Azon a napon, amikor esedékes</item>
+		<item>Egy nappal esedékesség előtt</item>
+		<item>Két nappal esedékesség előtt</item>
+		<item>Három nappal esedékesség előtt</item>
+		<item>Egy héttel esedékesség előtt</item>
+		<item>Két héttel esedékesség előtt</item>
+		<item>Három héttel esedékesség előtt</item>
+		<item>Egy hónappal esedékesség előtt</item>
+	</string-array>	
+	
+	<string-array name="days_before_plurals">
+		<item>^1 nappal előtte</item>
+	</string-array>
+
+		
+	<string-array name="days_before_due_date_plurals">
+		<item>^1 nappal esedékesség előtt</item>
+	</string-array>
+	
+
+	<string name="specify_custom_number_of_days">Adja meg az egyéni napok számát</string>
+ </resources>

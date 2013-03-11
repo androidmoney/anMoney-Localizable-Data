@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="appwidget_warning_format">Похоже, что вы установили ^1 на карту SD.\n\nЭто может повлечь за собой пропадание виджетов, поэтому, если вы планируете их использовать, настоятельно рекомендуется переместить ^1 с карты SD обратно в память устройства</string>
+
+    <string name="no_books_warning">Создайте хотя бы одну книгу перед использованием виджета</string>
+    <string name="no_books_and_accounts_warning">Создайте хотя бы одну книгу и счёт перед использованием виджета</string>
+    <string name="no_accounts_warning">Создайте хотя бы один счёт перед использованием виджета</string>
+    <string name="book_no_longer_exists_format">Книга ^1 не найдена</string>
+    <string name="account_no_longer_exists">Счёт не найден</string>
+
+    <string name="quick_entry">Быстрый ввод</string>
+    <string name="app_name_quick_entry">anMoney — Быстрый ввод</string>
+    <string name="app_name_quick_entry_large">anMoney — Быстрый ввод (большой)</string>
+    <string name="app_name_quick_entry_small">anMoney — Быстрый ввод (маленький)</string>
+    <string name="show_total">Показывать остаток по счёту</string>
+
+    <string name="app_name_upcoming">anMoney — Предстоящие</string>
+
+    <string name="app_name_budget">anMoney — Бюджет</string>
+
+    <string name="app_name_report">anMoney — Отчёт</string>
+
+	<string name="dash_clock_extension_description">Показывает просроченные платежи и пополнения, если есть.</string>
+</resources>

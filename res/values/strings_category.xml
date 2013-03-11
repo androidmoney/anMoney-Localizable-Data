@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_main_sub_separator">:</string>
+    <string name="category">Category</string>
+    <string name="categories">Categories</string>
+    <string name="subcategory">Subcategory</string>
+    <string name="classification">Classification</string>
+    <string name="_class">Class</string>
+    <string name="subclass">Subclass</string>
+    <string name="parent_category">Parent category</string>  <!-- This is the main category that a subcategory belongs to -->
+    <string name="parent_class">Parent class</string>  <!-- This is the main class that a subclass belongs to -->
+    <string name="edit_category">Edit category</string>
+    <string name="edit_subcategory">Edit subcategory</string>
+    <string name="edit_class">Edit class</string>
+    <string name="edit_subclass">Edit subclass</string>
+    <string name="new_category">New category</string>
+    <string name="new_subcategory">New subcategory</string>
+    <string name="new_class">New class</string>
+    <string name="new_subclass">New subclass</string>
+    <string name="delete_category">Delete category</string>
+    <string name="delete_subcategory">Delete subcategory</string>
+    <string name="delete_class">Delete class</string>
+    <string name="delete_subclass">Delete subclass</string>
+    <string name="add_default_categories">Add default categories</string>
+    <string name="add_classification">Add classification</string>
+    <string name="select_category">Select category</string>
+    <string name="select_class">Select class</string>
+    <string name="delete_classification">Delete classification</string>
+    <string name="rename_classification">Rename classification</string>
+    <string name="select_classification">Select classification</string>
+    <string name="enter_classification_name">Enter classification name</string>
+    <string name="enter_new_classification_name">Enter new classification name</string>
+    <string name="categories_and_classifications">Categories &amp; classifications</string>
+    <string name="no_categories_expense">You don’t have any expense categories</string>
+    <string name="no_categories_income">You don’t have any income categories</string>
+    <string name="no_classes">You don’t have any classes</string>
+    <string name="create_category_instructions_format">To create a category, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_class_instructions_format">To create a class, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
+    <string name="uncategorized_transactions">Uncategorised transactions</string>
+    <string name="delete_category_no_subcategories_warning_format">Category ^1 will be permanently deleted</string>
+    <string name="delete_class_no_subclass_warning_format">Class ^1 will be permanently deleted</string>
+    <string name="delete_category_with_subcategories_warning_format">Category ^1 and <b>all its subcategories</b> will be permanently deleted</string>
+    <string name="delete_class_with_subclass_warning_format">Class ^1 and <b>all its subclasses</b> will be permanently deleted</string>
+    <string name="delete_subcategory_warning_format">Subcategory ^1 will be permanently deleted</string>
+    <string name="delete_subclass_warning_format">Subclass ^1 will be permanently deleted</string>
+    <string name="delete_classification_warning_format">Classification ^1 will be permanently deleted. All transactions will have their classifications removed</string>
+    <string name="deleting_classification">Deleting classification</string>
+    <string name="default_categories_add_confirmation">Do you want to add the default categories</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="default_categories_added">Default categories added</string>
+    <string name="adding_default_categories">Adding default categories</string>
+    <string name="all_categories">All categories</string>
+    <string name="expense">Expense</string>
+    <string name="expenses">Expenses</string>
+    <string name="expense_categories">Expense categories</string>
+    <string name="income">Income</string>
+    <string name="income_categories">Income categories</string>
+    <string name="savings">Savings</string> <!-- As in "amount saved by budgeting" -->
+    <string name="category_name">Category name</string>
+    <string name="subcategory_name_lower">subcategory name</string>
+    <string name="class_name">Class name</string>
+    <string name="subclass_name_lower">subclass name</string>
+    <string name="without_subcategory">Without subcategory</string>
+    <string name="cannot_be_zero">Cannot be 0</string>
+    <string name="change_expense_warning">Do you want to change this category from expense to income, or vice versa</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="prepopulate">Populate with default categories</string>
+    <string name="short_categories">Load short category list only (you will have the option to load the full list later)</string>
+    <string name="view_categories">View categories</string>
+    <string name="category_not_found">Category not found</string>
+    <string name="class_not_found">Class not found</string>
+    <string name="total_income">Total income</string>
+    <string name="total_expense">Total expense</string>
+	<string name="net">Net</string>
+    <string name="net_income">Net income</string>
+    <string name="uncategorized">Uncategorised</string>
+    <string name="income_uncategorized">Uncategorised income</string>
+    <string name="expense_uncategorized">Uncategorised expense</string>
+    <string name="show_uncategorized">Show uncategorised</string>
+    <string name="move_subcategory_to_another_category_warning">Do you want to move this subcategory to under another category</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="show_zero_balance_categories">Show categories with a zero balance</string>
+    <string name="show_zero_balance_items">Show items with a zero balance</string> <!-- "Items" refers to classification name -->
+    <string name="recategorize_category">Recategorise all transactions with this category as</string>
+    <string name="recategorize_class">Recategorise all transactions with this class as</string>
+	<string name="spending_by_category0">Spending by category</string>
+	<string name="spending_by_category1">Spending by category or ^1</string>
+	<string name="spending_by_category2">Spending by category, ^1 or ^2</string>
+    
+    <string name="no_categories">No categories</string>
+	<string name="no_categories_yet">No categories yet</string>
+    <string name="no_classes_yet">No classes yet</string>
+	<string-array name="category_count_format_plurals">
+        <item>1 category</item>
+        <item>^1 categories</item>
+    </string-array>
+	<string-array name="uncategorized_count_plurals">
+        <item>^1 uncategorised transaction</item>
+        <item>^1 uncategorised transactions</item>
+    </string-array>
+
+	<string-array name="default_classifications">
+		<item>Family members</item>
+		<item>Properties</item>
+		<item>Projects</item>
+		<item>Hobbies</item>
+		<item>Vacations</item>
+		<item>Job expenses</item>
+		<item>Other</item>
+	</string-array>
+</resources>

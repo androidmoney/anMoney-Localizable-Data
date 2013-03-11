@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activitychooserview_choose_application">Sélectionnez une application</string>
+    <string name="shareactionprovider_share_with">Partager avec</string>
+    <string name="shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="activity_chooser_view_see_all">Tout afficher</string>
+</resources>

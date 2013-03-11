@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="budget">Rozpočet</string>
+    <string name="view_budget">Zobrazit rozpočet</string>
+    <string name="edit_budget_item">Upravit položku rozpočtu</string>
+    <string name="new_budget_item">Nová položka rozpočtu</string>
+    <string name="expenses_over_budget">Překročený rozpočet</string>
+    <string name="expenses_within_budget">Dodržený rozpočet</string>
+    <string name="budgeted_amount">Naplánováno</string>
+    <string name="actual_amount">Využito</string>
+    <string name="remainder_amount">Zbývá</string>
+	<string name="budget_vs_actual">Přehled využití rozpočtu</string> <!-- This is a report name -->
+	<string name="budget_over_time">Plnění rozpočtu za čas</string> <!-- This is a report name -->
+    <string name="recurring_bill_or_deposit_from">Z trvalého příkazu</string>
+    <string name="an_additional_amount_for_this_category">Navýšení pro tuto kategorii</string>
+    <string name="the_additional_amount_for_this_category">Navýšení pro tuto kategorii</string>
+    <string name="currently_weekly_format">nyní ^1 týdně</string>
+    <string name="currently_biweekly_format">nyní ^1 čtrnáctidenně</string>
+    <string name="currently_monthly_format">nyní ^1 měsíčně</string>
+    <string name="currently_half_yearly_format">nyní ^1 pololetně</string>
+    <string name="currently_yearly_format">nyní ^1 ročně</string>
+    <string name="currently_custom_format">podle vlastního plánu, celkem ^1 za rok</string>
+    <string name="budget_no_categories_yet">Před vytvořením rozpočtu prosím vytvořte kategorie</string>
+    <string name="select_budget_period">Období pro zobrazení rozpočtu</string>
+    <string name="all_other_spending">Všechny ostatní výdaje</string>
+    <string name="special_item">Zvláštní záznam</string>
+    <string name="no_budget_items">Nemáte žádné položky rozpočtu</string>
+    <string name="create_budget_item_instructions_format">Pro zadání položek rozpočtu, zvolte ^i v horní části obrazovky</string> <!-- ^i will be replaced by an image -->
+    <string name="customized_schedule">Vlastní plán</string> <!-- As in "Customized monthly budget amounts" -->
+	<string name="include_budget_items">Zahrnout rozpočty</string> <!-- as in "Include budget items on report" -->
+</resources>

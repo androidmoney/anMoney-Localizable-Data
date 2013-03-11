@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="biweekly">Quincenal</string>
+	<string name="two_weeks">Dos semanas</string>
+</resources>

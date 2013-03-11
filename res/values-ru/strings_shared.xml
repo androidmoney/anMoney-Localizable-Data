@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="two_part_format">^1 ^2</string>
+    <string name="sentence_end_period_format">^1.</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="two_items_parantheses_format">^1 (^2)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 № ^2</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+    <string name="ellipsize_format">^1…</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+    <string name="option_on_symbol">✓</string>
+    <string name="option_off_symbol">✗</string>
+	<string name="filter_by_order_format">^1 по ^2</string>
+    <string name="filter_by_direction_order_format">^1 по ^2 по ^3</string>
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 по ^2 по ^3 по ^4 за ^5</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="done">Готово</string>
+    <string name="_continue">Продолжить</string>
+	<string name="continue_question">Продолжить</string>
+    <string name="home">Главное меню</string>
+	<string name="home_screen">@string/home</string>
+    <string name="previous">Назад</string>
+    <string name="next">Далее</string>
+    <string name="_import">Импорт</string>
+    <string name="imported">Импорт завершён</string>
+    <string name="importing">Импортирование</string>
+    <string name="import_canceled">Импорт отменён</string>
+    <string name="export">Экспорт</string>
+    <string name="exporting">Экспорт</string>
+    <string name="export_canceled">Экспорт отменён</string>
+    <string name="import_export">Импорт/экспорт</string>
+    <string name="settings">Настройки</string>
+    <string name="display_options">Настройка списка</string>
+    <string name="favorites">Избранные</string>
+    <string name="add_favorite">Добавить в избранные</string>
+    <string name="added_to_favorites">Добавлено в избранные</string>
+    <string name="remove">Удалить</string>
+    <string name="remove_favorite">Удалить из избранных</string>
+    <string name="removed_from_favorites">Удалено из избранных</string>
+    <string name="save">Сохранить</string>
+    <string name="saved">Сохранено</string>
+    <string name="save_canceled">Сохранение отменено</string>
+    <string name="canceled">Отменено</string>
+    <string name="delete">Удалить</string>
+    <string name="deleted">Удалено</string>
+    <string name="delete_canceled">Удаление отменено</string>
+    <string name="deleting">Удаление</string>
+    <string name="create">Создать</string>
+    <string name="created">Создано</string>
+    <string name="create_canceled">Создание отменено</string>
+	<string name="create_what">Что создать</string>
+    <string name="edit">Изменить</string>
+    <string name="edit_canceled">Изменение отменено</string>
+	<string name="edit_which">Что изменить</string>
+    <string name="copy">Скопировать</string>
+    <string name="copied">Скопировано</string>
+    <string name="move">Переместить</string>
+    <string name="moved">Перемещено</string>
+    <string name="duplicate">Сделать</string>
+    <string name="duplicated">Копия создана</string>
+    <string name="rename">Переименовать</string>
+    <string name="renamed">Переименовано</string>
+    <string name="rename_canceled">Переименование отменено</string>
+    <string name="link">Связать</string>
+    <string name="linked">Связано</string>
+    <string name="combine">Объединить</string>
+    <string name="combined">Объединено</string>
+    <string name="copy_to_clipboard">Скопировать в буфер обмена</string>
+    <string name="set">Установить</string>
+    <string name="show">Показать</string>
+	<string name="share">Отправить</string>
+	<string name="share_canceled">Отправка отменена</string>
+    <string name="create_in_app_name_format">Создать в ^1</string>
+    <string name="pick_from_app_name_format">Взять из ^1</string>
+    <string name="do_not_ask_again">Больше не спрашивать</string>
+    <string name="apply_to_all">Применить ко всем</string>
+    <string name="all_items">Все элементы</string>
+    <string name="notes">Примечание</string>
+    <string name="no_notes">Нет примечания</string>
+    <string name="required">Обязательное поле</string>
+    <string name="name">Название</string>
+    <string name="invalid_name">Некорректное имя</string>
+    <string name="name_exists">Название уже есть</string>
+    <string name="amount">Сумма</string>
+    <string name="start_date">Дата начала</string>
+    <string name="end_date">Дата окончания</string>
+    <string name="must_be_less_than_format">Должно быть &lt; ^1</string>
+    <string name="must_be_greater_than_format">Должно быть &gt; ^1</string>
+    <string name="reset">Сброс</string>
+    <string name="total">Итого</string>
+    <string name="grand_total">Всего</string>
+    <string name="average">Среднее</string>
+    <string name="export_file_name">Имя файла экспорта</string>
+    <string name="specify_export_file_name">Укажите имя файла экспорта</string>
+    <string name="file_exists">Файл с таким именем уже существует</string>
+    <string name="folder_exists">Каталог с таким именем уже существует</string>
+    <string name="choose_another_name">Выберите другое имя</string>
+    <string name="will_be_overwritten">Будет перезаписан</string>
+    <string name="calendar">Календарь</string>
+    <string name="remind_me">Напомнить мне</string>
+    <string name="add_as_a_contact">Добавить в контакты</string>
+    <string name="to_from_format">^1 ^2</string>
+    <string name="to">На счёт</string>
+    <string name="from">Со счёта</string>
+    <string name="send_email">Отправить email</string>
+	<string name="please_read">Прочтите пожалуйста</string>
+	<string name="rate_app_format">Оцените ^1</string>
+	<string name="please_rate_app_format">Пожалуйста, оставьте\nотзыв/оценку об ^1</string>
+	<string name="later_rate_description">Напоминание будет показано примерно через неделю</string>
+	<string name="no_rate_description_format">Вы можете сделать это в любой момент из экрана ^1</string>
+	<string name="task_killer_warning_format">Предупреждение о приложениях «task killer»:\n\nВаше устройство будет «просыпаться» раз в сутки для выполнения автоматических действий. Обработка длится несколько секунд и не может существенно уменьшить время автономной работы устройства.\n\nПриложения «task killer» могут и будут мешать нормальной работе данной процедуры и не должны использоваться совместно с ^1</string>
+	<string name="no_thanks">Нет, спасибо</string>
+	<string name="maybe_later">Возможно позже</string>
+	<string name="unexpected_error_warning">Возникла непредвиденная ошибка, повлёкшая завершение работы anMoney.\n\nПожалуйста, помогите нам её исправить, отправив отчёт об ошибке. Вы сможете изменить текст письма перед отправкой.\n\nСпасибо за сотрудничество.</string>
+    <string name="unexpected_error_notification_ticker">Непредвиденная ошибка. Пожалуйста, отправьте отчёт.</string>
+    <string name="unexpected_error_notification_title">Завершение работы anMoney</string>
+    <string name="unexpected_error_notification_text">Нажмите здесь чтобы отправить отчёт.</string>
+    <string name="unexpected_error_comment">По возможности опишите, пожалуйста, последовательность действий, приведших к ошибке</string>
+	<string name="archiving">Архивирование</string>
+	<string name="archiving_settings">Настройки архивирования</string>
+    <string name="more">Ещё</string>
+    <string name="specify_export_options">Укажите параметры экспорта</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="unselect_all">Снять все выделения</string>
+    <string name="expand_all">Развернуть все</string>
+	<string name="all_expanded">Развёрнуто</string>
+	<string name="collapse_all">Свернуть все</string>
+	<string name="all_collapsed">Свёрнуто</string>
+    <string name="postal_address">Почтовый адрес</string>
+    <string name="postal_address_hint">Страна, индекс\nОбласть/район\nГород\nУлица</string>
+    <string name="cannot_perform_sd_card_operation">Невозможно выполнить операцию — отсутствует или недоступна карта SD</string>
+	<string name="cannot_perform_file_system_operation_format">Невозможно выполнить операцию — путь в памяти устройства (^1) недоступен</string>
+    <string name="please_correct_and_try_again">Проверьте и попробуйте ещё раз</string>
+	<string name="no_network_message_format">^1 периодически требуется доступ к сети для проверки лицензии.\n\nПожалуйста, подключитесь к сети и, после подключения, попробуйте снова. После проверки от сети можно отключиться.\n\nНажатие ^2 откроет настройки <b>Беспроводных сетей</b></string>
+	<string name="calculator">Калькулятор</string>
+	<string name="only_in_full_version">Доступно только в полной версии</string>
+    <string name="will_not_effect_transactions">Существующие транзакции останутся неизменными</string>
+    	    
+    <string name="no_items">Нет элементов</string>
+    <string name="no_items_yet">Пока ничего нет</string>
+  	<string-array name="items_format_plurals">
+		<item>^1 элемент</item>
+		<item>^1 элемента</item>
+		<item>^1 элементов</item>
+	</string-array>
+	
+	<string-array name="selected_format_plurals">
+		<item>^1 выбрано</item>
+		<item>^1 выбрано</item>
+		<item>^1 выбрано</item>
+	</string-array>
+    	
+	<string-array name="reminder_leads">
+        <item>Не напоминать</item>
+        <item>В этот день</item>
+        <item>За один день</item>
+        <item>За два дня</item>
+        <item>За неделю</item>
+        <item>За две недели</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1 числа</item>
+		<item>2 числа</item>
+		<item>3 числа</item>
+		<item>4 числа</item>
+		<item>5 числа</item>
+		<item>6 числа</item>
+		<item>7 числа</item>
+		<item>8 числа</item>
+		<item>9 числа</item>
+		<item>10 числа</item>
+		<item>11 числа</item>
+		<item>12 числа</item>
+		<item>13 числа</item>
+		<item>14 числа</item>
+		<item>15 числа</item>
+		<item>16 числа</item>
+		<item>17 числа</item>
+		<item>18 числа</item>
+		<item>19 числа</item>
+		<item>20 числа</item>
+		<item>21 числа</item>
+		<item>22 числа</item>
+		<item>23 числа</item>
+		<item>24 числа</item>
+		<item>25 числа</item>
+		<item>26 числа</item>
+		<item>27 числа</item>
+		<item>28 числа</item>
+		<item>29 числа</item>
+		<item>30 числа</item>
+		<item>31 числа</item>
+	</string-array>
+
+    <string name="display_direction">Направление</string>
+	<string-array name="sort_direction_items">
+		<item>По возрастанию</item>
+		<item>По убыванию</item>
+	</string-array>	
+	<string-array name="sort_direction_title_bar">
+		<item>возрастанию</item>
+		<item>убыванию</item>
+	</string-array>	
+</resources>

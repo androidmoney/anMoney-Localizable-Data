@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="report">Report</string>
+    <string name="reports">Reports</string>
+	<string name="view_report">View report</string>
+	<string name="view_reports">View reports</string>
+	<string name="report_canceled">Report cancelled</string>
+	<string name="export_report">Export report</string>
+	<string name="report_exported">Successfully exported to the SD card</string>
+	<string name="share_report">Share report</string>
+	<string name="report_settings">Report settings</string>
+	<string name="creating_report">Creating report</string>
+	<string name="updating_report">Updating report</string>
+	<string name="custom_dates">Custom dates</string>
+	<string name="other">Other</string>
+	<string name="report_empty">There is no data to display</string>
+    <string name="report_settings_instructions_format">To change the settings for the report, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">The settings will be reset to their defaults</string>
+	<string name="settings_reset">Settings reset</string>
+	<string name="reset_canceled">Reset cancelled</string>
+    <string name="report_settings_tip">To change the settings for a report:\n\n<li>Long-tap on the report’s name and tap <b>Report settings</b></li>\n\n<li>Tap the icon at the top right corner of the screen while the report is displayed</li></string>
+	<string name="report_name">Report name</string>
+	<string name="all_reports">All reports</string>
+	<string name="favorite_reports">Favourite reports</string>
+	<string name="save_report_as">Save report as</string>
+	<string name="delete_report">Delete report</string>
+    <string name="rename_report">Rename report</string>
+    <string name="duplicate_report">Duplicate report</string>
+    <string name="delete_report_warning_format">Report ^1 will be permanently deleted</string>
+	<string name="report_type">Report type</string>
+	<string name="group">Group</string> <!-- This is a verb -->
+	<string name="do_not_group">Do not group</string>
+	<string name="today">Today</string>
+	<string name="tomorrow">Tomorrow</string>
+	<string name="yesterday">Yesterday</string>
+		<string name="select_report">Select report</string>
+    		
+	<string-array name="report_count_format_plurals">
+		<item>1 report</item>
+		<item>^1 reports</item>
+	</string-array>
+
+	<string name="chart_type">Chart type</string>
+	<string name="text_report">Text report</string>
+	<string name="pie_chart">Pie chart</string>
+	<string name="line_chart">Line chart</string>
+	<string name="bar_chart">Bar chart</string>
+
+	<string name="page_format">Page ^1</string>
+
+	<string name="page_size">Page size</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Letter</item>
+		<item>Legal</item>
+		<item>Tabloid</item>
+	</string-array>
+
+	<string name="page_orientation">Page orientation</string>
+	<string-array name="page_orientation_items">
+		<item>Portrait</item>
+		<item>Landscape</item>
+	</string-array>
+
+	<string name="amounts_on_charts">Show amounts on charts</string>
+	<string name="percentages_on_pie_charts">Show percentages on pie charts</string>
+	<string name="create_settings_page">Create settings page</string>
+	<string name="create_settings_page_description">If selected, a page with the report settings will be created when sending or exporting a PDF document</string>
+				
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Web page</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs</item>
+		<item>Suitable for printing or creating a paper trail. Requires Adobe Reader or another PDF viewer</item>
+		<item>Suitable for publishing on a website or for viewing in a web browser</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Specify format to share as</string>
+
+	<string-array name="report_list_status_filter_title_bar">
+		<item>@string/all_reports</item>
+		<item>@string/favorite_reports</item>
+	</string-array>
+</resources>

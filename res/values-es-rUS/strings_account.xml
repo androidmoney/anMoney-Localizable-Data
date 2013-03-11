@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="current_two_weeks">Quincena actual</string>
+	<string name="previous_two_weeks">Quincena anterior</string>
+	<string name="next_two_weeks">Próxima quincena</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="shareactionprovider_share_with">Sdílet s</string>
+    <string name="shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="activity_chooser_view_see_all">Zobrazit vše</string>
+</resources>

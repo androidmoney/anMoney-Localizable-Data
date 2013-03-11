@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<mainCategory>Алименты</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Автомобиль</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Автомобиль</mainCategory>
+		<subcategory>Ремонт</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Автомобиль</mainCategory>
+		<subcategory>Запчасти</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Автомобиль</mainCategory>
+		<subcategory>Топливо</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Автомобиль</mainCategory>
+		<subcategory>Обслуживание</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Комиссии</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Комиссии банка</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Комиссии банка</mainCategory>
+		<subcategory>Проценты</subcategory>
+		<expense>1</expense>
+		<defaultForInterestPaid>1</defaultForInterestPaid>
+	</record>
+	<record>
+		<mainCategory>Комиссии банка</mainCategory>
+		<subcategory>Комиссии</subcategory>
+		<expense>1</expense>
+		<defaultForServiceCharge>1</defaultForServiceCharge>
+	</record>
+	<record>
+		<mainCategory>Счета</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Счета</mainCategory>
+		<subcategory>Интернет / кабельное / спутниковое ТВ</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Счета</mainCategory>
+		<subcategory>Мобильная связь</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Счета</mainCategory>
+		<subcategory>Электричество</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Счета</mainCategory>
+		<subcategory>Телефон</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Снятие наличных</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Благотворительность</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Дети / игрушки</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Одежда / обувь</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Рестораны / кафе</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Образование</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Образование</mainCategory>
+		<subcategory>Книги</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Образование</mainCategory>
+		<subcategory>Платежи</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Развлечения</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Продукты</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Подарки</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Транспорт</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Медицина / стоматология</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Медицина / стоматология</mainCategory>
+		<subcategory>Стоматология</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Медицина / стоматология</mainCategory>
+		<subcategory>Услуги</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Медицина / стоматология</mainCategory>
+		<subcategory>Лекарства</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<subcategory>Книги и журналы</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<subcategory>Культурные мероприятия</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<subcategory>Развлечения</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<subcategory>Видеопрокат</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<subcategory>Спортивные мероприятия</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<subcategory>Товары для спорта</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<subcategory>Кассеты и CD</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Хобби / досуг</mainCategory>
+		<subcategory>Игрушки и игры</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Товары для дома</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Товары для дома</mainCategory>
+		<subcategory>Мебель / обстановка</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Содержание недвижимости</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Содержание недвижимости</mainCategory>
+		<subcategory>Уборка</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Содержание недвижимости</mainCategory>
+		<subcategory>Прочие работы</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Страхование</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Страхование</mainCategory>
+		<subcategory>Автомобиль</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Страхование</mainCategory>
+		<subcategory>Здоровье / жизнь</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Страхование</mainCategory>
+		<subcategory>Недвижимость</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Долги</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Аренда недвижимости</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Кредит</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Кредит</mainCategory>
+		<subcategory>Авто</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Кредит</mainCategory>
+		<subcategory>Потреб</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Кредит</mainCategory>
+		<subcategory>Ипотека</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Кредит</mainCategory>
+		<subcategory>Обучение</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Кредит</mainCategory>
+		<subcategory>Прочие</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Прочие расходы</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Личные расходы</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Домашние животные</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Домашние животные</mainCategory>
+		<subcategory>Питание</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Домашние животные</mainCategory>
+		<subcategory>Ветеринар</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Домашние животные</mainCategory>
+		<subcategory>Прочее</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Телефон</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Интернет / кабельное ТВ</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Электричество</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Услуги</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Налоги</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Налоги</mainCategory>
+		<subcategory>Налог на недвижимость</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Налоги</mainCategory>
+		<subcategory>Налог на автотранспорт</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Налоги</mainCategory>
+		<subcategory>Прочие налоги</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Отпуск</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Отпуск / путешествие</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Отпуск / путешествие</mainCategory>
+		<subcategory>Проживание</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Отпуск / путешествие</mainCategory>
+		<subcategory>Проезд</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Коммунальные услуги</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Проценты / дивиденды</mainCategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Доход от инвестиций</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Доход от инвестиций</mainCategory>
+		<subcategory>Доходы от краткосрочных вложений</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Доход от инвестиций</mainCategory>
+		<subcategory>Доходы от долгосрочных вложений</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Доход от инвестиций</mainCategory>
+		<subcategory>Дивиденды</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Доход от инвестиций</mainCategory>
+		<subcategory>Проценты</subcategory>
+		<expense>0</expense>
+		<defaultForInterestEarned>1</defaultForInterestEarned>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Прочие доходы</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Прочие доходы</mainCategory>
+		<subcategory>Полученные алименты</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Прочие доходы</mainCategory>
+		<subcategory>Полученные подарки</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Прочие доходы</mainCategory>
+		<subcategory>Лотереи</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Прочие доходы</mainCategory>
+		<subcategory>Налоговые вычеты</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Прочие доходы</mainCategory>
+		<subcategory>Пособие по безработице</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Выходное пособие</mainCategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Заработная плата</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Заработная плата</mainCategory>
+		<subcategory>Премия</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Заработная плата</mainCategory>
+		<subcategory>Сверхурочные</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Полученные подарки</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+</records>

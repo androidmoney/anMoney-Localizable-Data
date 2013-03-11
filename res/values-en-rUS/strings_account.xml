@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="favorites_total">Favorites total</string>
+    <string name="favorite_account">Favorite account</string>
+    <string name="favorite_accounts">Favorite accounts</string>
+    <string name="reopen_canceled">Reopen canceled</string>
+    <string name="balance_canceled">Balance canceled</string>
+    <string name="default_checking_account_name">My Checking Account</string>
+    <string name="color">Color</string>
+</resources>

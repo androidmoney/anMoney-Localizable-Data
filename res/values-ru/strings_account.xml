@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account">Счёт</string>
+    <string name="accounts">Счета</string>
+    <string name="all_accounts">Все счета</string>
+    <string name="open_accounts">Открытые счета</string>
+    <string name="liability">Обязательство</string>
+    <string name="asset">Актив</string>
+    <string name="credit_liability_details">Сведения о кредите / задолженности</string>
+<!-- <string name="associated_loan">Связанная задолженность</string> -->
+<!-- <string name="associated_loan_if_any">Связанная задолженность, если есть</string> -->
+<!-- <string name="associated_reward_program">Связанная бонусная программа</string> -->
+<!-- <string name="associated_reward_program_if_any">Связанная бонусная программа, если есть</string> -->
+	<string name="account_balances">Остатки по счетам</string>
+	<string name="vehicle_details">Сведения о т/с</string>
+    <string name="property_details">Сведения о недвижимости</string>
+    <string name="view_accounts">Показать счета</string>
+    <string name="new_account">Новый счёт</string>
+    <string name="edit_account">Изменить счёт</string>
+    <string name="balance_noun">Баланс</string>
+    <string name="balances_noun">Баланс</string>
+    <string name="adjust">Изменить</string>
+    <string name="adjust_balance">Изменить баланс</string>
+	<string name="balance_adjusted">Баланс изменён</string>
+	<string name="category_for_adjustment_transaction">Категория для транзакции корректировки</string>
+	<string name="balance_adjustment_note">Корректировка баланса</string>
+    <string name="postpone">Отложить</string>
+    <string name="balance_verb">Согласовать</string>
+    <string name="balance_account">Согласование счёта</string>
+    <string name="balanced">Согласован</string>
+    <string name="balance_postponed">Согласование отложено</string>
+    <string name="balance_canceled">Согласование отменено</string>
+	<string name="started_balancing_already">Вы уже начали согласование этого счёта</string>
+	<string name="postpone_balancing_warning">Отложить согласование</string>
+	<string name="account_balance_does_not_match_bank_warning_format">Указанный начальный баланс выписки, ^1, не совпадает с суммой согласованных ранее транзакций, ^2</string>
+	<string name="account_balance_does_not_match_credit_warning_format">Указанная сумма задолженности, ^1, не совпадает с суммой согласованных ранее транзакций, ^2</string>
+	<string name="account_balance_does_not_match_fix">Как это исправить:\n\n<li>Ещё раз проверить выписку</li>\n<li>Отметить транзакции как согласованные</li>\n<li>Отметить транзакции как несогласованные</li>\n<li>Изменить начальный баланс</li></string>
+	<string name="left_to_reconcile">Осталось согласовать</string>
+	<string name="statement_balance">Баланс выписки</string>
+    <string name="statement_date">Дата выписки</string>
+    <string name="statement_starting_balance">Начальный баланс выписки</string>
+    <string name="statement_ending_balance">Конечный баланс выписки</string>
+    <string name="amount_owed_last_month">Сумма задолженности за прошлый месяц</string>
+    <string name="amount_owed_this_month">Сумма задолженности за этот месяц</string>
+	<string name="service_charge_amount">Сумма сервисных комиссий</string>
+    <string name="service_charge_category">Категория сервисных комиссий</string>
+    <string name="service_charge_notes_format">Сервисные комиссии, уплаченные за период по ^1</string>
+    <string name="interest_earned_amount">Сумма полученных процентов</string>
+    <string name="interest_earned_category">Категория полученных процентов</string>
+    <string name="interest_earned_notes_format">Проценты, полученные за период по ^1</string>
+    <string name="interest_paid_amount">Сумма уплаченных процентов</string>
+    <string name="interest_paid_category">Категория уплаченных процентов</string>
+    <string name="interest_paid_notes_format">Проценты, уплаченные за период по ^1</string>
+	<string name="clear_all_transactions">Пометить все транзакции чистыми</string>
+	<string name="clear_all_transactions_on_all_pages">Пометить все транзакции на всех страницах чистыми</string>
+    <string name="export_account">Экспорт счёта</string>
+    <string name="delete_account">Удалить счёт</string>
+    <string name="deleting_account">Удаление счёта</string>
+    <string name="close_account">Закрыть счёт</string>
+    <string name="reopen_account">Открыть счёт</string>
+    <string name="repair_account">Исправить счёт</string>
+    <string name="repaired">Исправлен</string>
+    <string name="copy_account_number">Скопировать номер счёта</string>
+    <string name="book_total">Баланс книги</string>
+    <string name="favorites_total">Итого избранные</string>
+	<string name="delete_account_warning_part1_format">Счёт ^1 будет удалён.\n\nВсе транзакции по счёту также будут удалены</string>
+	<string name="delete_account_warning_part2_format">Чтобы скрыть счёт, но сохранить историю транзакций, нажмите ^1 и закройте счёт вместо удаления</string>
+	<string name="no_accounts">Нет ни одного счёта</string>
+    <string name="create_account_instructions_format">Чтобы создать счёт, нажмите ^i в верхней части экрана</string>
+    <string name="no_transactions_for_account">По счёту нет ни одной транзакции</string>
+    <string name="account_type">Тип счёта</string>
+    <string name="account_type_bank_first">Сначала банковские счета</string>
+    <string name="account_type_cash_first">Сначала наличные</string>
+    <string name="account_name">Имя счёта</string>
+    <string name="abbreviation">Сокращение</string>
+    <string name="abbr">Сокр</string>
+    <string name="type">Тип</string>
+    <string name="favorite_account">Избранный счёт</string>
+    <string name="favorite_accounts">Избранные счета</string>
+    <string name="budget_account">Учитывать в бюджете</string>
+    <string name="account_has_been_closed">Закрытый счёт</string>
+    <string name="acquisition_date">Дата приобретения</string>
+    <string name="credit_limit">Кредитный лимит</string>
+    <string name="must_pay_balance">Я обязан погашать всю задолженность каждый месяц (Charge card)</string>
+    <string name="will_pay_balance">Я намерен погашать всю задолженность каждый месяц</string>
+    <string name="interest_rate">Процентная ставка</string>
+    <string name="introductory_rate_in_effect">Действует льготная ознакомительная ставка</string>
+    <string name="introductory_rate">Льготная ставка</string>
+    <string name="valid_until">Действует по</string>
+    <string name="minimum_balance">Минимальный баланс</string>
+    <string name="date">Дата</string>
+    <string name="make">Марка</string>
+    <string name="vehicle_make">Марка т/с</string>
+    <string name="year">Год</string>
+    <string name="model">Модель</string>
+    <string name="vehicle_model">Модель т/с</string>
+    <string name="vehicle_identification_number">Идентификационный номер (VIN)</string>
+    <string name="vin">VIN</string>
+    <string name="purchase_location">Место приобретения</string>
+    <string name="location">Место</string>
+    <string name="warranty_information">Сведения о гарантии</string>
+    <string name="type_details_about_warranty_information">Внесите сведения о гарантии</string>
+    <string name="warranty_expiration_date">Дата окончания гарантии</string>
+    <string name="manufacturer_web_address">Сайт производителя</string>
+    <string name="property_address">Адрес недвижимости</string>
+    <string name="closed">Закрыт</string>
+    <string name="reopened">Открыт</string>
+	<string name="reopen_canceled">Открытие отменено</string>
+    <string name="no_financial_institution_assigned">Не указан финансовый институт</string>
+    <string name="maximum_100">Максимум 100%</string>
+    <string name="must_be_less_than_interest_rate">Должна быть &lt; процентной ставки</string>
+    <string name="must_be_in_future">Должна быть в будущем</string>
+    <string name="must_be_in_past">Должна быть в прошлом</string>
+    <string name="invalid_year">Некорректный год</string>
+    <string name="invalid_vin_number">Должен содержать 17 букв/цифр</string>
+    <string name="invalid_url">Некорректный URL</string>
+    <string name="opening_balance_warning_message">По счёту есть согласованные транзакции.\n\nИзменение начального баланса может повлечь рассогласование ваших данных и данных финансового института</string>
+    <string name="no_exchange_rate_warning_message_format">Не задан курс конвертации валют ^1 и ^2, поэтому баланс книги будет некорректным</string>
+    <string name="would_you_like_to_give_one_after_saving">Задать курс после сохранения</string>
+    <string name="net_worth">Капитал</string>
+    <string name="net_worth_over_time">Изменение капитала / Прогноз</string>
+	<string name="set_total_to_show">Отображаемый баланс</string>
+	<string name="total_to_show">Отображаемый баланс</string>
+    <string name="selected_total">Баланс отмеченных транзакций</string>
+	<string name="entered_total">Общий баланс</string>
+	<string name="balance_as_of_today">Сегодняшний баланс</string>
+	<string name="cleared_total">Чистый баланс</string>
+	<string name="reconciled_total">Согласованный баланс</string>
+    <string name="default_cash_account_name">Наличные</string>
+    <string name="default_checking_account_name">Текущий счёт</string>
+    <string name="default_savings_account_name">Депозит</string>
+    <string name="default_credit_account_name">Кредитная карта</string>
+	<string name="color">Цвет</string>
+	<string name="projected_balance">Прогноз</string>
+	<string name="projected_balance_at_the_end_of_the_month">Планируемый баланс на конец месяца</string>
+	<string name="at_months_end">На конец месяца</string>
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">Планируемый баланс на ^1</string>
+	<string name="total_for_format">Итого для ^1</string>
+	<string name="total_for_month">Итог месяца</string>
+	<string name="period">Период</string>
+	<string name="total_for_period">Итог периода</string>
+	<string name="total_for_unassigned">Итого для неназначенных</string>
+	<string name="make_account_budget_question_part1">Учитывать движение средств по этому счёту в бюджете</string>
+	<string name="make_account_budget_question_part2_format">Даже если вы ответите ^1, позже вы сможете изменить эту настройку в свойствах счёта</string>
+	<string name="show_option_format">Показывать ^1</string>
+    <string name="show_closed">Показывать\nзакрытые</string>
+	
+    <string name="no_accounts_yet">Нет счетов</string>
+	<string-array name="account_count_format_plurals">
+	    <item>^1 счёт</item>
+        <item>^1 счёта</item>
+        <item>^1 счетов</item>
+    </string-array>
+
+	<string-array name="pending_count_plurals">
+		<item>^1 новая транзакция</item>
+		<item>^1 новые транзакции</item>
+		<item>^1 новых транзакций</item>
+	</string-array>
+
+	<string-array name="account_group_labels">
+		<item>Банковские счета</item>
+		<item>Наличные</item>
+		<item>Кредитные счета</item>
+		<item>Инвестиционные счета</item>
+		<!-- <item>Loans and liabilities</item> -->
+		<item>Другие обязательства</item>
+		<item>Другие активы</item>
+	</string-array>
+
+	<string-array name="total_for_account_group_labels">
+		<item>Итого банковские счета</item>
+		<item>Итого наличные</item>
+		<item>Итого кредитные счета</item>
+		<item>Итого инвестиционные счета</item>
+		<!-- <item>Total for loans and liabilities</item> -->
+		<item>Итого другие обязательства</item>
+		<item>Итого другие активы</item>
+	</string-array>
+
+	<string-array name="opening_balance_new_labels">
+	    <item>Баланс счёта</item>
+		<item>Стоимость приобретения</item>
+		<item>Текущая задолженность по счёту</item>
+		<item>Текущая задолженность по карте</item>
+	</string-array>
+
+	<string name="opening">На начало</string>
+	<string-array name="opening_balance_edit_labels">
+	    <item>Начальный баланс</item>
+		<item>Стоимость приобретения</item>
+		<item>Начальная задолженность по счёту</item>
+		<item>Начальная задолженность по карте</item>
+	</string-array>
+
+	<string-array name="current_balance_edit_labels">
+		<item>Текущий баланс</item>
+		<item>Текущая стоимость</item>
+		<item>Текущая задолженность по счёту</item>
+		<item>Текущая задолженность по карте</item>
+	</string-array>
+	
+	<string-array name="account_type_names">
+	    <item>Банковский</item>
+		<item>Наличные / Другой</item>
+		<item>Кредитная карта / Charge card</item>
+		<item>Кредитная линия</item>
+		<item>Кредит</item>
+<!-- 		<item>Other liability</item> Loan Loans -->
+		<item>Другое обязательство</item>
+		<item>Недвижимость</item>
+		<item>Транспортное средство</item>
+		<item>Другой актив</item>
+		<item>Инвестиционный счет</item>
+	</string-array>
+
+	<string-array name="default_account_names">
+	    <item>Банковский счет</item>
+		<item>Наличные</item>
+		<item>Кредитная карта</item>
+		<item>Кредитная линия</item>
+		<item>Кредит</item>
+		<item>@string/liability</item>
+		<item>Недвижимость</item>
+		<item>Транспортное средство</item>
+		<item>@string/asset</item>
+		<item>Депозит</item>
+	</string-array>
+
+    <string name="show_account_numbers">Показывать номера счетов</string>
+    <string name="show_account_numbers_description">Если отмечено, под именем счёта будет показан номер счёта</string>
+    
+    <string name="use_abbreviations">Показывать сокращения</string>
+    <string name="use_abbreviations_description">Если отмечено, вместо имени счёта будет показано сокращение</string>
+    
+    <string name="show_group_totals">Показывать итоги группы</string>
+    <string name="show_group_totals_description">Если отмечено, для каждой группы счетов будет показан итог</string>
+
+	<string-array name="account_list_status_filter_title_bar">
+		<item>@string/all_accounts</item>
+		<item>@string/open_accounts</item>
+		<item>@string/favorite_accounts</item>
+	</string-array>
+
+	<string-array name="account_list_sort_order_title_bar">
+		<item>типу</item>
+		<item/> <!-- Intentionally left empty -->
+		<item>названию</item>
+		<item>финансовому институту</item>
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+
+    <string name="all_transactions">Все транзакции</string>
+    <string-array name="transaction_list_filter_title_bar">
+		<item>@string/all_transactions</item>
+		<item>@string/unreconciled2</item>
+		<item>@string/reconciled2</item>
+		<item>@string/cleared2</item>
+		<item>@string/pending2</item>
+		<item>@string/follow_up2</item>
+		<item>@string/not_exported_transaction2</item>
+	</string-array>
+
+    <string name="display_order">Упорядочить</string>
+    <string name="entry_date">Дате ввода</string>
+	<string-array name="transaction_list_sort_order_title_bar">
+		<item>дате</item>
+		<item>номеру</item>
+		<item>получателю</item>
+		<item>сумме</item>
+		<item>категории</item>
+		<item>@string/entry_date</item>
+		<item/> <!-- Not unused -->
+		<item/> <!-- Not unused -->
+		<item>счета</item>
+	</string-array>
+	
+    <string name="date_range">Период</string>
+	<string name="current_month">Текущий месяц</string>
+	<string name="previous_month">Предыдущий месяц</string>
+	<string name="next_month">Следующий месяц</string>
+	<string name="current_half_year">Текущие полгода</string>
+	<string name="previous_half_year">Предыдущие полгода</string>
+	<string name="next_half_year">Следующие полгода</string>
+	<string name="current_year">Текущий год</string>
+	<string name="previous_year">Предыдущий год</string>
+	<string name="next_year">Следующий год</string>
+	<string name="current_week">Текущая неделя</string>
+	<string name="previous_week">Предыдущая неделя</string>
+	<string name="next_week">Следующая неделя</string>
+
+
+
+	<string name="all_dates">Все даты</string>
+	<string-array name="date_range_items">
+		<item>@string/all_dates</item>
+		<item>По сегодня</item>
+		<item>@string/current_month</item>
+		<item>@string/current_year</item>
+		<item>С начала месяца</item>
+		<item>С начала года</item>
+		<item>@string/previous_month</item>
+		<item>@string/previous_year</item>
+		<item>Последние 30 дней</item>
+		<item>Последние 3 месяца</item>
+		<item>Последние 6 месяцев</item>
+		<item>Последние 12 месяцев</item>
+		<item>Следующие 30 дней</item>
+		<item>Следующие 3 месяца</item>
+		<item>Следующие 6 месяцев</item>
+		<item>Следующие 12 месяцев</item>
+		<item>@string/custom_dates</item>
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>все даты</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>30 дней</item>
+		<item>3 месяца</item>
+		<item>6 месяцев</item>
+		<item>12 месяцев</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+
+    <string name="display_grouping">Группировка</string>
+</resources>

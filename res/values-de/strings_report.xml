@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="report">Bericht</string>
+    <string name="reports">Berichte</string>
+	<string name="view_report">Berichte ansehen</string>
+	<string name="view_reports">Berichte ansehen</string>
+	<string name="report_canceled">Bericht abgebrochen</string>
+	<string name="export_report">Bericht exportieren</string>
+	<string name="report_exported">Export auf SD Karte erfolgreich</string>
+<!-- New --> <string name="share_report">Bericht teilen</string>
+	<string name="report_settings">Berichts-Einstellungen</string>
+	<string name="creating_report">Erstelle Bericht</string>
+	<string name="updating_report">Aktualisiere Bericht</string>
+	<string name="custom_dates">Eigene Datumsangaben</string>
+	<string name="other">Andere</string>
+	<string name="report_empty">Keine Daten zum Anzeigen vorhanden</string>
+    <string name="report_settings_instructions_format">Um die Berichtseinstellungen zu ändern, drücken Sie ^i oben auf den Bildschirm</string>
+	<string name="reset_report_settings">Die Einstellungen werden auf die Grundeinstellungen zurückgesetzt</string>
+	<string name="settings_reset">Seinstellungen zurückgesetzt</string>
+	<string name="reset_canceled">Zurücksetzung abgebrochen</string>
+	<string name="report_settings_tip">Um die Einstellungen für einen Bericht zu sehen:\n\n<li>Lange auf den Berichtsnamen drücken und <b>Berichtseinstellungen</b> drücken</li>\n\n<li>Drücken Sie auf das Icon am rechten oberen Bildschirmrand während der Bericht angezeigt wird.</li></string>
+	<string name="report_name">Berichtsname</string>
+	<string name="all_reports">Alle Berichte</string>
+	<string name="favorite_reports">Berichts-Favoriten</string>
+	<string name="save_report_as">Bericht sichern als</string>
+	<string name="delete_report">Bericht löschen</string>
+	<string name="rename_report">Bericht umbenennen</string>
+    <string name="duplicate_report">Bericht duplizieren</string>
+	<string name="delete_report_warning_format">Bericht ^1 wird dauerhaft gelöscht</string>
+	<string name="report_type">Bericht-Typ</string>
+	<string name="group">Gruppieren</string>
+<!-- New --> <string name="do_not_group">Nicht gruppieren</string>
+	<string name="today">Heute</string>
+	<string name="tomorrow">Morgen</string>
+	<string name="yesterday">Gestern</string>
+	<string name="select_report">Wähle Bericht</string>
+    	
+	<string-array name="report_count_format_plurals">
+		<item>1 Bericht</item>
+		<item>^1 Berichte</item>
+	</string-array>
+
+	<string name="chart_type">Diagrammart</string>
+	<string name="text_report">Bericht in Textform</string>
+	<string name="pie_chart">Torten-Grafik</string>
+	<string name="line_chart">Linien-Grafik</string>
+	<string name="bar_chart">Säulen-Diagramm</string>
+
+	<string name="page_format">Seite ^1</string>
+
+	<string name="page_size">Seitengröße</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Letter</item>
+		<item>Legal</item>
+		<item>Tabloid</item>
+	</string-array>
+
+	<string name="page_orientation">Seitehausrichtung</string>
+	<string-array name="page_orientation_items">
+		<item>Hochformat</item>
+		<item>Querformat</item>
+	</string-array>
+
+	<string name="amounts_on_charts">Zeigt Beträge auf den Grafiken an</string>
+	<string name="percentages_on_pie_charts">Zeigt Prozenangeben auf Tortengrafiken an</string>
+	<string name="create_settings_page">Seite mit Werten erstellen</string>
+	<string name="create_settings_page_description">Wenn ausgewählt, wird beim Senden oder Export jeder PDF-Datei eine zusätliche Seite mit Werten in einer Berichtsform erstellt</string>
+			
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+		<item>Web-Seite</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Lesbar durch Tabellenkalulationen, wie z.B. Microsoft® Excel oder Google-Docs</item>
+		<item>Um zu drucken oder Dokumente herzustellen. Erfordert Adobe Reader oder ein ähnliches Anzeige-Programm</item>
+		<item>Geeignet für die Veröffentlichung auf einer Website oder für die Anzeige in einem Web-Browser</item>
+	</string-array>
+
+<!-- New --> <string name="specify_format_to_share_as">Definieren Sie das Teile-Format</string>
+
+	<string-array name="report_list_status_filter_title_bar">
+		<item>@string/all_reports</item>
+		<item>@string/favorite_reports</item>
+	</string-array>
+</resources>

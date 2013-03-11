@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="financial_institution">Pénzintézet</string>
+    <string name="financial_institutions">Pénzintézetek</string>
+    <string name="financial_institution_bank_first">Pénzintézet bankszámlával elsőként</string>
+    <string name="financial_institution_cash_first">Pénzintézet készpénzzel elsőként</string>
+    <string name="view_financial_institution">Pénzintézet megtekintése</string>
+    <string name="edit_financial_institution">Pénzintézet módosítása</string>
+    <string name="call_financial_institution">Pénzintézet felhívása</string>
+    <string name="new_financial_institution">Új pénzintézet</string>
+    <string name="delete_financial_institution">Pénzintézet törlése</string>
+    <string name="delete_financial_institution_warning_format">A pénzintézet ^1 véglegesen le lesz törölve és az összes számlából el lesz eltávolítva</string>
+    <string name="add_financial_institution_as_a_contact">Pénzintézet hozzáadása személyként</string>
+    <string name="financial_institution_exists">Egy pénzintézet már létezik ezzel a névvel</string>
+    <string name="no_financial_institutions">Nincsenek pénzintézetei</string>
+    <string name="create_financial_institution_instructions_format">Pénzintézet létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
+    <string name="view_financial_institutions">Pénzintézetek megtekintése</string>
+    <string name="financial_institution_name">Pénzintézet neve</string>
+    <string name="contact_exists">Egy személy már létezik ezzel a névvel</string>
+    <string name="link_financial_institution">Szeretné hozzákapcsolni ezt a pénzintézetet a már meglévő személyhez</string>
+    
+    <string name="no_financial_institutions_yet">Nincsenek még pénzintézetek</string>
+	<string-array name="financial_institution_count_format_plurals">
+        <item>^1 pénzintézet</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="estimated_indicator">~</string>
+    <string name="recurring_bills_and_deposits">Trvalé platební a inkasní příkazy</string>
+
+    <string name="recurring_bills_and_deposits_by_direction_order_format">Trvalé příkazy ^1 podle ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="view_recurring">Zobrazit trvalé příkazy</string>
+	<string name="new_recurring">Nový trvalý příkaz</string>
+	<string name="enter">Provést</string>
+	<string name="entered">Provedeno</string>
+	<string name="enter_canceled">Provedení zrušeno</string>
+	<string name="enter_into_register">Vytvořit transakci</string>
+	<string name="enter_into_register_warning">Potvrďte prosím, že nyní chcete vytvořit transakci dle tohoto příkazu</string>
+	<string name="enter_now">Provést</string>
+	<string name="enter_after_editing">Provést po úpravě</string>
+	<string name="enter_partially_after_editing">Částečně provést po změně</string>
+	<string name="move_to_next_occurrence">Posunout na příští provedení</string>
+	<string name="remain_on_this_occurrence_format">Ponechat aktuální provedení, je-li zadaná částka menší než ^1</string>	    	    	
+	<string name="edit_recurring">Upravit trvalý příkaz</string>
+	<string name="edit_series">Celá série</string>
+	<string name="edit_occurrence">Upravit všechny výskyty</string>
+	<string name="entire_series">Všechny výskyty</string>
+	<string name="edit_template_warning">Máte naplánované budoucí upravené výskyty.\n\nZměnou trvalého příkazu budou tyto úpravy odstraněny</string>
+	<string name="delete_recurring">Smazat trvalý příkaz</string>
+	<string name="delete_recurring_warning_part1_format">Smazat ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="delete_recurring_warning_part2">Všechny budoucí výsktyt budou odstraněny</string>
+	<string name="change_recurring_amount_format">Změnit částku trvalého příkazu z ^1 na ^2</string>
+	<string name="skip">Vynechat</string>
+	<string name="skip_occurrence">Vynechat provedení</string>
+	<string name="skipped">Vynecháno</string>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item>Vynecháno ^1 provedení</item>
+		<item>Vynechána ^1 provedení</item>
+		<item>Vynecháno ^1 provedení</item>
+	</string-array>
+	<string name="skip_canceled">Vynechání zrušeno</string>
+	<string name="skip_which">Co vynechat</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="skip_one_occurrence_warning">Vynechat příští provedení</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="no_recurrings_format">Nemáte žádné trvalé příkazy.\n\nPro vytvoření:\n\n<li>^1</li>\n\n<li>Dlouze podržte libovolnou transakci a zvolte ^2</li></string>
+    <string name="create_recurring_instructions_format">Zvolte ^i v horní části obrazovky</string> <!-- ^i will be replaced by an image -->
+	<string name="recurring_no_accounts_yet">Prosím vytvořte účty a příjemce před zadáním trvalých příkazů</string>
+	<string name="specify_account">Nejprve prosím vyberte účet</string>
+	<string name="account_and_amount">Účet a částka</string>
+	<string name="payee_and_category">Příjemce a Kategorie</string>
+	<string name="auto_enter_and_reminder">Automatické provedení a Připomínání</string>
+	<string name="pay_by_check">Budu platit šekem</string>
+	<string name="amount_is">Částka je</string>
+	<string name="fixed">Pevná</string>
+	<string name="estimated">Přibližná</string>
+	<string name="estimated_amount_format">^1^2</string>
+	<string name="upcoming">Blíží se</string>
+	<string name="no_upcoming">Žádné nadcházející operace</string>
+	<string name="no_upcoming_bills">Žádné nadcházející platby</string>
+	<string name="no_upcoming_deposits">Žádné nadcházející příjmy</string>
+	<string name="enter_automatically">Automaticky naplánovat transakci</string>
+	<string name="notify_me">Upozorni mě</string>
+	<string name="cannot_auto_enter">Vzhledem k možným výkyvům kurzů měn, trvalé příkazy které provádí převody mezi účty různých měn, nebudou prováděné automaticky.\n\nVytvoření transakce musíte vyvolat manuálně a uvést při tom převodní kurs</string>
+	<string name="entered_recurring_bill">Zadán tvalý příkaz k úhradě</string>
+	<string name="entered_recurring_deposit">Zadán trvalý inkasní příkaz</string>
+	<string name="notify_me_when_entered">Upozorni mě v oznamovací liště na vytvoření transakce</string>
+	<string name="the_last_day_of_the_month">Poslední den v měsíci</string>
+	<string name="include_in_budget">Zahrnout do rozpočtu</string>
+	<string name="include_recurrings">Zahrnout trvalé příkazy</string> <!-- as in "Include recurring items on report" -->
+	<string name="make_recurring_budget_question_part1">Chcete tento trvalý příkaz přidat do vašeho rozpočtu</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part2_format">I když zvolíte ^1, můžet nastavení kdykoli změnit úpravou trvalého příkazu</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+		
+	<!-- These three below form a sentence -->
+	<string name="based_part1">Závisí na</string>
+	<string name="based_part2_singular">poslední</string>
+	<string-array name="based_part2_plurals">
+		<item>posledním ^1</item>
+		<item>posledních ^1</item>
+		<item>posledních ^1</item>
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>výskytu</item>
+		<item>výskytech</item>
+		<item>výskytech</item>
+	</string-array>
+	<string name="end_date_if_any">Datum posledního provedení</string>
+	<string name="invalid_date">Chybné datum</string>
+	<string name="repeat">Opakovat</string>
+	<string name="every_1">Každý</string>
+	<string name="every_2">Každý</string>
+	<string name="every_3">Každých</string>
+	<string-array name="every_day_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_2</item>
+		<item>@string/every_3</item>
+	</string-array>
+	<string-array name="every_week_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_2</item>
+		<item>@string/every_3</item>
+	</string-array>
+	<string-array name="every_month_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_2</item>
+		<item>@string/every_3</item>
+	</string-array>
+	<string-array name="every_year_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_2</item>
+		<item>@string/every_3</item>
+	</string-array>
+	<string name="never">Nikdy</string>
+	<string name="day_upper">Den</string>
+	<string name="day_lower">den</string>
+	<string name="days_upper">Dny</string>
+	<string name="daily">Denně</string>
+	<string name="week_upper">Týden</string>
+	<string name="weeks_upper">Týdny</string>
+	<string name="weekly">Týdně</string>
+	<string name="biweekly">Po čtrnácti dnech</string>
+	<string name="two_weeks">Po dvou týdnech</string>
+	<string name="month_upper">Měsíc</string>
+	<string name="month_lower">měsíc</string>
+	<string name="months_upper">Měsíce</string>
+	<string name="monthly">Měsíčně</string>
+	<string name="twice_a_month">Dvakrát za měsíc</string>
+	<string name="quarters_upper">Čtvrtletí</string>
+	<string name="half_year">Půl roku</string>
+	<string name="half_yearly">Pololetně</string>
+	<string name="year_upper">Rok</string>
+	<string name="year_lower">rok</string>
+	<string name="years_upper">Roky</string>
+	<string name="yearly">Ročně</string>
+	<string-array name="day_plurals">
+		<item>@string/day_lower</item>
+		<item>dny</item>
+		<item>dnů</item>
+	</string-array>
+	<string-array name="week_plurals">
+		<item>týden</item>
+		<item>týdny</item>
+		<item>týdnů</item>
+	</string-array>
+	<string-array name="month_plurals">
+		<item>@string/month_lower</item>
+		<item>měsíce</item>
+		<item>měsíců</item>
+	</string-array>
+	<string-array name="year_plurals">
+		<item>@string/year_lower</item>
+		<item>roky</item>
+		<item>roků</item>
+	</string-array>
+	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
+	<string name="if_it_falls_on_a_weekend">Pokud datum připadne na víkend</string>
+	<string name="skip_weekends">Vynechat výkendy</string>
+	
+	<string name="no_recurrings_yet">Zatím žádné trvalé příkazy</string>
+	<string-array name="recurrings_count_format_plurals">
+		<item>^1 trvalý příkaz</item>
+		<item>^1 trvalé příkazy</item>
+		<item>^1 trvalých příkazů</item>
+	</string-array>
+	
+	<string name="overdue_count_format">^1/^2</string>
+	<string name="overdue_format">^1 zpoždění</string>
+	<string-array name="overdue_count_plurals">
+		<item>^1 opožděný trvalý příkaz</item>
+		<item>^1 opožděné trvalé příkazy</item>
+		<item>^1 opožděných trvalých příkazů</item>
+	</string-array>
+
+	<string-array name="enter_into_register_fixed_amount_items">
+		<item>@string/enter_now</item>
+		<item>Nejprve upravit transakci</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">Use today’s date for the transaction date</string>
+
+	<string-array name="skip_which_items">
+		<item>Příští provedení</item>
+		<item>Všechna zpožděná provedení</item>
+	</string-array>
+
+	<string-array name="workday_adjustment_methods">
+		<item>Neupravovat</item>
+		<item>Provést v nejbližší předchozí pracovní den</item>
+		<item>Provést v nejbližší následující pracovní den</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>Každého 1.</item>
+		<item>Každého 2.</item>
+		<item>Každého 3.</item>
+		<item>Každého 4.</item>
+		<item>Každého 5.</item>
+		<item>Každého 6.</item>
+		<item>Každého 7.</item>
+		<item>Každého 8.</item>
+		<item>Každého 9.</item>
+		<item>Každého 10.</item>
+		<item>Každého 11.</item>
+		<item>Každého 12.</item>
+		<item>Každého 13.</item>
+		<item>Každého 14.</item>
+		<item>Každého 15.</item>
+		<item>Každého 16.</item>
+		<item>Každého 17.</item>
+		<item>Každého 18.</item>
+		<item>Každého 19.</item>
+		<item>Každého 20.</item>
+		<item>Každého 21.</item>
+		<item>Každého 22.</item>
+		<item>Každého 23.</item>
+		<item>Každého 24.</item>
+		<item>Každého 25.</item>
+		<item>Každého 26.</item>
+		<item>Každého 27.</item>
+		<item>Každého 28.</item>
+		<item>Každého 29.</item>
+		<item>Každého 30.</item>
+		<item>Každého 31.</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month_and_on_the">
+		<item>Každého 1. a</item>
+		<item>Každého 2. a</item>
+		<item>Každého 3. a</item>
+		<item>Každého 4. a</item>
+		<item>Každého 5. a</item>
+		<item>Každého 6. a</item>
+		<item>Každého 7. a</item>
+		<item>Každého 8. a</item>
+		<item>Každého 9. a</item>
+		<item>Každého 10. a</item>
+		<item>Každého 11. a</item>
+		<item>Každého 12. a</item>
+		<item>Každého 13. a</item>
+		<item>Každého 14. a</item>
+		<item>Každého 15. a</item>
+		<item>Každého 16. a</item>
+		<item>Každého 17. a</item>
+		<item>Každého 18. a</item>
+		<item>Každého 19. a</item>
+		<item>Každého 20. a</item>
+		<item>Každého 21. a</item>
+		<item>Každého 22. a</item>
+		<item>Každého 23. a</item>
+		<item>Každého 24. a</item>
+		<item>Každého 25. a</item>
+		<item>Každého 26. a</item>
+		<item>Každého 27. a</item>
+		<item>Každého 28. a</item>
+		<item>Každého 29. a</item>
+		<item>Každého 30. a</item>
+		<item>Každého 31. a</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_month">Poslední den v měsíci</string>
+	<string-array name="on_the_nth_day_of_the_week_format">
+		<item>První ^1</item>
+		<item>Druhý ^1</item>
+		<item>Třetí ^1</item>
+		<item>Čtvrtý ^1</item>
+	</string-array>
+	<string-array name="on_the_nth_day_of_the_week_days">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string name="on_the_last_day_of_the_week_format">On the last ^1</string>
+
+	<string name="work_week">Pracovní týden</string>
+	<string name="period_end_day_of_the_month">Poslední den období v měsíci</string>
+	<string name="fiscal_year">Fiskální rok</string>
+	
+	<string name="time_of_reminder">Čas připomenutí</string>
+	<string name="reminder_hour_of_day_change_warning">Žádná existující připomenutí <b>nebudou</b> změněna. Pokud je chcete upravit, přejděte do kalendáře vašeho zařízení a proveďte změnu tam.\n\nNové nastavení bude použito pro nová připomenut a nová provedení existujících trvalých příkazů</string>
+
+	<string-array name="auto_enter_days_before">
+		<item>Neprovádět automaticky</item>
+		<item>V den splatnosti</item>
+		<item>Den před dnem splatnosti</item>
+		<item>Dva dny před dnem splatnosti</item>
+		<item>Tři dny před dnem splatnosti</item>
+		<item>Týden před dnem splatnosti</item>
+		<item>Dva týdny před dnem splatnosti</item>
+		<item>Tři týdny před dnem splatnosti</item>
+		<item>Měsíc před dnem splatnosti</item>
+	</string-array>	
+	
+	<string-array name="days_before_plurals">
+		<item>^1 den předem</item>
+		<item>^1 dny předem</item>
+		<item>^1 dnů předem</item>
+	</string-array>
+	
+	<string-array name="days_before_due_date_plurals">
+		<item>^1 den před dnem splatnosti</item>
+		<item>^1 dny před dnem splatnosti</item>
+		<item>^1 dnů před dnem splatnosti</item>
+	</string-array>
+	
+	<string name="specify_custom_number_of_days">Uveďte požadovaný počet dnů</string>
+</resources>

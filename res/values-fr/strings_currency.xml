@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="currency">Devise</string>
+    <string name="currencies">Devises</string>
+	<string name="edit_currency">Modifier la devise</string>
+	<string name="set_as_base_currency">Définir comme devise de base</string>
+	<string name="base_currency_set">Devise de base définie</string>
+	<string name="exchange_rate">Taux de change</string>
+	<string name="exchange_rates">Taux de change</string>
+	<string name="country">Pays</string>
+	<string name="region">Région</string>
+	<string name="currency_name">Nom de la devise</string>
+	<string name="symbol">Symbole</string>
+	<string name="symbol_required">Symbole obligatoire</string>
+	<string name="exchange_rate_required">Taux de change obligatoire</string>
+	<string name="view_currencies">Voir les devises</string>
+	<string name="tap_to_modify_converted_amounts">Appuyez pour modifier les montants convertis</string>
+	<string name="currency_converter">Convertisseur de devises</string>
+	<string name="invert">Inverser</string>
+	<string name="save_exchange_rate">Enregistrer ce taux de change</string>
+    <string name="all_currencies">Toutes les devises</string>
+    <string name="used_currencies">Devises utilisées</string>
+    <string name="and_prior_format">^1 et avant</string>
+    		
+	<string-array name="currency_list_status_filter_title_bar">
+		<item>@string/all_currencies</item>
+		<item>@string/used_currencies</item>
+	</string-array>
+
+	<string-array name="currency_list_sort_order_title_bar">
+		<item>@string/name</item>
+		<item>@string/region</item>
+	</string-array>
+    
+    <string-array name="currency_count_format_plurals">
+		<item>1 devise</item>
+		<item>^1 devises</item>
+	</string-array>
+</resources>

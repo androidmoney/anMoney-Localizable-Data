@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="budget">Budget</string>
+	<string name="view_budget">Voir le budget</string>
+	<string name="edit_budget_item">Modifier le poste budgétaire</string>
+	<string name="new_budget_item">Nouveau poste budgétaire</string>
+	<string name="expenses_over_budget">Dépenses hors budget</string>
+	<string name="expenses_within_budget">Dépenses dans le budget</string>
+    <string name="budgeted_amount">Budgetisé</string>
+	<string name="actual_amount">Réel</string>
+    <string name="remainder_amount">Reste</string>
+	<string name="budget_vs_actual">Budget et Réel comparés</string>
+	<string name="budget_over_time">Budget au fil du temps</string>
+	<string name="recurring_bill_or_deposit_from">Paiement ou dépôt récurrent de</string>
+	<string name="an_additional_amount_for_this_category">Un montant supplémentaire pour cette catégorie</string>
+	<string name="the_additional_amount_for_this_category">Le montant supplémentaire pour cette catégorie</string>
+	<string name="currently_weekly_format">actuellement ^1 par semaine</string>
+
+	<string name="currently_monthly_format">actuellement ^1 par mois</string>
+	<string name="currently_half_yearly_format">actuellement ^1 par semestre</string>
+	<string name="currently_yearly_format">actuellement ^1 par an</string>
+	<string name="currently_custom_format">actuellement ^1 par an au total, selon un échéancier personnalisé</string>
+	<string name="budget_no_categories_yet">Veuillez créer des catégories avant de paramétrer le budget</string>
+	<string name="select_budget_period">Sélection de la période</string>
+    <string name="all_other_spending">Toutes autres dépenses</string>
+	<string name="special_item">Poste spécial</string>
+    <string name="no_budget_items">Aucun poste budgétaire n’est défini</string>
+    <string name="create_budget_item_instructions_format">Pour créer des postes budgétaires, appuyez sur ^i en haut de l’écran</string>
+    <string name="customized_schedule">Échéancier personnalisé</string>
+	<string name="include_budget_items">Inclure les postes budgétaires</string>
+</resources>

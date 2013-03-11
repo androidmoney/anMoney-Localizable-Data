@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="appwidget_warning_format">Úgy tűnik, hogy ^1 jelenleg az SD-kártyára van telepítve.\n\nMivel ez a widgetek eltűnését okozhatja, ha tervezi a widgetek használatát, akkor erősen ajánlott, hogy vigye az ^1-t vissza a készülék az SD-kártyájából</string>
+
+    <string name="no_books_warning">Kérjük, mielőtt ledobná a widgetet, hozzon létre legalább egy könyvet</string>
+    <string name="no_books_and_accounts_warning">Kérjük, mielőtt ledobná a widgetet, hozzon létre legalább egy könyvet es egy számlát</string>
+    <string name="no_accounts_warning">Kérjük, mielőtt ledobná a widgetet, hozzon létre legalább egy számlát</string>
+    <string name="book_no_longer_exists_format">Könyv ^1 már nem létezik</string>
+    <string name="account_no_longer_exists">A számla már nem létezik</string>
+
+    <string name="quick_entry">Gyors bejegyzés</string>
+    <string name="app_name_quick_entry">anMoney — Gyors bejegyzés</string>
+    <string name="app_name_quick_entry_large">anMoney — Gyors bejegyzés (nagy)</string>
+    <string name="app_name_quick_entry_small">anMoney — Gyors bejegyzés (kicsi)</string>
+    <string name="show_total">Megjeleníti a számla összegét</string>
+
+    <string name="app_name_upcoming">anMoney — Soron következők</string>
+
+    <string name="app_name_budget">anMoney — Költségvetés</string>
+
+    <string name="app_name_report">anMoney — Jelentés</string>
+
+	<string name="dash_clock_extension_description">A megkésett számlákat és betétetet jeleníti meg.</string>
+</resources>

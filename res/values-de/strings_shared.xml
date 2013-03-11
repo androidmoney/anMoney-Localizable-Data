@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="two_part_format">^1 ^2</string>
+    <string name="sentence_end_period_format">^1.</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="two_items_parantheses_format">^1 (^2)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 Nr. ^2</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+    <string name="ellipsize_format">^1…</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+    <string name="option_on_symbol">✓</string>
+    <string name="option_off_symbol">✗</string>
+	<string name="filter_by_order_format">^1 nach ^2</string>
+    <string name="filter_by_direction_order_format">^1 und ^2 nach ^3</string>
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 und ^3 für ^2 nach ^4 für ^5</string>
+    <string name="yes">Ja</string>
+	<string name="no">Nein</string>
+	<string name="done">Fertig</string>
+	<string name="_continue">Weiter</string>
+	<string name="continue_question">Weiter</string>
+	<string name="home">Startbildschirm</string>
+	<string name="home_screen">@string/home</string>
+	<string name="previous">Zurück</string>
+	<string name="next">Vor</string>
+	<string name="_import">Import</string>
+	<string name="imported">Importiert</string>
+	<string name="importing">Importiere</string>
+	<string name="import_canceled">Import abgebrochen</string>
+	<string name="export">Export</string>
+	<string name="exporting">Exportiere</string>
+	<string name="export_canceled">Export abgebrochen</string>
+	<string name="import_export">Import/Export</string>
+	<string name="settings">Einstellungen</string>
+	<string name="display_options">Anzeige-Optionen</string>
+	<string name="favorites">Favoriten</string>
+	<string name="add_favorite">Zu Favoriten hinzufügen</string>
+	<string name="added_to_favorites">Zu Favoriten hinzugefügt</string>
+	<string name="remove">Entfernen</string>
+	<string name="remove_favorite">Von Favoriten entfernen</string>
+	<string name="removed_from_favorites">Von Favoriten entfernt</string>
+	<string name="save">Speichern</string>
+	<string name="saved">Gespeichert</string>
+    <string name="save_canceled">Speichern abgebrochen</string>	
+	<string name="canceled">Abgebrochen</string>
+	<string name="delete">Löschen</string>
+	<string name="deleted">Gelöscht</string>
+	<string name="delete_canceled">Löschen abgebrochen</string>
+	<string name="deleting">Ich lösche</string>
+	<string name="create">Anlegen</string>
+	<string name="created">Angelegt</string>
+	<string name="create_canceled">Anlegen abgebrochen</string>
+	<string name="create_what">Was anlegen</string>
+	<string name="edit">Ändern</string>
+	<string name="edit_canceled">Ändern abgebrochen</string>
+	<string name="edit_which">Was ändern</string>
+	<string name="copy">Kopieren</string>
+	<string name="copied">Kopiert</string>
+	<string name="move">Verschieben</string>
+	<string name="moved">Verschoben</string>
+	<string name="duplicate">Duplizieren</string>
+	<string name="duplicated">Dupliziert</string>
+	<string name="rename">Umbenennen</string>
+	<string name="renamed">Umbenannt</string>
+	<string name="rename_canceled">Umbenennen abgebrochen</string>
+	<string name="link">Link</string>
+	<string name="linked">Verlinkt</string>
+	<string name="combine">Kombinieren</string>
+	<string name="combined">Kombiniert</string>
+	<string name="copy_to_clipboard">In die Zischenabkage kopieren</string>
+	<string name="set">OK</string>
+	<string name="show">Zeige</string>
+<!-- New --> <string name="share">Teilen</string>
+<!-- New --> <string name="share_canceled">Teilen abgebrochen</string>
+	<string name="create_in_app_name_format">Erstelle in ^1</string>
+	<string name="pick_from_app_name_format">Wähle von ^1</string>
+	<string name="do_not_ask_again">Bitte nicht mehr fragen</string>
+	<string name="apply_to_all">Auf alle anwenden</string>
+	<string name="all_items">Alle Posten</string>
+	<string name="notes">Bemerkungen</string>
+	<string name="no_notes">Keine Bemerkungen</string>
+	<string name="required">Angabe erforderlich</string>
+	<string name="name">Name</string>
+	<string name="amount">Betrag</string>
+	<string name="name_exists">Name existiert bereits</string>
+	<string name="start_date">Start-Datum</string>
+	<string name="end_date">End-Datum</string>
+	<string name="must_be_less_than_format">Muss sein: &lt; ^1</string>
+	<string name="must_be_greater_than_format">Muss sein &gt; ^1</string>
+	<string name="reset">Zurücksetzen</string>
+	<string name="total">Total</string>
+	<string name="grand_total">Endbetrag</string>
+    <string name="average">Mittelwert</string>
+	<string name="export_file_name">Export Dateiname</string>
+	<string name="specify_export_file_name">Bitte Dateiname für den Export angeben</string>
+    <string name="file_exists">Dateiname schon vorhanden</string>
+    <string name="folder_exists">Order-Name schon vorhanden</string>
+    <string name="choose_another_name">Bitte anderen Namen wählen</string>
+    <string name="will_be_overwritten">It wird überschrieben</string>
+	<string name="calendar">Kalender</string>
+	<string name="remind_me">Erinnerung</string>
+	<string name="add_as_a_contact">Als Kontakt hinzufügen</string>
+    <string name="to_from_format">^1 ^2</string>
+    <string name="to">Nach</string>
+    <string name="from">Von</string>
+	<string name="send_email">Email senden</string>
+	<string name="please_read">Bitte lesen!</string>
+	<string name="rate_app_format">Rate ^1</string>
+	<string name="please_rate_app_format">Bitte nehmen Sie sich einen Moment\nZeit um zu bewerten ^1</string>
+	<string name="later_rate_description">Sie werden in ca. 1 Woche wieder erinnert</string>
+	<string name="no_rate_description_format">Sie können das jederzeit vom ^1 Bildschirm machen</string>
+	<string name="task_killer_warning_format">Achtung Warnung! „task killer“ Anwendung. Das Gerät wird „wake up“einmal pro Tag einen automatischen Vorgang starten. Da dieser Vorgang sehr kurz ist, wird die Lebensdauer der Batterie kaum beeinflusst. \n\nTask Killer können diesen Vorgang negativ beeinflussen und sollten nicht mit ^1 benutzt werden</string>
+	<string name="no_thanks">Nein Danke</string>
+	<string name="maybe_later">Vielleicht später</string>
+	<string name="unexpected_error_warning">Ein unerwarteter Fehler hat anMoney beendet.\n\nHelfen Sie uns und mailen Sie uns einen Bericht. Sie können diese Mail vor dem Abschicken ändern.\n\nDanke für Ihre Mitarbeit.</string>
+	<string name="unexpected_error_notification_ticker">Unerwarteter Fehler. Bitte senden Sie einen Bericht.</string>
+	<string name="unexpected_error_notification_title">anMoney ist angehalten</string>
+	<string name="unexpected_error_notification_text">Hier drücken, um Bericht zu senden.</string>
+	<string name="unexpected_error_comment">Wenn Sie möchten, bitte beschreiben Sie, was Sie taten, als das Problem auftrat</string>
+	<string name="archiving">Archivierung</string>
+	<string name="archiving_settings">Archivierung - Einstellungen</string>
+	<string name="more">Mehr</string>
+    <string name="specify_export_options">Export Optionen festlegen</string>
+	<string name="select_all">Alle auswählen</string>
+	<string name="unselect_all">Auswahl für alle aufheben</string>
+	<string name="expand_all">Alle expandieren</string>
+	<string name="all_expanded">Alle expandiert</string>
+	<string name="collapse_all">Alle zuklappen</string>
+	<string name="all_collapsed">Alle zugeklappt</string>
+    <string name="postal_address">Postadresse</string>
+    <string name="postal_address_hint">Straße\nOrt\nPLZ</string>
+	<string name="cannot_perform_sd_card_operation">Diese Operation kann nicht ausgeführt werden. Entweder ist keine SD-Karte eingelegt oder Ihr Gerät ist mit einem Computer verbunden und blockert die SD-Karte</string>
+	<string name="cannot_perform_file_system_operation_format">Diese Operation kann nicht ausgeführt werden; auf das Datei-System (^1) kann nicht zugegriffen werden</string>
+    <string name="please_correct_and_try_again">Bitte korrigieren sie das und versuchen sie es dann erneut</string>
+	<string name="no_network_message_format">^1 benötigt einen zeitweisen Netzzugriff, um die Lizenz zu verifizieren.\n\Bitte schalten Sie das Netzwerk ein und versuchen Sie es dann erneut. Danach können Sie die Netzwerkverbindung abschalten.\n\nnWenn Sie auf ^2 drücken, kommen Sie direkt zu <b>Drahtlos &amp; Netzwerke</b></string>
+    <string name="calculator">Rechner</string>
+    <string name="only_in_full_version">Nur in der werbefreien Version PRO</string>
+    <string name="will_not_effect_transactions">Das hat <b>keine</b> Auswirkung auf bestehende Transaktionen</string>
+    
+	<string name="no_items">Keine Posten</string>
+    <string name="no_items_yet">Bisher keine Posten</string>
+    	<string-array name="items_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 Posten</item>
+    </string-array>
+    
+	<string-array name="selected_format_plurals">
+        <item>1 ausgewählt</item>
+        <item>^1 ausgewählt</item>
+    </string-array>
+    	
+	<string-array name="reminder_leads">
+		<item>Nicht mehr erinnern</item>
+		<item>An diesem Tag</item>
+		<item>Tag vorher</item>
+		<item>Zwei Tage vorher</item>
+		<item>Eine Woche vorher</item>
+		<item>Zwei Wochen vorher</item>
+	</string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1.</item>
+		<item>2.</item>
+		<item>3.</item>
+		<item>4.</item>
+		<item>5.</item>
+		<item>6.</item>
+		<item>7.</item>
+		<item>8.</item>
+		<item>9.</item>
+		<item>10.</item>
+		<item>11.</item>
+		<item>12.</item>
+		<item>13.</item>
+		<item>14.</item>
+		<item>15.</item>
+		<item>16.</item>
+		<item>17.</item>
+		<item>18.</item>
+		<item>19.</item>
+		<item>20.</item>
+		<item>21.</item>
+		<item>22.</item>
+		<item>23.</item>
+		<item>24.</item>
+		<item>25.</item>
+		<item>26.</item>
+		<item>27.</item>
+		<item>28.</item>
+		<item>29.</item>
+		<item>30.</item>
+		<item>31.</item>
+	</string-array>
+
+	<string name="display_direction">Anzeige-Richtung</string>
+	<string-array name="sort_direction_items">
+		<item>Aufsteigend</item>
+		<item>Absteigend</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>aufsteigend</item>
+		<item>absteigend</item>
+	</string-array>
+</resources>

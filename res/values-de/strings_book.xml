@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="book">Mappe</string>
+	<string name="books">Mappen</string>
+	<string name="new_book">Neue Mappe</string>
+	<string name="new_book_name">Name der neuen Mappe</string>
+	<string name="open_book">Mappe öffnen</string>
+	<string name="close_book">Mappe schließen</string>
+	<string name="rename_book">Mappe umbenennen</string>
+	<string name="delete_book">Mappe löschen</string>
+<!-- New --> <string name="share_book">Mappe teilen</string>
+<!-- New --> <string name="preparing_to_share">Teilen gerade</string>
+    <string name="book_delete_warning_short_format">Mappe ^1 wird gelöscht</string>
+    <string name="all_data_will_be_lost">Alle Daten in der Mappe gehen unwiderbringlich verloren, falls kein Backup angelegt wurde</string>
+	<string name="import_into_book">Import in die Mappe</string>
+	<string name="export_from_book">Export von der Mappe</string>
+	<string name="import_into_book_format">Import in die Mappe ^1</string>
+	<string name="copying_book">Kopiere die Mappe</string>
+    <string name="no_books">Sie haben keine Mappen</string>
+    <string name="create_book_instructions_format">Zum Erstellen einer Mappe, drücken Sie ^i oben auf den Bildschirm</string>
+	<string name="book_list_favorites_empty">Keine Mappen bei den Favoriten</string>
+	<string name="creating_book">Erstelle Mappe</string>
+    <string name="upgrading_book">Bereite Mappe auf</string>
+    <string name="upgrading_books">Bereite Mappen auf</string>
+	<string name="backup">Backup</string>
+	<string name="backup_canceled">Backup abgebrochen</string>
+	<string name="backup_book">Backup von Mappe</string>
+	<string name="overwrite">Überschreibe</string>
+	<string name="backup_name">Backup Name</string>
+	<string name="auto_backup_name_format">^1 (^2 Auto)</string>
+	<string name="backing_up_book">Backup der Mappe läuft</string>
+    <string name="restore">Wiederherstellen</string>
+	<string name="restored">Wiederhergestellt</string>
+	<string name="restore_canceled">Wiederherstellung abgebrochen</string>
+	<string name="restore_book">Wiederherstellung von Mappe</string>
+	<string name="restoring_book">Wiederherstellung der Mappe läuft</string>
+	<string name="restore_warning_format">Mappe ^1 wird überschrieben. <b>Alle</b> Daten werden unwiederbringlich gelöscht</string>
+	<string name="select_backup_file_to_restore">Backup File zum Wiederherstellen auswählen</string>
+	<string name="select_backup_file_to_create_from">Backup File zum Wiederherstellen auswählen von</string>
+	<string name="import_statement">Import der Auszüge</string>
+	<string name="no_sd_card_inserted">Keine SD-Karte eingesetzt</string>
+	<string name="select_files">Dateien auswählen</string>
+	<string name="delete_file">Datei löschen</string>
+	<string name="delete_file_warning_format">Datei ^1 wird gelöscht</string>
+	<string-array name="delete_files_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 ausgewählten Dateien werden gelöscht</item>
+    </string-array>
+	<string name="select_book">Mappe auswählen</string>
+	<string name="select_book_to_import_into">Mappe für den Import der Auszüge auswählen</string>
+	<string name="select_import_file">Datei(en) für den Import auswählen</string>
+    <string name="reading_format">Lesen ^1</string>
+    <string name="reading_file">Lesen Datei</string>
+    <string name="reading_files">Lesen Dateien</string>
+	<string name="checking_for_duplicate_transactions">Prüfe auf doppelte Transaktionen</string>
+	<string name="not_specified_brackets">&lt;Nicht festgelegt></string>
+	<string name="map_accounts">Konten zuordnen</string>
+	<string name="configure_account_mappings">Kontenzuordnung konfigurieren</string>
+	<string name="account_required">Konto notwendig</string>
+	<string name="duplicate_name">Doppelter Name</string>
+	<string name="options">Optionen</string>
+	<string name="select_options">Import-Optionen auswählen</string>
+	<string name="remove_duplicates">Doppelte Übertragungen</string>
+	<string name="remove_duplicates_notes">Dies funktioniert in der Mehrzahl der Fälle, aber es gibt Probleme, wenn die Konten Beträge in verschiedenen Währungen aufweisen. In diesen Fällen ist keine Zuweisung möglich. Bitte prüfen Sie nach dem Import die Salden auf ihre Richtigkeit</string>
+	<string name="import_classes">Import Klassen</string>
+	<string name="ignore_memos">Memo-Feld ignorieren</string>
+	<string name="create_payees_in_app_name_format">Empfänger anlegen in ^1</string>
+	<string name="contact_account">Empfänger aus Adressbuch anlegen</string>
+	<string name="select_import_mode">Import-Art auswählen</string>
+	<string name="select_accounts_to_export">Konten für Export auswählen</string>
+	<string name="specify_export_file_format">Export-Format festlegen</string>
+	<string name="mark_transactions_exported">Transaktionen als exportiert markieren</string>
+	<string name="create_single_file">Eine einzelne Datei erstellen</string>
+	<string name="no_transactions_matched_your_selection_criteria">Keine Transaktion entspricht Ihren Auswahlkriterien.\n\nEs sind keine Export-Dateien erstellt worden</string>
+	<string name="import_folder">Import-Ordner</string>
+	<string name="export_folder">Export-Ordner</string>
+	<string name="ask_to_view_imported_transaction">Möchten Sie die importierten Auszüge sehen</string>
+	<string name="tip">Tipp</string>
+    <string name="user_guide">Bedienungsanleitung (englisch)</string>
+
+	<string name="whats_new">Was ist neu</string>
+	<string name="license">Lizenz</string>
+	<string name="accept_license">Lizenz akzeptieren</string>
+	<string name="decline">Ablehnen</string>
+	<string name="thank_you">Danke sehr!</string>
+	<string name="password">Passwort</string>
+	<string name="old_password">Altes Passwort</string>
+	<string name="new_password">Neues Passwort</string>
+	<string name="verify_password">Passwort bestätigen</string>
+	<string name="enter_password">Passwort eingeben</string>
+	<string name="incorrect_password">Passwort nicht korrekt. Bitte nochmals eingeben</string>
+	<string name="set_password">Passwort setzen</string>
+	<string name="password_set">Passwort gesetzt</string>
+	<string name="edit_password">Passwort ändern</string>
+	<string name="remove_password">Passwort löschen</string>
+	<string name="password_removed">Passwort gelöscht</string>
+	<string name="remove_password_message">Das Passwort wird gelöscht.\n\nIhre Daten sind für Jedermann sichtbar</string>
+	<string name="password_has_not_been_changed">Passwort ist nicht geändert worden</string>
+	<string name="passwords_dont_match">Passwörter sind ncht identisch</string>
+    <string name="case_sensitive">Groß-Kleinschreibung beachten</string>
+	<string name="disclaimer">Haftungsausschluss</string>
+	<string name="password_disclaimer">Bitte lesen Sie den Haftungsausschluss und aktivieren Sie die Check-Box am Ende.\n\nBeachten Sie, dass der Passwortschutz als Gegenmaßnahme für „neugierige Augen“ gedacht ist. Wegen technischer Beschränkungen Ihres Gerätes kann kein absoluter Schutz gewährleistet werden. Jemand ist fortgeschrittenen Kenntnissen könnte in der Lage sein, sich  trotz Passworts Zutritt zu Ihren Daten zu verschaffen.\n\nEs wird ausdrücklich empfohlen, Ihr Gerät zusätzlich mit einem Zugangscode oder einer PIN abzusichern</string>
+	<string name="i_understand_the_limitations">Ich habe diese Einschränkungen verstanden</string>
+	<string name="set_password_now_part1">Passwort jetzt setzen</string>
+    <string name="set_password_now_part2_format">Sogar wenn Sie mit ^1 antworten, haben Sie jederzeit die Möglichkeit, ein Passwort zu vergeben. Drücken Sie dazu lange auf den Namen der Mappe und drücken Sie erneut ^2</string>
+	<string name="folder_name_format">Ordnername (^1 für Unterordner benutzen)</string>
+	<string name="no_backup_files">Keine Backup-Dateien gefunden</string>
+	<string name="no_backup_files_new_instructions">Eine neue Mappe kann nicht durch Importieren angelegt werden. Bitte legen Sie zuerst eine neue Mappe selbst an und importieren danach</string>
+	<string name="remove_transactions">Entfernen Sie Transaktionen, die älter sind als das Datum</string>
+	<string name="book_to_make_copy_of">Mappe, die kopiert werden soll</string>
+	<string name="truncate_warning_format">Alle Transaktionen vor ^1 werden unwiderbringlich gelöscht</string>
+	<string name="information_and_help">Information &amp; Hilfe</string>
+	<string name="discussion_forum">Diskussionsforum</string>
+	<string name="join_the_user_community_format">Der ^1 User’s Community beitreten</string>
+	<string name="contact_us">Kontaktieren Sie uns</string>
+	<string name="email_the_developers">Email an die Entwickler</string>
+    <string name="tap_to_display_import_settings_format">Drücken ^1 zeigt Einstellungen für den Import-Bildschirm</string>
+    <string name="verify_import_settings">Stellen Sie sicher, dass die Grundeinstellungen für die zu importierende Datei richtig sind. Wenn alles OK ist, drücken Sie <b>Zurück</b> Pfeiltaste, um mit dem Import fortzufahren</string>
+	<string name="change_settings_instructions_format">Diese Meldung erscheint nicht mehr für nachfolgende Importe. Sie können aber die Einstellungen jederzeit ändern. Drücken Sie ^i oben auf den Bildschirm</string>
+    <string name="bad_import_settings">Die folgenden Einstellungen sind für die zu importierende Datei nicht korrekt</string>
+	<string name="qif_csv_encoding_explanation_format">Typischerweise wird über ^1 die Sprache aus nachfolgender Liste ausgewählt, aber manche Finanzinstitue können Dateien erstellen, wobei ^2für den korrekten Import ausgewählt werden muss.\n\nFür alle anderen Sprachen, die NICHT in der Liste sind, sollte immer ^2 gewählt werden</string>
+	<string name="credits_legal">Danksagung &amp; juristisches</string>
+	<string name="contact_and_social">Kontakt &amp; soziales</string>
+	<string name="add_us_to_circle">Zu den Kreisen hinzufügen und +1 uns</string>
+	<string name="follow_us">„Follow us“ (Soziale Kontakte)</string>
+	<string name="become_a_fan">Werden Sie ein Fan</string>
+    <string name="haptic_feedback">Haptisches Feedback</string>
+	<string name="haptic_feedback_description">Wenn ausgewählt, vibrieren die Tasten</string>
+	<string name="default_book_name">Meine Mappe</string>
+	<string name="color_theme">Thema</string>
+	<string name="dark">Dunkel</string>
+	<string name="light">Hell</string>
+	<string name="preview">Vorschau</string>
+		
+	<string-array name="book_new_source">
+		<item>Erstellung von Anfang an</item>
+		<item>Erstellung von einem Backup</item>
+		<item>Kopie einer bestehenden Mappe</item>
+	</string-array>
+
+	<string-array name="book_new_source_descriptions">
+		<item/>
+		<item/>
+		<item>und optional gekürzt nach einem angegebenen Datum</item>
+	</string-array>
+
+	<string-array name="import_mode">
+		<item>Heruntergeladene Auszüge von Banken</item>
+		<item>Daten von anderer Software</item>
+	</string-array>
+
+	<string-array name="import_mode_description">
+		<item>Für Auszüge die von verschiedenen Finanzinstituten heruntergeladen werden; z.B. Auszüge am Monatsende von American Express. Sowohl <b>QIF</b> als auch <b>OFX/QFX/OFS</b> Formate werden unterstützt. Die importierten Dateien dürfen keine internen Übertragungen (von Knoto zu Konto) haben</item>
+		<item>Für Transfers von anderer Finanz-Software, wie z.B. Microsoft® Money oder Quicken®. Nur das <b>QIF</b>-Format wird unterstützt</item>
+	</string-array>
+
+	<string-array name="book_export_file_type_description">
+		<item>Je nachdem, welche Klassen oder Kategorien sie verwenden, kann es u.U. nur von Microsoft® Money gelesen werden</item>
+		<item>Lesbar von allen Anwendungen, die das QIF-Format unterstützen</item>
+		<item>Lesbar durch Tabellenkalkulations-Programme, wie z.B. Microsoft® Excel or Google Docs. Die erste exportierte Zeile enthält den Header (Feldnamen), gefolgt von einer Zeile für jede Transaktion. Jede Splitbuchung hat eine eigene Zeile</item>
+	</string-array>
+
+    <string name="import_file_confirm_format">Möchten Sie importieren ^1</string>
+	<string-array name="import_files_confirm_format_plurals">
+        <item/> <!-- Unused -->
+		<item>Möchten Sie die ^1 Dateien importieren</item>
+    </string-array>
+
+	<string name="general">Allgemein</string>
+    <string name="navigation">Navigation</string>
+	
+	<string name="reopen_last_book">Letzte Mappe öffnen</string>
+	<string name="reopen_last_book_description">Wenn ausgewählt, wird die letzte bearbeitete Mappe bei Neustart geöffnet</string>
+
+	<string name="starting_screen">Startbildschirm</string>
+
+	<string name="back_press_on_home_screen">Zurück zum Startbildschirm</string>
+	<string-array name="back_press_on_home_screen_items">
+		<item>Schließt ^1</item>
+		<item>Schließt aktuelle Mappe und zeigt Liste der Mappen an</item>
+	</string-array>
+
+	<string name="negative_amount_format">Negatives Konten-Format</string>
+
+	<string name="show_currency_symbol">Zeige Währungssymbol</string>
+	<string-array name="show_currency_symbol_items">
+		<item>Entsprechend der Währungseinstellungen</item>
+		<item>Vor der Summe</item>
+		<item>Nach der Summe</item>
+	</string-array>
+
+	<string name="base_currency">Grundwährung</string>
+<!-- New --> <string name="space_between_symbol_and_amount">Raum zwischen dem Symbol und dem Betrag</string>
+	
+	<string name="password_time_out_period">Passwort wird aktiv nach</string>
+	<string-array name="n_seconds_format_plurals">
+        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+        <item>^1 Sekunden</item>
+    </string-array>
+	<string-array name="n_minutes_format_plurals">
+		<item>1 Minute</item>
+		<item>^1 Minuten</item>
+	</string-array>
+
+	<string name="set_button_behavior_format">Rechner ^1 Verhalten</string>
+	<string-array name="set_button_behavior_items">
+		<item>Setzt die aktuelle Nummer</item>
+		<item>Schließt Berechnung ab und zeigt das Ergebnis</item>
+	</string-array>
+
+	<string name="confirmations_and_warnings">Bestätigungen &amp; Warnungen</string>
+
+	<string name="warn_if_no_category">Warnung, falls keine Kategorie angegeben</string>
+	<string name="warn_if_no_category_description">Wenn gewählt, wird Warnung bei kategorieloser Buchung ausgegeben</string>
+
+	<string name="warn_if_incorrect_category_type">Warnung. wenn Typ der Kategorie nicht korrekt</string>
+	<string name="warn_if_incorrect_category_type_description">Wenn ausgewählt, wird Warnung ausgegeben wenn Kategorie-Typ nicht korrekt ist</string>
+
+	<string name="modification_confirmation">Bestätigung der Änderung</string>
+	<string-array name="modification_confirmation_items">
+		<item>Keine</item>
+		<item>Nur abgeglichen</item>
+		<item>Alle</item>
+	</string-array>
+
+	<string name="back_press_prompt">Zurück: Prompt drücken</string>
+	<string name="back_press_prompt_description">Wenn ausgewählt, wird nach Speichern gefragt, wenn die Zurück-Schaltfläche gedrückt wird</string>
+
+	<string name="new_payee_confirmation">Neuen Empfänger bestätigen</string>
+	<string name="new_payee_confirmation_description">Wenn ausgewählt, wird eine bestätigung vor Anlegen eines neuen Empfängers gezeigt</string>
+
+	<string name="duplicate_check_number">Doppelte Scheck-Nummer</string>
+	<string name="duplicate_check_number_description">Wenn ausgewählt, wird eine Warnung ausgegeben, wenn die Scheck-Nummer bereits existiert</string>
+
+	<string name="field_with_initial_focus">Feld mit Anfangs anfänglicher-Markierung</string>
+    
+	<string name="show_keyboard_automatically">Zeigt die Tatstatur automatisch</string>
+	<string name="show_keyboard_automatically_description">Wenn ausgewählt, erscheint das Pop-Up-Keyboard automatisch, wenn etwas eingegeben werden soll</string>
+
+	<string name="notes_in_transaction_window">Bemerkungen im Transaktions-Fenster</string>
+	<string name="notes_in_transaction_window_description">Wenn ausgewählt, können einzeilige Bemerkungen im Transaktions-Fenster bearbeitet werden</string>
+
+	<string name="new_category_in_transaction_window">Neue Kategorie im Transaktions-Fenster</string>
+	<string name="new_category_in_transaction_window_description">Wenn ausgewählt, kann eine neue Kategorie im Kategorie-Fenster angelegt werden</string>
+
+	<string name="hide_labels">Verberge Beschriftung</string>
+	<string name="hide_labels_description">Wenn ausgewählt, können Beschriftungen im Transaktions-Fenster ausgeblendet werden, um mehr Platz zu schaffen</string>
+
+	<string name="security">Sicherheit</string>
+
+	<string name="quick_entry_password">Schnelleingabe des Passwortes</string>
+	<string name="quick_entry_password_description">Wenn ausgewählt, fragt das Schnelleintrags-Widget nach dem Passwort</string>
+
+	<string name="backup_folder">Backup-Ordner</string>
+
+	<string name="date_in_file_name">Datum im Dateinamen</string>
+	<string name="date_in_file_name_description">Wenn ausgewählt, wird das aktuelle Datum in den Dateinamen hinzugefügt</string>
+    
+	<string name="automatic_backup">Automatisches Backup</string>
+	<string name="automatic_backup_description">Wenn ausgewählt, wird die Mappe automatisch gespeichert</string>
+
+	<string name="backup_how_often">Wie oft ein Backup anlegen</string>
+
+	<string name="auto_backup_notify_description">Wenn ausgewählt, wird eine Benachrichtigung nach dem Backup angezeigt</string>
+
+	<string name="backed_up_book_format">Backup ^1</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item/> <!-- Not used -->
+        <item>Backup von ^1 Mappen</item>
+    </string-array>
+
+	<string-array name="book_exported_format_plurals">
+		<item>Eine Transaktion exportiert</item>
+		<item>Export von ^1 Transaktionen</item>
+	</string-array>
+
+	<string name="failed_to_back_up_book">Backup der Mappe fehlgeschlagen</string>
+	<string name="no_space_left_on_sd_card">Kein Platz mehr auf der SD-Karte</string>
+	<string name="cannot_restore_newer_version">Wiederherstellung eines Backups von ^1 unmöglich.\n\nBitte installieren Sie die neueste Version von ^1 und versuchen Sie es noch einmal</string>
+		
+	<string name="file">Datei</string>	
+	<string name="folder">Ordner</string>	
+	<string name="external_storage">Externen Speicher</string>	
+	<string name="path">Pfad</string>	
+
+	<string name="qif_csv_date_order">QIF/CSV Datums-Anordnung</string>
+
+	<string name="comma">Komma</string>	
+		<string name="qif_csv_decimal_mark">QIF/CSV Dezimalpunkt</string>
+	<string-array name="qif_csv_decimal_marks">
+		<item>Dezimalpunkt</item>
+        <item>@string/comma</item>
+    </string-array>
+
+<!-- New --> <string name="csv_delimiter">CSV delimiter</string>
+	<string-array name="csv_delimiters">
+		<item>@string/comma</item>
+<!-- New -->  <item>Semikolon</item>
+    </string-array>
+
+	<string name="qif_csv_encoding">QIF/CSV Kodierung</string>
+    <string name="ofx_qfx_encoding">OFX/QFX/OFS Kodierung</string>
+	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+		<item>GBK (Chinesischer National Standard)</item>
+		<item>Kyrillisch (Windows)</item>
+        <item>Westeuropäischen (Windows)</item>
+        <item>Mitteleuropäischen (Windows)</item>
+    </string-array>
+
+	<string name="maintain_entries">Einträge behalten</string>
+	<string name="maintain_number_field_entries"> Anzahl der Feldeinträge behalten</string>
+	<string name="maintain_number_field_entries_description">Erlaubt Ihnen, nicht mehr benötigte Nummern von Transaktionen zu löschen</string>
+
+    <string name="delete_entry_warning_format">Eintrag ^1 wird gelöscht</string>
+    <string-array name="delete_entries_warning_format_plurals">
+        <item/> <!-- Not used -->
+		<item>^1 Einträge werden gelöscht</item>
+    </string-array>
+</resources>

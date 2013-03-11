@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="budget">Presupuesto</string>
+    <string name="view_budget">Visualizar presupuesto</string>
+    <string name="edit_budget_item">Editar ítems de presupuesto</string>
+    <string name="new_budget_item">Nuevo ítem de presupuesto</string>
+    <string name="expenses_over_budget">Gastos con presupuesto excedido</string>
+    <string name="expenses_within_budget">Gastos dentro del presupuesto</string>
+    <string name="budgeted_amount">Presupuestado</string>
+    <string name="actual_amount">Actual</string>
+    <string name="remainder_amount">Restante</string>
+	<string name="budget_vs_actual">Presupuesto vs. Actual</string>
+	<string name="budget_over_time">Presupuesto a través del tiempo</string>
+	<string name="recurring_bill_or_deposit_from">Cuentas o depósitos recurrentes</string>
+    <string name="an_additional_amount_for_this_category">Una cantidad adicional para esta categoría</string>
+    <string name="the_additional_amount_for_this_category">La cantidad adicional para esta categoría</string>
+    <string name="currently_weekly_format">actualmente ^1 semanal</string>
+
+    <string name="currently_monthly_format">actualmente ^1 mensual</string>
+<!-- Verify --> <string name="currently_half_yearly_format">actualmente ^1 semestral</string>
+    <string name="currently_yearly_format">actualmente ^1 anual</string>
+    <string name="currently_custom_format">actualmente una programación personalizada totalizando ^1 anual</string>
+    <string name="budget_no_categories_yet">Por favor, crea categorías antes de establecer el presupuesto</string>
+    <string name="select_budget_period">Selecciona período del presupuesto para ver</string>
+    <string name="all_other_spending">Todos los demás gastos</string>
+    <string name="special_item">Ítem especial</string>
+    <string name="no_budget_items">No tienes ningún ítem en el presupuesto</string>
+    <string name="create_budget_item_instructions_format">Para crear ítens en el presupuesto, pulsa el ^i botón en la parte inferior de la pantalla</string>
+    <string name="customized_schedule">Programación personalizada</string>
+	<string name="include_budget_items">Incluye partidas presupuestarias</string>
+</resources>

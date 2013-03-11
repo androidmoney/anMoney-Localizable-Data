@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_payee">Ver beneficiários</string>
+    <string name="edit_payee">Alterar beneficiário</string>
+    <string name="new_payee">Novo beneficiário</string>
+    <string name="call_payee">Chamar beneficiário</string>
+    <string name="delete_payee">Excluir beneficiário</string>
+    <string name="delete_payee_warning_format">Beneficiário ^1 será excluído de forma permanente</string>
+    <string name="delete_from_app_format">Também exclua de ^1</string>
+    <string name="add_payee_as_a_contact">Adicione o beneficiário como contato</string>
+    <string name="payee">Beneficiário</string>
+    <string name="payer">Pagador</string>
+    <string name="payees">Beneficiário</string>
+    <string name="payee_required">Beneficiário obrigatório</string>
+    <string name="payer_required">Pagador obrigatório</string>
+    <string name="call">Chamar</string>
+    <string name="view_address">Ver endereço postal</string>
+    <string name="map_address">Mapa do endereço</string>
+    <string name="no_payees">Você não tem nenhum beneficiário</string>
+    <string name="create_payee_instructions_format">Para criar um beneficiário, toque ^i no topo da tela</string>
+    <string name="payee_transaction_list_empty">Você não tem transações para este beneficiário</string>
+    <string name="payee_exists">Um beneficiário com este nome já existe</string>
+    <string name="combine_payees">Você gostaria de relacionar estes dois beneficiários</string>
+    <string name="payee_name">Nome do beneficiário</string>
+    <string name="link_payee">Você quer relacionar este beneficiário ao contato existente</string>
+    <string name="account_number">Número da conta</string>
+    <string name="phone">Telefone</string>
+    <string name="phone_number">Número telefônico</string>
+    <string name="email">Email</string>
+    <string name="email_address">Endereço de email</string>
+    <string name="url">Site</string>
+    <string name="web_address">Endereço web</string>
+    <string name="select_account">Selecione uma conta</string>
+    <string name="open_web_page">Abrir página web</string>
+    <string name="view_payees">Ver beneficiário</string>
+    <string name="default_payee_name">Meu beneficiário</string>
+	<string name="spending_by_payee">Despesas por beneficiário</string>
+    <string name="all_payees_hidden_by_filter">Todos os beneficiários estão ocultos pelos filtros de tela</string>
+
+    <string name="without_payee">Sem beneficiário</string>
+    <string name="no_payees_yet">Nenhum beneficiário ainda</string>
+	<string-array name="payee_count_format_plurals">
+        <item>1 beneficiário</item>
+        <item>^1 beneficiários</item>
+    </string-array>
+
+    <string name="all_payees">Todos os beneficiários</string>
+	<string name="payees_in_open_accounts">Beneficiários em contas abertas</string>
+	<string name="payees_in_closed_accounts_only">Beneficiários em contas fechadas somente</string>
+	<string name="unused_payees">Beneficiários não utilizados</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

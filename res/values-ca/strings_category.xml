@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_main_sub_separator">:</string>
+    <string name="category">Categoria</string>
+    <string name="categories">Categories</string>
+    <string name="subcategory">Subcategoria</string>
+    <string name="classification">Classificació</string>
+    <string name="_class">Classe</string>
+    <string name="subclass">Subclasse</string>
+    <string name="parent_category">Categoria arrel</string>  <!-- This is the main category that a subcategory belongs to -->
+    <string name="parent_class">Classe arrel</string>  <!-- This is the main class that a subclass belongs to -->
+    <string name="edit_category">Editar categoria</string>
+    <string name="edit_subcategory">Editar subcategoria</string>
+    <string name="edit_class">Editar classe</string>
+    <string name="edit_subclass">Editar subclasse</string>
+    <string name="new_category">Nova categoria</string>
+    <string name="new_subcategory">Nova subcategoria</string>
+    <string name="new_class">Nova classe</string>
+    <string name="new_subclass">Nova subclasse</string>
+    <string name="delete_category">Esborrar categoria</string>
+    <string name="delete_subcategory">Esborrar subcategoria</string>
+    <string name="delete_class">Esborrar classe</string>
+    <string name="delete_subclass">Esborrar subclasse</string>
+    <string name="add_default_categories">Afegir categories per defecte</string>
+    <string name="add_classification">Afegir classificació</string>
+    <string name="select_category">Seleccionar categoria</string>
+    <string name="select_class">Seleccionar classe</string>
+    <string name="delete_classification">Esborrar classificació</string>
+    <string name="rename_classification">Canviar nom a la classificació</string>
+    <string name="select_classification">Seleccionar classificació</string>
+    <string name="enter_classification_name">Introduir nom de la classificació</string>
+    <string name="enter_new_classification_name">Introduir nom de la nova classificació</string>
+    <string name="categories_and_classifications">Categories i classificacions</string>
+    <string name="no_categories_expense">No teniu cap categoria de despesa</string>
+    <string name="no_categories_income">No teniu cap categoria d’ingrés</string>
+    <string name="no_classes">No teniu cap classe</string>
+    <string name="create_category_instructions_format">Per a crear una categoria, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_class_instructions_format">Per a crear una classe, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->
+    <string name="uncategorized_transactions">Transaccions sense categoria</string>
+    <string name="delete_category_no_subcategories_warning_format">La categoria ^1 serà esborrada de forma permanent</string>
+    <string name="delete_class_no_subclass_warning_format">La classe ^1 serà esborrada de forma permanent</string>
+    <string name="delete_category_with_subcategories_warning_format">La categoria ^1 i <b>totes les seves subcategories</b> seran esborrades de forma permanent</string>
+    <string name="delete_class_with_subclass_warning_format">La classe ^1 i <b>totes les seves subclasses</b> seran esborrades de forma permanent</string>
+    <string name="delete_subcategory_warning_format">La subcategoria ^1 serà esborrada de forma permanent</string>
+    <string name="delete_subclass_warning_format">La subclasse ^1 serà esborrada de forma permanent</string>
+    <string name="delete_classification_warning_format">La classificació ^1 serà esborrada de forma permanent. Se’ls treurà la classificació a les transaccions</string>
+    <string name="deleting_classification">Esborrant classificació</string>
+    <string name="default_categories_add_confirmation">Vol afegir les categories per defecte</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="default_categories_added">S’han afegit les categories per defecte</string>
+    <string name="adding_default_categories">Afegint categories per defecte</string>
+    <string name="all_categories">Totes les categories</string>
+    <string name="expense">Despesa</string>
+    <string name="expenses">Despesa</string>
+    <string name="expense_categories">Categories de despesa</string>
+    <string name="income">Ingrés</string>
+    <string name="income_categories">Categories d’ingrés</string>
+    <string name="savings">Estalvi</string> <!-- As in "amount saved by budgeting" -->
+    <string name="category_name">Nom de la categoria</string>
+    <string name="subcategory_name_lower">nom de la subcategoria</string>
+    <string name="class_name">Nom de la classe</string>
+    <string name="subclass_name_lower">nom de la subclasse</string>
+    <string name="without_subcategory">Sense subcategoria</string>
+    <string name="cannot_be_zero">No pot ser 0</string>
+    <string name="change_expense_warning">Vol canviar aquesta categoria de despesa a ingrés, o a l’inrevés</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="prepopulate">Omplir amb les categories per defecte</string>
+    <string name="short_categories">Carregar només llista curta de categories (més tard tindrà l’opció de carregar la llista sencera)</string>
+    <string name="view_categories">Mostrar categories</string>
+    <string name="category_not_found">No s’ha trobat la categoria</string>
+    <string name="class_not_found">No s’ha trobat la classe</string>
+    <string name="total_income">Total ingressos</string>
+    <string name="total_expense">Total despeses</string>
+	<string name="net">Net</string>
+    <string name="net_income">Ingressos nets</string>
+    <string name="uncategorized">Sense categoria</string>
+    <string name="income_uncategorized">Ingrés sense categoria</string>
+    <string name="expense_uncategorized">Despesa sense categoria</string>
+    <string name="show_uncategorized">Mostrar sense categoria</string>
+    <string name="move_subcategory_to_another_category_warning">Vol moure aquesta subcategoria a sota d’una altre categoria</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="show_zero_balance_categories">Mostrar categories amb saldo zero</string>
+    <string name="show_zero_balance_items">Mostrar elements amb saldo zero</string> <!-- "Items" refers to classification name -->
+    <string name="recategorize_category">Tornar a categoritzar totes les transaccions amb aquesta categoria com a</string>
+    <string name="recategorize_class">Tornar a categoritzar totes les transaccions amb aquesta classe com a</string>
+	<string name="spending_by_category0">Despeses per categoria</string>
+	<string name="spending_by_category1">Despeses per categoria o ^1</string>
+	<string name="spending_by_category2">Despeses per categoria, ^1 o ^2</string>
+    
+    <string name="no_categories">Cap categoria</string>
+	<string name="no_categories_yet">Cap categoria encara</string>
+    <string name="no_classes_yet">Cap classe encara</string>
+	<string-array name="category_count_format_plurals">
+        <item>1 categoria</item>
+        <item>^1 categories</item>
+    </string-array>
+	<string-array name="uncategorized_count_plurals">
+        <item>^1 transacció sense categoria</item>
+        <item>^1 transaccions sense categoria</item>
+    </string-array>
+
+	<string-array name="default_classifications">
+		<item>Membres de la família</item>
+		<item>Propietats</item>
+		<item>Projectes</item>
+		<item>Aficions</item>
+		<item>Vacances</item>
+		<item>Despeses feina</item>
+		<item>Altres</item>
+	</string-array>
+</resources>

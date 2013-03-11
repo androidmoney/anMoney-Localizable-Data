@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="report">Informe</string>
+    <string name="reports">Informes</string>
+	<string name="view_report">Mostar informe</string>
+	<string name="view_reports">Mostar informes</string>
+	<string name="report_canceled">Informe cancel·lat</string>
+	<string name="export_report">Exportar informe</string>
+	<string name="report_exported">L’informe s’ha exportat amb èxit a la targeta SD</string>
+	<string name="share_report">Compartir informe</string>
+	<string name="report_settings">Paràmetres de l’informe</string>
+	<string name="creating_report">Creant informe</string>
+	<string name="updating_report">Actualitzant informe</string>
+	<string name="custom_dates">Dates personalitzades</string>
+	<string name="other">Altre</string>
+	<string name="report_empty">No hi ha dades a mostrar</string>
+    <string name="report_settings_instructions_format">Per a canviar els paràmetres de l’informe, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">Els paràmetres tornaran als seus valors per defecte</string>
+	<string name="settings_reset">Restablir paràmetres</string>
+	<string name="reset_canceled">Restablir cancel·lat</string>
+    <string name="report_settings_tip">Per a canviar els paràmetres d’un informe:\n\n<li>Toqui uns segons el nom de l’informe i toqui <b>Paràmetres de l’informe</b></li>\n\n<li>Toqui la icona a la cantonada superior dreta de la pantalla mentres l’informe es mostra</li></string>
+	<string name="report_name">Nom de l’informe</string>
+	<string name="all_reports">Tots els informes</string>
+	<string name="favorite_reports">Informes preferits</string>
+	<string name="save_report_as">Desar informe com a</string>
+	<string name="delete_report">Esborrar informe</string>
+    <string name="rename_report">Canviar el nom de l’informe</string>
+    <string name="duplicate_report">Duplicar informe</string>
+    <string name="delete_report_warning_format">L’informe ^1 serà esborrat de forma permanent</string>
+	<string name="report_type">Tipus d’informe</string>
+	<string name="group">Agrupar</string> <!-- This is a verb -->
+	<string name="do_not_group">No agrupar</string>
+	<string name="today">Avui</string>
+	<string name="tomorrow">Demà</string>
+	<string name="yesterday">Ahir</string>
+		<string name="select_report">Seleccionar informe</string>
+    		
+	<string-array name="report_count_format_plurals">
+		<item>1 informe</item>
+		<item>^1 informes</item>
+	</string-array>
+
+	<string name="chart_type">Tipus de gràfic</string>
+	<string name="text_report">Informe de text</string>
+	<string name="pie_chart">Gràfic circular</string>
+	<string name="line_chart">Gràfic de línies</string>
+	<string name="bar_chart">Gràfic de barres</string>
+
+	<string name="page_format">Pàgina ^1</string>
+
+	<string name="page_size">Tamany de la pàgina</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Carta</item>
+		<item>Legal</item>
+		<item>Tabloide</item>
+	</string-array>
+
+	<string name="page_orientation">Orientació de la pàgina</string>
+	<string-array name="page_orientation_items">
+		<item>Retrat</item>
+		<item>Paisatge</item>
+	</string-array>
+
+	<string name="amounts_on_charts">Mostrar imports als gràfics</string>
+	<string name="percentages_on_pie_charts">Mostar percentatges als gràfics circulars</string>
+	<string name="create_settings_page">Crear pàgina de paràmetres</string>
+	<string name="create_settings_page_description">Si està seleccionat, una pàgina amb els paràmetres de l’informe serà creada a l’enviar o exportar a un document PDF</string>
+				
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Pàgina web</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Llegible per les aplicacions de full de càlcul, com ara Microsoft® Excel o Google™ Docs</item>
+		<item>Adaptat per a la impressió o la creació d’un seguit de documents. Requereix Adobe Reader o altre visor PDF</item>
+		<item>Adaptat per publicar en un lloc web o per veure en un navegador web</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Especificar format per a compartir</string>
+
+	<string-array name="report_list_status_filter_title_bar">
+		<item>@string/all_reports</item>
+		<item>@string/favorite_reports</item>
+	</string-array>
+</resources>

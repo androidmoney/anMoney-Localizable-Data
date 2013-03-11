@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="book">Könyv</string>
+    <string name="books">Könyvek</string>
+    <string name="new_book">Új könyv</string>
+    <string name="new_book_name">Az új könyv neve</string>
+    <string name="open_book">Könyv megnyitása</string>
+    <string name="close_book">Könyv bezárása</string>
+    <string name="rename_book">Könyv átnevezése</string>
+    <string name="delete_book">Könyv törlése</string>
+    <string name="share_book">Könyv megosztása</string>
+	<string name="preparing_to_share">Megosztani készül</string>
+    <string name="book_delete_warning_short_format">A ^1 könyv le lesz törölve</string>
+    <string name="all_data_will_be_lost">Az összes adat ebben a könyvben el fog véglegesen veszni, ha nem mentette még</string>
+    <string name="import_into_book">Importálás könyvbe</string>
+    <string name="export_from_book">Exportálás könyvből</string>
+    <string name="import_into_book_format">Importálás a ^1 könyvbe</string>
+    <string name="copying_book">Másolja a könyvet</string>
+    <string name="no_books">Nincsenek könyvei</string>
+    <string name="create_book_instructions_format">Könyv létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
+    <string name="book_list_favorites_empty">Nincsenek kedvenc könyvei</string>
+    <string name="creating_book">Létrehozza a könyvet</string>
+    <string name="upgrading_book">Frissíti a könyvet</string>
+    <string name="upgrading_books">Frissíti a könyveket</string>
+    <string name="backup">Adatmentés</string>
+    <string name="backup_canceled">Mentés megszakítva</string>
+    <string name="backup_book">Könyv mentése</string>
+    <string name="overwrite">Át írja</string>
+    <string name="backup_name">A mentés neve</string>
+    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+    <string name="backing_up_book">Menti a könyvet</string>
+    <string name="restore">Visszaállítás</string>
+    <string name="restored">Visszaállítva</string>
+    <string name="restore_canceled">Visszaállítás megszakítva</string>
+    <string name="restore_book">Könyv visszaállítása</string>
+    <string name="restoring_book">Visszaállítja a könyvet</string>
+    <string name="restore_warning_format">A ^1 könyv át lesz írva, és <b>minden</b> adat helyrehozhatatlanul el fog veszni</string>
+    <string name="select_backup_file_to_restore">Válassza ki a mentést a visszaállításhoz</string>
+    <string name="select_backup_file_to_create_from">Válassza ki a mentést, amiből a könyv lesz alkotva</string>
+    <string name="import_statement">Kivonat importálása</string>
+    <string name="no_sd_card_inserted">Nincs SD kártya berakva</string>
+    <string name="select_files">Válassza ki a fájlokat</string>
+    <string name="delete_file">Fájl törlése</string>
+    <string name="delete_file_warning_format">A ^1 fájl le lesz törölve</string>
+	<string-array name="delete_files_warning_format_plurals">
+        <item>^1 kiválasztott fájl le lesz törölve</item>
+    </string-array>
+    <string name="select_book">Válassza ki a könyvet</string>
+    <string name="select_book_to_import_into">Válassza ki a könyvet, amelyikbe a kivonat importálva lesz</string>
+    <string name="select_import_file">Válassza ki a fájlt/-okat importálásra</string>
+    <string name="reading_format">Olvassa ^1-t</string>
+    <string name="reading_file">Olvassa a fájlt</string>
+    <string name="reading_files">Olvassa a fájlokat</string>
+    <string name="checking_for_duplicate_transactions">Ismétlődő tranzakciók ellenőrzése</string>
+    <string name="not_specified_brackets">&lt;Nincs megadva></string>
+    <string name="map_accounts">Számlák térképezése</string>
+    <string name="configure_account_mappings">Konfigurálja a számlák térképezéseit</string>
+    <string name="account_required">Számla kötelező</string>
+    <string name="duplicate_name">Ismétlődő név</string>
+    <string name="options">Opciók</string>
+    <string name="select_options">Válassza ki az importálási opciókat</string>
+    <string name="remove_duplicates">Ismétlődő tranzakciók eltávolítása</string>
+    <string name="remove_duplicates_notes">Bár ez működik megfelelően az esetek túlnyomó többségében, lehet, hogy lesz probléma, különösen ha a számláknak különböző pénznemük van. Ezekben az esetekben az egyezés nem lehetséges. Az importálást követően, kérjük, ellenőrizze, hogy a összegek még helyesek</string>
+    <string name="import_classes">Osztályok importálása</string>
+    <string name="ignore_memos">Figyelmen kívül hagyja a jegyzet mezőt</string>
+    <string name="create_payees_in_app_name_format">Alkotja a kedvezményezetteket a ^1-ba</string>
+    <string name="contact_account">Címtár fiók amibe a kedvezményezettek lesznek alkotva</string>
+    <string name="select_import_mode">Válassza ki az importálási módot</string>
+    <string name="select_accounts_to_export">Válassza ki a számlát/-kat exportálásra</string>
+    <string name="specify_export_file_format">Válassza ki az exportálási fájlformátumot</string>
+    <string name="mark_transactions_exported">Jelölje meg a tranzakciókat exportáltaknak</string>
+    <string name="create_single_file">Csináljon egy kombinált fájlt</string>
+    <string name="no_transactions_matched_your_selection_criteria">Egy tranzakció sem felelt meg a kiválasztási kritériumoknak.\n\nExport fájl(ok) nem lettek létrehozva</string>
+	<string name="import_folder">Import mappa</string>
+	<string name="export_folder">Export mappa</string>
+    <string name="ask_to_view_imported_transaction">Meg szeretné nézni az importált tranzakciókat</string>
+    <string name="tip">Ötlet</string>
+    <string name="user_guide">Kézikönyv (angolul)</string>
+	<string name="user_guide_url">http://goo.gl/fvjiq</string>
+    <string name="whats_new">Újdonságok</string>
+    <string name="license">Licensz</string>
+    <string name="accept_license">Elfogadás</string>
+    <string name="decline">Visszautasítás</string>
+    <string name="thank_you">Köszönjük!</string>
+    <string name="password">Jelszó</string>
+    <string name="old_password">Előző jelszó</string>
+    <string name="new_password">Új jelszó</string>
+    <string name="verify_password">Igazolja a jelszót</string>
+    <string name="enter_password">Adja meg a jelszót</string>
+    <string name="incorrect_password">Rossz jelszó. Adja meg megint</string>
+    <string name="set_password">Jelszó beállítása</string>
+    <string name="password_set">Beállította a jelszót</string>
+    <string name="edit_password">Jelszó módosítása</string>
+    <string name="remove_password">Jelszó eltávolítása</string>
+    <string name="password_removed">Eltávolította a jelszót</string>
+    <string name="remove_password_message">A jelszó el lesz távolítva.\n\nAz adatai bárki számára láthatóvá válik, akiknek van a készülékéhez hozzáférése</string>
+    <string name="password_has_not_been_changed">Jelszó nem lett megváltoztatva</string>
+    <string name="passwords_dont_match">A jelszavak nem egyeznek</string>
+    <string name="case_sensitive">kis-és nagybetűk</string>
+    <string name="disclaimer">Nyiltakozat</string>
+    <string name="password_disclaimer">Legyen szíves és olvassa el ezt a nyilatkozatot és jelölje meg a négyzetet a végén.\n\nMegjegyezzük, hogy a jelszó funkció célja az volt, hogy kíváncsiskodó szemek ne tudják az adatait látni. A platform korlátai miatt az adatok tényleges titkosítása nem megvalósítható, és valaki fejlett készségekkel elérhet még jelszóval védett adatokat is.\n\nJavasoljuk, hogy további biztonság céljából védje a készülékét egy zár mintával vagy egy PIN-nel</string>
+    <string name="i_understand_the_limitations">Értem ezeket a korlátozásokat</string>
+    <string name="set_password_now_part1">Be akar állítani egy jelszót</string>
+    <string name="set_password_now_part2_format">Ha a ^1-et választja, akkor is bármikor be tudja állítani a jelszót. Csak hosszú-érintse meg a könyv nevét és érintse meg a ^2-t utána</string>
+    <string name="folder_name_format">A mappa neve (használd a ^1 karaktert almappákra)</string>
+    <string name="no_backup_files">Nem találtam mentéseket</string>
+    <string name="no_backup_files_new_instructions">Ha megpróbál létrehozni egy könyvet egy import fájlból, akkor először hozzon létre egy üres könyvet, és utána importáljon</string>
+    <string name="remove_transactions">Az ennél régebbi tranzakciókat távolítsa el</string>
+    <string name="book_to_make_copy_of">A könyv, amelyik másolva lesz</string>
+    <string name="truncate_warning_format">Az összes tranzakció, ami régebbi mint ^1, helyrehozhatatlanul el fog veszni</string>
+    <string name="information_and_help">Információ és súgó</string>
+    <string name="discussion_forum">Vitafórum</string>
+    <string name="join_the_user_community_format">Csatlakozzon a felhasználói közösséghez</string>
+    <string name="contact_us">Kapcsolat</string>
+    <string name="email_the_developers">Küldjön emailt a fejlesztőknek</string>
+    <string name="tap_to_display_import_settings_format">Az ^1 érintese mutatja az import beállításokat</string>
+    <string name="verify_import_settings">Kérjük, ellenőrizze, hogy a kiválasztott alapértelmezett beállítások jók arra a fájlra amelyiket importálni próbál. Ha minden rendben, nyomja meg a <b>Vissza</b> nyílat, hogy az import folyamat folytatódjon</string>
+    <string name="change_settings_instructions_format">Ez az üzenet nem fog megjelenni legközelebb, de bármikor meg tudja változtatni a beállításokat a képernyő tetején lévő ^i megérintésével</string>
+    <string name="bad_import_settings">A következő beállítás(ok) úgy tűnik, hogy hibásak arra a fájlra, amelyet importálni próbál</string>
+    <string name="qif_csv_encoding_explanation_format">Jellemzően az ^1-t kell használni az alábbi listán lévő nyelvekre. De lehetséges, hogy egyes pénzintézetek előállítanak olyan fájlokat, ahol az ^2-t kell választani, hogy az importálás sikerüljön.\n\nNyelvekre, amelyek nem szerepelnek a listán, az ^2-t kell kiválasztani</string>
+    <string name="credits_legal">Kreditek és jogi</string>
+    <string name="contact_and_social">Kapcsolat és szociális</string>
+    <string name="follow_us">Kövessen minket</string>
+    <string name="add_us_to_circle">Adjon minket a köreihez és +1 minket</string>
+    <string name="become_a_fan">Váljon rajongóvá</string>
+    <string name="haptic_feedback">Haptikus visszajelzés</string>
+    <string name="haptic_feedback_description">Ha jelölt, rezeg, amikor megérinti gombokat</string>
+	<string name="default_book_name">Könyvem</string>
+	<string name="color_theme">Szín téma</string>
+	<string name="dark">Sötét</string>
+	<string name="light">Világos</string>
+	<string name="preview">Előnézet</string>
+	
+	<string-array name="book_new_source">
+	    <item>Üres könyv</item>
+	    <item>Létrehozás egy mentésböl</item>
+	    <item>Egy másik könyv másolása</item>
+    </string-array>
+
+	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Intentionally left empty -->
+	    <item/> <!-- Intentionally left empty -->
+	    <item>és opcionálisan vágja le egy adott dátumnál</item>
+    </string-array>
+	
+	<string-array name="import_mode">
+        <item>Számlakivonatok</item>
+        <item>Egy másik szoftverból exportált adatok</item>
+    </string-array>
+
+	<string-array name="import_mode_description">
+        <item>Válassza ezt a pénzintézetről letöltött nyilatkozatokra, mint például az OTP hó végi nyilatkozatára. Mind a <b>QIF</b> és a <b>OFX/QFX/OFS</b> formátumok támogatottak. Az import fájl(ok) nem tartalmazhatnak számlák közötti átutalásokat</item>
+        <item>Válassza ezt ha át akarja telepíteni az adatokat egy másik pénzügyi szoftverból, mint például a Microsoft® Money-ból vagy a Quicken®-ből. Csak a <b>QIF</b> formátum van támogatva</item>
+    </string-array>
+
+	<string-array name="book_export_file_type_description">
+        <item>Attól függően, hogy milyen osztályozásokat és kategóriákat használ, csak a Microsoft® Money-val olvashatja</item>
+        <item>Olvasható az összes QIF formátumot támogató szoftverrel</item>
+        <item>Olvashatja egy táblázatkezelő szoftverrel, mint például a Microsoft® Excel vagy a Google™ Docs. Az első sor tartalmazza az oszlopfejléceket, és utána minden tranzakcióhoz kap egy sort. Minden egyes osztás kapja a saját sorát is</item>
+    </string-array>
+
+    <string name="import_file_confirm_format">Importálja ^1-t</string>
+	<string-array name="import_files_confirm_format_plurals">
+        <item>Importálja a ^1 fájlt</item>
+    </string-array>
+
+
+	<string name="general">Általános</string>
+    <string name="navigation">Navigáció</string>
+    
+    <string name="reopen_last_book">Az utolsó könyv kinyitása</string>
+    <string name="reopen_last_book_description">Ha jelölt, az utoljára nyitott könyv ki lesz újra nyitva az alkalmazás indításakor</string>
+    
+    <string name="starting_screen">Első lap</string>
+	
+    <string name="back_press_on_home_screen">Visszanyomás a kezdőlapon</string>
+	<string-array name="back_press_on_home_screen_items">
+		<item>Bezárja ^1-t</item>
+		<item>Bezárja az aktuális könyvet, és megmutatja a köny listát</item>
+	</string-array>
+	
+    <string name="negative_amount_format">Negatív összeg formátuma</string>
+    
+    <string name="show_currency_symbol">Pénznem mutatása</string>
+	<string-array name="show_currency_symbol_items">
+		<item>A pénznem szerint</item>
+		<item>Az összeg előtt</item>
+		<item>Az összeg után</item>
+	</string-array>
+	
+    <string name="base_currency">Alappénznem</string>
+	<string name="space_between_symbol_and_amount">Szóköz a pénznem jele és az összeg között</string>
+	
+    <string name="password_time_out_period">Jelszó időkorlátja</string>
+	<string-array name="n_seconds_format_plurals">
+        <item>^1 másodperc</item>
+    </string-array>
+
+	<string-array name="n_minutes_format_plurals">
+        <item>^1 perc</item>
+    </string-array>
+    
+
+	<string name="set_button_behavior_format">A ^1 gomb viselkedése</string>
+	<string-array name="set_button_behavior_items">
+		<item>Beállítja az éppen mutatott számot</item>
+		<item>Befejezi a számítást és beállítja az eredményt</item>
+	</string-array>
+
+    <string name="confirmations_and_warnings">Megerősítések és figyelmeztetések</string>
+
+    <string name="warn_if_no_category">Figyelmeztet, ha nincs kategória</string>
+    <string name="warn_if_no_category_description">Ha jelölt, figyelmeztet, ha nics kategória megadva</string>
+    
+    <string name="warn_if_incorrect_category_type">Figyelmeztet, ha rossz a kategória típus</string>
+    <string name="warn_if_incorrect_category_type_description">Ha jelölt, figyelmeztet, ha egy rossz típusú kategória van megadva</string>
+    
+    <string name="modification_confirmation">Módosítási megerősítés</string>
+	<string-array name="modification_confirmation_items">
+		<item>Soha</item>
+		<item>Csak az egyeztetettnél</item>
+		<item>Összes</item>
+	</string-array>
+	
+    <string name="back_press_prompt">Megerősítést kér, ha megnyomja a vissza gombot</string>
+    <string name="back_press_prompt_description">Ha jelölt, egy megerősítést kér, amikor a <b>Vissza</b> nyíl van nyomva</string>
+    
+    <string name="new_payee_confirmation">Új kedvezményezett megerősítése</string>
+    <string name="new_payee_confirmation_description">Ha jelölt, egy megerősítést kér, mielőtt létrehozza az új kedvezményezettet</string>
+    
+    <string name="duplicate_check_number">Ismétlődő csekk szám</string>
+    <string name="duplicate_check_number_description">Ha jelölt, egy figyelmeztetés jelenik meg, ha már a csekk számla használva volt</string>
+    
+	<string name="field_with_initial_focus">Fókuszus kezdeti mező</string>
+    
+	<string name="show_keyboard_automatically">A billentyűzet automatikus mutatása</string>
+	<string name="show_keyboard_automatically_description">Ha jelölt, a billentyűzet meg lesz jelenítve egy új tranzakció adásánál</string>
+
+    <string name="notes_in_transaction_window">Jegyzet mező a tranzakció ablakban</string>
+    <string name="notes_in_transaction_window_description">Ha jelölt, egy egysoros megjegyzést lehet szerkeszteni a tranzakció ablakban</string>
+    
+    <string name="new_category_in_transaction_window">Új kategória a tranzakció ablakban</string>
+    <string name="new_category_in_transaction_window_description">Ha jelölt, egy új kategóriát lehet adni a tranzakció ablakban</string>
+    
+    <string name="hide_labels">Címkék elrejtése</string>
+    <string name="hide_labels_description">Ha jelölt, elrejti a címkéket a tranzakció ablakban, hogy több hely legyen</string>
+    
+    <string name="security">Biztonság</string>
+    
+    <string name="quick_entry_password">Jelszó a „Gyors Bejegyzés”-en</string>
+    <string name="quick_entry_password_description">Ha jelölt, és van egy jelszava, a Gyors Bejegyzés widget kérni fogja</string>
+    
+    <string name="backup_folder">Mentés mappája</string>
+    
+	<string name="date_in_file_name">Dátum a fájl nevében</string>
+	<string name="date_in_file_name_description">Ha jelölt, a mai dátum a fájl nevéhez lesz hozzáfűzve amikor küldi</string>
+    
+    <string name="automatic_backup">Automatikus mentés</string>
+    <string name="automatic_backup_description">Ha jelölt, a könyv automatikusan el lesz mentve</string>
+    
+    <string name="backup_how_often">Milyen gyakran mentsen</string>
+    
+    <string name="auto_backup_notify_description">Ha jelölt, a mentés után mutat egy értesítést</string>
+    
+	<string name="backed_up_book_format">^1 el lett mentve</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item>^1 könyvet elmentett</item>
+    </string-array>
+
+
+    <string name="backed_up_book_file_system_format">^1 a fájlrendszerre el lett mentve</string>
+   	<string-array name="backed_up_books_file_system_format_plurals">
+        <item>^1 könyvet elmentett a fájlrendszerre</item>
+    </string-array>
+
+	
+	<string-array name="book_exported_format_plurals">
+        <item>Exportált ^1 tranzakciót</item>
+    </string-array>
+
+	
+	<string name="failed_to_back_up_book">A könyvet nem sikerült menteni</string>
+	<string name="no_space_left_on_sd_card">Nincs már hely az SD-kártyán</string>
+	<string name="cannot_restore_newer_version">Nem tudja visszaállítani a mentést amelyik az ^1 újabb verziójával volt létrehozva.\n\nKérjük, telepítse az ^1 legújabb verzióját, és próbálja újra.</string>
+	
+	<string name="file">Fájl</string>	
+	<string name="folder">Mappa</string>	
+	<string name="external_storage">Külső tároló</string>	
+	<string name="path">Elérési útvonal</string>	
+
+    <string name="qif_csv_date_order">QIF/CSV dátum sorrend</string>
+
+	<string name="comma">Vessző</string>	
+    <string name="qif_csv_decimal_mark">QIF/CSV decimális jelölés</string>
+	<string-array name="qif_csv_decimal_marks">
+        <item>Tizedespont</item>
+        <item>@string/comma</item>
+    </string-array>
+
+	<string name="csv_delimiter">CSV elválasztó</string>
+	<string-array name="csv_delimiters">
+		<item>@string/comma</item>
+		<item>Pontosvessző</item>
+    </string-array>
+
+    <string name="qif_csv_encoding">QIF/CSV kódolása</string>
+    <string name="ofx_qfx_encoding">OFX/QFX/OFS kódolása</string>
+	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK (Kínai nemzeti szabvány)</item>
+        <item>Cirill (Windows)</item>
+        <item>Nyugat-európai (Windows)</item>
+        <item>Közép-európai (Windows)</item>
+    </string-array>
+
+    <string name="maintain_entries">Bejegyzések karbantartása</string>
+    <string name="maintain_number_field_entries">A számmezői bejegyzések karbantartása</string>
+    <string name="maintain_number_field_entries_description">Lehetővé teszi, hogy törölje a már nem használt számmezői bejegyzéseket</string>
+
+    <string name="delete_entry_warning_format">Bejegyzés ^1 törölve lesz</string>
+    <string-array name="delete_entries_warning_format_plurals">
+        <item>^1 bejegyzés törölve lesz</item>
+    </string-array>
+    
+</resources>

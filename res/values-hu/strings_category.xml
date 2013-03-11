@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_main_sub_separator">:</string>
+    <string name="category">Kategória</string>
+    <string name="categories">Kategóriák</string>
+    <string name="subcategory">Alkategória</string>
+    <string name="classification">Osztályozás</string>
+    <string name="_class">Osztály</string>
+    <string name="subclass">Alosztály</string>
+    <string name="parent_category">Szülő kategória</string>
+    <string name="parent_class">Szülő osztály</string>
+    <string name="edit_category">Kategória módosítása</string>
+    <string name="edit_subcategory">Alkategória módosítása</string>
+    <string name="edit_class">Osztály módosítása</string>
+    <string name="edit_subclass">Alosztály módosítása</string>
+    <string name="new_category">Új kategória</string>
+    <string name="new_subcategory">Új alkategória</string>
+    <string name="new_class">Új osztály</string>
+    <string name="new_subclass">Új alosztály</string>
+    <string name="delete_category">Kategória törlése</string>
+    <string name="delete_subcategory">Alkategória törlése</string>
+    <string name="delete_class">Osztály törlése</string>
+    <string name="delete_subclass">Alosztály törlése</string>
+    <string name="add_default_categories">Alapkategóriák hozzáadása</string>
+    <string name="add_classification">Osztályozás hozzáadása</string>
+    <string name="select_category">Válasszon kategóriát/ákat</string>
+    <string name="select_class">Válasszon osztályt/okat</string>
+    <string name="delete_classification">Osztályozás törlése</string>
+    <string name="rename_classification">Osztályozás átnevezése</string>
+    <string name="select_classification">Válasszon egy osztályozást</string>
+    <string name="enter_classification_name">Adja meg az osztályozás nevét</string>
+    <string name="enter_new_classification_name">Adja meg az új nevet</string>
+    <string name="categories_and_classifications">Kategóriák és osztályozások</string>
+    <string name="no_categories_expense">Nincsenek kiadási kategóriái</string>
+    <string name="no_categories_income">Nincsenek jövedelmi kategóriái</string>
+    <string name="no_classes">Nincsenek osztályai</string>
+    <string name="create_category_instructions_format">Kategória létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
+    <string name="create_class_instructions_format">Osztály létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
+    <string name="uncategorized_transactions">Kategória nélküli tranzakciók</string>
+    <string name="delete_category_no_subcategories_warning_format">Kategória ^1 véglegesen le lesz törölve</string>
+    <string name="delete_class_no_subclass_warning_format">Osztály ^1 véglegesen le lesz törölve</string>
+    <string name="delete_category_with_subcategories_warning_format">Kategória ^1 és az <b>összes alkategóriái</b> véglegesen le lesznek törölve</string>
+    <string name="delete_class_with_subclass_warning_format">Osztály ^1 és az <b>összes alosztályai</b> véglegesen le lesznek törölve</string>
+    <string name="delete_subcategory_warning_format">Alkategória ^1 véglegesen le lesz törölve</string>
+    <string name="delete_subclass_warning_format">Alosztály ^1 véglegesen le lesz törölve</string>
+    <string name="delete_classification_warning_format">Osztályozás ^1 véglegesen le lesz törölve. Az összes tranzakció osztályozása el lesz távolítva</string>
+    <string name="deleting_classification">Osztályozást törli</string>
+    <string name="default_categories_add_confirmation">Szeretné hozzáadni az alapkategóriákat</string>
+    <string name="default_categories_added">Alapkategóriák hozzáadva</string>
+    <string name="adding_default_categories">Alapkategóriákat hozzáadja</string>
+    <string name="all_categories">Összes kategória</string>
+    <string name="expense">Kiadás</string>
+    <string name="expenses">Kiadások</string>
+    <string name="expense_categories">Kiadási kategóriák</string>
+    <string name="income">Jövedelem</string>
+    <string name="income_categories">Jövedelmi kategóriák</string>
+    <string name="savings">Megtakarítás</string>
+    <string name="category_name">Kategórianév</string>
+    <string name="subcategory_name_lower">Alkategória neve</string>
+    <string name="class_name">Osztálynév</string>
+    <string name="subclass_name_lower">Alosztály neve</string>
+    <string name="without_subcategory">Alosztály nélkül</string>
+    <string name="cannot_be_zero">Nem lehet 0</string>
+    <string name="change_expense_warning">Szeretné ezt a kategóriát cserélni kiadásiról jövedelemire, vagy fordítva</string>
+    <string name="prepopulate">Töltse be az alapkategóriákat</string>
+    <string name="short_categories">Csak a rövid kategória listát töltse be (később lesz a lehetősége a teljes lista betöltésére)</string>
+    <string name="view_categories">Kategória megtekintése</string>
+    <string name="category_not_found">Kategória nem létezik</string>
+    <string name="class_not_found">Osztály nem létezik</string>
+    <string name="total_income">Teljes jövedelem</string>
+    <string name="total_expense">Teljes kiadás</string>
+	<string name="net">Nettó</string>
+    <string name="net_income">Nettó jövedelem</string>
+    <string name="uncategorized">Kategória nélküli</string>
+    <string name="income_uncategorized">Kategória nélküli jövedelem</string>
+    <string name="expense_uncategorized">Kategória nélküli kiadás</string>
+    <string name="show_uncategorized">Mutassa a kategória nélkülieket</string>
+    <string name="move_subcategory_to_another_category_warning">Szeretné áthelyezni ezt az alkategóriát egy másik kategória alá</string>
+    <string name="show_zero_balance_categories">Mutassa a nulla egyenlegű kategóriákat is</string>
+    <string name="show_zero_balance_items">Mutassa a nulla egyenlegű tételeket is</string>
+    <string name="recategorize_category">Tranzakciók ezzel a kategóriaval lesznek újrakategóriázva</string>
+    <string name="recategorize_class">Tranzakciók ezzel a osztályal lesznek újraosztályozva</string>
+	<string name="spending_by_category0">Költés kategóriánként</string>
+	<string name="spending_by_category1">Költés kategória vagy ^1 szerint</string>
+	<string name="spending_by_category2">Költés kategória, ^1 vagy ^2 szerint</string>
+    
+    <string name="no_categories">Nincsenek kategóriák</string>
+	<string name="no_categories_yet">Nincsenek még kategóriák</string>
+    <string name="no_classes_yet">Nincsenek még osztályok</string>
+	<string-array name="category_count_format_plurals">
+        <item>^1 kategória</item>
+    </string-array>
+
+	<string-array name="uncategorized_count_plurals">
+        <item>^1 kategória nélküli tranzakció</item>
+    </string-array>
+    
+	
+	
+	<string-array name="default_classifications">
+		<item>Családtagok</item>
+		<item>Ingatlanok</item>
+		<item>Projektek</item>
+		<item>Hobbik</item>
+		<item>Vakációk</item>
+		<item>Munkaköltségek</item>
+		<item>Más</item>
+	</string-array>
+</resources>

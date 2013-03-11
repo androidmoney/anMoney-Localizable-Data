@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="activitychooserview_choose_application">Выберите приложение</string>
+    <string name="shareactionprovider_share_with">Открыть доступ:</string>
+    <string name="shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
+    <string name="activity_chooser_view_see_all">Просмотреть все</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="currency">Währung</string>
+    <string name="currencies">Währungen</string>
+	<string name="edit_currency">Währungen ändern</string>
+	<string name="set_as_base_currency">Als Basis-Währung festlegen</string>
+	<string name="base_currency_set">Basis Währung festgelegt</string>
+	<string name="exchange_rate">Wechselkurs</string>
+	<string name="exchange_rates">Wechselkurse</string>
+	<string name="country">Land</string>
+	<string name="region">Region</string>
+	<string name="currency_name">Name der Währung</string>
+	<string name="symbol">Symbol</string>
+	<string name="symbol_required">Symbol benötigt</string>
+	<string name="exchange_rate_required">Wechsellurs benötigt</string>
+	<string name="view_currencies">Währungen ansehen</string>
+	<string name="tap_to_modify_converted_amounts">Drücken, um umgerechnete Beträge zu ändern</string>
+	<string name="currency_converter">Währungsrechner</string>
+	<string name="invert">Umkehren</string>
+	<string name="save_exchange_rate">Diesem Kurs als neuen Standard wählen</string>
+    <string name="all_currencies">Alle Währungen</string>
+    <string name="used_currencies">Benutzte Währungen</string>
+    <string name="and_prior_format">^1 und vor</string>
+    	
+	<string-array name="currency_list_status_filter_title_bar">
+		<item>@string/all_currencies</item>
+		<item>@string/used_currencies</item>
+	</string-array>
+
+	<string-array name="currency_list_sort_order_title_bar">
+		<item>@string/name</item>
+		<item>@string/region</item>
+	</string-array>
+    
+    <string-array name="currency_count_format_plurals">
+		<item>1 Währung</item>
+		<item>^1 Währungen</item>
+	</string-array>
+</resources>

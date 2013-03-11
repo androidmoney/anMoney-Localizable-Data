@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="book">Книга</string>
+    <string name="books">Книги</string>
+    <string name="new_book">Новая книга</string>
+    <string name="new_book_name">Имя новой книги</string>
+    <string name="open_book">Открыть книгу</string>
+    <string name="close_book">Закрыть книгу</string>
+    <string name="rename_book">Переименовать книгу</string>
+    <string name="delete_book">Удалить книгу</string>
+	<string name="share_book">Отправить книгу</string>
+	<string name="preparing_to_share">Подготовка к отправке</string>
+    <string name="book_delete_warning_short_format">Книга ^1 будет удалена</string>
+    <string name="all_data_will_be_lost">Если не выполнена архивация, все данные в книге будут утрачены</string>
+    <string name="import_into_book">Импорт в книгу</string>
+    <string name="export_from_book">Экспорт из книги</string>
+    <string name="import_into_book_format">Импорт в книгу ^1</string>
+    <string name="copying_book">Копирование книги</string>
+    <string name="no_books">Книги отсутствуют</string>
+    <string name="create_book_instructions_format">Для создания книги, нажмите ^i в верхней части экрана</string>
+    <string name="book_list_favorites_empty">Нет избранных книг</string>
+    <string name="creating_book">Создание книги</string>
+    <string name="upgrading_book">Обновление книгa</string>
+    <string name="upgrading_books">Обновление книги</string>
+    <string name="backup">Архивировать</string>
+    <string name="backup_canceled">Архивация отменена</string>
+    <string name="backup_book">Архивировать книгу</string>
+    <string name="overwrite">Заменить</string>
+    <string name="backup_name">Имя архива</string>
+	<string name="auto_backup_name_format">^1 (^2 авто)</string>
+	<string name="backing_up_book">Архивация книги</string>
+    <string name="restore">Восстановить</string>
+	<string name="restored">Восстановлено</string>
+    <string name="restore_canceled">Восстановление отменено</string>
+    <string name="restore_book">Восстановить книгу</string>
+    <string name="restoring_book">Восстановление книги</string>
+    <string name="restore_warning_format">Книга ^1 будет восстановлена и <b>все</b> текущие данные в ней будут безвозвратно утеряны</string>
+    <string name="select_backup_file_to_restore">Выберите архив для восстановления</string>
+    <string name="select_backup_file_to_create_from">Выберите архив из которого создать книгу</string>
+    <string name="import_statement">Импорт выписки</string>
+    <string name="no_sd_card_inserted">Отсутствует карта SD</string>
+    <string name="select_files">Выбор файлов</string>
+    <string name="delete_file">Удалить файл</string>
+    <string name="delete_file_warning_format">Файл ^1 будет удалён</string>
+	<string-array name="delete_files_warning_format_plurals">
+        <item>^1 выбранный файл будет удалён</item>
+        <item>^1 выбранных файла будут удалены</item>
+        <item>^1 выбранных файлов будут удалены</item>
+    </string-array>
+    <string name="select_book">Выберите книгу</string>
+    <string name="select_book_to_import_into">Выберите книгу, в которую импортировать выписку</string>
+    <string name="select_import_file">Выберите файл(ы) для импорта</string>
+    <string name="reading_format">Чтение ^1</string>
+    <string name="reading_file">Чтение файлa</string>
+    <string name="reading_files">Чтение файлов</string>
+    <string name="checking_for_duplicate_transactions">Проверка дублирования транзакций</string>
+    <string name="not_specified_brackets">&lt;Не указано&gt;</string>
+    <string name="map_accounts">Соответствие счетов</string>
+    <string name="configure_account_mappings">Настройка соответствия счетов</string>
+    <string name="account_required">Требуется счет</string>
+    <string name="duplicate_name">Дублирование имени</string>
+    <string name="options">Параметры</string>
+    <string name="select_options">Выберите параметры импорта</string>
+    <string name="remove_duplicates">Удалить дубликаты</string>
+    <string name="remove_duplicates_notes">Хотя это должно работать в подавляющем большинстве случаев, нельзя исключить возможность сбоев, особенно если счета в разных валютах. В этом случае сопоставление невозможно. После импорта проверьте, пожалуйста, корректность балансов</string>
+	<string name="import_classes">Импортировать классы</string>
+    <string name="ignore_memos">Игнорировать поля примечаний</string>
+    <string name="create_payees_in_app_name_format">Создавать получателей в ^1</string>
+    <string name="contact_account">Учетная запись для создания получателей</string>
+    <string name="select_import_mode">Выберите режим импорта</string>
+    <string name="select_accounts_to_export">Выберите экспортируемый счет(а)</string>
+    <string name="specify_export_file_format">Выберите формат файла экспорта</string>
+    <string name="mark_transactions_exported">Пометить транзакции как выгруженные</string>
+    <string name="create_single_file">Создать один файл</string>
+    <string name="no_transactions_matched_your_selection_criteria">Нет подходящих под условия выборки транзакций.\n\nФайл(ы) экспорта не создан(ы)</string>
+	<string name="import_folder">Каталог для импортта</string>
+	<string name="export_folder">Каталог для экспорта</string>
+    <string name="ask_to_view_imported_transaction">Показать импортированные транзакции</string>
+    <string name="tip">Совет</string>
+	<string name="user_guide">Руководство пользователя</string>
+	<string name="user_guide_url">http://goo.gl/2zugn</string>
+    <string name="whats_new">Изменения</string>
+    <string name="license">Лицензия</string>
+    <string name="accept_license">Принять лицензию</string>
+    <string name="decline">Отклонить</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="password">Пароль</string>
+    <string name="old_password">Старый пароль</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="verify_password">Подтвердите пароль</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="incorrect_password">Неправильный пароль. Введите заново</string>
+    <string name="set_password">Установить пароль</string>
+    <string name="password_set">Пароль установлен</string>
+    <string name="edit_password">Изменить пароль</string>
+    <string name="remove_password">Снять пароль</string>
+    <string name="password_removed">Пароль снят</string>
+    <string name="remove_password_message">Пароль будет снят.\n\nВаши данные сможет увидеть любой, получивший доступ к устройству</string>
+    <string name="password_has_not_been_changed">Пароль не изменён</string>
+    <string name="passwords_dont_match">Пароли не совпадают</string>
+    <string name="case_sensitive">регистр важен</string>
+    <string name="disclaimer">Предупреждение</string>
+    <string name="password_disclaimer">Пожалуйста, прочтите это предупреждение и поставьте отметку в конце.\n\nОбращаем внимание, что возможность установки пароля была разработана для защиты от «любопытных глаз.»  Из-за ограничений платформы шифрование данных невозможно и подготовленный человек сможет получить доступ к вашим данным даже при установленном пароле.\n\nНастоятельно рекомендуем дополнительно защитить ваше устройство PIN-кодом или узором</string>
+    <string name="i_understand_the_limitations">Я понимаю эти ограничения</string>
+    <string name="set_password_now_part1">Установить пароль сейчас</string>
+    <string name="set_password_now_part2_format">Даже если вы ответите ^1, вы сможете в любое время установить пароль нажав и подержав книгу в списке и выбрав ^2</string>
+    <string name="folder_name_format">Имя каталога (используйте ^1 для подкаталогов)</string>
+    <string name="no_backup_files">Файлы архивов не найдены</string>
+    <string name="no_backup_files_new_instructions">Если вы пытаетесь создать книгу путём импорта файла, сначала создайте новую книгу, а затем импортируйте файл</string>
+    <string name="remove_transactions">Удалить транзакции старше указанной даты</string>
+    <string name="book_to_make_copy_of">Книга для копирования</string>
+    <string name="truncate_warning_format">Транзакции с датой ранее ^1 будут удалены без возможности восстановления</string>
+    <string name="information_and_help">Информация и помощь</string>
+	<string name="discussion_forum">Обсуждение</string>
+    <string name="join_the_user_community_format">Сообщество пользователей ^1</string>
+    <string name="contact_us">Связаться с нами</string>
+    <string name="email_the_developers">Написать email разработчикам</string>
+    <string name="tap_to_display_import_settings_format">Нажатие ^1 откроет настройки импорта</string>
+    <string name="verify_import_settings">Проверьте, пожалуйста, что установленные по умолчанию значения действительно подходят для импортируемого файла. Если всё хорошо, нажмите <b>Назад</b> чтобы продолжить процесс импорта</string>
+    <string name="change_settings_instructions_format">В дальнейшем это сообщение не будет показываться, но вы можете изменить это поведение нажав ^i в верхней части экрана</string>
+   	<string name="bad_import_settings">Следующие параметры не подходят для импортируемого файла</string>
+    <string name="qif_csv_encoding_explanation_format">Для перечисленных ниже языков обычно используется ^1, однако для корректного импорта файлов некоторых финансовых институтов может потребоваться указать ^2.\n\nДля всех остальных языков НЕ в списке следует использовать ^2</string>
+    <string name="credits_legal">О разработчиках</string>
+    <string name="contact_and_social">Контакты и связь</string>
+	<string name="add_us_to_circle">Добавляйте нас в ваши круги и нажимайте +1</string>
+    <string name="follow_us">Следить</string>
+    <string name="become_a_fan">Стать поклонником</string>
+    <string name="haptic_feedback">Вибрация</string>
+	<string name="haptic_feedback_description">Если отмечено, нажатие кнопок будет сопровождаться вибрацией</string>
+	<string name="default_book_name">Моя книга</string>
+	<string name="color_theme">Тема оформления</string>
+	<string name="dark">Темная</string>
+	<string name="light">Светлая</string>
+	<string name="preview">Просмотр</string>
+		
+	<string-array name="book_new_source">
+	    <item>Создать новую</item>
+	    <item>Восстановить из архива</item>
+	    <item>Скопировать существующую</item>
+    </string-array>
+	
+	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Intentionally left empty -->
+	    <item/> <!-- Intentionally left empty -->
+	    <item>с возможностью обрезать по указанной дате</item>
+    </string-array>
+
+	<string-array name="import_mode">
+        <item>Полученные из банков выписки</item>
+        <item>Данные из других программ</item>
+    </string-array>
+
+	<string-array name="import_mode_description">
+        <item>Для полученных из различных финансовых институтов выписок, например, ежемесячная выписка American Express. Поддерживаются форматы <b>QIF</b> и <b>OFX/QFX/OFS</b>. Загружаемые файлы не должны содержать переводы между счетами</item>
+        <item>Для переноса данных из других программ финансового учёта, таких как Microsoft® Money или Quicken®. Поддерживается только формат <b>QIF</b></item>
+    </string-array>
+
+	<string-array name="book_export_file_type_description">
+        <item>В зависимости от используемых классификаций и категорий, может поддерживаться только Microsoft® Money</item>
+        <item>Поддерживается всеми приложениями, поддерживающими формат QIF</item>
+        <item>Поддерживается табличными процессорами, такими как Microsoft® Excel или Google™ Docs. Первая строка содержит заголовки колонок, за ней следуют транзакции по одной на строку. Каждый сплит выводится отдельной строкой</item>
+    </string-array>
+
+    <string name="import_file_confirm_format">Импортировать файл ^1</string>
+	<string-array name="import_files_confirm_format_plurals">
+        <item>Импортировать ^1 файл</item>
+        <item>Импортировать ^1 файла</item>
+        <item>Импортировать ^1 файлов</item>
+    </string-array>
+
+    <string name="general">Общие</string>
+    <string name="navigation">Навигация</string>
+    
+    <string name="reopen_last_book">Открывать последнюю книгу</string>
+    <string name="reopen_last_book_description">Если отмечено, при запуске приложения открывается последняя открытая книга</string>
+    
+    <string name="starting_screen">Стартовый экран</string>
+	
+    <string name="back_press_on_home_screen">Нажатие назад в начале книги</string>
+	<string-array name="back_press_on_home_screen_items">
+		<item>Закрывает ^1</item>
+		<item>Закрывает текущую книгу и показывает список книг</item>
+	</string-array>
+	
+    <string name="negative_amount_format">Формат отрицательных чисел</string>
+    
+    <string name="show_currency_symbol">Положение символа валюты</string>
+	<string-array name="show_currency_symbol_items">
+		<item>В зависимости от валюты</item>
+		<item>Перед суммой</item>
+		<item>После суммы</item>
+	</string-array>
+	
+    <string name="base_currency">Основная валюта</string>
+	<string name="space_between_symbol_and_amount">Пробел между символом и суммой</string>
+    
+    <string name="password_time_out_period">Время блокировки паролем</string>
+	<string-array name="n_seconds_format_plurals">
+        <item>^1 cекунда</item>
+        <item>^1 секунды</item>
+        <item>^1 секунд</item>
+    </string-array>
+    <string-array name="n_minutes_format_plurals">
+	    <item>^1 минута</item>
+        <item>^1 минуты</item>
+        <item>^1 минут</item>
+	</string-array>
+    
+	<string name="set_button_behavior_format">Поведение кнопки ^1</string>
+	<string-array name="set_button_behavior_items">
+		<item>Устанавливает текущее отображаемое число</item>
+		<item>Завершает вычисление и устанавливает его результат</item>
+	</string-array>
+	
+	<string name="confirmations_and_warnings">Подтверждения и предупреждения</string>
+	
+	<string name="warn_if_no_category">Не указана категория</string>
+    <string name="warn_if_no_category_description">Если отмечено, когда категория не указана показывается предупреждение</string>
+    
+    <string name="warn_if_incorrect_category_type">Неправильный тип категории</string>
+    <string name="warn_if_incorrect_category_type_description">Если отмечено, при указании категории неправильного типа показывается предупреждение</string>
+    
+    <string name="modification_confirmation">Подтверждение изменения</string>
+    <string-array name="modification_confirmation_items">
+		<item>Не запрашивать</item>
+		<item>Только согласованных транзакций</item>
+		<item>Всех транзакций</item>
+	</string-array>
+	
+    <string name="back_press_prompt">Запрос при нажатии назад</string>
+    <string name="back_press_prompt_description">Если отмечено, при нажатии кнопки назад показывается запрос сохранения изменений</string>
+    
+    <string name="new_payee_confirmation">Создание нового получателя</string>
+    <string name="new_payee_confirmation_description">Если отмечено, перед созданием нового получателя запрашивается подтверждение</string>
+    
+    <string name="duplicate_check_number">Дублирование номера чека</string>
+    <string name="duplicate_check_number_description">Если отмечено, при дублировании номера чека показывается предупреждение</string>
+    
+	<string name="field_with_initial_focus">Поле с фокусом ввода</string>
+    
+	<string name="show_keyboard_automatically">Показывать клавиатуру автоматически</string>
+	<string name="show_keyboard_automatically_description">Если отмечено, при вводе новой транзакции будет показана клавиатура</string>
+
+    <string name="notes_in_transaction_window">Примечания в окне транзакции</string>
+    <string name="notes_in_transaction_window_description">Если отмечено, однострочные примечания могут вводиться в окне транзакции</string>
+    
+    <string name="new_category_in_transaction_window">Новые категории в окне транзакции</string>
+    <string name="new_category_in_transaction_window_description">Если отмечено, новые категории могут быть созданы из окна транзакции</string>
+    
+    <string name="hide_labels">Скрыть подписи</string>
+    <string name="hide_labels_description">Если отмечено, подписи в окне транзакции могут быть скрыты для увеличения пространства</string>
+    
+    <string name="security">Безопасность</string>
+    
+    <string name="quick_entry_password">Пароль быстрого ввода</string>
+    <string name="quick_entry_password_description">Если отмечено, виджет быстрого ввода будет запрашивать пароль, если он задан</string>
+    
+    <string name="backup_folder">Каталог для архивов</string>
+    
+	<string name="date_in_file_name">Дата в имени файла</string>
+	<string name="date_in_file_name_description">Если отмечено, при отправке файла к его имени будет добавлена сегодняшняя дата</string>
+    
+    <string name="automatic_backup">Автоархивирование</string>
+    <string name="automatic_backup_description">Если отмечено, книга будет архивироваться автоматически</string>
+    
+    <string name="backup_how_often">Как часто архивировать</string>
+    
+    <string name="auto_backup_notify_description">Если указано, после архивирования будет показываться напоминание</string>
+
+	<string name="backed_up_book_format">^1 архивирована</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item>^1 книга архивирована</item>
+        <item>^1 книги архивированы</item>
+        <item>^1 книг архивированы</item>
+    </string-array>
+	
+	<string-array name="book_exported_format_plurals">
+        <item>^1 транзакция выгружена</item>
+		<item>^1 транзакции выгружены</item>
+	    <item>^1 транзакций выгружены</item>
+	</string-array>
+		
+	<string name="failed_to_back_up_book">Ошибка при архивировании книги</string>
+	<string name="no_space_left_on_sd_card">На карте памяти SD недостаточно места</string>
+	<string name="cannot_restore_newer_version">Невозможно восстановить архив, созданный более новой версией ^1.\n\nУстановите последнюю версию ^1 и попробуйте снова</string>
+	
+	<string name="file">Файл</string>	
+	<string name="folder">Папка</string>		    	    
+	<string name="external_storage">Внешние накопители</string>	
+	<string name="path">Путь</string>	
+
+    <string name="qif_csv_date_order">Формат даты QIF/CSV</string>
+
+	<string name="comma">Запятая</string>	
+    <string name="qif_csv_decimal_mark">Десятичный разделитель QIF/CSV</string>
+	<string-array name="qif_csv_decimal_marks">
+        <item>Точка</item>
+        <item>@string/comma</item>
+    </string-array>
+
+	<string name="csv_delimiter">Разделитель полей CSV</string>
+	<string-array name="csv_delimiters">
+		<item>@string/comma</item>
+		<item>Точка с запятой</item>
+    </string-array>
+
+    <string name="qif_csv_encoding">Кодировка QIF/CSV</string>
+    <string name="ofx_qfx_encoding">Кодировка OFX/QFX</string>
+	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK</item>
+        <item>Кириллица (Windows)</item>
+        <item>Западноевропейские (Windows)</item>
+		<item>Центральная Европа (Windows)</item>
+    </string-array>
+
+	<string name="maintain_entries">Управление значениями</string>
+	<string name="maintain_number_field_entries">Управление значениями поля номера</string>
+  	<string name="maintain_number_field_entries_description">Позволяет удалить более не используемые значения поля номер транзакции</string>
+
+    <string name="delete_entry_warning_format">Значение ^1 будет удалено</string>
+    <string-array name="delete_entries_warning_format_plurals">
+		<item>^1 значение будет удалено</item>
+		<item>^1 значения будут удалены</item>
+		<item>^1 значений будут удалены</item>
+    </string-array>
+</resources>

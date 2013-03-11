@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splits">Rozdělí</string>
+    <string name="split">Rozdělení</string>
+    <string name="split_canceled">Rozdělení zrušeno</string>
+    <string name="new_split">Nové rozdělení</string>
+    <string name="edit_split">Upravit rozdělení</string>
+    <string name="edit_splits">Změna rozdělení</string>
+    <string name="delete_split">Odstranit rozdělení</string>
+	<string name="delete_split_warning">Rozdělení budou smazána</string>
+	<string name="sum_of_splits">Součet rozdělení</string>
+	<string name="unassigned">Nepřiřazeno</string>
+	<string name="transaction_total">Součet transakcí</string>
+    <string name="go_back_to_edit">Návrat k editaci rozdělení</string>
+    <string name="unassigned_split_message_format">Součet rozdělení ^1, zatímco součet transakcí je ^2. ^3 zůstane nepřiřazeno, což se nedoporučuje</string>
+    <string name="what_would_you_like_to_do">Co chcete udělat</string>
+    <string name="set_the_total_format">Nastavit součet k ^1</string>
+    <string name="distribute_format">Rozdělit ^1 rovnoměrně</string>
+    <string name="leave_unassigned_format">Nechat ^1 nepřiřazeno</string>
+    <string name="distributed">Rozděleno</string>
+</resources>

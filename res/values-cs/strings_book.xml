@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="book">Kniha</string>
+    <string name="books">Knihy</string>
+    <string name="new_book">Nová kniha</string>
+    <string name="new_book_name">Jméno nové knihy</string>
+    <string name="open_book">Otevřít knihu</string>
+    <string name="close_book">Zavřít knihu</string>
+    <string name="rename_book">Přejmenovat knihu</string>
+    <string name="delete_book">Smazat knihu</string>
+    <string name="share_book">Sdílet knihu</string>
+    <string name="preparing_to_share">Připravuje se sdílení</string>
+    <string name="book_delete_warning_short_format">Kniha ^1 bude smazána</string>
+    <string name="all_data_will_be_lost">Veškerá data této knihy budou trvale ztracena, pokud nemáte zálohu</string>
+    <string name="import_into_book">Import do knihy</string>
+    <string name="export_from_book">Export z knihy</string>
+    <string name="import_into_book_format">Import do knihy ^1</string>
+    <string name="copying_book">Kopíruje se kniha</string>
+    <string name="no_books">Nemáte žádné knihy</string>
+    <string name="create_book_instructions_format">Knihu vytvoříte dotekem ^i v horní části obrazovky</string> <!-- The ^i will be replaced by an image -->
+    <string name="book_list_favorites_empty">Žádné oblíbené knihy</string>
+    <string name="creating_book">Vytváření knihy</string>
+    <string name="upgrading_book">Aktualizace knihy</string>
+    <string name="upgrading_books">Aktualizace knih</string>
+    <string name="backup">Zálohovat</string>
+    <string name="backup_canceled">Zálohování zrušeno</string>
+    <string name="backup_book">Zálohovat knihu</string>
+    <string name="overwrite">Přepsat</string>
+    <string name="backup_name">Název zálohy</string>
+    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+    <string name="backing_up_book">Zálohování knihy</string>
+    <string name="restore">Obnovit</string>
+    <string name="restored">Obnoveno</string>
+    <string name="restore_canceled">Obnova zrušena</string>
+    <string name="restore_book">Obnovit knihu</string>
+    <string name="restoring_book">Obnova knihy</string>
+    <string name="restore_warning_format">Kniha ^1 bude přepsána a <b>všechna</b> její data trvale zničena</string>
+    <string name="select_backup_file_to_restore">Vyberte zálohu, kterou chcete obnovit</string>
+    <string name="select_backup_file_to_create_from">Vyberte zálohu, ze které vytvořit knihu</string>
+    <string name="import_statement">Import výpisu</string>
+    <string name="no_sd_card_inserted">Není vložena SD karta</string>
+    <string name="select_files">Vyberte soubory</string>
+    <string name="delete_file">Smazat soubor</string>
+    <string name="delete_file_warning_format">Soubor ^1 bude smazán</string>
+	 <string-array name="delete_files_warning_format_plurals">
+        <item>^1 vybraný soubor bude odstraněn</item>
+        <item>^1 vybrané soubory budou odstraněny</item>
+        <item>^1 vybraných souborů bude odstraněno</item>
+    </string-array>
+    <string name="select_book">Vyberte knihu</string>
+    <string name="select_book_to_import_into">Vyberte knihu do které importovat výpis</string>
+    <string name="select_import_file">Vyberte soubor(y) pro import</string>
+    <string name="reading_format">Čtení ^1</string>
+    <string name="reading_file">Čtení souboru</string>
+    <string name="reading_files">Čtení souborů</string>
+    <string name="checking_for_duplicate_transactions">Kontrola duplicitních transakcí</string>
+    <string name="not_specified_brackets">&lt;Neuvedeno></string>
+    <string name="map_accounts">Mapování účtů</string>
+    <string name="configure_account_mappings">Nastavení mapování účtů</string>
+    <string name="account_required">Vyžadován účet</string>
+    <string name="duplicate_name">Duplicitní název</string>
+    <string name="options">Nastavení</string>
+    <string name="select_options">Upřesněte parametry importu</string>
+    <string name="remove_duplicates">Odstranit duplicity</string>
+    <string name="remove_duplicates_notes">Toto by mělo pracovat správně ve velké většině případů, problémy ale mohou nastat, zvláště pokud jsou částky v různých měnách. V těchto případech není porovnání možné. Po dokončení importu prosím ověřte správnost zůstatků.</string>
+    <string name="import_classes">Import tříd</string>
+    <string name="ignore_memos">Ignorovat pole poznámek</string>
+    <string name="create_payees_in_app_name_format">Vytvořit příjemce v ^1</string>
+    <string name="contact_account">Účet pro vytváření příjemců</string>
+    <string name="select_import_mode">Zvolte způsob importu</string>
+    <string name="select_accounts_to_export">Zvolte účty pro export</string>
+    <string name="specify_export_file_format">Zvolte formát výstupního souboru</string>
+    <string name="mark_transactions_exported">Označit transakci jako exportovanou</string>
+    <string name="create_single_file">Vytvořit jeeden soubor</string>
+    <string name="no_transactions_matched_your_selection_criteria">Žádná transakce nevyhovuje parametrům výběru.\nExportní soubor nebyl vytvořen</string>
+	<string name="import_folder">Složka pro import souborů</string>
+	<string name="export_folder">Složka pro export souborů</string>
+    <string name="ask_to_view_imported_transaction">Chcete zobrazit importované transakce</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="tip">Tip</string>
+    <string name="user_guide">Uživatelská příručka</string>
+	<string name="user_guide_url">http://goo.gl/fvjiq</string>
+    <string name="whats_new">Co je nového</string>
+    <string name="license">Licence</string>
+    <string name="accept_license">Přijmout licenci</string>
+    <string name="decline">Odmítnout</string>
+    <string name="thank_you">Děkuji!</string>
+    <string name="password">Heslo</string>
+    <string name="old_password">Původní heslo</string>
+    <string name="new_password">Nové heslo</string>
+    <string name="verify_password">Ověřit heslo</string>
+    <string name="enter_password">Zadejte heslo</string>
+    <string name="incorrect_password">Nesprávné heslo. Prosím zadejte znovu</string>
+    <string name="set_password">Nastavit heslo</string>
+    <string name="password_set">Heslo nastaveno</string>
+    <string name="edit_password">Změnit heslo</string>
+    <string name="remove_password">Odstranit heslo</string>
+    <string name="password_removed">Heslo odstraněno</string>
+    <string name="remove_password_message">Heslo bude odstraněno.\n\nData budou dostupná komukoli, kdo má přístup k vašemu zařízení</string>
+    <string name="password_has_not_been_changed">Heslo nebylo změněno</string>
+    <string name="passwords_dont_match">Heslo nesouhlasí</string>
+    <string name="case_sensitive">rozlišuje se velikost písmen</string>
+    <string name="disclaimer">Prohlášení</string>
+    <string name="password_disclaimer">Přečtěte si toto prohlášení a zaškrtněte políčko na konci.\n\nPřipomínáme, že funkce hesla byla navržena jako způsob, jak zajistit soukromí od „zvědavých očí“. Z důvodu omezení platformy skutečné šifrování dat není možné a někdo s pokročilými dovednostmi by mohl získat přístup k datům i přes použití hesla.\n\nPro zvýšení zabezpečení doporučujeme chránit zařízení použitím zámku nebo PINu</string>
+    <string name="i_understand_the_limitations">Rozumím těmto omezením</string>
+    <string name="set_password_now_part1">Nastavit heslo</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_password_now_part2_format">Přestože odpovíte ^1, budete mít možnost nastavit heslo kdykoli dlouhým podržením názvu knihy a volbou ^2</string>
+    <string name="folder_name_format">Název složky (použijte ^1 pro podsložky)</string>
+    <string name="no_backup_files">Nenalezen žádný záložní soubor</string>
+    <string name="no_backup_files_new_instructions">Pokud se pokoušíte vytvořit knihu pomocí importu, vytvořte, prosím, nejprve prázdnou knihu, následně do ní proveďte import</string>
+    <string name="remove_transactions">Smazat transakce starší než datum uvedené níže</string>
+    <string name="book_to_make_copy_of">Zkopírovat knihu</string>
+    <string name="truncate_warning_format">Všechny transakce starší než ^1 budou nevratně smazány</string>
+    <string name="information_and_help">Informace a nápověda</string>
+    <string name="discussion_forum">Diskusní fórum</string>
+    <string name="join_the_user_community_format">Připojit se ke komunitě uživatelů ^1</string>
+    <string name="contact_us">Kontaktujte nás</string>
+    <string name="email_the_developers">Odeslat e-mail přimo vývojářům</string>
+    <string name="tap_to_display_import_settings_format">Dotekem ^1 zobrazíte možnosti importu</string>
+    <string name="verify_import_settings">Ověřte, že nastavená nastavení jsou vhodná pro soubor, který importujete. Pokud vše vypadá dobře, pokračujte v procesu importu stiskem <b>Zpět</b></string>
+    <string name="change_settings_instructions_format">Tato zpráva nebude zobrazena při dalších importech, nastavení ale můžete kdykoli změnit dotekem ^i horní části obrazovky</string> <!-- ^i will be replaced by an image -->
+    <string name="bad_import_settings">Následující nastavení zřejmě nejsou správná pro soubor, který se pokoušíte importovat</string>
+    <string name="qif_csv_encoding_explanation_format">Pro jazyky v níže uvedeném seznamu by mělo být použito ^1, některé finanční instituce ale mohou vytvářet soubory kde musí být zvoleno ^2.\n\nPro všechny ostatní jazyky, které nejsou na seznamu, by mělo být zvoleno ^2</string>
+    <string name="credits_legal">Poděkování a právní informace</string>
+    <string name="contact_and_social">Kontakty a sociální</string>
+    <string name="follow_us">Následovat</string>
+    <string name="add_us_to_circle">Přidejte si nás do kruhu a udělte +1</string>
+    <string name="become_a_fan">Staňte se fanouškem</string>
+    <string name="haptic_feedback">Hmatová odezva</string>
+    <string name="haptic_feedback_description">Je-li zapnuto, doteky tlačítek budou doprovázeny vibracemi</string>
+	<string name="default_book_name">Má kniha</string>
+	<string name="color_theme">Barevné schéma</string>
+	<string name="dark">Tmavé</string>  <!-- As in "dark color theme" -->
+	<string name="light">Světlé</string> <!-- As in "opposite of dark" -->
+	<string name="preview">Náhled</string>
+	
+	<string-array name="book_new_source">
+	    <item>Vytvořit novou</item>
+	    <item>Vytvořit ze zálohy</item>
+	    <item>Zkopírovat stávající knihu</item>
+    </string-array>
+
+	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Intentionally left empty -->
+	    <item/> <!-- Intentionally left empty -->
+	    <item>a volitelně zkrátit k danému datu</item>
+    </string-array>
+	
+	<string-array name="import_mode">
+        <item>Výpisy stažené z bank</item>
+        <item>Data exportovaná z jiných aplikací</item>
+    </string-array>
+
+	<string-array name="import_mode_description">
+        <item>Používá se pro výpisy z různých finančních institucí, například prohlášení o konci měsíce od American Express. Podporovány jsou formáty <b>QIF</b> a <b>OFXQFX/OFS</b>. Importované soubory nesmí obsahovat převody mezi účty</item>
+        <item>Používá se pro zpracování dat z jiné účetní aplikace, jako je Microsoft® Money nebo Quicken®. Podporován je pouze formát <b>QIF</b></item>
+    </string-array>
+
+	<string-array name="book_export_file_type_description">
+        <item>Závisí na klasifikacích a kategoriích, které používáte, může být čitelné pouze v Microsoft® Money</item>
+        <item>Čitelné ve všech aplikacích, které podporují formát QIF</item>
+        <item>Čitelné pomocí tabulkových kalkulátorů, například aplikace Microsoft® Excel nebo Google™ Docs. První exportovaný řádek obsahuje záhlaví sloupců, následovaný řádky jednotlivých transakcí. Každé rozdělení bude na samostatném řádku</item>
+    </string-array>
+
+    <string name="import_file_confirm_format">Chcete importovat soubor ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string-array name="import_files_confirm_format_plurals">
+        <item>Importovat ^1 soubor</item>
+        <item>Importovat ^1 soubory</item>
+        <item>Importovat ^1 souborů</item>
+    </string-array>
+
+    <string name="general">Základní</string>
+    <string name="navigation">Navigace</string>
+    
+    <string name="reopen_last_book">Otevřít poslední knihu</string>
+    <string name="reopen_last_book_description">Je-li zapnuto, bude při spuštění aplikace otveřena naposledy použitá kniha</string>
+    
+    <string name="starting_screen">Úvodní obrazovka</string>
+	
+    <string name="back_press_on_home_screen">Stisk <b>Zpět</b> na úvodní obrazovce</string>
+	<string-array name="back_press_on_home_screen_items">
+		<item>Ukončí ^1</item>
+		<item>Uzavře aktuální knihu a zobrazí seznam knih</item>
+	</string-array>
+	
+    <string name="negative_amount_format">Zobrazení záporných částek</string>
+    
+    <string name="show_currency_symbol">Zobrazit symbol měny</string>
+	<string-array name="show_currency_symbol_items">
+		<item>Podle měny</item>
+		<item>Před částkou</item>
+		<item>Za částkou</item>
+	</string-array>
+	
+    <string name="base_currency">Základní měna</string>
+    <string name="space_between_symbol_and_amount">Mezera mezi částkou a symbolem měny</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+    
+    <string name="password_time_out_period">Limit pro vypršení hesla</string>
+	<string-array name="n_seconds_format_plurals">
+        <item>^1 sekunda</item>
+        <item>^1 sekundy</item>
+        <item>^1 sekund</item>
+    </string-array>
+	<string-array name="n_minutes_format_plurals">
+        <item>^1 minuta</item>
+        <item>^1 minuty</item>
+        <item>^1 minut</item>
+    </string-array>
+    
+    <string name="set_button_behavior_format">chování tlačítka ^1</string>
+	<string-array name="set_button_behavior_items">
+		<item>Použije právě zobrazané číslo</item>
+		<item>Dokončí výpočet a použije výsledek</item>
+	</string-array>
+
+    <string name="confirmations_and_warnings">Potvrzování a varování</string>
+
+    <string name="warn_if_no_category">Varovat, není-li uvedena kategorie</string>
+    <string name="warn_if_no_category_description">Je-li zapnuto, bude zobrazeno varování není-li uvedena kategorie</string>
+    
+    <string name="warn_if_incorrect_category_type">Varovat při nesprávném typu kategorie</string>
+    <string name="warn_if_incorrect_category_type_description">Je-li zapnuto, bude zobrazeno varování je-li vybrána kategorie nesprávného typu</string>
+    
+    <string name="modification_confirmation">Potvrzování změn</string>
+	<string-array name="modification_confirmation_items">
+		<item>Neptat se</item>
+		<item>Jen odsouhlasené</item>
+		<item>Vždy</item>
+	</string-array>
+	
+    <string name="back_press_prompt">Dotaz při stisknutí <b>Zpět</b></string>
+    <string name="back_press_prompt_description">Je-li zapnuto, bude při stisku <b>Zpět</b> zobrazen dotaz na uložení</string>
+    
+    <string name="new_payee_confirmation">Potvrzení nového příjemce</string>
+    <string name="new_payee_confirmation_description">Je-li zapnuto, bude vyžádáno potvrzení před vytvořením nového příjemce</string>
+    
+    <string name="duplicate_check_number">Duplicitní číslo šeku</string>
+    <string name="duplicate_check_number_description">Je-li zapnuto, bude zobrazeno varování v případě, že číslo šeku již bylo použito</string>
+    
+    <string name="field_with_initial_focus">Pole ve kterém zahájíte editaci</string>
+    
+    <string name="show_keyboard_automatically">Automaticky zobrazit klávesnici</string>
+	<string name="show_keyboard_automatically_description">Je-li zapnuto, bude při zadávání nové transakce automaticky zobrazena klávesnice</string>
+	    
+    <string name="notes_in_transaction_window">Poznámky v okně transakce</string>
+    <string name="notes_in_transaction_window_description">Je-li zapnuto, můžete zadávat jednořádkové poznámky přímo v okně transakce</string>
+    
+    <string name="new_category_in_transaction_window">Nová kategorie z okna transakce</string>
+    <string name="new_category_in_transaction_window_description">Je-li zapnuto, může být z okna transakce vytvořena nová kategorie</string>
+    
+    <string name="hide_labels">Skrýt popisky</string>
+    <string name="hide_labels_description">Je-li vybráno, lze skrýt popisky v okně transakce pro získání více místa</string>
+    
+    <string name="security">Zabezpečení</string>
+    
+    <string name="quick_entry_password">Heslo při Rychlém zadání</string>
+    <string name="quick_entry_password_description">Je-li zapnuto, widget Rychlého zadání vás požádá o heslo, je li v aplikaci nastavena ochrana heslem</string>
+    
+    <string name="backup_folder">Složka pro zálohování</string>
+    
+    <string name="date_in_file_name">Datum v názvu souboru</string>
+    <string name="date_in_file_name_description">Je-li zapnuto, bude při odesílání na konec názvu souboru doplněno dnešní datum</string>
+    
+    <string name="automatic_backup">Automatické zálohování</string>
+    <string name="automatic_backup_description">Je-li zapnuto,  buda tato kniha automaticky zálohována</string>
+    
+    <string name="backup_how_often">Jak často zálohovat</string> <!-- This is a question, but the question mark will be added progrmatically -->
+
+    <string name="auto_backup_notify_description">Je-li zapnuto, bude po dokončení automatického zálohování zobrazeno upozornění</string>
+    
+	<string name="backed_up_book_format">^1 zálohováno</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item>^1 kniha zálohována</item>
+        <item>^1 knihy zálohovány</item>
+        <item>^1 knih zálohováno</item>
+    </string-array>
+
+	<string-array name="book_exported_format_plurals">
+        <item>^1 transakce exportována</item>
+        <item>^1 transakce exportovány</item>
+        <item>^1 transakcí exportováno</item>
+    </string-array>
+
+	<string name="failed_to_back_up_book">Knihu se nepodařilo zálohovat</string>
+	<string name="no_space_left_on_sd_card">Na SD kartě není místo</string>
+	<string name="cannot_restore_newer_version">Zálohu nelze obnovit, protože byla vytvořena novější verzí aplikace ^1.\n\nNainstalujte prosím poslední verzi ^1 a zopakujte operaci</string>
+		
+	<string name="file">Soubor</string>	
+	<string name="folder">Složka</string>	
+	<string name="external_storage">Externí úložiště</string>	
+	<string name="path">Cesta</string>	
+
+    <string name="qif_csv_date_order">Pořadí složek data QIF/CSV</string>
+
+	<string name="comma">Čárka</string>	
+    <string name="qif_csv_decimal_mark">Oddělovač desetin QIF/CSV</string>
+	<string-array name="qif_csv_decimal_marks">
+        <item>Desetinná tečka</item>
+        <item>@string/comma</item>
+    </string-array>
+
+	<string name="csv_delimiter">Oddělovač záznamů v CSV</string>
+	<string-array name="csv_delimiters">
+		<item>@string/comma</item>
+		<item>Středník</item>
+    </string-array>
+
+    <string name="qif_csv_encoding">Kódování QIF/CSV</string>
+    <string name="ofx_qfx_encoding">Kódování OFX/QFX/OFS</string>
+	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK</item>
+        <item>Cyrilice (Windows)</item>
+        <item>Západoevropské (Windows)</item>
+        <item>Středoevropské (Windows)</item>
+    </string-array>
+
+    <string name="maintain_entries">Správa hodnot</string>
+    <string name="maintain_number_field_entries">Správa hodnot pole Číslo</string>
+    <string name="maintain_number_field_entries_description">Umožní smazat již nepoužívané hodnoty pole Číslo transakce</string>
+
+    <string name="delete_entry_warning_format">Záznam ^1 bude smazán</string>
+    <string-array name="delete_entries_warning_format_plurals">
+        <item>^1 záznam bude smazán</item>
+        <item>^1 záznamy budou smazány</item>
+        <item>^1 záznamů bude smazáno</item>
+    </string-array>
+</resources>

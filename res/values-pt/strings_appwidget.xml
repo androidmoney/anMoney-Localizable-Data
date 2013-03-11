@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="appwidget_warning_format">Aparentemente você tem ^1 atualmente instalado no cartão SD.\n\nUma vez que isso pode causar o desaparecimento dos widgets, é altamente recomendado que você mova de volta ^1 do cartão SD para o dispositivo, se você planeja fazer uso dos widgets</string>
+
+    <string name="no_books_warning">Por favor crie pelo menos um livro antes de posicionar o widget</string>
+    <string name="no_books_and_accounts_warning">Por favor crie pelo menos um livro e uma conta antes de posicionar o widget</string>
+    <string name="no_accounts_warning">Por favor crie pelo menos uma conta antes de posicionar o widget</string>
+    <string name="book_no_longer_exists_format">Livro ^1 não existe mais</string>
+    <string name="account_no_longer_exists">Conta não existe mais</string>
+
+    <string name="quick_entry">Entrada rápida</string>
+    <string name="app_name_quick_entry">anMoney — Entrada rápida</string>
+    <string name="app_name_quick_entry_large">anMoney — Entrada rápida (grande)</string>
+    <string name="app_name_quick_entry_small">anMoney — Entrada rápida (pequena)</string>
+    <string name="show_total">Mostrar total da conta</string>
+
+    <string name="app_name_upcoming">anMoney — Próximas</string>
+
+    <string name="app_name_budget">anMoney — Orçamento</string>
+
+    <string name="app_name_report">anMoney — Relatório</string>
+
+<!-- New --> <string name="dash_clock_extension_description">Displays overdue bills or deposits, if any.</string>
+</resources>

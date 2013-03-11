@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_main_sub_separator">:</string>
+    <string name="category">Kategorie</string>
+    <string name="categories">Kategorien</string>
+	<string name="subcategory">Unter-Kategorie</string>
+    <string name="classification">Klassifikation</string>
+	<string name="_class">Klasse</string>
+	<string name="subclass">Unter-Klasse</string>
+	<string name="parent_category">Übergeordnete Kategorie</string>
+	<string name="parent_class">Übergeordnete Klasse</string>
+	<string name="edit_category">Kategorie ändern</string>
+	<string name="edit_subcategory">Unter-Kategorie ändern</string>
+	<string name="edit_class">Klasse ändern</string>
+	<string name="edit_subclass">Unter-Klasse ändern</string>
+	<string name="new_category">Neue Kategorie</string>
+	<string name="new_subcategory">Neue Unter-Kategorie</string>
+	<string name="new_class">Neue Klasse</string>
+	<string name="new_subclass">Neue Unter-Klasse</string>
+	<string name="delete_category">Kategorie löschen</string>
+	<string name="delete_subcategory">Unter-Kategorie löschen</string>
+	<string name="delete_class">Klasse löschen</string>
+	<string name="delete_subclass">Unter-Klasse löschen</string>
+	<string name="add_default_categories">Standard-Kategorien hinzufügen</string>
+	<string name="add_classification">Klassifikation hinzufügen</string>
+	<string name="select_category">Kategorie auswählen</string>
+	<string name="select_class">Klasse auswählen</string>
+	<string name="delete_classification">Klassifikation löschen</string>
+	<string name="rename_classification">Klassifikation umbenennen</string>
+	<string name="select_classification">Klassifikation auswählen</string>
+	<string name="enter_classification_name">Namen der Klassifikations eingeben</string>
+	<string name="enter_new_classification_name">Neuen Namen der Klassifikation eingeben</string>
+	<string name="categories_and_classifications">Kategorien &amp; Klassifikationen</string>
+    <string name="no_categories_expense">Sie haben keine Ausgabe-Kategorien</string>
+    <string name="no_categories_income">Sie haben keine Einnahme-Kategorien</string>
+    <string name="no_classes">Sie haben keine Klassen</string>
+    <string name="create_category_instructions_format">Um Kategorien zu erstellen, drücken Sie ^i oben auf den Bildschirm</string>
+    <string name="create_class_instructions_format">Um Klassen zu erstellen, drücken Sie ^i oben auf den Bildschirm</string>
+	<string name="uncategorized_transactions">Transaktionen ohne Kategorie</string>
+	<string name="delete_category_no_subcategories_warning_format">Kategorie ^1 wird dauerhaft gelöscht</string>
+	<string name="delete_class_no_subclass_warning_format">Klasse ^1 wird dauerhaft gelöscht</string>
+	<string name="delete_category_with_subcategories_warning_format">Kategorie ^1 und <b>alle Unter-Kategorien</b> werden dauerhaft gelöscht</string>
+	<string name="delete_class_with_subclass_warning_format">Klasse ^1 und <b>alle Unter-Klassen</b> werden dauerhaft gelöscht</string>
+	<string name="delete_subcategory_warning_format">Unter-Kategorie ^1 wird dauerhaft gelöscht</string>
+	<string name="delete_subclass_warning_format">Unter-Klasse ^1 wird dauerhaft gelöscht</string>
+	<string name="delete_classification_warning_format">Klassifikation ^1 wird dauerhaft gelöscht. Von allen Transaktionen wird die Klassifikation entfernt</string>
+	<string name="deleting_classification">Lösche Klassifikation</string>
+	<string name="default_categories_add_confirmation">Möcheten Sie die Standard-Kategorien hinzufügen</string>
+	<string name="default_categories_added">Standard-Kategorien hinzugefügt</string>
+	<string name="adding_default_categories">Füge Standard-Kategorien hinzu</string>
+    <string name="all_categories">Alle Kategorien</string>
+	<string name="expense">Ausgabe</string>
+	<string name="expenses">Ausgaben</string>
+	<string name="expense_categories">Ausgaben-Kategorien</string>
+	<string name="income">Einnahme</string>
+	<string name="income_categories">Einnahme-Kategorien</string>
+	<string name="savings">Ersparnisse</string>
+	<string name="category_name">Name der Kategorie</string>
+	<string name="subcategory_name_lower">Name der Unter-Kategorie</string>
+	<string name="class_name">Name der Klasse</string>
+	<string name="subclass_name_lower">Name der Unter-Klasse</string>
+	<string name="without_subcategory">Ohne Unter-Kategorie</string>
+	<string name="cannot_be_zero">Darf nicht 0 sein</string>
+	<string name="change_expense_warning">Möchten Sie diese Kategorie von Ausgabe in Einnahme oder vice versa ändern</string>
+	<string name="prepopulate">Mit Standard-Kategorien bestücken</string>
+	<string name="short_categories">Nur die kurze Kategorien-Liste laden (Sie haben später die Möglichkeit, die vollst. Liste zu laden)</string>
+	<string name="view_categories">Kategorien ansehen</string>
+	<string name="category_not_found">Kategorie gibt es nicht</string>
+	<string name="class_not_found">Klasse gibt es nicht</string>
+	<string name="total_income">Einkommen total</string>
+	<string name="total_expense">Ausgaben total</string>
+	<string name="net">Netto</string>
+	<string name="net_income">Nettoeinkommen</string>
+	<string name="uncategorized">Unkategorisierte</string>
+	<string name="income_uncategorized">Unkategorisiertes Einkommen</string>
+	<string name="expense_uncategorized">Unkategorisierte Ausgaben</string>
+	<string name="show_uncategorized">Zeige Nicht-kategorisierte</string>
+	<string name="move_subcategory_to_another_category_warning">Möchten Sie diese Unterkategorie zu einer anderen Kategorie verschieben</string>
+	<string name="show_zero_balance_categories">Zeige Kategorien mit Null-Saldo</string>
+	<string name="show_zero_balance_items">Zeige Posten mit Null-Saldo</string>
+	<string name="recategorize_category">Umorganisieren aller Transaktionen dieser Kategorie als</string>
+	<string name="recategorize_class">Umorganisieren aller Transaktionen dieser Klasse als</string>
+	<string name="spending_by_category0">Ausgaben nach Kategorie</string>
+	<string name="spending_by_category1">Ausgaben nach Kategorie oder ^1</string>
+	<string name="spending_by_category2">Ausgaben nach Kategorie, ^1 oder ^2</string>
+	
+	<string name="no_categories">Keine Kategorien</string>
+	<string name="no_categories_yet">Bisher keine Kategorien</string>
+	<string name="no_classes_yet">Bisher keine Klassen</string>
+	<string-array name="category_count_format_plurals">
+		<item>1 Kategorie</item>
+        <item>^1 Kategorien</item>
+    </string-array>
+	<string-array name="uncategorized_count_plurals">
+		<item>^1 nicht-kategorisierte Transaktion</item>
+		<item>^1 nicht-kategorisierte Transaktionen</item>
+	</string-array>
+	
+	<string-array name="default_classifications">
+		<item>Familienmitglieder</item>
+		<item>Eigenschaften</item>
+		<item>Projekte</item>
+		<item>Hobbies</item>
+		<item>Urlaub</item>
+		<item>Arbeitsausgaben</item>
+		<item>Sonstiges</item>
+	</string-array>
+</resources>

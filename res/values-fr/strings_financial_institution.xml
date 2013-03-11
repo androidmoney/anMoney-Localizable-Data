@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="financial_institution">Établissement financier</string>
+	<string name="financial_institutions">Établissements financiers</string>
+	<string name="financial_institution_bank_first">Établissement financier, avec <b>bancaire</b> en premier</string>
+	<string name="financial_institution_cash_first">Établissement financier, avec <b>trésorerie</b> en premier</string>
+	<string name="view_financial_institution">Voir l’établissement financier</string>
+	<string name="edit_financial_institution">Modifier l’établissement financier</string>
+	<string name="call_financial_institution">Appeler l’établissement financier</string>
+	<string name="new_financial_institution">Nouvel établissement financier</string>
+	<string name="delete_financial_institution">Supprimer l’établissement financier</string>
+	<string name="delete_financial_institution_warning_format">L’établissement financier ^1 sera définitivement supprimé et retiré de tous vos comptes</string>
+	<string name="add_financial_institution_as_a_contact">Ajouter l’éts. fin. comme contact</string>
+	<string name="financial_institution_exists">Un établissement financier portant ce nom existe déjà</string>
+    <string name="no_financial_institutions">Vous n’avez défini aucun établissement financier</string>
+    <string name="create_financial_institution_instructions_format">Pour commencer, appuyez sur ^i en haut de l’écran</string>
+	<string name="view_financial_institutions">Voir les établissements financiers</string>
+	<string name="financial_institution_name">Nom de l’établissement financier</string>
+    <string name="contact_exists">Un contact portant ce nom existe déjà</string>
+    <string name="link_financial_institution">Souhaitez-vous lier cet établissement financier au contact existant</string>
+	
+	<string name="no_financial_institutions_yet">Pas encore d’établissement financier</string>	
+	<string-array name="financial_institution_count_format_plurals">
+		<item>1 établissement financier</item>
+		<item>^1 établissements financiers</item>
+	</string-array>
+</resources>

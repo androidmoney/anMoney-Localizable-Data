@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_main_sub_separator">:</string>
+    <string name="category">Категория</string>
+    <string name="categories">Категории</string>
+    <string name="subcategory">Подкатегория</string>
+    <string name="classification">Классификация</string>
+    <string name="_class">Класс</string>
+    <string name="subclass">Подкласс</string>
+	<string name="parent_category">Род. категория</string>
+	<string name="parent_class">Род. класс</string>
+    <string name="edit_category">Изменить категорию</string>
+    <string name="edit_subcategory">Изменить подкатегорию</string>
+    <string name="edit_class">Изменить класс</string>
+    <string name="edit_subclass">Изменить подкласс</string>
+    <string name="new_category">Новая категория</string>
+    <string name="new_subcategory">Новая подкатегория</string>
+    <string name="new_class">Новый класс</string>
+    <string name="new_subclass">Новый подкласс</string>
+    <string name="delete_category">Удалить категорию</string>
+    <string name="delete_subcategory">Удалить подкатегорию</string>
+    <string name="delete_class">Удалить класс</string>
+    <string name="delete_subclass">Удалить подкласс</string>
+    <string name="add_default_categories">Добавить стандартные категории</string>
+    <string name="add_classification">Добавить классификацию</string>
+    <string name="select_category">Выберите категорию</string>
+    <string name="select_class">Выберите класс</string>
+    <string name="delete_classification">Удалить классификацию</string>
+    <string name="rename_classification">Переименовать классификацию</string>
+    <string name="select_classification">Выберите классификацию</string>
+    <string name="enter_classification_name">Введите название классификации</string>
+    <string name="enter_new_classification_name">Введите новое название классификации</string>
+    <string name="categories_and_classifications">Категории и классификации</string>
+    <string name="no_categories_expense">Отсутствуют расходные категории</string>
+    <string name="no_categories_income">Отсутствуют приходные категории</string>
+    <string name="no_classes">Отсутствуют классы</string>
+    <string name="create_category_instructions_format">Для создания категорий, нажмите ^i в верхней части экрана</string>
+    <string name="create_class_instructions_format">Для создания классов, нажмите ^i в верхней части экрана</string>
+    <string name="uncategorized_transactions">Транзакции без категории</string>
+    <string name="delete_category_no_subcategories_warning_format">Категория ^1 будет удалена</string>
+    <string name="delete_class_no_subclass_warning_format">Класс ^1 будет удалён</string>
+    <string name="delete_category_with_subcategories_warning_format">Категория ^1 и <b>и все её подкатегории</b> будут удалены</string>
+    <string name="delete_class_with_subclass_warning_format">Класс ^1 и <b>все его подклассы</b> будут удалены</string>
+    <string name="delete_subcategory_warning_format">Подкатегория ^1 будет удалена</string>
+    <string name="delete_subclass_warning_format">Подкласс ^1 будет удалён</string>
+    <string name="delete_classification_warning_format">Классификация ^1 будет удалена и убрана из всех транзакций</string>
+    <string name="deleting_classification">Удаление классификации</string>
+    <string name="default_categories_add_confirmation">Добавить стандартные категории</string>
+    <string name="default_categories_added">Стандартные категории добавлены</string>
+    <string name="adding_default_categories">Добавление стандартных категорий</string>
+    <string name="all_categories">Все категории</string>
+    <string name="expense">Расход</string>
+    <string name="expenses">Расходы</string>
+    <string name="expense_categories">Расходные категории</string>
+    <string name="income">Доход</string>
+    <string name="income_categories">Доходные категории</string>
+	<string name="savings">Сбережения</string>
+    <string name="category_name">Имя категории</string>
+    <string name="subcategory_name_lower">имя подкатегории</string>
+    <string name="class_name">Имя класса</string>
+    <string name="subclass_name_lower">имя подкласса</string>
+    <string name="without_subcategory">Без подкатегории</string>
+    <string name="cannot_be_zero">Не может быть 0</string>
+    <string name="change_expense_warning">Действительно сделать доходную категорию расходной (или наоборот)</string>
+    <string name="prepopulate">Заполнить стандартными категориями</string>
+    <string name="short_categories">Загрузить короткий список (если захотите, вы сможете загрузить полный список позднее)</string>
+    <string name="view_categories">Показать категории</string>
+    <string name="category_not_found">Категория не существует</string>
+    <string name="class_not_found">Класс не существует</string>
+	<string name="total_income">Всего доходов</string>
+	<string name="total_expense">Всего расходов</string> 
+	<string name="net">Нетто</string>
+	<string name="net_income">Чистая прибыль</string>
+	<string name="uncategorized">Без категории</string>
+    <string name="income_uncategorized">Доходы без категории</string>
+    <string name="expense_uncategorized">Расходы без категории</string>
+    <string name="show_uncategorized">Показывать без категории</string>
+    <string name="move_subcategory_to_another_category_warning">Переместить подкатегорию в другую категорию</string>
+    <string name="show_zero_balance_categories">Показывать категории с нулевым балансом</string>
+    <string name="show_zero_balance_items">Показывать элементы с нулевым балансом</string>
+    <string name="recategorize_category">Изменить категорию транзакций с данной категорией на</string>
+    <string name="recategorize_class">Изменить категорию транзакций с данным классом на</string>
+    <string name="spending_by_category0">Расходы по категориям</string>
+    <string name="spending_by_category1">Расходы по категориям или ^1</string>
+    <string name="spending_by_category2">Расходы по категориям, ^1 или ^2</string>
+
+    <string name="no_categories">Нет категорий</string>
+    <string name="no_categories_yet">Нет категорий</string>
+    <string name="no_classes_yet">Нет классов</string>
+	<string-array name="category_count_format_plurals">
+	    <item>^1 категория</item>
+        <item>^1 категории</item>
+        <item>^1 категорий</item>
+    </string-array>
+	<string-array name="uncategorized_count_plurals">
+	    <item>^1 транзакция без категории</item>
+        <item>^1 транзакции без категории</item>
+        <item>^1 транзакций без категории</item>
+    </string-array>
+
+	<string-array name="default_classifications">
+		<item>Члены семьи</item>
+		<item>Недвижимость</item>
+		<item>Проекты</item>
+		<item>Хобби</item>
+		<item>Отдых</item>
+		<item>Служебные расходы</item>
+		<item>Прочее</item>
+	</string-array>
+</resources>

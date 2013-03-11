@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Keresés</string>
+    <string name="search_transactions">Tranzakciók keresése</string>
+    <string name="no_matching_transactions">Nincsenek megfelelő tranzakciók</string>
+</resources>

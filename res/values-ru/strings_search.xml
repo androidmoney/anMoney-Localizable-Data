@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Поиск</string>
+    <string name="search_transactions">Поиск транзакций</string>
+    <string name="no_matching_transactions">Транзакции не найдены</string>
+</resources>

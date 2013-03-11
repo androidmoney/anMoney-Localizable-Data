@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="FilePicker_open_folder">Obrir carpeta</string>
+	<string name="FilePicker_select_file">Seleccionar arxiu</string>
+	<string name="FilePicker_deselect_file">Desseleccionar arxiu</string>
+	<string name="FilePicker_delete_file">Esborrar arxiu</string>
+	<string name="FilePicker_go_to_parent_folder">Anar a la carpeta superior</string>
+</resources>

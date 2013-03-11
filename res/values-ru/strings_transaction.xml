@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transactions">Транзакции</string>
+    <string name="view_transactions">Показать транзакции</string>
+    <string name="new_transaction">Новая транзакция</string>
+    <string name="edit_transaction">Изменить транзакцию</string>
+    <string name="split_transaction">Разделить транзакцию</string>
+    <string name="delete_transaction">Удалить транзакцию</string>
+    <string name="accept_transaction">Принять транзакцию</string>
+    <string name="select">Выбрать</string>
+    <string name="accept">Принять</string>
+    <string name="accepted">Принято</string>
+    <string name="accept_canceled">Отменено</string>
+    <string name="accepting">Принятие</string>
+    <string name="accept_transaction_all"><b>Все</b> транзакции будут приняты</string>
+    <string name="mark">Пометить</string>
+    <string name="marked">Помечено</string>
+    <string name="mark_canceled">Отметка снята</string>
+    <string name="mark_transaction">Пометить транзакцию</string>
+	<string-array name="mark_transactions_format_plurals">
+        <item>Пометить ^1 транзакцию</item>
+        <item>Пометить ^1 транзакции</item>
+        <item>Пометить ^1 транзакций</item>
+    </string-array>
+    <string name="mark_transactions_all">Пометить <b>все</b> транзакции</string>
+    <string name="marking">Установка пометки</string>
+    <string name="unreconciled1">Несогласованная</string>
+    <string name="unreconciled2">Несогласованные</string>
+    <string name="cleared1">Чистая</string>
+    <string name="cleared2">Чистые</string>
+    <string name="reconciled1">Согласованная</string>
+    <string name="reconciled2">Согласованные</string>
+    <string name="_void_verb">Недейств.</string>
+    <string name="_void1">Недействительна</string>
+	<string name="not_void1">Действительна</string>
+	<string name="pending2">Незавершённые</string>
+	<string name="exported_transaction">Выгружена</string>
+    <string name="not_exported_transaction1">Не выгружена</string>
+    <string name="not_exported_transaction2">Невыгруженные</string>
+    <string name="edit_notes">Изменить примечание</string>
+    <string name="notes_created">Примечание создано</string>
+    <string name="notes_edited">Примечание изменено</string>
+    <string name="notes_deleted">Примечание удалено</string>
+    <string name="notes_creation_canceled">Создание примечания отменено</string>
+    <string name="flag_for_follow_up">Добавить событие</string>
+    <string name="edit_follow_up">Изменить событие</string>
+    <string name="make_recurring">Запланировать</string>
+    <string name="follow_up2">С событием</string>
+    <string name="follow_up_by">Дата события</string>
+    <string name="follow_up_created">Событие создано</string>
+    <string name="follow_up_edited">Событие изменено</string>
+    <string name="follow_up_deleted">Событие удалено</string>
+    <string name="follow_up_creation_canceled">Создание события отменено</string>
+    <string name="go_to">Переход</string>
+    <string name="number">Номер</string>
+    <string name="transfer">Перевод</string>
+    <string name="transfers">Переводы</string>
+    <string name="transfer_account">Второй счёт</string>
+    <string name="add">Добавить</string>
+    <string name="added">Добавлено</string>
+    <string name="add_canceled">Добавление отменено</string>
+    <string name="accept_and_edit">Принять и изменть</string>
+    <string name="add_and_close">Добавить и Закрыть</string>
+    <string name="duplicate_in_current_account">Дублировать в текущем счёте</string>
+    <string name="duplicate_copy_move">Дублировать, скопировать, переместить</string>
+    
+    <string name="copy_to_another_account">Скопировать в другой счёт</string>
+    <string name="move_to_another_account">Переместить в другой счёт</string>
+    <string name="copy_transaction">Копировать транзакцию</string>
+	<string name="move_transaction">Переместить транзакцию</string>
+    <string name="do_not_duplicate_notes">Не копировать примечание</string>
+    <string name="account_not_found">Счёт не существует</string>
+    <string name="cannot_transfer_to_itself">Нельзя сделать перевод на этот же счёт</string>
+    <string name="cannot_copy_to_itself">Нельзя скопировать/переместить на этот же счёт</string>
+    <string name="copy_move_currency_warning">Валюта счёта отличается. Возможно, потребуется скорректировать сумму транзакции</string>
+    <string name="all_transactions_hidden_by_filter">Нет транзакций, подходящих под условия фильтра</string>
+    <string name="show_number">Показывать номер транзакции</string>
+    <string name="show_number_description">Если отмечено, будут показаны номера транзакций (если есть)</string>
+	<string name="show_notes">Показывать примечания</string>
+	<string name="show_notes_description">Если отмечено, будут показаны примечания (если есть)</string>
+	<string name="classification_cannot_fit_warning_part1">В окне транзакции, из-за ограниченных размеров экрана, вы не сможете видеть все классификации без прокрутки</string>
+	<string name="classification_cannot_fit_warning_part2">Скрыть некоторые подписи, чтобы освободить больше места</string>
+	<string name="classification_cannot_fit_warning_part3">Вы сможете изменить эту настройку позднее</string>
+	<string name="ask_to_edit_related_transaction_message_part1">Транзакция является сплитом, поэтому отдельно не изменяется</string>
+    <string name="ask_to_edit_related_transaction_message_part2">Изменить всю транзакцию</string>
+    <string name="transaction_modified_message">Транзакция будет изменена</string>
+    <string name="transaction_confirm_save_on_back_press_message_format">Транзакция была изменена.\n\nНажмите ^1 для сохранения транзакции, ^2 для возврата к редактированию или ^3 для отмены изменений</string>
+    <string name="split_confirm_save_on_back_press_message_format">Сплит был изменён.\n\nНажмите ^1 для сохранения сплита, ^2 для возврата к редактированю сплита или ^3 для отмены изменений</string>
+    <string name="transaction_modified_reconciled_message">Будет изменена согласованная транзакция</string>
+    <string name="transaction_modified_related_reconciled_message">Будет изменена согласованная другая часть транзакции</string>
+    <string name="records_may_differ">Может возникнуть рассогласование ваших данных и данных финансового института</string>
+    <string name="missing_category_warning_message_format">Настоятельно рекомендуется указывать категории, поскольку без них отчёты о расходах будут неточными.\n\nНажмите ^1 для сохранения транзакции без указания категории или ^2 для возврата к редактированию транзакции</string>
+    <string name="expense_category_given_for_income_message_format">Расходная категория указана для ^1.\n\nНажмите ^2 чтобы оставить категорию без изменений или ^3 для возврата к редактированию транзакции</string>
+    <string name="income_category_given_for_expense_message_format">Доходная категория указана для ^1.\n\nНажмите ^2 чтобы оставить категорию без изменений или ^3 для возврата к редактированию транзакции</string>
+    <string name="payee_not_found_format">Получатель ^1 не найден</string>
+    <string name="payer_not_found_format">Плательщик ^1 не найден</string>
+    <string name="would_you_like_to_create_it">Создать нового</string>
+    <string name="amount_zero_warning_message_format">Нулевая сумма транзакции.\n\nНажмите ^1 чтобы оставить сумму или ^2 для ввода недействительной транзакции</string>
+    <string name="sum_of_splits_warning_message_format">Сумма сплитов не совпадает с суммой транзакции.\n\nНажмите ^1 для изменения сплитов</string>
+    <string name="duplicate_number_message_format">Данный номер чека уже указан в транзакции от ^1.\n\nНажмите ^2 чтобы оставить этот номер чека или ^3 для возврата к редактированию транзакции</string>
+    <string name="leave_zero">Оставить 0</string>
+    <string name="credits">Доходы</string>
+    <string name="no_credits">Нет доходов</string>
+    <string name="deposits">Пополнения</string>
+    <string name="no_deposits">Нет пополнений</string>
+    <string name="checks">Чеки</string> <!-- As in check book -->
+    <string name="no_checks">Нет чеков</string> <!-- As in check book -->
+    <string name="charges">Расходы</string>
+    <string name="no_charges">Нет расходов</string>
+    <string name="payments">Платежи</string>
+    <string name="no_payments">Нет платежей</string>
+    <string name="checks_payments">Чеки и платежи</string>
+    <string name="no_checks_payments">Нет чеков и платежей</string>
+    <string name="deposits_payments">Пополнения и платежи</string>
+    <string name="no_deposits_payments">Нет пополнений и платежей</string>
+    <string name="no_unreconciled_transactions">Нет несогласованных транзакций</string>
+    <string name="removing_transactions">Удаление транзакций</string>
+    <string name="cleared_all_transactions">Все транзакции чистые</string>
+	<string name="next_check_number">Следующий номер чека</string>
+	<string name="cleared_transactions_color">Цвет чистой транзакции</string>
+	<string name="reconciled_transactions_color">Цвет согласованной транзакции</string>
+    <string name="create_transaction_instructions_format">Чтобы создать транзакцию, нажмите ^i в верхней части экрана</string>
+	<string name="text_filter">Текстовый фильтр</string>
+	<string name="profit_and_loss_statement">Доходы и расходы</string> 
+    <string name="transaction_type">Тип транзакций</string>
+	<string name="transaction_status">Статус транзакций</string>
+    	    			
+    <string name="full_screen_mode">Полноэкранный режим</string>
+    <string name="full_screen_mode_description">Если отмечено, будет видно больше транзакций</string>
+
+	<string-array name="amount1_labels">
+        <item>Платёж</item>
+        <item>Расход</item>
+        <item>Расход</item>
+        <item>Платёж</item>
+        <item>Увеличение</item>
+        <item>Уменьшение</item>
+        <item>Снятие</item>
+    </string-array>
+	<string-array name="amount1_description">
+        <item>платёж</item>
+        <item>расход</item>
+        <item>расход</item>
+        <item>платёж</item>
+        <item>увеличение</item>
+        <item>уменьшение</item>
+        <item>снятие</item>
+    </string-array>
+	<string-array name="amount2_labels">
+        <item>Пополнение</item>
+        <item>Приход</item>
+        <item>Пополнение</item>
+        <item>Поступление</item>
+        <item>Уменьшение</item>
+        <item>Увеличение</item>
+        <item>Пополнение</item>
+    </string-array>
+	<string-array name="amount2_description">
+        <item>пополнение</item>
+        <item>приход</item>
+        <item>пополнение</item>
+        <item>поступление</item>
+        <item>уменьшение</item>
+        <item>увеличение</item>
+        <item>пополнение</item>
+    </string-array>
+
+	<string name="delete_transaction_warning">Транзакция будет удалена</string>
+	<string-array name="delete_transaction_warning_format_plurals">
+        <item>^1 транзакция будет удалена</item>
+        <item>^1 транзакции будут удалены</item>
+        <item>^1 транзакций будут удалены</item>
+    </string-array>
+    <string name="delete_transaction_warning_all"><b>Все</b> транзакции будут удалены</string>
+	<string name="delete_transaction_warning_reconciled">Будет удалена согласованная транзакция</string>
+    <string-array name="delete_transaction_warning_reconciled_format_plurals">
+        <item>Будет удалена ^1 согласованная транзакция</item>
+        <item>Будут удалены ^1 выбранные транзакции, из которых по крайней мере одна согласована</item>
+        <item>Будут удалены ^1 выбранных транзакций, из которых по крайней мере одна согласована</item>
+    </string-array>
+	<string name="accept_transaction_confirm_singular">Транзакция будет принята</string>
+    <string-array name="accept_transaction_confirm_format_plurals">
+        <item>^1 транзакция будет принята</item>
+        <item>^1 транзакции будут приняты</item>
+        <item>^1 транзакций будут приняты</item>
+    </string-array>
+</resources>

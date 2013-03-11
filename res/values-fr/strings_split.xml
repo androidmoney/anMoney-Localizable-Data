@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="splits">Fractionnements</string>
+	<string name="split">Fractionnement</string>
+	<string name="split_canceled">Fractionnement annulé</string>
+	<string name="new_split">Nouveau fractionnement</string>
+	<string name="edit_split">Modifier le fractionnement</string>
+	<string name="edit_splits">Modifier les fractionnements</string>
+	<string name="delete_split">Supprimer le fractionnement</string>
+	<string name="delete_split_warning">Le fractionnement va être supprimé</string>
+	<string name="sum_of_splits">Somme des fractionnements</string>
+	<string name="unassigned">Sans assignation</string>
+	<string name="transaction_total">Total de la transaction</string>
+	<string name="go_back_to_edit">Revenir à la modification du fractionnement</string>
+	<string name="unassigned_split_message_format">La somme des fractionnements est de ^1, alors que le montant total de la transaction est de ^2. Il reste donc ^3 sans assignation, ce qui n’est pas recommandé</string>
+    <string name="what_would_you_like_to_do">Que voulez-vous faire</string>
+	<string name="set_the_total_format">Définir le total à ^1</string>
+	<string name="distribute_format">Répartir uniformément les ^1</string>
+	<string name="leave_unassigned_format">Laisser les ^1 sans assignation</string>
+	<string name="distributed">Répartition effectuée</string>
+</resources>

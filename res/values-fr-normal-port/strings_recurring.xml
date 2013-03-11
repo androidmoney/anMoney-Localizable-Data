@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="based_part2_singular">la dernière\noccurrence</string>
+	<string-array name="based_part2_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>les ^1 dernières\noccurrences</item>
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item/>
+		<item/>
+	</string-array>
+</resources>

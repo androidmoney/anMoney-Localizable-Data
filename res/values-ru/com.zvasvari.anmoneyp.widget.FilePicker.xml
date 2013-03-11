@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="FilePicker_open_folder">Открыть папку</string>
+	<string name="FilePicker_select_file">Выбрать файл</string>
+	<string name="FilePicker_deselect_file">Снять пометку</string>
+	<string name="FilePicker_delete_file">Удалить файл</string>
+	<string name="FilePicker_go_to_parent_folder">В родительскую папку</string>
+</resources>

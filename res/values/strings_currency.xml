@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency">Currency</string>
+    <string name="currencies">Currencies</string>
+    <string name="edit_currency">Edit currency</string>
+    <string name="set_as_base_currency">Set as base currency</string>
+    <string name="base_currency_set">Base currency set</string>
+    <string name="exchange_rate">Exchange rate</string>
+    <string name="exchange_rates">Exchange rates</string>
+    <string name="country">Country</string>
+    <string name="region">Region</string>
+    <string name="currency_name">Currency name</string>
+    <string name="symbol">Symbol</string>
+    <string name="symbol_required">Symbol required</string>
+    <string name="exchange_rate_required">Exchange rate required</string>
+    <string name="view_currencies">View currencies</string>
+    <string name="tap_to_modify_converted_amounts">Tap to modify converted amounts</string>
+    <string name="currency_converter">Currency converter</string>
+    <string name="invert">Invert</string>
+    <string name="save_exchange_rate">Save this exchange rate</string>
+    <string name="all_currencies">All currencies</string>
+    <string name="used_currencies">Used currencies</string>
+    <string name="and_prior_format">^1 and prior</string> <!-- As in "January 1 and prior" -->
+    
+	<string-array name="currency_list_status_filter_title_bar">
+		<item>@string/all_currencies</item>
+		<item>@string/used_currencies</item>
+	</string-array>
+
+	<string-array name="currency_list_sort_order_title_bar">
+		<item>@string/name</item>
+		<item>@string/region</item>
+	</string-array>
+    
+	<string-array name="currency_count_format_plurals">
+        <item>1 currency</item>
+        <item>^1 currencies</item>
+    </string-array>
+</resources>

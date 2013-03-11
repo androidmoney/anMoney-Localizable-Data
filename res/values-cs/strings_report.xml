@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="report">Report</string>
+    <string name="reports">Reporty</string>
+	<string name="view_report">Zobrazit report</string>
+	<string name="view_reports">Zobrazit reporty</string>
+	<string name="report_canceled">Report zrušen</string>
+	<string name="export_report">Export reportu</string>
+	<string name="report_exported">Úspěšně exportován na paměťovou kartu</string>
+	<string name="share_report">Sdílet report</string>
+	<string name="report_settings">Možnosti reportu</string>
+	<string name="creating_report">Příprava reportu</string>
+	<string name="updating_report">Aktualizace reportu</string>
+	<string name="custom_dates">Vlastní data</string>
+	<string name="other">Ostatní</string>
+	<string name="report_empty">Nejsou k dispozici žádná data k zobrazení</string>
+    <string name="report_settings_instructions_format">Chcete-li změnit nastavení reportu, klepněte na ^i v horní části obrazovky</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">Parametry reportu budou nastaveny na výchozí hodnoty</string>
+	<string name="settings_reset">Obnovit nastavení</string>
+	<string name="reset_canceled">Obnovení zrušeno</string>
+    <string name="report_settings_tip">Pro nastavení parametrů reportu:\n\n<li>Dlouze podržte název reportu a zvolte <b>Možnosti reportu</b></li>\n\n<li>Zobrazte report a použijte ikonu v pravém horním rohu obrazovky</li></string>
+	<string name="report_name">Název reportu</string>
+	<string name="all_reports">Všechny reporty</string>
+	<string name="favorite_reports">Oblíbené reporty</string>
+	<string name="save_report_as">Uložit report jako</string>
+	<string name="delete_report">Smazat report</string>
+    <string name="rename_report">Přejmenovat report</string>
+    <string name="duplicate_report">Duplikovat report</string>
+    <string name="delete_report_warning_format">Report ^1 bude trvale smazán</string>
+	<string name="report_type">Typ reportu</string>
+	<string name="group">Vytvářet skupiny</string>
+	<string name="do_not_group">Nevytvářet skupiny</string>
+	<string name="today">Dnes</string>
+	<string name="tomorrow">Zítra</string>
+	<string name="yesterday">Včera</string>
+	<string name="select_report">Vyberte report</string>
+    		
+	<string-array name="report_count_format_plurals">
+		<item>^1 report</item>
+		<item>^1 reporty</item>
+		<item>^1 reportů</item>
+	</string-array>
+
+	<string name="chart_type">Typ grafu</string>
+	<string name="text_report">Textový report</string>
+	<string name="pie_chart">Koláčový graf</string>
+	<string name="line_chart">Čárový graf</string>
+	<string name="bar_chart">Sloupcový graf</string>
+
+	<string name="page_format">Strana ^1</string>
+
+	<string name="page_size">Velikost strany</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Letter</item><!-- We use english name in czech -->
+		<item>Legal</item><!-- We use english name in czech -->
+		<item>Tabloid</item><!-- We use english name in czech -->
+	</string-array>
+
+	<string name="page_orientation">Orientace stránky</string>
+	<string-array name="page_orientation_items">
+		<item>Na výšku</item>
+		<item>Na šířku</item>
+	</string-array>
+
+	<string name="amounts_on_charts">Zobrazit částky v grafech</string>
+	<string name="percentages_on_pie_charts">Zobrazit procenta v koláčových grafech</string>
+	<string name="create_settings_page">Vytvořit stránku s opisem nastavení</string>
+	<string name="create_settings_page_description">Je-li zapnuto, bude při sdílení nebo exportu PDF dokumentu vytvořena stránka s aktuálním nastavením parametrů reportu</string>
+				
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Webová stránka</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Čitelné v tabulkových kalkulátorech, jako je Microsoft® Excel nebo Google™ Docs</item>
+		<item>Vhodné pro tisk nebo vytvoření papírového dokladu. Vyžaduje Adobe Reader nebo jiný PDF prohlížeč</item>
+		<item>Vhodné pro publikování na webových stránkách nebo pro prohlížení ve webovém prohlížeči</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Zvolte formát pro sdílení</string>
+
+	<string-array name="report_list_status_filter_title_bar">
+		<item>@string/all_reports</item>
+		<item>@string/favorite_reports</item>
+	</string-array>
+</resources>

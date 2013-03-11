@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_main_sub_separator">:</string>
+    <string name="category">Catégorie</string>
+    <string name="categories">Catégories</string>
+    <string name="subcategory">Sous-catégorie</string>
+    <string name="classification">Classification</string>
+    <string name="_class">Classe</string>
+    <string name="subclass">Sous-classe</string>
+	<string name="parent_category">Catégorie parente</string>
+	<string name="parent_class">Classe parente</string>
+    <string name="edit_category">Modifier la catégorie</string>
+	<string name="edit_subcategory">Modifier la sous-catégorie</string>
+	<string name="edit_class">Modifier la classe</string>
+	<string name="edit_subclass">Modifier la sous-classe</string>
+	<string name="new_category">Nouvelle catégorie</string>
+	<string name="new_subcategory">Nouvelle sous-catégorie</string>
+	<string name="new_class">Nouvelle classe</string>
+	<string name="new_subclass">Nouvelle sous-classe</string>
+	<string name="delete_category">Supprimer la catégorie</string>
+	<string name="delete_subcategory">Supprimer la sous-catégorie</string>
+	<string name="delete_class">Supprimer la classe</string>
+	<string name="delete_subclass">Supprimer la sous-classe</string>
+	<string name="add_default_categories">Ajout de catégories par défaut</string>
+	<string name="add_classification">Ajout d’une classification</string>
+    <string name="select_category">Sélectionner la catégorie</string>
+    <string name="select_class">Sélectionner la classe</string>
+	<string name="delete_classification">Supprimer la classification</string>
+	<string name="rename_classification">Renommer la classification</string>
+	<string name="select_classification">Sélectionner la classification</string>
+	<string name="enter_classification_name">Entrer un nom de classification</string>
+	<string name="enter_new_classification_name">Entrer un nouveau nom de classification</string>
+	<string name="categories_and_classifications">Catégories et classifications</string>
+    <string name="no_categories_expense">Il n’existe aucune catégorie de dépenses</string>
+    <string name="no_categories_income">Il n’existe aucune catégorie de recettes</string>
+    <string name="no_classes">Vous n’avez défini aucune classe</string>
+    <string name="create_category_instructions_format">Pour créer une catégorie, appuyez sur ^i en haut de l’écran</string>
+    <string name="create_class_instructions_format">Pour créer une classe, appuyez sur ^i en haut de l’écran</string>
+	<string name="uncategorized_transactions">Transactions non catégorisées</string>
+	<string name="delete_category_no_subcategories_warning_format">La catégorie ^1 va être définitivement supprimée</string>
+	<string name="delete_class_no_subclass_warning_format">La classe ^1 va être définitivement supprimée</string>
+	<string name="delete_category_with_subcategories_warning_format">La catégorie ^1 et <b>toutes ses sous-catégories</b> vont être définitivement supprimées</string>
+	<string name="delete_class_with_subclass_warning_format">La classe ^1 et <b>toutes ses sous-classes</b> vont être définitivement supprimées</string>
+	<string name="delete_subcategory_warning_format">La sous-catégorie ^1 va être définitivement supprimée</string>
+	<string name="delete_subclass_warning_format">La sous-classe ^1 va être définitivement supprimée</string>
+	<string name="delete_classification_warning_format">La classification ^1 va être définitivement supprimée. Toutes les transactions concernées perdront leur classification</string>
+	<string name="deleting_classification">Suppression de la classification</string>
+	<string name="default_categories_add_confirmation">Souhaitez-vous ajouter les catégories par défaut</string>
+	<string name="default_categories_added">Catégories par défaut ajoutées</string>
+	<string name="adding_default_categories">Ajout des catégories par défaut</string>
+    <string name="all_categories">Toutes les catégories</string>
+	<string name="expense">Dépense</string>
+	<string name="expenses">Dépenses</string>
+	<string name="expense_categories">Catégories de dépenses</string>
+	<string name="income">Recettes</string>
+	<string name="income_categories">Catégories de recettes</string>
+	<string name="savings">Épargne</string>
+	<string name="category_name">Nom de la catégorie</string>
+	<string name="subcategory_name_lower">nom de la sous-catégorie</string>
+	<string name="class_name">Nom de la classe</string>
+	<string name="subclass_name_lower">nom de la sous-classe</string>
+	<string name="without_subcategory">Sans sous-catégorie</string>
+	<string name="cannot_be_zero">Ne peut être nul</string>
+	<string name="change_expense_warning">Souhaitez-vous changer cette catégorie de dépenses en recettes, ou vice versa</string>
+	<string name="prepopulate">Pré-remplir avec les catégories par défaut</string>
+	<string name="short_categories">Charger uniquement la liste réduite des catégories (vous pourrez charger la liste complète plus tard)</string>
+	<string name="view_categories">Voir les catégories</string>
+	<string name="category_not_found">Cette catégorie n’existe pas</string>
+	<string name="class_not_found">Cette classe n’existe pas</string>
+	<string name="total_income">Total recettes</string>
+	<string name="total_expense">Total dépenses</string>
+	<string name="net">Net</string>
+	<string name="net_income">Recettes nettes</string>
+	<string name="uncategorized">Non catégorisées</string>
+	<string name="income_uncategorized">Recettes non catégorisées</string>
+	<string name="expense_uncategorized">Dépenses non catégorisées</string>
+	<string name="show_uncategorized">Montrer les non-catégorisées</string>
+	<string name="move_subcategory_to_another_category_warning">Souhaitez-vous déplacer cette sous-catégorie dans une autre catégorie</string>
+	<string name="show_zero_balance_categories">Afficher les catégories avec une balance à zéro</string>
+	<string name="show_zero_balance_items">Afficher les éléments avec une balance à zéro</string>
+	<string name="recategorize_category">Recatégoriser toutes les transactions de cette catégorie sous</string>
+	<string name="recategorize_class">Recatégoriser toutes les transactions de cette classe sous</string>
+	<string name="spending_by_category0">Dépenses par catégorie</string>
+	<string name="spending_by_category1">Dépenses par catégorie ou ^1</string>
+	<string name="spending_by_category2">Dépenses par catégorie, ^1 ou ^2</string>
+
+	<string name="no_categories">Pas de catégories</string>
+	<string name="no_categories_yet">Pas encore de catégories</string>
+	<string name="no_classes_yet">Pas encore de classes</string>
+	<string-array name="category_count_format_plurals">
+		<item>1 catégorie</item>
+        <item>^1 catégories</item>
+    </string-array>
+	<string-array name="uncategorized_count_plurals">
+		<item>^1 transaction non catégorisée</item>
+		<item>^1 transactions non catégorisées</item>
+	</string-array>
+
+	<string-array name="default_classifications">
+		<item>Membres de la famille</item>
+		<item>Propriétés</item>
+		<item>Projets</item>
+		<item>Loisirs</item>
+		<item>Vacances</item>
+		<item>Dépenses professionnelles</item>
+		<item>Autres</item>
+	</string-array>
+</resources>

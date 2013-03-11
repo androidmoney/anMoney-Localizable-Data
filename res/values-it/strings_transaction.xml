@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transactions">Transazioni</string>
+    <string name="view_transactions">Visualizza transazioni</string>
+    <string name="new_transaction">Nuova transazione</string>
+    <string name="edit_transaction">Modifica transazione</string>
+    <string name="split_transaction">Dividi transazione</string>
+    <string name="delete_transaction">Elimina transazione</string>
+    <string name="accept_transaction">Accetta transazione</string>
+    <string name="select">Selezionare</string>
+    <string name="accept">Accetta</string>
+    <string name="accepted">Accettato</string>
+    <string name="accept_canceled">Cancella accettati</string>
+    <string name="accepting">Accettando</string>
+    <string name="accept_transaction_all"><b>Tutte</b> le transazioni saranno accettate</string>
+    <string name="mark">Contrassegna</string>
+    <string name="marked">Contrassegnati</string>
+    <string name="mark_canceled">Selezione cancellata</string>
+    <string name="mark_transaction">Seleziona transazione</string>
+	<string-array name="mark_transactions_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>Seleziona ^1 transazioni</item>
+    </string-array>
+    <string name="mark_transactions_all">Seleziona <b>tutte</b> transazioni</string>
+    <string name="marking">Contrassegnando</string>
+    <string name="unreconciled1">Non riconciliati</string>
+
+    <string name="cleared1">Autorizzata</string>
+
+    <string name="reconciled1">Riconciliata</string>
+
+    <string name="_void_verb">Annullare</string>
+    <string name="_void1">Nulla</string>
+	<string name="not_void1">Non-nulla</string>
+	<string name="pending2">In attesa/pendente</string>
+	<string name="exported_transaction">Esportati</string>
+    <string name="not_exported_transaction1">Non esportati</string>
+
+    <string name="edit_notes">Modifica note</string>
+    <string name="notes_created">Crea nota</string>
+    <string name="notes_edited">Modifica nota</string>
+    <string name="notes_deleted">Elimina nota</string>
+    <string name="notes_creation_canceled">Creazione note cancellata</string>
+    <string name="flag_for_follow_up">Seleziona per monitoraggio</string>
+    <string name="edit_follow_up">Modifica monitoraggio</string>
+    <string name="make_recurring">Crea ricorrenza</string>
+    <string name="follow_up2">Monitoraggio</string>
+    <string name="follow_up_by">Monitoraggio per</string>
+    <string name="follow_up_created">Monitoraggio creato</string>
+    <string name="follow_up_edited">Monitoraggio modificato</string>
+    <string name="follow_up_deleted">Monitoraggio eliminato</string>
+    <string name="follow_up_creation_canceled">Creazione di monitoraggio annullata</string>
+    <string name="go_to">Vai a</string>
+    <string name="number">Numero</string>
+    <string name="transfer">Trasferimento</string>
+    <string name="transfers">Trasferimenti</string>
+    <string name="transfer_account">Trasferimento conto</string>
+    <string name="add">Inserisci</string>
+	<string name="added">Inserisci</string>
+	<string name="add_canceled">Inserimento annullato</string>
+    <string name="accept_and_edit">Accetta &amp; Modifica</string>
+    <string name="add_and_close">Inserisci &amp; Chiudi</string>
+    <string name="duplicate_in_current_account">Duplica nel seguente conto</string>
+    <string name="duplicate_copy_move">Duplica, copia o muovi</string>
+
+    <string name="copy_to_another_account">Copia in un altro conto</string>
+    <string name="move_to_another_account">Muovi in un altro conto</string>
+    <string name="copy_transaction">Copia transazione</string>
+    <string name="move_transaction">Muovi transazione</string>
+    <string name="do_not_duplicate_notes">Non duplicare le note</string>
+    <string name="account_not_found">Il conto non esiste</string>
+    <string name="cannot_transfer_to_itself">Non posso trasferire il conto su se stesso</string>
+    <string name="cannot_copy_to_itself">Non posso copiare/muovere su se stesso</string>
+    <string name="copy_move_currency_warning">La destinazione del conto ha una valuta differente. Potrebbe essere necessario modificare l’importo della transazione nel conto di destinazione</string>
+    <string name="all_transactions_hidden_by_filter">Tutte le transazioni sono nascoste dal filtro di visualizzazione</string>
+    <string name="show_number">Visualizza numero</string>
+    <string name="show_number_description">Visualizza il numero, se ne esiste uno</string>
+    <string name="show_notes">Visualizza note</string>
+    <string name="show_notes_description">Visualizza note, se ne esiste una</string>
+    <string name="classification_cannot_fit_warning_part1">Nella finestra di transazione, a causa della mancanza di spazio sullo schermo, non è possibile vedere tutte le classificazioni senza scorrere</string>
+    <string name="classification_cannot_fit_warning_part2">Rimuovere alcune delle etichette per liberare spazio</string>
+    <string name="classification_cannot_fit_warning_part3">Potrai modificare questa impostazione in qualsiasi momento</string>
+    <string name="ask_to_edit_related_transaction_message_part1">Dal momento che l’altra parte di questa operazione è divisa, è necessario modificarla</string>
+    <string name="ask_to_edit_related_transaction_message_part2">Si desidera modificare la transazione ora</string>
+    <string name="transaction_modified_message">La transazione sarà modificata</string>
+    <string name="transaction_confirm_save_on_back_press_message_format">La transazione sarà modificata.\n\nClicca ^1 salvare transazione, ^2 indietro per modificare la transazione, oppure ^3 annullare i cambiamenti</string>
+    <string name="split_confirm_save_on_back_press_message_format">La divisione sarà modificata.\n\nClicca ^1 salvare divisione, ^2 indietro per modificare la divisione, oppure ^3 annullare i cambiamenti</string>
+    <string name="transaction_modified_reconciled_message">Una transazione riconciliata sarà modificata</string>
+    <string name="transaction_modified_related_reconciled_message">L’altra parte di questa transazione sarà riconciliata e modificata</string>
+    <string name="records_may_differ">Questo potrebbe causare differenze di informazioni fra istituti finanziari</string>
+    <string name="missing_category_warning_message_format">E’ altamente raccomandato che una categoria venga specificata, senza di essa, le informazioni di spesa potrebbero essere imprecise.\n\nClicca ^1 salvare la transazione e lasciare la categoria non assegnata, o ^2 andare indietro per modificare la transazione</string>
+    <string name="expense_category_given_for_income_message_format">Una categoria di uscita è specificata per ^1.\n\nClicca ^2 lascia la categoria così, oppure ^3 indietro per modificare la transazione</string>
+    <string name="income_category_given_for_expense_message_format">Una categoria di entrata è specificata per ^1.\n\nClicca ^2 lascia la categoria così, oppure ^3 indietro per modificare la transazione</string>
+    <string name="payee_not_found_format">Beneficiario ^1 non esiste</string>
+    <string name="payer_not_found_format">Debitore ^1 non esiste</string>
+    <string name="would_you_like_to_create_it">Ti piacerebbe crearne uno</string>
+    <string name="amount_zero_warning_message_format">L’importo della transazione è pari a zero.\n\nClicca ^1 lasciare la quantità a zero, oppure ^2 inserisci una transazione nulla</string>
+    <string name="sum_of_splits_warning_message_format">La somma della divisione non corrisponde all’importo della transazione.\n\nClicca ^1 modifica la divisione</string>
+    <string name="duplicate_number_message_format">Una transazione datata ^1 sta già usando questo numero di controllo.\n\nClicca ^2 riutilizzare il numero di controllo, oppure ^3 indietro per modificare la transazione</string>
+    <string name="leave_zero">Lascia 0</string>
+    <string name="credits">Crediti</string>
+    <string name="no_credits">Nessun credito</string>
+    <string name="deposits">Depositi</string>
+    <string name="no_deposits">Nessun deposito</string>
+    <string name="checks">Assegni</string>
+    <string name="no_checks">Nessun assegno</string>
+    <string name="charges">Spese</string>
+    <string name="no_charges">Nessuna spesa</string>
+    <string name="payments">Pagamenti</string>
+    <string name="no_payments">Nessun pagamento</string>
+    <string name="checks_payments">Assegni &amp; Pagamenti</string>
+    <string name="no_checks_payments">Nessun assegno o pagamento</string>
+    <string name="deposits_payments">Depositi &amp; Pagamenti</string>
+    <string name="no_deposits_payments">Nessun deposito o pagamento</string>
+    <string name="no_unreconciled_transactions">Nessuna transazione riconciliata</string>
+    <string name="removing_transactions">Rimuovi transazioni</string>
+    <string name="cleared_all_transactions">Pulisci tutte le transazioni</string>
+    <string name="next_check_number">Prossimo numero assegno</string>
+    <string name="cleared_transactions_color">Pulisci colore transazioni</string>
+    <string name="reconciled_transactions_color">Riconcilia colore transazioni</string>
+<!-- New --> <string name="create_transaction_instructions_format">Per creare una transazione, toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an icon --> 
+    <string name="text_filter">Text filtro</string>
+	<string name="profit_and_loss_statement">Profit &amp; Perdita di dichiarazione</string>
+	<string name="transaction_type">Type de transaction</string>
+	<string name="transaction_status">Statut de transaction</string>
+	
+    <string name="full_screen_mode">Modalità schermo intero</string>
+    <string name="full_screen_mode_description">Più transazioni visibili, se verificate</string>
+
+	<string-array name="amount1_labels">
+        <item>Pagamento</item>
+        <item>Spesa</item>
+        <item>Debito</item>
+        <item>Pagamento</item>
+        <item>Aumentare</item>
+        <item>Diminuire</item>
+        <item>Prelievo</item>
+    </string-array>
+	<string-array name="amount1_description">
+        <item>il pagamento</item>
+        <item>la spesa</item>
+        <item>il debito</item>
+        <item>il pagamento</item>
+        <item>l’aumento</item>
+        <item>la diminuzione</item>
+        <item>il prelievo</item>
+    </string-array>
+	<string-array name="amount2_labels">
+        <item>Deposito</item>
+        <item>Ricevuta</item>
+        <item>Credito</item>
+        <item>Ricevimenti principali</item>
+        <item>Diminuire</item>
+        <item>Aumentare</item>
+        <item>Depositare</item>
+    </string-array>
+	<string-array name="amount2_description">
+        <item>il deposito</item>
+        <item>la ricevuta</item>
+        <item>il credito</item>
+        <item>il principale ricevimento</item>
+        <item>la diminuzione</item>
+        <item>l’aumento</item>
+        <item>il deposito</item>
+    </string-array>
+
+	<string name="delete_transaction_warning">La transazione sarà eliminata</string>
+	<string-array name="delete_transaction_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 transazioni selezionate saranno eliminate</item>
+    </string-array>
+    <string name="delete_transaction_warning_all"><b>Tutte</b> transazioni saranno eliminate</string>
+	<string name="delete_transaction_warning_reconciled">Una transazione riconciliata sarà cancellata</string>
+    <string-array name="delete_transaction_warning_reconciled_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 transazioni selezionate saranno cancellate, dove almeno uno di queste è riconciliata</item>
+    </string-array>
+	<string name="accept_transaction_confirm_singular">Transazioni saranno accettate</string>
+    <string-array name="accept_transaction_confirm_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 transazioni selezionate saranno accettate</item>
+    </string-array>
+</resources>

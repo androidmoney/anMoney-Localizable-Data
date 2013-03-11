@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="financial_institution">Финансовый институт</string>
+    <string name="financial_institutions">Финансовые институты</string>
+    <string name="financial_institution_bank_first">Сначала финансовый институты с банковскими счетами</string>
+    <string name="financial_institution_cash_first">Сначала финансовый институты с наличными</string>
+    <string name="view_financial_institution">Просмотр</string>
+    <string name="edit_financial_institution">Изменить</string>
+    <string name="call_financial_institution">Позвонить</string>
+    <string name="new_financial_institution">Новый фин. институт</string>
+    <string name="delete_financial_institution">Удалить</string>
+    <string name="delete_financial_institution_warning_format">Финансовый институт ^1 будет удалён и убран из всех счетов</string>
+    <string name="add_financial_institution_as_a_contact">Добавить в контакты</string>
+    <string name="financial_institution_exists">Финансовый институт с таким именем уже есть</string>
+    <string name="no_financial_institutions">Отсутствуют финансовые институты</string>
+    <string name="create_financial_institution_instructions_format">Для создания нового финансового института нажмите ^i в верхней части экрана</string>
+    <string name="view_financial_institutions">Показать фин. институты</string>
+    <string name="financial_institution_name">Название финансового института</string>
+    <string name="contact_exists">Контакт с таким именем уже сущестует</string>
+    <string name="link_financial_institution">Связать финансовый институт с существующим контактом</string>
+    
+    <string name="no_financial_institutions_yet">Нет финансовых институтов</string>
+	<string-array name="financial_institution_count_format_plurals">
+	    <item>^1 финансовый институт</item>
+        <item>^1 финансовых института</item>
+        <item>^1 финансовых институтов</item>
+	</string-array>
+</resources>

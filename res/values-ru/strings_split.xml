@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splits">Сплиты</string>
+    <string name="split">Сплит</string>
+    <string name="split_canceled">Сплит отменён</string>
+    <string name="new_split">Новый сплит</string>
+    <string name="edit_split">Изменить сплит</string>
+    <string name="edit_splits">Изменить сплиты</string>
+    <string name="delete_split">Удалить сплит</string>
+	<string name="delete_split_warning">Сплит удалён</string>
+	<string name="sum_of_splits">Сумма сплитов</string>
+	<string name="unassigned">Неназначено</string>
+	<string name="transaction_total">Итог транзакции</string>
+    <string name="go_back_to_edit">Назад к изменению</string>
+    <string name="unassigned_split_message_format">Сумма сплитов ^1, а итог транзакции ^2. Осталась нераспределенной ^3, что не рекомендуется</string>
+    <string name="what_would_you_like_to_do">Что сделать</string>
+    <string name="set_the_total_format">Установить ^1 в итог</string>
+    <string name="distribute_format">Распределить ^1 равномерно</string>
+    <string name="leave_unassigned_format">Оставить ^1 неназначенной</string>
+    <string name="distributed">Распределено</string>
+</resources>

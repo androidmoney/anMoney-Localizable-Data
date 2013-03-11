@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="amount1_labels">
+		<item>Paie-\nment</item>
+		<item>Dé-\npense</item>
+		<item>Frais</item>
+		<item>Paie-\nment</item>
+		<item>Augmen-\ntation</item>
+		<item>Dimi-\nnution</item>
+		<item>Re-\ntrait</item>
+	</string-array>
+
+	<string-array name="amount2_labels">
+		<item>Dépôt</item>
+		<item>Gain</item>
+		<item>Inté-\nrêts</item>
+		<item>Capital\nreçu</item>
+		<item>Dimi-\nnution</item>
+		<item>Augmen-\ntation</item>
+		<item>Dépôt</item>
+	</string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="day_upper">Dan</string>
+	<string name="day_lower">dan</string>
+	<string name="month_upper">Mjesec</string>
+	<string name="month_lower">mjesec</string>
+	<string name="year_upper">Godina</string>
+	<string name="year_lower">godina</string>
+</resources>

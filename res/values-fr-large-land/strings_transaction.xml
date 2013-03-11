@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="amount1_labels">
+		<item>Paiement</item>
+		<item>Dépense</item>
+		<item>Frais</item>
+		<item>Paiement</item>
+		<item>Augmentation</item>
+		<item>Diminution</item>
+		<item>Retrait</item>
+	</string-array>
+
+	<string-array name="amount2_labels">
+		<item>Dépôt</item>
+		<item>Gain</item>
+		<item>Intérêts</item>
+		<item>Capital reçu</item>
+		<item>Diminution</item>
+		<item>Augmentation</item>
+		<item>Dépôt</item>
+	</string-array>
+</resources>

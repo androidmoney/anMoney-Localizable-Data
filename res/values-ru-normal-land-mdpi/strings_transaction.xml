@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="amount1_labels">
+        <item>Платёж</item>
+        <item>Расход</item>
+        <item>Расход</item>
+        <item>Платёж</item>
+        <item>Увели-\nчение</item>
+        <item>Умень-\nшение</item>
+        <item>Снятие</item>
+   </string-array>
+
+	<string-array name="amount2_labels">
+        <item>Попол-\nнение</item>
+        <item>Приход</item>
+        <item>Попол-\nнение</item>
+        <item>Поступ-\nление</item>
+        <item>Умень-\nшение</item>
+        <item>Увели-\nчение</item>
+        <item>Попол-\nнение</item>
+   </string-array>
+</resources>

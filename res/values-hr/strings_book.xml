@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="book">Knjižica</string>
+    <string name="books">Knjižice</string>
+    <string name="new_book">Nova knjižica</string>
+    <string name="new_book_name">Ime nove knjižice</string>
+    <string name="open_book">Otvori knjižicu</string>
+    <string name="close_book">Zatvori knjižicu</string>
+    <string name="rename_book">Preimenuj knjižicu</string>
+    <string name="delete_book">Obriši knjižicu</string>
+<!-- New --> <string name="share_book">Pošalji knjižicu</string>
+<!-- New --> <string name="preparing_to_share">Pripremam slanje</string>
+    <string name="book_delete_warning_short_format">Knjižica ^1 će biti obrisana</string>
+    <string name="all_data_will_be_lost">Svi podaci u toj knjižici će biti trajno izgubljeni ako nisu sigurnostno kopirani</string>
+    <string name="import_into_book">Uvoz u knjižicu</string>
+    <string name="export_from_book">Izvoz iz knjižice</string>
+    <string name="import_into_book_format">Uvoz u knjižicu ^1</string>
+    <string name="copying_book">Kopiram knjižicu</string>
+    <string name="no_books">Nema knjižica</string>
+    <string name="book_list_favorites_empty">Nema omiljenih knjižica</string>
+    <string name="creating_book">Kreiram knjižicu</string>
+    <string name="upgrading_book">Nadograđujem knjižicu</string>
+    <string name="upgrading_books">Nadograđujem knjižice</string>
+    <string name="backup">Sigurnostna kopija</string>
+    <string name="backup_canceled">Kreiranje sigurnosne kopije otkazano</string>
+    <string name="backup_book">Sigurnosna kopija knjižica</string>
+    <string name="overwrite">Prebriši</string>
+    <string name="backup_name">Ime sigurnosne kopije</string>
+    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+    <string name="backing_up_book">Kreiram sigurnosnu kopiju</string>
+    <string name="restore">Vratiti</string>
+    <string name="restored">Vračeno</string>
+    <string name="restore_canceled">Vračanje otkazano</string>
+    <string name="restore_book">Povrati knjižicu</string>
+    <string name="restoring_book">Vraćam knjižicu</string>
+    <string name="restore_warning_format">Knjižica ^1 će biti prebrisana i <b>svi</b> pčodaci će biti nepovratno uništeni</string>
+    <string name="select_backup_file_to_restore">Označi sigurnosnu datoteku za povrat</string>
+    <string name="select_backup_file_to_create_from">Označi sigurnonsnu datoteku da se kreira iz</string>
+    <string name="import_statement">Uvozne tvrdnje</string>
+    <string name="no_sd_card_inserted">Nema SD kartice</string>
+    <string name="select_files">Označi datoteku</string>
+    <string name="delete_file">Obriši datoteku</string>
+    <string name="delete_file_warning_format">Datoteka ^1 će biti obrisana</string>
+<!-- New --> <string-array name="delete_files_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 selected files will be deleted</item>
+    </string-array>
+    <string name="select_book">Označi knjižicu</string>
+    <string name="select_book_to_import_into">Označi knjižicu za uvoz tvrdnje</string>
+    <string name="select_import_file">Označi datoteku(e) ua uvoz</string>
+<!-- New --> <string name="reading_format">Reading ^1</string>
+<!-- New --> <string name="reading_file">Reading file</string>
+<!-- New --> <string name="reading_files">Reading files</string>
+<!-- New --> <string name="checking_for_duplicate_transactions">Checking for duplicate transactions</string>
+    <string name="not_specified_brackets">&lt;Nije određeno></string>
+    <string name="map_accounts">Upari račune</string>
+    <string name="configure_account_mappings">Konfiguriraj uparivanje računa</string>
+    <string name="account_required">Potreban račun</string>
+    <string name="duplicate_name">Duplo ime</string>
+    <string name="options">Opcije</string>
+    <string name="select_options">Označi uvozne opcije</string>
+    <string name="remove_duplicates">Makni duple</string>
+    <string name="remove_duplicates_notes">Budući da ovo radi ispravno u većini slučajeva, može postojati problem ako su računi u različitim valutama. U tom slučaju uparivanje nije moguće. Nakon uvoza provjeri stanja</string>
+<!-- New --> <string name="import_classes">Import classes</string>
+    <string name="ignore_memos">Ignoriraj polje bilješka</string>
+    <string name="create_payees_in_app_name_format">Stvori platitelja u ^1</string>
+    <string name="contact_account">Kontaktiraj račun da stvoris platitelja u</string>
+    <string name="select_import_mode">Označi mod za uvoz</string>
+    <string name="select_accounts_to_export">Označi račune za izvoz</string>
+    <string name="specify_export_file_format">Označi format datoteke za izvoz</string>
+    <string name="mark_transactions_exported">Označi traansakcije kao izvežene</string>
+    <string name="no_transactions_matched_your_selection_criteria">Nema transakcija koje odgovaraju označenim kriterijima.\n\nIzvozna datoteka nije kreirana</string>
+<!-- New --> <string name="import_folder">Import folder</string>
+	<string name="export_folder">Izvozni direktorij</string>
+    <string name="ask_to_view_imported_transaction">Želite li vidjeti uvezene transakcije</string>
+    <string name="tip">Savjet</string>
+<!-- New --> <string name="user_guide">User guide (engleski)</string>
+
+    <string name="whats_new">Novosti</string>
+    <string name="license">Licenca</string>
+    <string name="accept_license">Prihvati licencu</string>
+    <string name="decline">Odbij</string>
+    <string name="thank_you">Hvala!</string>
+    <string name="password">Lozinka</string>
+    <string name="old_password">Stara lozinka</string>
+    <string name="new_password">Nova lozinka</string>
+    <string name="verify_password">Potvrdi lozinku</string>
+    <string name="enter_password">Unesi lozinku</string>
+    <string name="incorrect_password">Netočna lozinka. Ponovo uneseite</string>
+    <string name="set_password">Postavi lozinku</string>
+    <string name="password_set">Lozinka postavljena</string>
+    <string name="edit_password">Uredi lozinku</string>
+    <string name="remove_password">Makni lozinku</string>
+    <string name="password_removed">Lozinka uklonjenja</string>
+    <string name="remove_password_message">Lozinka će biti uklonjena.\n\nPodaci će biti vidljivi svakome tko ima pristup uređaju</string>
+    <string name="password_has_not_been_changed">Lozinka promijenjena</string>
+    <string name="passwords_dont_match">Lozinka se ne poklapa</string>
+    <string name="case_sensitive">osjetljivo na slova</string>
+    <string name="disclaimer">Uputa</string>
+    <string name="password_disclaimer">Pročitajte uputu i označite kučicu na kraju.\n\nLozinka je napravljena na način da omogući sigurnost neželjenih pogleda. Zbog ograničenja u sustavu enkripcija nije jaka i bilo tko s naprednim znanjima može pristupiti podacima iako je lozinka postavljena.\n\nPreporuča se da zastitite uredaj PINom za dodatnu sigurnost</string>
+    <string name="i_understand_the_limitations">Razumijem ograničenja</string>
+    <string name="set_password_now_part1">Postavi lozinku</string>
+    <string name="set_password_now_part2_format">Iako odgovorite ^1, imate ćete opciju za postaviti lozinku tako da dugo pritisnete na knjižicu ^2</string>
+    <string name="folder_name_format">Ime direktorija (upotrijebi ^1 za pod direktorij)</string>
+    <string name="no_backup_files">Nema sigurnosne kopije na SD kartici</string>
+    <string name="no_backup_files_new_instructions">Ako pokušavate stvoriti knjižicu iz uvozne datoteke, stvorite je iz početka i uvezite podatke u nju</string>
+    <string name="remove_transactions">Obrišite transakcije starije od datuma ispod</string>
+    <string name="book_to_make_copy_of">Knjižica za kopiju</string>
+    <string name="truncate_warning_format">Sve transakcije prije ^1 će biti bespovratno uništene</string>
+    <string name="information_and_help">Informacije &amp; pomoć</string>
+    <string name="discussion_forum">Forum</string>
+    <string name="join_the_user_community_format">Pridruži se ^1 udruzi</string>
+    <string name="contact_us">Kontaktirajte nas</string>
+    <string name="email_the_developers">Pošalji Email vlasniku</string>
+    <string name="tap_to_display_import_settings_format">Ako stisnete ^1 prikazat će se postavke uvoza</string>
+    <string name="verify_import_settings">Molim provjrite da su odabrane opcije u redu za datoteku koju uvozite. Ako je sve u redu, stisnite <b>Back</b> strelicu za nastavak uvoza</string>
+<!-- New --> <string name="bad_import_settings">The following setting(s) appear to be incorrect for the file you are trying to import</string>
+    <string name="qif_csv_encoding_explanation_format">Obično ^1 se upotrebljava za jezike u listi ispod, no neke financijske institucije će napraviti datoteke gdje  ^2 se mora označiti da se uveze ispravno.\n\nZa sve ostale jezike koji NISU u listi, ^2 se treba uvijek odabrti</string>
+    <string name="credits_legal">Zahvala &amp; pravno</string>
+    <string name="contact_and_social">Kontakt &amp; društveno</string>
+<!-- New --><string name="add_us_to_circle">Add us to your circles and +1 us</string>
+    <string name="follow_us">Prati nas</string>
+    <string name="become_a_fan">Postani obožavatelj</string>
+<!-- New --> <string name="haptic_feedback">Haptic feedback</string>
+<!-- New --> <string name="haptic_feedback_description">If selected, vibrate when tapping the buttons</string>
+	<string name="default_book_name">Moja knjižica</string>
+
+	<string-array name="book_new_source">
+	    <item>Stvori od početka</item>
+	    <item>Stvori iz sigurnonsne kopije</item>
+	    <item>Kopiraj iz postojeće knjižice</item>
+    </string-array>
+
+	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Namjerno ostavljeno prazno -->
+	    <item/> <!-- Namjerno ostavljeno prazno -->
+	    <item>i po potrebi briši na zadani datum</item>
+    </string-array>
+	
+	<string-array name="import_mode">
+        <item>Izvještaj preuzet iz banke</item>
+        <item>Podaci izvezeni iz drugog programa</item>
+    </string-array>
+
+	<string-array name="import_mode_description">
+        <item>Upotrebljava se za izvještaje preuzete iz raznih banaka, kao mjesečni izvadak iz American Express. Oboje <b>QIF</b> i <b>OFX/QFX/OFS</b> formati su podržani. Uvozne datoteke moraju sadržavati prijenose između računa</item>
+        <item>Upotrebljava se za prijenos podataka iz drugog softwera kao Microsoft® Money or Quicken®. Samo <b>QIF</b> format je podržan</item>
+    </string-array>
+
+	<string-array name="book_export_file_type_description">
+        <item>Ovisno o klasifikaciji i kategoriji koja se koristi može biti samo čitljivo sa Microsoft® Money</item>
+        <item>Čitljivo sa svim aplikacijama koje podržavaju QIF</item>
+        <item>Čitljivo sa tabličnim aplikacijama kao Microsoft® Excel ili Google™ Docs. Prvi red sadrži imena kolona, a iza njih transakcija. Svaki odvojak je novi red</item>
+    </string-array>
+
+    <string name="import_file_confirm_format">Želite li uvesti ^1</string>
+	<string-array name="import_files_confirm_format_plurals">
+        <item/> <!-- Unused -->
+        <item>Želite li uvesti ^1 datoteke</item>
+    </string-array>
+
+    <string name="general">Općenito</string>
+    
+    <string name="reopen_last_book">Otvori zadnju knjižicu</string>
+    <string name="reopen_last_book_description">Ako je označeno, zadnja otvorena knjižica će biti otvorena kad se pokreće aplikacija</string>
+    
+    <string name="starting_screen">Početni ekran</string>
+	
+    <string name="back_press_on_home_screen">Nazad na Početno</string>
+	<string-array name="back_press_on_home_screen_items">
+		<item>Zatvara ^1</item>
+		<item>Zatvara trenutnu knjižicu i prikazuje listu knjižica</item>
+	</string-array>
+	
+    <string name="negative_amount_format">Negativni brojevi</string>
+    
+    <string name="show_currency_symbol">Označi simbol valute</string>
+	<string-array name="show_currency_symbol_items">
+		<item>S obzirom na vautu</item>
+		<item>Prije iznosa</item>
+		<item>Poslije iznosa</item>
+	</string-array>
+	
+    <string name="base_currency">Glavna valuta</string>
+<!-- New --> <string name="space_between_symbol_and_amount">Space between the symbol and the amount</string>
+    
+    <string name="password_time_out_period">Istek lozinke</string>
+	<string-array name="n_seconds_format_plurals">
+        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+        <item>^1 sekunda</item>
+    </string-array>
+    <string-array name="n_minutes_format_plurals">
+        <item>1 minuta</item>
+        <item>^1 minuta</item>
+    </string-array>
+    
+    <string name="set_button_behavior_format">Kalkulator ^1 tipka</string>
+	<string-array name="set_button_behavior_items">
+		<item>Postavi trenutno prikazan broj</item>
+		<item>Izvrši kalkulaciju i postaiv rezultat</item>
+	</string-array>
+
+    <string name="confirmations_and_warnings">Potvrda &amp; upozorenje</string>
+
+    <string name="warn_if_no_category">Upozori ako nema kategorije</string>
+    <string name="warn_if_no_category_description">Ako je označeno, upozorenje se pokazuje ako nema kategorije</string>
+    
+    <string name="warn_if_incorrect_category_type">Upozori ako je netočna kategorija</string>
+    <string name="warn_if_incorrect_category_type_description">Ako je označeno, upozorenje se pokazuje ako je kriva kategorija označena</string>
+    
+    <string name="modification_confirmation">Potrda promjene</string>
+	<string-array name="modification_confirmation_items">
+		<item>Ne</item>
+		<item>Samo usklađene</item>
+		<item>Sve</item>
+	</string-array>
+	
+    <string name="back_press_prompt">Nazad tipka</string>
+    <string name="back_press_prompt_description">Ako je označeno, pitaj da snimim poruka se prikazuje kad se stisne nazad</string>
+    
+    <string name="new_payee_confirmation">Novi platitelj</string>
+    <string name="new_payee_confirmation_description">Ako je označeno, potvrda se prikazuje prije neko što je platitelj stvoren</string>
+    
+    <string name="duplicate_check_number">Dupli broj čekar</string>
+    <string name="duplicate_check_number_description">Ako je označeno, upozorenje se prikazuje ako je ček već upotrebljen</string>
+    
+<!-- New --> <string name="field_with_initial_focus">Field with initial focus</string>
+    
+<!-- New --> <string name="show_keyboard_automatically">Show the keyboard automatically</string>
+<!-- New --> <string name="show_keyboard_automatically_description">If selected, the pop-up keyboard will be shown when adding a new transaction</string>
+
+    <string name="notes_in_transaction_window">Bilješka u trasakciji</string>
+    <string name="notes_in_transaction_window_description">Ako je označeno, jedna linija se može upisati u transakciju</string>
+    
+    <string name="new_category_in_transaction_window">Nova kategorija u transakciji</string>
+    <string name="new_category_in_transaction_window_description">Ako je označeno, nova kategorija se može stvoriti iz transakcije</string>
+    
+    <string name="hide_labels">Sakrij oznake</string>
+    <string name="hide_labels_description">Ako je označeno, oznake u transakcijama se mogu sakriti zbog povećanja prostora</string>
+    
+    <string name="security">Sigurnost</string>
+    
+    <string name="quick_entry_password">Brzi unos lozinke</string>
+    <string name="quick_entry_password_description">Ako je označeno, brzi unos widget će pitati za lozinku, ako je postavljena</string>
+    
+    <string name="backup_folder">Kopija direktorij</string>
+    
+<!-- New -->  <string name="date_in_file_name">Date in file name</string>
+<!-- New -->  <string name="date_in_file_name_description">If selected, today’s date will be appended to the file name when sending</string>
+    
+    <string name="automatic_backup">Automatski sigurna kopija</string>
+    <string name="automatic_backup_description">Ako je označeno, ova knjižica će se automatksi snimiti</string>
+    
+    <string name="backup_how_often">Snimi koliko često</string>
+    
+    <string name="auto_backup_notify_description">Ako je označeno, poruka će biti prikazana nakon snimanja kopije</string>
+    
+    <string name="qif_csv_date_order">QIF/CSV datum</string>
+
+	<string name="comma">Zarez</string>	
+    <string name="qif_csv_decimal_mark">QIF/CSV decimalna točka</string>
+	<string-array name="qif_csv_decimal_marks">
+        <item>Decimalna točka</item>
+        <item>@string/comma</item>
+    </string-array>
+
+<!-- New --> <string name="csv_delimiter">CSV razgraničavač</string>
+	<string-array name="csv_delimiters">
+		<item>@string/comma</item>
+<!-- New -->  <item>Točka i zapeta</item>
+    </string-array>
+
+    <string name="qif_csv_encoding">QIF/CSV kodiranje</string>
+    <string name="ofx_qfx_encoding">OFX/QFX kodiranje</string>
+	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK (Kineski nacionalni standard)</item>
+        <item>Čirilica (Windows)</item>
+<!-- New --> <item>Western European (Windows)</item>
+<!-- New --> <item>Eastern European (Windows)</item>
+    </string-array>
+
+    <string name="maintain_entries">Prilagodi unose</string>
+    <string name="maintain_number_field_entries">Prilagodi brojčane unose</string>
+    <string name="maintain_number_field_entries_description">Omogućava brisanje transakcija koje se ne koriste</string>
+
+    <string name="delete_entry_warning_format">Unos ^1 će biti obrisan</string>
+    <string-array name="delete_entries_warning_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 unosa će biti obrisano</item>
+    </string-array>
+	
+	<string name="backed_up_book_format">Sačuvano ^1</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item/> <!-- Not used -->
+        <item>Sačuvano ^1 knjižica</item>
+    </string-array>
+
+	<string-array name="book_exported_format_plurals">
+        <item>Izvezena jedna transakcija</item>
+        <item>Izvezena ^1 transakcije</item>
+    </string-array>
+
+<!-- New --> <string name="failed_to_back_up_book">Failed to backup book</string>
+<!-- New --> <string name="no_space_left_on_sd_card">There is no space left on the SD card</string>
+<!-- New --> <string name="cannot_restore_newer_version">Cannot restore a backup created by a newer version of ^1.\n\nPlease install the latest version of ^1 and try again</string>
+	
+	<string name="file">Datoteka</string>	
+	<string name="folder">Direktorij</string>		    	    
+	<string name="external_storage">Vanjski pohranu</string>	
+	<string name="path">Put</string>	
+</resources>

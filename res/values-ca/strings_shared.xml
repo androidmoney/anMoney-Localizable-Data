@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="two_part_format">^1 ^2</string>
+    <string name="sentence_end_period_format">^1.</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="two_items_parantheses_format">^1 (^2)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 No. ^2</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+    <string name="ellipsize_format">^1…</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+    <string name="option_on_symbol">✓</string>
+    <string name="option_off_symbol">✗</string>
+    <string name="filter_by_order_format">^1 per ^2</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1 per ^3 ^2</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 de ^2 per ^4 ^3 per ^5</string> <!-- Example: "All transactions for AMEX by decreasing date for all dates" -->
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="done">Fet</string>
+    <string name="_continue">Continuar</string>
+	<string name="continue_question">Continuar</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="home">Inici</string>
+	<string name="home_screen">Pantalla d’inici</string>
+    <string name="previous">Anterior</string>
+    <string name="next">Següent</string>
+    <string name="_import">Importar</string>
+    <string name="imported">Importat</string>
+    <string name="importing">Important</string>
+    <string name="import_canceled">Importació cancel·lada</string>
+    <string name="export">Exportar</string>
+	<string name="exporting">Exportant</string>
+    <string name="export_canceled">Exportació cancel·lada</string>
+	<string name="import_export">Importar/exportar</string>
+    <string name="settings">Configuració</string>
+    <string name="display_options">Opcions de visualització</string>
+    <string name="favorites">Preferits</string>
+    <string name="add_favorite">Afegir a preferits</string>
+    <string name="added_to_favorites">Afegit a preferits</string>
+    <string name="remove">Treure</string>
+    <string name="remove_favorite">Treure de preferits</string>
+    <string name="removed_from_favorites">Tret de preferits</string>
+    <string name="save">Desar</string>
+    <string name="saved">Desat</string>
+    <string name="save_canceled">Desar cancel·lat</string>
+    <string name="canceled">Cancel·lat</string>
+    <string name="delete">Esborrar</string>
+    <string name="deleted">Esborrat</string>
+    <string name="delete_canceled">Esborrar cancel·lat</string>
+    <string name="deleting">Esborrant</string>
+    <string name="create">Crear</string>
+    <string name="created">Creat</string>
+    <string name="create_canceled">Crear cancel·lat</string>
+	<string name="create_what">Crear què</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">Editar</string>
+    <string name="edit_canceled">Editar cancel·lat</string>
+	<string name="edit_which">Editar quin</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="copy">Copiar</string>
+    <string name="copied">Copiat</string>
+    <string name="move">Moure</string>
+    <string name="moved">Mogut</string>
+    <string name="duplicate">Duplicar</string>
+    <string name="duplicated">Duplicat</string>
+    <string name="rename">Renombrar</string>
+    <string name="renamed">Renombrat</string>
+    <string name="rename_canceled">Renombrar cancel·lat</string>
+    <string name="link">Enllaçar</string>
+    <string name="linked">Enllaçat</string>
+    <string name="combine">Combinar</string>
+    <string name="combined">Combinat</string>
+    <string name="copy_to_clipboard">Copiar al portapapers</string>
+    <string name="set">Establir</string>
+    <string name="show">Mostrar</string>
+	<string name="share">Compartir</string>
+	<string name="share_canceled">Compartir cancel·lat</string>
+    <string name="create_in_app_name_format">Crear a ^1</string>
+    <string name="pick_from_app_name_format">Agafar de ^1</string>
+    <string name="do_not_ask_again">No tornar a preguntar de nou</string>
+    <string name="apply_to_all">Aplicar a tots</string>
+	<string name="all_items">Tots els elements</string>
+    <string name="notes">Notes</string>
+    <string name="no_notes">Encara no hi ha notes</string>
+    <string name="required">Requerit</string>
+    <string name="name">Nom</string>
+    <string name="invalid_name">Nom no vàlid</string>
+    <string name="name_exists">Aquest nom ja existeix</string>
+    <string name="amount">Import</string>
+    <string name="start_date">Data d’inici</string>
+    <string name="end_date">Data de fi</string>
+    <string name="must_be_less_than_format">Ha de ser &lt; ^1</string>
+    <string name="must_be_greater_than_format">Ha de ser > ^1</string>
+    <string name="reset">Restaurar</string>
+    <string name="total">Total</string>
+    <string name="grand_total">Suma total</string>
+    <string name="average">Promig</string>
+    <string name="export_file_name">Nom de l’arxiu d’exportació</string>
+    <string name="specify_export_file_name">Especificar el nom de l’arxiu d’exportació</string>
+    <string name="file_exists">Un arxiu amb el mateix nom ja existeix</string>
+    <string name="folder_exists">Una carpeta amb aquest nom ja existeix</string>
+    <string name="choose_another_name">Esculli un altre nom</string>
+    <string name="will_be_overwritten">Serà sobreescrit</string>
+    <string name="calendar">Calendari</string>
+    <string name="remind_me">Recorda-m’ho</string>
+    <string name="add_as_a_contact">Afegeix com a contacte</string>
+    <string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
+    <string name="to">Per a</string> <!-- To <account> -->
+    <string name="from">Des de</string> <!-- From <account> -->
+	<string name="send_email">Enviar correu electrónic</string>
+	<string name="please_read">Si us plau llegeix</string>
+	<string name="rate_app_format">Qualificar ^1</string>
+	<string name="please_rate_app_format">Si us plau pren un moment\nper qualificar ^1</string>
+	<string name="later_rate_description">Li serà recordat dintre d’una setmana aproximadament</string>
+	<string name="no_rate_description_format">Ho podeu fer en qualsevol moment des de de la pantalla ^1</string>
+	<string name="task_killer_warning_format">Advertència sobre les aplicacions que «maten tasques»:\n\nEl seu dispositiu serà «despertat» un cop al dia per realitzar processos automàtics. Llevat que aquests processos només triguen uns segons, no es tindrà un efecte perjudicial per a la vida de la bateria del dispositiu.\n\nLes aplicacions de matar tasques faran que aquests processos en segon pla no s’executin degudament i no haurien de ser emprats amb ^1</string>
+	<string name="no_thanks">No, gràcies</string>
+	<string name="maybe_later">Potser després</string>
+	<string name="unexpected_error_warning">Ha ocorregut un error inesperat que ha forçat anMoney a aturar-se.\n\nSi us plau, ajudeu-nos a reparar-ho enviant-nos un correu electrònic un informe d’error. Tindreu l’oportunitat d’editar el correu electrònic abans de ser enviat.\n\nGràcies per la seva cooperació.</string>
+    <string name="unexpected_error_notification_ticker">Error inesperat. Si us plau, envieu un informe.</string>
+    <string name="unexpected_error_notification_title">anMoney s’ha aturat</string>
+    <string name="unexpected_error_notification_text">Toqueu aquí per enviar l’informe d’error.</string>
+    <string name="unexpected_error_comment">Si voleu, si us plau, descriviu què estàveu fent quan el problema ha ocorregut</string>
+	<string name="archiving">Arxivament</string>
+	<string name="archiving_settings">Configuració d’arxivat</string>
+    <string name="more">Més</string>
+    <string name="specify_export_options">Especificar options d’exportació</string>
+	<string name="select_all">Seleccionar tot</string>
+	<string name="unselect_all">Seleccionar cap</string>
+	<string name="expand_all">Expandir tot</string>
+	<string name="all_expanded">Tot expandit</string>
+	<string name="collapse_all">Contraure tot</string>
+	<string name="all_collapsed">Tot contret</string>
+    <string name="postal_address">Adreça postal</string>
+    <string name="postal_address_hint">Carrer\nVila\nCodi postal</string>
+    <string name="cannot_perform_sd_card_operation">Aquesta operació no pot ser realitzada en aquest moment, ja sigui degut a que no hi ha targeta SD al dispositiu o bé el dispositiu està connectat a l’ordinador fent que la targeta estigui inaccessible</string>
+    <string name="cannot_perform_file_system_operation_format">Aquesta operació no pot ser realitzada en aquest moment degut a que la ruta de la memòria interna (^1) no està accessible</string>
+    <string name="please_correct_and_try_again">Si us plau, corregeixi i torni a provar</string>
+    <string name="no_network_message_format">^1 requereix accés periòdic a la xarxa per a poder verificar la llicència.\n\nSi us plau, activi la xarxa i, un cop tingueu connexió de dades, intenteu-ho de nou. Podreu desactivar la xarxa després d’això.\n\nTocant ^2 us portarà a la configuració de <b>Xarxes i sense fil</b></string>
+    <string name="calculator">Calculadora</string>
+    <string name="only_in_full_version">Només a la versió PRO</string>
+    <string name="will_not_effect_transactions">Això <b>no</b> afectarà a les transaccions existents</string>
+    
+	<string name="free_limitations">Compri la versió PRO a <b>Google Play</b> o a <b>Amazon Appstore</b> per tal de treure les següents limitacions:\n\n
+	<li>Sense contrasenya de seguretat</li>\n
+	<li>Sense còpia de seguretat de les seves dades</li>\n
+	<li>Sense informes personalitzats</li>\n
+	<li>Només importació QIF</li>\n
+	<li>Sense integració amb els Contactes</li>\n
+	<li>Com a molt 2 bancs, 1 compte de crèdit i un compte de caixa</li>\n
+	<li>Com a molt 5 elements de pressupost</li>\n
+	<li>Com a molt 3 factures recurrents o dipòsits</li> 
+	</string>
+
+	<string name="no_items">Cap element</string>
+    <string name="no_items_yet">Cap element encara</string>
+	<string-array name="items_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 elements</item>
+    </string-array>
+    
+	<string-array name="selected_format_plurals">
+        <item>1 seleccionat</item>
+        <item>^1 seleccionats</item>
+    </string-array>
+    
+    <string-array name="reminder_leads">
+        <item>No recordar-m’ho</item>
+        <item>El mateix dia</item>
+        <item>El dia d’abans</item>
+        <item>Dos dies abans</item>
+        <item>Una setmana abans</item>
+        <item>Dues setmanes abans</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1er</item>
+		<item>2on</item>
+		<item>3er</item>
+		<item>4rt</item>
+		<item>5è</item>
+		<item>6è</item>
+		<item>7è</item>
+		<item>8è</item>
+		<item>9è</item>
+		<item>10è</item>
+		<item>11è</item>
+		<item>12è</item>
+		<item>13è</item>
+		<item>14è</item>
+		<item>15è</item>
+		<item>16è</item>
+		<item>17è</item>
+		<item>18è</item>
+		<item>19è</item>
+		<item>20è</item>
+		<item>21er</item>
+		<item>22on</item>
+		<item>23er</item>
+		<item>24rt</item>
+		<item>25è</item>
+		<item>26è</item>
+		<item>27è</item>
+		<item>28è</item>
+		<item>29è</item>
+		<item>30è</item>
+		<item>31er</item>
+	</string-array>
+
+    <string name="display_direction">Direcció de visualització</string>
+	<string-array name="sort_direction_items">
+		<item>Creixent</item>
+		<item>Decreixent</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>creixent</item>
+		<item>decreixent</item>
+	</string-array>
+</resources>

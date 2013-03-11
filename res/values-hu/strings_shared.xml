@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="two_part_format">^1 ^2</string>
+    <string name="sentence_end_period_format">^1.</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="two_items_parantheses_format">^1 (^2)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 #^2</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+    <string name="ellipsize_format">^1…</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+    <string name="option_on_symbol">✓</string>
+    <string name="option_off_symbol">✗</string>
+	<string name="filter_by_order_format">^1 ^2 szerint</string>
+	<string name="filter_by_direction_order_format">^1 ^2 ^3 szerint</string>
+	<string name="filter_for_item_by_direction_order_for_date_range_format">^2 ^1 ^3 ^4 szerint ^5</string>
+	<string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="done">Kész</string>
+    <string name="_continue">Tovább</string>
+	<string name="continue_question">Tovább</string>
+    <string name="home">Kezdőlap</string>
+	<string name="home_screen">@string/home</string>
+    <string name="previous">Előző</string>
+    <string name="next">Következő</string>
+    <string name="_import">Importálás</string>
+    <string name="imported">Importált</string>
+    <string name="importing">Importál</string>
+    <string name="import_canceled">Importálás megszakítva</string>
+    <string name="export">Exportálás</string>
+	<string name="exporting">Exportál</string>
+    <string name="export_canceled">Exportáltá megszakítva</string>
+	<string name="import_export">Importálás/exportálás</string>
+    <string name="settings">Beállítások</string>
+    <string name="display_options">Megjelenítés opciói</string>
+    <string name="favorites">Kedvencek</string>
+    <string name="add_favorite">Kedvencekhez adás</string>
+    <string name="added_to_favorites">Kedvencekhez adta</string>
+    <string name="remove">Eltávolítás</string>
+    <string name="remove_favorite">Eltávolítás a kedvencekből</string>
+    <string name="removed_from_favorites">Eltávolította a kedvencekből</string>
+    <string name="save">Mentés</string>
+    <string name="saved">Mentve</string>
+    <string name="save_canceled">Mentés megszakítva</string>
+    <string name="canceled">Megszakítva</string>
+    <string name="delete">Törlés</string>
+    <string name="deleted">Törölve</string>
+    <string name="delete_canceled">Törlés megszakítva</string>
+    <string name="deleting">Törlés folyamatban</string>
+    <string name="create">Létrehozás</string>
+    <string name="created">Létrehozva</string>
+    <string name="create_canceled">Létrehozás megszakítva</string>
+	<string name="create_what">Mit szeretne létrehozni</string>
+    <string name="edit">Módosítás</string>
+    <string name="edit_canceled">Módosítás megszakítva</string>
+	<string name="edit_which">Melyiket szeretné módosítani</string>
+    <string name="copy">Másolás</string>
+    <string name="copied">Másolva</string>
+    <string name="move">Áthelyezés</string>
+    <string name="moved">Áthelyezve</string>
+	<string name="duplicate">Duplikálás</string>
+	<string name="duplicated">Duplikálva</string>
+    <string name="rename">Átnevezés</string>
+    <string name="renamed">Átnevezve</string>
+    <string name="rename_canceled">Átnevezés megszakítva</string>
+    <string name="link">Összekötés</string>
+    <string name="linked">Összekötve</string>
+    <string name="combine">Összekapcsolás</string>
+    <string name="combined">Összekapcsolva</string>
+    <string name="copy_to_clipboard">Másolás a vágólapra</string>
+    <string name="set">Másolás</string>
+    <string name="show">Mutatás</string>
+	<string name="share">Megosztás</string>
+	<string name="share_canceled">Megosztás megszakítva</string>
+    <string name="create_in_app_name_format">Létrehoz ^1-ba</string>
+    <string name="pick_from_app_name_format">Válasszon a ^1-ból</string>
+    <string name="do_not_ask_again">Ne kérdezze többet</string>
+    <string name="apply_to_all">Összeshez</string>
+	<string name="all_items">Összes</string>
+    <string name="notes">Jegyzet</string>
+    <string name="no_notes">Nincs jegyzet</string>
+    <string name="required">Kötelező</string>
+    <string name="name">Név</string>
+    <string name="invalid_name">Érvénytelen név</string>
+    <string name="name_exists">Név már létezik</string>
+    <string name="amount">Összeg</string>
+    <string name="start_date">Kezdési időpont</string>
+    <string name="end_date">Befejezési időpont</string>
+    <string name="must_be_less_than_format">Kell &lt; ^1</string>
+    <string name="must_be_greater_than_format">Kell > ^1</string>
+    <string name="reset">Visszaállítás</string>
+    <string name="total">Összesen</string>
+    <string name="grand_total">Végösszeg</string>
+    <string name="average">Átlag</string>
+    <string name="export_file_name">Exportfájl neve</string>
+    <string name="specify_export_file_name">Adja meg az exportfájl nevét</string>
+    <string name="file_exists">Már van egy fájl ezzel a névvel</string>
+    <string name="folder_exists">Már van egy mappa ezzel a névvel</string>
+    <string name="choose_another_name">Válasszon egy másik nevet</string>
+    <string name="will_be_overwritten">Felül lesz írva</string>
+    <string name="calendar">Naptár</string>
+    <string name="remind_me">Emlékeztessen</string>
+    <string name="add_as_a_contact">Hozzáadás névjegyként</string>
+    <string name="to_from_format">^2^1</string>
+    <string name="to">-ba</string>
+    <string name="from">-ból</string>
+	<string name="send_email">Email küldése</string>
+	<string name="please_read">Kérjük, olvassa el</string>
+	<string name="rate_app_format">Értékelje ^1-t</string>
+	<string name="please_rate_app_format">Kérem, értekelje\naz ^1-t</string>
+	<string name="later_rate_description">Emlékeztessen egy héten belül</string>
+	<string name="no_rate_description_format">Megteheti ezt bármikor a ^1 képernyőn</string>
+	<string name="task_killer_warning_format">Figyelmeztetés a „task killer” alkalmazásokra:\n\nA készülék „fel fog ébredni” naponta egyszer, hogy az automatikus feldolgozásokat megcsinálja. Mivel a feldolgozások csak néhány másodpercig tartanak, ezek nem lesznek károsak az akkumulátor élettartamára.\n\nNe használjon „task killer”-eket az ^1-val</string>
+	<string name="no_thanks">Nem, köszönöm</string>
+	<string name="maybe_later">Talán később</string>
+	<string name="unexpected_error_warning">Egy váratlan hiba kényszerítette anMoney-t, hogy megálljon.\n\nKérjük, küldje el a hibajelentést emailben, hogy meg tudjuk ezt javítani. Lesz alkalma még az email átírására a küldés előtt.\n\nKöszönjük az együttműködését.</string>
+	<string name="unexpected_error_notification_ticker">Váratlan hiba. Kérjük, küldje a hibajelentést.</string>
+	<string name="unexpected_error_notification_title">anMoney megállt</string>
+	<string name="unexpected_error_notification_text">Hibajelentés küldéséhez kattintson ide.</string>
+	<string name="unexpected_error_comment">Ha szeretné, kérjük, írja le, hogy mit csinált, amikor a probléma jelentkezett</string>
+	<string name="archiving">Archiválás</string>
+	<string name="archiving_settings">Archiválás beállításai</string>
+    <string name="more">Több</string>
+    <string name="specify_export_options">Adja meg az exportálás beállításait</string>
+	<string name="select_all">Összes kijelölése</string>
+	<string name="unselect_all">Kijelölés törlése</string>
+	<string name="expand_all">Összes kiterjesztése</string>
+	<string name="all_expanded">Összes kiterjesztve</string>
+	<string name="collapse_all">Összes összecsukása</string>
+	<string name="all_collapsed">Összes összecsukva</string>
+    <string name="postal_address">Postai cím</string>
+    <string name="postal_address_hint">Város\nUtca\nIrányítószám</string>
+	<string name="cannot_perform_sd_card_operation">Ez a művelet nem hajtható végre, mert talán nincs SD-kártya a készülékben, vagy a készülék jelenleg csatlakoztatva van a számítógéphez, ami az SD-kártyát elérhetetlenné teszi</string>
+	<string name="cannot_perform_file_system_operation_format">Ez a művelet nem hajtható végre, mert az út (^1) a fájlrendszeren nem érhető el</string>
+	<string name="please_correct_and_try_again">Kérjük, javítsa meg és próbálja újra</string>
+	<string name="no_network_message_format">^1 periodikus hálózati hozzáférési engedélyre van szüksége ellenőrzési célokból.\n\nKérjük, kapcsolja be a hálózatot, és amikor van adatkapcsolata, próbálja meg újra. Utána lekapcsolhatja a hálózatot.\n\nAz ^2 érintése a <b>Wi-fi</b> beállításokhoz fogja vinni.</string>
+    <string name="calculator">Számológép</string>
+    <string name="only_in_full_version">Csak a PRO verzióban elérhető</string>
+    <string name="will_not_effect_transactions">Ez <b>nem</b> érinti a meglévő tranzakciókat</string>
+    
+	<string name="free_limitations">Vegye meg a PRO verziót a <b>Play Áruházban</b>, hogy eltávolítsa ez alábbi korlátokat:\n\n
+	<li>Nincs jelszavas biztonság</li>\n
+	<li>Nincs automatikus mentés</li>\n
+	<li>Nincsenek személyre szabott jelentések</li>\n
+	<li>Csak QIF importálas van</li>\n
+	<li>Nincs integráció a „Személyek”-el</li>\n
+	<li>Legfeljebb 2 bank, 1 hitel és 1 pénzszámla lehet</li>\n
+	<li>Legfeljebb 5 költségvetési tétel lehet</li>\n
+	<li>Legfeljebb 3 ismétlődő számla vagy betét lehet</li> 
+	</string>
+
+	<string name="no_items">Nincsenek elemek</string>
+    <string name="no_items_yet">Nincsenek még elemek</string>
+    <string-array name="items_format_plurals">
+        <item>^1 elem</item>
+    </string-array>
+    
+
+    <string-array name="selected_format_plurals">
+        <item>^1 kiválasztva</item>
+    </string-array>
+    
+	
+	<string-array name="reminder_leads">
+        <item>Ne emlékeztessen</item>
+        <item>Azon a napon</item>
+        <item>Egy nappal előtte</item>
+        <item>Két nappal előtte</item>
+        <item>Egy héttel előtte</item>
+        <item>Két héttel előtte</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1.</item>
+		<item>2.</item>
+		<item>3.</item>
+		<item>4.</item>
+		<item>5.</item>
+		<item>6.</item>
+		<item>7.</item>
+		<item>8.</item>
+		<item>9.</item>
+		<item>10.</item>
+		<item>11.</item>
+		<item>12.</item>
+		<item>13.</item>
+		<item>14.</item>
+		<item>15.</item>
+		<item>16.</item>
+		<item>17.</item>
+		<item>18.</item>
+		<item>19.</item>
+		<item>20.</item>
+		<item>21.</item>
+		<item>22.</item>
+		<item>23.</item>
+		<item>24.</item>
+		<item>25.</item>
+		<item>26.</item>
+		<item>27.</item>
+		<item>28.</item>
+		<item>29.</item>
+		<item>30.</item>
+		<item>31.</item>
+	</string-array>
+
+	<string name="display_direction">Sorrend</string>
+	<string-array name="sort_direction_items">
+		<item>Növekvő</item>
+		<item>Csökkenő</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>növekvő</item>
+		<item>csökkenő</item>
+	</string-array>
+</resources>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="estimated_indicator">~</string>
+    <string name="recurring_bills_and_deposits">Opérations récurrentes</string>
+
+    <string name="recurring_bills_and_deposits_by_direction_order_format">Récurrences par ordre ^1 de ^2</string>	
+	<string name="view_recurring">Voir les récurrences</string>
+	<string name="new_recurring">Nouvelle récurrence</string>
+	<string name="enter">Saisir</string>
+	<string name="entered">Saisie</string>
+	<string name="enter_canceled">Saisie annulée</string>
+	<string name="enter_into_register">Saisir dans le registre</string>
+	<string name="enter_into_register_warning">Veuillez confirmer que vous souhaitez saisir cela dans le registre dès maintenant</string>
+	<string name="enter_now">Saisir maintenant</string>
+	<string name="enter_after_editing">Saisir après modification</string>
+	<string name="enter_partially_after_editing">Saisir partiellement après modification</string>
+	<string name="move_to_next_occurrence">Et passer à l’occurrence suivante</string>
+	<string name="remain_on_this_occurrence_format">Et rester sur cette occurrence si le montant saisi est inférieur à ^1</string>	    	    	
+	<string name="edit_recurring">Modifier la récurrence</string>
+	<string name="edit_series">Modifier la série</string>
+	<string name="edit_occurrence">Modifier l’occurrence</string>
+	<string name="entire_series">Série entière</string>
+	<string name="edit_template_warning">Il existe des occurrences futures personnalisées.\n\nEn modifiant la série, vous supprimerez ces personnalisations</string>
+	<string name="delete_recurring">Supprimer la récurrence</string>
+	<string name="delete_recurring_warning_part1_format">Supprimer ^1</string>
+	<string name="delete_recurring_warning_part2">Toutes les occurrences à venir seront supprimées</string>
+	<string name="change_recurring_amount_format">Modifier le montant récurrent de ^1 à ^2</string>
+	<string name="skip">Sauter</string>
+	<string name="skip_occurrence">Sauter cette occurrence</string>
+	<string name="skipped">Sautée</string>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item/> <!-- Not used -->
+		<item>^1 occurrences sautées</item>
+	</string-array>
+	<string name="skip_canceled">Annulation</string>
+	<string name="skip_which">Sauter laquelle</string>
+	<string name="skip_one_occurrence_warning">Sauter la prochaine occurrence</string>
+	<string name="no_recurrings_format">Vous n’avez aucun paiement ou dépôt récurrent.\n\nPour en créer un :\n\n<li>^1</li>\n\n<li>Appuyez longuement sur une transaction et tapez sur ^2</li></string>
+    <string name="create_recurring_instructions_format">Appuyez sur ^i en haut de l’écran</string>
+	<string name="recurring_no_accounts_yet">Veuillez créer des comptes et des bénéficiaires avant d’ajouter des opérations récurrentes</string>
+	<string name="specify_account">Veuillez d’abord indiquer le compte</string>
+	<string name="account_and_amount">Compte et Montant</string>
+	<string name="payee_and_category">Bénéficiaire et Catégorie</string>
+	<string name="auto_enter_and_reminder">Saisie automatique et Rappel</string>
+	<string name="pay_by_check">Je paie cela par chèque</string>
+	<string name="amount_is">Le montant est</string>
+	<string name="fixed">Fixe</string>
+	<string name="estimated">Estimé</string>
+	<string name="estimated_amount_format">^1^2</string>
+	<string name="upcoming">À venir</string>
+	<string name="no_upcoming">Aucun paiement ou dépôt à venir</string>
+	<string name="no_upcoming_bills">Aucun paiement à venir</string>
+	<string name="no_upcoming_deposits">Aucun dépôt à venir</string>
+	<string name="enter_automatically">Saisie automatique dans le registre</string>
+	<string name="notify_me">M’avertir</string>
+	<string name="cannot_auto_enter">En raison des possibles variations des taux de change, les opérations récurrentes impliquant des virements entre comptes libellés dans des devises différentes ne peuvent être saisis automatiquement dans le registre.\n\nVous devrez saisir manuellement la transaction en question et spécifier le taux de change en vigueur à cette date</string>
+	<string name="entered_recurring_bill">Paiement récurrent saisi</string>
+	<string name="entered_recurring_deposit">Dépôt récurrent saisi</string>
+	<string name="notify_me_when_entered">M’avertir de la saisie sur la barre de notification</string>
+	<string name="the_last_day_of_the_month">Le dernier jour du mois</string>
+	<string name="include_in_budget">Inclure dans le budget</string>
+	<string name="include_recurrings">Inclure les récurrences</string>
+	<string name="make_recurring_budget_question_part1">Souhaitez-vous que ce série fasse partie de votre budget</string>
+	<string name="make_recurring_budget_question_part2_format">Même si vous choisissez ^1, vous pourrez changer d’avis plus tard en modifiant ce série</string>
+			
+	<!-- These three below form a sentence -->
+	<string name="based_part1">Basé sur</string>
+	<string name="based_part2_singular">la dernière</string>
+	<string-array name="based_part2_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>les ^1 dernières</item>
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>occurrence</item>
+		<item>occurrences</item>
+	</string-array>
+	<string name="end_date_if_any">Date de fin (comprise), le cas échéant</string>
+	<string name="invalid_date">Date invalide</string>
+	<string name="repeat">Répéter</string>
+
+
+
+
+	<string-array name="every_day_plurals">
+		<item>Tous les</item>
+		<item>Tous les</item>
+	</string-array>
+	<string-array name="every_week_plurals">
+		<item>Toutes les</item>
+		<item>Toutes les</item>
+	</string-array>
+	<string-array name="every_month_plurals">
+		<item>Tous les</item>
+		<item>Tous les</item>
+	</string-array>
+	<string-array name="every_year_plurals">
+		<item>Tous les</item>
+		<item>Tous les</item>
+	</string-array>
+	<string name="never">Jamais</string>
+	<string name="day_upper">Jour</string>
+	<string name="day_lower">jour</string>
+	<string name="days_upper">Jours</string>
+  	<string name="daily">Quotidiennement</string>
+	<string name="week_upper">Semaine</string>
+  	<string name="weeks_upper">Semaines</string>
+   	<string name="weekly">Hebdomadairement</string>
+
+   	
+	<string name="month_upper">Mois</string>
+	<string name="month_lower">mois</string>
+   	<string name="months_upper">Mois</string>
+   	<string name="monthly">Mensuellement</string>
+   	<string name="twice_a_month">Deux fois par mois</string>
+	<string name="quarters_upper">Trimestres</string>	
+	<string name="half_year">Semestre</string>
+	<string name="half_yearly">Semestriellement</string>
+	<string name="year_upper">Année</string>
+	<string name="year_lower">année</string>
+	<string name="years_upper">Années</string>
+   	<string name="yearly">Annuellement</string>
+	<string-array name="day_plurals">
+		<item>@string/day_lower</item>
+		<item>jours</item>
+	</string-array>
+	<string-array name="week_plurals">
+		<item>semaine</item>
+		<item>semaines</item>
+	</string-array>
+	<string-array name="month_plurals">
+		<item>@string/month_lower</item>
+		<item>mois</item>
+	</string-array>
+	<string-array name="year_plurals">
+		<item>an</item>
+		<item>ans</item>
+	</string-array>
+	<string name="every_n_period_format">^1 ^2 ^3</string>	
+	<string name="if_it_falls_on_a_weekend">Si la date tombe un weekend</string>
+	<string name="skip_weekends">Sauter le weekend</string>
+
+	<string name="no_recurrings_yet">Pas encore d’opération récurrente</string>
+	<string-array name="recurrings_count_format_plurals">
+		<item>1 opération récurrente</item>
+		<item>^1 opérations récurrentes</item>
+	</string-array>
+	
+	<string name="overdue_count_format">^1/^2</string>
+	<string name="overdue_format">^1 en retard</string>
+	<string-array name="overdue_count_plurals">
+		<item>^1 opération en retard</item>
+		<item>^1 opérations en retard</item>
+	</string-array>
+
+	<string-array name="enter_into_register_fixed_amount_items">
+		<item>@string/enter_now</item>
+		<item>Modifier d’abord la transaction</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">Utiliser la date d’aujourd’hui comme date de transaction</string>
+
+	<string-array name="skip_which_items">
+		<item>Occurrence à venir</item>
+		<item>Toutes les occurrences passées</item>
+	</string-array>
+
+	<string-array name="workday_adjustment_methods">
+		<item>Ne rien faire</item>
+    	<item>Déplacer au jour ouvré précédent</item>
+    	<item>Déplacer au jour ouvré suivant</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>Le 1<sup><small>er</small></sup> du mois</item>
+		<item>Le 2 du mois</item>
+		<item>Le 3 du mois</item>
+		<item>Le 4 du mois</item>
+		<item>Le 5 du mois</item>
+		<item>Le 6 du mois</item>
+		<item>Le 7 du mois</item>
+		<item>Le 8 du mois</item>
+		<item>Le 9 du mois</item>
+		<item>Le 10 du mois</item>
+		<item>Le 11 du mois</item>
+		<item>Le 12 du mois</item>
+		<item>Le 13 du mois</item>
+		<item>Le 14 du mois</item>
+		<item>Le 15 du mois</item>
+		<item>Le 16 du mois</item>
+		<item>Le 17 du mois</item>
+		<item>Le 18 du mois</item>
+		<item>Le 19 du mois</item>
+		<item>Le 20 du mois</item>
+		<item>Le 21 du mois</item>
+		<item>Le 22 du mois</item>
+		<item>Le 23 du mois</item>
+		<item>Le 24 du mois</item>
+		<item>Le 25 du mois</item>
+		<item>Le 26 du mois</item>
+		<item>Le 27 du mois</item>
+		<item>Le 28 du mois</item>
+		<item>Le 29 du mois</item>
+		<item>Le 30 du mois</item>
+		<item>Le 31 du mois</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month_and_on_the">
+		<item>Le 1<sup><small>er</small></sup> du mois et le</item>
+		<item>Le 2 du mois et le</item>
+		<item>Le 3 du mois et le</item>
+		<item>Le 4 du mois et le</item>
+		<item>Le 5 du mois et le</item>
+		<item>Le 6 du mois et le</item>
+		<item>Le 7 du mois et le</item>
+		<item>Le 8 du mois et le</item>
+		<item>Le 9 du mois et le</item>
+		<item>Le 10 du mois et le</item>
+		<item>Le 11 du mois et le</item>
+		<item>Le 12 du mois et le</item>
+		<item>Le 13 du mois et le</item>
+		<item>Le 14 du mois et le</item>
+		<item>Le 15 du mois et le</item>
+		<item>Le 16 du mois et le</item>
+		<item>Le 17 du mois et le</item>
+		<item>Le 18 du mois et le</item>
+		<item>Le 19 du mois et le</item>
+		<item>Le 20 du mois et le</item>
+		<item>Le 21 du mois et le</item>
+		<item>Le 22 du mois et le</item>
+		<item>Le 23 du mois et le</item>
+		<item>Le 24 du mois et le</item>
+		<item>Le 25 du mois et le</item>
+		<item>Le 26 du mois et le</item>
+		<item>Le 27 du mois et le</item>
+		<item>Le 28 du mois et le</item>
+		<item>Le 29 du mois et le</item>
+		<item>Le 30 du mois et le</item>
+		<item>Le 31 du mois et le</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_month">Le dernier jour du mois</string>
+	<string-array name="on_the_nth_day_of_the_week_format">
+		<item>Le premier ^1</item>
+		<item>Le deuxième ^1</item>
+		<item>Le troisième ^1</item>
+		<item>Le quatrième ^1</item>
+	</string-array>
+
+
+
+
+
+
+
+
+
+
+	<string name="on_the_last_day_of_the_week_format">Le dernier ^1</string>
+
+	<string name="work_week">Semaine ouvrée</string>
+	<string name="period_end_day_of_the_month">Jour de fin de période mensuelle</string>
+	<string name="fiscal_year">Exercice</string>
+	
+	<string name="time_of_reminder">Heure de rappel</string>
+	<string name="reminder_hour_of_day_change_warning">Veuillez noter que si des rappels existent, ils ne seront <b>pas</b> modifiés. Pour les modifier, rendez-vous dans l’agenda de votre appareil.\n\nLa nouvelle heure choisie sera utilisée pour tous les nouveaux rappels ainsi que pour toutes les occurrences d’opérations récurrentes à venir</string>
+
+	<string-array name="auto_enter_days_before">
+		<item>Ne pas saisir automatiquement</item>
+		<item>À la date d’échéance</item>
+		<item>Un jour avant échéance</item>
+		<item>Deux jours avant échéance</item>
+		<item>Trois jours avant échéance</item>
+		<item>Une semaine avant échéance</item>
+		<item>Deux semaines avant échéance</item>
+		<item>Trois semaines avant échéance</item>
+		<item>Un mois avant échéance</item>
+	</string-array>	
+
+	<string-array name="days_before_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 jours avant</item>
+	</string-array>
+	
+	<string-array name="days_before_due_date_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 jours avant échéance</item>
+	</string-array>
+
+	<string name="specify_custom_number_of_days">Spécifier un nombre de jours</string>
+</resources>

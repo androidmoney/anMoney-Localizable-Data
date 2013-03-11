@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transactions">Transactions</string>
+    <string name="view_transactions">View transactions</string>
+    <string name="new_transaction">New transaction</string>
+    <string name="edit_transaction">Edit transaction</string>
+    <string name="split_transaction">Split transaction</string>
+    <string name="delete_transaction">Delete transaction</string>
+    <string name="accept_transaction">Accept transaction</string> <!-- Accept as in "Accept a new transaction" -->
+    <string name="select">Select</string>
+    <string name="accept">Accept</string>
+    <string name="accepted">Accepted</string>
+    <string name="accept_canceled">Accept cancelled</string>
+    <string name="accepting">Accepting</string>
+    <string name="accept_transaction_all"><b>All</b> transactions will be accepted</string>
+    <string name="mark">Mark</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
+    <string name="marked">Marked</string>
+    <string name="mark_canceled">Mark cancelled</string>
+    <string name="mark_transaction">Mark transaction</string>
+	<string-array name="mark_transactions_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>Mark ^1 transactions</item>
+    </string-array>
+    <string name="mark_transactions_all">Mark <b>all</b> transactions</string>
+    <string name="marking">Marking</string>
+    <string name="unreconciled1">Unreconciled</string>
+    <string name="unreconciled2">@string/unreconciled1</string>
+    <string name="cleared1">Cleared</string>
+    <string name="cleared2">@string/cleared1</string>
+    <string name="reconciled1">Reconciled</string>
+    <string name="reconciled2">@string/reconciled1</string>
+    <string name="_void_verb">Void</string>
+    <string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" -->
+	<string name="not_void1">Not void</string> <!-- This is an adjective as in "Not void transaction" -->
+    <string name="pending2">Pending</string> <!--- As in it is a new transaction, and I need to review and accept it -->
+	<string name="exported_transaction">Exported</string>
+    <string name="not_exported_transaction1">Not exported</string>
+    <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
+    <string name="edit_notes">Edit notes</string>
+    <string name="notes_created">Notes created</string>
+    <string name="notes_edited">Notes edited</string>
+    <string name="notes_deleted">Notes deleted</string>
+    <string name="notes_creation_canceled">Notes creation cancelled</string>
+    <string name="flag_for_follow_up">Flag for follow-up</string>
+    <string name="edit_follow_up">Edit follow-up</string>
+    <string name="make_recurring">Make recurring</string>
+    <string name="follow_up2">Follow-up</string>
+    <string name="follow_up_by">Follow-up by</string>
+    <string name="follow_up_created">Follow-up created</string>
+    <string name="follow_up_edited">Follow-up edited</string>
+    <string name="follow_up_deleted">Follow-up deleted</string>
+    <string name="follow_up_creation_canceled">Follow-up creation cancelled</string>
+    <string name="go_to">Go to</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
+    <string name="number">Number</string>
+    <string name="transfer">Transfer</string>
+    <string name="transfers">Transfers</string>
+    <string name="transfer_account">Transfer account</string>
+    <string name="add">Add</string>
+    <string name="added">Added</string>
+    <string name="add_canceled">Add cancelled</string>
+    <string name="accept_and_edit">Accept &amp; Edit</string>
+    <string name="add_and_close">Add &amp; Close</string>
+    <string name="duplicate_in_current_account">Duplicate in current account</string>
+    <string name="duplicate_copy_move">Duplicate, copy or move</string>
+    <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+    <string name="copy_to_another_account">Copy to another account</string>
+    <string name="move_to_another_account">Move to another account</string>
+    <string name="copy_transaction">Copy transaction</string>
+    <string name="move_transaction">Move transaction</string>
+    <string name="do_not_duplicate_notes">Do not duplicate the notes</string>
+    <string name="account_not_found">Account not found</string>
+    <string name="cannot_transfer_to_itself">Cannot transfer to itself</string>
+    <string name="cannot_copy_to_itself">Cannot copy/move to itself</string>
+    <string name="copy_move_currency_warning">The destination account has a different base currency. You may have to adjust the transaction amount in the destination account</string>
+    <string name="all_transactions_hidden_by_filter">All transactions are hidden by the display filter</string>
+    <string name="show_number">Show number</string>
+    <string name="show_number_description">Displays the number, if there is one</string>
+    <string name="show_notes">Show notes</string>
+    <string name="show_notes_description">Displays the notes, if there is any</string>
+    <string name="classification_cannot_fit_warning_part1">On the transaction window, due to the lack of screen space, you will not be able to see all the classifications without scrolling</string>
+    <string name="classification_cannot_fit_warning_part2">Would you like to hide some of the labels to free up some space</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="classification_cannot_fit_warning_part3">You will be able to change this setting at any time later</string>
+    <string name="ask_to_edit_related_transaction_message_part1">Since the other side of this transaction is split, you need to edit it there</string>
+    <string name="ask_to_edit_related_transaction_message_part2">Would you like to edit the other transaction now</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="transaction_modified_message">Transaction will be modified</string>
+    <string name="transaction_confirm_save_on_back_press_message_format">The transaction has been modified.\n\nTap ^1 to save the transaction, ^2 to go back to editing the transaction, or ^3 to discard the changes</string>
+    <string name="split_confirm_save_on_back_press_message_format">The split has been modified.\n\nTap ^1 to save the split, ^2 to go back to editing the split, or ^3 to discard the changes</string>
+    <string name="transaction_modified_reconciled_message">A reconciled transaction will be modified</string>
+    <string name="transaction_modified_related_reconciled_message">The other side of this transaction, which is reconciled, will be modified</string>
+    <string name="records_may_differ">This may cause your records to differ from the financial institution’s</string>
+    <string name="missing_category_warning_message_format">It is highly recommended that a category be specified, as without it, spending reports may be inaccurate.\n\nTap ^1 to save the transaction and leave the category unassigned, or ^2 to go back to editing the transaction</string>
+    <string name="expense_category_given_for_income_message_format">An expense category is specified for ^1.\n\nTap ^2 to leave the category as is, or ^3 to go back to editing the transaction</string> <!-- the ^1 parameter comes from amount1_description array -->
+    <string name="income_category_given_for_expense_message_format">An income category is specified for ^1.\n\nTap ^2 to leave the category as is, or ^3 to go back to editing the transaction</string> <!-- the ^2 parameter comes from amount2_description array -->
+    <string name="payee_not_found_format">Payee ^1 not found</string>
+    <string name="payer_not_found_format">Payer ^1 not found</string>
+    <string name="would_you_like_to_create_it">Would you like to create it</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="amount_zero_warning_message_format">The transaction amount is zero.\n\nTap ^1 to leave the amount zero, or ^2 to enter a voided transaction</string>
+    <string name="sum_of_splits_warning_message_format">The sum of the splits does not match the transaction amount.\n\nTap ^1 to edit the splits</string>
+    <string name="duplicate_number_message_format">A transaction dated ^1 is already using this cheque number.\n\nTap ^2 to reuse the cheque number, or ^3 to go back to editing the transaction</string>
+    <string name="leave_zero">Leave 0</string>
+    <string name="credits">Credits</string>
+    <string name="no_credits">No credits</string>
+    <string name="deposits">Deposits</string>
+    <string name="no_deposits">No deposits</string>
+    <string name="checks">Cheques</string> <!-- As in check book -->
+    <string name="no_checks">No cheques</string> <!-- As in check book -->
+    <string name="charges">Charges</string>
+    <string name="no_charges">No charges</string>
+    <string name="payments">Payments</string>
+    <string name="no_payments">No payments</string>
+    <string name="checks_payments">Cheques &amp; Payments</string>
+    <string name="no_checks_payments">No cheques or payments</string>
+    <string name="deposits_payments">Deposits &amp; Payments</string>
+    <string name="no_deposits_payments">No deposits or payments</string>
+    <string name="no_unreconciled_transactions">No unreconciled transactions</string>
+    <string name="removing_transactions">Removing transactions</string>
+    <string name="cleared_all_transactions">Cleared all transactions</string>
+    <string name="next_check_number">Next cheque number</string>
+    <string name="cleared_transactions_color">Cleared transactions colour</string>
+    <string name="reconciled_transactions_color">Reconciled transactions colour</string>
+	<string name="create_transaction_instructions_format">To create a transaction, tap ^i at the top of the screen</string> <!-- ^i will be replaced by an icon --> 
+    <string name="text_filter">Text filter</string>
+    <string name="profit_and_loss_statement">Profit &amp; Loss statement</string>
+	<string name="transaction_type">Transaction type</string>
+	<string name="transaction_status">Transaction status</string>
+
+    <string name="full_screen_mode">Full screen mode</string>
+    <string name="full_screen_mode_description">More transactions are visible, if checked</string>
+
+	<string-array name="amount1_labels">
+        <item>Payment</item>
+        <item>Spend</item>
+        <item>Charge</item>
+        <item>Payment</item>
+        <item>Increase</item>
+        <item>Decrease</item>
+        <item>Withdrawal</item>
+    </string-array>
+	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
+        <item>the payment</item>
+        <item>the spending</item>
+        <item>the charge</item>
+        <item>the payment</item>
+        <item>the increase</item>
+        <item>the decrease</item>
+        <item>the withdrawal</item>
+    </string-array>
+	<string-array name="amount2_labels">
+        <item>Deposit</item>
+        <item>Receive</item>
+        <item>Credit</item>
+        <item>Principal receipt</item>
+        <item>Decrease</item>
+        <item>Increase</item>
+        <item>Deposit</item>
+    </string-array>
+	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
+        <item>the deposit</item>
+        <item>the receipt</item>
+        <item>the credit</item>
+        <item>the principal receipt</item>
+        <item>the decrease</item>
+        <item>the increase</item>
+        <item>the deposit</item>
+    </string-array>
+
+	<string name="delete_transaction_warning">The transaction will be deleted</string>
+	<string-array name="delete_transaction_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 selected transactions will be deleted</item>
+    </string-array>
+    <string name="delete_transaction_warning_all"><b>All</b> transactions will be deleted</string>
+	<string name="delete_transaction_warning_reconciled">A reconciled transaction will be deleted</string>
+    <string-array name="delete_transaction_warning_reconciled_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 selected transactions will be deleted, at least one of which is reconciled</item>
+    </string-array>
+	<string name="accept_transaction_confirm_singular">Transaction will be accepted</string>
+    <string-array name="accept_transaction_confirm_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 selected transactions will be accepted</item>
+    </string-array>
+</resources>

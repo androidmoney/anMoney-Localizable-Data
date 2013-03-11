@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transactions">Tranzakciók</string>
+    <string name="view_transactions">Tranzakciók megtekintése</string>
+    <string name="new_transaction">Új tranzakció</string>
+    <string name="edit_transaction">Tranzakció módosítása</string>
+    <string name="split_transaction">Tranzakció osztása</string>
+    <string name="delete_transaction">Tranzakció törlése</string>
+    <string name="accept_transaction">Tranzakció elfogadása</string>
+    <string name="select">Választás</string>
+    <string name="accept">Elfogadás</string>
+    <string name="accepted">Elfogadva</string>
+    <string name="accept_canceled">Elfogadás megszakítva</string>
+    <string name="accepting">Elfogadja</string>
+    <string name="accept_transaction_all"><b>Összes</b> tranzakció el lesz fogadva</string>
+    <string name="mark">Jelölés</string> <!-- Mark as mark a transaction reconciled/cleared/etc -->
+    <string name="marked">Jelölt</string>
+    <string name="mark_canceled">Jelölés megszakítva</string>
+    <string name="mark_transaction">Tranzakció jelölése</string>
+	<string-array name="mark_transactions_format_plurals">
+        <item>Jelöljön ^1 tranzakciót</item>
+    </string-array>
+    <string name="mark_transactions_all">Az <b>összes</b> tranzakció jelölése</string>
+    <string name="marking">Jelöli</string>
+    <string name="unreconciled1">Egyeztetetlen</string>
+    <string name="unreconciled2">@string/unreconciled1</string>
+    <string name="cleared1">Elszámolt</string>
+    <string name="cleared2">@string/cleared1</string>
+    <string name="reconciled1">Egyeztetett</string>
+    <string name="reconciled2">@string/reconciled1</string>
+    <string name="_void_verb">Érvénytelenítés</string>
+    <string name="_void1">Érvénytelenített</string>
+	<string name="not_void1">Érvényes</string>
+    <string name="pending2">Függő</string>
+	<string name="exported_transaction">Exportált</string>
+    <string name="not_exported_transaction1">Exportálatlan</string>
+    <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
+    <string name="edit_notes">Jegyzet módosítása</string>
+    <string name="notes_created">Jegyzet elkészült</string>
+    <string name="notes_edited">Jegyzet módosítva</string>
+    <string name="notes_deleted">Jegyzet törölve</string>
+    <string name="notes_creation_canceled">Jegyzet készítése megszakítva</string>
+    <string name="flag_for_follow_up">Tranzakció követése</string>
+    <string name="edit_follow_up">Követés módosítása</string>
+    <string name="make_recurring">Ismétlődőre változtatás</string>
+    <string name="follow_up2">Követett</string>
+    <string name="follow_up_by">Követés határideje</string>
+    <string name="follow_up_created">Követés létrehozva</string>
+    <string name="follow_up_edited">Követés módosítva</string>
+    <string name="follow_up_deleted">Követés törölve</string>
+    <string name="follow_up_creation_canceled">Követés megszakítva</string>
+    <string name="go_to">Menjen</string>
+    <string name="number">Szám</string>
+    <string name="transfer">Átutalás</string>
+    <string name="transfers">Átutalások</string>
+    <string name="transfer_account">Átutalási számla</string>
+    <string name="add">Hozzáadás</string>
+    <string name="added">Hozzáadva</string>
+    <string name="add_canceled">Hozzáadás megszakítva</string>
+    <string name="accept_and_edit">Elfogadás és Módosítás</string>
+    <string name="add_and_close">Hozzáadás és Becsukás</string>
+    <string name="duplicate_in_current_account">Duplikálja ebben a számlában</string>
+    <string name="duplicate_copy_move">Duplikálás, másolás vagy áthelyezés</string>
+    <string name="duplicate_copy_move_short">Duplikálás/másolás/áthelyezés</string>
+    <string name="copy_to_another_account">Duplikálja egy másik számlába</string>
+    <string name="move_to_another_account">Áthelyezés egy másik számlába</string>
+    <string name="copy_transaction">Tranzakciók másolása</string>
+    <string name="move_transaction">Tranzakciók áthelyezése</string>
+    <string name="do_not_duplicate_notes">Ne másolja a jegyzetet</string>
+    <string name="account_not_found">Számla nem létezik</string>
+    <string name="cannot_transfer_to_itself">Nem utalhatja át magához</string>
+    <string name="cannot_copy_to_itself">Nem másolhatja magához</string>
+    <string name="copy_move_currency_warning">A célszámla alappénzneme különböző. Lehet, hogy állítania kell a tranzakció összegét a célszámlában</string>
+    <string name="all_transactions_hidden_by_filter">A szűrő elrejtette az összes tranzakciót</string>
+    <string name="show_number">Mutassa a számot</string>
+    <string name="show_number_description">Ha van, mutassa a számot</string>
+    <string name="show_notes">Mutassa a jegyzeteket</string>
+    <string name="show_notes_description">Ha van, mutassa a jegyzetet</string>
+    <string name="classification_cannot_fit_warning_part1">A képernyői hely hiánya miatt, a tranzakció ablakban nem fogja látni az összes osztályozást görgetés nélkül</string>
+    <string name="classification_cannot_fit_warning_part2">Szeretné elrejteni egyes címkéket, hogy több hely legyen</string>
+    <string name="classification_cannot_fit_warning_part3">Meg tudja változtatni ezt a beállítást bármikor később is</string>
+    <string name="ask_to_edit_related_transaction_message_part1">Mivel a tranzakció másik oldala egy osztás, ott kell módosítania</string>
+    <string name="ask_to_edit_related_transaction_message_part2">Szeretné most módosítani a másik oldalt</string>
+    <string name="transaction_modified_message">A tranzakció módosítva lesz</string>
+    <string name="transaction_confirm_save_on_back_press_message_format">A tranzakció módosítva van.\n\nÉrintse meg a ^1-t, hogy mentse, a ^2-t, hogy visszamenjen a szerkesztéshez, vagy a ^3-t, hogy eldobja a módosításokat</string>
+    <string name="split_confirm_save_on_back_press_message_format">Az osztás módosítva van.\n\nÉrintse meg a ^1-t, hogy mentse, a ^2-t, hogy visszamenjen a szerkesztéshez, vagy a ^3-t, hogy eldobja a módosításokat</string>
+    <string name="transaction_modified_reconciled_message">Egy egyeztetett tranzakció lesz módosítva</string>
+    <string name="transaction_modified_related_reconciled_message">A tranzakció másik oldala, amelyik már egyeztetve volt, módosítva lesz</string>
+    <string name="records_may_differ">Ez okozhatja, hogy a rekordja el fog térni a pénzintézetitől</string>
+    <string name="missing_category_warning_message_format">Nagyon ajánlott, hogy adjon meg egy kategóriát, mivel e nélkül a kiadási jelentések pontatlanok lehetnek.\n\nÉrintse meg a ^1-ot, hogy mentse a tranzakciót és hagyja a kategóriát üresen, vagy a ^2-t, hogy visszamenjen a szerkesztéshez</string>
+    <string name="expense_category_given_for_income_message_format">Egy kiadási kategória lett adva ^1-ra.\n\nÉrintse mag a ^2-ot, hogy hagyja a kategóriát így, vagy a ^3-t, hogy visszamenjen a szerkesztéshez</string>
+    <string name="income_category_given_for_expense_message_format">Egy jövedelmi kategória lett adva ^1-ra.\n\nÉrintse mag a ^2-ot, hogy hagyja a kategóriát így, vagy a ^3-t, hogy visszamenjen a szerkesztéshez</string>
+    <string name="payee_not_found_format">Kedvezményezett ^1 nem létezik</string>
+    <string name="payer_not_found_format">Fizető ^1 nem létezik</string>
+    <string name="would_you_like_to_create_it">Szeretné létrehozni</string>
+    <string name="amount_zero_warning_message_format">A tranzakció összege nulla.\n\nÉrintse meg a ^1-t, hogy hagyja a összeget nullán, vagy a ^2-t, hogy beírjon egy érvénytelenített tranzakciót</string>
+    <string name="sum_of_splits_warning_message_format">Az osztások összege nem egyezik meg a tranzakció összegével.\n\nÉrintse mag a ^1-t, hogy módosításja az osztásokat</string>
+    <string name="duplicate_number_message_format">Egy ^1 dátumú tranzakció már használta ezt a csekkszámot.\n\Érintse mag a ^2-t, hogy használja megint ezt a csekkszámot, vagy a ^3-t, hogy visszamenjen a szerkesztéshez</string>
+    <string name="leave_zero">Hagyja nullán</string>
+    <string name="credits">Kreditek</string>
+    <string name="no_credits">Nincsenek kreditek</string>
+    <string name="deposits">Betétek</string>
+    <string name="no_deposits">Nincsenek betétek</string>
+    <string name="checks">Csekkek</string>
+    <string name="no_checks">Nincsenek csekkek</string>
+    <string name="charges">Költségek</string>
+    <string name="no_charges">Nincsenek költségek</string>
+    <string name="payments">Kifizetések</string>
+    <string name="no_payments">Nincsenek kifizetések</string>
+    <string name="checks_payments">Csekkek és Kifizetések</string>
+    <string name="no_checks_payments">Nincsenek csekkek vagy kifizetések</string>
+    <string name="deposits_payments">Betétek és kifizetések</string>
+    <string name="no_deposits_payments">Nincsenek betétek vagy kifizetések</string>
+    <string name="no_unreconciled_transactions">Nincsenek egyeztetettlen tranzakciók</string>
+    <string name="removing_transactions">Eltávolítja a tranzakciókat</string>
+    <string name="cleared_all_transactions">Az összes tranzakció el lett számolva</string>
+    <string name="next_check_number">Következő csekkszám</string>
+    <string name="cleared_transactions_color">Elszámolt tranzakciók színe</string>
+    <string name="reconciled_transactions_color">Egyeztetett tranzakciók színe</string>
+	<string name="create_transaction_instructions_format">Tranzakció létrehozásához érintse meg a ^i -ot a képernyő tetején</string> 
+    <string name="text_filter">Szöveges szűrő</string>
+    <string name="profit_and_loss_statement">Eredménykimutatás</string>
+	<string name="transaction_type">Tranzakciótípus</string>
+	<string name="transaction_status">Tranzakcióállapot</string>
+
+    <string name="full_screen_mode">Teljes képernyős üzemmód</string>
+    <string name="full_screen_mode_description">Ha jelölt, több tranzakciót lehet látni egyszerre</string>
+
+	<string-array name="amount1_labels">
+        <item>Kifizet</item>
+        <item>Költ</item>
+        <item>Kifizet</item>
+        <item>Kifizet</item>
+        <item>Növel</item>
+        <item>Csökkent</item>
+        <item>Kivon</item>
+    </string-array>
+	<string-array name="amount1_description">
+        <item>kifizetésre</item>
+        <item>költségre</item>
+        <item>kifizetésre</item>
+        <item>kifizetésre</item>
+        <item>növelésre</item>
+        <item>csökkentésre</item>
+        <item>kivonásra</item>
+    </string-array>
+	<string-array name="amount2_labels">
+        <item>Befizet</item>
+        <item>Kap</item>
+        <item>Hitel</item>
+        <item>Fő átvételét</item>
+        <item>Csökkent</item>
+        <item>Növel</item>
+        <item>Befizet</item>
+    </string-array>
+	<string-array name="amount2_description">
+        <item>befizetésre</item>
+        <item>kapásra</item>
+        <item>hitelre</item>
+        <item>fő átvételétere</item>
+        <item>csökkentésre</item>
+        <item>növelésre</item>
+        <item>befizetésre</item>
+    </string-array>
+
+	<string name="delete_transaction_warning">A tranzakciót le lesz törölve</string>
+	<string-array name="delete_transaction_warning_format_plurals">
+        <item>^1 kiválasztott tranzakció le lesz törölve</item>
+    </string-array>
+
+    <string name="delete_transaction_warning_all"><b>Összes</b> tranzakció le lesz törölve</string>
+	<string name="delete_transaction_warning_reconciled">Egy egyeztetett tranzakció le lesz törölve</string>
+    <string-array name="delete_transaction_warning_reconciled_format_plurals">
+        <item>^1 kiválasztott tranzakció le lesz törölve, melyek közül legalább egy már egyeztetve volt</item>
+    </string-array>
+
+	<string name="accept_transaction_confirm_singular">A tranzakció el lesz fogadva</string>
+    <string-array name="accept_transaction_confirm_format_plurals">
+        <item>^1 kiválasztott tranzakció el lesz fogadva</item>
+    </string-array>
+    
+</resources>

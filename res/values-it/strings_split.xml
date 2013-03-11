@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splits">Suddividere</string>
+    <string name="split">Dividi</string>
+    <string name="split_canceled">Suddivisione cancellata</string>
+    <string name="new_split">Nuova suddivisione</string>
+    <string name="edit_split">Modifica suddivisione</string>
+    <string name="edit_splits">Modifica suddivisioni</string>
+    <string name="delete_split">Elimina suddivisione</string>
+	<string name="delete_split_warning">La suddivisione sarà eliminata</string>
+	<string name="sum_of_splits">Somma della suddivisione</string>
+	<string name="unassigned">Non assegnato</string>
+	<string name="transaction_total">Transactione totale</string>
+    <string name="go_back_to_edit">Torna indietro per modificare la transazione</string>
+    <string name="unassigned_split_message_format">La somma delle suddivisioni è ^1, mentre il totale delle transazioni è ^2. Questo lascia ^3 non assegnate, il quale non è raccomandato</string>
+    <string name="what_would_you_like_to_do">Cosa vorresti fare</string>
+    <string name="set_the_total_format">Imposta il totale a ^1</string>
+    <string name="distribute_format">Distribuisci ^1 uniformemente</string>
+    <string name="leave_unassigned_format">Lascia ^1 non assegnata</string>
+    <string name="distributed">Distribuito</string>
+</resources>

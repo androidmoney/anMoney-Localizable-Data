@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="postal_address_hint">Street\nPost Town\nPostcode</string>
+</resources>

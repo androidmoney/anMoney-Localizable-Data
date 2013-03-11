@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currently_biweekly_format">currently ^1 biweekly</string>
+</resources>

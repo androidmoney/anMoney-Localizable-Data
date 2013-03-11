@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account">Račun</string>
+    <string name="accounts">Računi</string>
+    <string name="all_accounts">Svi računi</string>
+    <string name="open_accounts">Otvoreni računi</string>
+    <string name="liability">Pasiva</string>
+    <string name="asset">Aktiva</string>
+    <string name="credit_liability_details">Detalji uplate / isplate</string>
+<!-- <string name="associated_loan">Krediti</string> -->
+<!-- <string name="associated_loan_if_any">Kredit, ako postoji</string> -->
+<!-- <string name="associated_reward_program">Program nadrada</string> -->
+<!-- <string name="associated_reward_program_if_any">Program nagrade, ako postoji</string> -->
+<!-- New --> <string name="account_balances">Account balances</string>
+	<string name="vehicle_details">Detalji o vozilu</string>
+    <string name="property_details">Dealji o vlasništvu</string>
+    <string name="view_accounts">Pogledaj račun</string>
+    <string name="new_account">Novi račun</string>
+    <string name="edit_account">Uredi račun</string>
+    <string name="balance_noun">Stanje</string>
+    <string name="balances_noun">Stanja</string>
+    <string name="postpone">Odgodi</string>
+    <string name="balance_verb">Sanje</string>
+    <string name="balance_account">Sanje računa</string>
+    <string name="balanced">Upisano stanje</string>
+    <string name="balance_postponed">Upisivanje stanja odgođeno</string>
+    <string name="balance_canceled">Upisivanje stanja otkazano</string>
+	<string name="started_balancing_already">Pokrenili ste već usklađivanje ovog računa</string>
+	<string name="postpone_balancing_warning">Odgodi usklađivanje stanja</string>
+	<string name="account_balance_does_not_match_bank_warning_format">Početno stanje koje je uneseno, ^1, ne odovara stanju svih prijašnjih upisanih transakcija, ^2</string>
+	<string name="account_balance_does_not_match_credit_warning_format">Upisan iznos duga, ^1, ne odgovara stanju svih prijašnjih upisanih transakcija, ^2</string>
+	<string name="account_balance_does_not_match_fix">Pokušaj popraviti na način:\n\n<li>Ponovo provjeriti unos</li>\n<li>Označiti transakcije kao usklađene</li>\n<li>Označiti transakcije kao neusklađene</li>\n<li>Uskladiti stanje računa</li></string>
+	<string name="left_to_reconcile">Ostalo otvoreno za uskladiti</string>
+	<string name="statement_balance">Stanje</string>
+    <string name="statement_date">Datum stanja</string>
+    <string name="statement_starting_balance">Početno stanje</string>
+    <string name="statement_ending_balance">Završno stanje</string>
+    <string name="amount_owed_last_month">Ukupan iznos duga prošli mjesec</string>
+    <string name="amount_owed_this_month">Ukupan iznos duga ovaj mjesec</string>
+	<string name="service_charge_amount">Iznos usluga</string>
+    <string name="service_charge_category">Kategorija usluga</string>
+    <string name="service_charge_notes_format">Usluga naplačeno za period do ^1</string>
+    <string name="interest_earned_amount">Iznos pozitivne kamata</string>
+    <string name="interest_earned_category">Kategorija pozitivne kamate</string>
+    <string name="interest_earned_notes_format">Kamata zarađena za period do ^1</string>
+    <string name="interest_paid_amount">Iznos negativne kamate</string>
+    <string name="interest_paid_category">Kategorija negativne kamate</string>
+    <string name="interest_paid_notes_format">Negativna kamata za period do ^1</string>
+<!-- New --> <string name="clear_all_transactions">Clear all transactions</string>  <!-- "Clear" as in Mark the transactions cleared -->
+<!-- New --> <string name="clear_all_transactions_on_all_pages">Clear all transactions on all the pages</string>  <!-- "Clear" as in Mark the transactions cleared -->
+    <string name="export_account">Izvezi račun</string>
+    <string name="delete_account">Obriši račun</string>
+    <string name="deleting_account">Brisanje računa</string>
+    <string name="close_account">Zatvori račun</string>
+    <string name="reopen_account">Potovo otvori račun</string>
+    <string name="repair_account">Popravi račun</string>
+    <string name="repaired">Popravljeno</string>
+    <string name="copy_account_number">Kopiraj broj računa</string>
+    <string name="book_total">Ukupno stanje knjižice</string>
+    <string name="favorites_total">Omiljeno ukupno stanje</string>
+	<string name="delete_account_warning_part1_format">Račun ^1 će biti trajno obrisan.\n\nBudući da je ovaj račun upotrebljavan kroz transakcije sve poveznae transakcije će biti obrisane</string>
+	<string name="delete_account_warning_part2_format">Za skrianje računa, ali očuvanje transakcija stisnite ^1 i zatvori račun</string>
+	<string name="no_accounts">Nema računa</string>
+    <string name="no_transactions_for_account">Nema transakcija za ovaj račun</string>
+    <string name="account_type">Tip računa</string>
+    <string name="account_type_bank_first">Prvo tip računa banka</string>
+    <string name="account_type_cash_first">Prvo cash računi</string>
+    <string name="account_name">Ime računa</string>
+    <string name="abbreviation">Kratica</string>
+    <string name="abbr">Kr</string>
+    <string name="type">Tip</string>
+    <string name="favorite_account">Najdraži račun</string>
+    <string name="favorite_accounts">Najdraži računi</string>
+    <string name="budget_account">Račun planirane potrošnje</string>
+    <string name="account_has_been_closed">Ovaj račun je zatvoren</string>
+    <string name="acquisition_date">Datum kupnje</string>
+    <string name="credit_limit">Limit računa</string>
+    <string name="must_pay_balance">Moramplatiti cijeli dug svaki mjesec (Charge card)</string>
+    <string name="will_pay_balance">Planiram platiti cijeli dug svaki mjesec</string>
+    <string name="interest_rate">Kamata</string>
+    <string name="introductory_rate_in_effect">Postoji ulazna naknada</string>
+    <string name="introductory_rate">Ulazna nakanada</string>
+    <string name="valid_until">Vrijedi do</string>
+    <string name="minimum_balance">Minimalno stanje</string>
+    <string name="date">Datum</string>
+    <string name="make">Godište</string>
+    <string name="vehicle_make">Godište</string>
+    <string name="year">Godina</string>
+    <string name="model">Model</string>
+    <string name="vehicle_model">Model vozila</string>
+    <string name="vehicle_identification_number">Broj šasije (VIN)</string>
+    <string name="vin">VIN</string>
+    <string name="purchase_location">Mjesto kupnje</string>
+    <string name="location">Mjesto</string>
+    <string name="warranty_information">Garancija</string>
+    <string name="type_details_about_warranty_information">Detalji o garanciji</string>
+    <string name="warranty_expiration_date">Istek garancije</string>
+    <string name="manufacturer_web_address">Web proizvođača</string>
+    <string name="property_address">Adresa posjeda</string>
+    <string name="closed">Zatvoreno</string>
+    <string name="reopened">Ponovo otvoreno</string>
+    <string name="reopen_canceled">Ponovo otvaranje otkazano</string>
+    <string name="no_financial_institution_assigned">Nema pridjeljenih financijskih institucija</string>
+    <string name="maximum_100">Maximalno 100%</string>
+    <string name="must_be_less_than_interest_rate">Mora biti &lt; kamata</string>
+    <string name="must_be_in_future">Mora biti u budućnosti</string>
+    <string name="must_be_in_past">Mora biti u prošlosti</string>
+    <string name="invalid_year">Neispravna godina</string>
+    <string name="invalid_vin_number">Mora biti 17 znakova</string>
+    <string name="invalid_url">Neispravan URL</string>
+    <string name="opening_balance_warning_message">Ovaj račun ima usklađene transakcije.\n\nMijenjanje početnog stanja će rezultirati razliku između financijske institucije</string>
+    <string name="no_exchange_rate_warning_message_format">Nema upisanog tečaja između ^1 i ^2, što će rezultirati neispravnim stanem knjižice</string>
+    <string name="would_you_like_to_give_one_after_saving">Želite li upisati tečaj nakon snianja</string>
+    <string name="net_worth">Ukupno ostalo</string>
+<!-- New --> <string name="net">Net</string>
+    <string name="set_total_to_show">Postavi ukupno stanje za prikaz</string>
+	<string name="total_to_show">Ukupno stanje</string>
+    <string name="selected_total">Označeno stanje</string>
+	<string name="entered_total">Uneseno stanje</string>
+	<string name="balance_as_of_today">Stanje danas</string>
+	<string name="cleared_total">Ukupno odobreno</string>
+	<string name="reconciled_total">Usklađeno stanje</string>
+    <string name="default_cash_account_name">Cash / Gotovina</string>
+    <string name="default_checking_account_name">Tekući račun</string>
+    <string name="default_savings_account_name">Štednja</string>
+    <string name="default_credit_account_name">Kreditna kartica</string>
+    <string name="color">Boja</string>
+<!-- New --> <string name="projected_balance">Projected</string>
+    <string name="projected_balance_at_the_end_of_the_month">Krajnja suma na kraju mjeseca</string>
+<!-- New --> <string name="at_months_end">Am Monatsende</string>
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">Suma na ^1</string>
+	<string name="total_for_format">Suma za ^1</string>
+<!-- New --> <string name="total_for_month">Total for month</string>
+<!-- New --> <string name="period">Period</string>
+<!-- New --> <string name="total_for_period">Total for period</string>
+	<string name="total_for_unassigned">Suma nepridjeljenog</string>
+	<string name="make_account_budget_question_part1">Želite li staviti ovaj račun u buđet</string>
+	<string name="make_account_budget_question_part2_format">Iako stisnte ^1, možete dodati kasnije kod uređivanja računa</string>
+	<string name="show_option_format">Prikaži ^1 opciju</string>
+
+    <string name="no_accounts_yet">Nema računa</string>
+	<string-array name="account_count_format_plurals">
+        <item>1 račun</item>
+        <item>^1 računa</item>
+    </string-array>
+
+	<string-array name="pending_count_plurals">
+        <item>^1 nova transakcija</item>
+        <item>^1 nove transakcije</item>
+    </string-array>
+
+	<string-array name="account_group_labels">
+		<item>Bankovni račun</item>
+		<item>Gotovina</item>
+		<item>Kreditna kartica</item>
+		<item>Investicijski račun</item>
+		<!-- <item>Loans and liabilities</item> -->
+		<item>Ostala pasiva (štednja)</item>
+		<item>Ostala aktiva (kredit)</item>
+	</string-array>
+
+	<string-array name="total_for_account_group_labels">
+		<item>Ukupno za bankovne račune</item>
+		<item>Ukupno za gotovinu</item>
+		<item>Ukupno za kreditne kartice</item>
+		<item>Ukupo investicija</item>
+		<!-- <item>Total for loans and liabilities</item> -->
+		<item>Ukupno pasiva (štednja)</item>
+		<item>Ukupno aktiva (kredit)</item>
+	</string-array>
+
+	<string-array name="opening_balance_new_labels">
+	    <item>Stanje računa</item>
+		<item>Kupovna cijena</item>
+		<item>Dug računa</item>
+		<item>Dug kartice</item>
+	</string-array>
+
+<!-- New --> <string name="opening">Opening</string>
+	<string-array name="opening_balance_edit_labels">
+	    <item>Stanje otvaranja</item>
+		<item>Kupovna vrijednost</item>
+		<item>Početna vrijednost duga računa</item>
+		<item>Početna vrijednost duga kartice</item>
+	</string-array>
+
+	<string-array name="account_type_names">
+	    <item>Banka</item>
+		<item>Gotovina / Ostali</item>
+		<item>Debitna kartica / Charge card</item>
+		<item>Kreditna linija</item>
+		<item>Kredit</item>
+<!-- 		<item>Druga pasiva</item> Loan Loans -->
+		<item>Ostala pasiva</item>
+		<item>Imovina</item>
+		<item>Vozilo</item>
+		<item>Ostala aktiva</item>
+		<item>Investicijski račun</item>
+	</string-array>
+
+	<string-array name="default_account_names">
+	    <item>Banka</item>
+		<item>Gotovina</item>
+		<item>Kreditna kartica</item>
+		<item>Kreditna linija</item>
+		<item>Kredit</item>
+		<item>@string/liability</item>
+		<item>Imovina</item>
+		<item>Vozilo</item>
+		<item>@string/asset</item>
+		<item>Investicija</item>
+	</string-array>
+
+    <string name="show_account_numbers">Prikaži brojeve računa</string>
+    <string name="show_account_numbers_description">Prikaži brojeve računa ispod imena, ako ga ima</string>
+
+    <string name="use_abbreviations">Koristi kratice</string>
+    <string name="use_abbreviations_description">Prikaži kratice računa umjesto imena</string>
+
+    <string name="show_group_totals">Prikaži grupnu sumu</string>
+    <string name="show_group_totals_description">Prikaži sumu za svaku grupu</string>
+
+	<string-array name="account_list_status_filter_title_bar">
+		<item>@string/all_accounts</item>
+		<item>@string/open_accounts</item>
+		<item>@string/favorite_accounts</item>
+	</string-array>
+
+	<string-array name="account_list_sort_order_title_bar">
+		<item>@string/type</item>
+		<item/> <!-- Intentionally left empty -->
+		<item>@string/name</item>
+		<item>@string/financial_institution</item>
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+
+    <string name="all_transactions">Sve transakcije</string>
+    <string-array name="transaction_list_filter_title_bar">
+		<item>@string/all_transactions</item>
+		<item>@string/unreconciled2</item>
+		<item>@string/reconciled2</item>
+		<item>@string/cleared2</item>
+		<item>@string/pending2</item>
+		<item>@string/follow_up2</item>
+ 		<item>@string/not_exported_transaction2</item>
+	</string-array>
+
+    <string name="display_order">Redoslijed prikaza</string>
+    <string name="entry_date">Datum unosa</string>
+	<string-array name="transaction_list_sort_order_title_bar">
+		<item>datum</item>
+		<item>broj</item>
+		<item>platitelj</item>
+		<item>iznos</item>
+		<item>kategorija</item>
+		<item>@string/entry_date</item>
+		<item/> <!-- Not unused -->
+		<item/> <!-- Not unused -->
+		<item>@string/account</item>
+	</string-array>
+
+    <string name="date_range">Raspon datuma</string>
+	<string-array name="transaction_list_date_range_title_bar">
+   		<item>svi datumi</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>zadnjih 30 dana</item>
+		<item>zadnja 3 mjeseca</item>
+		<item>zadnjih 6 mjeseci</item>
+		<item>zadnjih 12 mjeseci</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+
+    <string name="display_grouping">Prikaz grupiranja</string>
+</resources>

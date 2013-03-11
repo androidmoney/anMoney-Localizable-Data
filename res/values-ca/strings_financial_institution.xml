@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="financial_institution">Institució financera</string>
+    <string name="financial_institutions">Institucions financeres</string>
+    <string name="financial_institution_bank_first">Institució financera amb comptes bancaris en primer lloc</string>
+    <string name="financial_institution_cash_first">Institució financera amb efectiu en primer lloc</string>
+    <string name="view_financial_institution">Mostrar institució financera</string>
+    <string name="edit_financial_institution">Editar institució financera</string>
+    <string name="call_financial_institution">Trucar a la institució financera</string>
+    <string name="new_financial_institution">Nova institució financera</string>
+    <string name="delete_financial_institution">Esborrar institució financera</string>
+    <string name="delete_financial_institution_warning_format">La institució financera ^1 serà esborrada de forma permanent i treta de tots els comptes</string>
+    <string name="add_financial_institution_as_a_contact">Afegir inst. fin. com a contacte</string>
+    <string name="financial_institution_exists">Ja existeix una institució financera amb aquest nom</string>
+    <string name="no_financial_institutions">No teniu institucions financeres</string>
+    <string name="create_financial_institution_instructions_format">Per a crear una institució financera, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->
+    <string name="view_financial_institutions">Mostrar institucions financeres</string>
+    <string name="financial_institution_name">Nom de la institució financera</string>
+    <string name="contact_exists">Ja existeix un contacte amb aquest nom</string>
+    <string name="link_financial_institution">Vol enllaçar aquesta institució financera al contacte ja existent</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    
+    <string name="no_financial_institutions_yet">Cap institució financera encara</string>
+	<string-array name="financial_institution_count_format_plurals">
+        <item>1 institució financera</item>
+        <item>^1 institucions financeres</item>
+    </string-array>
+</resources>

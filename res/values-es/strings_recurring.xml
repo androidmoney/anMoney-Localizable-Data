@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="estimated_indicator">~</string>
+    <string name="recurring_bills_and_deposits">Facturas recurrentes &amp; depósitos</string>
+
+    <string name="recurring_bills_and_deposits_by_direction_order_format">Recurrentes por ^2 en orden ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="view_recurring">Ver recurrencias</string>
+	<string name="new_recurring">Nueva recurrencia</string>
+	<string name="enter">Registrar</string>
+	<string name="entered">Registrado</string>
+	<string name="enter_canceled">Registro cancelado</string>
+	<string name="enter_into_register">Introduce en el registro</string>
+	<string name="enter_into_register_warning">Por favor, confirma que deseas introducir en el registro en este momento</string>
+	<string name="enter_now">Registre ahora</string>
+	<string name="enter_after_editing">Registre después de editar</string>
+	<string name="enter_partially_after_editing">Registre parcialmente después de editar</string>
+	<string name="move_to_next_occurrence">Mover a la siguiente ocurrencia</string>
+	<string name="remain_on_this_occurrence_format">Permanezca en esta ocurrencia, si la cantidad registrada es menor que ^1</string>	    	    	
+	<string name="edit_recurring">Editar recurrencia</string>
+	<string name="edit_series">Editar la serie</string>
+	<string name="edit_occurrence">Editar ocurrencia</string>
+	<string name="entire_series">Serie completa</string>
+	<string name="edit_template_warning">Hay ocurrencias futuras personalizadas.\n\nEditar de la serie eliminará estas personalizaciones</string>
+	<string name="delete_recurring">Eliminar recurrencia</string>
+	<string name="delete_recurring_warning_part1_format">Eliminar ^1</string>
+	<string name="delete_recurring_warning_part2">Todas las ocurrencias futuras serán eliminadas</string>
+<!-- Verify -->	<string name="change_recurring_amount_format">Cambiar el valor recurrente de ^1 para ^2</string>
+	<string name="skip">Saltar</string>
+	<string name="skip_occurrence">Saltar ocurrencia</string>
+	<string name="skipped">Saltado</string>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item/> <!-- Not used -->
+		<item>^1 ocurrencia saltada</item>
+	</string-array>
+	<string name="skip_canceled">Salto cancelado</string>
+	<string name="skip_which">Saltar que</string>
+	<string name="skip_one_occurrence_warning">Saltar la próxima ocurrencia</string>
+	<string name="no_recurrings_format">No tienes cuentas o depósitos recurrentes.\n\nPara crear:\n\n<li>^1</li>\n\n<li>Toca prolongado en cualquier transacción y pulsa ^2</li></string>
+    <string name="create_recurring_instructions_format">Pulsa el ^i botón en la parte inferior de la pantalla</string>
+	<string name="recurring_no_accounts_yet">Por favor, crear las cuentas y los beneficiarios antes de añadir partidas recurrentes</string>
+	<string name="specify_account">Por favor, especifica primero la cuenta</string>
+	<string name="account_and_amount">Cuenta &amp; Valor</string>
+	<string name="payee_and_category">Beneficiario &amp; Categoría</string>
+	<string name="auto_enter_and_reminder">Registro Automatico &amp; Notificación</string>
+	<string name="pay_by_check">Yo pago este con cheque</string>
+	<string name="amount_is">Valor es</string>
+	<string name="fixed">Fijo</string>
+	<string name="estimated">Estimado</string>
+	<string name="estimated_amount_format">^1^2</string>
+	<string name="upcoming">Próximos</string>
+	<string name="no_upcoming">No hay facturas y depósitos próximos</string>
+	<string name="no_upcoming_bills">No hay facturas próximos</string>
+	<string name="no_upcoming_deposits">No hay depósitos próximos</string>
+	<string name="enter_automatically">Introducir automáticamente en el registro</string>
+	<string name="notify_me">Notifiqueme</string>
+	<string name="cannot_auto_enter">Debido a las posibles fluctuaciones del tipo de cambio, las cuentas o depósitos recurrentes que incluyen transferencias entre cuentas en diferentes monedas no se introducirán en el registro de forma automática.\n\nTendrás que introducir manualmente esta operación y especificar el tipo de cambio vigente en ese momento</string>
+	<string name="entered_recurring_bill">Cuenta recurrente registrada</string>
+	<string name="entered_recurring_deposit">Depósito recurrente registrado</string>
+	<string name="notify_me_when_entered">Notificame en la barra de notificación al registrar</string>
+	<string name="the_last_day_of_the_month">El último día del mes</string>
+	<string name="include_in_budget">Incluir en el presupuesto</string>
+	<string name="include_recurrings">Incluir elementos recurrentes</string>
+	<string name="make_recurring_budget_question_part1">Te gustaría hacer esta serie como parte de su presupuesto</string>
+	<string name="make_recurring_budget_question_part2_format">Aún si toca ^1, usted puede hacer esto más tarde mediante la edición de la serie</string>
+			
+	<!-- These three below form a sentence -->
+	<string name="based_part1">Con base en</string>
+	<string name="based_part2_singular">occurrencia anterior</string>
+	<string-array name="based_part2_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 occurrencias anteriores</item>
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string name="end_date_if_any">Fecha de finalización incluida, si hay</string>
+	<string name="invalid_date">Fecha inválida</string>
+	<string name="repeat">Repetir</string>
+	<string name="every_1">Cada</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<string name="never">Nunca</string>
+	<string name="day_upper">Día</string>
+	<string name="day_lower">día</string>
+	<string name="days_upper">Días</string>
+	<string name="daily">Diariamente</string>
+	<string name="week_upper">Semana</string>
+	<string name="weeks_upper">Semanas</string>
+	<string name="weekly">Semanal</string>
+
+	
+	<string name="month_upper">Mes</string>
+	<string name="month_lower">mes</string>
+	<string name="months_upper">Meses</string>
+	<string name="monthly">Mensual</string>
+	<string name="twice_a_month">Dos veces al mes</string>
+	<string name="quarters_upper">Trimestres</string>
+<!-- Verify --> <string name="half_year">Semestre</string>
+<!-- Verify --> <string name="half_yearly">Semestralmente</string>
+	<string name="year_upper">Año</string>
+	<string name="year_lower">año</string>
+	<string name="years_upper">Años</string>
+	<string name="yearly">Anual</string>
+	<string-array name="day_plurals">
+		<item>@string/day_lower</item>
+		<item>días</item>
+	</string-array>
+	<string-array name="week_plurals">
+		<item>semana</item>
+		<item>semanas</item>
+	</string-array>
+	<string-array name="month_plurals">
+		<item>@string/month_lower</item>
+		<item>meses</item>
+	</string-array>
+	<string-array name="year_plurals">
+		<item>@string/year_lower</item>
+		<item>años</item>
+	</string-array>
+	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
+	<string name="if_it_falls_on_a_weekend">Si la fecha cae en el fin de semana</string>
+	<string name="skip_weekends">Saltar fines de semana</string>
+
+	<string name="no_recurrings_yet">No hay facturas o depósitos recurrentes todavía</string>
+	<string-array name="recurrings_count_format_plurals">
+		<item>1 factura o depósito recurrente</item>
+		<item>^1 facturas o depósitos recurrentes</item>
+	</string-array>
+	
+	<string name="overdue_count_format">^1/^2</string>
+	<string name="overdue_format">^1 atrasado</string>
+	<string-array name="overdue_count_plurals">
+		<item>^1 factura o depósito vencida/o</item>
+		<item>^1 facturas o depósitos vencidas/os</item>
+	</string-array>
+
+	<string-array name="enter_into_register_fixed_amount_items">
+		<item>@string/enter_now</item>
+		<item>Editar la transacción primero</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">Utiliza la fecha de hoy para la fecha de la transacción</string>
+
+	<string-array name="skip_which_items">
+		<item>Próxima ocurrencia</item>
+		<item>Todas las ocurrencias atrasadas</item>
+	</string-array>
+
+	<string-array name="workday_adjustment_methods">
+		<item>No hacer nada</item>
+		<item>Mover al día de la semana anterior</item>
+		<item>Mover al día de la próxima semana</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>En el 1º</item>
+		<item>En el 2º</item>
+		<item>En el 3º</item>
+		<item>En el 4º</item>
+		<item>En el 5º</item>
+		<item>En el 6º</item>
+		<item>En el 7º</item>
+		<item>En el 8º</item>
+		<item>En el 9º</item>
+		<item>En el 10º</item>
+		<item>En el 11º</item>
+		<item>En el 12º</item>
+		<item>En el 13º</item>
+		<item>En el 14º</item>
+		<item>En el 15º</item>
+		<item>En el 16º</item>
+		<item>En el 17º</item>
+		<item>En el 18º</item>
+		<item>En el 19º</item>
+		<item>En el 20º</item>
+		<item>En el 21º</item>
+		<item>En el 22º</item>
+		<item>En el 23º</item>
+		<item>En el 24º</item>
+		<item>En el 25º</item>
+		<item>En el 26º</item>
+		<item>En el 27º</item>
+		<item>En el 28º</item>
+		<item>En el 29º</item>
+		<item>En el 30º</item>
+		<item>En el 31º</item>
+	</string-array>
+
+<!-- 	
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>Al 1º</item>
+		<item>Al 2</item>
+		<item>Al 3</item>
+		<item>Al 4</item>
+		<item>Al 5</item>
+		<item>Al 6</item>
+		<item>Al 7</item>
+		<item>Al 8</item>
+		<item>Al 9</item>
+		<item>Al 10</item>
+		<item>Al 11</item>
+		<item>Al 12</item>
+		<item>Al 13</item>
+		<item>Al 14</item>
+		<item>Al 15</item>
+		<item>Al 16</item>
+		<item>Al 17</item>
+		<item>Al 18</item>
+		<item>Al 19</item>
+		<item>Al 20</item>
+		<item>Al 21</item>
+		<item>Al 22</item>
+		<item>Al 23</item>
+		<item>Al 24</item>
+		<item>Al 25</item>
+		<item>Al 26</item>
+		<item>Al 27</item>
+		<item>Al 28</item>
+		<item>Al 29</item>
+		<item>Al 30</item>
+		<item>Al 31</item>
+	</string-array>
+ -->	
+	
+	<string-array name="on_the_nth_day_of_the_month_and_on_the">
+		<item>En el 1º y en el</item>
+		<item>En el 2º y en el</item>
+		<item>En el 3º y en el</item>
+		<item>En el 4º y en el</item>
+		<item>En el 5º y en el</item>
+		<item>En el 6º y en el</item>
+		<item>En el 7º y en el</item>
+		<item>En el 8º y en el</item>
+		<item>En el 9º y en el</item>
+		<item>En el 10º y en el</item>
+		<item>En el 11º y en el</item>
+		<item>En el 12º y en el</item>
+		<item>En el 13º y en el</item>
+		<item>En el 14º y en el</item>
+		<item>En el 15º y en el</item>
+		<item>En el 16º y en el</item>
+		<item>En el 17º y en el</item>
+		<item>En el 18º y en el</item>
+		<item>En el 19º y en el</item>
+		<item>En el 20º y en el</item>
+		<item>En el 21º y en el</item>
+		<item>En el 22º y en el</item>
+		<item>En el 23º y en el</item>
+		<item>En el 24º y en el</item>
+		<item>En el 25º y en el</item>
+		<item>En el 26º y en el</item>
+		<item>En el 27º y en el</item>
+		<item>En el 28º y en el</item>
+		<item>En el 29º y en el</item>
+		<item>En el 30º y en el</item>
+		<item>En el 31º y en el</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_month">En el último día del mes</string>
+	<string-array name="on_the_nth_day_of_the_week_format">
+		<item>En el primero ^1</item>
+		<item>En el segundo ^1</item>
+		<item>En el tercer ^1</item>
+		<item>En el cuarto ^1</item>
+	</string-array>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	<string name="on_the_last_day_of_the_week_format">En el último ^1</string>
+
+	<string name="work_week">Semana de trabajo</string>
+	<string name="period_end_day_of_the_month">Período día final del mes</string>
+	<string name="fiscal_year">Año fiscal</string>
+	
+	<string name="time_of_reminder">Tiempo de notificación</string>
+	<string name="reminder_hour_of_day_change_warning">Ten en cuenta que las notificaciones existentes, si hay, <b>no</b> serán modificadas. Para hacer esto, por favor ve a la agenda en tu dispositivo y modifica los avisos desde allí.\n\nEl nuevo horario se utilizará para las nuevas notificaciones, así como las instancias existentes de próximas facturas o depósitos recurrentes</string>
+
+	<string-array name="auto_enter_days_before">
+		<item>No registrar de forma automática</item>
+		<item>En la fecha de vencimiento</item>
+		<item>El día anterior a su vencimiento</item>
+		<item>Dos días antes de su vencimiento</item>
+		<item>Tres días antes de su vencimiento</item>
+		<item>Una semana antes de su vencimiento</item>
+		<item>Dos semanas antes de su vencimiento</item>
+		<item>Tres semanas antes de su vencimiento</item>
+		<item>Un mes antes de su vencimiento</item>
+	</string-array>	
+	
+	<string-array name="days_before_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 días antes</item>
+	</string-array>
+	
+	<string-array name="days_before_due_date_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 días antes de su vencimiento</item>
+	</string-array>
+	
+	<string name="specify_custom_number_of_days">Especifique el número exato de días</string>
+</resources>
