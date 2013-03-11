@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="FilePicker_open_folder">Otevřít složku</string>
-	<string name="FilePicker_select_file">Vyberat soubor</string>
+	<string name="FilePicker_select_file">Vybrat soubor</string>
 	<string name="FilePicker_deselect_file">Odznačit soubor</string>
 	<string name="FilePicker_delete_file">Smazat soubor</string>
 	<string name="FilePicker_go_to_parent_folder">Nadřazená složka</string>
