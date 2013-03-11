@@ -269,12 +269,6 @@
         <item>Foi feito o backup de ^1 livros</item>
     </string-array>
 
-	<string name="backed_up_book_file_system_format">Foi feito o backup de ^1 para o arquivo de sistema</string>
-   	<string-array name="backed_up_books_file_system_format_plurals">
-        <item/> <!-- Not used -->
-        <item>Foi feito o backup de ^1 livros para o arquivo de sistema</item>
-    </string-array>
-
 	<string-array name="book_exported_format_plurals">
         <item>Uma transação foi exportada</item>
         <item>^1 transações foram exportadas</item>

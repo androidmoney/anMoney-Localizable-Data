@@ -268,12 +268,6 @@
     </string-array>
 
 
-    <string name="backed_up_book_file_system_format">^1 a fájlrendszerre el lett mentve</string>
-   	<string-array name="backed_up_books_file_system_format_plurals">
-        <item>^1 könyvet elmentett a fájlrendszerre</item>
-    </string-array>
-
-	
 	<string-array name="book_exported_format_plurals">
         <item>Exportált ^1 tranzakciót</item>
     </string-array>

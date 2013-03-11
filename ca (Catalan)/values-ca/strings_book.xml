@@ -264,7 +264,7 @@
     <string name="auto_backup_notify_description">Quan està seleccionat, es mostrarà una notificació després de l’operació de còpia de seguretat</string>
     
 	<string name="backed_up_book_format">Còpia de segurat del llibre ^1</string>
-    <string-array name="backed_up_books_ormat_plurals">
+    <string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
         <item>S’han creat còpies de seguretat de ^1 llibres</item>
     </string-array>
