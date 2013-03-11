@@ -253,7 +253,7 @@
     <string name="all_transactions">Všechny transakce</string>
 	<string-array name="transaction_list_filter_title_bar">
     	<item>@string/all_transactions</item>
-		<item>@string/unreconciled2</item>
+		<item>Neodsouhlasené</item>
 		<item>@string/reconciled2</item>
 		<item>@string/cleared2</item>
 		<item>@string/pending2</item>
