@@ -23,7 +23,7 @@
 <!-- New --> <string name="adjust_balance">Adjust il saldo</string>
 <!-- New --> <string name="balance_adjusted">Saldo aggiustato</string>
 <!-- New --> <string name="balance_adjustment_note">Aggiustamento</string>
-<!-- New --> <string name="category_for_adjustment_transaction">Category for adjustment transaction</string>
+<!-- New --> <string name="category_for_adjustment_transaction">Categoria per le transazioni di aggiustamento</string>
 	<string name="postpone">Rinvia</string>
     <string name="balance_verb">Bilancio</string>
     <string name="balance_account">Bilancio conto</string>
@@ -192,10 +192,10 @@
 	</string-array>
 
 <!-- New --> <string-array name="current_balance_edit_labels">
-	    <item>Current balance</item>
-		<item>Current value</item>
-		<item>Amount owed on this account currently</item>
-		<item>Amount owed on this card currently</item>
+	    <item>Bilancio attuale</item>
+		<item>Valore attuale</item>
+		<item>Quantità attualmente posseduta su questo conto</item>
+		<item>Quantità attualmente posseduta su questa carta</item>
 	</string-array>
 	
 	<string-array name="account_type_names">
@@ -217,7 +217,7 @@
 		<item>Contante</item>
 		<item>Carta di credito</item>
 		<item>Linea di credito</item>
-		<item>Loan</item>
+		<item>Prestito</item>
 		<item>@string/liability</item>
 		<item>Proprietà</item>
 		<item>Mezzo</item>
@@ -275,17 +275,17 @@
 
     <string name="date_range">Range delle date</string>
 	<string name="current_month">Mese corrente</string>
-	<string name="previous_month">Scorso mese</string>
-<!-- New --> <string name="next_month">Prossimo mese</string>
-	<string name="current_year">Corrente anno</string>
-<!-- New --> <string name="current_half_year">Corrente semestre</string>
-<!-- New --> <string name="previous_half_year">Scorso semestre</string>
-<!-- New --> <string name="next_half_year">Prossimo semestre</string>
-	<string name="previous_year">Scorso anno</string>
-<!-- New --> <string name="next_year">Prossimo anno</string>
-<!-- New --> <string name="current_week">Corrente settimana</string>
-<!-- New --> <string name="previous_week">Scorsa settimana</string>
-<!-- New --> <string name="next_week">Prossima settimana</string>
+	<string name="previous_month">Mese prededente</string>
+<!-- New --> <string name="next_month">Mese prossimo</string>
+	<string name="current_year">Anno corrente</string>
+<!-- New --> <string name="current_half_year">Semestre corrente</string>
+<!-- New --> <string name="previous_half_year">Semestre prededente</string>
+<!-- New --> <string name="next_half_year">Semestre prossimo</string>
+	<string name="previous_year">Anno prededente</string>
+<!-- New --> <string name="next_year">Anno prossimo</string>
+<!-- New --> <string name="current_week">Settimana corrente</string>
+<!-- New --> <string name="previous_week">Settimana prededente</string>
+<!-- New --> <string name="next_week">Settimana prossima</string>
 
 
 
