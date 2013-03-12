@@ -24,7 +24,7 @@
 	<string name="delete_recurring">Elimina ricorrenza</string>
 	<string name="delete_recurring_warning_part1_format">Elimina ^1</string>
 	<string name="delete_recurring_warning_part2">Tutte le future occorrenze saranno eliminate</string>
-<!-- New --> <string name="change_recurring_amount_format">Change the recurring amount from ^1 to ^2</string>
+<!-- New --> <string name="change_recurring_amount_format">Cambia l'importo ricorrente da ^1 a ^2</string>
 	<string name="skip">Salta</string>
 	<string name="skip_occurrence">Salta occorrenza</string>
 	<string name="skipped">Saltata</string>
@@ -60,8 +60,8 @@
 	<string name="the_last_day_of_the_month">L’ultimo giorno delmese</string>
 	<string name="include_in_budget">Includi nel budget</string>
 <!-- New --> <string name="include_recurrings">Includi voci ricorrenti</string> <!-- as in "Include recurring items on report" -->
-<!-- New  --> <string name="make_recurring_budget_question_part1">Would you like to make this series part of your budget</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
-<!-- New  --> <string name="make_recurring_budget_question_part2_format">Even if you tap ^1, you can do this later by editing the series</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+<!-- New  --> <string name="make_recurring_budget_question_part1">Vuoi rendere questa serie parte del tuo badget?</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+<!-- New  --> <string name="make_recurring_budget_question_part2_format">Anche se tappi ^1, puoi farlo dopo modificando la serie</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 		
 	<!-- These three below form a sentence -->
 	<string name="based_part1">Basato</string>
@@ -108,7 +108,7 @@
 	<string name="months_upper">Mesi</string>
 	<string name="monthly">Mensilmente</string>
 	<string name="twice_a_month">2 volte al mese</string>
-	<string name="quarters_upper">Quarters</string>
+	<string name="quarters_upper">Trimestre</string>
 <!-- New --> <string name="half_year">Semestre</string>
 <!-- New --> <string name="half_yearly">Semestralmente</string>
 	<string name="year_upper">Anno</string>
@@ -209,7 +209,7 @@
 		<item>Al 7<sup><small>imo</small></sup> ed al</item>
 		<item>Al 8<sup><small>avo</small></sup> ed al</item>
 		<item>Al 9<sup><small>no</small></sup> ed al</item>
-		<item>Al 10<sup><small>th</small></sup> ed al</item>
+		<item>Al 10<sup><small>imo</small></sup> ed al</item>
 		<item>Al 11<sup><small>imo</small></sup> ed al</item>
 		<item>Al 12<sup><small>imo</small></sup> ed al</item>
 		<item>Al 13<sup><small>imo</small></sup> ed al</item>
