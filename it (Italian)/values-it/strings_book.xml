@@ -116,7 +116,7 @@
     <string name="email_the_developers">Spedisci email direttamente allo sviluppatore</string>
     <string name="tap_to_display_import_settings_format">Tocca ^1 visualizza la schermata per importare le impostazioni</string>
     <string name="verify_import_settings">Si prega di verificare che le impostazioni di default scelte siano, di fatto, corrette per il file da importare. Se tutto sembra a posto, premere il tasto <b>Indietro</b> per continuare con il processo di importazione</string>
-<!-- New --> <string name="change_settings_instructions_format">This message will not appear for subsequent imports, but you can change the settings at any time by tapping ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
+<!-- New --> <string name="change_settings_instructions_format">Questo messaggio non apparirà per le prossime importazioni, ma tu puoi cambiare questa impostazione tappando ^i in alto sullo schermo</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">Le seguenti impostazioni sembrano non essere corrette per il file che si sta tentando di importare</string>
     <string name="qif_csv_encoding_explanation_format">Tipicamente ^1 deve essere utilizzato per le lingue listate qui sotto, ma alcune istituzioni finanziarie potrebbero riprodurre file dove ^2 è necessario per consentire loro di importare correttamente le informazioni.\n\nPer tutte le altre lingue che non sono nella lista, ^2 dovrebbe sempre essere selezionato</string>
     <string name="credits_legal">Crediti &amp; legale</string>
@@ -127,7 +127,7 @@
     <string name="haptic_feedback">Feedback aptico</string>
     <string name="haptic_feedback_description">Se selezionato, vibra quando si toccano i tasti</string>
 	<string name="default_book_name">Il mio libretto</string>
-<!-- New --> <string name="color_theme">Colour theme</string>
+<!-- New --> <string name="color_theme">Stile</string>
 <!-- New --> <string name="dark">Scuro</string>  <!-- As in "dark color theme" -->
 <!-- New --> <string name="light">Chiaro</string> <!-- As in "opposite of dark" -->
 <!-- New --> <string name="preview">Anteprima</string>
@@ -253,8 +253,8 @@
     
     <string name="backup_folder">Backup cartella</string>
     
-<!-- New --> <string name="date_in_file_name">Date in file name</string>
-<!-- New --> <string name="date_in_file_name_description">If selected, today’s date will be appended to the file name when sending</string>
+<!-- New --> <string name="date_in_file_name">Con la data nel nome del file</string>
+<!-- New --> <string name="date_in_file_name_description">Se selezionato,quando il file viene inviato viene accodata al nome del file la data odierna</string>
     
     <string name="automatic_backup">Backup automatico</string>
     <string name="automatic_backup_description">Se selezionato, questo libretto verrà backuppato automaticamente</string>
@@ -292,19 +292,19 @@
         <item>@string/comma</item>
     </string-array>
 
-<!-- New --> <string name="csv_delimiter">CSV delimitatore</string>
+<!-- New --> <string name="csv_delimiter">Delimitatore CSV</string>
 	<string-array name="csv_delimiters">
 		<item>@string/comma</item>
 <!-- New --> <item>Punto e virgola</item>
     </string-array>
 
-    <string name="qif_csv_encoding">QIF/CSV codificando</string>
-    <string name="ofx_qfx_encoding">OFX/QFX codificando</string>
+    <string name="qif_csv_encoding">Codifica QIF/CSV</string>
+    <string name="ofx_qfx_encoding">Codifica OFX/QFX</string>
 	<string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
         <item>GBK (Cinese nazionale standard)</item>
-        <item>Cyrillico (Windows)</item>
+        <item>Cirillico (Windows)</item>
         <item>Europa occidentale (Windows)</item>
         <item>Europa centrale (Windows)</item>
     </string-array>
