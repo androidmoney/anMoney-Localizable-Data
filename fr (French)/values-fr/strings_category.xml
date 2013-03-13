@@ -83,7 +83,10 @@
 	<string name="spending_by_category0">Dépenses par catégorie</string>
 	<string name="spending_by_category1">Dépenses par catégorie ou ^1</string>
 	<string name="spending_by_category2">Dépenses par catégorie, ^1 ou ^2</string>
-
+	<string name="spending_by_category_over_time0">Dépenses par catégorie du temps</string>
+	<string name="spending_by_category_over_time1">Dépenses par catégorie ou ^1 du temps</string>
+	<string name="spending_by_category_over_time2">Dépenses par catégorie, ^1 ou ^2 du temps</string>
+	
 	<string name="no_categories">Pas de catégories</string>
 	<string name="no_categories_yet">Pas encore de catégories</string>
 	<string name="no_classes_yet">Pas encore de classes</string>

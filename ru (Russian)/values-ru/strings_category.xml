@@ -83,7 +83,10 @@
     <string name="spending_by_category0">Расходы по категориям</string>
     <string name="spending_by_category1">Расходы по категориям или ^1</string>
     <string name="spending_by_category2">Расходы по категориям, ^1 или ^2</string>
-
+	<string name="spending_by_category_over_time0">Расходы по категориям по периодам</string>
+	<string name="spending_by_category_over_time1">Расходы по категориям или ^1 по периодам</string>
+	<string name="spending_by_category_over_time2">Расходы по категориям, ^1 или ^2 по периодам</string>
+    
     <string name="no_categories">Нет категорий</string>
     <string name="no_categories_yet">Нет категорий</string>
     <string name="no_classes_yet">Нет классов</string>

@@ -80,10 +80,13 @@
     <string name="show_zero_balance_items">Mostrar elements amb saldo zero</string> <!-- "Items" refers to classification name -->
     <string name="recategorize_category">Tornar a categoritzar totes les transaccions amb aquesta categoria com a</string>
     <string name="recategorize_class">Tornar a categoritzar totes les transaccions amb aquesta classe com a</string>
-	<string name="spending_by_category0">Despeses per categoria</string>
-	<string name="spending_by_category1">Despeses per categoria o ^1</string>
-	<string name="spending_by_category2">Despeses per categoria, ^1 o ^2</string>
-    
+	<string name="spending_by_category0">Despeses per categoria</string> <!-- This is a report name -->
+	<string name="spending_by_category1">Despeses per categoria o ^1</string> <!-- This is a report name -->
+	<string name="spending_by_category2">Despeses per categoria, ^1 o ^2</string> <!-- This is a report name -->
+	<string name="spending_by_category_over_time0">Despeses per categoria del temps</string> <!-- This is a report name -->
+	<string name="spending_by_category_over_time1">Despeses per categoria o ^1 del temps</string> <!-- This is a report name -->
+	<string name="spending_by_category_over_time2">Despeses per categoria, ^1 o ^2 del temps</string> <!-- This is a report name -->
+	
     <string name="no_categories">Cap categoria</string>
 	<string name="no_categories_yet">Cap categoria encara</string>
     <string name="no_classes_yet">Cap classe encara</string>

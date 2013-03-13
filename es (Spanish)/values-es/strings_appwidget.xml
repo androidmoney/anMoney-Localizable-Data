@@ -20,5 +20,5 @@
 
 	<string name="app_name_report">anMoney — Reporte</string>
 
-<!-- New --> <string name="dash_clock_extension_description">Displays overdue bills or deposits, if any.</string>
+<!-- Verify --> <string name="dash_clock_extension_description">Muestra cuentas ó depósitos atrasados, si hay.</string>
 </resources>

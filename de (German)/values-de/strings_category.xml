@@ -83,7 +83,10 @@
 	<string name="spending_by_category0">Ausgaben nach Kategorie</string>
 	<string name="spending_by_category1">Ausgaben nach Kategorie oder ^1</string>
 	<string name="spending_by_category2">Ausgaben nach Kategorie, ^1 oder ^2</string>
-	
+	<string name="spending_by_category_over_time0">Ausgaben nach Kategorie über die gesamte Buchungsdauer</string>
+	<string name="spending_by_category_over_time1">Ausgaben nach Kategorie oder ^1 über die gesamte Buchungsdauer</string>
+	<string name="spending_by_category_over_time2">Ausgaben nach Kategorie, ^1 oder ^2 über die gesamte Buchungsdauer</string>
+		
 	<string name="no_categories">Keine Kategorien</string>
 	<string name="no_categories_yet">Bisher keine Kategorien</string>
 	<string name="no_classes_yet">Bisher keine Klassen</string>
