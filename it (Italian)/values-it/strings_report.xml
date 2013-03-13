@@ -68,7 +68,7 @@
 	<string name="amounts_on_charts">Mostra gli importi sui grafici</string>
 	<string name="percentages_on_pie_charts">Mostra percentuali sui grafici a torta</string>
 <!-- New --> <string name="create_settings_page">Creare pagina parametri</string>
-<!-- New --> <string name="create_settings_page_description">If selected, a page with the report settings will be created when sending or exporting a PDF document</string>
+<!-- New --> <string name="create_settings_page_description">Se selezionato, inviando o esportando un documento PDF verrà creata una pagina con i parametri del report</string>
 		
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>
