@@ -77,8 +77,8 @@
 	<string name="copy_to_clipboard">Copia negli appunti</string>
 	<string name="set">Imposta</string>
 	<string name="show">Mostra</string>
-<!-- New --> <string name="share">Spedisci</string>
-<!-- New --> <string name="share_canceled">Spedizione annullata</string>
+	<string name="share">Spedisci</string>
+	<string name="share_canceled">Spedizione annullata</string>
 	<string name="create_in_app_name_format">Crea in ^1</string>
 	<string name="pick_from_app_name_format">Scegli ^1</string>
 	<string name="do_not_ask_again">Non chiedere più</string>
@@ -145,7 +145,7 @@
 	<string name="only_in_full_version">Disponibile solo nella versione PRO</string>
     <string name="will_not_effect_transactions">Questo <b>non</b> non avrà effetto sulle nessuna transazione attuale</string>
     	    	
-<!-- New --> <string name="free_limitations">Compra la versione completa su<b>Google Play</b> o su <b>Amazon Appstore</b> per togliere le seguenti limitazioni:\n\n
+	<string name="free_limitations">Compra la versione completa su<b>Google Play</b> o su <b>Amazon Appstore</b> per togliere le seguenti limitazioni:\n\n
 	<li>No Sicurezza con password</li>\n
 	<li>No Auto backup dei dati</li>\n
 	<li>No Report personalizzati</li>\n

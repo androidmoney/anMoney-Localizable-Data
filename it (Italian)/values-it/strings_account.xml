@@ -19,11 +19,11 @@
     <string name="edit_account">Modifica conto</string>
     <string name="balance_noun">Saldo</string>
     <string name="balances_noun">Saldi</string>
-<!-- New --> <string name="adjust">Aggiusta</string>
-<!-- New --> <string name="adjust_balance">Adjust il saldo</string>
-<!-- New --> <string name="balance_adjusted">Saldo aggiustato</string>
-<!-- New --> <string name="balance_adjustment_note">Aggiustamento</string>
-<!-- New --> <string name="category_for_adjustment_transaction">Categoria per le transazioni di aggiustamento</string>
+	<string name="adjust">Aggiusta</string>
+	<string name="adjust_balance">Adjust il saldo</string>
+	<string name="balance_adjusted">Saldo aggiustato</string>
+	<string name="balance_adjustment_note">Aggiustamento</string>
+	<string name="category_for_adjustment_transaction">Categoria per le transazioni di aggiustamento</string>
 	<string name="postpone">Rinvia</string>
     <string name="balance_verb">Bilancio</string>
     <string name="balance_account">Bilancio conto</string>
@@ -66,7 +66,7 @@
 	<string name="delete_account_warning_part1_format">Conto ^1 saranno eliminati definitivamente.\n\nPoiché questo conto viene utilizzato nelle transazioni, tutte le transazioni correlate verranno cancellate</string>
 	<string name="delete_account_warning_part2_format">Per nascondere il conto, ma salvare la cronologia delle transazioni, premere ^1 altrimenti procedere alla chiusura del conto</string>
 	<string name="no_accounts">Non hai nessun conto</string>
-<!-- New --> <string name="create_account_instructions_format">Per creare un conto, toccare ^i nella parte superiore dello schermo</string>  <!-- ^i will be replaced by an icon -->
+	<string name="create_account_instructions_format">Per creare un conto, toccare ^i nella parte superiore dello schermo</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">Tu non hai fatto nessuna transazione per questo conto</string>
     <string name="account_type">Tipo conto</string>
     <string name="account_type_bank_first">Tipo conto con primi i conti bancari</string>
@@ -183,7 +183,7 @@
 		<item>Totale posseduto su questa carta</item>
 	</string-array>
 
-<!-- New --> <string name="opening">Apertura</string>
+	<string name="opening">Apertura</string>
 	<string-array name="opening_balance_edit_labels">
 	    <item>Bilancio di apertura</item>
 		<item>Prezzo iniziale di acquisto </item>
@@ -191,7 +191,7 @@
 		<item>Totale iniziale posseduto per questa carta</item>
 	</string-array>
 
-<!-- New --> <string-array name="current_balance_edit_labels">
+	 <string-array name="current_balance_edit_labels">
 	    <item>Bilancio attuale</item>
 		<item>Valore attuale</item>
 		<item>Quantità attualmente posseduta su questo conto</item>
@@ -276,16 +276,16 @@
     <string name="date_range">Range delle date</string>
 	<string name="current_month">Mese corrente</string>
 	<string name="previous_month">Mese prededente</string>
-<!-- New --> <string name="next_month">Mese prossimo</string>
+	<string name="next_month">Mese prossimo</string>
 	<string name="current_year">Anno corrente</string>
-<!-- New --> <string name="current_half_year">Semestre corrente</string>
-<!-- New --> <string name="previous_half_year">Semestre prededente</string>
-<!-- New --> <string name="next_half_year">Semestre prossimo</string>
+	<string name="current_half_year">Semestre corrente</string>
+	<string name="previous_half_year">Semestre prededente</string>
+	<string name="next_half_year">Semestre prossimo</string>
 	<string name="previous_year">Anno prededente</string>
-<!-- New --> <string name="next_year">Anno prossimo</string>
-<!-- New --> <string name="current_week">Settimana corrente</string>
-<!-- New --> <string name="previous_week">Settimana prededente</string>
-<!-- New --> <string name="next_week">Settimana prossima</string>
+	<string name="next_year">Anno prossimo</string>
+	<string name="current_week">Settimana corrente</string>
+	<string name="previous_week">Settimana prededente</string>
+	<string name="next_week">Settimana prossima</string>
 
 
 

@@ -8,8 +8,8 @@
     <string name="close_book">Chiudi libretto</string>
     <string name="rename_book">Rinomina libretto</string>
     <string name="delete_book">Elimina libretto</string>
-<!-- New --> <string name="share_book">Spedisci libretto</string>
-<!-- New --> <string name="preparing_to_share">Preparando alla spedizione</string>
+	<string name="share_book">Spedisci libretto</string>
+	<string name="preparing_to_share">Preparando alla spedizione</string>
     <string name="book_delete_warning_short_format">Libretto ^1 sarà eliminato</string>
     <string name="all_data_will_be_lost">Tutte le informazioni contenute in questo libretto saranno eliminate, se non fai un backup</string>
     <string name="import_into_book">Importa nel libretto</string>
@@ -17,7 +17,7 @@
     <string name="import_into_book_format">Importa nell’ libretto ^1</string>
     <string name="copying_book">Copiando il libretto</string>
     <string name="no_books">Tu non hai nessun libretto</string>
-<!-- New --> <string name="create_book_instructions_format">Per creare un libretto, toccare ^i nella parte superiore dello schermo</string> <!-- The ^i will be replaced by an image -->
+	<string name="create_book_instructions_format">Per creare un libretto, toccare ^i nella parte superiore dello schermo</string> <!-- The ^i will be replaced by an image -->
     <string name="book_list_favorites_empty">Nessun libretto preferito</string>
     <string name="creating_book">Sto creando un libretto</string>
     <string name="upgrading_book">Aggiornando libretto</string>
@@ -42,7 +42,7 @@
     <string name="select_files">Seleziona files</string>
     <string name="delete_file">Elimina file</string>
     <string name="delete_file_warning_format">File ^1 sarà eliminato</string>
-<!-- New --> <string-array name="delete_files_warning_format_plurals">
+	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 files selezionati saranno eliminate</item>
     </string-array>
@@ -116,7 +116,7 @@
     <string name="email_the_developers">Spedisci email direttamente allo sviluppatore</string>
     <string name="tap_to_display_import_settings_format">Tocca ^1 visualizza la schermata per importare le impostazioni</string>
     <string name="verify_import_settings">Si prega di verificare che le impostazioni di default scelte siano, di fatto, corrette per il file da importare. Se tutto sembra a posto, premere il tasto <b>Indietro</b> per continuare con il processo di importazione</string>
-<!-- New --> <string name="change_settings_instructions_format">Questo messaggio non apparirà per le prossime importazioni, ma tu puoi cambiare questa impostazione tappando ^i in alto sullo schermo</string> <!-- ^i will be replaced by an image -->
+	<string name="change_settings_instructions_format">Questo messaggio non apparirà per le prossime importazioni, ma tu puoi cambiare questa impostazione tappando ^i in alto sullo schermo</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">Le seguenti impostazioni sembrano non essere corrette per il file che si sta tentando di importare</string>
     <string name="qif_csv_encoding_explanation_format">Tipicamente ^1 deve essere utilizzato per le lingue listate qui sotto, ma alcune istituzioni finanziarie potrebbero riprodurre file dove ^2 è necessario per consentire loro di importare correttamente le informazioni.\n\nPer tutte le altre lingue che non sono nella lista, ^2 dovrebbe sempre essere selezionato</string>
     <string name="credits_legal">Crediti &amp; legale</string>
@@ -127,10 +127,10 @@
     <string name="haptic_feedback">Feedback aptico</string>
     <string name="haptic_feedback_description">Se selezionato, vibra quando si toccano i tasti</string>
 	<string name="default_book_name">Il mio libretto</string>
-<!-- New --> <string name="color_theme">Stile</string>
-<!-- New --> <string name="dark">Scuro</string>  <!-- As in "dark color theme" -->
-<!-- New --> <string name="light">Chiaro</string> <!-- As in "opposite of dark" -->
-<!-- New --> <string name="preview">Anteprima</string>
+	<string name="color_theme">Stile</string>
+	<string name="dark">Scuro</string>  <!-- As in "dark color theme" -->
+	<string name="light">Chiaro</string> <!-- As in "opposite of dark" -->
+	<string name="preview">Anteprima</string>
 	
 	<string-array name="book_new_source">
 	    <item>Crea da zero</item>
@@ -190,7 +190,7 @@
 	</string-array>
 	
     <string name="base_currency">Valuta di base</string>
-<!-- New --> <string name="space_between_symbol_and_amount">Uno spazio tra il simbolo e la quantità</string>
+	<string name="space_between_symbol_and_amount">Uno spazio tra il simbolo e la quantità</string>
     
     <string name="password_time_out_period">Periodo password time-out</string>
 	<string-array name="n_seconds_format_plurals">
@@ -253,8 +253,8 @@
     
     <string name="backup_folder">Backup cartella</string>
     
-<!-- New --> <string name="date_in_file_name">Con la data nel nome del file</string>
-<!-- New --> <string name="date_in_file_name_description">Se selezionato,quando il file viene inviato viene accodata al nome del file la data odierna</string>
+	<string name="date_in_file_name">Con la data nel nome del file</string>
+	<string name="date_in_file_name_description">Se selezionato,quando il file viene inviato viene accodata al nome del file la data odierna</string>
     
     <string name="automatic_backup">Backup automatico</string>
     <string name="automatic_backup_description">Se selezionato, questo libretto verrà backuppato automaticamente</string>
@@ -292,10 +292,10 @@
         <item>@string/comma</item>
     </string-array>
 
-<!-- New --> <string name="csv_delimiter">Delimitatore CSV</string>
+	<string name="csv_delimiter">Delimitatore CSV</string>
 	<string-array name="csv_delimiters">
 		<item>@string/comma</item>
-<!-- New --> <item>Punto e virgola</item>
+		<item>Punto e virgola</item>
     </string-array>
 
     <string name="qif_csv_encoding">Codifica QIF/CSV</string>

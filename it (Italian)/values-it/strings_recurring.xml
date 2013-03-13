@@ -19,12 +19,12 @@
 	<string name="edit_recurring">Modifica ricorrenza</string>
 	<string name="edit_series">Modifica serie</string>
 	<string name="edit_occurrence">Modifica occorrenza</string>
-	<string name="entire_series">L'intera serie</string>
+	<string name="entire_series">L’intera serie</string>
 	<string name="edit_template_warning">Ci sono future occorrenze personalizzate.\n\nModificando le serie queste personalizzazioni verranno cancellate</string>
 	<string name="delete_recurring">Elimina ricorrenza</string>
 	<string name="delete_recurring_warning_part1_format">Elimina ^1</string>
 	<string name="delete_recurring_warning_part2">Tutte le future occorrenze saranno eliminate</string>
-<!-- New --> <string name="change_recurring_amount_format">Cambia l'importo ricorrente da ^1 a ^2</string>
+	<string name="change_recurring_amount_format">Cambia l’importo ricorrente da ^1 a ^2</string>
 	<string name="skip">Salta</string>
 	<string name="skip_occurrence">Salta occorrenza</string>
 	<string name="skipped">Saltata</string>
@@ -36,7 +36,7 @@
 	<string name="skip_which">Salta quale</string>
 	<string name="skip_one_occurrence_warning">Salta la prossima occorrenza</string>
 	<string name="no_recurrings_format">Non hai nessun deposito o fattura ricorrente.\n\nPer crearne una:\n\n<li>^1</li>\n\n<li>Tieni premuto una qualsiasi transazione e premi ^2</li></string>
-<!-- New --> <string name="create_recurring_instructions_format">Toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an image -->
+	<string name="create_recurring_instructions_format">Toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Per cortesia crea dei conti e dei beneficiari prima di inserire ricorrenze</string>
 	<string name="specify_account">Si prega di specificare prima un conto</string>
 	<string name="account_and_amount">Conto &amp; Importo</string>
@@ -59,9 +59,9 @@
 	<string name="notify_me_when_entered">Notificami nella barra delle notifica quando inserito</string>
 	<string name="the_last_day_of_the_month">L’ultimo giorno delmese</string>
 	<string name="include_in_budget">Includi nel budget</string>
-<!-- New --> <string name="include_recurrings">Includi voci ricorrenti</string> <!-- as in "Include recurring items on report" -->
-<!-- New  --> <string name="make_recurring_budget_question_part1">Vuoi rendere questa serie parte del tuo badget?</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
-<!-- New  --> <string name="make_recurring_budget_question_part2_format">Anche se tappi ^1, puoi farlo dopo modificando la serie</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+	<string name="include_recurrings">Includi voci ricorrenti</string> <!-- as in "Include recurring items on report" -->
+	<string name="make_recurring_budget_question_part1">Vuoi rendere questa serie parte del tuo badget?</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part2_format">Anche se tappi ^1, puoi farlo dopo modificando la serie</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 		
 	<!-- These three below form a sentence -->
 	<string name="based_part1">Basato</string>
@@ -92,8 +92,8 @@
 	<string name="monthly">Mensilmente</string>
 	<string name="twice_a_month">2 volte al mese</string>
 	<string name="quarters_upper">Trimestre</string>
-<!-- New --> <string name="half_year">Semestre</string>
-<!-- New --> <string name="half_yearly">Semestralmente</string>
+	<string name="half_year">Semestre</string>
+	<string name="half_yearly">Semestralmente</string>
 	<string name="year_upper">Anno</string>
 	<string name="year_lower">anno</string>
 	<string name="years_upper">Anni</string>
