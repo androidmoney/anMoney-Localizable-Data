@@ -145,15 +145,15 @@
 	<string name="only_in_full_version">Disponibile solo nella versione PRO</string>
     <string name="will_not_effect_transactions">Questo <b>non</b> non avrà effetto sulle nessuna transazione attuale</string>
     	    	
-<!-- New --> <string name="free_limitations">Purchase the full version on the <b>Google Play</b> or the <b>Amazon Appstore</b> to remove the following limitations:\n\n
-	<li>No password security</li>\n
-	<li>No auto backups of your data</li>\n
-	<li>No custom reports</li>\n
-	<li>QIF imports only</li>\n
-	<li>No Contacts integration</li>\n
-	<li>At most 2 bank, 1 credit and 1 cash account</li>\n
-	<li>At most 5 budget items</li>\n
-	<li>At most 3 recurring bills or deposits</li> 
+<!-- New --> <string name="free_limitations">Compra la versione completa su<b>Google Play</b> o su <b>Amazon Appstore</b> per togliere le seguenti limitazioni:\n\n
+	<li>No Sicurezza con password</li>\n
+	<li>No Auto backup dei dati</li>\n
+	<li>No Report personalizzati</li>\n
+	<li>Importazione solo del formato QIF</li>\n
+	<li>No Integrazione con i contatti</li>\n
+	<li>Al massimo 2 banche, 1 carta di credito e 1 conto contante</li>\n
+	<li>Al massimo 5 budget</li>\n
+	<li>Al massimo 3 bollette o depositi ricorrenti</li> 
 	</string>
     
 	<string name="no_items">Nessun elemento</string>
