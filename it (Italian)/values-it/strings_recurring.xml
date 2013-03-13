@@ -78,21 +78,6 @@
 	<string name="invalid_date">Data invalida</string>
 	<string name="repeat">Ripetere</string>
 	<string name="every_1">Ogni</string>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	<string name="never">Mai</string>
 	<string name="day_upper">Giorno</string>
 	<string name="day_lower">giorno</string>
@@ -101,8 +86,6 @@
 	<string name="week_upper">Settimana</string>
 	<string name="weeks_upper">Settimane</string>
 	<string name="weekly">Settimanalmente</string>
-
-	
 	<string name="month_upper">Mese</string>
 	<string name="month_lower">mese</string>
 	<string name="months_upper">Mesi</string>
