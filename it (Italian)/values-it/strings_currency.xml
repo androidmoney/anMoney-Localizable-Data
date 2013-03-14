@@ -20,7 +20,7 @@
 <!-- New --> <string name="save_exchange_rate">Usa questo tasso di cambio nuovo predefinito</string>
     <string name="all_currencies">Tutte le valute</string>
     <string name="used_currencies">Valute usate</string>
-<!-- New --> <string name="and_prior_format">^1 and prior</string>
+<!-- New --> <string name="and_prior_format">^1 e precedente</string>
     
 	<string-array name="currency_list_status_filter_title_bar">
 		<item>@string/all_currencies</item>
