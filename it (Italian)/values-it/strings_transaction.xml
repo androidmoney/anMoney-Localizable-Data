@@ -118,7 +118,7 @@
     <string name="next_check_number">Prossimo numero assegno</string>
     <string name="cleared_transactions_color">Pulisci colore transazioni</string>
     <string name="reconciled_transactions_color">Riconcilia colore transazioni</string>
-<!-- New --> <string name="create_transaction_instructions_format">Per creare una transazione, toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an icon --> 
+	<string name="create_transaction_instructions_format">Per creare una transazione, toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">Text filtro</string>
 	<string name="profit_and_loss_statement">Profit &amp; Perdita di dichiarazione</string>
 	<string name="transaction_type">Type de transaction</string>

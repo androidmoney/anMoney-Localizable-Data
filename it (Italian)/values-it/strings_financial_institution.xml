@@ -13,7 +13,7 @@
     <string name="add_financial_institution_as_a_contact">Inserisci Ist. fin come contatto</string>
     <string name="financial_institution_exists">Un istituto finanziario col lo stesso nome esiste già</string>
     <string name="no_financial_institutions">Tu non hai nessun istituto finanziario</string>
-<!-- New --> <string name="create_financial_institution_instructions_format">Per creare un istituto finanziario, toccare ^i nella parte superiore dello schermo</string> <!-- ^1 will be replaced by an image -->
+	<string name="create_financial_institution_instructions_format">Per creare un istituto finanziario, toccare ^i nella parte superiore dello schermo</string> <!-- ^1 will be replaced by an image -->
     <string name="view_financial_institutions">Visualizza istituti finanziari</string>
     <string name="financial_institution_name">Nome istituto finanziario</string>
     <string name="contact_exists">Un contatto con lo stesso nome esiste già</string>
