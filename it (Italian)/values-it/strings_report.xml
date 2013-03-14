@@ -4,7 +4,7 @@
     <string name="reports">Reports</string>
 	<string name="view_report">Visualizza report</string>
 	<string name="view_reports">Visualizza reports</string>
-	<string name="report_canceled">Report cancellato</string>
+	<string name="report_canceled">Report annullato</string>
 	<string name="export_report">Esporta report</string>
 	<string name="report_exported">Esportato con successo nella memoria SD</string>
 <!-- New --> <string name="share_report">Spedisci report</string>
@@ -17,7 +17,7 @@
 <!-- New --> <string name="report_settings_instructions_format">Per modificare i parametri del report, toccare ^i nella parte superiore dello schermo</string> <!-- ^1 will be replaced by an image -->
 	<string name="reset_report_settings">I parametri saranno cancellati e impostati quelli predefiniti</string>
 	<string name="settings_reset">Reset parametri</string>
-	<string name="reset_canceled">Reset cancellato</string>
+	<string name="reset_canceled">Reset annullato</string>
 <!-- New --> <string name="report_settings_tip">Per cambiare i parametri di un report:\n\n<li>Tieni premuto sul nome del report e seleziona <b>Parametri report</b></li>\n\n<li>Toccare l’icona nell’angolo in alto a destra dello schermo, mentre il report viene visualizzato</li></string>
 	<string name="report_name">Nome report</string>
 	<string name="all_reports">Tutti i reports</string>
@@ -44,7 +44,7 @@
 	<string name="text_report">Testo report</string>
 	<string name="pie_chart">Grafico torta</string>
 	<string name="line_chart">Grafico linea</string>
-	<string name="bar_chart">Grafico bar</string>
+	<string name="bar_chart">Grafico barre</string>
 
 	<string name="page_format">Pagina ^1</string>
 
@@ -73,7 +73,7 @@
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>
         <item>@string/pdf</item>
-        <item>Web page</item>
+        <item>Pagina Web</item>
     </string-array>
 
    	<string-array name="report_export_file_type_description">
