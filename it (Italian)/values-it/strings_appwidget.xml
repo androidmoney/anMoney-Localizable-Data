@@ -20,6 +20,6 @@
 
     <string name="app_name_report">anMoney — Report</string>
 
-<!-- New --> <string name="dash_clock_extension_description">Visualizza depositi e bollette scaduti, se esistenti.</string>
+	<string name="dash_clock_extension_description">Visualizza depositi e bollette scaduti, se esistenti.</string>
 </resources>
 
