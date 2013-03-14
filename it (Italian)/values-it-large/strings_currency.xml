@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- New --> <string name="save_exchange_rate">Usa questo tasso di cambio nuovo predefinito</string>
+	<string name="save_exchange_rate">Salva questo tasso di cambio</string>
 </resources>
