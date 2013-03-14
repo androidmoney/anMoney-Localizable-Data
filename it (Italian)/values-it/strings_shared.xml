@@ -50,10 +50,10 @@
 	<string name="saved">Salvato</string>
 	<string name="save_canceled">Salvataggio annullato</string>
 	<string name="canceled">Annullato</string>
-	<string name="delete">Cancella</string>
-	<string name="deleted">Cancellato</string>
-	<string name="delete_canceled">Cancellazione annullata</string>
-	<string name="deleting">Cancellando</string>
+	<string name="delete">Elimina</string>
+	<string name="deleted">Eliminato</string>
+	<string name="delete_canceled">Eliminazione annullata</string>
+	<string name="deleting">Eliminazione in corso</string>
 	<string name="create">Crea</string>
 	<string name="created">Creato</string>
 	<string name="create_canceled">Creazione annullata</string>
