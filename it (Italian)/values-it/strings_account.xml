@@ -20,7 +20,7 @@
     <string name="balance_noun">Saldo</string>
     <string name="balances_noun">Saldi</string>
 	<string name="adjust">Aggiusta</string>
-	<string name="adjust_balance">Adjust il saldo</string>
+	<string name="adjust_balance">Aggiusta il saldo</string>
 	<string name="balance_adjusted">Saldo aggiustato</string>
 	<string name="balance_adjustment_note">Aggiustamento</string>
 	<string name="category_for_adjustment_transaction">Categoria per le transazioni di aggiustamento</string>
