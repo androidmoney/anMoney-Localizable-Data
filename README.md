@@ -4,7 +4,7 @@ If you'd like to create a new translation, please look at the files in the "Engl
 
 What do you get if you help:
 
-- A free license to the PRO version of anMOney (you will be refunded via PayPal)
+- A free license to the PRO version of anMoney (you will be refunded via PayPal)
 - Your name in the credits
 
 Your help is appreciated.
