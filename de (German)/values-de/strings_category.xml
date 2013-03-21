@@ -60,6 +60,7 @@
 	<string name="class_name">Name der Klasse</string>
 	<string name="subclass_name_lower">Name der Unter-Klasse</string>
 	<string name="without_subcategory">Ohne Unter-Kategorie</string>
+    <string name="without_subclass">Ohne Unter-Klasse</string>
 	<string name="cannot_be_zero">Darf nicht 0 sein</string>
 	<string name="change_expense_warning">Möchten Sie diese Kategorie von Ausgabe in Einnahme oder vice versa ändern</string>
 	<string name="prepopulate">Mit Standard-Kategorien bestücken</string>

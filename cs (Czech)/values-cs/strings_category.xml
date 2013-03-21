@@ -60,6 +60,7 @@
     <string name="class_name">Název třídy</string>
     <string name="subclass_name_lower">název podtřídy</string>
     <string name="without_subcategory">Bez podkategorie</string>
+    <string name="without_subclass">Bez podtřídy</string>
     <string name="cannot_be_zero">Nemůže být 0</string>
     <string name="change_expense_warning">Chcete změnit typ kategorie z výdajové na příjmovou, nebo naopak</string>
     <string name="prepopulate">Přidat výchozí kategorie</string>

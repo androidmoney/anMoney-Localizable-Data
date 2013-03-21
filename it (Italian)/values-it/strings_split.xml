@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="splits">Suddividere</string>
-    <string name="split">Dividi</string>
     <string name="split_canceled">Suddivisione cancellata</string>
     <string name="new_split">Nuova suddivisione</string>
     <string name="edit_split">Modifica suddivisione</string>

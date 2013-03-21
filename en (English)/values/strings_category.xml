@@ -60,6 +60,7 @@
     <string name="class_name">Class name</string>
     <string name="subclass_name_lower">subclass name</string>
     <string name="without_subcategory">Without subcategory</string>
+    <string name="without_subclass">Without subclass</string>
     <string name="cannot_be_zero">Cannot be 0</string>
     <string name="change_expense_warning">Do you want to change this category from expense to income, or vice versa</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="prepopulate">Populate with default categories</string>

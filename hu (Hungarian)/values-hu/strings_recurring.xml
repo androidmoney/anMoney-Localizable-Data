@@ -142,7 +142,9 @@
 	</string-array>
 
 	<string name="overdue_count_format">^1/^2</string>
-	<string name="overdue_format">^1 megkésett</string>
+	<string-array name="overdue_plurals">
+		<item>^1 megkésett</item>
+	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 megkésett számla vagy betét</item>
 	</string-array>

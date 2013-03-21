@@ -161,7 +161,11 @@
 	</string-array>
 
 	<string name="overdue_count_format">^1/^2</string>
-	<string name="overdue_format">^1 просрочено</string>
+	<string-array name="overdue_plurals">
+		<item>^1 просрочено</item>
+		<item>^1 просрочено</item>
+		<item>^1 просрочено</item>
+	</string-array>
 	<string-array name="overdue_count_plurals">
 	    <item>^1 просроченная операция</item>
 		<item>^1 просроченных операции</item>

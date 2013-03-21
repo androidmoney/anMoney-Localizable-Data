@@ -125,7 +125,10 @@
 	</string-array>
 	
 	<string name="overdue_count_format">^1/^2</string>
-	<string name="overdue_format">^1 in ritardo</string>
+	<string-array name="overdue_plurals">
+		<item>1 in ritardo</item>
+	    <item>^1 in ritardo</item>
+	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 deposito o fattura in ritardo</item>
 		<item>^1 depositi o fatture in ritardo</item>

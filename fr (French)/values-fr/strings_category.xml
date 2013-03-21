@@ -60,6 +60,7 @@
 	<string name="class_name">Nom de la classe</string>
 	<string name="subclass_name_lower">nom de la sous-classe</string>
 	<string name="without_subcategory">Sans sous-catégorie</string>
+    <string name="without_subclass">Sans sous-classe</string>
 	<string name="cannot_be_zero">Ne peut être nul</string>
 	<string name="change_expense_warning">Souhaitez-vous changer cette catégorie de dépenses en recettes, ou vice versa</string>
 	<string name="prepopulate">Pré-remplir avec les catégories par défaut</string>

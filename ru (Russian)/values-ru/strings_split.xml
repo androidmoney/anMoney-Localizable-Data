@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="splits">Сплиты</string>
-    <string name="split">Сплит</string>
     <string name="split_canceled">Сплит отменён</string>
     <string name="new_split">Новый сплит</string>
     <string name="edit_split">Изменить сплит</string>

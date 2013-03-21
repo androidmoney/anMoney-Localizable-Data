@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="splits">Splits</string>
-    <string name="split">Split</string>
-    <string name="split_canceled">Split cancelled</string>
-    <string name="new_split">New split</string>
+    <string name="splits">Splits</string> <!-- This is a noun -->
+    <string name="split_canceled">Split cancelled</string> <!-- "Split" is a verb -->
+    <string name="new_split">New split</string> <!-- "Split" here and below are nouns -->
     <string name="edit_split">Edit split</string>
     <string name="edit_splits">Edit splits</string>
     <string name="delete_split">Delete split</string>

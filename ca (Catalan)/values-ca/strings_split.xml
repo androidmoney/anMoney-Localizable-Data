@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="splits">Divisions</string>
-    <string name="split">Divisió</string>
     <string name="split_canceled">Divisió cancel·lada</string>
     <string name="new_split">Nova divisió</string>
     <string name="edit_split">Editar divisió</string>

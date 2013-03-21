@@ -59,7 +59,8 @@
     <string name="subcategory_name_lower">Alkategória neve</string>
     <string name="class_name">Osztálynév</string>
     <string name="subclass_name_lower">Alosztály neve</string>
-    <string name="without_subcategory">Alosztály nélkül</string>
+    <string name="without_subcategory">Alkategória nélkül</string>
+    <string name="without_subclass">Alosztály nélkül</string>
     <string name="cannot_be_zero">Nem lehet 0</string>
     <string name="change_expense_warning">Szeretné ezt a kategóriát cserélni kiadásiról jövedelemire, vagy fordítva</string>
     <string name="prepopulate">Töltse be az alapkategóriákat</string>

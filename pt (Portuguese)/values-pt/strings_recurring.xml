@@ -142,7 +142,10 @@
 	</string-array>
 	
 	<string name="overdue_count_format">^1/^2</string>
-	<string name="overdue_format">^1 vencida</string>
+	<string-array name="overdue_plurals">
+		<item>1 venicida</item>
+		<item>^1 venicidas</item>
+	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 conta ou depósito vencido</item>
 		<item>^1 contas ou depósitos vencidos</item>

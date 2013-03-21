@@ -60,6 +60,7 @@
     <string name="class_name">Nom de la classe</string>
     <string name="subclass_name_lower">nom de la subclasse</string>
     <string name="without_subcategory">Sense subcategoria</string>
+    <string name="without_subclass">Sense subclasse</string>
     <string name="cannot_be_zero">No pot ser 0</string>
     <string name="change_expense_warning">Vol canviar aquesta categoria de despesa a ingrés, o a l’inrevés</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="prepopulate">Omplir amb les categories per defecte</string>

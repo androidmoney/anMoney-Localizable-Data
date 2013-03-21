@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <bool name="can_lower_case_nouns">false</bool>
-
-    <bool name="rate_button_text_small">true</bool>
-</resources>

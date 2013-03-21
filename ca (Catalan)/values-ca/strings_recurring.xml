@@ -145,7 +145,10 @@
 	</string-array>
 	
 	<string name="overdue_count_format">^1/^2</string>
-	<string name="overdue_format">^1 endarrerit</string>
+	<string-array name="overdue_plurals">
+		<item>1 endarrerit</item>
+		<item>^1 endarrerits</item>
+	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 factura o dipòsit endarrerit</item>
 		<item>^1 factures o dipòsits endarrerits</item>

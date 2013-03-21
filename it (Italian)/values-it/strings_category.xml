@@ -60,6 +60,7 @@
     <string name="class_name">Nome classe</string>
     <string name="subclass_name_lower">nome sottoclasse</string>
     <string name="without_subcategory">Senza sottocategoria</string>
+    <string name="without_subclass">Senza sottoclasse</string>
     <string name="cannot_be_zero">Non può essere 0</string>
     <string name="change_expense_warning">Vuoi cambiare questa categoria di spesa in entrata, o vice versa</string>
     <string name="prepopulate">Compilare con categorie predefinite</string>

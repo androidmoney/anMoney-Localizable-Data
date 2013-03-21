@@ -145,7 +145,10 @@
 	</string-array>
 	
 	<string name="overdue_count_format">^1/^2</string>
-	<string name="overdue_format">^1 overdue</string>
+	<string-array name="overdue_plurals">
+		<item>1 overdue</item>
+		<item>^1 overdue</item>
+	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 overdue bill or deposit</item>
 		<item>^1 overdue bills or deposits</item>

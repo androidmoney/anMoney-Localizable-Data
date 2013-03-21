@@ -143,7 +143,10 @@
 	</string-array>
 	
 	<string name="overdue_count_format">^1/^2</string>
-	<string name="overdue_format">^1 atrasado</string>
+<!-- Verify -->	<string-array name="overdue_plurals">
+		<item>1 venicida</item>
+		<item>^1 venicidas</item>
+	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 factura o depósito vencida/o</item>
 		<item>^1 facturas o depósitos vencidas/os</item>

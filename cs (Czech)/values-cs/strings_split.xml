@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="splits">Rozdělí</string>
-    <string name="split">Rozdělení</string>
     <string name="split_canceled">Rozdělení zrušeno</string>
     <string name="new_split">Nové rozdělení</string>
     <string name="edit_split">Upravit rozdělení</string>

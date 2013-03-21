@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="splits">Osztások</string>
-    <string name="split">Osztás</string>
     <string name="split_canceled">Osztás megszakítva</string>
     <string name="new_split">Új osztás</string>
     <string name="edit_split">Osztás módosítása</string>

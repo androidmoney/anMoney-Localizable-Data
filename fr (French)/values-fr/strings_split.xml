@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="splits">Fractionnements</string>
-	<string name="split">Fractionnement</string>
 	<string name="split_canceled">Fractionnement annulé</string>
 	<string name="new_split">Nouveau fractionnement</string>
 	<string name="edit_split">Modifier le fractionnement</string>

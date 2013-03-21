@@ -60,6 +60,7 @@
     <string name="class_name">Имя класса</string>
     <string name="subclass_name_lower">имя подкласса</string>
     <string name="without_subcategory">Без подкатегории</string>
+    <string name="without_subclass">Без подкласса</string>
     <string name="cannot_be_zero">Не может быть 0</string>
     <string name="change_expense_warning">Действительно сделать доходную категорию расходной (или наоборот)</string>
     <string name="prepopulate">Заполнить стандартными категориями</string>
