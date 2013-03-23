@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="FilePicker">
+		<attr name="fileExtensions" format="string"/>
+		<attr name="rowLayout" format="reference"/>
+		<attr name="selectFileContextText" format="string"/>
+	</declare-styleable>
+
+	<string name="FilePicker_open_folder">Open folder</string>
+	<string name="FilePicker_select_file">Select file</string>
+	<string name="FilePicker_deselect_file">Deselect file</string>
+	<string name="FilePicker_delete_file">Delete file</string>
+	<string name="FilePicker_go_to_parent_folder">Go to parent folder</string>
+</resources>

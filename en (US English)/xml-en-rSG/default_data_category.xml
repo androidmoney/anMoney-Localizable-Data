@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<mainCategory>Alimony</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Automobile</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Automobile</mainCategory>
+		<subcategory>Cash Card</subcategory>
+		<expense>1</expense>
+	</record>
+		<record>
+		<mainCategory>Automobile</mainCategory>
+		<subcategory>Car Payment</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Automobile</mainCategory>
+		<subcategory>Petrol</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Automobile</mainCategory>
+		<subcategory>Maintenance</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bank Charge</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bank Charge</mainCategory>
+		<subcategory>Interest Paid</subcategory>
+		<expense>1</expense>
+		<defaultForInterestPaid>1</defaultForInterestPaid>
+	</record>
+	<record>
+		<mainCategory>Bank Charge</mainCategory>
+		<subcategory>Service Charge</subcategory>
+		<expense>1</expense>
+		<defaultForServiceCharge>1</defaultForServiceCharge>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Cable Television</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Domestic Worker</subcategory>
+		<expense>1</expense>
+	</record>
+		<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Mobile</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Electricity</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Health Club</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Homeowner’s Dues</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Membership Fee</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Mortgage Payment</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Gas</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Newspaper</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Internet Service</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Other Loan Payment</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Rent</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Student Loan Payment</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Home Phone</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bill</mainCategory>
+		<subcategory>Water</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Cash Withdrawal</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Charitable Donation</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Childcare</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Child / Toy</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Child / Toy</mainCategory>
+		<subcategory>Child Support</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Child / Toy</mainCategory>
+		<subcategory>Daycare</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Clothing</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Credit Card Payment / Transfer</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Dining Out</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Education</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Education</mainCategory>
+		<subcategory>Book / Supplies</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Education</mainCategory>
+		<subcategory>Fee</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Education</mainCategory>
+		<subcategory>Tuition</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Entertainment</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Fee</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Food</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Gift</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Grocery</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Healthcare</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Healthcare</mainCategory>
+		<subcategory>Dental</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Healthcare</mainCategory>
+		<subcategory>Eyecare</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Healthcare</mainCategory>
+		<subcategory>Hospital</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Healthcare</mainCategory>
+		<subcategory>Physician</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Healthcare</mainCategory>
+		<subcategory>Prescription</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<subcategory>Book / Magazine</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<subcategory>Cultural Event</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<subcategory>Entertaining</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<subcategory>Cinema</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<subcategory>Sporting Event</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<subcategory>Sporting Goods</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<subcategory>CD / DVD</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Leisure</mainCategory>
+		<subcategory>Toy / Game</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Home Improvement</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Household</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Household</mainCategory>
+		<subcategory>Furnishing</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Insurance</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Insurance</mainCategory>
+		<subcategory>Automobile</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Insurance</mainCategory>
+		<subcategory>Health</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Insurance</mainCategory>
+		<subcategory>Homeowner’s / Renter’s</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Insurance</mainCategory>
+		<subcategory>Life</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Job Expense</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Job Expense</mainCategory>
+		<subcategory>Non-reimbursed</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Job Expense</mainCategory>
+		<subcategory>Reimbursed</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Loan</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Loan</mainCategory>
+		<subcategory>Loan Interest</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Loan</mainCategory>
+		<subcategory>Mortgage Interest</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Loan</mainCategory>
+		<subcategory>Student Loan Interest</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Miscellaneous</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
+	</record>
+	<record>
+		<mainCategory>Mortgage / Rent</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Personal Care</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Pet Care</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Pet Care</mainCategory>
+		<subcategory>Food</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Pet Care</mainCategory>
+		<subcategory>Supplies</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Pet Care</mainCategory>
+		<subcategory>Veterinarian</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Home Phone / Mobile</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Service / Membership</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Tax</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Tax</mainCategory>
+		<subcategory>GST</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Travel / Vacation</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Travel / Vacation</mainCategory>
+		<subcategory>Lodging</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Travel / Vacation</mainCategory>
+		<subcategory>Travel</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Utilities</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Investment Income</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Investment Income</mainCategory>
+		<subcategory>Capital Gains</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Investment Income</mainCategory>
+		<subcategory>Dividend</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Investment Income</mainCategory>
+		<subcategory>Interest</subcategory>
+		<expense>0</expense>
+		<defaultForInterestEarned>1</defaultForInterestEarned>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Other Income</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Other Income</mainCategory>
+		<subcategory>Child Support Received</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Other Income</mainCategory>
+		<subcategory>Employee Stock Options</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Other Income</mainCategory>
+		<subcategory>Gift Received</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Other Income</mainCategory>
+		<subcategory>Loan Principal Received</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Other Income</mainCategory>
+		<subcategory>Lottery</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Other Income</mainCategory>
+		<subcategory>Unemployment Compensation</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Retirement Income</mainCategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Wages / Salary</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Wages / Salary</mainCategory>
+		<subcategory>Bonus</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Wages / Salary</mainCategory>
+		<subcategory>Commission</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Wages / Salary</mainCategory>
+		<subcategory>Gross Pay</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Wages / Salary</mainCategory>
+		<subcategory>Net Pay</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Wages / Salary</mainCategory>
+		<subcategory>Overtime</subcategory>
+		<expense>0</expense>
+	</record>
+</records>

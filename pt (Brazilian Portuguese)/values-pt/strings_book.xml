@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="book">Livro</string>
+    <string name="books">Livros</string>
+    <string name="new_book">Novo livro</string>
+    <string name="new_book_name">Novo nome de livro</string>
+    <string name="open_book">Abrir livro</string>
+    <string name="close_book">Fechar livro</string>
+    <string name="rename_book">Renomear livro</string>
+    <string name="delete_book">Excluir livro</string>
+	<string name="share_book">Compartilhar livro</string>
+	<string name="preparing_to_share">Preparando para compartilhar</string>
+    <string name="book_delete_warning_short_format">Livro ^1 será excluído</string>
+    <string name="all_data_will_be_lost">Todos os dados do livro serão perdidos de forma permanente, se estiver sem backup</string>
+    <string name="import_into_book">Importar pro livro</string>
+    <string name="export_from_book">Exportar do livro</string>
+    <string name="import_into_book_format">Importar pro livro ^1</string>
+    <string name="copying_book">Copiando livro</string>
+    <string name="no_books">Você não tem nenhum livro</string>
+    <string name="create_book_instructions_format">Para criar um livro, toque ^i no topo da tela</string>
+    <string name="book_list_favorites_empty">Sem livros favoritos</string>
+    <string name="creating_book">Criando livro</string>
+    <string name="upgrading_book">Atualizando livro</string>
+    <string name="upgrading_books">Atualizando livros</string>
+    <string name="backup">Backup</string>
+    <string name="backup_canceled">Backup cancelado</string>
+    <string name="backup_book">Backup de livro</string>
+    <string name="overwrite">Substituído</string>
+    <string name="backup_name">Nome do backup</string>
+    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+    <string name="backing_up_book">Fazendo backup do livro</string>
+    <string name="restore">Restaurar</string>
+    <string name="restored">Restaurado</string>
+    <string name="restore_canceled">Restauração cancelada</string>
+    <string name="restore_book">Restaurar livro</string>
+    <string name="restoring_book">Restaurando livro</string>
+    <string name="restore_warning_format">Livro ^1 será substituído. <b>Todos</b> os dados serão eliminados sem recuperação</string>
+    <string name="select_backup_file_to_restore">Selecione o arquivo de backup para restaurar</string>
+    <string name="select_backup_file_to_create_from">Selecione o arquivo de origem do backup</string>
+    <string name="import_statement">Comando importar</string>
+    <string name="no_sd_card_inserted">Não há cartão SD inserido</string>
+    <string name="select_files">Selecionar arquivos</string>
+    <string name="delete_file">Excluir arquivo</string>
+    <string name="delete_file_warning_format">Arquivo ^1 será excluído</string>
+	<string-array name="delete_files_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 arquivos selecionados serão excluídas</item>
+    </string-array>
+    <string name="select_book">Selecione o livro</string>
+    <string name="select_book_to_import_into">Selecione o livro onde será feita a importação</string>
+    <string name="select_import_file">Selecione arquivo(s) para importação</string>
+    <string name="reading_format">Lendo ^1</string>
+    <string name="reading_file">Lendo arquivo</string>
+    <string name="reading_files">Lendo arquivos</string>
+	<string name="checking_for_duplicate_transactions">Verificar transações duplicadas</string>
+    <string name="not_specified_brackets">&lt;Não especificado&gt;</string>
+    <string name="map_accounts">Mapa de contas</string>
+    <string name="configure_account_mappings">Configurar mapa de contas</string>
+    <string name="account_required">Conta obrigatória</string>
+    <string name="duplicate_name">Nome duplicado</string>
+    <string name="options">Opções</string>
+    <string name="select_options">Selecione opções de importação</string>
+    <string name="remove_duplicates">Remover duplicadas</string>
+    <string name="remove_duplicates_notes">Enquanto isso funciona corretamente na maioria dos casos, há problemas, especialmente se as contas possuem valores em diferentes moedas. Nestes casos, relacionar é impossível. Após a importação, por favor cheque se o saldo está correto</string>
+    <string name="import_classes">Importar classes</string>
+    <string name="ignore_memos">Ignorar campo memo</string>
+    <string name="create_payees_in_app_name_format">Criar beneficiários em ^1</string>
+    <string name="contact_account">Contato da conta para criar beneficiários</string>
+    <string name="select_import_mode">Selecione o modo de importação</string>
+    <string name="select_accounts_to_export">Selecione conta(s) para exportar</string>
+    <string name="specify_export_file_format">Especifique o formato do arquivo de exportação</string>
+    <string name="mark_transactions_exported">Marque as transações como exportadas</string>
+    <string name="create_single_file">Criar arquivo único</string>
+    <string name="no_transactions_matched_your_selection_criteria">Nenhuma transação encontrada com os critérios de seleção informados.\n\nNenhum arquivo(s) de exportação foi criado</string>
+	<string name="import_folder">Pasta de importação</string>
+	<string name="export_folder">Pasta de exportação</string>
+    <string name="ask_to_view_imported_transaction">Você gostaria de ver as transações importadas</string>
+    <string name="tip">Dica</string>
+    <string name="user_guide">Manual do usuário</string>
+	<string name="user_guide_url">http://goo.gl/QutTB</string>
+    <string name="whats_new">Novidades</string>
+    <string name="license">Licença</string>
+    <string name="accept_license">Aceitar licença</string>
+    <string name="decline">Rejeitar</string>
+    <string name="thank_you">Obrigado!</string>
+    <string name="password">Senha</string>
+    <string name="old_password">Senha antiga</string>
+    <string name="new_password">Nova senha</string>
+    <string name="verify_password">Verificar senha</string>
+    <string name="enter_password">Informe a senha</string>
+    <string name="incorrect_password">Senha incorreta. Por favor informe novamente</string>
+    <string name="set_password">Configure a senha</string>
+    <string name="password_set">Senha configurada</string>
+    <string name="edit_password">Alterar senha</string>
+    <string name="remove_password">Excluir senha</string>
+    <string name="password_removed">Senha removida</string>
+    <string name="remove_password_message">A senha será removida.\n\nSeus dados estarão visíveis para todos os que possuem acesso ao seu dispositivo</string>
+    <string name="password_has_not_been_changed">A senha não foi alterada</string>
+    <string name="passwords_dont_match">Senhas não conferem</string>
+    <string name="case_sensitive">case sensitive</string>
+    <string name="disclaimer">Aviso legal</string>
+    <string name="password_disclaimer">Por favor leia este aviso e sinalize no final.\n\nNote que a senha foi implementada como uma maneira de fornecer privacidade contra “olhos curiosos.”  Devido a limitação da plataforma, a atual encriptação dos dados não é confiável e alguém com conhecimentos avançados conseguiria acessar seus dados mesmo com a senha presente.\n\nÉ altamente recomendável que você proteja seu dispositivo com um padrão ou PIN para segurança adicional</string>
+    <string name="i_understand_the_limitations">Eu entendo estas limitações</string>
+    <string name="set_password_now_part1">Configurar uma senha agora</string>
+    <string name="set_password_now_part2_format">Mesmo se você responder ^1, você terá a opção de fazer isso a qualquer hora dando um toque longo no nome do livro e toque ^2</string>
+    <string name="folder_name_format">Nome da pasta (use ^1 para subpastas)</string>
+    <string name="no_backup_files">Nenhum arquivo de backup encontrado</string>
+    <string name="no_backup_files_new_instructions">Se você está tentando criar um livro usando um arquivo de importação, por favor crie um livro na página inicial, então importe o arquivo</string>
+    <string name="remove_transactions">Remova as transações mais antigas que a data</string>
+    <string name="book_to_make_copy_of">Livro a ser copiado</string>
+    <string name="truncate_warning_format">Todas as transações que pertencem a ^1 serão eliminadas sem chance de recuperação</string>
+    <string name="information_and_help">Informação &amp; ajuda</string>
+    <string name="discussion_forum">Fórum de discussão</string>
+    <string name="join_the_user_community_format">Participe ^1 comunidade de usuários</string>
+    <string name="contact_us">Fale conosco</string>
+    <string name="email_the_developers">Envia um email diretamente aos desenvolvedores</string>
+    <string name="tap_to_display_import_settings_format">Tocando ^1 mostrará a tela de configuração de importação</string>
+    <string name="verify_import_settings">Por favor verifique que as configurações escolhidas estão, de fato, corretas para o arquivo que você está importando. Se tudo parece bem, pressione a seta <b>Back</b> para continuar com o processo de importação</string>
+    <string name="change_settings_instructions_format">Esta mensagem não irá aparecer nas próximas importações, mas você pode mudar essa configuração a qualquer momento tocando ^i no topo da tela</string>
+    <string name="bad_import_settings">A seguinte sentença(s) parece estar incorreta no arquivo que você está tentando importar</string>
+    <string name="qif_csv_encoding_explanation_format">Geralmente ^1 deveria ser usado para os idiomas na lista abaixo, mas algumas instituições financeiras podem produzir arquivos onde ^2 precisa ser selecionado para que sejam importados de forma correta.\n\nPara todos os outros idiomas NÃO listados, ^2 deveria ser selecionado sempre</string>
+    <string name="credits_legal">Créditos &amp; direitos</string>
+    <string name="contact_and_social">Contatos &amp; social</string>
+    <string name="follow_us">Siga-nos</string>
+	<string name="add_us_to_circle">Nos adicione a seus círculos e nos dê +1</string>
+    <string name="become_a_fan">Torne-se um fã</string>
+    <string name="haptic_feedback">Resposta tátil</string>
+    <string name="haptic_feedback_description">Se selecionado, vibra ao tocar os botões</string>
+	<string name="default_book_name">Meu livro</string>
+	<string name="color_theme">Cor do tema</string>
+	<string name="dark">Escuro</string>
+	<string name="light">Claro</string>
+	<string name="preview">Pré-visualização</string>
+	
+	<string-array name="book_new_source">
+	    <item>Criar a partir do zero</item>
+	    <item>Criar de um arquivo backup</item>
+	    <item>Copiar um livro existente</item>
+    </string-array>
+
+	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Intentionally left empty -->
+	    <item/> <!-- Intentionally left empty -->
+	    <item>e opcionalmente quebrar numa data informada</item>
+    </string-array>
+	
+	<string-array name="import_mode">
+        <item>Registros baixados do banco</item>
+        <item>Dados exportados de outro software</item>
+    </string-array>
+
+	<string-array name="import_mode_description">
+        <item>Usados por registros baixados de várias instituições financeiras, como uma declaração de final de mês da American Express. Ambos os formatos <b>QIF</b> e <b>OFX/QFX/OFS</b> são suportados. Os arquivos de importação não podem conter transferências entre contas</item>
+        <item>Usado para transferir dados de outro programa de finanças pessoais, tais como Microsoft® Money ou Quicken®. Só o formato <b>QIF</b> é suportado</item>
+    </string-array>
+
+	<string-array name="book_export_file_type_description">
+        <item>Dependendo das classificações e categorias que você usa, pode somente ser lido pelo Microsoft Money</item>
+        <item>Lido por todas as applicações que suportam o formato QIF</item>
+        <item>Lido por planilhas, tais como Microsoft® Excel ou Google™ Docs. A primeira linha exportada contêm o cabeçalho, seguida por uma linha para cada transação. Cada divisão contêm sua própria linha</item>
+    </string-array>
+
+    <string name="import_file_confirm_format">Você quer importar ^1</string>
+	<string-array name="import_files_confirm_format_plurals">
+        <item/> <!-- Unused -->
+        <item>Você quer importar estes ^1 arquivos</item>
+    </string-array>
+	
+    <string name="general">Geral</string>
+    <string name="navigation">Navegação</string>
+    
+    <string name="reopen_last_book">Reabrir último livro</string>
+    <string name="reopen_last_book_description">Se selecionado, o último livro aberto é reaberto ao iniciar a aplicação</string>
+    
+    <string name="starting_screen">Tela inicial</string>
+	
+    <string name="back_press_on_home_screen">Voltar à tela inicial</string>
+	<string-array name="back_press_on_home_screen_items">
+		<item>Fecha ^1</item>
+		<item>Fecha o livro atual e mostra a lista de livros</item>
+	</string-array>
+	
+    <string name="negative_amount_format">Formato valor negativo</string>
+    
+    <string name="show_currency_symbol">Mostrar símbolo de moeda</string>
+	<string-array name="show_currency_symbol_items">
+		<item>De acordo com a moeda</item>
+		<item>Antes do valor</item>
+		<item>Após o valor</item>
+	</string-array>
+	
+    <string name="base_currency">Moeda padrão</string>
+	<string name="space_between_symbol_and_amount">Espaço entre o símbolo e o valor</string>
+    
+    <string name="password_time_out_period">Tempo limite da senha</string>
+	<string-array name="n_seconds_format_plurals">
+        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+        <item>^1 segundos</item>
+    </string-array>
+	<string-array name="n_minutes_format_plurals">
+        <item>^1 minuto</item>
+        <item>^1 minutos</item>
+    </string-array>
+    
+    <string name="set_button_behavior_format">Comportamento do botão ^1</string>
+	<string-array name="set_button_behavior_items">
+		<item>Atribui o número exibido atualmente</item>
+		<item>Completa o cálculo e atribui o número</item>
+	</string-array>
+
+    <string name="confirmations_and_warnings">Confirmações &amp; alertas</string>
+
+    <string name="warn_if_no_category">Alertar, se não houver categoria</string>
+    <string name="warn_if_no_category_description">Se selecionado, um aviso será exibido quando não houver uma categoria especificada</string>
+    
+    <string name="warn_if_incorrect_category_type">Avisa, se for um tipo incorreto de categoria</string>
+    <string name="warn_if_incorrect_category_type_description">Se selecionado, um aviso é exibido se um tipo errado de categoria for informado</string>
+    
+    <string name="modification_confirmation">Confirmação de modificação</string>
+	<string-array name="modification_confirmation_items">
+		<item>Nenhum</item>
+		<item>Somente reconciliadas</item>
+		<item>Todas</item>
+	</string-array>
+	
+    <string name="back_press_prompt">Botão voltar</string>
+    <string name="back_press_prompt_description">Se selecionado, um pedido para salvar será exibido quando o botão de voltar for pressionado</string>
+    
+    <string name="new_payee_confirmation">Confirmação novo beneficiário</string>
+    <string name="new_payee_confirmation_description">Se selecionado, uma confirmação é exibida antes de criar um novo beneficiário</string>
+    
+    <string name="duplicate_check_number">Número de cheque duplicado</string>
+    <string name="duplicate_check_number_description">Se selecionado, um aviso é exibido se o número do cheque já foi usado</string>
+    
+	<string name="field_with_initial_focus">Campo com foco inicial</string>
+    
+	<string name="show_keyboard_automatically">Mostre o teclado automaticamente</string>
+	<string name="show_keyboard_automatically_description">Se selecionado, a janela com o teclado será mostrada ao adicionar uma nova transação</string>
+
+    <string name="notes_in_transaction_window">Notas na janela de transação</string>
+    <string name="notes_in_transaction_window_description">Se selecionado, notas de uma única linha podem ser editadas na janela de transação</string>
+    
+    <string name="new_category_in_transaction_window">Nova categoria na janela de transação</string>
+    <string name="new_category_in_transaction_window_description">se selecionado, uma nova categoria pode ser criada a partir da janela de transação</string>
+    
+    <string name="hide_labels">Esconder rótulos</string>
+    <string name="hide_labels_description">Se selecionado, os rótulos da janela de transação podem ser ocultados para liberar espaço</string>
+    
+    <string name="security">Segurança</string>
+    
+    <string name="quick_entry_password">Senha de entrada rápida</string>
+    <string name="quick_entry_password_description">Se selecionado, o widget de entrada rápida pedirá uma senha, se houver</string>
+    
+    <string name="backup_folder">Pasta de backup</string>
+    
+	<string name="date_in_file_name">Data no nome do arquivo</string>
+	<string name="date_in_file_name_description">Se selecionado, a data atual será concatenada ao nome do arquivo ao enviá-lo</string>
+    
+    <string name="automatic_backup">Backup automático</string>
+    <string name="automatic_backup_description">Se selecionado, este livro fará um backup automático</string>
+    
+    <string name="backup_how_often">Freqüência de backup</string>
+    
+    <string name="auto_backup_notify_description">Se selecionado, um aviso será exibido após a operação de backup</string>
+    
+	<string name="backed_up_book_format">Foi feito o backup de ^1</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item/> <!-- Not used -->
+        <item>Foi feito o backup de ^1 livros</item>
+    </string-array>
+
+	<string-array name="book_exported_format_plurals">
+        <item>Uma transação foi exportada</item>
+        <item>^1 transações foram exportadas</item>
+    </string-array>
+
+	<string name="failed_to_back_up_book">Falha no backup do livro</string>
+	<string name="no_space_left_on_sd_card">Não há espaço suficiente no cartão SD</string>
+	<string name="cannot_restore_newer_version">Não foi possível restaurar um backup criado na versão mais recente de ^1.\n\nPor favor instale a última versão de ^1 e tente novamente</string>
+		
+	<string name="file">Arquivo</string>	
+	<string name="folder">Pasta</string>	
+	<string name="external_storage">Armazenamento externo</string>	
+	<string name="path">Caminho</string>	
+
+    <string name="qif_csv_date_order">QIF/CSV ordem de data</string>
+
+	<string name="comma">Vírgula</string>	
+    <string name="qif_csv_decimal_mark">QIF/CSV separador decimal</string>
+	<string-array name="qif_csv_decimal_marks">
+        <item>Ponto</item>
+        <item>@string/comma</item>
+    </string-array>
+
+	<string name="csv_delimiter">CSV delimitador</string>
+	<string-array name="csv_delimiters">
+		<item>@string/comma</item>
+		<item>Ponto e vírgula</item>
+    </string-array>
+
+    <string name="qif_csv_encoding">QIF/CSV encriptação</string>
+    <string name="ofx_qfx_encoding">OFX/QFX encriptação</string>
+	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK (Chinês nacional padrão)</item>
+        <item>Cirílico (Windows)</item>
+		<item>Oeste europeu (Windows)</item>
+		<item>Europa central (Windows)</item>
+    </string-array>
+
+    <string name="maintain_entries">Editar entradas</string>
+    <string name="maintain_number_field_entries">Editar entradas de campo numérico</string>
+    <string name="maintain_number_field_entries_description">Permite apagar entradas em campo numérico não mais utilizadas em transações</string>
+
+    <string name="delete_entry_warning_format">Registro ^1 será excluído</string>
+    <string-array name="delete_entries_warning_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 registros serão excluídos</item>
+    </string-array>
+</resources>
