@@ -74,6 +74,8 @@
 		<item>occorrenza</item>
 		<item>occorrenze</item>
 	</string-array>
+	<string name="upcoming_date">Prossima data</string>
+	<string name="series_start_date">Data di inizio della serie</string>
 	<string name="end_date_if_any">Includi data di fine, se cè ne una</string>
 	<string name="invalid_date">Data invalida</string>
 	<string name="repeat">Ripetere</string>

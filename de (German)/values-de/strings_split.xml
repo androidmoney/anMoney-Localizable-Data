@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="splits">Spitbuchungen</string>
-	<string name="split_canceled">Spitbuchung abgebrochen</string>
+	<string name="splits">Splitbuchungen</string>
+	<string name="split_canceled">Splitbuchung abgebrochen</string>
 	<string name="new_split">Neue Splitbuchung</string>
 	<string name="edit_split">Splitbuchung ändern</string>
 	<string name="edit_splits">Splitbuchungen ändern</string>

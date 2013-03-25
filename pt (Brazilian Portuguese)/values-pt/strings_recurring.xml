@@ -74,6 +74,8 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 	</string-array>
+	<string name="upcoming_date">Próxima data</string>
+	<string name="series_start_date">Data inicial</string>
 	<string name="end_date_if_any">Incluindo a data final, se houver</string>
 	<string name="invalid_date">Data inválida</string>
 	<string name="repeat">Repetir</string>
@@ -143,8 +145,8 @@
 	
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
-		<item>1 venicida</item>
-		<item>^1 venicidas</item>
+		<item>1 vencida</item>
+		<item>^1 vencidas</item>
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 conta ou depósito vencido</item>

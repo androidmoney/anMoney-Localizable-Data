@@ -77,6 +77,8 @@
 		<item>výskytech</item>
 		<item>výskytech</item>
 	</string-array>
+	<string name="upcoming_date">Datum příští platby</string>
+	<string name="series_start_date">Datum první platby</string>
 	<string name="end_date_if_any">Datum posledního provedení</string>
 	<string name="invalid_date">Chybné datum</string>
 	<string name="repeat">Opakovat</string>

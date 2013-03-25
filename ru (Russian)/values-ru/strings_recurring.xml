@@ -77,6 +77,8 @@
 		<item>операций</item>
 		<item>операций</item>
 	</string-array>
+	<string name="upcoming_date">Предстоящая дата</string>
+	<string name="series_start_date">Дата начала серии</string>
 	<string name="end_date_if_any">Дата окончания, включительно, если есть</string>
 	<string name="invalid_date">Неправильная дата</string>
 	<string name="repeat">Повтор</string>

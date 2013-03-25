@@ -74,6 +74,8 @@
 		<item>ocurrència</item>
 		<item>ocurrències</item>
 	</string-array>
+	<string name="upcoming_date">Propera data</string>
+	<string name="series_start_date">Data d’inici de la sèrie</string>
 	<string name="end_date_if_any">Inclusive data de fi, si n’hi ha</string>
 	<string name="invalid_date">Data no vàlida</string>
 	<string name="repeat">Repetir</string>

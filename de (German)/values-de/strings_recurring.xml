@@ -74,6 +74,8 @@
 		<item>Vorfall</item>
 		<item>Vorfälle</item>
 	</string-array>
+<!-- New --> <string name="upcoming_date">Bevorstehende Datum</string>
+<!-- New --> <string name="series_start_date">Serie Startdatum</string>
 	<string name="end_date_if_any">Inlusive Enddatum, wenn vorhanden</string>
 	<string name="invalid_date">Ungültiges Datum</string>
 	<string name="repeat">Wiederhole</string>

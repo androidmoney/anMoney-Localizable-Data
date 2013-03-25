@@ -74,6 +74,8 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 	</string-array>
+<!-- Verify --> <string name="upcoming_date">Próxima fecha</string>
+<!-- Verify --> <string name="series_start_date">Fecha inicial</string>
 	<string name="end_date_if_any">Fecha de finalización incluida, si hay</string>
 	<string name="invalid_date">Fecha inválida</string>
 	<string name="repeat">Repetir</string>
@@ -144,8 +146,8 @@
 	
 	<string name="overdue_count_format">^1/^2</string>
 <!-- Verify -->	<string-array name="overdue_plurals">
-		<item>1 venicida</item>
-		<item>^1 venicidas</item>
+		<item>1 vencida</item>
+		<item>^1 vencidas</item>
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 factura o depósito vencida/o</item>

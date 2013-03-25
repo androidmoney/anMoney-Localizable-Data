@@ -74,6 +74,8 @@
 		<item>occurrence</item>
 		<item>occurrences</item>
 	</string-array>
+	<string name="upcoming_date">Prochaine date</string>
+	<string name="series_start_date">Date de départ</string>
 	<string name="end_date_if_any">Date de fin (comprise), le cas échéant</string>
 	<string name="invalid_date">Date invalide</string>
 	<string name="repeat">Répéter</string>

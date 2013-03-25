@@ -74,6 +74,8 @@
 	</string-array>
 
 	
+	<string name="upcoming_date">Következő időpont</string>
+	<string name="series_start_date">A sorozat kezdési időpontja</string>
 	<string name="end_date_if_any">Befejezési időpont, ha van</string>
 	<string name="invalid_date">Érvénytelen dátum</string>
 	<string name="repeat">Ismétel</string>
