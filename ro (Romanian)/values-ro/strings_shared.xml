@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="two_part_format">^1 ^2</string>
+    <string name="sentence_end_period_format">^1.</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="two_items_parantheses_format">^1 (^2)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 Nr. ^2</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+    <string name="ellipsize_format">^1…</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+    <string name="option_on_symbol">✓</string>
+    <string name="option_off_symbol">✗</string>
+    <string name="filter_by_order_format">^1 la ^2</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1 la ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 pentru ^2 la ^3 ^4 pentru ^5</string> <!-- Example: "All transactions for AMEX by decreasing date for all dates" -->
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="done">Realizat</string>
+    <string name="_continue">Continuaþi</string>
+	<string name="continue_question">Continuaþi</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="home">Acasã</string>
+	<string name="home_screen">Ecranul acasã</string>
+    <string name="previous">Precedent</string>
+    <string name="next">Urmãtor</string>
+    <string name="_import">Importaþi</string>
+    <string name="imported">Importat</string>
+    <string name="importing">Import</string>
+    <string name="import_canceled">Importarea a fost anulatã</string>
+    <string name="export">Exportaþi</string>
+	<string name="exporting">Export</string>
+    <string name="export_canceled">Exportarea a fost anulatã</string>
+	<string name="import_export">Importaþi/exportaþi</string>
+    <string name="settings">Setãri</string>
+    <string name="display_options">Opþiuni de afiºare</string>
+    <string name="favorites">Favorite</string>
+    <string name="add_favorite">Adaugã la favorite</string>
+    <string name="added_to_favorites">Adãugat la favorite</string>
+    <string name="remove">Înlãturã</string>
+    <string name="remove_favorite">Înlãturã din favorite</string>
+    <string name="removed_from_favorites">Înlãturat din favorite</string>
+    <string name="save">Salvare</string>
+    <string name="saved">Salvat</string>
+    <string name="save_canceled">Salvarea a fost anulatã</string>
+    <string name="canceled">Anulat</string>
+    <string name="delete">ªterge</string>
+    <string name="deleted">ªters</string>
+    <string name="delete_canceled">ªtergerea a fost anulatã</string>
+    <string name="deleting">ªterg</string>
+    <string name="create">Creaþi</string>
+    <string name="created">Creat</string>
+    <string name="create_canceled">Crearea a fost anulatã</string>
+	<string name="create_what">Ce creaþi</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">Editaþi</string>
+    <string name="edit_canceled">Editarea a fost anulatã cancelled</string>
+	<string name="edit_which">Ce editaþi</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="copy">Copiazã</string>
+    <string name="copied">Copiat</string>
+    <string name="move">Mutã</string>
+    <string name="moved">Mutat</string>
+    <string name="duplicate">Creeazã un duplicat</string>
+    <string name="duplicated">Duplicat</string>
+    <string name="rename">Redenumeºte</string>
+    <string name="renamed">Redenumit</string>
+    <string name="rename_canceled">Redenumirea a fost anulatã</string>
+    <string name="link">Adaugã o legãturã</string>
+    <string name="linked">Legãtura a fost adãgatã</string>
+    <string name="combine">Combinã</string>
+    <string name="combined">Combinat</string>
+    <string name="copy_to_clipboard">Copiazã în clipboard</string>
+    <string name="set">Seteazã</string>
+    <string name="show">Afiºeazã</string>
+	<string name="share">Distribuie</string>
+	<string name="share_canceled">Distribuirea a fost anulatã</string>
+    <string name="create_in_app_name_format">Creeazã în ^1</string>
+    <string name="pick_from_app_name_format">Alege din ^1</string>
+    <string name="do_not_ask_again">Nu mai întreba</string>
+    <string name="apply_to_all">Aplicã la toate</string>
+	<string name="all_items">Toate articolele</string>
+    <string name="notes">Note</string>
+    <string name="no_notes">Nicio notã încã</string>
+    <string name="required">Necesar</string>
+    <string name="name">Nume</string>
+    <string name="invalid_name">Nume invalid</string>
+    <string name="name_exists">Numele existã deja</string>
+    <string name="amount">Suma</string>
+    <string name="start_date">Data de început</string>
+    <string name="end_date">Data de sfârºit</string>
+    <string name="must_be_less_than_format">Trebuie sã fie &lt; ^1</string>
+    <string name="must_be_greater_than_format">Trebuie sã fie > ^1</string>
+    <string name="reset">Reseteazã</string>
+    <string name="total">Total</string>
+    <string name="grand_total">Total general</string>
+    <string name="average">Medie</string>
+    <string name="export_file_name">Numele fiºierului exportat</string>
+    <string name="specify_export_file_name">Specificã numele fisierului exportat</string>
+    <string name="file_exists">Un fisier cu acest nume existã deja</string>
+    <string name="folder_exists">Un director cu acest nume existã deja</string>
+    <string name="choose_another_name">Alege un alt nume</string>
+    <string name="will_be_overwritten">Va fi înlocuit</string>
+    <string name="calendar">Calendar</string>
+    <string name="remind_me">Aminteºte-mi</string>
+    <string name="add_as_a_contact">Adaugã la contacte</string>
+    <string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
+    <string name="to">Cãtre</string> <!-- To <account> -->
+    <string name="from">De la</string> <!-- From <account> -->
+	<string name="send_email">Trimite email</string>
+	<string name="please_read">Vã rog sã citiþi</string>
+	<string name="rate_app_format">Evalueazã ^1</string>
+	<string name="please_rate_app_format">Vã rog sã acordaþi un moment \pentru a evalua ^1</string>
+	<string name="later_rate_description">Vi se va reaminti peste o sãptãmânã</string>
+	<string name="no_rate_description_format">Poþi face asta oricând din ecranul ^1</string>
+	<string name="task_killer_warning_format">Atenþionare privind aplicaþiile “task killer”:\n\nDispozitivul dumneavoastrã se va "trezi" o datã pe zi pentru a realiza procesarea automatã. Deoarece aceasta va dura doar câteva secunde, nu va avea un efect negativ asupra duratei bateriei dispozitivului dumneavoastrã.\n\nAplicaþiile Task killer pot ºi vor împiedica executarea normalã a acestei procesãri în fundal ºi ca urmare nu trebuie folosite cu ^1</string>
+	<string name="no_thanks">Nu, mulþumesc</string>
+	<string name="maybe_later">Poate mai târziu</string>
+	<string name="unexpected_error_warning">O eroare neaºteptatã s-a produs forþând oprirea anMoney.\n\nVã rugãm sã ne ajutaþi sã rezolvãm aceasta prin trimiterea unui email cu un raport privind eroarea. Veþi putea sã editaþi mesajul înainte de a fi trimis.\n\nVã mulþumim pentru colaborare.</string>
+    <string name="unexpected_error_notification_ticker">Eroare neaºteptatã. Vã rog trimiteþi un raport.</string>
+    <string name="unexpected_error_notification_title">anMoney s-a oprit</string>
+    <string name="unexpected_error_notification_text">Apasã aici pentru a trimite un raport.</string>
+    <string name="unexpected_error_comment">Dacã doriþi, vã rugãm sã descrieþi ce fãceaþi când s-a produs problema</string>
+	<string name="archiving">Arhivare</string>
+	<string name="archiving_settings">Setãri arhivare</string>
+    <string name="more">Mai mult</string>
+    <string name="specify_export_options">Specificã opþiunile de export</string>
+	<string name="select_all">Selecteazã toate</string>
+	<string name="unselect_all">Deselecteazã toate</string>
+	<string name="expand_all">Extinde toate</string>
+	<string name="all_expanded">Toate au fost extinse</string>
+	<string name="collapse_all">Restrânge toate</string>
+	<string name="all_collapsed">Toate au fost restrânse</string>
+    <string name="postal_address">Adresa poºtalã</string>
+    <string name="postal_address_hint">Strada\nOraº\nCod Poºtal</string>
+    <string name="cannot_perform_sd_card_operation">Aceastã operaþie nu poate fi realizatã acum deoarece fie nu este introdus un card în dispozitiv, fie dispozitivul dumneavoastrã este conectat la computer ceea ce face cardul SD inaccesibil</string>
+    <string name="cannot_perform_file_system_operation_format">Aceastã operaþie nu poate fi realizatã acum deoarece calea (^1) cãtre memoria internã nu este accessibilã</string>
+    <string name="please_correct_and_try_again">Vã rugãm corectaþi ºi încercaþi din nou</string>
+    <string name="no_network_message_format">^1 necesitã acces periodic la reþea pentru verificarea licenþei.\n\nVã rugãm porniþi reþeaua, ºi, odatã ce aveþi conexiune de date, încercaþi din nou. Puteþi dezactiva reþeaua dupã aceea.\n\nApãsând ^2 veþi ajunge la <b>Wireless &amp; reþele</b> setãri</string>
+    <string name="calculator">Calculator</string>
+    <string name="only_in_full_version">Doar în versiunea PRO</string>
+    <string name="will_not_effect_transactions">Aceasta  <b>nu</b> va afecta tranzacþiile existente</string>
+    
+	<string name="free_limitations">Achiziþionaþi versiunea PRO din <b>Google Play</b> sau din <b>Amazon Appstore</b> pentru a elimina urmãtoarele limitãri:\n\n
+	<li>Lipsa unei parole de securitate</li>\n
+	<li>Lipsa autocreãrii unei copii de siguranþã a datelor</li>\n
+	<li>Lipsa rapoartelor customizabile</li>\n
+	<li>Importarea doar a fiºierelor QIF</li>\n
+	<li>Neintegrarea contactelor</li>\n
+	<li>Cel mult 2 bãnci, 1 credit ºi 1 cont cash</li>\n
+	<li>Cel mult 5 articole în buget</li>\n
+	<li>Cel mult 3 facturi sau depozite recurente</li> 
+	</string>
+
+	<string name="no_items">Nici un articol</string>
+    <string name="no_items_yet">Nici un articol încã</string>
+	<string-array name="items_format_plurals">
+        <item/> <!-- Not used -->
+        <item>articol ^1</item>
+    </string-array>
+    
+	<string-array name="selected_format_plurals">
+        <item>selectat 1</item>
+        <item>selectat ^1</item>
+    </string-array>
+    
+    <string-array name="reminder_leads">
+        <item>Nu-mi aminti</item>
+        <item>În ziua respectivã</item>
+        <item>Cu o zi înainte</item>
+        <item>Cu douã zile înainte</item>
+        <item>Cu o sãptãmânã înainte</item>
+        <item>Cu douã sãptãmâni înainte</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>Ziua 1</item>
+		<item>Ziua 2</item>
+		<item>Ziua 3</item>
+		<item>Ziua 4</item>
+		<item>Ziua 5</item>
+		<item>Ziua 6</item>
+		<item>Ziua 7</item>
+		<item>Ziua 8</item>
+		<item>Ziua 9</item>
+		<item>Ziua 10</item>
+		<item>Ziua 11</item>
+		<item>Ziua 12</item>
+		<item>Ziua 13</item>
+		<item>Ziua 14</item>
+		<item>Ziua 15</item>
+		<item>Ziua 16</item>
+		<item>Ziua 17</item>
+		<item>Ziua 18</item>
+		<item>Ziua 19</item>
+		<item>Ziua 20</item>
+		<item>Ziua 21</item>
+		<item>Ziua 22</item>
+		<item>Ziua 23</item>
+		<item>Ziua 24</item>
+		<item>Ziua 25</item>
+		<item>Ziua 26</item>
+		<item>Ziua 27</item>
+		<item>Ziua 28</item>
+		<item>Ziua 29</item>
+		<item>Ziua 30</item>
+		<item>Ziua 31</item>																			
+	</string-array>
+
+    <string name="display_direction">Direcþia afiºãrii</string>
+	<string-array name="sort_direction_items">
+		<item>Crescãtoare</item>
+		<item>Descrescãtoare</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>crescãtoare</item>
+		<item>descrescãtoare</item>
+	</string-array>
+</resources>
