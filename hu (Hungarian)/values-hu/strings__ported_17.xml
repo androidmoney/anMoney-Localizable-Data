@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
-    <string name="shareactionprovider_share_with">Megosztás a következővel:</string>
-    <string name="shareactionprovider_share_with_application">Ossza meg a következő alkalmazással: %s</string>
-    <string name="activity_chooser_view_see_all">Összes megtekintése</string>
-</resources>

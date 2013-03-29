@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="activitychooserview_choose_application">Odabir aplikacije</string>
-    <string name="shareactionprovider_share_with">Dijeljenje sa</string>
-    <string name="shareactionprovider_share_with_application">Dijeli s aplikacijom %s</string>
-    <string name="activity_chooser_view_see_all">Prikaži sve</string>
-</resources>
