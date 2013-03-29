@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="activitychooserview_choose_application">Alegeţi o aplicaţie</string>
-    <string name="shareactionprovider_share_with">Permiteţi accesul pentru</string>
-    <string name="shareactionprovider_share_with_application">Permiteţi accesul pentru %s</string>
-    <string name="activity_chooser_view_see_all">Afişaţi-le pe toate</string>
-</resources>
