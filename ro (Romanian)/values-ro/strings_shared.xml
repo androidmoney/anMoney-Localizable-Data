@@ -114,7 +114,7 @@
 	<string name="send_email">Trimite email</string>
 	<string name="please_read">Vă rog să citiţi</string>
 	<string name="rate_app_format">Evaluează ^1</string>
-	<string name="please_rate_app_format">Vă rog să acordaţi un moment \pentru a evalua ^1</string>
+	<string name="please_rate_app_format">Vă rog să acordaţi un moment\npentru a evalua ^1</string>
 	<string name="later_rate_description">Vi se va reaminti peste o săptămână</string>
 	<string name="no_rate_description_format">Poţi face asta oricând din ecranul ^1</string>
 	<string name="task_killer_warning_format">Atenţionare privind aplicaţiile „task killer”:\n\nDispozitivul dumneavoastră se va „trezi” o dată pe zi pentru a realiza procesarea automată. Deoarece aceasta va dura doar câteva secunde, nu va avea un efect negativ asupra duratei bateriei dispozitivului dumneavoastră.\n\nAplicaţiile Task killer pot şi vor împiedica executarea normală a acestei procesări în fundal şi ca urmare nu trebuie folosite cu ^1</string>
