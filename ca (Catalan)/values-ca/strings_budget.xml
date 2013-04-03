@@ -14,6 +14,7 @@
     <string name="recurring_bill_or_deposit_from">Factura o dipòsit recurrent des de</string>
     <string name="an_additional_amount_for_this_category">Una quantitat addicional per a aquesta categoria</string>
     <string name="the_additional_amount_for_this_category">La quantitat addicional per a aquesta categoria</string>
+    <string name="currently_daily_format">actualment ^1 diàriament</string>
     <string name="currently_weekly_format">actualment ^1 setmanalment</string>
     <string name="currently_biweekly_format">actualment ^1 quincenalment</string>
     <string name="currently_monthly_format">actualment ^1 mensualment</string>

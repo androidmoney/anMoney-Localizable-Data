@@ -35,7 +35,7 @@
 	<string name="skip_canceled">Kihagyás megszakítva</string>
 	<string name="skip_which">Melyiket hagyja ki</string>
 	<string name="skip_one_occurrence_warning">Hagyja ki a soron következő előfordulást</string>
-	<string name="no_recurrings_format">Nincsenek Ismétlődő számlái vagy betétei.\n\nLétrehozásához:\n\n<li>^1</li>\n\n<li>Hosszú-érintse meg bármelyik tranzakciót és érintse meg a ^2-t</li></string>
+	<string name="no_recurrings_format">Nincsenek ismétlődő számlái vagy betétei.\n\nLétrehozásához:\n\n<li>^1</li>\n\n<li>Hosszú-érintse meg bármelyik tranzakciót és érintse meg a ^2-t</li></string>
 	<string name="create_recurring_instructions_format">Érintse meg a ^i -ot a képernyő tetején</string>
 	<string name="recurring_no_accounts_yet">Kérjük, elöször hozzon létre számlákat és kedvezményezetteket</string>
 	<string name="specify_account">Kérjük, először adja meg a számlát</string>
@@ -75,7 +75,7 @@
 
 	
 	<string name="upcoming_date">Következő időpont</string>
-	<string name="series_start_date">A sorozat kezdési időpontja</string>
+	<string name="series_start_date">A sorozat kezdeti időpontja</string>
 	<string name="end_date_if_any">Befejezési időpont, ha van</string>
 	<string name="invalid_date">Érvénytelen dátum</string>
 	<string name="repeat">Ismétel</string>
@@ -157,7 +157,11 @@
 		<item>Módosítja a tranzakciót elöször</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Használja a mai dátumot</string>
-
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+		<item>^1 kiválasztott ismétlődő be lesz írva a regiszterbe</item>
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>A soron következő előfordulást</item>
 		<item>Az összes megkésett előfordulást</item>

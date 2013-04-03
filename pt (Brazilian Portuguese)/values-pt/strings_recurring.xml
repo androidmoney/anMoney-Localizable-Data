@@ -158,7 +158,11 @@
 		<item>Alterar transação primeiro</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Use a data de hoje para a data da transação</string>
-
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+		<item>^1 itens recorrentes selecionados serão registrados</item>
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>Próxima ocorrência</item>
 		<item>Todas as ocorrências vencidas</item>

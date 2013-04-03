@@ -162,7 +162,11 @@
 		<item>Modifier d’abord la transaction</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Utiliser la date d’aujourd’hui comme date de transaction</string>
-
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+		<item>^1 récurrences sélectionnées vont être saisies</item>
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>Occurrence à venir</item>
 		<item>Toutes les occurrences passées</item>

@@ -179,7 +179,11 @@
 		<item>Сначала изменить транзакцию</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Записать сегодняшним днём</string>
-
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+		<item>^1 выбранных запланированных операций будут записаны</item>
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>Запланированную операцию</item>
 		<item>Все просроченные операции</item>

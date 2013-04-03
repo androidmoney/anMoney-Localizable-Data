@@ -14,6 +14,7 @@
     <string name="recurring_bill_or_deposit_from">@string/recurring_bills_and_deposits</string>
     <string name="an_additional_amount_for_this_category">Egy további összeg ebben a kategóriában</string>
     <string name="the_additional_amount_for_this_category">A további összeg ebben a kategóriában</string>
+    <string name="currently_daily_format">jelenleg ^1 naponta</string>
     <string name="currently_weekly_format">jelenleg ^1 hetente</string>
     <string name="currently_biweekly_format">jelenleg ^1 kéthetente</string>
     <string name="currently_monthly_format">jelenleg ^1 havonta</string>

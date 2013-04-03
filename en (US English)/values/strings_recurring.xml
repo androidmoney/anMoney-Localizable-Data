@@ -74,6 +74,8 @@
 		<item>occurrence</item>
 		<item>occurrences</item>
 	</string-array>
+    <string name="upcoming_date">Upcoming date</string> <!-- As in the "the date of the upcoming recurring instance" --> 
+    <string name="series_start_date">Series start date</string> <!-- As in the "the starting date of the entire recurring series" -->
 	<string name="end_date_if_any">Inclusive end date, if any</string>
 	<string name="invalid_date">Invalid date</string>
 	<string name="repeat">Repeat</string>
@@ -159,7 +161,11 @@
 		<item>Edit transaction first</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Use today’s date for the transaction date</string>
-
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 selected recurring items will be entered</item>
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>Upcoming occurrence</item>
 		<item>All past due occurrences</item>

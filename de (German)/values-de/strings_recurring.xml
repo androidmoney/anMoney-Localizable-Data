@@ -59,7 +59,7 @@
 	<string name="notify_me_when_entered">Benachrichtigung wenn eingegeben</string>
 	<string name="the_last_day_of_the_month">Der letzte Tag des Monats</string>
 	<string name="include_in_budget">In Budget einfügen</string>
-	<string name="include_recurrings">Einschließlich sich wiederholender Elemente</string>
+	<string name="include_recurrings">Einschließlich sich wiederkehrende Elemente</string>
 <!-- New  --> <string name="make_recurring_budget_question_part1">Would you like to make this series part of your budget</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
 <!-- New  --> <string name="make_recurring_budget_question_part2_format">Even if you tap ^1, you can do this later by editing the series</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 				
@@ -159,7 +159,11 @@
 		<item>Zuerst Transaktion ändern</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Benutze den heutigen Tag als Transaktions-Datum</string>
-	
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+<!-- New --> <item>^1 wiederkehrenden Elemente werden eingegeben</item>
+    </string-array>
+		
 	<string-array name="skip_which_items">
 		<item>Anstehende Posten</item>
 		<item>Alle fälligen Posten aus der Vergangenheit</item>

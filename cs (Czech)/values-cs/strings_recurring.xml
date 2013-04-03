@@ -175,7 +175,11 @@
 		<item>Nejprve upravit transakci</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Use today’s date for the transaction date</string>
-
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+<!-- New --> <item>^1 selected recurring items will be entered</item>
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>Příští provedení</item>
 		<item>Všechna zpožděná provedení</item>

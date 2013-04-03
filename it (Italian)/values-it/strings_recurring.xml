@@ -141,7 +141,11 @@
 		<item>Prima modifica transazioni</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Usa la data di oggi per questa transazione</string>
-
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+<!-- New --> <item>^1 selected recurring items will be entered</item>
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>Prossima occorrenza</item>
 		<item>Tutte le occorrenze scadute</item>

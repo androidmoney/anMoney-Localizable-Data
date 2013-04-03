@@ -159,7 +159,11 @@
 		<item>Editar la transacción primero</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Utiliza la fecha de hoy para la fecha de la transacción</string>
-
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+<!-- Verify --> <item>^1 recurrencias seleccionadas serán registradas</item>
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>Próxima ocurrencia</item>
 		<item>Todas las ocurrencias atrasadas</item>

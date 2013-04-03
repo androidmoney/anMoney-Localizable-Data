@@ -14,7 +14,8 @@
 	<string name="recurring_bill_or_deposit_from">Conta ou depósito recorrente de</string>
     <string name="an_additional_amount_for_this_category">Um valor adicional para esta categoria</string>
     <string name="the_additional_amount_for_this_category">O valor adicional para esta categoria</string>
-	<string name="currently_weekly_format">atualmente ^1 semanal</string>
+    <string name="currently_daily_format">atualmente ^1 diário</string>
+    <string name="currently_weekly_format">atualmente ^1 semanal</string>
 
 	<string name="currently_monthly_format">atualmente ^1 mensal</string>
 	<string name="currently_half_yearly_format">atualmente ^1 semestral</string>

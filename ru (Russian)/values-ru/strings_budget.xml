@@ -14,6 +14,7 @@
 	<string name="recurring_bill_or_deposit_from">Запланированную операцию</string>
     <string name="an_additional_amount_for_this_category">Увеличить бюджет категории</string>
     <string name="the_additional_amount_for_this_category">Увеличенный бюджет категории</string>
+    <string name="currently_daily_format">сейчас ^1 ежедневно</string>
     <string name="currently_weekly_format">сейчас ^1 еженедельно</string>
 
     <string name="currently_monthly_format">сейчас ^1 ежемесячно</string>
