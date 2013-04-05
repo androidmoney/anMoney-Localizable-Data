@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transactions">Tranzacţii</string>
+    <string name="view_transactions">Vizualizaţi tranzacţiile</string>
+    <string name="new_transaction">Tranzacţie nouă</string>
+    <string name="edit_transaction">Editează tranzacţia</string>
+    <string name="split_transaction">Împarte tranzacţia</string>
+    <string name="delete_transaction">Şterge tranzacţia</string>
+    <string name="accept_transaction">Acceptă tranzacţia</string> <!-- Accept as in "Accept a new transaction" -->
+    <string name="select">Selectează</string>
+    <string name="accept">Acceptă</string>
+    <string name="accepted">Acceptat</string>
+    <string name="accept_canceled">Acceptarea a fost anulată</string>
+    <string name="accepting">Accept</string>
+    <string name="accept_transaction_all"><b>Toate</b> tranzacţiile vor fi acceptate</string>
+    <string name="mark">Marchează</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
+    <string name="marked">Marcat</string>
+    <string name="mark_canceled">Marcarea a fost anulată</string>
+    <string name="mark_transaction">Marchează tranzacţia</string>
+	<string-array name="mark_transactions_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>Marchează tranzacţia ^1</item>
+    </string-array>
+    <string name="mark_transactions_all">Marchează <b>toate</b> tranzacţiile</string>
+    <string name="marking">Marchez</string>
+    <string name="unreconciled1">Nereconciliat</string>
+    <string name="unreconciled2">@string/unreconciled1</string>
+    <string name="cleared1">Soldat</string>
+    <string name="cleared2">@string/cleared1</string>
+    <string name="reconciled1">Reconciliat</string>
+    <string name="reconciled2">@string/reconciled1</string>
+    <string name="_void_verb">Nulă</string>
+    <string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" -->
+	<string name="not_void1">Nu este nulă</string> <!-- This is an adjective as in "Not void transaction" -->
+    <string name="pending2">În aşteptare</string> <!--- As in it is a new transaction, and I need to review and accept it -->
+	<string name="exported_transaction">Exportată</string>
+    <string name="not_exported_transaction1">Neexportată</string>
+    <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
+    <string name="edit_notes">Editează notele</string>
+    <string name="notes_created">Note create</string>
+    <string name="notes_edited">Note editate</string>
+    <string name="notes_deleted">Note şterse</string>
+    <string name="notes_creation_canceled">Crearea notelor a fost anulată</string>
+    <string name="flag_for_follow_up">Însemnează pentru urmare</string>
+    <string name="edit_follow_up">Editează urmarea</string>
+    <string name="make_recurring">Fă periodic</string>
+    <string name="follow_up2">Urmare</string>
+    <string name="follow_up_by">Urmat de</string>
+    <string name="follow_up_created">Urmare creată</string>
+    <string name="follow_up_edited">Urmare editată</string>
+    <string name="follow_up_deleted">Urmare ştearsă</string>
+    <string name="follow_up_creation_canceled">Creare urmare anulată</string>
+    <string name="go_to">Dute la</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
+    <string name="number">Număr</string>
+    <string name="transfer">Transfer</string>
+    <string name="transfers">Transferuri</string>
+    <string name="transfer_account">Transferă în cont</string>
+    <string name="add">Adaugă</string>
+    <string name="added">Adăugat</string>
+    <string name="add_canceled">Adăugare anulată</string>
+    <string name="accept_and_edit">Acceptă &amp; Editează</string>
+    <string name="add_and_close">Adaugă &amp; Închide</string>
+    <string name="duplicate_in_current_account">Fă un duplicat în contul curent</string>
+    <string name="duplicate_copy_move">Fă un duplicat, copiază sau mută</string>
+    <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+    <string name="copy_to_another_account">Copiază în alt cont</string>
+    <string name="move_to_another_account">Mută în alt cont</string>
+    <string name="copy_transaction">Copiază tranzacţia</string>
+    <string name="move_transaction">Mută tranzacţia</string>
+    <string name="do_not_duplicate_notes">Nu duplica notele</string>
+    <string name="account_not_found">Contul nu a fost găsit</string>
+    <string name="cannot_transfer_to_itself">Nu poate fi transferat în el însuşi</string>
+    <string name="cannot_copy_to_itself">Nu poate copiat/mutat în el însuşi</string>
+    <string name="copy_move_currency_warning">Contul destinatar are altă monedă de bază. Trebuie să ajustezi suma tranzacţiei în contul destinatar</string>
+    <string name="all_transactions_hidden_by_filter">Toate tranzacţiile sunt ascunse datorită filtrului de afişare</string>
+    <string name="show_number">Arată număr</string>
+    <string name="show_number_description">Afişeayă numărul, dacă acesta există</string>
+    <string name="show_notes">Arată notele</string>
+    <string name="show_notes_description">Arată notele, dacă acestea există</string>
+    <string name="classification_cannot_fit_warning_part1">În fereastra tranzacţiei, datorită lipsei spaţiului, nu veţi putea vedea toate clasificările fără a derula</string>
+    <string name="classification_cannot_fit_warning_part2">Vreţi să ascundeţi anumite etichete pentru a elibera spaţiu</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="classification_cannot_fit_warning_part3">Veţi putea schimba această setare în orice moment mai târziu</string>
+    <string name="ask_to_edit_related_transaction_message_part1">Deoarece cealaltă parte a tranzacţiei este împărţită, trebuie să o editezi acolo</string>
+    <string name="ask_to_edit_related_transaction_message_part2">Doriţi să editaţi cealaltă tranzacţie acum</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="transaction_modified_message">Tranzacţia va fi modifictă</string>
+    <string name="transaction_confirm_save_on_back_press_message_format">Tranzacţia a fost modificată.\n\nApasă ^1 pentru a salva tranzacţia, ^2 pentru a te înapoia la editarea tranzacţiei, sau ^3 pentru a renunţa la modificări</string>
+    <string name="split_confirm_save_on_back_press_message_format">Tranzacţia a fost modificată.\n\nApasă ^1 pentru a salva împărţirea, ^2 pentru a te înapoia la editarea împărţirii, sau ^3 pentru a renunţa la modificări</string>
+    <string name="transaction_modified_reconciled_message">O tranzacţie reconciliată a fost modificată</string>
+    <string name="transaction_modified_related_reconciled_message">Cealaltă parte a tranzacţiei, care este reconciliată, va fi modificată</string>
+    <string name="records_may_differ">Aceasta poate determina ca înregistrările dumneavoastră să difere faţă de cele ale instituţiei bancare</string>
+    <string name="missing_category_warning_message_format">Este foarte recomandat să se specifice o categorie,deoarece fără aceasta, rapoartele privind cheltuielile pot fi inexacte.\n\nApasă ^1 pentru a salva tranzacţia şi a lăsa categoria nesepecificată, sau ^2 pentru a te întoarce la editarea tranzacţiei</string>
+    <string name="expense_category_given_for_income_message_format">O categorie de cheltuieli este specificată pentru ^1.\n\nApasă ^2 pentru a lăsa categoria aleasă, sau ^3 pentru a te întoarce la editarea tranzacţiei</string> <!-- the ^1 parameter comes from amount1_description array -->
+    <string name="income_category_given_for_expense_message_format">O categorie de venituri este specificată pentru ^1.\n\nApasă ^2 pentru a lăsa categoria aleasă, sau ^3 pentru a te întoarce la editarea tranzacţiei</string> <!-- the ^2 parameter comes from amount2_description array -->
+    <string name="payee_not_found_format">Plata ^1 nu a fost găsită</string>
+    <string name="payer_not_found_format">Plătitorul ^1 nu a fost găsit</string>
+    <string name="would_you_like_to_create_it">Vreşi să-l creaţi</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="amount_zero_warning_message_format">Suma tranzacţiei este zero.\n\nApasă ^1 pentru a lăsa suma zero, sau ^2 pentru a întroduce o tranzacţie nulă</string>
+    <string name="sum_of_splits_warning_message_format">Totalul părţilor nu este aceleaşi cu suma tranzacţşiei.\n\nApasă ^1 pentru a edita părţile</string>
+    <string name="duplicate_number_message_format">O tranzacţie datată ^1 foloseşte deja aces număr de cec.\n\nApasă ^2 pentru a reutiliza numărul de cec, sau ^3 pentru a vă întoarce la editarea tranzacţiei</string>
+    <string name="leave_zero">Lasă 0</string>
+    <string name="credits">Credit</string>
+    <string name="no_credits">Fără credit</string>
+    <string name="deposits">Depozite</string>
+    <string name="no_deposits">Fără depozite</string>
+    <string name="checks">Cecuri</string> <!-- As in check book -->
+    <string name="no_checks">Fără cecuri</string> <!-- As in check book -->
+    <string name="charges">Costuri</string>
+    <string name="no_charges">Fără costuri</string>
+    <string name="payments">Plăţi</string>
+    <string name="no_payments">Fără plăţi</string>
+    <string name="checks_payments">Cecuri &amp; Plăţi</string>
+    <string name="no_checks_payments">Fără cecuri sau plăţi</string>
+    <string name="deposits_payments">Depozite &amp; Plăţi</string>
+    <string name="no_deposits_payments">Fără depozite sau plăţi</string>
+    <string name="no_unreconciled_transactions">Fără tranzacţii nereconciliate</string>
+    <string name="removing_transactions">Îndepărtare tranzacţii</string>
+    <string name="cleared_all_transactions">Toate tranzacţiile au fost soldate</string>
+    <string name="next_check_number">Următorul număr de cec</string>
+    <string name="cleared_transactions_color">Culoare tranzacţii soldate</string>
+    <string name="reconciled_transactions_color">Culoare tranzacţii reconciliate</string>
+	<string name="create_transaction_instructions_format">Pentru a crea o tranzacţie, apasă ^i în partea de sus a ecranului</string> <!-- ^i will be replaced by an icon --> 
+    <string name="text_filter">Filtru text</string>
+    <string name="profit_and_loss_statement">Extras de cont Profit &amp; Pierdere </string>
+	<string name="transaction_type">Tip tranzacţie</string>
+	<string name="transaction_status">Stare tranzacţie</string>
+
+    <string name="full_screen_mode">Mod ecran complet</string>
+    <string name="full_screen_mode_description">Mai multe tranzacţii sunt vizibile, dacă este selectat</string>
+
+	<string-array name="amount1_labels">
+        <item>Plată</item>
+        <item>Cheltuit</item>
+        <item>Cost</item>
+        <item>Plată</item>
+        <item>Crescător</item>
+        <item>Descrescător</item>
+        <item>Retragere</item>
+    </string-array>
+	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
+        <item>plata</item>
+        <item>cheltuiala</item>
+        <item>costul</item>
+        <item>plata</item>
+        <item>crescătoare</item>
+        <item>descrescătoare</item>
+        <item>retragerea</item>
+    </string-array>
+	<string-array name="amount2_labels">
+        <item>Depozit</item>
+        <item>Primeşte</item>
+        <item>Credit</item>
+        <item>Chitanţă principală</item>
+        <item>Descrescător</item>
+        <item>Crescător</item>
+        <item>Depozit</item>
+    </string-array>
+	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
+        <item>depozitul</item>
+        <item>chitanţa</item>
+        <item>creditul</item>
+        <item>chitanţa principală</item>
+        <item>descreşterea</item>
+        <item>creşterea</item>
+        <item>depozitul</item>
+    </string-array>
+
+	<string name="delete_transaction_warning">Tranzacţia a fost ştearsă</string>
+	<string-array name="delete_transaction_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item> tranzacţia ^1 selectată va fi ştearsă</item>
+    </string-array>
+    <string name="delete_transaction_warning_all"><b>Toate</b> tranzacţiile vor fi şterse</string>
+	<string name="delete_transaction_warning_reconciled">O tranzacţie reconciliată va fi ştearsă</string>
+    <string-array name="delete_transaction_warning_reconciled_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>Tranzacţiile ^1 selectate vor fi şterse, cel puţin una dintre ele este reconciliată</item>
+    </string-array>
+	<string name="accept_transaction_confirm_singular">Tranzacţiile vor fi acceptate</string>
+    <string-array name="accept_transaction_confirm_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 selected transactions will be accepted</item>
+    </string-array>
+</resources>
