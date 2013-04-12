@@ -279,6 +279,9 @@
 	<string name="current_month">Laufender Monat</string>
 	<string name="previous_month">Voriger Monat</string>
 	<string name="next_month">Nächster Monat</string>
+	<string name="current_quarter">Laufendes Vierteljahr</string>
+	<string name="previous_quarter">Voriges Vierteljahr</string>
+	<string name="next_quarter">Nächstes Vierteljahr</string>
 	<string name="current_half_year">Laufendes Halbjahr</string>
 	<string name="previous_half_year">Voriges Halbjahr</string>
 	<string name="next_half_year">Nächstes Halbjahr</string>

@@ -277,6 +277,9 @@
 	<string name="current_month">Aktuális hónap</string>
 	<string name="previous_month">Múlt hónap</string>
 	<string name="next_month">Jövő hónap</string>
+	<string name="current_quarter">Aktuális negyedév</string>
+	<string name="previous_quarter">Előző negyedév</string>
+	<string name="next_quarter">Következő negyedév</string>
 	<string name="current_half_year">Aktuális félév</string>
 	<string name="previous_half_year">Múlt félév</string>
 	<string name="next_half_year">Jövő félév</string>

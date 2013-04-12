@@ -18,7 +18,8 @@
     <string name="currently_weekly_format">сейчас ^1 еженедельно</string>
 
     <string name="currently_monthly_format">сейчас ^1 ежемесячно</string>
-	<string name="currently_half_yearly_format">сейчас ^1 раз в полгода</string>
+	<string name="currently_quarterly_format">сейчас ^1 раз в квартал</string>
+    <string name="currently_half_yearly_format">сейчас ^1 раз в полгода</string>
     <string name="currently_yearly_format">сейчас ^1 ежегодно</string>
     <string name="currently_custom_format">сейчас по графику, в сумме ^1 ежегодно</string>
     <string name="budget_no_categories_yet">Перед определением бюджета создайте категории</string>

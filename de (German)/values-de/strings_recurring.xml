@@ -111,7 +111,9 @@
    	<string name="months_upper">Monate</string>
    	<string name="monthly">Monatlich</string>
 	<string name="twice_a_month">2x im Monat</string>
+	<string name="quarter_upper">Vierteljahr</string>
 	<string name="quarters_upper">Vierteljahren</string>
+	<string name="quarterly">Vierteljährlich</string>
 	<string name="half_year">Halbjahr</string>
 	<string name="half_yearly">Halbjährlich</string>
 	<string name="year_upper">Jahr</string>

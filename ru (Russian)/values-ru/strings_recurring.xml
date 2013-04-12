@@ -119,7 +119,9 @@
 	<string name="month_lower">месяц</string>
 	<string name="months_upper">Месяцам</string>
 	<string name="monthly">Ежемесячно</string>
+	<string name="quarter_upper">Квартал</string>
 	<string name="quarters_upper">Кварталам</string>
+	<string name="quarterly">Раз в квартал</string>
 	<string name="twice_a_month">Дважды в месяц</string>
 	<string name="half_year">Полгода</string>
 	<string name="half_yearly">Раз в полгода</string>

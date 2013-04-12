@@ -120,7 +120,9 @@
 	<string name="months_upper">Měsíce</string>
 	<string name="monthly">Měsíčně</string>
 	<string name="twice_a_month">Dvakrát za měsíc</string>
+	<string name="quarter_upper">Čtvrtletí</string>
 	<string name="quarters_upper">Čtvrtletí</string>
+	<string name="quarterly">Čtvrtletně</string>
 	<string name="half_year">Půl roku</string>
 	<string name="half_yearly">Pololetně</string>
 	<string name="year_upper">Rok</string>

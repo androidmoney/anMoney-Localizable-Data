@@ -93,7 +93,9 @@
 	<string name="months_upper">Mesi</string>
 	<string name="monthly">Mensilmente</string>
 	<string name="twice_a_month">2 volte al mese</string>
-	<string name="quarters_upper">Trimestre</string>
+	<string name="quarter_upper">Trimestre</string>
+	<string name="quarters_upper">Trimestri</string>
+	<string name="quarterly">Trimestralmente</string>
 	<string name="half_year">Semestre</string>
 	<string name="half_yearly">Semestralmente</string>
 	<string name="year_upper">Anno</string>

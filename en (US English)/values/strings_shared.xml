@@ -3,7 +3,7 @@
     <string name="two_part_format">^1 ^2</string>
     <string name="sentence_end_period_format">^1.</string>
     <string name="sentence_end_question_mark_format">^1?</string>
-    <string name="two_items_parantheses_format">^1 (^2)</string>
+    <string name="parantheses_format">(^1)</string>
     <string name="two_items_dash_with_space_format">^1 – ^2</string>
     <string name="two_items_dash_without_space_format">^1–^2</string>
     <string name="colon_format">^1:</string>
@@ -18,6 +18,7 @@
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
     <string name="option_on_symbol">✓</string>
     <string name="option_off_symbol">✗</string>
+    <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 for ^2 by ^3 ^4 for ^5</string> <!-- Example: "All transactions for AMEX by decreasing date for all dates" -->

@@ -7,7 +7,8 @@
     <string name="no_accounts_warning">Si us plau, crei al menys un compte abans de col·locar el «widget»</string>
     <string name="book_no_longer_exists_format">El llibre ^1 ja no existeix</string>
     <string name="account_no_longer_exists">El compte ja no existeix</string>
-
+    <string name="report_no_longer_exists">El informe ja no existeix</string>
+    
     <string name="quick_entry">Entrada ràpida</string>
     <string name="app_name_quick_entry">anMoney — Entrada ràpida</string>
     <string name="app_name_quick_entry_large">anMoney — Entrada ràpida (gran)</string>

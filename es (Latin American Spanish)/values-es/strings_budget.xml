@@ -18,6 +18,7 @@
     <string name="currently_weekly_format">actualmente ^1 semanal</string>
 
     <string name="currently_monthly_format">actualmente ^1 mensual</string>
+<!-- Verify --> <string name="currently_quarterly_format">actualmente ^1 trimestral</string>
 <!-- Verify --> <string name="currently_half_yearly_format">actualmente ^1 semestral</string>
     <string name="currently_yearly_format">actualmente ^1 anual</string>
     <string name="currently_custom_format">actualmente una programación personalizada totalizando ^1 anual</string>

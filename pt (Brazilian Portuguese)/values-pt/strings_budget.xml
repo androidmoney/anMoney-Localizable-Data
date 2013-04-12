@@ -18,6 +18,7 @@
     <string name="currently_weekly_format">atualmente ^1 semanal</string>
 
 	<string name="currently_monthly_format">atualmente ^1 mensal</string>
+	<string name="currently_quarterly_format">atualmente ^1 triemestral</string>
 	<string name="currently_half_yearly_format">atualmente ^1 semestral</string>
     <string name="currently_yearly_format">atualmente ^1 anual</string>
     <string name="currently_custom_format">atualmente uma agenda personalizada totalizando ^1 anuais</string>

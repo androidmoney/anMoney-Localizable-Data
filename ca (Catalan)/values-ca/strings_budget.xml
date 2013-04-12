@@ -18,6 +18,7 @@
     <string name="currently_weekly_format">actualment ^1 setmanalment</string>
     <string name="currently_biweekly_format">actualment ^1 quincenalment</string>
     <string name="currently_monthly_format">actualment ^1 mensualment</string>
+    <string name="currently_quarterly_format">currently ^1 trimestralment</string>
     <string name="currently_half_yearly_format">actualment ^1 semestralment</string>
     <string name="currently_yearly_format">actualment ^1 anualment</string>
     <string name="currently_custom_format">actualment una programació personalitzada per un total de ^1 anualment</string>

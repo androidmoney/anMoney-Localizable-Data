@@ -7,7 +7,8 @@
     <string name="no_accounts_warning">Создайте хотя бы один счёт перед использованием виджета</string>
     <string name="book_no_longer_exists_format">Книга ^1 не найдена</string>
     <string name="account_no_longer_exists">Счёт не найден</string>
-
+    <string name="report_no_longer_exists">Отчёт не найден</string>
+    
     <string name="quick_entry">Быстрый ввод</string>
     <string name="app_name_quick_entry">anMoney — Быстрый ввод</string>
     <string name="app_name_quick_entry_large">anMoney — Быстрый ввод (большой)</string>

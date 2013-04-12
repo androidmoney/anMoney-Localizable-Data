@@ -277,6 +277,9 @@
 	<string name="current_month">Mes actual</string>
 	<string name="previous_month">Mes anterior</string>
 	<string name="next_month">Proper mes</string>
+	<string name="current_quarter">Trimestre actual</string>
+	<string name="previous_quarter">Trimestre anterior</string>
+	<string name="next_quarter">Proper trimestre</string>
 	<string name="current_half_year">Semestre actual</string>
 	<string name="previous_half_year">Semestre anterior</string>
 	<string name="next_half_year">Proper semestre</string>

@@ -7,7 +7,8 @@
     <string name="no_accounts_warning">Por favor, crea al menos una cuenta antes de colocar el widget</string>
     <string name="book_no_longer_exists_format">Libro ^1 ya no existe</string>
     <string name="account_no_longer_exists">Cuenta ya no existe</string>
-
+    <string name="report_no_longer_exists">Reporte ya no existe</string>
+    
     <string name="quick_entry">Entrada rápida</string>
     <string name="app_name_quick_entry">anMoney — Entrada rápida</string>
     <string name="app_name_quick_entry_large">anMoney — Entrada rápida (grande)</string>

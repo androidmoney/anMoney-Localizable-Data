@@ -279,6 +279,9 @@
 	<string name="current_month">Текущий месяц</string>
 	<string name="previous_month">Предыдущий месяц</string>
 	<string name="next_month">Следующий месяц</string>
+	<string name="current_quarter">Текущий квартал</string>
+	<string name="previous_quarter">Предыдущий квартал</string>
+	<string name="next_quarter">Следующий квартал</string>
 	<string name="current_half_year">Текущие полгода</string>
 	<string name="previous_half_year">Предыдущие полгода</string>
 	<string name="next_half_year">Следующие полгода</string>

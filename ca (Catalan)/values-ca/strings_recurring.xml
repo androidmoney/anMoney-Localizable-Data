@@ -113,9 +113,11 @@
 	<string name="months_upper">Mesos</string>
 	<string name="monthly">Cada mes</string>
 	<string name="twice_a_month">Dos cops al mes</string>
+	<string name="quarter_upper">Trimestre</string>
 	<string name="quarters_upper">Trimestres</string>
+	<string name="quarterly">Trimestralment</string>
 	<string name="half_year">Mig any</string>
-	<string name="half_yearly">Semi anualment</string>
+	<string name="half_yearly">Semestralment</string>
 	<string name="year_upper">Any</string>
 	<string name="year_lower">any</string>
 	<string name="years_upper">Anys</string>

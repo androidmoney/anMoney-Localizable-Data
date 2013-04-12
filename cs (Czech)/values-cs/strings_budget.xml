@@ -18,6 +18,7 @@
     <string name="currently_weekly_format">nyní ^1 týdně</string>
     <string name="currently_biweekly_format">nyní ^1 čtrnáctidenně</string>
     <string name="currently_monthly_format">nyní ^1 měsíčně</string>
+    <string name="currently_quarterly_format">nyní ^1 čtvrtletně</string>
     <string name="currently_half_yearly_format">nyní ^1 pololetně</string>
     <string name="currently_yearly_format">nyní ^1 ročně</string>
     <string name="currently_custom_format">podle vlastního plánu, celkem ^1 za rok</string>

@@ -113,7 +113,9 @@
 	<string name="months_upper">Months</string>
 	<string name="monthly">Monthly</string>
 	<string name="twice_a_month">Twice a month</string>
+	<string name="quarter_upper">Quarter</string>
 	<string name="quarters_upper">Quarters</string>
+	<string name="quarterly">Quarterly</string>
 	<string name="half_year">Half year</string>
 	<string name="half_yearly">Semiannually</string>
 	<string name="year_upper">Year</string>

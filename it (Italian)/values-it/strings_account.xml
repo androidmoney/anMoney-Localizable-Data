@@ -277,10 +277,13 @@
 	<string name="current_month">Mese corrente</string>
 	<string name="previous_month">Mese prededente</string>
 	<string name="next_month">Mese prossimo</string>
-	<string name="current_year">Anno corrente</string>
+	<string name="current_quarter">Trimestre corrente</string>
+	<string name="previous_quarter">Trimestre prededente</string>
+	<string name="next_quarter">Trimestre prossimo</string>
 	<string name="current_half_year">Semestre corrente</string>
 	<string name="previous_half_year">Semestre prededente</string>
 	<string name="next_half_year">Semestre prossimo</string>
+	<string name="current_year">Anno corrente</string>
 	<string name="previous_year">Anno prededente</string>
 	<string name="next_year">Anno prossimo</string>
 	<string name="current_week">Settimana corrente</string>

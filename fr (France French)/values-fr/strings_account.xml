@@ -277,6 +277,9 @@
 	<string name="current_month">Mois en cours</string>
 	<string name="previous_month">Mois précédent</string>
 	<string name="next_month">Mois suivant</string>
+	<string name="current_quarter">Trimestre en cours</string>
+	<string name="previous_quarter">Trimestre précédent</string>
+	<string name="next_quarter">Trimestre suivant</string>
 	<string name="current_half_year">Semestre en cours</string>
 	<string name="previous_half_year">Semestre précédent</string>
 	<string name="next_half_year">Semestre suivant</string>

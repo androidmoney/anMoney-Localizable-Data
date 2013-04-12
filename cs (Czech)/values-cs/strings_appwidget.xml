@@ -6,7 +6,8 @@
 	<string name="no_accounts_warning">Před umístěním widgetu, vytvořte prosím alespoň jeden účet</string>
 	<string name="book_no_longer_exists_format">Kniha ^1 již neexistuje</string>
 	<string name="account_no_longer_exists">Účet již neexistuje</string>
-	
+    <string name="report_no_longer_exists">Report již neexistuje</string>
+		
 	<string name="quick_entry">Rychlé zadání</string>
     <string name="app_name_quick_entry">anMoney — Rychlé zadání</string>
 	<string name="app_name_quick_entry_large">anMoney — Rychlé zadání (velký)</string>

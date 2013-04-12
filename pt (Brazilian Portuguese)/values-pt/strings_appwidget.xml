@@ -7,7 +7,8 @@
     <string name="no_accounts_warning">Por favor crie pelo menos uma conta antes de posicionar o widget</string>
     <string name="book_no_longer_exists_format">Livro ^1 não existe mais</string>
     <string name="account_no_longer_exists">Conta não existe mais</string>
-
+    <string name="report_no_longer_exists">Relatório não existe mais</string>
+    
     <string name="quick_entry">Entrada rápida</string>
     <string name="app_name_quick_entry">anMoney — Entrada rápida</string>
     <string name="app_name_quick_entry_large">anMoney — Entrada rápida (grande)</string>
@@ -20,5 +21,5 @@
 
     <string name="app_name_report">anMoney — Relatório</string>
 
-<!-- New --> <string name="dash_clock_extension_description">Displays overdue bills or deposits, if any.</string>
+	<string name="dash_clock_extension_description">Exibe contas ou depósitos vencidos, se houver.</string>
 </resources>

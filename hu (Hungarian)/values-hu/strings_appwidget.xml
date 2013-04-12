@@ -7,7 +7,8 @@
     <string name="no_accounts_warning">Kérjük, mielőtt ledobná a widgetet, hozzon létre legalább egy számlát</string>
     <string name="book_no_longer_exists_format">Könyv ^1 már nem létezik</string>
     <string name="account_no_longer_exists">A számla már nem létezik</string>
-
+    <string name="report_no_longer_exists">A jelentés már nem létezik</string>
+    
     <string name="quick_entry">Gyors bejegyzés</string>
     <string name="app_name_quick_entry">anMoney — Gyors bejegyzés</string>
     <string name="app_name_quick_entry_large">anMoney — Gyors bejegyzés (nagy)</string>

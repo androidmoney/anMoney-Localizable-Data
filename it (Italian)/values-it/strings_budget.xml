@@ -18,7 +18,8 @@
     <string name="currently_weekly_format">attualmente ^1 settimanali</string>
 
 	<string name="currently_monthly_format">attualmente ^1 mensili</string>
-    <string name="currently_half_yearly_format">attualmente ^1 semestrali</string>
+	<string name="currently_quarterly_format">attualmente ^1 trimestrali</string>
+	<string name="currently_half_yearly_format">attualmente ^1 semestrali</string>
 	<string name="currently_yearly_format">attualmente ^1 annuale</string>
     <string name="currently_custom_format">attualmente una stima personalizzata per un totale di ^1 annuali</string>
     <string name="budget_no_categories_yet">Si prega di creare delle categorie prima di impostare il bilancio</string>

@@ -7,7 +7,8 @@
     <string name="no_accounts_warning">Please create at least one account before dropping the widget</string>
     <string name="book_no_longer_exists_format">Book ^1 no longer exists</string>
     <string name="account_no_longer_exists">Account no longer exists</string>
-
+    <string name="report_no_longer_exists">Report no longer exists</string>
+    
     <string name="quick_entry">Quick entry</string>
     <string name="app_name_quick_entry">anMoney — Quick entry</string>
     <string name="app_name_quick_entry_large">anMoney — Quick entry (large)</string>

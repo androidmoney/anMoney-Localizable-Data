@@ -7,7 +7,8 @@
 	<string name="no_accounts_warning">Vous devez créer au moins un compte avant d’utiliser ce widget</string>
 	<string name="book_no_longer_exists_format">Le livre ^1 n’existe plus</string>
 	<string name="account_no_longer_exists">Le compte n’existe plus</string>
-	
+    <string name="report_no_longer_exists">Le rapport n’existe plus</string>
+		
 	<string name="quick_entry">Saisie rapide</string>
     <string name="app_name_quick_entry">anMoney — Saisie rapide</string>
 	<string name="app_name_quick_entry_large">anMoney — Saisie rapide (grand)</string>

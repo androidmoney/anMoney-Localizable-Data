@@ -111,7 +111,9 @@
 	<string name="months_upper">Hónapok</string>
 	<string name="monthly">Havonta</string>
 	<string name="twice_a_month">Havonta kétszer</string>
+	<string name="quarter_upper">Negyed</string>
 	<string name="quarters_upper">Negyedek</string>
+	<string name="quarterly">Negyedévente</string>
 	<string name="half_year">Félév</string>
 	<string name="half_yearly">Félévente</string>
 	<string name="year_upper">Év</string>

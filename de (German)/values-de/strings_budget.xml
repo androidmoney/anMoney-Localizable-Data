@@ -18,7 +18,8 @@
 	<string name="currently_weekly_format">derzeit ^1 wöchentlich</string>
 
     <string name="currently_monthly_format">derzeit ^1 monatlich</string>
-	<string name="currently_half_yearly_format">derzeit ^1 halbjährlich</string>
+    <string name="currently_quarterly_format">derzeit ^1 vierteljährlich</string>
+    <string name="currently_half_yearly_format">derzeit ^1 halbjährlich</string>
     <string name="currently_yearly_format">derzeit ^1 jährlich</string>
 	<string name="currently_custom_format">derzeit ein eigener Plan für total ^1 jährlich</string>
 	<string name="budget_no_categories_yet">Bitte erstellen Sie Kategorien, bevor Sie ein Budget erstellen</string>
