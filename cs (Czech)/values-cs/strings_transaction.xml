@@ -25,7 +25,7 @@
     <string name="mark_transactions_all">Označit <b>všechny</b> transakce</string>
     <string name="marking">Označuji</string>
     <string name="unreconciled1">Neověřená</string>
-    <string name="unreconciled2">Neověřené</string>
+    <string name="unreconciled2">Neodsouhlasené</string>
     <string name="cleared1">Zkontrolovaná</string>
     <string name="cleared2">Zkontrolované</string>
     <string name="reconciled1">Odsouhlasená</string>
