@@ -3,7 +3,7 @@
     <string name="account">Conto</string>
     <string name="accounts">Conti</string>
     <string name="all_accounts">Tutti i conti</string>
-    <string name="open_accounts">Apri conti</string>
+    <string name="open_accounts">Conti aperti</string>
     <string name="liability">Debito</string>
     <string name="asset">Attività</string>
     <string name="credit_liability_details">Credito / Dettagli responsabilità</string>
@@ -27,7 +27,7 @@
 	<string name="postpone">Rinvia</string>
     <string name="balance_verb">Bilancio</string>
     <string name="balance_account">Bilancio conto</string>
-    <string name="balanced">Bilancio equilibrato</string>
+    <string name="balanced">Bilanciato</string>
     <string name="balance_postponed">Bilancio rinviato</string>
     <string name="balance_canceled">Bilancio cancellato</string>
 	<string name="started_balancing_already">Hai già iniziato a bilanciare questo conto</string>
