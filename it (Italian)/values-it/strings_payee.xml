@@ -45,9 +45,9 @@
     </string-array>
 
     <string name="all_payees">Tutti i beneficiari</string>
-	<string name="payees_in_open_accounts">beneficiari per conti aperti</string>
-	<string name="payees_in_closed_accounts_only">Solo beneficiario in conti chiusi</string>
-	<string name="unused_payees">Beneficiario non usati</string>
+	<string name="payees_in_open_accounts">Beneficiari per conti aperti</string>
+	<string name="payees_in_closed_accounts_only">Solo beneficiari in conti chiusi</string>
+	<string name="unused_payees">Beneficiari inutilizzati</string>
 	<string-array name="payee_list_filter_title_bar">
 		<item>@string/all_payees</item>
 		<item>@string/payees_in_open_accounts</item>
