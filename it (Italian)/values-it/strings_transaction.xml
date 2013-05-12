@@ -21,7 +21,7 @@
         <item>Seleziona ^1 transazioni</item>
     </string-array>
     <string name="mark_transactions_all">Seleziona <b>tutte</b> transazioni</string>
-    <string name="unreconciled1">Non riconciliati</string>
+    <string name="unreconciled1">Non riconciliata</string>
 
     <string name="cleared1">Autorizzata</string>
 
@@ -62,9 +62,9 @@
     <string name="duplicate_copy_move">Duplica, copia o muovi</string>
 
     <string name="copy_to_another_account">Copia in un altro conto</string>
-    <string name="move_to_another_account">Muovi in un altro conto</string>
+    <string name="move_to_another_account">Sposta in un altro conto</string>
     <string name="copy_transaction">Copia transazione</string>
-    <string name="move_transaction">Muovi transazione</string>
+    <string name="move_transaction">Sposta transazione</string>
     <string name="do_not_duplicate_notes">Non duplicare le note</string>
     <string name="account_not_found">Il conto non esiste</string>
     <string name="cannot_transfer_to_itself">Non posso trasferire il conto su se stesso</string>
@@ -111,9 +111,9 @@
     <string name="deposits_payments">Depositi &amp; Pagamenti</string>
     <string name="no_deposits_payments">Nessun deposito o pagamento</string>
     <string name="no_unreconciled_transactions">Nessuna transazione riconciliata</string>
-    <string name="cleared_all_transactions">Pulisci tutte le transazioni</string>
+    <string name="cleared_all_transactions">Elimina tutte le transazioni</string>
     <string name="next_check_number">Prossimo numero assegno</string>
-    <string name="cleared_transactions_color">Pulisci colore transazioni</string>
+    <string name="cleared_transactions_color">Elimina colore transazioni</string>
     <string name="reconciled_transactions_color">Riconcilia colore transazioni</string>
 	<string name="create_transaction_instructions_format">Per creare una transazione, toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an icon --> 
 	<string name="text_filter">Testo del filtro</string>
