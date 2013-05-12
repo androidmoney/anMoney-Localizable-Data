@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="book">Libretto</string>
-    <string name="books">Libretti</string>
     <string name="new_book">Nuovo libretto</string>
     <string name="new_book_name">Nuovo nome del libretto</string>
-    <string name="open_book">Apri libretto</string>
-    <string name="close_book">Chiudi libretto</string>
     <string name="rename_book">Rinomina libretto</string>
     <string name="delete_book">Elimina libretto</string>
 	<string name="share_book">Spedisci libretto</string>
-	<string name="preparing_to_share">Preparando alla spedizione</string>
     <string name="book_delete_warning_short_format">Libretto ^1 sarà eliminato</string>
     <string name="all_data_will_be_lost">Tutte le informazioni contenute in questo libretto saranno eliminate, se non fai un backup</string>
     <string name="import_into_book">Importa nel libretto</string>
     <string name="export_from_book">Esporta dal libretto</string>
     <string name="import_into_book_format">Importa nell’ libretto ^1</string>
-    <string name="copying_book">Copiando il libretto</string>
     <string name="no_books">Tu non hai nessun libretto</string>
-	<string name="create_book_instructions_format">Per creare un libretto, toccare ^i nella parte superiore dello schermo</string> <!-- The ^i will be replaced by an image -->
-    <string name="book_list_favorites_empty">Nessun libretto preferito</string>
-    <string name="creating_book">Sto creando un libretto</string>
     <string name="upgrading_book">Aggiornando libretto</string>
     <string name="upgrading_books">Aggiornando i libretti</string>
     <string name="backup">Backup</string>
@@ -28,12 +20,10 @@
     <string name="overwrite">Sovrascrivere</string>
     <string name="backup_name">Nome del backup</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="backing_up_book">Backup il libretto</string>
     <string name="restore">Ripristinare</string>
     <string name="restored">Ripristinato</string>
     <string name="restore_canceled">Ripristino cancellato</string>
     <string name="restore_book">Ripristina libretto</string>
-    <string name="restoring_book">Ripristinando libretto</string>
     <string name="restore_warning_format">Libretto ^1 sarà sovrascritto e <b>tutti</b> i dati saranno distrutti e non recuperabili</string>
     <string name="select_backup_file_to_restore">Seleziona un backup da ripristinare</string>
     <string name="select_backup_file_to_create_from">Seleziona un backup creato da</string>
@@ -49,10 +39,6 @@
     <string name="select_book">Seleziona libretto</string>
     <string name="select_book_to_import_into">Seleziona libretto da importare nell’ estratto conto</string>
     <string name="select_import_file">Seleziona file(s) da importare</string>
-    <string name="reading_format">Leggendo ^1</string>
-    <string name="reading_file">Leggendo file</string>
-    <string name="reading_files">Leggendo files</string>
-    <string name="checking_for_duplicate_transactions">Controllando transazioni duplicate</string>
     <string name="not_specified_brackets">&lt;Non specificato></string>
     <string name="map_accounts">Conti associati</string>
     <string name="configure_account_mappings">Configura la mappature dei conti</string>
@@ -167,19 +153,7 @@
     </string-array>
 
     <string name="general">Generale</string>
-    <string name="navigation">Navigazione</string>
-    
-    <string name="reopen_last_book">Riapri l’ ultimo libretto</string>
-    <string name="reopen_last_book_description">Se selezionato, verrà riaperto l’ultimo libretto all’avvio dell’applicazione</string>
-        
     <string name="starting_screen">Schermata di inizio</string>
-	
-    <string name="back_press_on_home_screen">Premi indietro per andare alla schermata iniziale</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Chiudi ^1</item>
-		<item>Chiude libretto attuale visualizza lista</item>
-	</string-array>
-	
     <string name="negative_amount_format">Somma formato negativo</string>
     
     <string name="show_currency_symbol">Visualizza simbolo della valuta</string>

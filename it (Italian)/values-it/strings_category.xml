@@ -44,10 +44,8 @@
     <string name="delete_subcategory_warning_format">La sottocategoria ^1 sarà definitivamente cancellata</string>
     <string name="delete_subclass_warning_format">La sottoclasse ^1 sarà definitivamente cancellata</string>
     <string name="delete_classification_warning_format">La classificazione ^1 sarà definitivamente cancellata. A tutte le transazioni verranno eliminate le loro classificazioni</string>
-    <string name="deleting_classification">Eliminando classificazioni</string>
     <string name="default_categories_add_confirmation">Vuoi inserire una categoria predefinita</string>
     <string name="default_categories_added">Categoria predefinita inserita</string>
-    <string name="adding_default_categories">Inserire categorie predefinite</string>
     <string name="all_categories">Tutte le categorie</string>
     <string name="expense">Spesa</string>
     <string name="expenses">Spese</string>

@@ -18,10 +18,5 @@
     <string name="financial_institution_name">Nom de la institució financera</string>
     <string name="contact_exists">Ja existeix un contacte amb aquest nom</string>
     <string name="link_financial_institution">Vol enllaçar aquesta institució financera al contacte ja existent</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    
     <string name="no_financial_institutions_yet">Cap institució financera encara</string>
-	<string-array name="financial_institution_count_format_plurals">
-        <item>1 institució financera</item>
-        <item>^1 institucions financeres</item>
-    </string-array>
 </resources>

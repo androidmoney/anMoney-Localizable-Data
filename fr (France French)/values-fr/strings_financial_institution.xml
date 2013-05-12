@@ -17,11 +17,6 @@
 	<string name="view_financial_institutions">Voir les établissements financiers</string>
 	<string name="financial_institution_name">Nom de l’établissement financier</string>
     <string name="contact_exists">Un contact portant ce nom existe déjà</string>
-    <string name="link_financial_institution">Souhaitez-vous lier cet établissement financier au contact existant</string>
-	
+    <string name="link_financial_institution">Souhaitez-vous lier cet établissement financier au contact existant</string>	
 	<string name="no_financial_institutions_yet">Pas encore d’établissement financier</string>	
-	<string-array name="financial_institution_count_format_plurals">
-		<item>1 établissement financier</item>
-		<item>^1 établissements financiers</item>
-	</string-array>
 </resources>

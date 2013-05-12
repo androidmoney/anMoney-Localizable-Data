@@ -2,7 +2,6 @@
 <resources>
 	<string name="default_name_format">^1 #^2</string>
     <string name="canceled">Canceled</string>
-    <string name="favorites">Favorites</string>
     <string name="add_favorite">Add to favorites</string>
     <string name="added_to_favorites">Added to favorites</string>
     <string name="remove_favorite">Remove from favorites</string>

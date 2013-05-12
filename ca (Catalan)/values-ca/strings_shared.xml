@@ -12,12 +12,9 @@
 	<string name="default_name_format">^1 No. ^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-    <string name="ellipsize_format">^1…</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="option_on_symbol">✓</string>
-    <string name="option_off_symbol">✗</string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 per ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 per ^3 ^2</string> <!-- Example: "All payees by decreasing date" -->
@@ -33,15 +30,12 @@
     <string name="next">Següent</string>
     <string name="_import">Importar</string>
     <string name="imported">Importat</string>
-    <string name="importing">Important</string>
     <string name="import_canceled">Importació cancel·lada</string>
     <string name="export">Exportar</string>
-	<string name="exporting">Exportant</string>
     <string name="export_canceled">Exportació cancel·lada</string>
 	<string name="import_export">Importar/exportar</string>
     <string name="settings">Configuració</string>
     <string name="display_options">Opcions de visualització</string>
-    <string name="favorites">Preferits</string>
     <string name="add_favorite">Afegir a preferits</string>
     <string name="added_to_favorites">Afegit a preferits</string>
     <string name="remove">Treure</string>
@@ -54,7 +48,6 @@
     <string name="delete">Esborrar</string>
     <string name="deleted">Esborrat</string>
     <string name="delete_canceled">Esborrar cancel·lat</string>
-    <string name="deleting">Esborrant</string>
     <string name="create">Crear</string>
     <string name="created">Creat</string>
     <string name="create_canceled">Crear cancel·lat</string>
@@ -77,7 +70,6 @@
     <string name="combined">Combinat</string>
     <string name="copy_to_clipboard">Copiar al portapapers</string>
     <string name="set">Establir</string>
-    <string name="show">Mostrar</string>
 	<string name="share">Compartir</string>
 	<string name="share_canceled">Compartir cancel·lat</string>
     <string name="create_in_app_name_format">Crear a ^1</string>

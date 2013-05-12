@@ -44,10 +44,8 @@
     <string name="delete_subcategory_warning_format">Subcategoria ^1 será excluída de forma permanente</string>
     <string name="delete_subclass_warning_format">Subclasse ^1 será excluída de forma permanente</string>
     <string name="delete_classification_warning_format">Classificação ^1 será excluída de forma permanente. Todas as transações terão suas classificações removidas</string>
-    <string name="deleting_classification">Excluindo classificação</string>
     <string name="default_categories_add_confirmation">Você quer adicionar categorias padrão (não faça isso se você já organizou suas categorias)</string>
     <string name="default_categories_added">Categorias padrão adicionadas</string>
-    <string name="adding_default_categories">Adicionando categorias padrão</string>
     <string name="all_categories">Todas as categorias</string>
     <string name="expense">Despesas</string>
     <string name="expenses">@string/expense</string>

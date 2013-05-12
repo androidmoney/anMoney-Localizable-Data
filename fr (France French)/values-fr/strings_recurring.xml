@@ -143,12 +143,6 @@
 	<string name="if_it_falls_on_a_weekend">Si la date tombe un weekend</string>
 	<string name="skip_weekends">Sauter le weekend</string>
 
-	<string name="no_recurrings_yet">Pas encore d’opération récurrente</string>
-	<string-array name="recurrings_count_format_plurals">
-		<item>1 opération récurrente</item>
-		<item>^1 opérations récurrentes</item>
-	</string-array>
-	
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
 		<item>1 en retard</item>

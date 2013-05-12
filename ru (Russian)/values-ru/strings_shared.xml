@@ -12,12 +12,9 @@
 	<string name="default_name_format">^1 № ^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-    <string name="ellipsize_format">^1…</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="option_on_symbol">✓</string>
-    <string name="option_off_symbol">✗</string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 по ^2</string>
     <string name="filter_by_direction_order_format">^1 по ^2 по ^3</string>
@@ -33,15 +30,12 @@
     <string name="next">Далее</string>
     <string name="_import">Импорт</string>
     <string name="imported">Импорт завершён</string>
-    <string name="importing">Импортирование</string>
     <string name="import_canceled">Импорт отменён</string>
     <string name="export">Экспорт</string>
-    <string name="exporting">Экспорт</string>
     <string name="export_canceled">Экспорт отменён</string>
     <string name="import_export">Импорт/экспорт</string>
     <string name="settings">Настройки</string>
     <string name="display_options">Настройка списка</string>
-    <string name="favorites">Избранные</string>
     <string name="add_favorite">Добавить в избранные</string>
     <string name="added_to_favorites">Добавлено в избранные</string>
     <string name="remove">Удалить</string>
@@ -54,7 +48,6 @@
     <string name="delete">Удалить</string>
     <string name="deleted">Удалено</string>
     <string name="delete_canceled">Удаление отменено</string>
-    <string name="deleting">Удаление</string>
     <string name="create">Создать</string>
     <string name="created">Создано</string>
     <string name="create_canceled">Создание отменено</string>
@@ -77,7 +70,6 @@
     <string name="combined">Объединено</string>
     <string name="copy_to_clipboard">Скопировать в буфер обмена</string>
     <string name="set">Установить</string>
-    <string name="show">Показать</string>
 	<string name="share">Отправить</string>
 	<string name="share_canceled">Отправка отменена</string>
     <string name="create_in_app_name_format">Создать в ^1</string>

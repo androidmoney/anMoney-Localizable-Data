@@ -31,10 +31,4 @@
 		<item>названию</item>
 		<item>региону</item>
 	</string-array>
-
-	<string-array name="currency_count_format_plurals">
-	    <item>^1 валюта</item>
-        <item>^1 валюты</item>
-        <item>^1 валют</item>
-	</string-array>
 </resources>

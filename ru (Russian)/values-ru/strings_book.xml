@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="book">Книга</string>
-    <string name="books">Книги</string>
     <string name="new_book">Новая книга</string>
     <string name="new_book_name">Имя новой книги</string>
-    <string name="open_book">Открыть книгу</string>
-    <string name="close_book">Закрыть книгу</string>
     <string name="rename_book">Переименовать книгу</string>
     <string name="delete_book">Удалить книгу</string>
 	<string name="share_book">Отправить книгу</string>
-	<string name="preparing_to_share">Подготовка к отправке</string>
     <string name="book_delete_warning_short_format">Книга ^1 будет удалена</string>
     <string name="all_data_will_be_lost">Если не выполнена архивация, все данные в книге будут утрачены</string>
     <string name="import_into_book">Импорт в книгу</string>
     <string name="export_from_book">Экспорт из книги</string>
     <string name="import_into_book_format">Импорт в книгу ^1</string>
-    <string name="copying_book">Копирование книги</string>
     <string name="no_books">Книги отсутствуют</string>
-    <string name="create_book_instructions_format">Для создания книги, нажмите ^i в верхней части экрана</string>
-    <string name="book_list_favorites_empty">Нет избранных книг</string>
-    <string name="creating_book">Создание книги</string>
     <string name="upgrading_book">Обновление книгa</string>
     <string name="upgrading_books">Обновление книги</string>
     <string name="backup">Архивировать</string>
@@ -28,12 +20,10 @@
     <string name="overwrite">Заменить</string>
     <string name="backup_name">Имя архива</string>
 	<string name="auto_backup_name_format">^1 (^2 авто)</string>
-	<string name="backing_up_book">Архивация книги</string>
     <string name="restore">Восстановить</string>
 	<string name="restored">Восстановлено</string>
     <string name="restore_canceled">Восстановление отменено</string>
     <string name="restore_book">Восстановить книгу</string>
-    <string name="restoring_book">Восстановление книги</string>
     <string name="restore_warning_format">Книга ^1 будет восстановлена и <b>все</b> текущие данные в ней будут безвозвратно утеряны</string>
     <string name="select_backup_file_to_restore">Выберите архив для восстановления</string>
     <string name="select_backup_file_to_create_from">Выберите архив из которого создать книгу</string>
@@ -50,10 +40,6 @@
     <string name="select_book">Выберите книгу</string>
     <string name="select_book_to_import_into">Выберите книгу, в которую импортировать выписку</string>
     <string name="select_import_file">Выберите файл(ы) для импорта</string>
-    <string name="reading_format">Чтение ^1</string>
-    <string name="reading_file">Чтение файлa</string>
-    <string name="reading_files">Чтение файлов</string>
-    <string name="checking_for_duplicate_transactions">Проверка дублирования транзакций</string>
     <string name="not_specified_brackets">&lt;Не указано&gt;</string>
     <string name="map_accounts">Соответствие счетов</string>
     <string name="configure_account_mappings">Настройка соответствия счетов</string>
@@ -169,19 +155,7 @@
     </string-array>
 
     <string name="general">Общие</string>
-    <string name="navigation">Навигация</string>
-    
-    <string name="reopen_last_book">Открывать последнюю книгу</string>
-    <string name="reopen_last_book_description">Если отмечено, при запуске приложения открывается последняя открытая книга</string>
-    
     <string name="starting_screen">Стартовый экран</string>
-	
-    <string name="back_press_on_home_screen">Нажатие назад в начале книги</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Закрывает ^1</item>
-		<item>Закрывает текущую книгу и показывает список книг</item>
-	</string-array>
-	
     <string name="negative_amount_format">Формат отрицательных чисел</string>
     
     <string name="show_currency_symbol">Положение символа валюты</string>

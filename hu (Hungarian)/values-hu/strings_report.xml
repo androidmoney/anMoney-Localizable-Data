@@ -9,8 +9,6 @@
 	<string name="report_exported">Exportálta a jelentést az SD-kártyára</string>
 	<string name="share_report">Jelentés megosztása</string>
 	<string name="report_settings">Jelentés beállításai</string>
-	<string name="creating_report">Jelentés készítése</string>
-	<string name="updating_report">Jelentés frissítése</string>
 	<string name="custom_dates">Egyéni dátumok</string>
 	<string name="other">Más</string>
 	<string name="report_empty">Nincs megjeleníthető adat</string>
@@ -34,12 +32,8 @@
 	<string name="tomorrow">Holnap</string>
 	<string name="yesterday">Tegnap</string>
 	<string name="select_report">Válassza ki a jelentést</string>
-    		
-	<string-array name="report_count_format_plurals">
-		<item>^1 jelentés</item>
-	</string-array>
-	
-	
+    <string name="report_folder">Jelentés mappája</string>
+		
 	<string name="chart_type">Diagram típusa</string>
 	<string name="text_report">Szöveges jelentés</string>
 	<string name="pie_chart">Kördiagram</string>

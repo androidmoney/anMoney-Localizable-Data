@@ -8,12 +8,14 @@
     <string name="book_no_longer_exists_format">Libro ^1 ya no existe</string>
     <string name="account_no_longer_exists">Cuenta ya no existe</string>
     <string name="report_no_longer_exists">Reporte ya no existe</string>
+    <string name="budget_no_longer_exists_format">Presupuesto ^1 ya no existe</string>
     
     <string name="quick_entry">Entrada rápida</string>
     <string name="app_name_quick_entry">anMoney — Entrada rápida</string>
     <string name="app_name_quick_entry_large">anMoney — Entrada rápida (grande)</string>
     <string name="app_name_quick_entry_small">anMoney — Entrada rápida (pequeño)</string>
     <string name="show_total">Mostrar el total de la cuenta</string>
+    <string name="opacity">Opacidad</string>
 
     <string name="app_name_upcoming">anMoney — Próximos</string>
 

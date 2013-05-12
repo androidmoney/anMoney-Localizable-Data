@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_file_misformed_format_tag">The import file ^1 is misformed. Reason: ^2</string>
+    <string name="import_file_misformed_format_no_tag">The import file is misformed. Reason: ^1</string>
+    <string name="other_import_error_format">Problem importing. Reason: ^1</string>
+    <string name="import_error_no_transactions">The statement has no transactions.</string>
+    <string name="import_error_account_multiple_times_format">The same account (^1) is found multiple times.</string>
+    <string name="import_error_importing_statements_has_transfer">Cannot have transfers when importing statements.</string>
+    <string name="import_error_no_date_in_transaction">No date specified in transaction.</string>
+    <string name="import_error_missing_category">Missing category.</string>
+    <string name="import_error_missing_subcategory">Missing subcategory.</string>
+    <string name="import_error_invalid_account_name_format">Invalid account name. (^1)</string>
+    <string name="import_error_missing_account_type">Missing account type.</string>
+    <string name="import_error_invalid_account_type_format">Invalid account type. (^1)</string>
+    <string name="import_error_investment_accounts_only">Investment accounts are not currently supported.</string>
+    <string name="import_error_skipped_investment_accounts">Since investment accounts are not currently supported, they will be skipped during the import process.</string>
+    <string name="import_error_no_transactions_in_file">No transactions in file.</string>
+    <string name="import_error_invalid_line_type_format">Invalid line type. (^1)</string>
+    <string name="import_error_invalid_amount_format">Invalid amount. (^1)</string>
+    <string name="import_error_missing_date">Missing date.</string>
+    <string name="import_error_invalid_date_format">Invalid date. (^1)</string>
+    <string name="import_error_invalid_status_code_format">Invalid status code. (^1)</string>
+    <string name="import_error_missing_payee_name">Missing payee name.</string>
+    <string name="import_error_invalid_tag_format">Invalid tag. (^1)</string>
+    <string name="import_error_must_be_replace_or_delete">Must be REPLACE or DELETE</string>
+    
+    <string name="import_error_misplaced_stmtrs">Misplaced &lt;STMTRS>.</string>
+    <string name="import_error_misplaced_ccstmtrs">Misplaced &lt;CCSTMTRS>.</string>
+    <string name="import_error_must_be_in_stmtrs">Must be in &lt;STMTRS>.</string>
+    <string name="import_error_must_be_in_ccstmtrs">Must be in &lt;CCSTMTRS>.</string>
+    <string name="import_error_must_be_in_xxstmtrs">Must be in &lt;STMTRS> or &lt;CCSTMTRS>.</string>
+    <string name="import_error_must_be_in_bankacctfrom">Must be in &lt;BANKACCTFROM>.</string>
+	<string name="import_error_must_be_in_ccacctfrom">Must be in &lt;CCACCTFROM>.</string>
+    <string name="import_error_must_be_in_xxacctfrom">Must be in &lt;BANKACCTFROM> or &lt;CCACCTFROM>.</string>
+    <string name="import_error_must_not_be_in_xxacctfrom">Must not be in &lt;BANKACCTFROM> or &lt;CCACCTFROM>.</string>
+    <string name="import_error_must_be_in_banktranlist">Must be in &lt;BANKTRANLIST>.</string>
+    <string name="import_error_must_be_in_stmttrn">Must be in &lt;;STMTTRN>.</string>
+    <string name="import_error_must_be_in_payee">Must be in &lt;;PAYEE>.</string>
+
+    <string name="import_error_must_be_in_ofc">Must be in &lt;OFC>.</string>
+    <string name="import_error_must_be_in_acctstmt">Must be in &lt;ACCTSTMT>.</string>
+    <string name="import_error_must_be_in_acctfrom">Must be in &lt;ACCTFROM>.</string>
+    <string name="import_error_missing_accttype">Missing &lt;ACCTTYPE>.</string>
+</resources>

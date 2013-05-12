@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="book_list_favorites_empty">No favorite books</string>
     <string name="backup_canceled">Backup canceled</string>
     <string name="restore_canceled">Restore canceled</string>
     <string name="duplicate_check_number">Duplicate check number</string>

@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="book">Könyv</string>
-    <string name="books">Könyvek</string>
     <string name="new_book">Új könyv</string>
     <string name="new_book_name">Az új könyv neve</string>
-    <string name="open_book">Könyv megnyitása</string>
-    <string name="close_book">Könyv bezárása</string>
     <string name="rename_book">Könyv átnevezése</string>
     <string name="delete_book">Könyv törlése</string>
     <string name="share_book">Könyv megosztása</string>
-	<string name="preparing_to_share">Megosztani készül</string>
     <string name="book_delete_warning_short_format">A ^1 könyv le lesz törölve</string>
     <string name="all_data_will_be_lost">Az összes adat ebben a könyvben el fog véglegesen veszni, ha nem mentette még</string>
     <string name="import_into_book">Importálás könyvbe</string>
     <string name="export_from_book">Exportálás könyvből</string>
     <string name="import_into_book_format">Importálás a ^1 könyvbe</string>
-    <string name="copying_book">Másolja a könyvet</string>
     <string name="no_books">Nincsenek könyvei</string>
-    <string name="create_book_instructions_format">Könyv létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
-    <string name="book_list_favorites_empty">Nincsenek kedvenc könyvei</string>
-    <string name="creating_book">Létrehozza a könyvet</string>
     <string name="upgrading_book">Frissíti a könyvet</string>
     <string name="upgrading_books">Frissíti a könyveket</string>
     <string name="backup">Adatmentés</string>
@@ -28,12 +20,10 @@
     <string name="overwrite">Át írja</string>
     <string name="backup_name">A mentés neve</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="backing_up_book">Menti a könyvet</string>
     <string name="restore">Visszaállítás</string>
     <string name="restored">Visszaállítva</string>
     <string name="restore_canceled">Visszaállítás megszakítva</string>
     <string name="restore_book">Könyv visszaállítása</string>
-    <string name="restoring_book">Visszaállítja a könyvet</string>
     <string name="restore_warning_format">A ^1 könyv át lesz írva, és <b>minden</b> adat helyrehozhatatlanul el fog veszni</string>
     <string name="select_backup_file_to_restore">Válassza ki a mentést a visszaállításhoz</string>
     <string name="select_backup_file_to_create_from">Válassza ki a mentést, amiből a könyv lesz alkotva</string>
@@ -48,10 +38,6 @@
     <string name="select_book">Válassza ki a könyvet</string>
     <string name="select_book_to_import_into">Válassza ki a könyvet, amelyikbe a kivonat importálva lesz</string>
     <string name="select_import_file">Válassza ki a fájlt/-okat importálásra</string>
-    <string name="reading_format">Olvassa ^1-t</string>
-    <string name="reading_file">Olvassa a fájlt</string>
-    <string name="reading_files">Olvassa a fájlokat</string>
-    <string name="checking_for_duplicate_transactions">Ismétlődő tranzakciók ellenőrzése</string>
     <string name="not_specified_brackets">&lt;Nincs megadva></string>
     <string name="map_accounts">Számlák térképezése</string>
     <string name="configure_account_mappings">Konfigurálja a számlák térképezéseit</string>
@@ -166,19 +152,7 @@
 
 
 	<string name="general">Általános</string>
-    <string name="navigation">Navigáció</string>
-    
-    <string name="reopen_last_book">Az utolsó könyv kinyitása</string>
-    <string name="reopen_last_book_description">Ha jelölt, az utoljára nyitott könyv ki lesz újra nyitva az alkalmazás indításakor</string>
-    
     <string name="starting_screen">Első lap</string>
-	
-    <string name="back_press_on_home_screen">Visszanyomás a kezdőlapon</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Bezárja ^1-t</item>
-		<item>Bezárja az aktuális könyvet, és megmutatja a köny listát</item>
-	</string-array>
-	
     <string name="negative_amount_format">Negatív összeg formátuma</string>
     
     <string name="show_currency_symbol">Pénznem mutatása</string>

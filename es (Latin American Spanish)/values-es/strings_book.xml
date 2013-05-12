@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>    
     <string name="book">Libro</string>
-    <string name="books">Libros</string>
     <string name="new_book">Nuevo libro</string>
     <string name="new_book_name">Nombre del nuevo libro</string>
-    <string name="open_book">Libro abierto</string>
-    <string name="close_book">Cerrar libro</string>
     <string name="rename_book">Renombrar libro</string>
     <string name="delete_book">Eliminar libro</string>
 <!-- Verify --> <string name="share_book">Compartir libro</string>
-<!-- Verify --> <string name="preparing_to_share">Preparando para compartir</string>
     <string name="book_delete_warning_short_format">Libro ^1 será eliminado</string>
     <string name="all_data_will_be_lost">Todos los datos de este libro se perderán para siempre, si no hay una copia de seguridad</string>
     <string name="import_into_book">Importar en el libro</string>
     <string name="export_from_book">Exportación del libro</string>
     <string name="import_into_book_format">Importar en el libro ^1</string>
-    <string name="copying_book">Copia de libro</string>
     <string name="no_books">No tienes ningún libro</string>
-    <string name="create_book_instructions_format">Para crear un libro, pulsa el ^i botón en la parte inferior de la pantalla</string>
-    <string name="book_list_favorites_empty">No hay libros favoritos</string>
-    <string name="creating_book">Creando libro</string>
     <string name="upgrading_book">Actualizando libro</string>
     <string name="upgrading_books">Actualizando libros</string>
     <string name="backup">Copia de seguridad</string>
@@ -28,12 +20,10 @@
     <string name="overwrite">Sobrescribir</string>
     <string name="backup_name">Nombre de la copia de seguridad</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="backing_up_book">Haciendo copia de seguridad del libro</string>
     <string name="restore">Restaurar</string>
     <string name="restored">Restaurada</string>
     <string name="restore_canceled">Restauración cancelada</string>
     <string name="restore_book">Restaurar libro</string>
-    <string name="restoring_book">Restaurando libros</string>
     <string name="restore_warning_format">Libro ^1 se sobrescribirá y <b>todos</b> sus datos serán destruidos de forma irrecuperable</string>
     <string name="select_backup_file_to_restore">Seleccione el archivo de copia de seguridad para restaurar</string>
     <string name="select_backup_file_to_create_from">Seleccione el archivo de copia de seguridad para crear a partir de él</string>
@@ -49,10 +39,6 @@
     <string name="select_book">Seleccionar libro</string>
     <string name="select_book_to_import_into">Seleccione el libro para importar declaraciones</string>
     <string name="select_import_file">Seleccione archivo(s) para importar</string>
-    <string name="reading_format">Leyendo ^1</string>
-    <string name="reading_file">Leyendo archivo</string>
-    <string name="reading_files">Leyendo archivos</string>
-    <string name="checking_for_duplicate_transactions">Verificación de transacciones duplicadas</string>
     <string name="not_specified_brackets">&lt;No especificado></string>
     <string name="map_accounts">Mapa de cuentas</string>
     <string name="configure_account_mappings">Configurar  mapa de cuentas</string>
@@ -167,19 +153,7 @@
     </string-array>
 
     <string name="general">General</string>
-    <string name="navigation">Navegación</string>
-    
-    <string name="reopen_last_book">Reabrir último libro</string>
-    <string name="reopen_last_book_description">Si se selecciona, el libro abierto por última vez se vuelve a abrir al iniciar la aplicación</string>
-    
     <string name="starting_screen">Pantalla inicial</string>
-	
-    <string name="back_press_on_home_screen">Presionar volver en la pantalla principal</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Cerrar ^1</item>
-		<item>Cierra el libro actual y muestra la lista de libros</item>
-	</string-array>
-	
     <string name="negative_amount_format">Formato de valor negativo</string>
     
     <string name="show_currency_symbol">Mostrar símbolo de moneda</string>

@@ -12,12 +12,9 @@
 	<string name="default_name_format">^1 č. ^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-    <string name="ellipsize_format">^1…</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="option_on_symbol">✓</string>
-    <string name="option_off_symbol">✗</string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 podle ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 ^2 podle ^3</string> <!-- Example: "All payees by decreasing date" -->
@@ -33,15 +30,12 @@
     <string name="next">Další</string>
     <string name="_import">Import</string>
     <string name="imported">Import dokončen</string>
-    <string name="importing">Probíhá import</string>
     <string name="import_canceled">Import zrušen</string>
     <string name="export">Export</string>
-	<string name="exporting">Probíhá export</string>
     <string name="export_canceled">Export zrušen</string>
 	<string name="import_export">Import/Export</string>
     <string name="settings">Nastavení</string>
     <string name="display_options">Možnosti zobrazení</string>
-    <string name="favorites">Oblíbené</string>
     <string name="add_favorite">Přidat k oblíbeným</string>
     <string name="added_to_favorites">Přidáno k oblíbeným</string>
     <string name="remove">Odstranit</string>
@@ -54,7 +48,6 @@
     <string name="delete">Smazat</string>
     <string name="deleted">Smazáno</string>
     <string name="delete_canceled">Mazání zrušeno</string>
-    <string name="deleting">Mazání</string>
     <string name="create">Vytvořit</string>
     <string name="created">Vytvořeno</string>
     <string name="create_canceled">Vytváření zrušeno</string>
@@ -77,7 +70,6 @@
     <string name="combined">Spojeno</string>
     <string name="copy_to_clipboard">Zkopírovat do schránky</string>
     <string name="set">Nastavit</string>
-    <string name="show">Zobrazit</string>
 	<string name="share">Sdílet</string>
 	<string name="share_canceled">Sdílení zrušeno</string>
     <string name="create_in_app_name_format">Vytvořit v ^1</string>

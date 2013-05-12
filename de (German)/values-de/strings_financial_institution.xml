@@ -17,11 +17,6 @@
 	<string name="view_financial_institutions">Finanzinstitute ansehen</string>
 	<string name="financial_institution_name">Name des Finanzinstituts</string>
     <string name="contact_exists">Ein Kontakt mit dem Namen ist schon vorhanden</string>
-    <string name="link_financial_institution">Möchten Sie die Informationen zusammenführen</string>
-		
+    <string name="link_financial_institution">Möchten Sie die Informationen zusammenführen</string>		
 	<string name="no_financial_institutions_yet">Noch keine Finanzinstitute</string>
-	<string-array name="financial_institution_count_format_plurals">
-		<item>1 Finanzinstitut</item>
-		<item>^1 Finanzinstitute</item>
-	</string-array>
 </resources>

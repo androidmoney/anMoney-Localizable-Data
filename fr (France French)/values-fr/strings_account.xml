@@ -55,7 +55,6 @@
 	<string name="clear_all_transactions_on_all_pages">Pointer toutes les transactions sur toutes les pages</string>
 	<string name="export_account">Exporter le compte</string>
 	<string name="delete_account">Supprimer le compte</string>
-	<string name="deleting_account">Suppression du compte</string>
 	<string name="close_account">Fermer le compte</string>
 	<string name="reopen_account">Réouvrir le compte</string>
 	<string name="repair_account">Réparer le compte</string>

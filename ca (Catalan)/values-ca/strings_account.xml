@@ -55,7 +55,6 @@
 	<string name="clear_all_transactions_on_all_pages">Autoritzar totes les transaccions a totes les pàgines</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
     <string name="export_account">Exportar compte</string>
     <string name="delete_account">Esborrar compte</string>
-    <string name="deleting_account">Esborrant compte</string>
     <string name="close_account">Tancar compte</string>
     <string name="reopen_account">Tornar a obrir compte</string>
     <string name="repair_account">Reparar compte</string>

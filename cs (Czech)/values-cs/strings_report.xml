@@ -9,8 +9,6 @@
 	<string name="report_exported">Úspěšně exportován na paměťovou kartu</string>
 	<string name="share_report">Sdílet report</string>
 	<string name="report_settings">Možnosti reportu</string>
-	<string name="creating_report">Příprava reportu</string>
-	<string name="updating_report">Aktualizace reportu</string>
 	<string name="custom_dates">Vlastní data</string>
 	<string name="other">Ostatní</string>
 	<string name="report_empty">Nejsou k dispozici žádná data k zobrazení</string>
@@ -34,12 +32,7 @@
 	<string name="tomorrow">Zítra</string>
 	<string name="yesterday">Včera</string>
 	<string name="select_report">Vyberte report</string>
-    		
-	<string-array name="report_count_format_plurals">
-		<item>^1 report</item>
-		<item>^1 reporty</item>
-		<item>^1 reportů</item>
-	</string-array>
+    <string name="report_folder">Složka pro report</string>
 
 	<string name="chart_type">Typ grafu</string>
 	<string name="text_report">Textový report</string>

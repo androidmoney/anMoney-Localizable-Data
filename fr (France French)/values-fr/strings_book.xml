@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="book">Livre</string>
-	<string name="books">Livres</string>
 	<string name="new_book">Nouveau livre</string>
 	<string name="new_book_name">Nom du nouveau livre</string>
-	<string name="open_book">Ouvrir le livre</string>
-	<string name="close_book">Fermer le livre</string>
 	<string name="rename_book">Renommer le livre</string>
 	<string name="delete_book">Supprimer le livre</string>
 	<string name="share_book">Partager le livre</string>
-	<string name="preparing_to_share">Partage en préparation</string>
     <string name="book_delete_warning_short_format">Le livre ^1 va être supprimé</string>
     <string name="all_data_will_be_lost">Toutes les données de ce livre seront définitivement perdues si elles n’ont pas été sauvegardées</string>
 	<string name="import_into_book">Importer dans le livre</string>
 	<string name="export_from_book">Exporter depuis le livre</string>
 	<string name="import_into_book_format">Importer dans le livre ^1</string>
-	<string name="copying_book">Copie du livre</string>
     <string name="no_books">Vous n’avez aucun livre</string>
-    <string name="create_book_instructions_format">Pour créer un livre, tapez sur ^i en haut de l’écran</string>
-	<string name="book_list_favorites_empty">Aucun livre favori</string>
-	<string name="creating_book">Création du livre</string>
     <string name="upgrading_book">Mise à jour du livre</string>
     <string name="upgrading_books">Mise à jour des livres</string>
 	<string name="backup">Sauvegarde</string>
@@ -28,12 +20,10 @@
 	<string name="overwrite">Écraser</string>
 	<string name="backup_name">Nom de la sauvegarde</string>
 	<string name="auto_backup_name_format">^1 (^2 Auto)</string>
-	<string name="backing_up_book">Sauvegarde du livre</string>
     <string name="restore">Restaurer</string>
 	<string name="restored">Restauré</string>
 	<string name="restore_canceled">Restauration annulée</string>
 	<string name="restore_book">Restaurer le livre</string>
-	<string name="restoring_book">Restauration du livre</string>
 	<string name="restore_warning_format">Le livre ^1 sera écrasé et <b>toutes</b> ses données seront définitivement perdues</string>
 	<string name="select_backup_file_to_restore">Choisissez le fichier de sauvegarde à restaurer</string>
 	<string name="select_backup_file_to_create_from">Choisissez le fichier de sauvegarde à partir duquel le livre doit être créé</string>
@@ -49,10 +39,6 @@
 	<string name="select_book">Sélectionner le livre</string>
 	<string name="select_book_to_import_into">Sélectionnez le livre dans lequel importer le relevé</string>
 	<string name="select_import_file">Sélectionner le(s) fichier(s) à importer</string>
-    <string name="reading_format">Lecture de ^1</string>
-    <string name="reading_file">Lecture du fichier</string>
-    <string name="reading_files">Lecture des fichiers</string>
-	<string name="checking_for_duplicate_transactions">Vérification des transactions en double</string>
 	<string name="not_specified_brackets">&lt;Non spécifié></string>
 	<string name="map_accounts">Correspondances de comptes</string>
 	<string name="configure_account_mappings">Configurer les correspondances de comptes</string>
@@ -167,19 +153,7 @@
     </string-array>
 
 	<string name="general">Général</string>
-    <string name="navigation">Navigation</string>
-	
-	<string name="reopen_last_book">Réouvrir le dernier livre</string>
-	<string name="reopen_last_book_description">Si l’option est sélectionnée, le dernier livre ouvert sera ré-ouvert au lancement de l’application</string>
-
 	<string name="starting_screen">Écran de démarrage</string>
-
-	<string name="back_press_on_home_screen">Appui du bouton « retour » sur l’écran d’accueil</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Ferme ^1</item>
-		<item>Ferme le livre actuellement ouvert et affiche la liste des livres</item>
-	</string-array>
-
 	<string name="negative_amount_format">Format des montants négatifs</string>
 
 	<string name="show_currency_symbol">Afficher le symbole de la devise</string>

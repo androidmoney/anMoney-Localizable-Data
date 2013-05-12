@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>    
     <string name="book">Kniha</string>
-    <string name="books">Knihy</string>
     <string name="new_book">Nová kniha</string>
     <string name="new_book_name">Jméno nové knihy</string>
-    <string name="open_book">Otevřít knihu</string>
-    <string name="close_book">Zavřít knihu</string>
     <string name="rename_book">Přejmenovat knihu</string>
     <string name="delete_book">Smazat knihu</string>
     <string name="share_book">Sdílet knihu</string>
-    <string name="preparing_to_share">Připravuje se sdílení</string>
     <string name="book_delete_warning_short_format">Kniha ^1 bude smazána</string>
     <string name="all_data_will_be_lost">Veškerá data této knihy budou trvale ztracena, pokud nemáte zálohu</string>
     <string name="import_into_book">Import do knihy</string>
     <string name="export_from_book">Export z knihy</string>
     <string name="import_into_book_format">Import do knihy ^1</string>
-    <string name="copying_book">Kopíruje se kniha</string>
     <string name="no_books">Nemáte žádné knihy</string>
-    <string name="create_book_instructions_format">Knihu vytvoříte dotekem ^i v horní části obrazovky</string> <!-- The ^i will be replaced by an image -->
-    <string name="book_list_favorites_empty">Žádné oblíbené knihy</string>
-    <string name="creating_book">Vytváření knihy</string>
     <string name="upgrading_book">Aktualizace knihy</string>
     <string name="upgrading_books">Aktualizace knih</string>
     <string name="backup">Zálohovat</string>
@@ -28,12 +20,10 @@
     <string name="overwrite">Přepsat</string>
     <string name="backup_name">Název zálohy</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="backing_up_book">Zálohování knihy</string>
     <string name="restore">Obnovit</string>
     <string name="restored">Obnoveno</string>
     <string name="restore_canceled">Obnova zrušena</string>
     <string name="restore_book">Obnovit knihu</string>
-    <string name="restoring_book">Obnova knihy</string>
     <string name="restore_warning_format">Kniha ^1 bude přepsána a <b>všechna</b> její data trvale zničena</string>
     <string name="select_backup_file_to_restore">Vyberte zálohu, kterou chcete obnovit</string>
     <string name="select_backup_file_to_create_from">Vyberte zálohu, ze které vytvořit knihu</string>
@@ -50,10 +40,6 @@
     <string name="select_book">Vyberte knihu</string>
     <string name="select_book_to_import_into">Vyberte knihu do které importovat výpis</string>
     <string name="select_import_file">Vyberte soubor(y) pro import</string>
-    <string name="reading_format">Čtení ^1</string>
-    <string name="reading_file">Čtení souboru</string>
-    <string name="reading_files">Čtení souborů</string>
-    <string name="checking_for_duplicate_transactions">Kontrola duplicitních transakcí</string>
     <string name="not_specified_brackets">&lt;Neuvedeno></string>
     <string name="map_accounts">Mapování účtů</string>
     <string name="configure_account_mappings">Nastavení mapování účtů</string>
@@ -169,19 +155,7 @@
     </string-array>
 
     <string name="general">Základní</string>
-    <string name="navigation">Navigace</string>
-    
-    <string name="reopen_last_book">Otevřít poslední knihu</string>
-    <string name="reopen_last_book_description">Je-li zapnuto, bude při spuštění aplikace otveřena naposledy použitá kniha</string>
-    
     <string name="starting_screen">Úvodní obrazovka</string>
-	
-    <string name="back_press_on_home_screen">Stisk <b>Zpět</b> na úvodní obrazovce</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Ukončí ^1</item>
-		<item>Uzavře aktuální knihu a zobrazí seznam knih</item>
-	</string-array>
-	
     <string name="negative_amount_format">Zobrazení záporných částek</string>
     
     <string name="show_currency_symbol">Zobrazit symbol měny</string>

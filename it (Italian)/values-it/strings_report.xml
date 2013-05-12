@@ -9,8 +9,6 @@
 	<string name="report_exported">Esportato con successo nella memoria SD</string>
 	<string name="share_report">Spedisci report</string>
 	<string name="report_settings">Parametri report</string>
-	<string name="creating_report">Crea report</string>
-	<string name="updating_report">Aggiorna report</string>
 	<string name="custom_dates">Personalizza date</string>
 	<string name="other">Altro</string>
 	<string name="report_empty">Non vi sono dati da visualizzare</string>
@@ -34,11 +32,7 @@
 	<string name="tomorrow">Domani</string>
 	<string name="yesterday">Ieri</string>
 	<string name="select_report">Selezionare report</string>	
-		
-	<string-array name="report_count_format_plurals">
-		<item>1 report</item>
-		<item>^1 reports</item>
-	</string-array>
+    <string name="report_folder">Report cartella</string>
 
 	<string name="chart_type">Tipo grafico</string>
 	<string name="text_report">Testo report</string>

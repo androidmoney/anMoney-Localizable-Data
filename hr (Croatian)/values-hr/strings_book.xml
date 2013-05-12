@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="book">Knjižica</string>
-    <string name="books">Knjižice</string>
     <string name="new_book">Nova knjižica</string>
     <string name="new_book_name">Ime nove knjižice</string>
-    <string name="open_book">Otvori knjižicu</string>
-    <string name="close_book">Zatvori knjižicu</string>
     <string name="rename_book">Preimenuj knjižicu</string>
     <string name="delete_book">Obriši knjižicu</string>
 <!-- New --> <string name="share_book">Pošalji knjižicu</string>
-<!-- New --> <string name="preparing_to_share">Pripremam slanje</string>
     <string name="book_delete_warning_short_format">Knjižica ^1 će biti obrisana</string>
     <string name="all_data_will_be_lost">Svi podaci u toj knjižici će biti trajno izgubljeni ako nisu sigurnostno kopirani</string>
     <string name="import_into_book">Uvoz u knjižicu</string>
     <string name="export_from_book">Izvoz iz knjižice</string>
     <string name="import_into_book_format">Uvoz u knjižicu ^1</string>
-    <string name="copying_book">Kopiram knjižicu</string>
     <string name="no_books">Nema knjižica</string>
-    <string name="book_list_favorites_empty">Nema omiljenih knjižica</string>
-    <string name="creating_book">Kreiram knjižicu</string>
     <string name="upgrading_book">Nadograđujem knjižicu</string>
     <string name="upgrading_books">Nadograđujem knjižice</string>
     <string name="backup">Sigurnostna kopija</string>
@@ -27,12 +20,10 @@
     <string name="overwrite">Prebriši</string>
     <string name="backup_name">Ime sigurnosne kopije</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="backing_up_book">Kreiram sigurnosnu kopiju</string>
     <string name="restore">Vratiti</string>
     <string name="restored">Vračeno</string>
     <string name="restore_canceled">Vračanje otkazano</string>
     <string name="restore_book">Povrati knjižicu</string>
-    <string name="restoring_book">Vraćam knjižicu</string>
     <string name="restore_warning_format">Knjižica ^1 će biti prebrisana i <b>svi</b> pčodaci će biti nepovratno uništeni</string>
     <string name="select_backup_file_to_restore">Označi sigurnosnu datoteku za povrat</string>
     <string name="select_backup_file_to_create_from">Označi sigurnonsnu datoteku da se kreira iz</string>
@@ -48,10 +39,6 @@
     <string name="select_book">Označi knjižicu</string>
     <string name="select_book_to_import_into">Označi knjižicu za uvoz tvrdnje</string>
     <string name="select_import_file">Označi datoteku(e) ua uvoz</string>
-<!-- New --> <string name="reading_format">Reading ^1</string>
-<!-- New --> <string name="reading_file">Reading file</string>
-<!-- New --> <string name="reading_files">Reading files</string>
-<!-- New --> <string name="checking_for_duplicate_transactions">Checking for duplicate transactions</string>
     <string name="not_specified_brackets">&lt;Nije određeno></string>
     <string name="map_accounts">Upari račune</string>
     <string name="configure_account_mappings">Konfiguriraj uparivanje računa</string>
@@ -160,18 +147,7 @@
     </string-array>
 
     <string name="general">Općenito</string>
-    
-    <string name="reopen_last_book">Otvori zadnju knjižicu</string>
-    <string name="reopen_last_book_description">Ako je označeno, zadnja otvorena knjižica će biti otvorena kad se pokreće aplikacija</string>
-    
     <string name="starting_screen">Početni ekran</string>
-	
-    <string name="back_press_on_home_screen">Nazad na Početno</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Zatvara ^1</item>
-		<item>Zatvara trenutnu knjižicu i prikazuje listu knjižica</item>
-	</string-array>
-	
     <string name="negative_amount_format">Negativni brojevi</string>
     
     <string name="show_currency_symbol">Označi simbol valute</string>

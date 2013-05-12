@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="book">Mappe</string>
-	<string name="books">Mappen</string>
 	<string name="new_book">Neue Mappe</string>
 	<string name="new_book_name">Name der neuen Mappe</string>
-	<string name="open_book">Mappe öffnen</string>
-	<string name="close_book">Mappe schließen</string>
 	<string name="rename_book">Mappe umbenennen</string>
 	<string name="delete_book">Mappe löschen</string>
 <!-- New --> <string name="share_book">Mappe teilen</string>
-<!-- New --> <string name="preparing_to_share">Teilen gerade</string>
     <string name="book_delete_warning_short_format">Mappe ^1 wird gelöscht</string>
     <string name="all_data_will_be_lost">Alle Daten in der Mappe gehen unwiderbringlich verloren, falls kein Backup angelegt wurde</string>
 	<string name="import_into_book">Import in die Mappe</string>
 	<string name="export_from_book">Export von der Mappe</string>
 	<string name="import_into_book_format">Import in die Mappe ^1</string>
-	<string name="copying_book">Kopiere die Mappe</string>
     <string name="no_books">Sie haben keine Mappen</string>
-    <string name="create_book_instructions_format">Zum Erstellen einer Mappe, drücken Sie ^i oben auf den Bildschirm</string>
-	<string name="book_list_favorites_empty">Keine Mappen bei den Favoriten</string>
-	<string name="creating_book">Erstelle Mappe</string>
     <string name="upgrading_book">Bereite Mappe auf</string>
     <string name="upgrading_books">Bereite Mappen auf</string>
 	<string name="backup">Backup</string>
@@ -28,12 +20,10 @@
 	<string name="overwrite">Überschreibe</string>
 	<string name="backup_name">Backup Name</string>
 	<string name="auto_backup_name_format">^1 (^2 Auto)</string>
-	<string name="backing_up_book">Backup der Mappe läuft</string>
     <string name="restore">Wiederherstellen</string>
 	<string name="restored">Wiederhergestellt</string>
 	<string name="restore_canceled">Wiederherstellung abgebrochen</string>
 	<string name="restore_book">Wiederherstellung von Mappe</string>
-	<string name="restoring_book">Wiederherstellung der Mappe läuft</string>
 	<string name="restore_warning_format">Mappe ^1 wird überschrieben. <b>Alle</b> Daten werden unwiederbringlich gelöscht</string>
 	<string name="select_backup_file_to_restore">Backup File zum Wiederherstellen auswählen</string>
 	<string name="select_backup_file_to_create_from">Backup File zum Wiederherstellen auswählen von</string>
@@ -49,10 +39,6 @@
 	<string name="select_book">Mappe auswählen</string>
 	<string name="select_book_to_import_into">Mappe für den Import der Auszüge auswählen</string>
 	<string name="select_import_file">Datei(en) für den Import auswählen</string>
-    <string name="reading_format">Lesen ^1</string>
-    <string name="reading_file">Lesen Datei</string>
-    <string name="reading_files">Lesen Dateien</string>
-	<string name="checking_for_duplicate_transactions">Prüfe auf doppelte Transaktionen</string>
 	<string name="not_specified_brackets">&lt;Nicht festgelegt></string>
 	<string name="map_accounts">Konten zuordnen</string>
 	<string name="configure_account_mappings">Kontenzuordnung konfigurieren</string>
@@ -167,19 +153,7 @@
     </string-array>
 
 	<string name="general">Allgemein</string>
-    <string name="navigation">Navigation</string>
-	
-	<string name="reopen_last_book">Letzte Mappe öffnen</string>
-	<string name="reopen_last_book_description">Wenn ausgewählt, wird die letzte bearbeitete Mappe bei Neustart geöffnet</string>
-
 	<string name="starting_screen">Startbildschirm</string>
-
-	<string name="back_press_on_home_screen">Zurück zum Startbildschirm</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Schließt ^1</item>
-		<item>Schließt aktuelle Mappe und zeigt Liste der Mappen an</item>
-	</string-array>
-
 	<string name="negative_amount_format">Negatives Konten-Format</string>
 
 	<string name="show_currency_symbol">Zeige Währungssymbol</string>

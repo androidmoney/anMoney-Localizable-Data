@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>    
     <string name="book">Llibre</string>
-    <string name="books">Llibres</string>
     <string name="new_book">Nou llibre</string>
     <string name="new_book_name">Nom del nou llibre</string>
-    <string name="open_book">Obrir llibre</string>
-    <string name="close_book">Tancar llibre</string>
     <string name="rename_book">Canviar nom al llibre</string>
     <string name="delete_book">Esborrar llibre</string>
     <string name="share_book">Compartir llibre</string>
-    <string name="preparing_to_share">Preparant-se per compartir</string>
     <string name="book_delete_warning_short_format">El llibre ^1 serà esborrat</string>
     <string name="all_data_will_be_lost">Totes les dades en aquest llibre es perdran de forma permanent, si no s’han fet còpies de seguretat</string>
     <string name="import_into_book">Importar al llibre</string>
     <string name="export_from_book">Exportar des del llibre</string>
     <string name="import_into_book_format">Importar al llibre ^1</string>
-    <string name="copying_book">Copiant llibre</string>
     <string name="no_books">No teniu cap llibre</string>
-    <string name="create_book_instructions_format">Per a crear un llibre, toqueu ^i a dalt de tot de la pantalla</string> <!-- The ^i will be replaced by an image -->
-    <string name="book_list_favorites_empty">No hi ha llibres preferits</string>
-    <string name="creating_book">Creant llibre</string>
     <string name="upgrading_book">Actualitzant llibre</string>
     <string name="upgrading_books">Actualitzant llibres</string>
     <string name="backup">Còpia de seguretat</string>
@@ -28,12 +20,10 @@
     <string name="overwrite">Sobreescriure</string>
     <string name="backup_name">Nom de la còpia de seguretat</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="backing_up_book">Realitzant còpia de seguretat</string>
     <string name="restore">Restaurar</string>
     <string name="restored">Restaurat</string>
     <string name="restore_canceled">Restauració cancel·lada</string>
     <string name="restore_book">Restaurar llibre</string>
-    <string name="restoring_book">Restaurant llibre</string>
     <string name="restore_warning_format">El llibre ^1 es sobreescriurà i <b>totes</b> les seves dades seran destruides de forma permanent</string>
     <string name="select_backup_file_to_restore">Seleccionar arxiu de còpia de seguretat a restaurar</string>
     <string name="select_backup_file_to_create_from">Seleccionar arxiu de còpia de seguretat a partir del qual es crearà</string>
@@ -49,10 +39,6 @@
     <string name="select_book">Seleccionar llibre</string>
     <string name="select_book_to_import_into">Seleccionar llibre al qual s’importarà l’extracte</string>
     <string name="select_import_file">Seleccionar arxiu(s) per importar</string>
-    <string name="reading_format">Llegint ^1</string>
-    <string name="reading_file">Llegint arxiu</string>
-    <string name="reading_files">Llegint arxius</string>
-    <string name="checking_for_duplicate_transactions">Comprovant transaccions duplicades</string>
     <string name="not_specified_brackets">&lt;No especificat></string>
     <string name="map_accounts">Mapar comptes</string>
     <string name="configure_account_mappings">Configurar mapatge de comptes</string>
@@ -167,19 +153,7 @@
     </string-array>
 
     <string name="general">General</string>
-    <string name="navigation">Navegació</string>
-    
-    <string name="reopen_last_book">Tornar a obrir l’últim llibre</string>
-    <string name="reopen_last_book_description">Quan està seleccionat, l’últim llibre que hagi estat obert s’obrirà automàticament a l’obrir el programari</string>
-    
     <string name="starting_screen">Pantalla inicial</string>
-	
-    <string name="back_press_on_home_screen">Prémer Enrere a la pantalla d’inici</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Tanca ^1</item>
-		<item>Tanca el llibre actual i mostra la llista de llibres</item>
-	</string-array>
-	
     <string name="negative_amount_format">Format d’imports negatius</string>
     
     <string name="show_currency_symbol">Mostrar el símbol de la divisa</string>

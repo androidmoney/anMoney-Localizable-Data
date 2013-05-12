@@ -44,10 +44,8 @@
     <string name="delete_subcategory_warning_format">Subcategory ^1 will be permanently deleted</string>
     <string name="delete_subclass_warning_format">Subclass ^1 will be permanently deleted</string>
     <string name="delete_classification_warning_format">Classification ^1 will be permanently deleted. All transactions will have their classifications removed</string>
-    <string name="deleting_classification">Deleting classification</string>
     <string name="default_categories_add_confirmation">Do you want to add the default categories</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="default_categories_added">Default categories added</string>
-    <string name="adding_default_categories">Adding default categories</string>
     <string name="all_categories">All categories</string>
     <string name="expense">Expense</string>
     <string name="expenses">Expenses</string>

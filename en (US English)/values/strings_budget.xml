@@ -4,7 +4,9 @@
     <string name="view_budget">View budget</string>
     <string name="edit_budget_item">Edit budget item</string>
     <string name="new_budget_item">New budget item</string>
+    <string name="over_budget">Over budget</string>
     <string name="expenses_over_budget">Expenses over budget</string>
+    <string name="within_budget">Within budget</string>
     <string name="expenses_within_budget">Expenses within budget</string>
     <string name="budgeted_amount">Budgeted</string>
     <string name="actual_amount">Actual</string>
@@ -13,7 +15,9 @@
 	<string name="budget_over_time">Budget over time</string> <!-- This is a report name -->
     <string name="recurring_bill_or_deposit_from">Recurring bill or deposit from</string>
     <string name="an_additional_amount_for_this_category">An additional amount for this category</string>
+    <string name="an_additional_amount_for_this_class">An additional amount for this class</string>
     <string name="the_additional_amount_for_this_category">The additional amount for this category</string>
+    <string name="the_additional_amount_for_this_class">The additional amount for this class</string>
     <string name="currently_daily_format">currently ^1 daily</string>
     <string name="currently_weekly_format">currently ^1 weekly</string>
     <string name="currently_biweekly_format">currently ^1 fortnightly</string>
@@ -24,6 +28,7 @@
     <string name="currently_custom_format">currently a custom schedule totaling ^1 yearly</string>
     <string name="budget_no_categories_yet">Please create categories before setting up the budget</string>
     <string name="select_budget_period">Select budget period to view</string>
+    <string name="all_others">All others</string>
     <string name="all_other_spending">All other spending</string>
     <string name="special_item">Special item</string>
     <string name="no_budget_items">You don’t have any budget items</string>

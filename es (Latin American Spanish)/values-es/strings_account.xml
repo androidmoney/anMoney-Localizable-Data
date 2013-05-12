@@ -55,7 +55,6 @@
 	<string name="clear_all_transactions_on_all_pages">Compensar todas las transacciones, en todas las páginas</string>  <!-- "Clear" as in Mark the transactions cleared -->
     <string name="export_account">Exportar cuenta</string>
     <string name="delete_account">Eliminar cuenta</string>
-    <string name="deleting_account">Eliminando cuenta</string>
     <string name="close_account">Cerrar cuenta</string>
     <string name="reopen_account">Reabrir cuenta</string>
     <string name="repair_account">Reparar cuenta</string>

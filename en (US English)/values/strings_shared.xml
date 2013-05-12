@@ -12,12 +12,9 @@
 	<string name="default_name_format">^1 No. ^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-    <string name="ellipsize_format">^1…</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="option_on_symbol">✓</string>
-    <string name="option_off_symbol">✗</string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
@@ -33,15 +30,12 @@
     <string name="next">Next</string>
     <string name="_import">Import</string>
     <string name="imported">Imported</string>
-    <string name="importing">Importing</string>
     <string name="import_canceled">Import cancelled</string>
     <string name="export">Export</string>
-	<string name="exporting">Exporting</string>
     <string name="export_canceled">Export cancelled</string>
 	<string name="import_export">Import/export</string>
     <string name="settings">Settings</string>
     <string name="display_options">Display options</string>
-    <string name="favorites">Favourites</string>
     <string name="add_favorite">Add to favourites</string>
     <string name="added_to_favorites">Added to favourites</string>
     <string name="remove">Remove</string>
@@ -54,7 +48,6 @@
     <string name="delete">Delete</string>
     <string name="deleted">Deleted</string>
     <string name="delete_canceled">Delete cancelled</string>
-    <string name="deleting">Deleting</string>
     <string name="create">Create</string>
     <string name="created">Created</string>
     <string name="create_canceled">Create cancelled</string>
@@ -77,7 +70,6 @@
     <string name="combined">Combined</string>
     <string name="copy_to_clipboard">Copy to clipboard</string>
     <string name="set">Set</string>
-    <string name="show">Show</string>
 	<string name="share">Share</string>
 	<string name="share_canceled">Share cancelled</string>
     <string name="create_in_app_name_format">Create in ^1</string>

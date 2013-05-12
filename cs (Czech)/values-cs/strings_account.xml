@@ -55,7 +55,6 @@
 	<string name="clear_all_transactions_on_all_pages">Označit jako zkontrolované všechny transakce na všech stránkách</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
     <string name="export_account">Exportovat účet</string>
     <string name="delete_account">Smazat účet</string>
-    <string name="deleting_account">Mazání účtu</string>
     <string name="close_account">Uzavřít účet</string>
     <string name="reopen_account">Znovu otevřít účet</string>
     <string name="repair_account">Opravit účet</string>

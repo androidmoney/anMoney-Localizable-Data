@@ -12,12 +12,9 @@
 	<string name="default_name_format">^1 № ^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1 %</string>
-    <string name="ellipsize_format">^1…</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="option_on_symbol">✓</string>
-    <string name="option_off_symbol">✗</string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 par ^2</string>
     <string name="filter_by_direction_order_format">^1 par ordre ^2 de ^3</string>
@@ -33,15 +30,12 @@
 	<string name="next">Suivant</string>
 	<string name="_import">Importer</string>
 	<string name="imported">Importé</string>
-	<string name="importing">Importation</string>
    	<string name="import_canceled">Importation annulée</string>
 	<string name="export">Exporter</string>
-	<string name="exporting">Exportation</string>
 	<string name="export_canceled">Exportation annulée</string>
    	<string name="import_export">Importer/exporter</string>
 	<string name="settings">Paramètres</string>
 	<string name="display_options">Options d’affichage</string>
-	<string name="favorites">Favoris</string>
 	<string name="add_favorite">Ajouter aux favoris</string>
 	<string name="added_to_favorites">Ajouté aux favoris</string>
 	<string name="remove">Retirer</string>
@@ -54,7 +48,6 @@
 	<string name="delete">Supprimer</string>
 	<string name="deleted">Supprimé</string>
 	<string name="delete_canceled">Suppression annulée</string>
-	<string name="deleting">Suppression</string>
 	<string name="create">Créer</string>
 	<string name="created">Créé</string>
 	<string name="create_canceled">Création annulée</string>
@@ -77,7 +70,6 @@
 	<string name="combined">Combiné</string>
 	<string name="copy_to_clipboard">Copier dans le presse-papiers</string>
 	<string name="set">Définir</string>
-	<string name="show">Montrer</string>
 	<string name="share">Partager</string>
 	<string name="share_canceled">Partage annulé</string>
 	<string name="create_in_app_name_format">Créer dans ^1</string>

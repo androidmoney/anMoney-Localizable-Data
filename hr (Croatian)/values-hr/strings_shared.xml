@@ -12,12 +12,9 @@
 	<string name="default_name_format">^1 #^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-    <string name="ellipsize_format">^1…</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="option_on_symbol">✓</string>
-    <string name="option_off_symbol">✗</string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="yes">Da</string>
     <string name="no">Ne</string>
@@ -31,13 +28,11 @@
     <string name="_import">Uvezi</string>
     <string name="imported">Uvezeno</string>
     <string name="import_canceled">Uvoz otkazan</string>
-    <string name="importing">Uvozim</string>
     <string name="export">Izvoz</string>
     <string name="export_canceled">Izvoz otkazan</string>
     <string name="import_export">Uvezi/izvezi</string>
     <string name="settings">Postavke</string>
     <string name="display_options">Postavke ekrana</string>
-    <string name="favorites">Favoriti</string>
     <string name="add_favorite">Dodaj u favorite</string>
     <string name="added_to_favorites">Dodano u favourite</string>
     <string name="remove">Obriši</string>
@@ -50,7 +45,6 @@
     <string name="delete">Obriši</string>
     <string name="deleted">Obrisano</string>
     <string name="delete_canceled">Brisanje otkazano</string>
-    <string name="deleting">Brišem</string>
     <string name="create">Stvori</string>
     <string name="created">Stvoreno</string>
     <string name="create_canceled">Stvaranje otkazano</string>
@@ -75,7 +69,6 @@
     <string name="combined">Kombinirano</string>
     <string name="copy_to_clipboard">Kopiraj u međuspremnik</string>
     <string name="set">Postavi</string>
-    <string name="show">Pokaži</string>
 <!-- New --> <string name="share">Pošalji</string>
 <!-- New --> <string name="share_canceled">Slanje otkazano</string>
     <string name="create_in_app_name_format">Stvori u ^1</string>

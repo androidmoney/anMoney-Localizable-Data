@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>    
     <string name="book">Book</string>
-    <string name="books">Books</string>
     <string name="new_book">New book</string>
     <string name="new_book_name">New book name</string>
-    <string name="open_book">Open book</string>
-    <string name="close_book">Close book</string>
     <string name="rename_book">Rename book</string>
     <string name="delete_book">Delete book</string>
     <string name="share_book">Share book</string>
-    <string name="preparing_to_share">Preparing to share</string>
     <string name="book_delete_warning_short_format">Book ^1 will be deleted</string>
     <string name="all_data_will_be_lost">All data in this book will be permanently lost, if not backed up</string>
     <string name="import_into_book">Import into book</string>
     <string name="export_from_book">Export from book</string>
     <string name="import_into_book_format">Import into book ^1</string>
-    <string name="copying_book">Copying book</string>
     <string name="no_books">You don’t have any books</string>
-    <string name="create_book_instructions_format">To create a book, tap ^i at the top of the screen</string> <!-- The ^i will be replaced by an image -->
-    <string name="book_list_favorites_empty">No favourite books</string>
-    <string name="creating_book">Creating book</string>
     <string name="upgrading_book">Upgrading book</string>
     <string name="upgrading_books">Upgrading books</string>
     <string name="backup">Backup</string>
@@ -28,12 +20,10 @@
     <string name="overwrite">Overwrite</string>
     <string name="backup_name">Backup name</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="backing_up_book">Backing up book</string>
     <string name="restore">Restore</string>
     <string name="restored">Restored</string>
     <string name="restore_canceled">Restore cancelled</string>
     <string name="restore_book">Restore book</string>
-    <string name="restoring_book">Restoring book</string>
     <string name="restore_warning_format">Book ^1 will be overwritten and <b>all</b> its data will unrecoverably be destroyed</string>
     <string name="select_backup_file_to_restore">Select backup file to restore</string>
     <string name="select_backup_file_to_create_from">Select backup file to create from</string>
@@ -49,10 +39,6 @@
     <string name="select_book">Select book</string>
     <string name="select_book_to_import_into">Select book to import statement into</string>
     <string name="select_import_file">Select file(s) to import</string>
-    <string name="reading_format">Reading ^1</string>
-    <string name="reading_file">Reading file</string>
-    <string name="reading_files">Reading files</string>
-    <string name="checking_for_duplicate_transactions">Checking for duplicate transactions</string>
     <string name="not_specified_brackets">&lt;Not specified></string>
     <string name="map_accounts">Map accounts</string>
     <string name="configure_account_mappings">Configure account mappings</string>
@@ -167,19 +153,7 @@
     </string-array>
 
     <string name="general">General</string>
-    <string name="navigation">Navigation</string>
-    
-    <string name="reopen_last_book">Reopen last book</string>
-    <string name="reopen_last_book_description">If selected, the last open book is reopened when launching the application</string>
-    
     <string name="starting_screen">Starting screen</string>
-	
-    <string name="back_press_on_home_screen">Back press on home screen</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Closes ^1</item>
-		<item>Closes current book and displays book list</item>
-	</string-array>
-	
     <string name="negative_amount_format">Negative amount format</string>
     
     <string name="show_currency_symbol">Show currency symbol</string>

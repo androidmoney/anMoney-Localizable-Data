@@ -44,10 +44,8 @@
     <string name="delete_subcategory_warning_format">La subcategoria ^1 serà esborrada de forma permanent</string>
     <string name="delete_subclass_warning_format">La subclasse ^1 serà esborrada de forma permanent</string>
     <string name="delete_classification_warning_format">La classificació ^1 serà esborrada de forma permanent. Se’ls treurà la classificació a les transaccions</string>
-    <string name="deleting_classification">Esborrant classificació</string>
     <string name="default_categories_add_confirmation">Vol afegir les categories per defecte</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="default_categories_added">S’han afegit les categories per defecte</string>
-    <string name="adding_default_categories">Afegint categories per defecte</string>
     <string name="all_categories">Totes les categories</string>
     <string name="expense">Despesa</string>
     <string name="expenses">Despesa</string>

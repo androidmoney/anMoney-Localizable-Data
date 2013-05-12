@@ -17,11 +17,6 @@
     <string name="view_financial_institutions">Ver instituição financeira</string>
     <string name="financial_institution_name">Nome da instituiçãoo financeira</string>
     <string name="contact_exists">Um contato com este nome já existe</string>
-    <string name="link_financial_institution">Você quer relacionar esta instituição financeira ao contato existente</string>
-    
+    <string name="link_financial_institution">Você quer relacionar esta instituição financeira ao contato existente</string>    
     <string name="no_financial_institutions_yet">Nenhuma instituição financeira ainda</string>
-	<string-array name="financial_institution_count_format_plurals">
-        <item>1 instituição financeira</item>
-        <item>^1 instituições financeiras</item>
-    </string-array>
 </resources>

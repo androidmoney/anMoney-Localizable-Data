@@ -44,10 +44,8 @@
     <string name="delete_subcategory_warning_format">Podkategorie ^1 bude trvale smazána</string>
     <string name="delete_subclass_warning_format">Podtřída ^1 bude trvale smazána</string>
     <string name="delete_classification_warning_format">Zařazení ^1 bude trvale smazáno. Všechny transakce budou nezařazené</string>
-    <string name="deleting_classification">Mazání zařazení</string>
     <string name="default_categories_add_confirmation">Chcete přidat výchozí kategorie</string>
     <string name="default_categories_added">Přidány výchozí kategorie</string>
-    <string name="adding_default_categories">Přidávání výchozích kategorií</string>
     <string name="all_categories">Všechny kategorie</string>
     <string name="expense">Výdaj</string>
     <string name="expenses">Výdaje</string>

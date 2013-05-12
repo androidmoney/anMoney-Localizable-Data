@@ -55,7 +55,6 @@
 	<string name="clear_all_transactions_on_all_pages">Clear all transactions on all the pages</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
     <string name="export_account">Export account</string>
     <string name="delete_account">Delete account</string>
-    <string name="deleting_account">Deleting account</string>
     <string name="close_account">Close account</string>
     <string name="reopen_account">Reopen account</string>
     <string name="repair_account">Repair account</string>

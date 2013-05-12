@@ -11,7 +11,6 @@
     <string name="accept">Elfogadás</string>
     <string name="accepted">Elfogadva</string>
     <string name="accept_canceled">Elfogadás megszakítva</string>
-    <string name="accepting">Elfogadja</string>
     <string name="accept_transaction_all"><b>Összes</b> tranzakció el lesz fogadva</string>
     <string name="mark">Jelölés</string> <!-- Mark as mark a transaction reconciled/cleared/etc -->
     <string name="marked">Jelölt</string>
@@ -21,7 +20,6 @@
         <item>Jelöljön ^1 tranzakciót</item>
     </string-array>
     <string name="mark_transactions_all">Az <b>összes</b> tranzakció jelölése</string>
-    <string name="marking">Jelöli</string>
     <string name="unreconciled1">Egyeztetetlen</string>
     <string name="unreconciled2">@string/unreconciled1</string>
     <string name="cleared1">Elszámolt</string>
@@ -112,7 +110,6 @@
     <string name="deposits_payments">Betétek és kifizetések</string>
     <string name="no_deposits_payments">Nincsenek betétek vagy kifizetések</string>
     <string name="no_unreconciled_transactions">Nincsenek egyeztetettlen tranzakciók</string>
-    <string name="removing_transactions">Eltávolítja a tranzakciókat</string>
     <string name="cleared_all_transactions">Az összes tranzakció el lett számolva</string>
     <string name="next_check_number">Következő csekkszám</string>
     <string name="cleared_transactions_color">Elszámolt tranzakciók színe</string>

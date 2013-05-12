@@ -11,7 +11,6 @@
     <string name="accept">Přijmout</string>
     <string name="accepted">Přijato</string>
     <string name="accept_canceled">Odmítnuto</string>
-    <string name="accepting">Přijímání</string>
     <string name="accept_transaction_all"><b>Všechny</b> transakce budou přijaty</string>
     <string name="mark">Označit</string>
     <string name="marked">Označeno</string>
@@ -23,7 +22,6 @@
         <item>Označit ^1 transakcí</item>
     </string-array>
     <string name="mark_transactions_all">Označit <b>všechny</b> transakce</string>
-    <string name="marking">Označuji</string>
     <string name="unreconciled1">Neověřená</string>
     <string name="unreconciled2">Neodsouhlasené</string>
     <string name="cleared1">Zkontrolovaná</string>
@@ -114,7 +112,6 @@
     <string name="deposits_payments">Vklady a platby</string>
     <string name="no_deposits_payments">Žádné Vklady ani platby</string>
     <string name="no_unreconciled_transactions">Žádné neodsouhlasené transakce</string>
-    <string name="removing_transactions">Mazání transakcí</string>
     <string name="cleared_all_transactions">Všechny transakce zkontrolované</string>
     <string name="next_check_number">Číslo příštího šeku</string>
     <string name="cleared_transactions_color">Barva zkontrolovaných transakcí</string>

@@ -140,11 +140,6 @@
 	<string name="if_it_falls_on_a_weekend">Ha a dátum a hétvégére esik</string>
 	<string name="skip_weekends">Átugorja a hétvéget</string>
 	
-	<string name="no_recurrings_yet">Nincsenek még ismétlődő számlák vagy betétek</string>
-	<string-array name="recurrings_count_format_plurals">
-		<item>^1 ismétlődő számla vagy betét</item>
-	</string-array>
-
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
 		<item>^1 megkésett</item>

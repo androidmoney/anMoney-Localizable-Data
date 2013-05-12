@@ -44,10 +44,8 @@
     <string name="delete_subcategory_warning_format">Подкатегория ^1 будет удалена</string>
     <string name="delete_subclass_warning_format">Подкласс ^1 будет удалён</string>
     <string name="delete_classification_warning_format">Классификация ^1 будет удалена и убрана из всех транзакций</string>
-    <string name="deleting_classification">Удаление классификации</string>
     <string name="default_categories_add_confirmation">Добавить стандартные категории</string>
     <string name="default_categories_added">Стандартные категории добавлены</string>
-    <string name="adding_default_categories">Добавление стандартных категорий</string>
     <string name="all_categories">Все категории</string>
     <string name="expense">Расход</string>
     <string name="expenses">Расходы</string>

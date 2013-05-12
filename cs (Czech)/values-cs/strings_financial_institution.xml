@@ -18,11 +18,5 @@
     <string name="financial_institution_name">Název finanční instituci</string>
     <string name="contact_exists">Kontakt s tímto názvem již existuje</string>
     <string name="link_financial_institution">Chcete propojit tuto finanční instituci s existujícím kontaktem</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    
     <string name="no_financial_institutions_yet">Zatím žádná finanční instituce</string>
-	<string-array name="financial_institution_count_format_plurals">
-        <item>^1 finanční instituce</item>
-        <item>^1 finanční instituce</item>
-        <item>^1 finančních institucí</item>
-    </string-array>
 </resources>

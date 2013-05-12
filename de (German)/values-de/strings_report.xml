@@ -9,8 +9,6 @@
 	<string name="report_exported">Export auf SD Karte erfolgreich</string>
 <!-- New --> <string name="share_report">Bericht teilen</string>
 	<string name="report_settings">Berichts-Einstellungen</string>
-	<string name="creating_report">Erstelle Bericht</string>
-	<string name="updating_report">Aktualisiere Bericht</string>
 	<string name="custom_dates">Eigene Datumsangaben</string>
 	<string name="other">Andere</string>
 	<string name="report_empty">Keine Daten zum Anzeigen vorhanden</string>
@@ -34,11 +32,7 @@
 	<string name="tomorrow">Morgen</string>
 	<string name="yesterday">Gestern</string>
 	<string name="select_report">Wähle Bericht</string>
-    	
-	<string-array name="report_count_format_plurals">
-		<item>1 Bericht</item>
-		<item>^1 Berichte</item>
-	</string-array>
+	<string name="report_folder">Bericht-Ordner</string>
 
 	<string name="chart_type">Diagrammart</string>
 	<string name="text_report">Bericht in Textform</string>

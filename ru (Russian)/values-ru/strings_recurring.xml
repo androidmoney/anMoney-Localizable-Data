@@ -157,13 +157,6 @@
 	<string name="if_it_falls_on_a_weekend">Если дата приходится на выходные</string>
 	<string name="skip_weekends">Пропускать выходные</string>
 
-	<string name="no_recurrings_yet">Нет запланированных операций</string>
-	<string-array name="recurrings_count_format_plurals">
-	    <item>^1 запланированная операция</item>
-		<item>^1 запланированных операции</item>
-		<item>^1 запланированных операций</item>
-	</string-array>
-
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
 		<item>^1 просрочено</item>

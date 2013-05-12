@@ -55,7 +55,6 @@
 	<string name="clear_all_transactions_on_all_pages">Számolja el a bármelyik lapon lévő tranzakciókat</string>
     <string name="export_account">Számla exportálása</string>
     <string name="delete_account">Számla törlése</string>
-    <string name="deleting_account">Törli a számlát</string>
     <string name="close_account">Számla bezárása</string>
     <string name="reopen_account">Számla újranyitása</string>
     <string name="repair_account">Számla javítása</string>

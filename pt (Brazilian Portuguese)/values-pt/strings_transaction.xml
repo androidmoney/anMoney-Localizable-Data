@@ -11,7 +11,6 @@
     <string name="accept">Aceitar</string>
     <string name="accepted">Aceitado</string>
     <string name="accept_canceled">Aceitar cancelado</string>
-    <string name="accepting">Aceitando</string>
     <string name="accept_transaction_all"><b>Todas</b> as transações serão aceitas</string>
     <string name="mark">Marcar</string>
     <string name="marked">Marcado</string>
@@ -22,7 +21,6 @@
 		<item>Marcar ^1 transações</item>
     </string-array>
     <string name="mark_transactions_all">Marcar <b>todas</b> as transações</string>
-    <string name="marking">Marcando</string>
     <string name="unreconciled1">Não reconciliadas</string>
 
     <string name="cleared1">Conferidas</string>
@@ -113,7 +111,6 @@
     <string name="deposits_payments">Depóstios &amp; Pagamentos</string>
     <string name="no_deposits_payments">Sem depósitos ou pagamentos</string>
     <string name="no_unreconciled_transactions">Nenhuma transação sem reconciliação</string>
-    <string name="removing_transactions">Removendo transações</string>
     <string name="cleared_all_transactions">Todas as transações foram apuradas</string>
     <string name="next_check_number">Próximo número de cheque</string>
     <string name="cleared_transactions_color">Cor de transações apuradas</string>

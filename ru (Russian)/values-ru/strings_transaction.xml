@@ -11,7 +11,6 @@
     <string name="accept">Принять</string>
     <string name="accepted">Принято</string>
     <string name="accept_canceled">Отменено</string>
-    <string name="accepting">Принятие</string>
     <string name="accept_transaction_all"><b>Все</b> транзакции будут приняты</string>
     <string name="mark">Пометить</string>
     <string name="marked">Помечено</string>
@@ -23,7 +22,6 @@
         <item>Пометить ^1 транзакций</item>
     </string-array>
     <string name="mark_transactions_all">Пометить <b>все</b> транзакции</string>
-    <string name="marking">Установка пометки</string>
     <string name="unreconciled1">Несогласованная</string>
     <string name="unreconciled2">Несогласованные</string>
     <string name="cleared1">Чистая</string>
@@ -114,7 +112,6 @@
     <string name="deposits_payments">Пополнения и платежи</string>
     <string name="no_deposits_payments">Нет пополнений и платежей</string>
     <string name="no_unreconciled_transactions">Нет несогласованных транзакций</string>
-    <string name="removing_transactions">Удаление транзакций</string>
     <string name="cleared_all_transactions">Все транзакции чистые</string>
 	<string name="next_check_number">Следующий номер чека</string>
 	<string name="cleared_transactions_color">Цвет чистой транзакции</string>

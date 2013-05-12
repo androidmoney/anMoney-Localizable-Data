@@ -31,8 +31,4 @@
 		<item>@string/name</item>
 		<item>@string/region</item>
 	</string-array>
-    
-	<string-array name="currency_count_format_plurals">
-        <item>^1 valuta</item>
-    </string-array>    
 </resources>

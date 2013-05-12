@@ -44,10 +44,8 @@
     <string name="delete_subcategory_warning_format">Alkategória ^1 véglegesen le lesz törölve</string>
     <string name="delete_subclass_warning_format">Alosztály ^1 véglegesen le lesz törölve</string>
     <string name="delete_classification_warning_format">Osztályozás ^1 véglegesen le lesz törölve. Az összes tranzakció osztályozása el lesz távolítva</string>
-    <string name="deleting_classification">Osztályozást törli</string>
     <string name="default_categories_add_confirmation">Szeretné hozzáadni az alapkategóriákat</string>
     <string name="default_categories_added">Alapkategóriák hozzáadva</string>
-    <string name="adding_default_categories">Alapkategóriákat hozzáadja</string>
     <string name="all_categories">Összes kategória</string>
     <string name="expense">Kiadás</string>
     <string name="expenses">Kiadások</string>

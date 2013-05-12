@@ -44,10 +44,8 @@
 	<string name="delete_subcategory_warning_format">Unter-Kategorie ^1 wird dauerhaft gelöscht</string>
 	<string name="delete_subclass_warning_format">Unter-Klasse ^1 wird dauerhaft gelöscht</string>
 	<string name="delete_classification_warning_format">Klassifikation ^1 wird dauerhaft gelöscht. Von allen Transaktionen wird die Klassifikation entfernt</string>
-	<string name="deleting_classification">Lösche Klassifikation</string>
 	<string name="default_categories_add_confirmation">Möcheten Sie die Standard-Kategorien hinzufügen</string>
 	<string name="default_categories_added">Standard-Kategorien hinzugefügt</string>
-	<string name="adding_default_categories">Füge Standard-Kategorien hinzu</string>
     <string name="all_categories">Alle Kategorien</string>
 	<string name="expense">Ausgabe</string>
 	<string name="expenses">Ausgaben</string>

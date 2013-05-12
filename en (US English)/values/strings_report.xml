@@ -9,8 +9,6 @@
 	<string name="report_exported">Successfully exported to the SD card</string>
 	<string name="share_report">Share report</string>
 	<string name="report_settings">Report settings</string>
-	<string name="creating_report">Creating report</string>
-	<string name="updating_report">Updating report</string>
 	<string name="custom_dates">Custom dates</string>
 	<string name="other">Other</string>
 	<string name="report_empty">There is no data to display</string>
@@ -33,12 +31,8 @@
 	<string name="today">Today</string>
 	<string name="tomorrow">Tomorrow</string>
 	<string name="yesterday">Yesterday</string>
-		<string name="select_report">Select report</string>
-    		
-	<string-array name="report_count_format_plurals">
-		<item>1 report</item>
-		<item>^1 reports</item>
-	</string-array>
+	<string name="select_report">Select report</string>
+    <string name="report_folder">Report folder</string>
 
 	<string name="chart_type">Chart type</string>
 	<string name="text_report">Text report</string>

@@ -3,7 +3,7 @@
 	<string name="account">Konto</string>
 	<string name="accounts">Konten</string>
 	<string name="all_accounts">Alle Konten</string>
-	<string name="open_accounts">Konten öffnen</string>
+	<string name="open_accounts">Offene Konten</string>
     <string name="liability">Verbindlichkeit</string>
     <string name="asset">Guthaben</string>
 	<string name="credit_liability_details">Guthaben / Verbindlichkeiten-Details</string>
@@ -55,7 +55,6 @@
 	<string name="clear_all_transactions_on_all_pages">Alle Transaktionen auf den Seiten löschen</string>
 	<string name="export_account">Export Konto</string>
 	<string name="delete_account">Konto löschen</string>
-	<string name="deleting_account">Lösche Konto</string>
 	<string name="close_account">Konto schließen</string>
 	<string name="reopen_account">Konto wiedereröffnen</string>
 	<string name="repair_account">Konto reparieren</string>

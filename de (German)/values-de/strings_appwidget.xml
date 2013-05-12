@@ -8,12 +8,14 @@
 	<string name="book_no_longer_exists_format">Mappe ^1 existiert nicht mehr</string>
 	<string name="account_no_longer_exists">Konto existiert nicht mehr</string>
     <string name="report_no_longer_exists">Bericht existiert nicht mehr</string>
-	
+    <string name="budget_no_longer_exists_format">Budget ^1 existiert nicht mehr</string>
+    	
 	<string name="quick_entry">Schnelleintrag</string>
     <string name="app_name_quick_entry">anMoney — Schnelleintrag</string>
 	<string name="app_name_quick_entry_large">anMoney — Schnelleintrag (groß)</string>
 	<string name="app_name_quick_entry_small">anMoney — Schnelleintrag (klein)</string>
 	<string name="show_total">Zeige Konten-Saldo</string>
+    <string name="opacity">Opazität</string>
 
 	<string name="app_name_upcoming">anMoney — Bevorstehend</string>
 

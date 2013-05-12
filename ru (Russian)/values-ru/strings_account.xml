@@ -55,7 +55,6 @@
 	<string name="clear_all_transactions_on_all_pages">Пометить все транзакции на всех страницах чистыми</string>
     <string name="export_account">Экспорт счёта</string>
     <string name="delete_account">Удалить счёт</string>
-    <string name="deleting_account">Удаление счёта</string>
     <string name="close_account">Закрыть счёт</string>
     <string name="reopen_account">Открыть счёт</string>
     <string name="repair_account">Исправить счёт</string>

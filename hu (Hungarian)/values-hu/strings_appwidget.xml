@@ -8,12 +8,14 @@
     <string name="book_no_longer_exists_format">Könyv ^1 már nem létezik</string>
     <string name="account_no_longer_exists">A számla már nem létezik</string>
     <string name="report_no_longer_exists">A jelentés már nem létezik</string>
+    <string name="budget_no_longer_exists_format">Költségvetés ^1 már nem létezik</string>
     
     <string name="quick_entry">Gyors bejegyzés</string>
     <string name="app_name_quick_entry">anMoney — Gyors bejegyzés</string>
     <string name="app_name_quick_entry_large">anMoney — Gyors bejegyzés (nagy)</string>
     <string name="app_name_quick_entry_small">anMoney — Gyors bejegyzés (kicsi)</string>
     <string name="show_total">Megjeleníti a számla összegét</string>
+    <string name="opacity">Átlátszatlanság</string>
 
     <string name="app_name_upcoming">anMoney — Soron következők</string>
 

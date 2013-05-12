@@ -4,7 +4,9 @@
     <string name="view_budget">Zobrazit rozpočet</string>
     <string name="edit_budget_item">Upravit položku rozpočtu</string>
     <string name="new_budget_item">Nová položka rozpočtu</string>
+<!-- New --> <string name="over_budget">Over budget</string>
     <string name="expenses_over_budget">Překročený rozpočet</string>
+<!-- New --> <string name="within_budget">Within budget</string>
     <string name="expenses_within_budget">Dodržený rozpočet</string>
     <string name="budgeted_amount">Naplánováno</string>
     <string name="actual_amount">Využito</string>
@@ -13,7 +15,9 @@
 	<string name="budget_over_time">Plnění rozpočtu za čas</string> <!-- This is a report name -->
     <string name="recurring_bill_or_deposit_from">Z trvalého příkazu</string>
     <string name="an_additional_amount_for_this_category">Navýšení pro tuto kategorii</string>
+    <string name="an_additional_amount_for_this_class">Navýšení pro tuto třídu</string>
     <string name="the_additional_amount_for_this_category">Navýšení pro tuto kategorii</string>
+    <string name="the_additional_amount_for_this_class">Navýšení pro tuto třídu</string>
     <string name="currently_daily_format">nyní ^1 denně</string>
     <string name="currently_weekly_format">nyní ^1 týdně</string>
     <string name="currently_biweekly_format">nyní ^1 čtrnáctidenně</string>
@@ -24,6 +28,7 @@
     <string name="currently_custom_format">podle vlastního plánu, celkem ^1 za rok</string>
     <string name="budget_no_categories_yet">Před vytvořením rozpočtu prosím vytvořte kategorie</string>
     <string name="select_budget_period">Období pro zobrazení rozpočtu</string>
+	<string name="all_others">Všechny ostatní</string>
     <string name="all_other_spending">Všechny ostatní výdaje</string>
     <string name="special_item">Zvláštní záznam</string>
     <string name="no_budget_items">Nemáte žádné položky rozpočtu</string>

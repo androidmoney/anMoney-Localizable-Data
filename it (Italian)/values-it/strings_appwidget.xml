@@ -8,12 +8,14 @@
     <string name="book_no_longer_exists_format">Libretto ^1 non più esistente</string>
     <string name="account_no_longer_exists">Conto non più esistente</string>
     <string name="report_no_longer_exists">Report non più esistente</string>
+    <string name="budget_no_longer_exists_format">Budget ^1 non più esistente</string>
     
     <string name="quick_entry">Inserimento rapido</string>
     <string name="app_name_quick_entry">anMoney — Inserimento rapido</string>
     <string name="app_name_quick_entry_large">anMoney — Inserimento rapido (grande)</string>
     <string name="app_name_quick_entry_small">anMoney — Inserimento rapido (piccolo)</string>
     <string name="show_total">Visualizza totale conto</string>
+    <string name="opacity">Opacità</string>
 
     <string name="app_name_upcoming">anMoney — Prossimo</string>
 

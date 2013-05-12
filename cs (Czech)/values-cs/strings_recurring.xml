@@ -153,13 +153,6 @@
 	<string name="if_it_falls_on_a_weekend">Pokud datum připadne na víkend</string>
 	<string name="skip_weekends">Vynechat výkendy</string>
 	
-	<string name="no_recurrings_yet">Zatím žádné trvalé příkazy</string>
-	<string-array name="recurrings_count_format_plurals">
-		<item>^1 trvalý příkaz</item>
-		<item>^1 trvalé příkazy</item>
-		<item>^1 trvalých příkazů</item>
-	</string-array>
-	
 	<string name="overdue_count_format">^1/^2</string>
 <!-- Verify -->	<string-array name="overdue_plurals">
 		<item>^1 zpoždění</item>

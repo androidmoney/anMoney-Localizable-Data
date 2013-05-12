@@ -11,7 +11,6 @@
     <string name="accept">Accetta</string>
     <string name="accepted">Accettato</string>
     <string name="accept_canceled">Cancella accettati</string>
-    <string name="accepting">Accettando</string>
     <string name="accept_transaction_all"><b>Tutte</b> le transazioni saranno accettate</string>
     <string name="mark">Contrassegna</string>
     <string name="marked">Contrassegnati</string>
@@ -22,7 +21,6 @@
         <item>Seleziona ^1 transazioni</item>
     </string-array>
     <string name="mark_transactions_all">Seleziona <b>tutte</b> transazioni</string>
-    <string name="marking">Contrassegnando</string>
     <string name="unreconciled1">Non riconciliati</string>
 
     <string name="cleared1">Autorizzata</string>
@@ -113,13 +111,12 @@
     <string name="deposits_payments">Depositi &amp; Pagamenti</string>
     <string name="no_deposits_payments">Nessun deposito o pagamento</string>
     <string name="no_unreconciled_transactions">Nessuna transazione riconciliata</string>
-    <string name="removing_transactions">Rimuovi transazioni</string>
     <string name="cleared_all_transactions">Pulisci tutte le transazioni</string>
     <string name="next_check_number">Prossimo numero assegno</string>
     <string name="cleared_transactions_color">Pulisci colore transazioni</string>
     <string name="reconciled_transactions_color">Riconcilia colore transazioni</string>
 	<string name="create_transaction_instructions_format">Per creare una transazione, toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an icon --> 
-    <string name="text_filter">Testo del filtro</string>
+	<string name="text_filter">Testo del filtro</string>
 	<string name="profit_and_loss_statement">Resoconto Profitti &amp; Perdite</string>
 	<string name="transaction_type">Tipo di transazione</string>
 	<string name="transaction_status">Stato della transazione</string>

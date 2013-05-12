@@ -9,8 +9,6 @@
 	<string name="report_exported">L’informe s’ha exportat amb èxit a la targeta SD</string>
 	<string name="share_report">Compartir informe</string>
 	<string name="report_settings">Paràmetres de l’informe</string>
-	<string name="creating_report">Creant informe</string>
-	<string name="updating_report">Actualitzant informe</string>
 	<string name="custom_dates">Dates personalitzades</string>
 	<string name="other">Altre</string>
 	<string name="report_empty">No hi ha dades a mostrar</string>
@@ -33,12 +31,8 @@
 	<string name="today">Avui</string>
 	<string name="tomorrow">Demà</string>
 	<string name="yesterday">Ahir</string>
-		<string name="select_report">Seleccionar informe</string>
-    		
-	<string-array name="report_count_format_plurals">
-		<item>1 informe</item>
-		<item>^1 informes</item>
-	</string-array>
+	<string name="select_report">Seleccionar informe</string>
+    <string name="report_folder">Carpeta d’informe</string>
 
 	<string name="chart_type">Tipus de gràfic</string>
 	<string name="text_report">Informe de text</string>

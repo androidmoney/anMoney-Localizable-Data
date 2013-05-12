@@ -50,7 +50,6 @@
 <!-- New --> <string name="clear_all_transactions_on_all_pages">Clear all transactions on all the pages</string>  <!-- "Clear" as in Mark the transactions cleared -->
     <string name="export_account">Izvezi račun</string>
     <string name="delete_account">Obriši račun</string>
-    <string name="deleting_account">Brisanje računa</string>
     <string name="close_account">Zatvori račun</string>
     <string name="reopen_account">Potovo otvori račun</string>
     <string name="repair_account">Popravi račun</string>

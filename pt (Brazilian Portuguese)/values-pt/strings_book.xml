@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="book">Livro</string>
-    <string name="books">Livros</string>
     <string name="new_book">Novo livro</string>
     <string name="new_book_name">Novo nome de livro</string>
-    <string name="open_book">Abrir livro</string>
-    <string name="close_book">Fechar livro</string>
     <string name="rename_book">Renomear livro</string>
     <string name="delete_book">Excluir livro</string>
 	<string name="share_book">Compartilhar livro</string>
-	<string name="preparing_to_share">Preparando para compartilhar</string>
     <string name="book_delete_warning_short_format">Livro ^1 será excluído</string>
     <string name="all_data_will_be_lost">Todos os dados do livro serão perdidos de forma permanente, se estiver sem backup</string>
     <string name="import_into_book">Importar pro livro</string>
     <string name="export_from_book">Exportar do livro</string>
     <string name="import_into_book_format">Importar pro livro ^1</string>
-    <string name="copying_book">Copiando livro</string>
     <string name="no_books">Você não tem nenhum livro</string>
-    <string name="create_book_instructions_format">Para criar um livro, toque ^i no topo da tela</string>
-    <string name="book_list_favorites_empty">Sem livros favoritos</string>
-    <string name="creating_book">Criando livro</string>
     <string name="upgrading_book">Atualizando livro</string>
     <string name="upgrading_books">Atualizando livros</string>
     <string name="backup">Backup</string>
@@ -28,12 +20,10 @@
     <string name="overwrite">Substituído</string>
     <string name="backup_name">Nome do backup</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="backing_up_book">Fazendo backup do livro</string>
     <string name="restore">Restaurar</string>
     <string name="restored">Restaurado</string>
     <string name="restore_canceled">Restauração cancelada</string>
     <string name="restore_book">Restaurar livro</string>
-    <string name="restoring_book">Restaurando livro</string>
     <string name="restore_warning_format">Livro ^1 será substituído. <b>Todos</b> os dados serão eliminados sem recuperação</string>
     <string name="select_backup_file_to_restore">Selecione o arquivo de backup para restaurar</string>
     <string name="select_backup_file_to_create_from">Selecione o arquivo de origem do backup</string>
@@ -49,10 +39,6 @@
     <string name="select_book">Selecione o livro</string>
     <string name="select_book_to_import_into">Selecione o livro onde será feita a importação</string>
     <string name="select_import_file">Selecione arquivo(s) para importação</string>
-    <string name="reading_format">Lendo ^1</string>
-    <string name="reading_file">Lendo arquivo</string>
-    <string name="reading_files">Lendo arquivos</string>
-	<string name="checking_for_duplicate_transactions">Verificar transações duplicadas</string>
     <string name="not_specified_brackets">&lt;Não especificado&gt;</string>
     <string name="map_accounts">Mapa de contas</string>
     <string name="configure_account_mappings">Configurar mapa de contas</string>
@@ -167,19 +153,7 @@
     </string-array>
 	
     <string name="general">Geral</string>
-    <string name="navigation">Navegação</string>
-    
-    <string name="reopen_last_book">Reabrir último livro</string>
-    <string name="reopen_last_book_description">Se selecionado, o último livro aberto é reaberto ao iniciar a aplicação</string>
-    
     <string name="starting_screen">Tela inicial</string>
-	
-    <string name="back_press_on_home_screen">Voltar à tela inicial</string>
-	<string-array name="back_press_on_home_screen_items">
-		<item>Fecha ^1</item>
-		<item>Fecha o livro atual e mostra a lista de livros</item>
-	</string-array>
-	
     <string name="negative_amount_format">Formato valor negativo</string>
     
     <string name="show_currency_symbol">Mostrar símbolo de moeda</string>
