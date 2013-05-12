@@ -212,7 +212,7 @@
 	<string name="show_keyboard_automatically_description">Se selezionato, il popup della tastiera verrà visualizzato ogni volta che fai una nuova transazione</string>
 
     <string name="notes_in_transaction_window">Note nella finestra di transazione</string>
-    <string name="notes_in_transaction_window_description">Se selezionata, lla note singola può essere modificata nella finestra di transazione</string>
+    <string name="notes_in_transaction_window_description">Se selezionato, la nota singola può essere modificata nella finestra di transazione</string>
     
     <string name="new_category_in_transaction_window">Nuova categoria nella finestra di transazione</string>
     <string name="new_category_in_transaction_window_description">Se selezionato, una nuova categoria potrà essere creata all’interno della finestra di transazione</string>
