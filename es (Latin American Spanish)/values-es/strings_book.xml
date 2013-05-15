@@ -114,7 +114,7 @@
     <string name="haptic_feedback_description">Si se selecciona, se hace vibrar al tocar los botones</string>
 	<string name="default_book_name">Mi libro</string>
 	<string name="color_theme">Color del tema</string>
-	<string name="dark">Escuro</string>
+	<string name="dark">Oscuro</string>
 	<string name="light">Claro</string>
 	<string name="preview">Previsualización</string>
 	

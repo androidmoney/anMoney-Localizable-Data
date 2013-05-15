@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account">Účet</string>
+    <string name="accounts">Účty</string>
+    <string name="all_accounts">Všetky účty</string>
+    <string name="open_accounts">Otvorené účty</string>
+    <string name="liability">Záväzok</string>
+    <string name="asset">Pohľadávka</string>
+    <string name="credit_liability_details">Detaily pohľadávok / záväzkov</string>
+<!-- <string name="associated_loan">Související úvěr</string> -->
+<!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
+<!-- <string name="associated_reward_program">Associated reward program</string> -->
+<!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
+    <string name="account_balances">Účtovné zostatky</string>
+    <string name="vehicle_details">Podrobnosti dopravného prostriedku</string>
+    <string name="property_details">Detaily o majetku</string>
+    <string name="view_accounts">Zobraziť účty</string>
+    <string name="new_account">Nový účet</string>
+    <string name="edit_account">Upraviť účet</string>
+    <string name="balance_noun">Zostatok</string>
+    <string name="balances_noun">Zostatky</string>
+    <string name="adjust">Opraviť</string>
+    <string name="adjust_balance">Opraviť zostatok</string>
+	<string name="balance_adjusted">Zostatok opravený</string>
+	<string name="balance_adjustment_note">Poznámka o oprave zostatku</string>
+	<string name="category_for_adjustment_transaction">Kategória pre opravu zostatku</string>
+	<string name="postpone">Odložiť</string>
+    <string name="balance_verb">Vyrovnať</string>
+    <string name="balance_account">Vyrovnať účet</string>
+    <string name="balanced">Vyrovnaný</string>
+    <string name="balance_postponed">Vyrovnanie odložené</string>
+    <string name="balance_canceled">Vyrovnanie zrušené</string>
+	<string name="started_balancing_already">Už ste začali vyrovnávanie tohto účtu</string>
+	<string name="postpone_balancing_warning">Odložiť vyrovnanie</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="account_balance_does_not_match_bank_warning_format">Zadaný začiatočný zostatok, ^1, nezodpovedá súčtu všetkých skôr odsúhlasených transakcií, ^2</string>
+	<string name="account_balance_does_not_match_credit_warning_format">Zadaná dlžná čiastka, ^1, nezodpovedá súčtu všetkých skôr odsúhlasených transakcií, ^2</string>
+	<string name="account_balance_does_not_match_fix">Skúste vyriešiť:\n\n<li>Kontrolou výpisu z účtu</li>\n<li>Odsúhlasením transakcií</li>\n<li>Zrušením odsúhlasenia transakcií</li>\n<li>Opravou začiatočného zostatku</li></string>
+	<string name="left_to_reconcile">Zostáva odsúhlasiť</string>
+	<string name="statement_balance">Zostatok podľa výpisu</string>
+    <string name="statement_date">Datum výpisu</string>
+    <string name="statement_starting_balance">Začiatočný zostatok</string>
+    <string name="statement_ending_balance">Konečný zostatok</string>
+    <string name="amount_owed_last_month">Celková výška dlhu tento mesiac</string>
+    <string name="amount_owed_this_month">Celková výška dlhu minulý mesiac</string>
+	<string name="service_charge_amount">Výška poplatkov</string>
+    <string name="service_charge_category">Kategória poplatkov</string>
+    <string name="service_charge_notes_format">Výška poplatkov za obdobie končiace ^1</string>
+    <string name="interest_earned_amount">Výška získaných úrokov</string>
+    <string name="interest_earned_category">Kategória získaných úrokov</string>
+    <string name="interest_earned_notes_format">Získané úroky za obdobie končiace ^1</string>
+    <string name="interest_paid_amount">Výška zaplatených úrokov</string>
+    <string name="interest_paid_category">Kategória zaplatených úrokov</string>
+    <string name="interest_paid_notes_format">Zaplatené úroky za obdobie končiace ^1</string>
+    <string name="clear_all_transactions">Označiť všetky transakcie ako skontrolované</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+	<string name="clear_all_transactions_on_all_pages">Označiť všetky transakcie ako skontrolované na všetkých stránkach</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+    <string name="export_account">Exportovať účet</string>
+    <string name="delete_account">Zmazať účet</string>
+    <string name="close_account">Uzavrieť účet</string>
+    <string name="reopen_account">Znovu otvoriť účet</string>
+    <string name="repair_account">Opraviť účet</string>
+    <string name="repaired">Opravený</string>
+    <string name="copy_account_number">Skopírovať číslo účtu</string>
+    <string name="book_total">Zostatok knihy</string>
+    <string name="favorites_total">Zostatok obľúbených</string>
+	<string name="delete_account_warning_part1_format">Účet ^1 bude nenávratne zmazaný.\n\nVzhľadom k tomu, že účet je použitý v transakciách, budú takisto zmazané aj všetky súvisiace transakcie</string>
+	<string name="delete_account_warning_part2_format">Ak chcete účet iba skryť, ale zachovať históriu transakcií, zvoľte radšej ^1 a účet uzavrite</string>
+	<string name="no_accounts">Nemáte žiadne účty</string>
+    <string name="create_account_instructions_format">Pre vytvorenie účtu, stlačte ^i v hornej časti obrazovky</string>  <!-- ^i will be replaced by an icon -->
+    <string name="no_transactions_for_account">Pre tento účet nemáte žiadne transakcie</string>
+    <string name="account_type">Typ účtu</string>
+    <string name="account_type_bank_first">Typ účtu, bankové účty prvé</string>
+    <string name="account_type_cash_first">Typ účtu, hotovosť prvá</string>
+    <string name="account_name">Názov účtu</string>
+    <string name="abbreviation">Skratka</string>
+    <string name="abbr">Skr</string>
+    <string name="type">Typ</string>
+    <string name="favorite_account">Obľúbený účet</string>
+    <string name="favorite_accounts">Obľúbené účty</string>
+    <string name="budget_account">Rozpočtový účet</string>
+    <string name="account_has_been_closed">Tento účet je už uzavretý</string>
+    <string name="acquisition_date">Dátum zriadenia</string>
+    <string name="credit_limit">Úverový limit</string>
+    <string name="must_pay_balance">Musím každý mesiac vyrovnať celú vyčerpanú čiastku (Charge karta)</string>
+    <string name="will_pay_balance">Chcel by som každý mesiac vyrovnať celú vyčerpanú čiastku</string>
+    <string name="interest_rate">Úroková sadzba</string>
+    <string name="introductory_rate_in_effect">Platí úvodná úroková sadzba</string>
+    <string name="introductory_rate">Úvodná sazba</string>
+    <string name="valid_until">Platí do</string>
+    <string name="minimum_balance">Minimálny zostatok</string>
+    <string name="date">Dátum</string>
+    <string name="make">Vyrobená</string>
+    <string name="vehicle_make">Rok výroby</string>
+    <string name="year">Rok</string>
+    <string name="model">Model</string>
+    <string name="vehicle_model">Model vozidla</string>
+    <string name="vehicle_identification_number">Číslo karosérie (VIN)</string>
+    <string name="vin">VIN</string>
+    <string name="purchase_location">Miesto nákupu</string>
+    <string name="location">Miesto</string>
+    <string name="warranty_information">Informácie o záruke</string>
+    <string name="type_details_about_warranty_information">Detaily o záruke</string>
+    <string name="warranty_expiration_date">Koniec záruky</string>
+    <string name="manufacturer_web_address">Webová adresa výrobcu</string>
+    <string name="property_address">Adresa nehnuteľnosti</string>
+    <string name="closed">Zatvorený</string>
+    <string name="reopened">Znovu otevrený</string>
+    <string name="reopen_canceled">Otvorenie zrušené</string>
+    <string name="no_financial_institution_assigned">Nieje priradená žiadna finančná inštitúcia</string>
+    <string name="maximum_100">Maximum 100%</string>
+    <string name="must_be_less_than_interest_rate">Musí byť &lt; úroková sadzba</string>
+    <string name="must_be_in_future">Musí to byť budúcí dátum</string> <!-- As in "The date supplied must be a future date" -->
+    <string name="must_be_in_past">Musí to byť v minulosti</string> <!-- As in "The date supplied must be a past date" -->
+    <string name="invalid_year">Chybný rok</string>
+    <string name="invalid_vin_number">Musí byť 17 písmen a/alebo číslic</string>
+    <string name="invalid_url">Chybná URL</string>
+    <string name="opening_balance_warning_message">Na tomto účte sú odsúhlasené transakcie.\n\nZmenou začiatočného zostatku môže vzniknúť rozdiel medzi vašími záznamami a údajmi finančných inštitúcií</string>
+    <string name="no_exchange_rate_warning_message_format">Nieje k dispozícii kurz pre obdobie od ^1 do ^2. Zostatok knihy nemusí byť presný</string>
+    <string name="would_you_like_to_give_one_after_saving">Chcete zadať kurz po uložení</string>  <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="net_worth">Čistý zostatok</string>
+    <string name="net_worth_over_time">Výhľad zostatku</string>
+	<string name="set_total_to_show">Vyberte, ktorý súčet zobraziť</string>
+	<string name="total_to_show">Zobraziť súčet</string>
+    <string name="selected_total">Označený súčet</string>
+	<string name="entered_total">Celkový zostatok</string>
+	<string name="balance_as_of_today">Zostatok k dnešnému dňu</string>
+	<string name="cleared_total">Úplne skontrolované</string>
+	<string name="reconciled_total">Úplne odsúhlasené</string>
+    <string name="default_cash_account_name">Moja hotovosť</string>
+    <string name="default_checking_account_name">Môj bežný účet</string>
+    <string name="default_savings_account_name">Môj sporiaci účet</string>
+    <string name="default_credit_account_name">Moja kreditná karta</string>
+    <string name="color">Farba</string>
+    <string name="projected_balance">Výhľad</string>
+    <string name="projected_balance_at_the_end_of_the_month">Predpokladaný zostatok ku koncu mesiaca</string>
+    <string name="at_months_end">Na konci mesiaca</string>
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">Predpokladaný zostatok k ^1</string>
+	<string name="total_for_format">Celkom za ^1</string>
+	<string name="total_for_month">Celkom za mesiac</string>
+	<string name="period">Obdobie</string>
+	<string name="total_for_period">Celkom za obdobie</string>
+	<string name="total_for_unassigned">Nepriradené celkom</string>
+	<string name="make_account_budget_question_part1">Chcete tento účet použiť ako súčásť svojho rozpočtu</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="make_account_budget_question_part2_format">Aj keď zvolíte ^1, môžete nastavenie kedykoľvek neskôr zmeniť úpravou účtu</string>
+	<string name="show_option_format">Zobraziť voľbu ^1</string>
+	<string name="show_closed">Zobraziť uzatvorené</string>
+
+    <string name="no_accounts_yet">Zatiaľ žiadne účty</string>
+	<string-array name="account_count_format_plurals">
+        <item>^1 účet</item>
+        <item>^1 účty</item>
+        <item>^1 účtov</item>
+    </string-array>
+
+	<string-array name="pending_count_plurals">
+        <item>^1 nová transakcia</item>
+        <item>^1 nové transakcie</item>
+        <item>^1 nových transakcií</item>
+    </string-array>
+
+	<string-array name="account_group_labels">
+		<item>Bankové účty</item>
+		<item>Hotovosť</item>
+		<item>Kreditné účty</item>
+		<item>Investičné účty</item>
+		<item>Úvery</item> -->
+		<item>Záväzky</item>
+		<item>Pohľadávky</item>
+	</string-array>
+
+	<string-array name="total_for_account_group_labels">
+		<item>Bankové účty celkom</item>
+		<item>Hotovosť celkom</item>
+		<item>Kreditné účty celkom</item>
+		<item>Investičné účty celkom</item>
+		<!-- <item>Úvery a záväzky celkom</item> -->
+		<item>Pasíva celkom</item>
+		<item>Aktiva celkom</item>
+	</string-array>
+
+	<string-array name="opening_balance_new_labels">
+	    <item>Zostatok na účte</item>
+		<item>Obstarávacia cena</item>
+		<item>Dlh na tomto účte</item>
+		<item>Dlh na tejto karte</item>
+	</string-array>
+
+	<string name="opening">Začiatočný</string> <!-- As in "Opening balance" -->
+	<string-array name="opening_balance_edit_labels">
+	    <item>Začiatočný zostatok</item>
+		<item>Pôvodna obstarávacia čiastka</item> <!-- of an asset -->
+		<item>Pôvodná výška dlhu na tomto účte</item>
+		<item>Pôvodná výška dlhu na tejto karte</item>
+	</string-array>
+
+	<string-array name="current_balance_edit_labels">
+	    <item>Aktuálny zostatok</item>
+		<item>Aktuálna hodnota</item> <!-- of an asset -->
+		<item>Aktuálna výška dlhu na tomto účte</item>
+		<item>Aktuálna výška dlhu na tejto karte</item>
+	</string-array>
+
+	<string-array name="account_type_names">
+	    <item>Bankový</item>
+		<item>Hotovosť / Jiný</item>
+		<item>Kreditná alebo Charge karta</item>
+		<item>Úverová linka</item>
+		<item>Pôžička</item>
+<!-- 		<item>Other liability</item> Loan Loans -->
+		<item>Iné pasivum</item>
+		<item>Majetok</item>
+		<item>Dopravný prostriedok</item>
+		<item>Iné aktivum</item>
+		<item>Investičný účet</item>
+	</string-array>
+
+	<string-array name="default_account_names">
+	    <item>Banka</item>
+		<item>Hotovosť</item>
+		<item>Kreditná karta</item>
+		<item>Úverová linka</item>
+		<item>Pôžička</item>
+		<item>@string/liability</item>
+		<item>Majetok</item>
+		<item>Dopravný prostriedok</item>
+		<item>@string/asset</item>
+		<item>Investície</item>
+	</string-array>
+
+    <string name="show_account_numbers">Zobraziť čísla účtov</string>
+    <string name="show_account_numbers_description">Ak je zapnuté, budú pod názvami účtov zobrazené ich čísla</string>
+
+    <string name="use_abbreviations">Použiť skratky</string>
+    <string name="use_abbreviations_description">Ak je zapnuté, budú namiesto názvov účtov zobrazené skratky</string>
+
+    <string name="show_group_totals">Zobraziť súčty skupin</string>
+    <string name="show_group_totals_description">Ak je zapnuté, bude pre každú skupinu zobrazený jej súčet</string>
+
+	<string-array name="account_list_status_filter_title_bar">
+		<item>@string/all_accounts</item>
+		<item>@string/open_accounts</item>
+		<item>@string/favorite_accounts</item>
+	</string-array>
+
+	<string-array name="account_list_sort_order_title_bar">
+		<item>@string/type</item>
+		<item/> <!-- Intentionally left empty -->
+		<item>@string/name</item>
+		<item>@string/financial_institution</item>
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+
+    <string name="all_transactions">Všetky transakcie</string>
+	<string-array name="transaction_list_filter_title_bar">
+    	<item>@string/all_transactions</item>
+		<item>Neodsúhlasené</item>
+		<item>@string/reconciled2</item>
+		<item>@string/cleared2</item>
+		<item>@string/pending2</item>
+		<item>@string/follow_up2</item>
+    	<item>@string/not_exported_transaction2</item>
+	</string-array>
+    
+    <string name="display_order">Poradie zobrazenia</string>
+    <string name="entry_date">Dátum vloženia</string>
+    <string-array name="transaction_list_sort_order_title_bar">
+    	<item>@string/date</item>
+		<item>@string/number</item>
+		<item>@string/payee</item>
+		<item>@string/amount</item>
+		<item>@string/category</item>
+		<item>@string/entry_date</item>
+		<item/> <!-- Not unused -->
+		<item/> <!-- Not unused -->
+		<item>@string/account</item>
+	</string-array>
+    
+    <string name="date_range">Zadaný datum</string>
+	<string name="current_month">Tento mesiac</string>
+	<string name="previous_month">Minulý mesiac</string>
+	<string name="next_month">Nasledujúcí mesiac</string>
+	<string name="current_quarter">Tento štvrťrok</string>
+	<string name="previous_quarter">Minulý štvrťrok</string>
+	<string name="next_quarter">Nasledujúcí štvrťrok</string>
+	<string name="current_half_year">Tento polrok</string>
+	<string name="previous_half_year">Minulý polrok</string>
+	<string name="next_half_year">Nasledujúci polrok</string>
+	<string name="current_year">Tento rok</string>
+	<string name="previous_year">Minulý rok</string>
+	<string name="next_year">Nasledujúcí rok</string>
+	<string name="current_week">Tento týždeň</string>
+	<string name="previous_week">Minulý týždeň</string>
+	<string name="next_week">Nasledujúci týždeň</string>
+	<string name="current_two_weeks">Týchto štrnásť dní</string>
+	<string name="previous_two_weeks">Minulé dva týždne</string>
+	<string name="next_two_weeks">Nasledujúce dva týždne</string>
+	<string name="all_dates">Všetky dátumy</string>
+	<string-array name="date_range_items">
+		<item>@string/all_dates</item>
+		<item>Všetky až dosiaľ</item>
+		<item>@string/current_month</item>
+		<item>@string/current_year</item>
+		<item>Od začiatku mesiaca</item>
+		<item>Od začiatku roku</item>
+		<item>@string/previous_month</item>
+		<item>@string/previous_year</item>
+		<item>Posledných 30 dní</item>
+		<item>Posledné 3 mesiace</item>
+		<item>Posledných 6 mesiacov</item>
+		<item>Posledných 12 mesiacov</item>
+		<item>Nasledujúcich 30 dní</item>
+		<item>Nasledujúce 3 mesiace</item>
+		<item>Nasledujúcích 6 mesiacov</item>
+		<item>Nasledujúcích 12 mesiacov</item>
+		<item>@string/custom_dates</item>
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>všetky dátumy</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>posledných 30 dní</item>
+		<item>posledné 3 mesiace</item>
+		<item>posledných 6 mesiacov</item>
+		<item>posledných 12 mesiacov</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar_months">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	
+    <string name="display_grouping">Zoskupovanie</string>
+</resources>

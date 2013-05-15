@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="FilePicker_open_folder">Otvoriť zložku</string>
+	<string name="FilePicker_select_file">Označiť súbor</string>
+	<string name="FilePicker_deselect_file">Odznačiť súbor</string>
+	<string name="FilePicker_delete_file">Zmazať súbor</string>
+	<string name="FilePicker_go_to_parent_folder">Nadradená zložka</string>
+</resources>

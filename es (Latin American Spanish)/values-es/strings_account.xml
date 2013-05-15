@@ -125,7 +125,7 @@
 	<string name="balance_as_of_today">Saldo de hoy</string>
 	<string name="cleared_total">Total compensado</string>
 	<string name="reconciled_total">Total reconciliados</string>
-    <string name="default_cash_account_name">Mi caja diario</string>
+    <string name="default_cash_account_name">Mi caja diaria</string>
     <string name="default_checking_account_name">Mi cuenta actual</string>
     <string name="default_savings_account_name">Mi cuenta de ahorros</string>
     <string name="default_credit_account_name">Mi tarjeta de crédito</string>
