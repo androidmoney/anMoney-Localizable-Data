@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="two_part_format">^1 ^2</string>
+    <string name="sentence_end_period_format">^1.</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="parantheses_format">(^1)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 č. ^2</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+    <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
+    <string name="filter_by_order_format">^1 podľa ^2</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1 ^2 podľa ^3</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 pre ^2 ^3 podľa ^4 za ^5</string> <!-- Example: "All transactions for AMEX by decreasing date for all dates" -->
+    <string name="yes">Áno</string>
+    <string name="no">Nie</string>
+    <string name="done">Uložiť</string>
+    <string name="_continue">Pokračovať</string>
+	<string name="continue_question">Pokračovať</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="home">Úvod</string>
+	<string name="home_screen">Domáca obrazovka</string>
+    <string name="previous">Predchádzajúci</string>
+    <string name="next">Ďalší</string>
+    <string name="_import">Import</string>
+    <string name="imported">Import dokončený</string>
+    <string name="import_canceled">Import zrušený</string>
+    <string name="export">Export</string>
+    <string name="export_canceled">Export zrušený</string>
+	<string name="import_export">Import/Export</string>
+    <string name="settings">Nastavenia</string>
+    <string name="display_options">Možnosti zobrazenia</string>
+    <string name="add_favorite">Pridať k obľúbeným</string>
+    <string name="added_to_favorites">Pridané k obľúbeným</string>
+    <string name="remove">Odstrániť</string>
+    <string name="remove_favorite">Odstrániť z obľúbených</string>
+    <string name="removed_from_favorites">Odstránené z obľúbených</string>
+    <string name="save">Uložiť</string>
+    <string name="saved">Uložené</string>
+    <string name="save_canceled">Uloženie zrušené</string>
+    <string name="canceled">Zrušené</string>
+    <string name="delete">Zmazať</string>
+    <string name="deleted">Zmazané</string>
+    <string name="delete_canceled">Mazanie zrušené</string>
+    <string name="create">Vytvoriť</string>
+    <string name="created">Vytvorené</string>
+    <string name="create_canceled">Vytváranie zrušené</string>
+	<string name="create_what">Čo vytvoriť</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">Upraviť</string>
+    <string name="edit_canceled">Editácia zrušená</string>
+	<string name="edit_which">Čo upraviť</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="copy">Kopírovať</string>
+    <string name="copied">Skopírované</string>
+    <string name="move">Presunúť</string>
+    <string name="moved">Presunuté</string>
+    <string name="duplicate">Duplikovať</string>
+    <string name="duplicated">Duplikované</string>
+    <string name="rename">Premenovať</string>
+    <string name="renamed">Premenované</string>
+    <string name="rename_canceled">Premenovanie zrušené</string>
+    <string name="link">Naviazať</string>
+    <string name="linked">Naviazané</string>
+    <string name="combine">Spojiť</string>
+    <string name="combined">Spojené</string>
+    <string name="copy_to_clipboard">Skopírovať do schránky</string>
+    <string name="set">Nastaviť</string>
+	<string name="share">Zdieľať</string>
+	<string name="share_canceled">Zdieľanie zrušené</string>
+    <string name="create_in_app_name_format">Vytvoriť v ^1</string>
+    <string name="pick_from_app_name_format">Prevziať z ^1</string>
+    <string name="do_not_ask_again">Znova sa nepýtať</string>
+    <string name="apply_to_all">Použiť pre všetky</string>
+	<string name="all_items">Všetky záznamy</string>
+    <string name="notes">Poznámky</string>
+    <string name="no_notes">Zatiaľ bez poznámok</string>
+    <string name="required">Povinné</string>
+    <string name="name">Názov</string>
+    <string name="invalid_name">Neplatný názov</string>
+    <string name="name_exists">Názov existuje</string>
+    <string name="amount">Čiastka</string>
+    <string name="start_date">Datum začiatku</string>
+    <string name="end_date">Datum ukončenia</string>
+    <string name="must_be_less_than_format">Musí byť &lt; ^1</string>
+    <string name="must_be_greater_than_format">Musí byť > ^1</string>
+    <string name="reset">Obnoviť</string>
+    <string name="total">Celkom</string>
+    <string name="grand_total">Celkový súčet</string>
+    <string name="average">Priemer</string>
+    <string name="export_file_name">Názov výstupného súboru</string>
+    <string name="specify_export_file_name">Zadajte meno výstupného súboru</string>
+    <string name="file_exists">Súbor s týmto názvom už existuje</string>
+    <string name="folder_exists">Zložka s týmto názvom už existuje</string>
+    <string name="choose_another_name">Zvoľte iný názov</string>
+    <string name="will_be_overwritten">Bude prepísaný</string>
+    <string name="calendar">Kalendár</string>
+    <string name="remind_me">Pripomenúť</string>
+    <string name="add_as_a_contact">Uložiť ako kontakt</string>
+    <string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
+    <string name="to">Na</string> <!-- To <account> -->
+    <string name="from">Z</string> <!-- From <account> -->
+	<string name="send_email">Odoslať e-mail</string>
+	<string name="please_read">Prečítajte si prosím</string>
+	<string name="rate_app_format">Ohodnoťte ^1</string>
+	<string name="please_rate_app_format">Prosím ohodnoťte ^1</string>
+	<string name="later_rate_description">Pripomenutie bude znova zobrazené približne za týždeň</string>
+	<string name="no_rate_description_format">Toto môžete neskôr zmeniť na obrazovke ^1</string>
+	<string name="task_killer_warning_format">Varovanie pred aplikáciami typu „task killer“:\n\nVaše zariadenie sa raz za deň „prebudí“, aby mohlo urobiť automatické úlohy. Tieto operácie netrvajú viac ako niekoľko sekúnd a nemajú teda negatívny vplyv na životnosť batérie vášho zariadenia.\n\nAplikácie typu „task killer“ môžu zabrániť prevádzaniu týchto úloh a nemali by byť používane spoločne s ^1</string>
+	<string name="no_thanks">Nie, ďakujem</string>
+	<string name="maybe_later">Možno neskôr</string>
+	<string name="unexpected_error_warning">Neočakávana chyba spôsobila pád aplikácie anMoney.\n\nProsíme Vás, pomôžte nám problém vyriešiť odoslaním e-mailu. Pred odoslaním vám bude správa ponúknuta na editáciu.\n\nĎakujeme za spoluprácu.</string>
+    <string name="unexpected_error_notification_ticker">Neočakávana chyba. Pošlite nám prosím správu.</string>
+    <string name="unexpected_error_notification_title">Aplikácia anMoney bola ukončená</string>
+    <string name="unexpected_error_notification_text">Dotykom sem, odešlete report.</string>
+    <string name="unexpected_error_comment">Pokiaľ chcete, popíšte prosím čo ste robili, keď nastala chyba</string>
+	<string name="archiving">Zálohovanie</string>
+	<string name="archiving_settings">Možnosti zálohovania</string>
+    <string name="more">Ďalší</string>
+    <string name="specify_export_options">Upresnite parametre exportu</string><!-- i.e. CSV export. -->
+	<string name="select_all">Vybrať všetko</string>
+	<string name="unselect_all">Zrušiť výber</string>
+	<string name="expand_all">Rozbaliť všetko</string>
+	<string name="all_expanded">Všetko rozbalené</string>
+	<string name="collapse_all">Zbaliť všetko</string>
+	<string name="all_collapsed">Všetko zbalené</string>
+    <string name="postal_address">Poštová adresa</string>
+    <string name="postal_address_hint">Ulica\nMesto alebo obec\nPSČ</string>
+    <string name="cannot_perform_sd_card_operation">Operácia sa nedá dokončiť, pretože v zariadení nieje SD karta, alebo máte zaríadenie pripojené k počítaču a SD karta nieje pristupná</string>
+	<string name="cannot_perform_file_system_operation_format">Operáciu nieje možné teraz dokončiť, pretože adresár (^1) nieje dostupný</string>
+    <string name="please_correct_and_try_again">Opravte zadanie a zopakujte požiadavku</string>
+    <string name="no_network_message_format">^1 vyžaduje pravidelný prístup k sieti z dôvodu možnosti overiť licenciu.\n\nPovoľte prosím sieť, po sprístupnení siete zopakujte operácu. Následne môžete prístup k sieti opäť zakázať.\n\nPo kliknutí ^2 bude zobrazený dialóg <b>Bezdrôtové pripojenia a siete</b></string>
+    <string name="calculator">Kalkulačka</string>
+    <string name="only_in_full_version">Len vo verzii PRO</string>
+    <string name="will_not_effect_transactions">Žiadne existujúce transakcie <b>nebudou</b> změněny.</string>
+    
+	<string name="free_limitations">Kúpou verzie PRO na <b>Google Play</b> alebo na <b>Amazon Appstore</b> odstráníte tieto obmedzenia:\n\n
+	<li>Bez možnosti zabezpečenia pomocou hesla</li>\n
+	<li>Nedostupné automatické zálohovanie</li>\n
+	<li>Nedostupné užívateľské reporty</li>\n
+	<li>Dostupný len import QIF</li>\n
+	<li>Nedostupná integrácia s Kontaktami</li>\n
+	<li>Najviac 2 banky, 1 kreditný a 1 hotovostný účet</li>\n
+	<li>Najviac 5 rozpočtov</li>\n
+	<li>Najviac 3 trvalé platobné alebo inkasné príkazy</li> 
+	</string>
+
+	<string name="no_items">Žiadne záznamy</string>
+    <string name="no_items_yet">Zatiľ žiadne záznamy</string>
+	<string-array name="items_format_plurals">
+        <item>^1 záznam</item>
+        <item>^1 záznamy</item>
+        <item>^1 záznamov</item>
+    </string-array>
+    
+	<string-array name="selected_format_plurals">
+        <item>^1 označený</item>
+        <item>^1 označené</item>
+        <item>^1 označených</item>
+    </string-array>
+    
+    <string-array name="reminder_leads">
+        <item>Bez pripomenutia</item>
+        <item>V daný deň</item>
+        <item>Deň dopredu</item>
+        <item>Dva dni dopredu</item>
+        <item>Týždeň dopredu</item>
+        <item>Dva týždne dopredu</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1.</item>
+		<item>2.</item>
+		<item>3.</item>
+		<item>4.</item>
+		<item>5.</item>
+		<item>6.</item>
+		<item>7.</item>
+		<item>8.</item>
+		<item>9.</item>
+		<item>10.</item>
+		<item>11.</item>
+		<item>12.</item>
+		<item>13.</item>
+		<item>14.</item>
+		<item>15.</item>
+		<item>16.</item>
+		<item>17.</item>
+		<item>18.</item>
+		<item>19.</item>
+		<item>20.</item>
+		<item>21.</item>
+		<item>22.</item>
+		<item>23.</item>
+		<item>24.</item>
+		<item>25.</item>
+		<item>26.</item>
+		<item>27.</item>
+		<item>28.</item>
+		<item>29.</item>
+		<item>30.</item>
+		<item>31.</item>
+	</string-array>
+
+    <string name="display_direction">Smer zobrazenia</string>
+	<string-array name="sort_direction_items">
+		<item>Vzostupne</item>
+		<item>Zostupne</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>vzostupne</item>
+		<item>zostupne</item>
+	</string-array>
+</resources>
