@@ -113,8 +113,8 @@
     <string name="no_unreconciled_transactions">No unreconciled transactions</string>
     <string name="cleared_all_transactions">Cleared all transactions</string>
     <string name="next_check_number">Next cheque number</string>
-    <string name="cleared_transactions_color">Cleared transactions colour</string>
-    <string name="reconciled_transactions_color">Reconciled transactions colour</string>
+    <string name="cleared_transactions_color">Cleared transactions colour</string> <!-- As in "color of cleared transactions" -->
+    <string name="reconciled_transactions_color">Reconciled transactions colour</string> <!-- As in "color of teconciled transactions" -->
 	<string name="create_transaction_instructions_format">To create a transaction, tap ^i at the top of the screen</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">Text filter</string>
     <string name="profit_and_loss_statement">Profit &amp; Loss statement</string>

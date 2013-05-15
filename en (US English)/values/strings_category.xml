@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="category_main_sub_separator">:</string>
+    <string name="category_main_sub_format">^1 ^2 ^3</string>
     <string name="category">Category</string>
     <string name="categories">Categories</string>
     <string name="subcategory">Subcategory</string>

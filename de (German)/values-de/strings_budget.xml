@@ -12,7 +12,7 @@
 	<string name="actual_amount">Aktuell</string>
     <string name="remainder_amount">Rest</string>
 	<string name="budget_vs_actual">Budget ./. Aktuell</string>
-	<string name="budget_over_time">Budget über die gesamte Buchungsdauer</string>
+	<string name="budget_over_time">Budget – Periodenaufstellung</string>
 	<string name="recurring_bill_or_deposit_from">Wiederkehrende Rechnung oder Einlage aus</string>
 	<string name="an_additional_amount_for_this_category">Ein zusätzlicher Betrag für diese Kategorie</string>
 	<string name="an_additional_amount_for_this_class">Ein zusätzlicher Betrag für diese Klasse</string>
