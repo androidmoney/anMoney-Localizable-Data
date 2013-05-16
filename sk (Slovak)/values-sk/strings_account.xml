@@ -201,7 +201,7 @@
 
 	<string-array name="account_type_names">
 	    <item>Bankový</item>
-		<item>Hotovosť / Jiný</item>
+		<item>Hotovosť / Iiný</item>
 		<item>Kreditná alebo Charge karta</item>
 		<item>Úverová linka</item>
 		<item>Pôžička</item>

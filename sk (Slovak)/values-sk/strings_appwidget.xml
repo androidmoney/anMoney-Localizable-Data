@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="appwidget_warning_format">Aplikácia ^1 je zrejme nainštalovaná na pamäťovej karte.\n\nPri tomto nastavení sa môže stať, že widgety aplikácie zmiznú. Preto vám, v prípade, že chcete widgety používať, odporúčame aplikáciu presunúť do vnútornej pamäti zariadenia</string>
+	<string name="no_books_warning">Pred umiestnením widgetu, vytvorte prosím aspoň jednu knihu</string>
+	<string name="no_books_and_accounts_warning">Pred umiestnením widgetu, vytvorte prosím aspoň jednu knihu a účet</string>
+	<string name="no_accounts_warning">Pred umiestnením widgetu, vytvorte prosím aspoň jeden účet</string>
+	<string name="book_no_longer_exists_format">Kniha ^1 už neexistuje</string>
+	<string name="account_no_longer_exists">Účet už neexistuje</string>
+    <string name="report_no_longer_exists">Report už neexistuje</string>
+    <string name="budget_no_longer_exists_format">Rozpočet ^1 už neexistuje</string>
+    		
+	<string name="quick_entry">Rýchle zadanie</string>
+    <string name="app_name_quick_entry">anMoney — Rýchle zadanie</string>
+	<string name="app_name_quick_entry_large">anMoney — Rýchle zadanie (veľký)</string>
+	<string name="app_name_quick_entry_small">anMoney — Rýchle zadanie (malý)</string>
+	<string name="show_total">Zobraziť zostatok na účte</string>
+    <string name="opacity">Nepriehľadnosť</string>
+	
+	<string name="app_name_upcoming">anMoney — Blíži Sa</string>
+	
+	<string name="app_name_budget">anMoney — Rozpočet</string>
+	
+	<string name="app_name_report">anMoney — Report</string>
+
+	<string name="dash_clock_extension_description">Zobrazí zmeškané platby.</string>
+</resources>
