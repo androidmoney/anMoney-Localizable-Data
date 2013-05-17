@@ -10,17 +10,17 @@
     <string name="budget_no_longer_exists_format">Rozpočet ^1 již neexistuje</string>
     		
 	<string name="quick_entry">Rychlé zadání</string>
-    <string name="app_name_quick_entry">anMoney — Rychlé zadání</string>
-	<string name="app_name_quick_entry_large">anMoney — Rychlé zadání (velký)</string>
-	<string name="app_name_quick_entry_small">anMoney — Rychlé zadání (malý)</string>
+    <string name="app_name_quick_entry">anMoney — Rychlé zadání</string>
+	<string name="app_name_quick_entry_large">anMoney — Rychlé zadání (velký)</string>
+	<string name="app_name_quick_entry_small">anMoney — Rychlé zadání (malý)</string>
 	<string name="show_total">Zobrazit zůstatek na účtu</string>
     <string name="opacity">Opacita</string>
 	
-	<string name="app_name_upcoming">anMoney — Blíží Se</string>
+	<string name="app_name_upcoming">anMoney — Blíží Se</string>
 	
-	<string name="app_name_budget">anMoney — Rozpočet</string>
+	<string name="app_name_budget">anMoney — Rozpočet</string>
 	
-	<string name="app_name_report">anMoney — Report</string>
+	<string name="app_name_report">anMoney — Report</string>
 
 	<string name="dash_clock_extension_description">Zobrazí opožděné platby.</string>
 </resources>

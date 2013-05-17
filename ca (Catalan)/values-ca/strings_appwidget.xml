@@ -11,17 +11,17 @@
     <string name="budget_no_longer_exists_format">El pressupost ^1 ja no existeix</string>
     
     <string name="quick_entry">Entrada ràpida</string>
-    <string name="app_name_quick_entry">anMoney — Entrada ràpida</string>
-    <string name="app_name_quick_entry_large">anMoney — Entrada ràpida (gran)</string>
-    <string name="app_name_quick_entry_small">anMoney — Entrada ràpida (petit)</string>
+    <string name="app_name_quick_entry">anMoney — Entrada ràpida</string>
+    <string name="app_name_quick_entry_large">anMoney — Entrada ràpida (gran)</string>
+    <string name="app_name_quick_entry_small">anMoney — Entrada ràpida (petit)</string>
     <string name="show_total">Mostrar el total del compte</string>
     <string name="opacity">Opacitat</string>
 
-    <string name="app_name_upcoming">anMoney — Properes</string>
+    <string name="app_name_upcoming">anMoney — Properes</string>
 
-    <string name="app_name_budget">anMoney — Pressupost</string>
+    <string name="app_name_budget">anMoney — Pressupost</string>
 
-    <string name="app_name_report">anMoney — Informe</string>
+    <string name="app_name_report">anMoney — Informe</string>
 
 	<string name="dash_clock_extension_description">Mostra factures i dipòsits vençuts, si n’hi ha.</string>
 </resources>
