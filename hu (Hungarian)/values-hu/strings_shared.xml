@@ -153,12 +153,16 @@
     <string name="no_items_yet">Nincsenek még elemek</string>
     <string-array name="items_format_plurals">
         <item>^1 elem</item>
-    </string-array>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
     
 
     <string-array name="selected_format_plurals">
         <item>^1 kiválasztva</item>
-    </string-array>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
     
 	
 	<string-array name="reminder_leads">

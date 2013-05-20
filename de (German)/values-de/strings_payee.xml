@@ -42,6 +42,7 @@
 	<string-array name="payee_count_format_plurals">
 		<item>1 Empfänger</item>
 		<item>^1 Empfänger</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string name="all_payees">Alle Empfänger</string>

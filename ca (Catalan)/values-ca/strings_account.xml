@@ -148,12 +148,14 @@
 	<string-array name="account_count_format_plurals">
         <item>1 compte</item>
         <item>^1 comptes</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string-array name="pending_count_plurals">
         <item>^1 nova transacció</item>
         <item>^1 noves transaccions</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string-array name="account_group_labels">
 		<item>Comptes bancaris</item>

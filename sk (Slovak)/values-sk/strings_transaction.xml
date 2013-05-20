@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="mark_transactions_format_plurals">
+        <item>Označit ^1 transakci</item>
+        <item>Označit ^1 transakce</item>
+        <item>Označit ^1 transakcí</item>
+    </string-array>
+	<string-array name="delete_transaction_warning_format_plurals">
+        <item>^1 vybraná transakce bude smazána</item>
+        <item>^1 vybrané transakce budou smazány</item>
+        <item>^1 vybraných transakcí bude smazáno</item>
+    </string-array>
+    <string-array name="delete_transaction_warning_reconciled_format_plurals">
+        <item>^1 vybraná transakce bude smazána, nejméně jedna z nich je odsouhlasená</item>
+        <item>^1 vybrané transakce budou smazány, nejméně jedna z nich je odsouhlasená</item>
+        <item>^1 vybraných transakcí bude smazáno, nejméně jedna z nich je odsouhlasená</item>
+    </string-array>
+    <string-array name="accept_transaction_confirm_format_plurals">
+        <item>^1 vybraná transakce bude přijata</item>
+        <item>^1 vybrané transakce budou přijaty</item>
+        <item>^1 vybraných transakcí bude přijato</item>
+    </string-array>
+</resources>

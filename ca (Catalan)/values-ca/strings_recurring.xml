@@ -31,6 +31,7 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>Saltades ^1 ocurrències</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Saltar cancel·lat</string>
 	<string name="skip_which">Saltar quina</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -69,10 +70,12 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>les últimes ^1</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>ocurrència</item>
 		<item>ocurrències</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="upcoming_date">Propera data</string>
 	<string name="series_start_date">Data d’inici de la sèrie</string>
@@ -82,22 +85,25 @@
 	<string name="every_1">Cada</string>
 	<string name="every_2"/> <!-- Intentionally left empty -->
 	<string name="every_3"/> <!-- Intentionally left empty -->
-	<string-array name="every_day_plurals">
-		<item>@string/every_1</item>
-		<item>@string/every_1</item>
-	</string-array>
-	<string-array name="every_week_plurals">
-		<item>@string/every_1</item>
-		<item>@string/every_1</item>
-	</string-array>
-	<string-array name="every_month_plurals">
-		<item>@string/every_1</item>
-		<item>@string/every_1</item>
-	</string-array>
-	<string-array name="every_year_plurals">
-		<item>@string/every_1</item>
-		<item>@string/every_1</item>
-	</string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<string name="never">Mai</string>
 	<string name="day_upper">Dia</string>
 	<string name="day_lower">dia</string>
@@ -125,18 +131,22 @@
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
 		<item>dies</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>setmana</item>
 		<item>setmanes</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
 		<item>mesos</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_lower</item>
 		<item>anys</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">Si la data cau en cap de setmana</string>
@@ -146,10 +156,12 @@
 	<string-array name="overdue_plurals">
 		<item>1 endarrerit</item>
 		<item>^1 endarrerits</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 factura o dipòsit endarrerit</item>
 		<item>^1 factures o dipòsits endarrerits</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -160,7 +172,8 @@
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
 <!-- New --> <item>^1 selected recurring items will be entered</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	
 	<string-array name="skip_which_items">
 		<item>Propera ocurrència</item>
@@ -280,11 +293,13 @@
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 dies abans</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 dies abans del venciment</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string name="specify_custom_number_of_days">Especificar nombre de dies</string>

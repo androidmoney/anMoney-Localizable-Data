@@ -92,11 +92,13 @@
 	<string-array name="category_count_format_plurals">
         <item>1 categoría</item>
         <item>^1 categorías</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="uncategorized_count_plurals">
         <item>^1 transacción sin categoría</item>
         <item>^1 transacciones sin categoría</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string-array name="default_classifications">
 		<item>Miembros de la familia</item>

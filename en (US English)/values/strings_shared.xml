@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    	   tools:locale="en">
+    	   
     <string name="two_part_format">^1 ^2</string>
     <string name="sentence_end_period_format">^1.</string>
     <string name="sentence_end_question_mark_format">^1?</string>
@@ -154,12 +156,14 @@
 	<string-array name="items_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 items</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     
 	<string-array name="selected_format_plurals">
         <item>1 selected</item>
         <item>^1 selected</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     
     <string-array name="reminder_leads">
         <item>Do not remind me</item>

@@ -31,6 +31,7 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>^1 ocorrências ignoradas</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Ignorar cancelado</string>
 	<string name="skip_which">Ignorar o quê</string>
@@ -69,10 +70,12 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>^1 ocorrências anteriores</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="upcoming_date">Próxima data</string>
 	<string name="series_start_date">Data inicial</string>
@@ -122,18 +125,22 @@
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
 		<item>dias</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>semana</item>
 		<item>semanas</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
 		<item>meses</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_lower</item>
 		<item>anos</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">Se a data cair no final de semana</string>
@@ -143,10 +150,12 @@
 	<string-array name="overdue_plurals">
 		<item>1 vencida</item>
 		<item>^1 vencidas</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 conta ou depósito vencido</item>
 		<item>^1 contas ou depósitos vencidos</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -157,7 +166,8 @@
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 itens recorrentes selecionados serão registrados</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	
 	<string-array name="skip_which_items">
 		<item>Próxima ocorrência</item>
@@ -277,11 +287,13 @@
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 dias antes</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 dias antes do vencimento</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string name="specify_custom_number_of_days">Especifique um número personalizado de dias</string>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="view_payee">Zobraziť príjemcu</string>
+    <string name="edit_payee">Upraviť príjemcu</string>
+    <string name="new_payee">Nový príjemca</string>
+    <string name="call_payee">Volat príjemcu</string>
+    <string name="delete_payee">Zmazať príjemcu</string>
+    <string name="delete_payee_warning_format">Príjemca ^1 bude navždy zmazaný</string>
+    <string name="delete_from_app_format">Takisto odstrániť z ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
+    <string name="add_payee_as_a_contact">Uložiť príjemcu ako Kontakt</string>
+    <string name="payee">Príjemca</string>
+    <string name="payer">Platiteľ</string>
+    <string name="payees">Príjemcovia</string>
+    <string name="payee_required">Príjemca je povinný</string>
+    <string name="payer_required">Platiteľ je povinný</string>
+    <string name="call">Volať</string>
+    <string name="view_address">Zobraziť poštovú adresu</string>
+    <string name="map_address">Zobraziť na mape</string> <!-- Show the address on the map -->
+    <string name="no_payees">Nemáte žiadnych príjemcov</string>
+    <string name="create_payee_instructions_format">Pre zadanie príjemcu, zvoľte ^i v hornej časti obrazovky</string> <!-- ^1 will be replaced by an image -->
+    <string name="payee_transaction_list_empty">Pre tohto príjemcu nemáte žiadne transakcie</string>
+    <string name="payee_exists">Príjemca s týmto názvom neexistuje</string>
+    <string name="combine_payees">Chcete previazať týchto dvoch príjemcov</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="payee_name">Názov príjemcu</string>
+    <string name="link_payee">Chcete previazať tohto príjemcu s existujúcim kontaktom</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="account_number">Číslo účtu</string>
+    <string name="phone">Telefón</string>
+    <string name="phone_number">Telefónne číslo</string>
+    <string name="email">Email</string>
+    <string name="email_address">Emailová adresa</string>
+    <string name="url">URL</string>
+    <string name="web_address">Webová adresa</string>
+    <string name="select_account">Zvoľte účet</string>
+    <string name="open_web_page">Otvoriť webovú stránku</string>
+    <string name="view_payees">Zobraziť príjemcu</string>
+    <string name="default_payee_name">Predvolený príjemca</string>
+	<string name="spending_by_payee">Výdavky podľa príjemcu</string>
+    <string name="all_payees_hidden_by_filter">Nastavenému filtru nevyhovuje žiadny príjemca</string>
+        
+    <string name="without_payee">Bez príjemcu</string>
+    <string name="no_payees_yet">Doteraz žiadni príjemcovia</string>
+	<string-array name="payee_count_format_plurals">
+        <item>^1 prijímateľ</item>
+        <item>^1 prijímatelia</item>
+        <item>^1 príjemcov</item>
+    </string-array>
+
+    <string name="all_payees">Všetci príjemcovia</string>
+	<string name="payees_in_open_accounts">Príjemcovia v otvorených účtoch</string>
+	<string name="payees_in_closed_accounts_only">Len príjemcovia v zatvorených účtoch</string>
+	<string name="unused_payees">Nepoužití príjemcovia</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

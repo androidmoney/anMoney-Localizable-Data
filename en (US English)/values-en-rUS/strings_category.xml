@@ -8,7 +8,8 @@
 	<string-array name="uncategorized_count_plurals">
         <item>^1 uncategorized transaction</item>
         <item>^1 uncategorized transactions</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     <string name="recategorize_category">Recategorize all transactions with this category as</string>
     <string name="recategorize_class">Recategorize all transactions with this class as</string>
 </resources>

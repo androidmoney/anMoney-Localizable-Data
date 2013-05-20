@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    	   tools:locale="en">
+    	   
     <string name="splits">Splits</string> <!-- This is a noun -->
     <string name="split_canceled">Split cancelled</string> <!-- "Split" is a verb -->
     <string name="new_split">New split</string> <!-- "Split" here and below are nouns -->

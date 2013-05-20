@@ -91,11 +91,14 @@
     <string name="no_classes_yet">Nincsenek még osztályok</string>
 	<string-array name="category_count_format_plurals">
         <item>^1 kategória</item>
-    </string-array>
-
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="uncategorized_count_plurals">
         <item>^1 kategória nélküli tranzakció</item>
-    </string-array>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
     
 	
 	

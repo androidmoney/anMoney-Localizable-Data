@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    	   tools:locale="en">
+    	   
     <string name="transactions">Transactions</string>
     <string name="view_transactions">View transactions</string>
     <string name="new_transaction">New transaction</string>
@@ -19,7 +21,8 @@
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>Mark ^1 transactions</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     <string name="mark_transactions_all">Mark <b>all</b> transactions</string>
     <string name="unreconciled1">Unreconciled</string>
     <string name="unreconciled2">@string/unreconciled1</string>
@@ -165,16 +168,19 @@
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 selected transactions will be deleted</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     <string name="delete_transaction_warning_all"><b>All</b> transactions will be deleted</string>
 	<string name="delete_transaction_warning_reconciled">A reconciled transaction will be deleted</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 selected transactions will be deleted, at least one of which is reconciled</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string name="accept_transaction_confirm_singular">Transaction will be accepted</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 selected transactions will be accepted</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 </resources>

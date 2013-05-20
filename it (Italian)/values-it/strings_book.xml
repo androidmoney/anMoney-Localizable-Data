@@ -35,7 +35,8 @@
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 files selezionati saranno eliminate</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     <string name="select_book">Seleziona libretto</string>
     <string name="select_book_to_import_into">Seleziona libretto da importare nell’ estratto conto</string>
     <string name="select_import_file">Seleziona file(s) da importare</string>
@@ -148,9 +149,10 @@
 
     <string name="import_file_confirm_format">Vuoi importare ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Unused -->
+        <item/> <!-- Not used -->
         <item>Vuoi importare il ^1 files</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
     <string name="general">Generale</string>
     <string name="starting_screen">Schermata di inizio</string>
@@ -170,11 +172,13 @@
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 secondo</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="n_minutes_format_plurals">
         <item>1 minuto</item>
         <item>^1 minuti</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     
     <string name="set_button_behavior_format">^1 pulsante di comportamento</string>
 	<string-array name="set_button_behavior_items">
@@ -241,12 +245,14 @@
     <string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
         <item>Backup ^1 libretto</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string-array name="book_exported_format_plurals">
         <item>Esportata una transazione</item>
         <item>Esportate ^1 transazioni</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string name="failed_to_back_up_book">Archivio del libretto fallito</string>
 	<string name="no_space_left_on_sd_card">Manca spazio sulla scheda SD</string>
@@ -291,5 +297,6 @@
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 voce sarà eliminata</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 </resources>

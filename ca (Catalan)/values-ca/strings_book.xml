@@ -35,7 +35,8 @@
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 arxius seleccionades seran esborrades</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     <string name="select_book">Seleccionar llibre</string>
     <string name="select_book_to_import_into">Seleccionar llibre al qual s’importarà l’extracte</string>
     <string name="select_import_file">Seleccionar arxiu(s) per importar</string>
@@ -148,8 +149,9 @@
 
     <string name="import_file_confirm_format">Vol importar ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Unused -->
+        <item/> <!-- Not used -->
         <item>Vol importar els ^1 arxius</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item/> <!-- Not used -->
     </string-array>
 
     <string name="general">General</string>
@@ -170,11 +172,13 @@
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 segons</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="n_minutes_format_plurals">
         <item>1 minut</item>
         <item>^1 minuts</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     
     <string name="set_button_behavior_format">Comportament del botó ^1</string>
 	<string-array name="set_button_behavior_items">
@@ -241,12 +245,14 @@
     <string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
         <item>S’han creat còpies de seguretat de ^1 llibres</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string-array name="book_exported_format_plurals">
         <item>S’ha exportat una transacció</item>
         <item>S’han exportat ^1 transaccions</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string name="failed_to_back_up_book">La còpia de seguretat del llibre ha fallat</string>
 	<string name="no_space_left_on_sd_card">No queda espai a la targeta SD</string>
@@ -291,5 +297,6 @@
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 entrades seran esborrades</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 </resources>

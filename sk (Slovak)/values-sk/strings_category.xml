@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_main_sub_separator">:</string>
+    <string name="category_main_sub_format">^1 ^2 ^3</string>
+    <string name="category">Kategória</string>
+    <string name="categories">Kategórie</string>
+    <string name="subcategory">Podkategória</string>
+    <string name="classification">Zaradenie</string>
+    <string name="_class">Trieda</string>
+    <string name="subclass">Podtrieda</string>
+    <string name="parent_category">Nadradená kategória</string>  <!-- This is the main category that a subcategory belongs to -->
+    <string name="parent_class">Nadradená trieda</string>  <!-- This is the main class that a subclass belongs to -->
+    <string name="edit_category">Upraviť kategóriu</string>
+    <string name="edit_subcategory">Upraviť podkategóriu</string>
+    <string name="edit_class">Upraviť triedu</string>
+    <string name="edit_subclass">Upraviť podtriedy</string>
+    <string name="new_category">Nová kategória</string>
+    <string name="new_subcategory">Nová podkategória</string>
+    <string name="new_class">Nová trieda</string>
+    <string name="new_subclass">Nová podtrieda</string>
+    <string name="delete_category">Zmazať kategóriu</string>
+    <string name="delete_subcategory">Zmazať podkategóriu</string>
+    <string name="delete_class">Odstrániť triedu</string>
+    <string name="delete_subclass">Odstrániť podtriedu</string>
+    <string name="add_default_categories">Pridať východzie kategórie</string>
+    <string name="add_classification">Pridať zaradenie</string>
+    <string name="select_category">Vyberte kategóriu</string>
+    <string name="select_class">Vybrať triedu</string>
+    <string name="delete_classification">Odstrániť zaradenie</string>
+    <string name="rename_classification">Premenovať zaradenie</string>
+    <string name="select_classification">Vyberte zaradenie</string>
+    <string name="enter_classification_name">Zadajte názov zaradenia</string>
+    <string name="enter_new_classification_name">Zadajte nový názov zaradenia</string>
+    <string name="categories_and_classifications">Kategórie a zaradenia</string>
+    <string name="no_categories_expense">Nemáte žiadne kategórie výdajov</string>
+    <string name="no_categories_income">Nemáte žiadne kategórie príjmov</string>
+    <string name="no_classes">Nemáte žiadne triedy</string>
+    <string name="create_category_instructions_format">Ak chcete vytvoriť kategóriu, zvoľte ^i v hornej časti obrazovky</string>
+    <string name="create_class_instructions_format">Pre vytvorenie triedy, zvoľte ^i v hornej časti obrazovky</string>
+    <string name="uncategorized_transactions">Nezaradené transakcie</string>
+    <string name="delete_category_no_subcategories_warning_format">Kategória ^1 bude navždy zmazaná</string>
+    <string name="delete_class_no_subclass_warning_format">Trieda ^1 bude navždy zmazaná</string>
+    <string name="delete_category_with_subcategories_warning_format">Kategória ^ 1 a <b>všetky jej podkategórie</b> budú navždy zmazané</string>
+    <string name="delete_class_with_subclass_warning_format">Trieda ^1 a <b>všetky jej podtriedy</b> budú navždy zmazané</string>
+    <string name="delete_subcategory_warning_format">Podkategória ^1 bude navždy zmazaná</string>
+    <string name="delete_subclass_warning_format">Podtrieda ^1 bude navždy zmazaná</string>
+    <string name="delete_classification_warning_format">Zaradenie ^1 bude navždy zmazané. Všetky transakcie budú nezaradené</string>
+    <string name="default_categories_add_confirmation">Chcete pridať východziu kategóriu</string>
+    <string name="default_categories_added">Východzie kategórie pridané</string>
+    <string name="all_categories">Všetky kategórie</string>
+    <string name="expense">Výdavok</string>
+    <string name="expenses">Výdavky</string>
+    <string name="expense_categories">Kategórie výdavkov</string>
+    <string name="income">Príjem</string>
+    <string name="income_categories">Kategórie príjmov</string>
+    <string name="savings">Úspory</string> <!-- As in "amount saved by budgeting" -->
+    <string name="category_name">Názov kategórie</string>
+    <string name="subcategory_name_lower">názov podkategórie</string>
+    <string name="class_name">Názov triedy</string>
+    <string name="subclass_name_lower">názov podtriedy</string>
+    <string name="without_subcategory">Bez podkategórie</string>
+    <string name="without_subclass">Bez podtriedy</string>
+    <string name="cannot_be_zero">Nemôže byť 0</string>
+    <string name="change_expense_warning">Chcete zmeniť typ kategórie z výdavkovej na príjmovú, alebo naopak</string>
+    <string name="prepopulate">Prednastaviť východziu kategóriu</string>
+    <string name="short_categories">Nahrať len krátky zoznam kategórií (neskôr budete mať možnosť nahrať úplný zoznam)</string>
+    <string name="view_categories">Zobraziť kategórie</string>
+    <string name="category_not_found">Kategórie nenájdené</string>
+    <string name="class_not_found">Trieda nenájdená</string>
+    <string name="total_income">Príjmy celkom</string>
+    <string name="total_expense">Výdavky celkom</string>
+	<string name="net">Čistý</string>
+    <string name="net_income">Čistý príjem</string>
+    <string name="uncategorized">Nezaradené</string>
+    <string name="income_uncategorized">Nezaradené príjmy</string>
+    <string name="expense_uncategorized">Nezaradené výdavky</string>
+    <string name="show_uncategorized">Zobraziť nezaradené</string>
+    <string name="move_subcategory_to_another_category_warning">Chcete presunúť podkategóriu do inej kategórie</string>
+    <string name="show_zero_balance_categories">Zobraziť kategórie s nulovou bilanciou</string>
+    <string name="show_zero_balance_items">Zobraziť položky s nulovou bilanciou</string>
+    <string name="recategorize_category">Zmeniť kategóriu všetkých položiek s touto kategóriou na</string>
+    <string name="recategorize_class">Zmeniť kategóriu všetkých položiek s touto triedou na</string>
+	<string name="spending_by_category0">Výdavky podľa kategórie</string>
+	<string name="spending_by_category1">Výdavky podľa kategórie alebo ^1</string>
+	<string name="spending_by_category2">Výdavky podľa kategórie, ^1 alebo ^2</string>
+	<string name="spending_by_category_over_time0">Výdavky podľa kategórie v priebehu času</string>
+	<string name="spending_by_category_over_time1">Výdavky podľa kategórie alebo ^1 v priebehu času</string>
+	<string name="spending_by_category_over_time2">Výdavky podľa kategórie, ^1 alebo ^2 v priebehu času</string>
+	
+    <string name="no_categories">Žiadne kategórie</string>
+	<string name="no_categories_yet">Zatiaľ žiadne kategórie</string>
+    <string name="no_classes_yet">Zatiaľ žiadne triedy</string>
+	<string-array name="category_count_format_plurals">
+        <item>^1 kategória</item>
+        <item>^1 kategórie</item>
+        <item>^1 kategórií</item>
+    </string-array>
+	<string-array name="uncategorized_count_plurals">
+        <item>^1 nezaradená transakcia</item>
+        <item>^1 nezaradené transakcie</item>
+        <item>^1 nezaradených transakcií</item>
+    </string-array>
+
+	<string-array name="default_classifications">
+		<item>Členovia rodiny</item>
+		<item>Nehnuteľnosť</item>
+		<item>Projekty</item>
+		<item>Záľuby</item>
+		<item>Dovolenka</item>
+		<item>Pracovné náklady</item>
+		<item>Ostatné</item>
+	</string-array>
+</resources>

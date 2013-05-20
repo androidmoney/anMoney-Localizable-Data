@@ -42,7 +42,8 @@
 	<string-array name="payee_count_format_plurals">
         <item>1 beneficiário</item>
         <item>^1 beneficiários</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
     <string name="all_payees">Todos os beneficiários</string>
 	<string name="payees_in_open_accounts">Beneficiários em contas abertas</string>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    	   tools:locale="en">
+
     <string name="financial_institution">Financial institution</string>
     <string name="financial_institutions">Financial institutions</string>
     <string name="financial_institution_bank_first">Financial institution with bank accounts first</string>
