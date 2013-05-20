@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency">Mena</string>
+    <string name="currencies">Číselnik mien</string>
+    <string name="edit_currency">Upraviť menu</string>
+    <string name="set_as_base_currency">Zvoliť základnú menu</string>
+    <string name="base_currency_set">Základná mena nastavená</string>
+    <string name="exchange_rate">Výmenný kurz</string>
+    <string name="exchange_rates">Výmenné kurzy</string>
+    <string name="country">Krajiny</string>
+    <string name="region">Oblasť</string>
+    <string name="currency_name">Názov meny</string>
+    <string name="symbol">Symbol</string>
+    <string name="symbol_required">Symbol je povinný</string>
+    <string name="exchange_rate_required">Výmenný kurz je povinný</string>
+    <string name="view_currencies">Zobraziť meny</string>
+    <string name="tap_to_modify_converted_amounts">Zvoľte pre úpravu prevedených súm</string>
+    <string name="currency_converter">Prevod mien</string>
+    <string name="invert">Obrátiť</string>
+    <string name="save_exchange_rate">Uložiť výmenný kurz</string>
+    <string name="all_currencies">Všetky meny</string>
+    <string name="used_currencies">Použité meny</string>
+    <string name="and_prior_format">do ^1 vrátane</string> <!-- As in "January 1 and prior" -->
+    
+	<string-array name="currency_list_status_filter_title_bar">
+		<item>@string/all_currencies</item>
+		<item>@string/used_currencies</item>
+	</string-array>
+
+	<string-array name="currency_list_sort_order_title_bar">
+		<item>@string/name</item>
+		<item>@string/region</item>
+	</string-array>
+</resources>

@@ -92,10 +92,12 @@
 	<string-array name="category_count_format_plurals">
 		<item>1 catégorie</item>
         <item>^1 catégories</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="uncategorized_count_plurals">
 		<item>^1 transaction non catégorisée</item>
 		<item>^1 transactions non catégorisées</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="default_classifications">

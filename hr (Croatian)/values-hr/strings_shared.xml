@@ -133,7 +133,8 @@
 	<string-array name="selected_format_plurals">
         <item>Odabrano: 1</item>
         <item>Odabrano: ^1</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     
 	<string-array name="reminder_leads">
         <item>Ne podsječaj me</item>

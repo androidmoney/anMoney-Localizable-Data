@@ -150,11 +150,13 @@
 	<string-array name="account_count_format_plurals">
 		<item>1 Konto</item>
 		<item>^1 Konten</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="pending_count_plurals">
 		<item>^1 neue Transaktion</item>
 		<item>^1 neue Transaktionen</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="account_group_labels">

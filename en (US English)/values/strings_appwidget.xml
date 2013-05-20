@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    	   tools:locale="en">
+    	   
 	<string name="appwidget_warning_format">It appears that you have ^1 currently installed on the SD card.\n\nSince this may cause the widgets to disappear, it is highly recommended that you move ^1 back to the device from the SD card, if you plan on making use of the widgets</string>
 
     <string name="no_books_warning">Please create at least one book before dropping the widget</string>

@@ -31,6 +31,7 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>^1 occurrences sautées</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Annulation</string>
 	<string name="skip_which">Sauter laquelle</string>
@@ -69,10 +70,12 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>les ^1 dernières</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>occurrence</item>
 		<item>occurrences</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="upcoming_date">Prochaine date</string>
 	<string name="series_start_date">Date de départ</string>
@@ -86,18 +89,22 @@
 	<string-array name="every_day_plurals">
 		<item>Tous les</item>
 		<item>Tous les</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_week_plurals">
 		<item>Toutes les</item>
 		<item>Toutes les</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_month_plurals">
 		<item>Tous les</item>
 		<item>Tous les</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_year_plurals">
 		<item>Tous les</item>
 		<item>Tous les</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="never">Jamais</string>
 	<string name="day_upper">Jour</string>
@@ -126,18 +133,22 @@
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
 		<item>jours</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>semaine</item>
 		<item>semaines</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
 		<item>mois</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>an</item>
 		<item>ans</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string>	
 	<string name="if_it_falls_on_a_weekend">Si la date tombe un weekend</string>
@@ -147,10 +158,12 @@
 	<string-array name="overdue_plurals">
 		<item>1 en retard</item>
 		<item>^1 en retard</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 opération en retard</item>
 		<item>^1 opérations en retard</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -161,7 +174,8 @@
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 récurrences sélectionnées vont être saisies</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	
 	<string-array name="skip_which_items">
 		<item>Occurrence à venir</item>
@@ -282,11 +296,13 @@
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 jours avant</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 jours avant échéance</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string name="specify_custom_number_of_days">Spécifier un nombre de jours</string>

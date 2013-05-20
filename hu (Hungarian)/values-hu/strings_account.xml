@@ -147,12 +147,16 @@
     <string name="no_accounts_yet">Nincsenek még számlák</string>
 	<string-array name="account_count_format_plurals">
         <item>^1 számla</item>
-    </string-array>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 
 
 	<string-array name="pending_count_plurals">
         <item>^1 új tranzakció</item>
-    </string-array>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 
 
 	<string-array name="account_group_labels">

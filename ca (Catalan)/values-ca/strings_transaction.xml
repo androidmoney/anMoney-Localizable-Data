@@ -19,7 +19,8 @@
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>Marcar ^1 transaccions</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     <string name="mark_transactions_all">Marcar <b>totes</b> les transaccions</string>
     <string name="unreconciled1">Sense conciliar</string>
     <string name="unreconciled2">@string/unreconciled1</string>
@@ -165,16 +166,19 @@
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 transaccions seleccionades seran esborrades</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
     <string name="delete_transaction_warning_all"><b>Totes</b> les transaccions seran esborrades</string>
 	<string name="delete_transaction_warning_reconciled">Una transacció conciliada serà esborrada</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 transaccions seleccionades seran esborrades, de les quals almenys una està conciliada</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string name="accept_transaction_confirm_singular">Transaction will be accepted</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 transaccions seleccionades seran acceptades</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 </resources>

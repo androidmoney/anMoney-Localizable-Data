@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    	   tools:locale="en">
+    	   
 	<string name="estimated_indicator">~</string>
     <string name="recurring_bills_and_deposits">Recurring bills &amp; deposits</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
@@ -31,6 +33,7 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>Skipped ^1 occurrences</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Skip cancelled</string>
 	<string name="skip_which">Skip which</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -69,10 +72,12 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>last ^1</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>occurrence</item>
 		<item>occurrences</item>
+        <item/> <!-- Not used -->
 	</string-array>
     <string name="upcoming_date">Upcoming date</string> <!-- As in the "the date of the upcoming recurring instance" --> 
     <string name="series_start_date">Series start date</string> <!-- As in the "the starting date of the entire recurring series" -->
@@ -85,18 +90,22 @@
 	<string-array name="every_day_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_week_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_month_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_year_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="never">Never</string>
 	<string name="day_upper">Day</string>
@@ -125,18 +134,22 @@
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
 		<item>days</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>week</item>
 		<item>weeks</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
 		<item>months</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_lower</item>
 		<item>years</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">If the date falls on the weekend</string>
@@ -146,10 +159,12 @@
 	<string-array name="overdue_plurals">
 		<item>1 overdue</item>
 		<item>^1 overdue</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 overdue bill or deposit</item>
 		<item>^1 overdue bills or deposits</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -160,7 +175,8 @@
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 selected recurring items will be entered</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	
 	<string-array name="skip_which_items">
 		<item>Upcoming occurrence</item>
@@ -280,11 +296,13 @@
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 days before</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 days before it is due</item>
+        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string name="specify_custom_number_of_days">Specify custom number of days</string>

@@ -75,7 +75,7 @@
     <string name="new_password">Nové heslo</string>
     <string name="verify_password">Overiť heslo</string>
     <string name="enter_password">Zadajte heslo</string>
-    <string name="incorrect_password">Nesprávne heslo. Prosím zadejte znovu</string>
+    <string name="incorrect_password">Nesprávne heslo. Prosím zadajte znova</string>
     <string name="set_password">Nastaviť heslo</string>
     <string name="password_set">Heslo nastavené</string>
     <string name="edit_password">Zmeniť heslo</string>
@@ -154,7 +154,7 @@
         <item>Importovať ^1 súborov</item>
     </string-array>
 
-    <string name="general">Základna</string>
+    <string name="general">Všeobecné</string>
     <string name="starting_screen">Úvodná obrazovka</string>
     <string name="negative_amount_format">Zobrazenie záporných súm</string>
     

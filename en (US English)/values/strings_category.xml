@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    	   tools:locale="en">
+    	   
     <string name="category_main_sub_separator">:</string>
     <string name="category_main_sub_format">^1 ^2 ^3</string>
     <string name="category">Category</string>
@@ -93,11 +95,13 @@
 	<string-array name="category_count_format_plurals">
         <item>1 category</item>
         <item>^1 categories</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="uncategorized_count_plurals">
         <item>^1 uncategorised transaction</item>
         <item>^1 uncategorised transactions</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string-array name="default_classifications">
 		<item>Family members</item>

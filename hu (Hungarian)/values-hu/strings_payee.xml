@@ -41,7 +41,9 @@
     <string name="no_payees_yet">Nincsenek még kedvezményezettek</string>
 	<string-array name="payee_count_format_plurals">
         <item>^1 kedvezményezett</item>
-    </string-array>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 
 	
 	

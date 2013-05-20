@@ -30,8 +30,9 @@
 	<string name="skipped">Kihagyva</string>
 	<string-array name="skipped_occurrences_format_plurals">
 		<item>Kihagyta a ^1 előfordulást</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
-
 	<string name="skip_canceled">Kihagyás megszakítva</string>
 	<string name="skip_which">Melyiket hagyja ki</string>
 	<string name="skip_one_occurrence_warning">Hagyja ki a soron következő előfordulást</string>
@@ -68,9 +69,13 @@
 	<string name="based_part2_singular">utolsó</string>
 	<string-array name="based_part2_plurals">
 		<item>utolsó ^1</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>előfordulás alapján</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 
 	
@@ -80,18 +85,6 @@
 	<string name="invalid_date">Érvénytelen dátum</string>
 	<string name="repeat">Ismétel</string>
 	<string name="every_1"> </string>
-	<string-array name="every_day_plurals">
-		<item>@string/every_1</item>
-	</string-array>
-	<string-array name="every_week_plurals">
-		<item>@string/every_1</item>
-	</string-array>
-	<string-array name="every_month_plurals">
-		<item>@string/every_1</item>
-	</string-array>
-	<string-array name="every_year_plurals">
-		<item>@string/every_1</item>
-	</string-array>	
 
 
 	
@@ -122,20 +115,24 @@
 	<string name="yearly">Évente</string>
 	<string-array name="day_plurals">
 		<item>naponként</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
-
 	<string-array name="week_plurals">
 		<item>hetenként</item>
-	</string-array>
-	
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>	
 	<string-array name="month_plurals">
 		<item>havonként</item>
-	</string-array>
-	
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>	
 	<string-array name="year_plurals">
 		<item>évenként</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
-
 	<string name="every_n_period_format">^2 ^3</string>
 	<string name="if_it_falls_on_a_weekend">Ha a dátum a hétvégére esik</string>
 	<string name="skip_weekends">Átugorja a hétvéget</string>
@@ -143,9 +140,13 @@
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
 		<item>^1 megkésett</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 megkésett számla vagy betét</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 
 	
@@ -155,9 +156,10 @@
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Használja a mai dátumot</string>
 	<string-array name="enter_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
 		<item>^1 kiválasztott ismétlődő be lesz írva a regiszterbe</item>
-    </string-array>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 	
 	<string-array name="skip_which_items">
 		<item>A soron következő előfordulást</item>
@@ -276,11 +278,15 @@
 	
 	<string-array name="days_before_plurals">
 		<item>^1 nappal előtte</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 
 		
 	<string-array name="days_before_due_date_plurals">
 		<item>^1 nappal esedékesség előtt</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 	
 

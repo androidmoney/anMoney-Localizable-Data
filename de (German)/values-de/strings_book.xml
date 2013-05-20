@@ -35,7 +35,8 @@
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 ausgewählten Dateien werden gelöscht</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string name="select_book">Mappe auswählen</string>
 	<string name="select_book_to_import_into">Mappe für den Import der Auszüge auswählen</string>
 	<string name="select_import_file">Datei(en) für den Import auswählen</string>
@@ -148,9 +149,10 @@
 
     <string name="import_file_confirm_format">Möchten Sie importieren ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Unused -->
+        <item/> <!-- Not used -->
 		<item>Möchten Sie die ^1 Dateien importieren</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string name="general">Allgemein</string>
 	<string name="starting_screen">Startbildschirm</string>
@@ -170,10 +172,12 @@
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 Sekunden</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="n_minutes_format_plurals">
 		<item>1 Minute</item>
 		<item>^1 Minuten</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string name="set_button_behavior_format">Rechner ^1 Verhalten</string>
@@ -241,11 +245,13 @@
     <string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
         <item>Backup von ^1 Mappen</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string-array name="book_exported_format_plurals">
 		<item>Eine Transaktion exportiert</item>
 		<item>Export von ^1 Transaktionen</item>
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string name="failed_to_back_up_book">Backup der Mappe fehlgeschlagen</string>
@@ -291,5 +297,6 @@
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
 		<item>^1 Einträge werden gelöscht</item>
-    </string-array>
+        <item/> <!-- Not used -->
+	</string-array>
 </resources>
