@@ -31,7 +31,6 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>^1 vorkommen übersprungen</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Gelöschte überspringen</string>
 	<string name="skip_which">Was überspringen</string>
@@ -70,12 +69,10 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>letzter ^1</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>Vorfall</item>
 		<item>Vorfälle</item>
-        <item/> <!-- Not used -->
 	</string-array>
 <!-- New --> <string name="upcoming_date">Bevorstehende Datum</string>
 <!-- New --> <string name="series_start_date">Serie Startdatum</string>
@@ -126,22 +123,18 @@
 	<string-array name="day_plurals">
 		<item>@string/day_upper</item>
 		<item>@string/days_upper</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>@string/week_upper</item>
 		<item>@string/weeks_upper</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_upper</item>
 		<item>@string/months_upper</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_upper</item>
 		<item>@string/years_upper</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string>
 	<string name="if_it_falls_on_a_weekend">Wenn der Tag auf ein Wochenende fällt</string>
@@ -151,12 +144,10 @@
 	<string-array name="overdue_plurals">
 		<item>1 überfällig</item>
 		<item>^1 überfällig</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 überfällige Rechnung/Einzahlung</item>
 		<item>^1 überfällige Rechnungen/Einzahlungen</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -167,8 +158,7 @@
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
 <!-- New --> <item>^1 wiederkehrenden Elemente werden eingegeben</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 		
 	<string-array name="skip_which_items">
 		<item>Anstehende Posten</item>
@@ -288,13 +278,11 @@
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 days before</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 Tage vor</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string name="specify_custom_number_of_days">Eigene Anzahl der Tage eingeben</string>

@@ -35,8 +35,7 @@
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 fichiers sélectionnées vont être supprimées</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	<string name="select_book">Sélectionner le livre</string>
 	<string name="select_book_to_import_into">Sélectionnez le livre dans lequel importer le relevé</string>
 	<string name="select_import_file">Sélectionner le(s) fichier(s) à importer</string>
@@ -149,10 +148,9 @@
 
     <string name="import_file_confirm_format">Voulez-vous importer ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
+        <item/> <!-- Unused -->
 		<item>Voulez-vous importer les fichiers ^1</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	<string name="general">Général</string>
 	<string name="starting_screen">Écran de démarrage</string>
@@ -172,12 +170,10 @@
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 secondes</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	<string-array name="n_minutes_format_plurals">
 		<item>1 minute</item>
 		<item>^1 minutes</item>
-        <item/> <!-- Not used -->
 	</string-array>
 
 	<string name="set_button_behavior_format">Paramétrage du bouton ^1</string>
@@ -245,13 +241,11 @@
     <string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 livres sauvegardés</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	<string-array name="book_exported_format_plurals">
 		<item>Une transaction exportée</item>
 		<item>^1 transactions exportées</item>
-        <item/> <!-- Not used -->
 	</string-array>
 
 	<string name="failed_to_back_up_book">Sauvegarde du livre impossible</string>
@@ -297,6 +291,5 @@
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
 		<item>^1 saisies vont être effacées</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 </resources>

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
+<resources>
     <string name="budget">Budget</string>
     <string name="view_budget">View budget</string>
     <string name="edit_budget_item">Edit budget item</string>

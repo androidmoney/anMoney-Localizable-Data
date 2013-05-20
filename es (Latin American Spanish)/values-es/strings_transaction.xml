@@ -19,8 +19,7 @@
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>Marcar ^1 transacciones</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="mark_transactions_all">Marcar <b>todas</b> las transacciones</string>
     <string name="unreconciled1">No reconciliadas</string>
     <string name="unreconciled2">@string/unreconciled1</string>
@@ -166,19 +165,16 @@
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 transacciones seleccionadas serán eliminadas</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="delete_transaction_warning_all"><b>Todas</b> transacciones serán eliminadas</string>
 	<string name="delete_transaction_warning_reconciled">Una transacción reconciliada será eliminada</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 transacciones seleccionadas serán eliminadas, por lo menos una está reconciliada</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	<string name="accept_transaction_confirm_singular">Transacción será aceptada</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 transacciones serán aceptadas</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 </resources>

@@ -42,7 +42,6 @@
 	<string-array name="payee_count_format_plurals">
 		<item>1 bénéficiaire</item>
 		<item>^1 bénéficiaires</item>
-        <item/> <!-- Not used -->
 	</string-array>
 
 	<string name="all_payees">Tous les bénéficiaires</string>

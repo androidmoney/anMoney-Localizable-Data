@@ -4,11 +4,9 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>les ^1 dernières\noccurrences</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-        <item/> <!-- Not used -->
+		<item/>
+		<item/>
 	</string-array>
 </resources>

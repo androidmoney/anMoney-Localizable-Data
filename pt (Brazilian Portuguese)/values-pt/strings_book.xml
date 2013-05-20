@@ -35,8 +35,7 @@
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 arquivos selecionados serão excluídas</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="select_book">Selecione o livro</string>
     <string name="select_book_to_import_into">Selecione o livro onde será feita a importação</string>
     <string name="select_import_file">Selecione arquivo(s) para importação</string>
@@ -149,10 +148,9 @@
 
     <string name="import_file_confirm_format">Você quer importar ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
+        <item/> <!-- Unused -->
         <item>Você quer importar estes ^1 arquivos</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	
     <string name="general">Geral</string>
     <string name="starting_screen">Tela inicial</string>
@@ -172,13 +170,11 @@
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 segundos</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	<string-array name="n_minutes_format_plurals">
         <item>^1 minuto</item>
         <item>^1 minutos</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     
     <string name="set_button_behavior_format">Comportamento do botão ^1</string>
 	<string-array name="set_button_behavior_items">
@@ -245,14 +241,12 @@
     <string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
         <item>Foi feito o backup de ^1 livros</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	<string-array name="book_exported_format_plurals">
         <item>Uma transação foi exportada</item>
         <item>^1 transações foram exportadas</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	<string name="failed_to_back_up_book">Falha no backup do livro</string>
 	<string name="no_space_left_on_sd_card">Não há espaço suficiente no cartão SD</string>
@@ -297,6 +291,5 @@
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 registros serão excluídos</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 </resources>

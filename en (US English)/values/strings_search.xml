@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
+<resources>
     <string name="search">Search</string>
     <string name="search_transactions">Search transactions</string>
     <string name="no_matching_transactions">No matching transactions</string>

@@ -42,8 +42,7 @@
 	<string-array name="payee_count_format_plurals">
         <item>1 beneficiari</item>
         <item>^1 beneficiaris</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
     <string name="all_payees">Tots els beneficiaris</string>
 	<string name="payees_in_open_accounts">Beneficiaris als comptes oberts</string>

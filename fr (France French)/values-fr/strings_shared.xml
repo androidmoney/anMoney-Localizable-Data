@@ -143,14 +143,12 @@
    	<string-array name="items_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 éléments</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	
 	<string-array name="selected_format_plurals">
         <item>1 sélectionné</item>
         <item>^1 sélectionnés</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     	
 	<string-array name="reminder_leads">
 		<item>Pas de rappel</item>

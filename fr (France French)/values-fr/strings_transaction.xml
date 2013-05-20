@@ -19,7 +19,6 @@
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>Marquer ^1 transactions</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="mark_transactions_all">Marquer <b>toutes</b> les transactions</string>
 	<string name="unreconciled1">Non rapprochée</string>
@@ -165,19 +164,16 @@
     <string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 transactions sélectionnées vont être supprimées</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="delete_transaction_warning_all"><b>Toutes</b> les transactions vont être supprimées</string>
 	<string name="delete_transaction_warning_reconciled">Une transaction rapprochée va être supprimée</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 transactions sélectionnées, dont une au moins est rapprochée, vont être supprimées</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="accept_transaction_confirm_singular">La transaction va être acceptée</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 transactions sélectionnées vont être acceptées</item>
-        <item/> <!-- Not used -->
 	</string-array>
 </resources>

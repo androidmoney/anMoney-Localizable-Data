@@ -19,8 +19,7 @@
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>Marchează tranzacţia ^1</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="mark_transactions_all">Marchează <b>toate</b> tranzacţiile</string>
     <string name="unreconciled1">Nereconciliat</string>
     <string name="unreconciled2">@string/unreconciled1</string>
@@ -166,19 +165,16 @@
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item> tranzacţia ^1 selectată va fi ştearsă</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="delete_transaction_warning_all"><b>Toate</b> tranzacţiile vor fi şterse</string>
 	<string name="delete_transaction_warning_reconciled">O tranzacţie reconciliată va fi ştearsă</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>Tranzacţiile ^1 selectate vor fi şterse, cel puţin una dintre ele este reconciliată</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	<string name="accept_transaction_confirm_singular">Tranzacţiile vor fi acceptate</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 selected transactions will be accepted</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 </resources>

@@ -35,8 +35,7 @@
 <!-- New --> <string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 selected files will be deleted</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="select_book">Označi knjižicu</string>
     <string name="select_book_to_import_into">Označi knjižicu za uvoz tvrdnje</string>
     <string name="select_import_file">Označi datoteku(e) ua uvoz</string>
@@ -143,10 +142,9 @@
 
     <string name="import_file_confirm_format">Želite li uvesti ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
+        <item/> <!-- Unused -->
         <item>Želite li uvesti ^1 datoteke</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
     <string name="general">Općenito</string>
     <string name="starting_screen">Početni ekran</string>
@@ -166,13 +164,11 @@
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 sekunda</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string-array name="n_minutes_format_plurals">
         <item>1 minuta</item>
         <item>^1 minuta</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     
     <string name="set_button_behavior_format">Kalkulator ^1 tipka</string>
 	<string-array name="set_button_behavior_items">
@@ -269,21 +265,18 @@
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 unosa će biti obrisano</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	
 	<string name="backed_up_book_format">Sačuvano ^1</string>
     <string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
         <item>Sačuvano ^1 knjižica</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	<string-array name="book_exported_format_plurals">
         <item>Izvezena jedna transakcija</item>
         <item>Izvezena ^1 transakcije</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 <!-- New --> <string name="failed_to_back_up_book">Failed to backup book</string>
 <!-- New --> <string name="no_space_left_on_sd_card">There is no space left on the SD card</string>

@@ -31,7 +31,6 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>Salta ^1 occorrenze</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Salto cancellato</string>
 	<string name="skip_which">Salta quale</string>
@@ -70,12 +69,10 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>sull’ultima ^1</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>occorrenza</item>
 		<item>occorrenze</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="upcoming_date">Prossima data</string>
 	<string name="series_start_date">Data di inizio della serie</string>
@@ -108,22 +105,18 @@
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
 		<item>giorni</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>settimana</item>
 		<item>settimane</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
 		<item>mesi</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_lower</item>
 		<item>anni</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">Se la data cade durante il fine settimana</string>
@@ -133,12 +126,10 @@
 	<string-array name="overdue_plurals">
 		<item>1 in ritardo</item>
 	    <item>^1 in ritardo</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 deposito o fattura in ritardo</item>
 		<item>^1 depositi o fatture in ritardo</item>
-        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -149,8 +140,7 @@
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
 <!-- New --> <item>^1 selected recurring items will be entered</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	
 	<string-array name="skip_which_items">
 		<item>Prossima occorrenza</item>
@@ -270,13 +260,11 @@
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 giorni prima</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 giorni prima della scadenza</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	
 	<string name="specify_custom_number_of_days">Specifica un numero di giorni</string>

@@ -34,9 +34,7 @@
     <string name="delete_file_warning_format">A ^1 fájl le lesz törölve</string>
 	<string-array name="delete_files_warning_format_plurals">
         <item>^1 kiválasztott fájl le lesz törölve</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="select_book">Válassza ki a könyvet</string>
     <string name="select_book_to_import_into">Válassza ki a könyvet, amelyikbe a kivonat importálva lesz</string>
     <string name="select_import_file">Válassza ki a fájlt/-okat importálásra</string>
@@ -150,9 +148,7 @@
     <string name="import_file_confirm_format">Importálja ^1-t</string>
 	<string-array name="import_files_confirm_format_plurals">
         <item>Importálja a ^1 fájlt</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 
 	<string name="general">Általános</string>
@@ -172,15 +168,11 @@
     <string name="password_time_out_period">Jelszó időkorlátja</string>
 	<string-array name="n_seconds_format_plurals">
         <item>^1 másodperc</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	<string-array name="n_minutes_format_plurals">
         <item>^1 perc</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     
 
 	<string name="set_button_behavior_format">A ^1 gomb viselkedése</string>
@@ -247,16 +239,12 @@
 	<string name="backed_up_book_format">^1 el lett mentve</string>
     <string-array name="backed_up_books_format_plurals">
         <item>^1 könyvet elmentett</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 
 	<string-array name="book_exported_format_plurals">
         <item>Exportált ^1 tranzakciót</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	
 	<string name="failed_to_back_up_book">A könyvet nem sikerült menteni</string>
@@ -301,7 +289,6 @@
     <string name="delete_entry_warning_format">Bejegyzés ^1 törölve lesz</string>
     <string-array name="delete_entries_warning_format_plurals">
         <item>^1 bejegyzés törölve lesz</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
+    
 </resources>

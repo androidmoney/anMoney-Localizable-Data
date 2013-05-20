@@ -19,9 +19,8 @@
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 Transaktionen markiert</item>
-        <item/> <!-- Not used -->
 	</string-array>
-	<string name="mark_transactions_all"><b>Alle</b> Transaktionen markieren</string>
+		<string name="mark_transactions_all"><b>Alle</b> Transaktionen markieren</string>
 	<string name="unreconciled1">Nicht abgeglichen</string>
 
 	<string name="cleared1">Abgeglichen</string>
@@ -166,19 +165,16 @@
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 ausgewählte Transaktionen werden gelöscht</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="delete_transaction_warning_all"><b>Alle</b> Transaktionen werden gelöscht</string>
 	<string name="delete_transaction_warning_reconciled">Eine abgeglichene Buchung wird gelöscht</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 ausgewählte Transaktionen werden gelöscht, wovon zumindest eine schon abgeglichen ist</item>
-        <item/> <!-- Not used -->
 	</string-array>
 	<string name="accept_transaction_confirm_singular">Transaktion wird akzeptiert</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 gewählte Transaktionen werden akzeptiert</item>
-        <item/> <!-- Not used -->
 	</string-array>
 </resources>

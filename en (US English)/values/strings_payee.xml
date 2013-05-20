@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
+<resources>
     <string name="view_payee">View payee</string>
     <string name="edit_payee">Edit payee</string>
     <string name="new_payee">New payee</string>
@@ -44,8 +42,7 @@
 	<string-array name="payee_count_format_plurals">
         <item>1 payee</item>
         <item>^1 payees</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
     <string name="all_payees">All payees</string>
 	<string name="payees_in_open_accounts">Payees in open accounts</string>

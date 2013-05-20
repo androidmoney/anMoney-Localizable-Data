@@ -35,8 +35,7 @@
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 archivos seleccionados serán eliminadas</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="select_book">Seleccionar libro</string>
     <string name="select_book_to_import_into">Seleccione el libro para importar declaraciones</string>
     <string name="select_import_file">Seleccione archivo(s) para importar</string>
@@ -149,10 +148,9 @@
 
     <string name="import_file_confirm_format">Quieres importar ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
+        <item/> <!-- Unused -->
         <item>Quieres importar los ^1 archivos</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
     <string name="general">General</string>
     <string name="starting_screen">Pantalla inicial</string>
@@ -172,13 +170,11 @@
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 segundos</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 	<string-array name="n_minutes_format_plurals">
         <item>1 minuto</item>
         <item>^1 minutos</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     
     <string name="set_button_behavior_format">Comportamiento del botón ^1</string>
 	<string-array name="set_button_behavior_items">
@@ -245,14 +241,12 @@
     <string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
         <item>Fue creada una copia de seguridad de ^1 libros</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	<string-array name="book_exported_format_plurals">
         <item>Exportada una transacción</item>
         <item>Exportada ^1 transacciones</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 
 	<string name="failed_to_back_up_book">No se ha podido realizar copias de seguridad del libro</string>
 	<string name="no_space_left_on_sd_card">No hay espacio libre en la tarjeta SD</string>
@@ -297,6 +291,5 @@
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 registros serán eliminados</item>
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
 </resources>

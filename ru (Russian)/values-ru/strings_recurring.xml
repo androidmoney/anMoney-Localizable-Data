@@ -130,21 +130,25 @@
 	<string name="years_upper">Годам</string>
 	<string name="yearly">Ежегодно</string>
 	<string-array name="day_plurals">
+		<item>@string/day_lower</item>
 	    <item>@string/day_lower</item>
 		<item>дня</item>
 		<item>дней</item>
 	</string-array>
 	<string-array name="week_plurals">
+		<item>неделя</item>
 	    <item>неделя</item>
 		<item>недели</item>
 		<item>недель</item>
 	</string-array>
 	<string-array name="month_plurals">
+		<item>@string/month_lower</item>
 	    <item>@string/month_lower</item>
 		<item>месяца</item>
 		<item>месяцев</item>
 	</string-array>	
 	<string-array name="year_plurals">
+		<item>@string/year_lower</item>
 	    <item>@string/year_lower</item>
 		<item>года</item>
 		<item>лет</item>
@@ -171,10 +175,10 @@
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Записать сегодняшним днём</string>
 	<string-array name="enter_warning_format_plurals">
-		<item>^1 выбранная запланированная операция будет записана</item>
-		<item>^1 выбранных запланированных операции будут записаны</item>
+        <item/> <!-- Intentionally left empty -->
 		<item>^1 выбранных запланированных операций будут записаны</item>
-	</string-array>	
+    </string-array>
+	
 	<string-array name="skip_which_items">
 		<item>Запланированную операцию</item>
 		<item>Все просроченные операции</item>

@@ -18,9 +18,7 @@
     <string name="mark_transaction">Tranzakció jelölése</string>
 	<string-array name="mark_transactions_format_plurals">
         <item>Jelöljön ^1 tranzakciót</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
     <string name="mark_transactions_all">Az <b>összes</b> tranzakció jelölése</string>
     <string name="unreconciled1">Egyeztetetlen</string>
     <string name="unreconciled2">@string/unreconciled1</string>
@@ -165,20 +163,17 @@
 	<string name="delete_transaction_warning">A tranzakciót le lesz törölve</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item>^1 kiválasztott tranzakció le lesz törölve</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
+
     <string name="delete_transaction_warning_all"><b>Összes</b> tranzakció le lesz törölve</string>
 	<string name="delete_transaction_warning_reconciled">Egy egyeztetett tranzakció le lesz törölve</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
         <item>^1 kiválasztott tranzakció le lesz törölve, melyek közül legalább egy már egyeztetve volt</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
+
 	<string name="accept_transaction_confirm_singular">A tranzakció el lesz fogadva</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item>^1 kiválasztott tranzakció el lesz fogadva</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
+    </string-array>
+    
 </resources>
