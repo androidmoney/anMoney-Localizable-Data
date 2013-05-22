@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<region>Argentína</region>
+		<name>Argentinské peso</name>
+		<iso4217>ARS</iso4217>
+	</record>
+	<record>
+		<region>Austrália</region>
+		<name>Austrálsky dolár</name>
+		<iso4217>AUD</iso4217>
+	</record>
+	<record>
+		<region>Bahrajn</region>
+		<name>Bahraiský dinár</name>
+		<iso4217>BHD</iso4217>
+	</record>
+	<record>
+		<region>Barbados</region>
+		<name>Barbadoský dolár</name>
+		<iso4217>BBD</iso4217>
+	</record>
+	<record>
+		<region>Bolívia</region>
+		<name>Bolívijské boliviano</name>
+		<iso4217>BOB</iso4217>
+	</record>
+	<record>
+		<region>Brazília</region>
+		<name>Brazílsky real</name>
+		<iso4217>BRL</iso4217>
+	</record>
+	<record>
+		<region>Spojené kráľovstvo</region>
+		<name>Britská libra</name>
+		<iso4217>GBP</iso4217>
+	</record>
+	<record>
+		<region>Kanada</region>
+		<name>Kanadský dolár</name>
+		<iso4217>CAD</iso4217>
+	</record>
+	<record>
+		<region>Kamerun</region>
+		<name>CFA frank BEAC</name>
+		<iso4217>XAF</iso4217>
+	</record>
+	<record>
+		<region>Čile</region>
+		<name>Čílske peso</name>
+		<iso4217>CLP</iso4217>
+	</record>
+	<record>
+		<region>Čína</region>
+		<name>Čínsky jüan</name>
+		<iso4217>CNY</iso4217>
+	</record>
+	<record>
+		<region>Kolumbia</region>
+		<name>Kolumbijské peso</name>
+		<iso4217>COP</iso4217>
+	</record>
+	<record>
+		<region>Česká republika</region>
+		<name>Česká koruna</name>
+		<iso4217>CZK</iso4217>
+	</record>
+	<record>
+		<region>Dánsko</region>
+		<name>Dánska koruna</name>
+		<iso4217>DKK</iso4217>
+	</record>
+	<record>
+		<region>Antigua a Barbados</region>
+		<name>Východokaribský dolár</name>
+		<iso4217>XCD</iso4217>
+	</record>
+	<record>
+		<region>Egypt</region>
+		<name>Egyptská libra</name>
+		<iso4217>EGP</iso4217>
+	</record>
+	<record>
+		<region>Spojené arabské emiráty</region>
+		<name>UAE dirham</name>
+		<iso4217>AED</iso4217>
+	</record>
+	<record>
+		<region>Eurozóna</region>
+		<name>Euro</name>
+		<iso4217>EUR</iso4217>
+	</record>
+	<record>
+		<region>Hongkong</region>
+		<name>Hongkongský dolár</name>
+		<iso4217>HKD</iso4217>
+	</record>
+	<record>
+		<region>Maďarsko</region>
+		<name>Maďarský forint</name>
+		<iso4217>HUF</iso4217>
+	</record>
+	<record>
+		<region>Island</region>
+		<name>Islandská krona</name>
+		<iso4217>ISK</iso4217>
+	</record>
+	<record>
+		<region>India</region>
+		<name>Indická rupia</name>
+		<iso4217>INR</iso4217>
+	</record>
+	<record>
+		<region>Indonézia</region>
+		<name>Indonézska rupia</name>
+		<iso4217>IDR</iso4217>
+	</record>
+	<record>
+		<region>Izrael</region>
+		<name>Izraelský šekel</name>
+		<iso4217>ILS</iso4217>
+	</record>
+	<record>
+		<region>Jamajka</region>
+		<name>Jamajský dolár</name>
+		<iso4217>JMD</iso4217>
+	</record>
+	<record>
+		<region>Japonsko</region>
+		<name>Japonský jen</name>
+		<iso4217>JPY</iso4217>
+	</record>
+	<record>
+		<region>Jordánsko</region>
+		<name>Jordánsky dinár</name>
+		<iso4217>JOD</iso4217>
+	</record>
+	<record>
+		<region>Keňa</region>
+		<name>Keňský šiling</name>
+		<iso4217>KES</iso4217>
+	</record>
+	<record>
+		<region>Južná Kórea</region>
+		<name>Juhokórejský won</name>
+		<iso4217>KRW</iso4217>
+	</record>
+	<record>
+		<region>Kuvajt</region>
+		<name>Kuvaitský dinár</name>
+		<iso4217>KWD</iso4217>
+	</record>
+	<record>
+		<region>Lotyšsko</region>
+		<name>Lotyšský lat</name>
+		<iso4217>LVL</iso4217>
+	</record>
+	<record>
+		<region>Libanon</region>
+		<name>Libanonská libra</name>
+		<iso4217>LBP</iso4217>
+	</record>
+	<record>
+		<region>Litva</region>
+		<name>Litovský litas</name>
+		<iso4217>LTL</iso4217>
+	</record>
+	<record>
+		<region>Malajzia</region>
+		<name>Malajský ringgit</name>
+		<iso4217>MYR</iso4217>
+	</record>
+	<record>
+		<region>Mexiko</region>
+		<name>Mexické peso</name>
+		<iso4217>MXN</iso4217>
+	</record>
+	<record>
+		<region>Maroko</region>
+		<name>Marocký dirham</name>
+		<iso4217>MAD</iso4217>
+	</record>
+	<record>
+		<region>Namíbia</region>
+		<name>Namibský dolár</name>
+		<iso4217>NAD</iso4217>
+	</record>
+	<record>
+		<region>Nepál</region>
+		<name>Nepálska rupia</name>
+		<iso4217>NPR</iso4217>
+	</record>
+	<record>
+		<region>Turecko</region>
+		<name>Turecká líra</name>
+		<iso4217>TRY</iso4217>
+	</record>
+	<record>
+		<region>Nový Zéland</region>
+		<name>Novozélandský dolár</name>
+		<iso4217>NZD</iso4217>
+	</record>
+	<record>
+		<region>Niger</region>
+		<name>CFA frank BCEAO</name>
+		<iso4217>XOF</iso4217>
+	</record>
+	<record>
+		<region>Nigéria</region>
+		<name>Nigerská naira</name>
+		<iso4217>NGN</iso4217>
+	</record>
+	<record>
+		<region>Nórsko</region>
+		<name>Nórska koruna</name>
+		<iso4217>NOK</iso4217>
+	</record>
+	<record>
+		<region>Omán</region>
+		<name>Ománský rial</name>
+		<iso4217>OMR</iso4217>
+	</record>
+	<record>
+		<region>Pakistan</region>
+		<name>Pakistanská rupia</name>
+		<iso4217>PKR</iso4217>
+	</record>
+	<record>
+		<region>Panama</region>
+		<name>Panamská balboa</name>
+		<iso4217>PAB</iso4217>
+	</record>
+	<record>
+		<region>Peru</region>
+		<name>Peruvský sol nuevo</name>
+		<iso4217>PEN</iso4217>
+	</record>
+	<record>
+		<region>Filipíny</region>
+		<name>Filipínske peso</name>
+		<iso4217>PHP</iso4217>
+	</record>
+	<record>
+		<region>Poľsko</region>
+		<name>Poľský zlotý</name>
+		<iso4217>PLN</iso4217>
+	</record>
+	<record>
+		<region>Katar</region>
+		<name>Qatarský rial</name>
+		<iso4217>QAR</iso4217>
+	</record>
+	<record>
+		<region>Rumunsko</region>
+		<name>Rumunský lei</name>
+		<iso4217>RON</iso4217>
+	</record>
+	<record>
+		<region>Rusko</region>
+		<name>Ruský rubeľ</name>
+		<iso4217>RUB</iso4217>
+	</record>
+	<record>
+		<region>Saudská Arábia</region>
+		<name>Saudskoarabský rial</name>
+		<iso4217>SAR</iso4217>
+	</record>
+	<record>
+		<region>Singapur</region>
+		<name>Singapúrsky dolár</name>
+		<iso4217>SGD</iso4217>
+	</record>
+	<record>
+		<region>Južná Afrika</region>
+		<name>Juhoafrický rand</name>
+		<iso4217>ZAR</iso4217>
+	</record>
+	<record>
+		<region>Srí Lanka</region>
+		<name>Šrilanská rupia</name>
+		<iso4217>LKR</iso4217>
+	</record>
+	<record>
+		<region>Švédsko</region>
+		<name>Švédska koruna</name>
+		<iso4217>SEK</iso4217>
+	</record>
+	<record>
+		<region>Švajčiarsko</region>
+		<name>Švajčiarský frank</name>
+		<iso4217>CHF</iso4217>
+	</record>
+	<record>
+		<region>Taiwan</region>
+		<name>Nový taiwanský dolár</name>
+		<iso4217>TWD</iso4217>
+	</record>
+	<record>
+		<region>Thajsko</region>
+		<name>Thajský baht</name>
+		<iso4217>THB</iso4217>
+	</record>
+	<record>
+		<region>Ukrajina</region>
+		<name>Ukrainská hrivna</name>
+		<iso4217>UAH</iso4217>
+	</record>
+	<record>
+		<region>Uruguaj</region>
+		<name>Uruguajské peso uruguayo</name>
+		<iso4217>UYU</iso4217>
+	</record>
+	<record>
+		<region>Spojené štáty</region>
+		<name>Americký dolár</name>
+		<iso4217>USD</iso4217>
+	</record>
+	<record>
+		<region>Venezuela</region>
+		<name>Venezuelský bolívar</name>
+		<iso4217>VEF</iso4217>
+	</record>
+	<record>
+		<region>Vietnam</region>
+		<name>Vietnamský dong</name>
+		<iso4217>VND</iso4217>
+	</record>
+
+	<record>
+		<region>Aruba</region>
+		<name>Arubský guilder</name>
+		<iso4217>AWG</iso4217>
+	</record>
+	<record>
+		<region>Bosna a Hercegovina</region>
+		<name>Bosnianský konvertibilná marka</name>
+		<iso4217>BAM</iso4217>
+	</record>
+	<record>
+		<region>Bangladéš</region>
+		<name>Bangladéšska taka</name>
+		<iso4217>BDT</iso4217>
+	</record>
+	<record>
+		<region>Bulharsko</region>
+		<name>Bulharský leva</name>
+		<iso4217>BGN</iso4217>
+	</record>
+	<record>
+		<region>Bermudy</region>
+		<name>Bermudský dolár</name>
+		<iso4217>BMD</iso4217>
+	</record>
+	<record>
+		<region>Bahamy</region>
+		<name>Bahamský dolár</name>
+		<iso4217>BSD</iso4217>
+	</record>
+	<record>
+		<region>Fidži</region>
+		<name>Fidžijský dolár</name>
+		<iso4217>FJD</iso4217>
+	</record>
+	<record>
+		<region>Ghana</region>
+		<name>Ghanský cedi</name>
+		<iso4217>GHS</iso4217>
+	</record>
+	<record>
+		<region>Gambia</region>
+		<name>Gambský dalasi</name>
+		<iso4217>GMD</iso4217>
+	</record>
+	<record>
+		<region>Guatemala</region>
+		<name>Guatemalský quetzal</name>
+		<iso4217>GTQ</iso4217>
+	</record>
+	<record>
+		<region>Chorvátsko</region>
+		<name>Chorvátska kuna</name>
+		<iso4217>HRK</iso4217>
+	</record>
+	<record>
+		<region>Kambodža</region>
+		<name>Kambodžský riel</name>
+		<iso4217>KHR</iso4217>
+	</record>
+	<record>
+		<region>Laos</region>
+		<name>Laoský kip</name>
+		<iso4217>LAK</iso4217>
+	</record>
+	<record>
+		<region>Moldavsko</region>
+		<name>Moldavský leu</name>
+		<iso4217>MDL</iso4217>
+	</record>
+	<record>
+		<region>Madagaskar</region>
+		<name>Madagaskarský ariary</name>
+		<iso4217>MGA</iso4217>
+	</record>
+	<record>
+		<region>Macedónsko</region>
+		<name>Macedónsky denár</name>
+		<iso4217>MKD</iso4217>
+	</record>
+	<record>
+		<region>Maurícius</region>
+		<name>Maurícijská rupia</name>
+		<iso4217>MUR</iso4217>
+	</record>
+	<record>
+		<region>Maldivy</region>
+		<name>Maldivská rufiyaa</name>
+		<iso4217>MVR</iso4217>
+	</record>
+	<record>
+		<region>Paraguaj</region>
+		<name>Paraguayské guarani</name>
+		<iso4217>PYG</iso4217>
+	</record>
+	<record>
+		<region>Srbsko</region>
+		<name>Srbský dinár</name>
+		<iso4217>RSD</iso4217>
+	</record>
+	<record>
+		<region>Seychelské ostrovy</region>
+		<name>Sejšelská rupia</name>
+		<iso4217>SCR</iso4217>
+	</record>
+	<record>
+		<region>Sýria</region>
+		<name>Syrská libra</name>
+		<iso4217>SYP</iso4217>
+	</record>
+	<record>
+		<region>Tunisko</region>
+		<name>Tuniský dinár</name>
+		<iso4217>TND</iso4217>
+	</record>
+	<record>
+		<region>Uganda</region>
+		<name>Ugandský šiling</name>
+		<iso4217>UGX</iso4217>
+	</record>
+	<record>
+		<region>Francúzska Polynézia</region>
+		<name>CFP frank</name>
+		<iso4217>XPF</iso4217>
+	</record>
+</records>	
