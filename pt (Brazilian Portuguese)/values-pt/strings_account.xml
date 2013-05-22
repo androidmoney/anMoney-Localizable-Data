@@ -76,7 +76,6 @@
     <string name="type">Tipo</string>
     <string name="favorite_account">Conta favorita</string>
     <string name="favorite_accounts">Contas favoritas</string>
-    <string name="budget_account">Conta de orçamento</string>
     <string name="account_has_been_closed">Esta conta foi fechada</string>
     <string name="acquisition_date">Data de aquisição</string>
     <string name="credit_limit">Limite de crédito</string>

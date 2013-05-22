@@ -2,5 +2,4 @@
 <resources>
     <string name="duplicate_copy_move_short">Duplizieren, kopieren oder verschieben</string>
 	<string name="add">Hinzufügen</string>
-    <string name="do_not_duplicate_notes">Bemerkungen nicht\nduplizieren</string>
 </resources>

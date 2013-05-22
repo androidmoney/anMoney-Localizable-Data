@@ -76,7 +76,6 @@
     <string name="type">Tipus</string>
     <string name="favorite_account">Compte preferit</string>
     <string name="favorite_accounts">Comptes preferits</string>
-    <string name="budget_account">Compte de pressupost</string>
     <string name="account_has_been_closed">Aquest compte ha estat tancat</string>
     <string name="acquisition_date">Data d’adquisició</string>
     <string name="credit_limit">Límit de crèdit</string>
@@ -142,7 +141,7 @@
 	<string name="make_account_budget_question_part1">Vol que aquest compte formi part del seu pressupost</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="make_account_budget_question_part2_format">Encara que toqui a ^1, pot fer-ho més tard des de l’edició del compte</string>
 	<string name="show_option_format">Mostrar l’opció ^1</string>
-	<string name="show_closed">Mostar\ntancades</string>
+	<string name="show_closed">Mostar tancades</string>
 	
     <string name="no_accounts_yet">Cap compte encara</string>
 	<string-array name="account_count_format_plurals">

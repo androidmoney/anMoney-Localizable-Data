@@ -76,7 +76,6 @@
     <string name="type">Tipo</string>
     <string name="favorite_account">Cuenta favorita</string>
     <string name="favorite_accounts">Cuentas favoritas</string>
-    <string name="budget_account">Cuenta presupuestaria</string>
     <string name="account_has_been_closed">Esta cuenta ha sido cerrada</string>
     <string name="acquisition_date">Fecha de adquisición</string>
     <string name="credit_limit">Límite de crédito</string>
@@ -142,7 +141,7 @@
 	<string name="make_account_budget_question_part1">Te gustaría hacer esta cuenta como parte de su presupuesto</string>
 	<string name="make_account_budget_question_part2_format">Aún si toca ^1, usted puede hacer esto más tarde mediante la edición de la cuenta</string>
 	<string name="show_option_format">Mostrar la ^1 opción</string>
-	<string name="show_closed">Mostrar\ncerrados</string>
+	<string name="show_closed">Mostrar cerrados</string>
 	
     <string name="no_accounts_yet">No hay cuentas todavía</string>
 	<string-array name="account_count_format_plurals">

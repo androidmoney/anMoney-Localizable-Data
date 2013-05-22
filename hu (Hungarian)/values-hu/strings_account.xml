@@ -76,7 +76,6 @@
     <string name="type">Típus</string>
     <string name="favorite_account">Kedvenc számla</string>
     <string name="favorite_accounts">Kedvenc számlák</string>
-    <string name="budget_account">Költségvetési számla</string>
     <string name="account_has_been_closed">A számla le van zárva</string>
     <string name="acquisition_date">Akvizíció időpontja</string>
     <string name="credit_limit">Hitelkeret</string>

@@ -70,7 +70,6 @@
     <string name="type">Tip</string>
     <string name="favorite_account">Najdraži račun</string>
     <string name="favorite_accounts">Najdraži računi</string>
-    <string name="budget_account">Račun planirane potrošnje</string>
     <string name="account_has_been_closed">Ovaj račun je zatvoren</string>
     <string name="acquisition_date">Datum kupnje</string>
     <string name="credit_limit">Limit računa</string>

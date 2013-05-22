@@ -76,7 +76,6 @@
     <string name="type">Тип</string>
     <string name="favorite_account">Избранный счёт</string>
     <string name="favorite_accounts">Избранные счета</string>
-    <string name="budget_account">Учитывать в бюджете</string>
     <string name="account_has_been_closed">Закрытый счёт</string>
     <string name="acquisition_date">Дата приобретения</string>
     <string name="credit_limit">Кредитный лимит</string>
@@ -142,7 +141,7 @@
 	<string name="make_account_budget_question_part1">Учитывать движение средств по этому счёту в бюджете</string>
 	<string name="make_account_budget_question_part2_format">Даже если вы ответите ^1, позже вы сможете изменить эту настройку в свойствах счёта</string>
 	<string name="show_option_format">Показывать ^1</string>
-    <string name="show_closed">Показывать\nзакрытые</string>
+    <string name="show_closed">Показывать закрытые</string>
 	
     <string name="no_accounts_yet">Нет счетов</string>
 	<string-array name="account_count_format_plurals">

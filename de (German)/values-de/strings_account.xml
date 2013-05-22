@@ -77,7 +77,6 @@
 
 	<string name="favorite_account">Favoriten-Konto</string>
 	<string name="favorite_accounts">Favoriten-Konten</string>
-	<string name="budget_account">Budget-Konto</string>
 	<string name="account_has_been_closed">Dieses Konto wurde geschlossen</string>
 	<string name="acquisition_date">Datum des Abschlusses</string>
 	<string name="credit_limit">Kredit-Limit</string>

@@ -76,7 +76,6 @@
     <string name="type">Typ</string>
     <string name="favorite_account">Obľúbený účet</string>
     <string name="favorite_accounts">Obľúbené účty</string>
-    <string name="budget_account">Rozpočtový účet</string>
     <string name="account_has_been_closed">Tento účet je už uzavretý</string>
     <string name="acquisition_date">Dátum zriadenia</string>
     <string name="credit_limit">Úverový limit</string>

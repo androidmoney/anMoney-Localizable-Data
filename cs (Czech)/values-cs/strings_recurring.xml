@@ -83,27 +83,27 @@
 	<string name="invalid_date">Chybné datum</string>
 	<string name="repeat">Opakovat</string>
 	<string name="every_1">Každý</string>
-	<string name="every_2">Každý</string>
-	<string name="every_3">Každých</string>
+	<string name="every_2">Každých</string>
+
 	<string-array name="every_day_plurals">
 		<item>@string/every_1</item>
+		<item>@string/every_1</item>
 		<item>@string/every_2</item>
-		<item>@string/every_3</item>
 	</string-array>
 	<string-array name="every_week_plurals">
 		<item>@string/every_1</item>
+		<item>@string/every_1</item>
 		<item>@string/every_2</item>
-		<item>@string/every_3</item>
 	</string-array>
 	<string-array name="every_month_plurals">
 		<item>@string/every_1</item>
+		<item>@string/every_1</item>
 		<item>@string/every_2</item>
-		<item>@string/every_3</item>
 	</string-array>
 	<string-array name="every_year_plurals">
 		<item>@string/every_1</item>
+		<item>@string/every_1</item>
 		<item>@string/every_2</item>
-		<item>@string/every_3</item>
 	</string-array>
 	<string name="never">Nikdy</string>
 	<string name="day_upper">Den</string>

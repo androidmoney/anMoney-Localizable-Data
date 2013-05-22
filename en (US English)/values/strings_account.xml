@@ -78,7 +78,6 @@
     <string name="type">Type</string>
     <string name="favorite_account">Favourite account</string>
     <string name="favorite_accounts">Favourite accounts</string>
-    <string name="budget_account">Budget account</string>
     <string name="account_has_been_closed">This account has been closed</string>
     <string name="acquisition_date">Acquisition date</string>
     <string name="credit_limit">Credit limit</string>

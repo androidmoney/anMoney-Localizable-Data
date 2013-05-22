@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="report">Report</string>
+    <string name="reports">Reporty</string>
+	<string name="view_report">Zobraziť report</string>
+	<string name="view_reports">Zobraziť reporty</string>
+	<string name="report_canceled">Report zrušený</string>
+	<string name="export_report">Export reportu</string>
+	<string name="report_exported">Report úspešne exportovaný na pamäťovú kartu</string>
+	<string name="share_report">Zdieľať report</string>
+	<string name="report_settings">Možnosti reportu</string>
+	<string name="custom_dates">Vlastné dáta</string>
+	<string name="other">Ostatné</string>
+	<string name="report_empty">K dispozícii nie sú žiadne dáta na zobrazenie</string>
+    <string name="report_settings_instructions_format">Ak chcete zmeniť nastavenia reportu, kliknite na ^i v hornej časti obrazovky</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">Parametre reportu budú nastavené na východzie hodnoty</string>
+	<string name="settings_reset">Obnoviť nastavenia</string>
+	<string name="reset_canceled">Obnovenie zrušené</string>
+    <string name="report_settings_tip">Pre nastavenia parametrov reportu:\n\n<li>Dlho podržte názov reportu a zvoľte <b>Možnosti reportu</b></li>\n\n<li>Zobrazte report a použite ikonu v pravom hornom rohu obrazovky</li></string>
+	<string name="report_name">Názov reportu</string>
+	<string name="all_reports">Všetky reporty</string>
+	<string name="favorite_reports">Obľúbené reporty</string>
+	<string name="save_report_as">Uložiť report ako</string>
+	<string name="delete_report">Zmazať report</string>
+    <string name="rename_report">Premenovať report</string>
+    <string name="duplicate_report">Duplikovať report</string>
+    <string name="delete_report_warning_format">Report ^1 bude navždy zmazaný</string>
+	<string name="report_type">Typ reportu</string>
+	<string name="group">Vytvárať skupiny</string>
+	<string name="do_not_group">Nevytvárať skupiny</string>
+	<string name="today">Dnes</string>
+	<string name="tomorrow">Zajtra</string>
+	<string name="yesterday">Včera</string>
+	<string name="select_report">Vyberte report</string>
+    <string name="report_folder">Zložka pre report</string>
+
+	<string name="chart_type">Typ grafu</string>
+	<string name="text_report">Textový report</string>
+	<string name="pie_chart">Koláčový graf</string>
+	<string name="line_chart">Čiarový graf</string>
+	<string name="bar_chart">Stĺpcový graf</string>
+
+	<string name="page_format">Strana ^1</string>
+
+	<string name="page_size">Veľkosť strany</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Letter</item><!-- We use english name in czech -->
+		<item>Legal</item><!-- We use english name in czech -->
+		<item>Tabloid</item><!-- We use english name in czech -->
+	</string-array>
+
+	<string name="page_orientation">Orientácia stránky</string>
+	<string-array name="page_orientation_items">
+		<item>Na výšku</item>
+		<item>Na šírku</item>
+	</string-array>
+
+	<string name="amounts_on_charts">Zobraziť sumy v grafoch</string>
+	<string name="percentages_on_pie_charts">Zobraziť percentá v koláčových grafoch</string>
+	<string name="create_settings_page">Vytvoriť stránku s opisom nastavení</string>
+	<string name="create_settings_page_description">Ak je zapnuté, bude pri zdieľaní alebo exporte PDF dokumentu vytvorená stránka s aktuálnym nastavením parametrov reportu</string>
+				
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Webová stránka</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Čitateľné v tabuľkových procesoroch, ako je Microsoft® Excel alebo Google™ Docs</item>
+		<item>Vhodné pre tlač alebo vytvorenie papierového dokladu. Vyžaduje sa Adobe Reader alebo iný PDF prehliadač</item>
+		<item>Vhodné pre publikovanie na webových stránkách alebo pre prehliadanie vo webovom prehliadači</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Zvoľte formát pre zdieľanie</string>
+
+	<string-array name="report_list_status_filter_title_bar">
+		<item>@string/all_reports</item>
+		<item>@string/favorite_reports</item>
+	</string-array>
+</resources>
