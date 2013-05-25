@@ -14,7 +14,6 @@
     <string name="payee_required">Príjemca je povinný</string>
     <string name="payer_required">Platiteľ je povinný</string>
     <string name="call">Volať</string>
-    <string name="view_address">Zobraziť poštovú adresu</string>
     <string name="map_address">Zobraziť na mape</string> <!-- Show the address on the map -->
     <string name="no_payees">Nemáte žiadnych príjemcov</string>
     <string name="create_payee_instructions_format">Pre zadanie príjemcu, zvoľte ^i v hornej časti obrazovky</string> <!-- ^1 will be replaced by an image -->

@@ -66,8 +66,10 @@
 
     <string name="whats_new">Novosti</string>
     <string name="license">Licenca</string>
+<!--     
     <string name="accept_license">Prihvati licencu</string>
     <string name="decline">Odbij</string>
+-->    
     <string name="thank_you">Hvala!</string>
     <string name="password">Lozinka</string>
     <string name="old_password">Stara lozinka</string>

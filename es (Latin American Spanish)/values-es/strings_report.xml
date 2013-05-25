@@ -77,9 +77,4 @@
 	</string-array>
 
 <!-- Verify --> <string name="specify_format_to_share_as">Especifica el formato para compartir</string>
-
-	<string-array name="report_list_status_filter_title_bar">
-		<item>@string/all_reports</item>
-		<item>@string/favorite_reports</item>
-	</string-array>
 </resources>

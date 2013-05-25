@@ -16,7 +16,6 @@
     <string name="payee_required">Payee required</string>
     <string name="payer_required">Payer required</string>
     <string name="call">Call</string>
-    <string name="view_address">View postal address</string>
     <string name="map_address">Map address</string> <!-- Show the address on the map -->
     <string name="no_payees">You don’t have any payees</string>
     <string name="create_payee_instructions_format">To create a payee, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->

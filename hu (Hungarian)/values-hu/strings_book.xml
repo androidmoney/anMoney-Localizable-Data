@@ -67,8 +67,10 @@
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
     <string name="whats_new">Újdonságok</string>
     <string name="license">Licensz</string>
+<!--     
     <string name="accept_license">Elfogadás</string>
     <string name="decline">Visszautasítás</string>
+-->    
     <string name="thank_you">Köszönjük!</string>
     <string name="password">Jelszó</string>
     <string name="old_password">Előző jelszó</string>

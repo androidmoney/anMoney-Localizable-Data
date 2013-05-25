@@ -67,8 +67,10 @@
 	<string name="user_guide_url">http://goo.gl/2zugn</string>
     <string name="whats_new">Изменения</string>
     <string name="license">Лицензия</string>
+<!--     
     <string name="accept_license">Принять лицензию</string>
     <string name="decline">Отклонить</string>
+-->    
     <string name="thank_you">Спасибо!</string>
     <string name="password">Пароль</string>
     <string name="old_password">Старый пароль</string>

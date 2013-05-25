@@ -67,8 +67,10 @@
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
     <string name="whats_new">Novità</string>
     <string name="license">Licenza</string>
+<!--     
     <string name="accept_license">Accetta la licenza</string>
     <string name="decline">Declina</string>
+-->    
     <string name="thank_you">Grazie!</string>
     <string name="password">Password</string>
     <string name="old_password">Vecchia password</string>

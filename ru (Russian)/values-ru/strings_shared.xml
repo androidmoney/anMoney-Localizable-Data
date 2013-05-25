@@ -18,7 +18,7 @@
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 по ^2</string>
     <string name="filter_by_direction_order_format">^1 по ^2 по ^3</string>
-    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 по ^2 по ^3 по ^4 за ^5</string>
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 по ^2 по ^3 за ^4</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="done">Готово</string>

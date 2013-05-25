@@ -14,7 +14,6 @@
     <string name="payee_required">Kedvezményezett kötelező</string>
     <string name="payer_required">Fizető kötelező</string>
     <string name="call">Felhív</string>
-    <string name="view_address">Cím megtekintése</string>
     <string name="map_address">Cím térképezése</string>
     <string name="no_payees">Nincsenek kedvezményezettjei</string>
     <string name="create_payee_instructions_format">Kedvezményezett létrehozásához érintse meg a ^i -ot a képernyő tetején</string>

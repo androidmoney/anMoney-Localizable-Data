@@ -14,7 +14,6 @@
 	<string name="payee_required">Bénéficiaire obligatoire</string>
 	<string name="payer_required">Débiteur obligatoire</string>
 	<string name="call">Appeler</string>
-	<string name="view_address">Voir l’adresse postale</string>
 	<string name="map_address">Situer sur la carte</string>
     <string name="no_payees">Vous n’avez défini aucun bénéficiaire</string>
     <string name="create_payee_instructions_format">Pour créer un bénéficiaire, appuyez sur ^i en haut de l’écran</string>

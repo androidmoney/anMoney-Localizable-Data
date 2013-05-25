@@ -67,8 +67,10 @@
 	<string name="user_guide_url">http://goo.gl/QutTB</string>
     <string name="whats_new">Novidades</string>
     <string name="license">Licença</string>
+<!--     
     <string name="accept_license">Aceitar licença</string>
     <string name="decline">Rejeitar</string>
+-->    
     <string name="thank_you">Obrigado!</string>
     <string name="password">Senha</string>
     <string name="old_password">Senha antiga</string>

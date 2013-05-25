@@ -67,8 +67,10 @@
 
 	<string name="whats_new">Was ist neu</string>
 	<string name="license">Lizenz</string>
+<!--     
 	<string name="accept_license">Lizenz akzeptieren</string>
 	<string name="decline">Ablehnen</string>
+-->	
 	<string name="thank_you">Danke sehr!</string>
 	<string name="password">Passwort</string>
 	<string name="old_password">Altes Passwort</string>

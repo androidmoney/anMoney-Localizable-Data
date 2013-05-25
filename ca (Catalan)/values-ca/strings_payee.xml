@@ -14,7 +14,6 @@
     <string name="payee_required">Beneficiari requerit</string>
     <string name="payer_required">Pagador requerit</string>
     <string name="call">Trucar</string>
-    <string name="view_address">Mostrar adreça postal</string>
     <string name="map_address">Adreça en mapa</string> <!-- Show the address on the map -->
     <string name="no_payees">No teniu cap beneficiari</string>
     <string name="create_payee_instructions_format">Per a crear un beneficiari, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->

@@ -14,7 +14,6 @@
     <string name="payee_required">Beneficiario richiesto</string>
     <string name="payer_required">Debitote richiesto</string>
     <string name="call">Chiama</string>
-    <string name="view_address">Visualizza indirizzo postale</string>
     <string name="map_address">Mappa dell’indirizzo</string>
     <string name="no_payees">Tu non hai nessun beneficiario</string>
 	<string name="create_payee_instructions_format">Per creare un beneficiario, toccare ^i nella parte superiore dello schermo</string> <!-- ^1 will be replaced by an image -->

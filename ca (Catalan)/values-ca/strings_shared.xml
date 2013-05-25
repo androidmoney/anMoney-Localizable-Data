@@ -18,7 +18,7 @@
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 per ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 per ^3 ^2</string> <!-- Example: "All payees by decreasing date" -->
-    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 de ^2 per ^4 ^3 per ^5</string> <!-- Example: "All transactions for AMEX by decreasing date for all dates" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 per ^3 ^2 per ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="yes">Sí</string>
     <string name="no">No</string>
     <string name="done">Fet</string>

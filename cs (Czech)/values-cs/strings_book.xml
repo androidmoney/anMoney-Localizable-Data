@@ -67,8 +67,10 @@
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
     <string name="whats_new">Co je nového</string>
     <string name="license">Licence</string>
+<!--     
     <string name="accept_license">Přijmout licenci</string>
     <string name="decline">Odmítnout</string>
+-->    
     <string name="thank_you">Děkuji!</string>
     <string name="password">Heslo</string>
     <string name="old_password">Původní heslo</string>

@@ -14,7 +14,6 @@
     <string name="payee_required">Beneficiario requerido</string>
     <string name="payer_required">Pagador requerido</string>
     <string name="call">Llamar</string>
-    <string name="view_address">Ver la dirección postal</string>
     <string name="map_address">Mapa de direcciones</string>
     <string name="no_payees">No tienes ningún beneficiario</string>
     <string name="create_payee_instructions_format">Para crear un beneficiario, pulsa el ^i botón en la parte inferior de la pantalla</string>

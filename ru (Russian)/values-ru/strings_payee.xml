@@ -14,7 +14,6 @@
     <string name="payee_required">Укажите получателя</string>
     <string name="payer_required">Укажите плательщика</string>
     <string name="call">Позвонить</string>
-    <string name="view_address">Показать почтовый адрес</string>
     <string name="map_address">Показать на карте</string>
     <string name="no_payees">Отсутствуют получатели</string>
     <string name="create_payee_instructions_format">Для создания нового получателя, нажмите ^i в верхней части экрана</string>

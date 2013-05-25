@@ -14,7 +14,6 @@
 	<string name="payee_required">Empfänger benötigt</string>
 	<string name="payer_required">Zahler benötigt</string>
 	<string name="call">Anrufen</string>
-	<string name="view_address">Postadresse ansehen</string>
 	<string name="map_address">Adresse auf Landkarte</string>
     <string name="no_payees">Sie haben keine Empfänger</string>
     <string name="create_payee_instructions_format">Um zu beginnen, drücken Sie ^i oben auf den Bildschirm</string>
