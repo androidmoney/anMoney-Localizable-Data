@@ -289,7 +289,9 @@
         <item>Cirílico (Windows)</item>
 		<item>Oeste europeu (Windows)</item>
 		<item>Europa central (Windows)</item>
-    </string-array>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
 
     <string name="maintain_entries">Editar entradas</string>
     <string name="maintain_number_field_entries">Editar entradas de campo numérico</string>

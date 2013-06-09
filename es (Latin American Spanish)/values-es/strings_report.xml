@@ -33,6 +33,9 @@
 	<string name="yesterday">Ayer</string>
 	<string name="select_report">Selecciona el reporte</string>
 <!-- Verify -->  <string name="report_folder">Carpeta de reporte</string>
+	<string name="language">Idioma</string>
+<!-- New --> <string name="text_size">Tamaño del texto</string>
+	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Tipo de gráfico</string>
 	<string name="text_report">Formato de texto</string>
@@ -54,15 +57,12 @@
 	</string-array>
 
 	<string name="page_orientation">Orientación de la página</string>
-	<string-array name="page_orientation_items">
-		<item>Recta</item>
-		<item>Apaisada</item>
-	</string-array>
+	<string name="portrait">Recta</string>
+	<string name="landscape">Apaisada</string>
 
 	<string name="amounts_on_charts">Mostrar cantidades en los gráficos</string>
 	<string name="percentages_on_pie_charts">Mostrar porcentajes en gráficos circulares</string>
 <!-- Verify --> <string name="create_settings_page">Crear página de configuración</string>
-<!-- Verify --> <string name="create_settings_page_description">Si se selecciona, una página con la configuración del reporte se creará al enviar o exportar un documento PDF</string>
 			
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>

@@ -33,6 +33,9 @@
 	<string name="yesterday">Hier</string>
 	<string name="select_report">Sélectionner le rapport</string>
 	<string name="report_folder">Dossier du rapport</string>
+	<string name="language">Langue</string>
+<!-- New --> <string name="text_size">Taille du texte</string>
+	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Type de graphique</string>
 	<string name="text_report">Rapport texte</string>
@@ -54,15 +57,12 @@
 	</string-array>
 
 	<string name="page_orientation">Orientation de la page</string>
-	<string-array name="page_orientation_items">
-		<item>Portrait</item>
-		<item>Paysage</item>
-	</string-array>
+	<string name="portrait">Portrait</string>
+	<string name="landscape">Paysage</string>
 
 	<string name="amounts_on_charts">Afficher les montants dans les graphiques</string>
 	<string name="percentages_on_pie_charts">Afficher les pourcentages dans les camemberts</string>
 	<string name="create_settings_page">Créer page de paramètres</string>
-	<string name="create_settings_page_description">Si l’option est sélectionnée, une page résumant les paramètres du rapport sera créée lors de l’envoi ou de l’exportation d’un document PDF</string>
 		
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>

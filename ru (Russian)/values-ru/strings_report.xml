@@ -33,6 +33,9 @@
 	<string name="yesterday">Вчера</string>
     <string name="select_report">Выберите отчёт</string>
     <string name="report_folder">Каталог для отчетов</string>
+	<string name="language">Язык</string>
+	<string name="text_size">Размер шрифта</string>
+	<string name="text_size_sample">Аб</string>
 
     <string name="chart_type">Вид отчёта</string>
 	<string name="text_report">Текстовый отчёт</string>
@@ -54,15 +57,12 @@
     </string-array>
 
     <string name="page_orientation">Ориентация страницы</string>
-	<string-array name="page_orientation_items">
-        <item>Портретная</item>
-        <item>Ландшафтная</item>
-    </string-array>
+	<string name="portrait">Портретная</string>
+	<string name="landscape">Ландшафтная</string>
 
 	<string name="amounts_on_charts">Показывать суммы на графиках</string>
 	<string name="percentages_on_pie_charts">Показывать проценты на круговых диаграммах</string>
 	<string name="create_settings_page">Создать страницу с параметрами</string>
-	<string name="create_settings_page_description">Если отмечено, при отправке или экспорте PDF документа будет создана страница с параметрами отчёта</string>
 		
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>

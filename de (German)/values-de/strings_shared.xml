@@ -120,7 +120,7 @@
 	<string name="archiving">Archivierung</string>
 	<string name="archiving_settings">Archivierung - Einstellungen</string>
 	<string name="more">Mehr</string>
-    <string name="specify_export_options">Export Optionen festlegen</string>
+    <string name="specify_options">Optionen festlegen</string>
 	<string name="select_all">Alle auswählen</string>
 	<string name="unselect_all">Auswahl für alle aufheben</string>
 	<string name="expand_all">Alle expandieren</string>

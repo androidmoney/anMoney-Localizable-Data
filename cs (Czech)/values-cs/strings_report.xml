@@ -33,6 +33,9 @@
 	<string name="yesterday">Včera</string>
 	<string name="select_report">Vyberte report</string>
     <string name="report_folder">Složka pro report</string>
+	<string name="language">Jazyk</string>
+<!-- New --> <string name="text_size">Velikost textu</string>
+	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Typ grafu</string>
 	<string name="text_report">Textový report</string>
@@ -54,15 +57,12 @@
 	</string-array>
 
 	<string name="page_orientation">Orientace stránky</string>
-	<string-array name="page_orientation_items">
-		<item>Na výšku</item>
-		<item>Na šířku</item>
-	</string-array>
+	<string name="portrait">Na výšku</string>
+	<string name="landscape">Na šířku</string>
 
 	<string name="amounts_on_charts">Zobrazit částky v grafech</string>
 	<string name="percentages_on_pie_charts">Zobrazit procenta v koláčových grafech</string>
 	<string name="create_settings_page">Vytvořit stránku s opisem nastavení</string>
-	<string name="create_settings_page_description">Je-li zapnuto, bude při sdílení nebo exportu PDF dokumentu vytvořena stránka s aktuálním nastavením parametrů reportu</string>
 				
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>

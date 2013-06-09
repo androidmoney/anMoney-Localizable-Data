@@ -121,7 +121,7 @@
 	<string name="archiving">Arxivament</string>
 	<string name="archiving_settings">Configuració d’arxivat</string>
     <string name="more">Més</string>
-    <string name="specify_export_options">Especificar options d’exportació</string>
+    <string name="specify_options">Especificar options</string>
 	<string name="select_all">Seleccionar tot</string>
 	<string name="unselect_all">Seleccionar cap</string>
 	<string name="expand_all">Expandir tot</string>

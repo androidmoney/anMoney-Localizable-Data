@@ -289,7 +289,9 @@
         <item>Cyrilice (Windows)</item>
         <item>Západoevropské (Windows)</item>
         <item>Středoevropské (Windows)</item>
-    </string-array>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
 
     <string name="maintain_entries">Správa hodnot</string>
     <string name="maintain_number_field_entries">Správa hodnot pole Číslo</string>

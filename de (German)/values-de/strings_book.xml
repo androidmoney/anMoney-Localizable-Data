@@ -289,7 +289,9 @@
 		<item>Kyrillisch (Windows)</item>
         <item>Westeuropäischen (Windows)</item>
         <item>Mitteleuropäischen (Windows)</item>
-    </string-array>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
 
 	<string name="maintain_entries">Einträge behalten</string>
 	<string name="maintain_number_field_entries"> Anzahl der Feldeinträge behalten</string>

@@ -121,7 +121,7 @@
 	<string name="archiving">Archiválás</string>
 	<string name="archiving_settings">Archiválás beállításai</string>
     <string name="more">Több</string>
-    <string name="specify_export_options">Adja meg az exportálás beállításait</string>
+    <string name="specify_options">Adja meg a beállításait</string>
 	<string name="select_all">Összes kijelölése</string>
 	<string name="unselect_all">Kijelölés törlése</string>
 	<string name="expand_all">Összes kiterjesztése</string>

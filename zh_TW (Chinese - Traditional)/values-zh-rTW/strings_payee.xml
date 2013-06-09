@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    	   
+    <string name="view_payee">查看收款人</string>
+    <string name="edit_payee">編輯收款人</string>
+    <string name="new_payee">新增收款人</string>
+    <string name="call_payee">致電給收款人</string>
+    <string name="delete_payee">刪除收款人</string>
+    <string name="delete_payee_warning_format">收款人 ^1 將會被永久刪除</string>
+    <string name="delete_from_app_format">Also delete from ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
+    <string name="add_payee_as_a_contact">添加收款人到聯絡人</string>
+    <string name="payee">收款人</string>
+    <string name="payer">付款人</string>
+    <string name="payees">收款人</string>
+    <string name="payee_required">請輸入收款人</string>
+    <string name="payer_required">請輸入付款人</string>
+    <string name="call">致電</string>
+    <string name="map_address">地扯</string> <!-- Show the address on the map -->
+    <string name="no_payees">你沒有任何收款人</string>
+    <string name="create_payee_instructions_format">要創建一個收款人，點擊屏幕上方的 ^i </string> <!-- ^1 will be replaced by an image -->
+    <string name="payee_transaction_list_empty">你沒有任何交易收款人</string>
+    <string name="payee_exists">收款人名稱已經存在</string>
+    <string name="combine_payees">是否想合拼兩個收款人</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="payee_name">收款人名稱</string>
+    <string name="link_payee">你要鏈接收款人到現有的連絡人嗎</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="account_number">帳號</string>
+    <string name="phone">電話</string>
+    <string name="phone_number">電話號碼</string>
+    <string name="email">電子郵件</string>
+    <string name="email_address">電郵地扯</string>
+    <string name="url">網址</string>
+    <string name="web_address">網址</string>
+    <string name="select_account">選擇帳戶</string>
+    <string name="open_web_page">打開網頁</string>
+    <string name="view_payees">查看收款人</string>
+    <string name="default_payee_name">我的收款人</string>
+	<string name="spending_by_payee">收款人消費</string>
+    <string name="all_payees_hidden_by_filter">所有收款人均被顯示過濾器隱藏</string>
+        
+    <string name="without_payee">沒有收款人</string>
+    <string name="no_payees_yet">未有收款人</string>
+	<string-array name="payee_count_format_plurals">
+        <item>1 收款人</item>
+        <item>^1 收款人</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+    <string name="all_payees">所有收款人</string>
+	<string name="payees_in_open_accounts">Payees in open accounts</string>
+	<string name="payees_in_closed_accounts_only">Payees in closed accounts only</string>
+	<string name="unused_payees">未使用的收款人</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

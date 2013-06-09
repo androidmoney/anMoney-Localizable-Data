@@ -121,7 +121,7 @@
 	<string name="archiving">Zálohování</string>
 	<string name="archiving_settings">Možnosti zálohování</string>
     <string name="more">Další</string>
-    <string name="specify_export_options">Upřesněte parametry exportu</string><!-- i.e. CSV export. -->
+    <string name="specify_options">Upřesněte parametry</string>
 	<string name="select_all">Vybrat vše</string>
 	<string name="unselect_all">Zrušit výběr</string>
 	<string name="expand_all">Rozbalit vše</string>

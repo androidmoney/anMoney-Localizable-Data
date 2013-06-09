@@ -1,44 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources xmlns:tools="http://schemas.android.com/tools"
+    	   tools:locale="en">
     	   
-    <string name="book">Book</string>
-    <string name="new_book">New book</string>
+    <string name="book">記帳</string>
+    <string name="new_book">新增記帳</string>
     <string name="new_book_name">New book name</string>
-    <string name="rename_book">Rename book</string>
-    <string name="delete_book">Delete book</string>
-    <string name="share_book">Share book</string>
-    <string name="book_delete_warning_short_format">Book ^1 will be deleted</string>
-    <string name="all_data_will_be_lost">All data in this book will be permanently lost, if not backed up</string>
-    <string name="import_into_book">Import into book</string>
-    <string name="export_from_book">Export from book</string>
-    <string name="import_into_book_format">Import into book ^1</string>
-    <string name="no_books">You don’t have any books</string>
-    <string name="upgrading_book">Upgrading book</string>
-    <string name="upgrading_books">Upgrading books</string>
-    <string name="backup">Backup</string>
-    <string name="backup_canceled">Backup cancelled</string>
-    <string name="backup_book">Backup book</string>
-    <string name="overwrite">Overwrite</string>
-    <string name="backup_name">Backup name</string>
+    <string name="rename_book">重新命名記帳</string>
+    <string name="delete_book">刪除記帳</string>
+    <string name="share_book">分享記帳</string>
+    <string name="book_delete_warning_short_format">記帳 ^1 會被刪除</string>
+    <string name="all_data_will_be_lost">如果沒有備份，在這本記帳中的所有數據將永久丟失</string>
+    <string name="import_into_book">導入到記帳</string>
+    <string name="export_from_book">從記帳中導出</string>
+    <string name="import_into_book_format">導入到記帳 ^1</string>
+    <string name="no_books">你沒有任何記帳</string>
+    <string name="upgrading_book">升級記帳</string>
+    <string name="upgrading_books">升級多個記帳</string>
+    <string name="backup">備份</string>
+    <string name="backup_canceled">取消備份</string>
+    <string name="backup_book">備份記帳</string>
+    <string name="overwrite">覆蓋</string>
+    <string name="backup_name">備份名稱</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="restore">Restore</string>
-    <string name="restored">Restored</string>
-    <string name="restore_canceled">Restore cancelled</string>
-    <string name="restore_book">Restore book</string>
-    <string name="restore_warning_format">Book ^1 will be overwritten and <b>all</b> its data will unrecoverably be destroyed</string>
-    <string name="select_backup_file_to_restore">Select backup file to restore</string>
-    <string name="select_backup_file_to_create_from">Select backup file to create from</string>
-    <string name="import_statement">Import statement</string>
-    <string name="no_sd_card_inserted">There is no SD card inserted</string>
-    <string name="select_files">Select files</string>
-    <string name="delete_file">Delete file</string>
-    <string name="delete_file_warning_format">File ^1 will be deleted</string>
+    <string name="restore">恢復</string>
+    <string name="restored">已恢復</string>
+    <string name="restore_canceled">取消恢復</string>
+    <string name="restore_book">還原記帳</string>
+    <string name="restore_warning_format">記帳將會被覆蓋，<b>所有</b>數據將會無法復原</string>
+    <string name="select_backup_file_to_restore">選擇備份文件</string>
+    <string name="select_backup_file_to_create_from">選擇備份文件創建</string>
+    <string name="import_statement">導入語句</string>
+    <string name="no_sd_card_inserted">沒有偵測到外置記憶卡</string>
+    <string name="select_files">選擇文件</string>
+    <string name="delete_file">刪除文件</string>
+    <string name="delete_file_warning_format">文件 ^1　將會被刪除</string>
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 selected files will be deleted</item>
+        <item>^1 已選擇的文件將會被刪除</item>
         <item/> <!-- Not used -->
 	</string-array>
-    <string name="select_book">Select book</string>
+    <string name="select_book">選擇記帳</string>
     <string name="select_book_to_import_into">Select book to import statement into</string>
     <string name="select_import_file">Select file(s) to import</string>
     <string name="not_specified_brackets">&lt;Not specified></string>
@@ -286,7 +287,7 @@
 	<string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
-        <item>GBK (Chinese national standard)</item>
+        <item>GBK (國家標準)</item>
         <item>Cyrillic (Windows)</item>
         <item>Western European (Windows)</item>
         <item>Central European (Windows)</item>
@@ -301,7 +302,7 @@
     <string name="delete_entry_warning_format">Entry ^1 will be deleted</string>
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
-        <item>^1 entries will be deleted</item>
+        <item>^1 條目將會被刪除</item>
         <item/> <!-- Not used -->
     </string-array>
 </resources>

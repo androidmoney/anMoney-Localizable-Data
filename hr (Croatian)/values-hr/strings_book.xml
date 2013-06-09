@@ -261,7 +261,9 @@
         <item>Čirilica (Windows)</item>
 <!-- New --> <item>Western European (Windows)</item>
 <!-- New --> <item>Eastern European (Windows)</item>
-    </string-array>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
 
     <string name="maintain_entries">Prilagodi unose</string>
     <string name="maintain_number_field_entries">Prilagodi brojčane unose</string>

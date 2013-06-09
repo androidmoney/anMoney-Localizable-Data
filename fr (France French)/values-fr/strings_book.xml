@@ -289,7 +289,9 @@
 		<item>Cyrillique (Windows)</item>
         <item>Europe occidentale (Windows)</item>
         <item>Europe centrale (Windows)</item>
-    </string-array>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
 
 	<string name="maintain_entries">Mémoriser les saisies</string>
 	<string name="maintain_number_field_entries">Mémoriser les saisies dans les champs numériques</string>

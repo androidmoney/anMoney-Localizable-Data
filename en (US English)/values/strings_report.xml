@@ -35,7 +35,10 @@
 	<string name="yesterday">Yesterday</string>
 	<string name="select_report">Select report</string>
     <string name="report_folder">Report folder</string>
-
+	<string name="language">Language</string>
+	<string name="text_size">Text size</string>
+	<string name="text_size_sample">Ab</string>
+		
 	<string name="chart_type">Chart type</string>
 	<string name="text_report">Text report</string>
 	<string name="pie_chart">Pie chart</string>
@@ -56,15 +59,12 @@
 	</string-array>
 
 	<string name="page_orientation">Page orientation</string>
-	<string-array name="page_orientation_items">
-		<item>Portrait</item>
-		<item>Landscape</item>
-	</string-array>
+	<string name="portrait">Portrait</string>
+	<string name="landscape">Landscape</string>
 
 	<string name="amounts_on_charts">Show amounts on charts</string>
 	<string name="percentages_on_pie_charts">Show percentages on pie charts</string>
 	<string name="create_settings_page">Create settings page</string>
-	<string name="create_settings_page_description">If selected, a page with the report settings will be created when sending or exporting a PDF document</string>
 				
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>

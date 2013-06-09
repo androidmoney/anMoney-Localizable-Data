@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    	   
+    <string name="search">搜尋</string>
+    <string name="search_transactions">搜尋交易</string>
+    <string name="no_matching_transactions">沒有相關交易</string>
+</resources>

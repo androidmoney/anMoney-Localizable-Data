@@ -33,6 +33,9 @@
 	<string name="yesterday">Ontem</string>
 	<string name="select_report">Selecione o relatório</string>
     <string name="report_folder">Pasta do relatório</string>
+	<string name="language">Idioma</string>
+<!-- New --> <string name="text_size">Tamanho do texto</string>
+	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Tipo de gráfico</string>
 	<string name="text_report">Relatório texto</string>
@@ -54,15 +57,12 @@
 	</string-array>
 
 	<string name="page_orientation">Orientação da página</string>
-	<string-array name="page_orientation_items">
-		<item>Retrato</item>
-		<item>Paisagem</item>
-	</string-array>
+	<string name="portrait">Retrato</string>
+	<string name="landscape">Paisagem</string>
 
 	<string name="amounts_on_charts">Mostrar quantidades nos gráficos</string>
 	<string name="percentages_on_pie_charts">Mostrar porcentagens nos gráficos de pizza</string>
 	<string name="create_settings_page">Criar página de configurações</string>
-	<string name="create_settings_page_description">Se selecionado, uma página com as configurações do relatório será criada ao enviar ou exportar um documento PDF</string>
 		
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>

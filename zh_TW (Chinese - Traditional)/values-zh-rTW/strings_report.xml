@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    	   
+	<string name="report">報告</string>
+    <string name="reports">報告</string>
+	<string name="view_report">檢視報告</string>
+	<string name="view_reports">檢視報告</string>
+	<string name="report_canceled">報告已取消</string>
+	<string name="export_report">導出報告</string>
+	<string name="report_exported">成功導出到記憶卡</string>
+	<string name="share_report">分享報告</string>
+	<string name="report_settings">報告設定</string>
+	<string name="custom_dates">自定義日期</string>
+	<string name="other">其他</string>
+	<string name="report_empty">There is no data to display</string>
+    <string name="report_settings_instructions_format">To change the settings for the report, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">設置將被重置為它們的默認值</string>
+	<string name="settings_reset">Settings reset</string>
+	<string name="reset_canceled">Reset cancelled</string>
+    <string name="report_settings_tip">To change the settings for a report:\n\n<li>Long-tap on the report’s name and tap <b>Report settings</b></li>\n\n<li>Tap the icon at the top right corner of the screen while the report is displayed</li></string>
+	<string name="report_name">報告名稱</string>
+	<string name="all_reports">所有報告</string>
+	<string name="favorite_reports">收藏報告</string>
+	<string name="save_report_as">儲存報告為</string>
+	<string name="delete_report">刪除報告</string>
+    <string name="rename_report">重新命名報告</string>
+    <string name="duplicate_report">重複報告</string>
+    <string name="delete_report_warning_format">Report ^1 will be permanently deleted</string>
+	<string name="report_type">報告類型</string>
+	<string name="group">組合</string> <!-- This is a verb -->
+	<string name="do_not_group">不要組合</string>
+	<string name="today">今天</string>
+	<string name="tomorrow">明天</string>
+	<string name="yesterday">昨天</string>
+	<string name="select_report">選擇報告</string>
+    <string name="report_folder">報告文件夾</string>
+	<string name="language">Language</string>
+	<string name="text_size">Text size</string>
+	<string name="text_size_sample">Ab</string>
+    
+	<string name="chart_type">圖表類型</string>
+	<string name="text_report">文字報告</string>
+	<string name="pie_chart">餅形統計圖</string>
+	<string name="line_chart">折線圖</string>
+	<string name="bar_chart">棒型圖</string>
+
+	<string name="page_format">頁面 ^1</string>
+
+	<string name="page_size">頁面大小</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>信件</item>
+		<item>Legal</item>
+		<item>Tabloid</item>
+	</string-array>
+
+	<string name="page_orientation">頁面方向</string>
+	<string name="portrait">垂直</string>
+	<string name="landscape">水平</string>
+
+	<string name="amounts_on_charts">在圖表上顯示金額</string>
+	<string name="percentages_on_pie_charts">在餅形統計圖上顯示百分比</string>
+	<string name="create_settings_page">創建設置頁面</string>
+				
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Web page</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>可讀的電子表格應用程序，如 Microsoft® Excel 或 Google™ Docs</item>
+		<item>適用於打印或創建的文件記錄， 需要 Adobe Reader 或其他 PDF 檢視器</item>
+		<item>適用於在網站上發布或在Web瀏覽器中查看</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">指定分享格式</string>
+</resources>

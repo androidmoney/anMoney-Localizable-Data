@@ -123,7 +123,7 @@
 	<string name="archiving">Archiving</string>
 	<string name="archiving_settings">Archiving settings</string>
     <string name="more">More</string>
-    <string name="specify_export_options">Specify export options</string>
+    <string name="specify_options">Specify options</string>
 	<string name="select_all">Select all</string>
 	<string name="unselect_all">Unselect all</string>
 	<string name="expand_all">Expand all</string>

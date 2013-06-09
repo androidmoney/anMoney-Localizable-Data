@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    	   
+    <string name="two_part_format">^1 ^2</string>
+    <string name="sentence_end_period_format">^1。</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="parantheses_format">(^1)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 編號 ^2</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+    <string name="quarter_format">^1 季^2</string> <!-- As in "Q1 2013" -->
+    <string name="filter_by_order_format">^1 從 ^2</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1 從 ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 從 ^2 ^3 由 ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="done">完成</string>
+    <string name="_continue">繼續</string>
+	<string name="continue_question">繼續</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="home">主頁</string>
+	<string name="home_screen">首頁</string>
+    <string name="previous">前一頁</string>
+    <string name="next">後一頁</string>
+    <string name="_import">匯入</string>
+    <string name="imported">已匯入</string>
+    <string name="import_canceled">取消匯入</string>
+    <string name="export">匯出</string>
+    <string name="export_canceled">取消匯出</string>
+	<string name="import_export">匯入/匯出</string>
+    <string name="settings">設定</string>
+    <string name="display_options">顯示選項</string>
+    <string name="add_favorite">加到我的最愛</string>
+    <string name="added_to_favorites">已加到我的最愛</string>
+    <string name="remove">移除</string>
+    <string name="remove_favorite">從我的最愛中移除</string>
+    <string name="removed_from_favorites">已從我的最愛中移除</string>
+    <string name="save">儲存</string>
+    <string name="saved">已儲存</string>
+    <string name="save_canceled">取消儲存</string>
+    <string name="canceled">已取消</string>
+    <string name="delete">刪除</string>
+    <string name="deleted">已刪除</string>
+    <string name="delete_canceled">取消刪除</string>
+    <string name="create">建立</string>
+    <string name="created">已建立</string>
+    <string name="create_canceled">取消建立</string>
+	<string name="create_what">建立什麼</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">編輯</string>
+    <string name="edit_canceled">取消編輯</string>
+	<string name="edit_which">編輯什麼</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="copy">複製</string>
+    <string name="copied">已複製</string>
+    <string name="move">移動</string>
+    <string name="moved">已移動</string>
+    <string name="duplicate">副本</string>
+    <string name="duplicated">已複製</string>
+    <string name="rename">重新命名</string>
+    <string name="renamed">已重新命名</string>
+    <string name="rename_canceled">取消重新命名</string>
+    <string name="link">鏈接</string>
+    <string name="linked">已鏈接</string>
+    <string name="combine">結合</string>
+    <string name="combined">已結合</string>
+    <string name="copy_to_clipboard">複製到剪貼版</string>
+    <string name="set">設定</string>
+	<string name="share">分享</string>
+	<string name="share_canceled">取消分享</string>
+    <string name="create_in_app_name_format">創建於 ^1</string>
+    <string name="pick_from_app_name_format">選擇於 ^1</string>
+    <string name="do_not_ask_again">不要再詢問</string>
+    <string name="apply_to_all">適用於所有</string>
+	<string name="all_items">所有項目</string>
+    <string name="notes">備註</string>
+    <string name="no_notes">還未有備註</string>
+    <string name="required">必要</string>
+    <string name="name">姓名</string>
+    <string name="invalid_name">姓名無效</string>
+    <string name="name_exists">姓名已存在</string>
+    <string name="amount">數量</string>
+    <string name="start_date">開始日期</string>
+    <string name="end_date">結束日期</string>
+    <string name="must_be_less_than_format">必須 &lt; ^1</string>
+    <string name="must_be_greater_than_format">必須 > ^1</string>
+    <string name="reset">重設</string>
+    <string name="total">總共</string>
+    <string name="grand_total">累計</string>
+    <string name="average">平均</string>
+    <string name="export_file_name">導出文件名</string>
+    <string name="specify_export_file_name">指定導出文件名</string>
+    <string name="file_exists">文件名稱已經存在</string>
+    <string name="folder_exists">資料夾名稱已經存在</string>
+    <string name="choose_another_name">選擇其他名稱</string>
+    <string name="will_be_overwritten">這將會被覆蓋</string>
+    <string name="calendar">日歷</string>
+    <string name="remind_me">提醒我</string>
+    <string name="add_as_a_contact">添加為聯繫人</string>
+    <string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
+    <string name="to">致</string> <!-- To <account> -->
+    <string name="from">由</string> <!-- From <account> -->
+	<string name="send_email">存送電郵</string>
+	<string name="please_read">請閱讀</string>
+	<string name="rate_app_format">評分 ^1</string>
+	<string name="please_rate_app_format">請用一點時間\n給 我們評分 ^1</string>
+	<string name="later_rate_description">一星期後會再提醒你</string>
+	<string name="no_rate_description_format">你可以隨時在這裡評分 ^1</string>
+	<string name="task_killer_warning_format">關於“task killer”程式的警告:\n\nYour device will “wake up” once a day to perform automatic processing. Since this processing only lasts a few seconds, it will not have a detrimental effect on the battery life of your device.\n\nTask killers can and will prevent this background processing from properly executing and should not be used with ^1</string>
+	<string name="no_thanks">不用了,謝謝</string>
+	<string name="maybe_later">遲一點再算</string>
+	<string name="unexpected_error_warning">anMoney 發生未知的問題, 需要強制關閉。\n\n 請將錯誤報告電郵給我們, 以便我們能及時處理。 傳送電郵之前你可以修改內容。\n\n 謝謝你的合作!</string>
+    <string name="unexpected_error_notification_ticker">anMoney 發生未知的問題, 需要強制關閉。</string>
+    <string name="unexpected_error_notification_title">anMoney 需要強制關閉</string>
+    <string name="unexpected_error_notification_text">點擊這裡來傳送錯誤報告</string>
+    <string name="unexpected_error_comment">請描述發生問題時, 你執行的工作是什麼</string>
+	<string name="archiving">存檔</string>
+	<string name="archiving_settings">存檔設定</string>
+    <string name="more">更多</string>
+	<string name="select_all">全選</string>
+	<string name="unselect_all">取消全選</string>
+	<string name="expand_all">全部展開</string>
+	<string name="all_expanded">已展開</string>
+	<string name="collapse_all">全部摺疊</string>
+	<string name="all_collapsed">已摺疊</string>
+    <string name="postal_address">郵政地扯</string>
+    <string name="postal_address_hint">街道\n鎮\n郵政編碼</string>
+    <string name="cannot_perform_sd_card_operation">這動作未能成功, 請檢查你設備內的記憶卡, 或者你的的設備正在連接電腦, 使記憶卡暫時無法使用。</string>
+    <string name="cannot_perform_file_system_operation_format">這動作未能成功, 內部存儲路徑 (^1) 訪問不允許。</string>
+    <string name="please_correct_and_try_again">請修正及再試一次</string>
+    <string name="no_network_message_format">^1 需要定期連接網絡來進行許可驗證\n\n請開啟網絡傳輸並再試一次。 完成後, 你可以關閉網絡連線。\n\點擊這兒 ^2 設定 <b>無線 &amp; 網絡</b></string>
+    <string name="calculator">計算機</string>
+    <string name="only_in_full_version">只限專業版本</string>
+    <string name="will_not_effect_transactions">這 <b>不會</b> 影響任何現有交易</string>
+    
+	<string name="free_limitations">請到 <b>Google Play</b> 購買專業版本, 或在<b>Amazon Appstore</b> 解除下列限制:\n\n
+	<li>沒有密碼保護</li>\n
+	<li>沒有自動備份資料</li>\n
+	<li>沒有自定義報告</li>\n
+	<li>只限QIF 匯入</li>\n
+	<li>沒有沒有聯繫整合</li>\n
+	<li>最多2個銀行, 1個信用卡, 及1個現金戶口</li>\n
+	<li>最多5個預算項目</li>\n
+	<li>最多3個經常性帳單或存款</li> 
+	</string>
+
+	<string name="no_items">沒有項目</string>
+    <string name="no_items_yet">還未有項目</string>
+	<string-array name="items_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 項目</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    
+	<string-array name="selected_format_plurals">
+        <item>1 已選擇</item>
+        <item>^1 已選擇</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    
+    <string-array name="reminder_leads">
+        <item>不要再提醒我</item>
+        <item>那一天</item>
+        <item>一日前</item>
+        <item>兩日前</item>
+        <item>一週前</item>
+        <item>兩週前</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1日</item>
+		<item>2日</item>
+		<item>3日</item>
+		<item>4日</item>
+		<item>5日</item>
+		<item>6日</item>
+		<item>7日</item>
+		<item>8日</item>
+		<item>9日</item>
+		<item>10日</item>
+		<item>11日</item>
+		<item>12日</item>
+		<item>13日</item>
+		<item>14日</item>
+		<item>15日</item>
+		<item>16日</item>
+		<item>17日</item>
+		<item>18日</item>
+		<item>19日</item>
+		<item>20日</item>
+		<item>21日</item>
+		<item>22日</item>
+		<item>23日</item>
+		<item>24日</item>
+		<item>25日</item>
+		<item>26日</item>
+		<item>27日</item>
+		<item>28日</item>
+		<item>29日</item>
+		<item>30日</item>
+		<item>31日</item>
+	</string-array>
+
+    <string name="display_direction">顯示方向</string>
+	<string-array name="sort_direction_items">
+		<item>增加</item>
+		<item>減少</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>增加</item>
+		<item>減少</item>
+	</string-array>
+</resources>

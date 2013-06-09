@@ -33,6 +33,9 @@
 	<string name="yesterday">Ahir</string>
 	<string name="select_report">Seleccionar informe</string>
     <string name="report_folder">Carpeta d’informe</string>
+	<string name="language">Idioma</string>
+<!-- New --> <string name="text_size">Mida del text</string>
+	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Tipus de gràfic</string>
 	<string name="text_report">Informe de text</string>
@@ -54,15 +57,12 @@
 	</string-array>
 
 	<string name="page_orientation">Orientació de la pàgina</string>
-	<string-array name="page_orientation_items">
-		<item>Retrat</item>
-		<item>Paisatge</item>
-	</string-array>
+	<string name="portrait">Retrat</string>
+	<string name="landscape">Paisatge</string>
 
 	<string name="amounts_on_charts">Mostrar imports als gràfics</string>
 	<string name="percentages_on_pie_charts">Mostar percentatges als gràfics circulars</string>
 	<string name="create_settings_page">Crear pàgina de paràmetres</string>
-	<string name="create_settings_page_description">Si està seleccionat, una pàgina amb els paràmetres de l’informe serà creada a l’enviar o exportar a un document PDF</string>
 				
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>

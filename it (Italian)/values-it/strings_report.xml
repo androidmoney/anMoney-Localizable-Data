@@ -33,6 +33,9 @@
 	<string name="yesterday">Ieri</string>
 	<string name="select_report">Selezionare report</string>	
     <string name="report_folder">Report cartella</string>
+	<string name="language">Lingua</string>
+<!-- New --> <string name="text_size">Dimensione testo</string>
+	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Tipo grafico</string>
 	<string name="text_report">Testo report</string>
@@ -54,15 +57,12 @@
 	</string-array>
 
 	<string name="page_orientation">Orientamento pagina</string>
-	<string-array name="page_orientation_items">
-		<item>Verticale</item>
-		<item>Orizzontale</item>
-	</string-array>
+	<string name="portrait">Verticale</string>
+	<string name="landscape">Orizzontale</string>
 
 	<string name="amounts_on_charts">Mostra gli importi sui grafici</string>
 	<string name="percentages_on_pie_charts">Mostra percentuali sui grafici a torta</string>
 	<string name="create_settings_page">Creare pagina parametri</string>
-	<string name="create_settings_page_description">Se selezionato, inviando o esportando un documento PDF verrà creata una pagina con i parametri del report</string>
 		
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>

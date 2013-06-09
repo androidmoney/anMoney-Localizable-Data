@@ -289,7 +289,9 @@
         <item>Кириллица (Windows)</item>
         <item>Западноевропейские (Windows)</item>
 		<item>Центральная Европа (Windows)</item>
-    </string-array>
+        <item>UTF-16BE (Юникод)</item>
+        <item>UTF-16LE (Юникод)</item>
+	</string-array>
 
 	<string name="maintain_entries">Управление значениями</string>
 	<string name="maintain_number_field_entries">Управление значениями поля номера</string>

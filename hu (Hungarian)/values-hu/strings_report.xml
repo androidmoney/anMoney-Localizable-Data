@@ -33,7 +33,10 @@
 	<string name="yesterday">Tegnap</string>
 	<string name="select_report">Válassza ki a jelentést</string>
     <string name="report_folder">Jelentés mappája</string>
-		
+	<string name="language">Nyelv</string>
+	<string name="text_size">Szövegméret</string>
+	<string name="text_size_sample">Ab</string>
+			
 	<string name="chart_type">Diagram típusa</string>
 	<string name="text_report">Szöveges jelentés</string>
 	<string name="pie_chart">Kördiagram</string>
@@ -54,15 +57,12 @@
 	</string-array>
 
 	<string name="page_orientation">Oldal tájolása</string>
-	<string-array name="page_orientation_items">
-		<item>Portré</item>
-		<item>Tájkép</item>
-	</string-array>
+	<string name="portrait">Álló</string>
+	<string name="landscape">Fekvő</string>
 
 	<string name="amounts_on_charts">Összegek mutatása a diagramokon</string>
 	<string name="percentages_on_pie_charts">Százalékok mutatása a kördiagramon</string>
 	<string name="create_settings_page">Beállítási lap készítése</string>
-	<string name="create_settings_page_description">Ha jelölt, egy beállításokat mutató lap lesz késztítve a jelentés exportálásakor / küldésekor (csak a PDF-en)</string>
 			
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>
