@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
-    <string name="category_main_sub_separator">:</string>
+<resources xmlns:tools="http://schemas.android.com/tools">    	   
+    <string name="category_main_sub_separator">：</string>
     <string name="category_main_sub_format">^1 ^2 ^3</string>
-    <string name="category">category</string>
-    <string name="categories">categories</string>
-    <string name="subcategory">subcategory</string>
-    <string name="classification">classification</string>
+    <string name="category">Category</string>
+    <string name="categories">Categories</string>
+    <string name="subcategory">Subcategory</string>
+    <string name="classification">Classification</string>
     <string name="_class">Class</string>
     <string name="subclass">Subclass</string>
     <string name="parent_category">Parent category</string>  <!-- This is the main category that a subcategory belongs to -->

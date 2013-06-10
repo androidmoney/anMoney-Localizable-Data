@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    	   
+<resources xmlns:tools="http://schemas.android.com/tools">    	   
     <string name="view_payee">查看收款人</string>
     <string name="edit_payee">編輯收款人</string>
     <string name="new_payee">新增收款人</string>
@@ -23,14 +22,14 @@
     <string name="combine_payees">是否想合拼兩個收款人</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="payee_name">收款人名稱</string>
     <string name="link_payee">你要鏈接收款人到現有的連絡人嗎</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="account_number">帳號</string>
+    <string name="account_number">賬戶號碼</string>
     <string name="phone">電話</string>
     <string name="phone_number">電話號碼</string>
     <string name="email">電子郵件</string>
     <string name="email_address">電郵地扯</string>
     <string name="url">網址</string>
     <string name="web_address">網址</string>
-    <string name="select_account">選擇帳戶</string>
+    <string name="select_account">選擇賬戶</string>
     <string name="open_web_page">打開網頁</string>
     <string name="view_payees">查看收款人</string>
     <string name="default_payee_name">我的收款人</string>
@@ -46,8 +45,8 @@
 	</string-array>
 
     <string name="all_payees">所有收款人</string>
-	<string name="payees_in_open_accounts">Payees in open accounts</string>
-	<string name="payees_in_closed_accounts_only">Payees in closed accounts only</string>
+	<string name="payees_in_open_accounts">在開放賬戶下的收款人</string>
+	<string name="payees_in_closed_accounts_only">僅在封閉賬戶下的收款人</string>
 	<string name="unused_payees">未使用的收款人</string>
 	<string-array name="payee_list_filter_title_bar">
 		<item>@string/all_payees</item>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    	   
+<resources xmlns:tools="http://schemas.android.com/tools">    	   
     <string name="currency">貨幣</string>
     <string name="currencies">貨幣</string>
     <string name="edit_currency">編輯貨幣</string>

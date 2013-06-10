@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="two_part_format">^1 ^2</string>
+    <string name="two_part_format_normal_width">^1 ^2</string>
+    <string name="two_part_format_full_width">^1 ^2</string>
     <string name="sentence_end_period_format">^1.</string>
     <string name="sentence_end_question_mark_format">^1 ?</string>
-    <string name="parantheses_format">(^1)</string>
+    <string name="parantheses_format_normal_width">(^1)</string>
+    <string name="parantheses_format_full_width">(^1)</string>
     <string name="two_items_dash_with_space_format">^1 – ^2</string>
     <string name="two_items_dash_without_space_format">^1–^2</string>
     <string name="colon_format">^1 :</string>

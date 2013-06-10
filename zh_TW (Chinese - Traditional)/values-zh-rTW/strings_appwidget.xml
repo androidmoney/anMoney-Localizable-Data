@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    	   
-	<string name="appwidget_warning_format">看來這安裝在你的記憶卡上。\n\n 這可能會導致widget消失，如果你必須使用widget,我們建議你裝回手機內存上</string>
+<resources xmlns:tools="http://schemas.android.com/tools">    	   
+	<string name="appwidget_warning_format">看來這安裝在你的記憶卡上。\n\n這可能會導致widget消失，如果你必須使用widget, 我們建議你裝回手機內存上</string>
 
     <string name="no_books_warning">放置widget之前, 請建立至少一本書。</string>
     <string name="no_books_and_accounts_warning">放置widget之前, 請建立至少一個賬戶和一本書。</string>
     <string name="no_accounts_warning">放置widget之前, 請建立最少一個賬戶。</string>
     <string name="book_no_longer_exists_format">書本 ^1 不再存在</string>
-    <string name="account_no_longer_exists">帳戶不再存在</string>
+    <string name="account_no_longer_exists">賬戶不再存在</string>
     <string name="report_no_longer_exists">報告不再存在</string>
     <string name="budget_no_longer_exists_format">預算 ^1 不再存在</string>
     
@@ -24,5 +23,5 @@
 
     <string name="app_name_report">anMoney — 報告</string>
 
-	<string name="dash_clock_extension_description">如果有的話，顯示逾期票據或存款。</string>
+	<string name="dash_clock_extension_description">如果有的話，顯示逾期賬單或存款。</string>
 </resources>

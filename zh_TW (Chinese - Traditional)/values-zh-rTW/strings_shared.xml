@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     	   
-    <string name="two_part_format">^1 ^2</string>
+    <string name="two_part_format_normal_width">^1 ^2</string>
+    <string name="two_part_format_full_width">^1　^2</string>
     <string name="sentence_end_period_format">^1。</string>
-    <string name="sentence_end_question_mark_format">^1?</string>
-    <string name="parantheses_format">(^1)</string>
-    <string name="two_items_dash_with_space_format">^1 – ^2</string>
-    <string name="two_items_dash_without_space_format">^1–^2</string>
-    <string name="colon_format">^1:</string>
-    <string name="two_part_slash_format">^1 / ^2</string>
-    <string name="two_part_comma_format">^1, ^2</string>
-	<string name="default_name_format">^1 編號 ^2</string>
+    <string name="sentence_end_question_mark_format">^1？</string>
+    <string name="parantheses_format_normal_width">(^1)</string>
+    <string name="parantheses_format_full_width">（^1）</string>
+    <string name="two_items_dash_with_space_format">^1　－　^2</string>
+    <string name="two_items_dash_without_space_format">^1－^2</string>
+    <string name="colon_format">^1：</string>
+    <string name="two_part_slash_format">^1　／　^2</string>
+    <string name="two_part_comma_format">^1、　^2</string>
+	<string name="default_name_format">^1　編號　^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
     <string name="quarter_format">^1 季^2</string> <!-- As in "Q1 2013" -->
-    <string name="filter_by_order_format">^1 從 ^2</string> <!-- Example: "All accounts by name" -->
-    <string name="filter_by_direction_order_format">^1 從 ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
-    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 從 ^2 ^3 由 ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+    <string name="filter_by_order_format">^1 排序以 ^2　</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1 排序以 ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 排序以 ^2 ^3 在 ^4　</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="yes">是</string>
     <string name="no">否</string>
     <string name="done">完成</string>
@@ -114,14 +116,15 @@
 	<string name="task_killer_warning_format">關於“task killer”程式的警告:\n\nYour device will “wake up” once a day to perform automatic processing. Since this processing only lasts a few seconds, it will not have a detrimental effect on the battery life of your device.\n\nTask killers can and will prevent this background processing from properly executing and should not be used with ^1</string>
 	<string name="no_thanks">不用了,謝謝</string>
 	<string name="maybe_later">遲一點再算</string>
-	<string name="unexpected_error_warning">anMoney 發生未知的問題, 需要強制關閉。\n\n 請將錯誤報告電郵給我們, 以便我們能及時處理。 傳送電郵之前你可以修改內容。\n\n 謝謝你的合作!</string>
-    <string name="unexpected_error_notification_ticker">anMoney 發生未知的問題, 需要強制關閉。</string>
+	<string name="unexpected_error_warning">anMoney 發生未知的問題, 需要強制關閉.\n\n 請將錯誤報告電郵給我們, 以便我們能及時處理. 傳送電郵之前你可以修改內容.\n\n 謝謝你的合作!</string>
+    <string name="unexpected_error_notification_ticker">anMoney 發生未知的問題, 需要強制關閉.</string>
     <string name="unexpected_error_notification_title">anMoney 需要強制關閉</string>
     <string name="unexpected_error_notification_text">點擊這裡來傳送錯誤報告</string>
     <string name="unexpected_error_comment">請描述發生問題時, 你執行的工作是什麼</string>
 	<string name="archiving">存檔</string>
 	<string name="archiving_settings">存檔設定</string>
     <string name="more">更多</string>
+    <string name="specify_export_options">指定導出選項</string>
 	<string name="select_all">全選</string>
 	<string name="unselect_all">取消全選</string>
 	<string name="expand_all">全部展開</string>
@@ -133,7 +136,7 @@
     <string name="cannot_perform_sd_card_operation">這動作未能成功, 請檢查你設備內的記憶卡, 或者你的的設備正在連接電腦, 使記憶卡暫時無法使用。</string>
     <string name="cannot_perform_file_system_operation_format">這動作未能成功, 內部存儲路徑 (^1) 訪問不允許。</string>
     <string name="please_correct_and_try_again">請修正及再試一次</string>
-    <string name="no_network_message_format">^1 需要定期連接網絡來進行許可驗證\n\n請開啟網絡傳輸並再試一次。 完成後, 你可以關閉網絡連線。\n\點擊這兒 ^2 設定 <b>無線 &amp; 網絡</b></string>
+    <string name="no_network_message_format">^1 需要定期連接網絡來進行許可驗證。\n\n請開啟網絡傳輸並再試一次。\n你可以在完成後關閉網絡連線。\n\n 點擊 ^2 設定 <b>行動數據</b></string>
     <string name="calculator">計算機</string>
     <string name="only_in_full_version">只限專業版本</string>
     <string name="will_not_effect_transactions">這 <b>不會</b> 影響任何現有交易</string>
@@ -208,11 +211,11 @@
 
     <string name="display_direction">顯示方向</string>
 	<string-array name="sort_direction_items">
-		<item>增加</item>
-		<item>減少</item>
+		<item>遞增</item>
+		<item>遞減</item>
 	</string-array>
 	<string-array name="sort_direction_title_bar">
-		<item>增加</item>
-		<item>減少</item>
+		<item>遞增</item>
+		<item>遞減</item>
 	</string-array>
 </resources>

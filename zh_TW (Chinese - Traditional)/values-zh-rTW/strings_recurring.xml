@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+	<string name="estimated_indicator">~</string>
+    <string name="recurring_bills_and_deposits">常用賬單 &amp; 存款</string>
+	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
+    <string name="recurring_bills_and_deposits_by_direction_order_format">賬單 &amp; 存款 by ^1 ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="view_recurring">查看常用</string>
+	<string name="new_recurring">新增常用</string>
+	<string name="enter">輸入</string>
+	<string name="entered">已輸入</string>
+	<string name="enter_canceled">輸入已取消</string>
+	<string name="enter_into_register">Enter into register</string>
+	<string name="enter_into_register_warning">Please confirm that you want to enter this into the register right now</string>
+	<string name="enter_now">現在輸入</string>
+	<string name="enter_after_editing">編輯後輸入</string>
+	<string name="enter_partially_after_editing">編輯後輸入部分</string>
+	<string name="move_to_next_occurrence">Move to the next occurrence</string>
+	<string name="remain_on_this_occurrence_format">Remain on this occurrence, if entered amount is less than ^1</string>	    	    	
+	<string name="edit_recurring">編輯常用</string>
+	<string name="edit_series">Edit series</string>
+	<string name="edit_occurrence">Edit occurrence</string>
+	<string name="entire_series">Entire series</string>
+	<string name="edit_template_warning">There are customised future occurrences.\n\nEditing the series will remove these customisations</string>
+	<string name="delete_recurring">刪除常用</string>
+	<string name="delete_recurring_warning_part1_format">刪除 ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="delete_recurring_warning_part2">All future occurrences will be deleted</string>
+	<string name="change_recurring_amount_format">更改常用金額由 ^1 至 ^2</string> <!-- This is a question -->
+	<string name="skip">跳過</string>
+	<string name="skip_occurrence">Skip occurrence</string>
+	<string name="skipped">已跳過</string>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item/> <!-- Not used -->
+		<item>Skipped ^1 occurrences</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="skip_canceled">Skip cancelled</string>
+	<string name="skip_which">Skip which</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="skip_one_occurrence_warning">Skip the upcoming occurrence</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="no_recurrings_format">你沒有任何常用賬單或存款.\n\nTo create one:\n\n<li>^1</li>\n\n<li>Long-tap any transaction and tap ^2</li></string>
+    <string name="create_recurring_instructions_format">Tap ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
+	<string name="recurring_no_accounts_yet">添加常用項目之前，請創建賬戶和收款人</string>
+	<string name="specify_account">請指定賬戶</string>
+	<string name="account_and_amount">賬戶 &amp; Amount</string>
+	<string name="payee_and_category">收款人 &amp; Category</string>
+	<string name="auto_enter_and_reminder">Automatic entry &amp; Reminder</string>
+	<string name="pay_by_check">我以支票付款</string>
+	<string name="amount_is">Amount is</string>
+	<string name="fixed">Fixed</string>
+	<string name="estimated">估計</string>
+	<string name="estimated_amount_format">^1^2</string>
+	<string name="upcoming">近期</string>
+	<string name="no_upcoming">沒有近期賬單或存款</string>
+	<string name="no_upcoming_bills">沒有近期賬單</string>
+	<string name="no_upcoming_deposits">沒有近期存款</string>
+	<string name="enter_automatically">Automatically enter into register</string>
+	<string name="notify_me">通知我</string>
+	<string name="cannot_auto_enter">Due to possible exchange rate fluctuations, recurring bills or deposits that involve transfers between accounts with different currencies will not be entered into the register automatically.\n\nYou will have to manually enter this transaction and specify the exchange rate in effect at that time</string>
+	<string name="entered_recurring_bill">Entered recurring bill</string>
+	<string name="entered_recurring_deposit">Entered recurring deposit</string>
+	<string name="notify_me_when_entered">輸入時在通知欄上通知我</string>
+	<string name="the_last_day_of_the_month">月尾的最後一天</string>
+	<string name="include_in_budget">Include in budget</string>
+	<string name="include_recurrings">Include recurring items</string> <!-- as in "Include recurring items on report" -->
+	<string name="make_recurring_budget_question_part1">Would you like to make this series part of your budget</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part2_format">Even if you tap ^1, you can do this later by editing the series</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+		
+	<!-- These three below form a sentence -->
+	<string name="based_part1">Based on the</string>
+	<string name="based_part2_singular">last</string>
+	<string-array name="based_part2_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>last ^1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>occurrence</item>
+		<item>occurrences</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="upcoming_date">Upcoming date</string> <!-- As in the "the date of the upcoming recurring instance" --> 
+    <string name="series_start_date">Series start date</string> <!-- As in the "the starting date of the entire recurring series" -->
+	<string name="end_date_if_any">Inclusive end date, if any</string>
+	<string name="invalid_date">Invalid date</string>
+	<string name="repeat">Repeat</string>
+	<string name="every_1">Every</string>
+	<string name="every_2"/> <!-- Intentionally left empty -->
+	<string name="every_3"/> <!-- Intentionally left empty -->
+	<string-array name="every_day_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_week_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_month_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_year_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="never">從不</string>
+	<string name="day_upper">日</string>
+	<string name="day_lower">日</string>
+	<string name="days_upper">日</string>
+	<string name="daily">每天</string>
+	<string name="week_upper">週</string>
+	<string name="weeks_upper">週</string>
+	<string name="weekly">每週</string>
+	<string name="biweekly">隔週</string>
+	<string name="two_weeks">每兩週</string>
+	<string name="month_upper">月</string>
+	<string name="month_lower">月</string>
+	<string name="months_upper">月</string>
+	<string name="monthly">每月</string>
+	<string name="twice_a_month">每月兩次</string>
+	<string name="quarter_upper">季</string>
+	<string name="quarters_upper">Quarters</string>
+	<string name="quarterly">每季</string>
+	<string name="half_year">半年</string>
+	<string name="half_yearly">每半年一次</string>
+	<string name="year_upper">年</string>
+	<string name="year_lower">年</string>
+	<string name="years_upper">年</string>
+	<string name="yearly">每年</string>
+	<string-array name="day_plurals">
+		<item>@string/day_lower</item>
+		<item>days</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="week_plurals">
+		<item>week</item>
+		<item>weeks</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="month_plurals">
+		<item>@string/month_lower</item>
+		<item>months</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="year_plurals">
+		<item>@string/year_lower</item>
+		<item>years</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
+	<string name="if_it_falls_on_a_weekend">If the date falls on the weekend</string>
+	<string name="skip_weekends">Skip weekends</string>
+	
+	<string name="overdue_count_format">^1/^2</string>
+	<string-array name="overdue_plurals">
+		<item>1 逾期</item>
+		<item>^1 逾期</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="overdue_count_plurals">
+		<item>^1 逾期賬單或存款</item>
+		<item>^1 逾期賬單或存款</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="enter_into_register_fixed_amount_items">
+		<item>@string/enter_now</item>
+		<item>優先編輯交易</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">使用今天的日期為交易日</string>
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 選定的常用項目將被輸入</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+	<string-array name="skip_which_items">
+		<item>即將發生</item>
+		<item>所有逾期事件</item>
+	</string-array>
+
+	<string-array name="workday_adjustment_methods">
+		<item>什麼都不做</item>
+		<item>將它移動到前一週</item>
+		<item>將它移動到下一週</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>在 1<sup><small>st</small></sup></item>
+		<item>在 2<sup><small>nd</small></sup></item>
+		<item>在 3<sup><small>rd</small></sup></item>
+		<item>在 4<sup><small>th</small></sup></item>
+		<item>在 5<sup><small>th</small></sup></item>
+		<item>在 6<sup><small>th</small></sup></item>
+		<item>在 7<sup><small>th</small></sup></item>
+		<item>在 8<sup><small>th</small></sup></item>
+		<item>在 9<sup><small>th</small></sup></item>
+		<item>在 10<sup><small>th</small></sup></item>
+		<item>在 11<sup><small>th</small></sup></item>
+		<item>在 12<sup><small>th</small></sup></item>
+		<item>在 13<sup><small>th</small></sup></item>
+		<item>在 14<sup><small>th</small></sup></item>
+		<item>在 15<sup><small>th</small></sup></item>
+		<item>在 16<sup><small>th</small></sup></item>
+		<item>在 17<sup><small>th</small></sup></item>
+		<item>在 18<sup><small>th</small></sup></item>
+		<item>在 19<sup><small>th</small></sup></item>
+		<item>在 20<sup><small>th</small></sup></item>
+		<item>在 21<sup><small>st</small></sup></item>
+		<item>在 22<sup><small>nd</small></sup></item>
+		<item>在 23<sup><small>rd</small></sup></item>
+		<item>在 24<sup><small>th</small></sup></item>
+		<item>在 25<sup><small>th</small></sup></item>
+		<item>在 26<sup><small>th</small></sup></item>
+		<item>在 27<sup><small>th</small></sup></item>
+		<item>在 28<sup><small>th</small></sup></item>
+		<item>在 29<sup><small>th</small></sup></item>
+		<item>在 30<sup><small>th</small></sup></item>
+		<item>在 31<sup><small>st</small></sup></item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month_and_on_the">
+		<item>在 1<sup><small>st</small></sup> 和 在</item>
+		<item>在 2<sup><small>nd</small></sup> 和 在</item>
+		<item>在 3<sup><small>rd</small></sup> 和 在</item>
+		<item>在 4<sup><small>th</small></sup> 和 在</item>
+		<item>在 5<sup><small>th</small></sup> 和 在</item>
+		<item>在 6<sup><small>th</small></sup> 和 在</item>
+		<item>在 7<sup><small>th</small></sup> 和 在</item>
+		<item>在 8<sup><small>th</small></sup> 和 在</item>
+		<item>在 9<sup><small>th</small></sup> 和 在</item>
+		<item>在 10<sup><small>th</small></sup> 和 在</item>
+		<item>在 11<sup><small>th</small></sup> 和 在</item>
+		<item>在 12<sup><small>th</small></sup> 和 在</item>
+		<item>在 13<sup><small>th</small></sup> 和 在</item>
+		<item>在 14<sup><small>th</small></sup> 和 在</item>
+		<item>在 15<sup><small>th</small></sup> 和 在</item>
+		<item>在 16<sup><small>th</small></sup> 和 在</item>
+		<item>在 17<sup><small>th</small></sup> 和 在</item>
+		<item>在 18<sup><small>th</small></sup> 和 在</item>
+		<item>在 19<sup><small>th</small></sup> 和 在</item>
+		<item>在 20<sup><small>th</small></sup> 和 在</item>
+		<item>在 21<sup><small>st</small></sup> 和 在</item>
+		<item>在 22<sup><small>nd</small></sup> 和 在</item>
+		<item>在 23<sup><small>rd</small></sup> 和 在</item>
+		<item>在 24<sup><small>th</small></sup> 和 在</item>
+		<item>在 25<sup><small>th</small></sup> 和 在</item>
+		<item>在 26<sup><small>th</small></sup> 和 在</item>
+		<item>在 27<sup><small>th</small></sup> 和 在</item>
+		<item>在 28<sup><small>th</small></sup> 和 在</item>
+		<item>在 29<sup><small>th</small></sup> 和 在</item>
+		<item>在 30<sup><small>th</small></sup> 和 在</item>
+		<item>在 31<sup><small>st</small></sup> 和 在</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_month">在當月的最後一天</string>
+	<string-array name="on_the_nth_day_of_the_week_format">
+		<item>在第一 ^1</item>
+		<item>在第二 ^1</item>
+		<item>在第三 ^1</item>
+		<item>在第四 ^1</item>
+	</string-array>
+	<string-array name="on_the_nth_day_of_the_week_days">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string name="on_the_last_day_of_the_week_format">在最後的 ^1</string>
+
+	<string name="work_week">工作週</string>
+	<string name="period_end_day_of_the_month">一個月的最後一天</string>
+	<string name="fiscal_year">財政年度</string>
+	
+	<string name="time_of_reminder">Time of reminder</string>
+	<string name="reminder_hour_of_day_change_warning">請注意，現有的提醒，將<b>不會</b>進行修改。請自行到手機中的日曆進行相關修改。
+	\n\nThe new time will be used for any new reminders as well as upcoming instances of existing recurring bills or deposits</string>
+
+	<string-array name="auto_enter_days_before">
+		<item>不要自動輸入</item>
+		<item>於到期日</item>
+		<item>到期日前一天</item>
+		<item>到期日前兩天</item>
+		<item>到期日前三天</item>
+		<item>到期日前一週</item>
+		<item>到期日前兩週</item>
+		<item>到期日前三週</item>
+		<item>到期日前一月</item>
+	</string-array>	
+	
+	<string-array name="days_before_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 日前</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+	<string-array name="days_before_due_date_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>到期日前^1天</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+	<string name="specify_custom_number_of_days">指定自定義的天數</string>
+</resources>

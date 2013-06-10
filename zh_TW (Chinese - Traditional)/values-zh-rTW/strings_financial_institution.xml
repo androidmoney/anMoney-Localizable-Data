@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-
     <string name="financial_institution">金融機構</string>
     <string name="financial_institutions">金融機構</string>
-    <string name="financial_institution_bank_first">Financial institution with bank accounts first</string>
-    <string name="financial_institution_cash_first">Financial institution with cash first</string>
+    <string name="financial_institution_bank_first">金融機構為一組，銀行賬戶優先</string>
+    <string name="financial_institution_cash_first">金融機構為一組，現金優先</string>
     <string name="view_financial_institution">檢視金融機構</string>
     <string name="edit_financial_institution">編輯金融機構</string>
     <string name="call_financial_institution">致電給金融機構</string>

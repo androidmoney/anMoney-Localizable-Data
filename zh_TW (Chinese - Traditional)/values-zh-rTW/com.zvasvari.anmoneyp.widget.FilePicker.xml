@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-
 	<string name="FilePicker_open_folder">開啟資料夾</string>
 	<string name="FilePicker_select_file">選擇檔案</string>
 	<string name="FilePicker_deselect_file">取消選擇檔案</string>

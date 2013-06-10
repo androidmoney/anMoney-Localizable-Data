@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
-    <string name="book">記帳</string>
-    <string name="new_book">新增記帳</string>
+<resources xmlns:tools="http://schemas.android.com/tools">    	   
+    <string name="book">記賬本</string>
+    <string name="new_book">新增記賬本</string>
     <string name="new_book_name">New book name</string>
-    <string name="rename_book">重新命名記帳</string>
-    <string name="delete_book">刪除記帳</string>
-    <string name="share_book">分享記帳</string>
-    <string name="book_delete_warning_short_format">記帳 ^1 會被刪除</string>
-    <string name="all_data_will_be_lost">如果沒有備份，在這本記帳中的所有數據將永久丟失</string>
-    <string name="import_into_book">導入到記帳</string>
-    <string name="export_from_book">從記帳中導出</string>
-    <string name="import_into_book_format">導入到記帳 ^1</string>
-    <string name="no_books">你沒有任何記帳</string>
-    <string name="upgrading_book">升級記帳</string>
-    <string name="upgrading_books">升級多個記帳</string>
+    <string name="rename_book">重新命名記賬本</string>
+    <string name="delete_book">刪除記賬本</string>
+    <string name="share_book">分享記賬本</string>
+    <string name="book_delete_warning_short_format">記賬本 ^1 會被刪除</string>
+    <string name="all_data_will_be_lost">如果沒有備份，在這本記賬本中的所有數據將永久丟失</string>
+    <string name="import_into_book">導入到記賬本</string>
+    <string name="export_from_book">從記賬本中導出</string>
+    <string name="import_into_book_format">導入到記賬本 ^1</string>
+    <string name="no_books">你沒有任何記賬本</string>
+    <string name="upgrading_book">升級記賬本</string>
+    <string name="upgrading_books">升級多個記賬本</string>
     <string name="backup">備份</string>
     <string name="backup_canceled">取消備份</string>
-    <string name="backup_book">備份記帳</string>
+    <string name="backup_book">備份記賬本</string>
     <string name="overwrite">覆蓋</string>
     <string name="backup_name">備份名稱</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
     <string name="restore">恢復</string>
     <string name="restored">已恢復</string>
     <string name="restore_canceled">取消恢復</string>
-    <string name="restore_book">還原記帳</string>
-    <string name="restore_warning_format">記帳將會被覆蓋，<b>所有</b>數據將會無法復原</string>
+    <string name="restore_book">還原記賬本</string>
+    <string name="restore_warning_format">記賬本將會被覆蓋，<b>所有</b>數據將會無法復原</string>
     <string name="select_backup_file_to_restore">選擇備份文件</string>
     <string name="select_backup_file_to_create_from">選擇備份文件創建</string>
     <string name="import_statement">導入語句</string>
@@ -39,94 +37,94 @@
         <item>^1 已選擇的文件將會被刪除</item>
         <item/> <!-- Not used -->
 	</string-array>
-    <string name="select_book">選擇記帳</string>
+    <string name="select_book">選擇記賬本</string>
     <string name="select_book_to_import_into">Select book to import statement into</string>
     <string name="select_import_file">Select file(s) to import</string>
     <string name="not_specified_brackets">&lt;Not specified></string>
     <string name="map_accounts">Map accounts</string>
     <string name="configure_account_mappings">Configure account mappings</string>
     <string name="account_required">Account required</string>
-    <string name="duplicate_name">Duplicate name</string>
-    <string name="options">Options</string>
-    <string name="select_options">Select import options</string>
-    <string name="remove_duplicates">Remove duplicates</string>
+    <string name="duplicate_name">重複名稱</string>
+    <string name="options">選項</string>
+    <string name="select_options">選擇導入選項</string>
+    <string name="remove_duplicates">刪除重複</string>
     <string name="remove_duplicates_notes">While this should work correctly in the great majority of cases, there may be issues, especially if the accounts have amounts in different currencies. In these cases, matching is not possible. After import, please check that the balances are correct</string>
     <string name="import_classes">Import classes</string>
     <string name="ignore_memos">Ignore the memo field</string>
     <string name="create_payees_in_app_name_format">Create payees in ^1</string>
     <string name="contact_account">Contact account to create payees in</string>
-    <string name="select_import_mode">Select import mode</string>
-    <string name="select_accounts_to_export">Select account(s) to export</string>
-    <string name="specify_export_file_format">Specify export file format</string>
+    <string name="select_import_mode">選擇導入模式</string>
+    <string name="select_accounts_to_export">選擇賬戶以導出</string>
+    <string name="specify_export_file_format">指定導出文件格式</string>
     <string name="mark_transactions_exported">Mark transactions as exported</string>
-    <string name="create_single_file">Create a single file</string>
+    <string name="create_single_file">創建一個單獨的文件</string>
     <string name="no_transactions_matched_your_selection_criteria">No transactions matched your selection criteria.\n\nNo export file(s) have been created</string>
-	<string name="import_folder">Import folder</string>
-	<string name="export_folder">Export folder</string>
-    <string name="ask_to_view_imported_transaction">Would you like to view the imported transactions</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="import_folder">導入文件夾</string>
+	<string name="export_folder">導出文件夾</string>
+    <string name="ask_to_view_imported_transaction">你想查看導入的交易嗎</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="tip">Tip</string>
-    <string name="user_guide">User’s guide</string>
+    <string name="user_guide">用戶指南</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
-    <string name="whats_new">What’s new</string>
+    <string name="whats_new">最新資訊</string>
     <string name="license">License</string>
 <!--     
     <string name="accept_license">Accept license</string>
     <string name="decline">Decline</string>
  -->    
-    <string name="thank_you">Thank you!</string>
-    <string name="password">Password</string>
-    <string name="old_password">Old password</string>
-    <string name="new_password">New password</string>
-    <string name="verify_password">Verify password</string>
-    <string name="enter_password">Enter password</string>
-    <string name="incorrect_password">Incorrect password. Please re-enter</string>
-    <string name="set_password">Set password</string>
-    <string name="password_set">Password set</string>
-    <string name="edit_password">Edit password</string>
-    <string name="remove_password">Remove password</string>
-    <string name="password_removed">Password removed</string>
+    <string name="thank_you">感謝!</string>
+    <string name="password">密碼</string>
+    <string name="old_password">舊密碼</string>
+    <string name="new_password">新密碼</string>
+    <string name="verify_password">確認密碼</string>
+    <string name="enter_password">輸入確認</string>
+    <string name="incorrect_password">密碼錯誤，請重新輸入</string>
+    <string name="set_password">設置密碼</string>
+    <string name="password_set">重置密碼</string>
+    <string name="edit_password">修改密碼</string>
+    <string name="remove_password">移除密碼</string>
+    <string name="password_removed">密碼已被移除</string>
     <string name="remove_password_message">The password will be removed.\n\nYour data will be visible to anybody who may have access to your device</string>
-    <string name="password_has_not_been_changed">Password has not been changed</string>
-    <string name="passwords_dont_match">Passwords do not match</string>
-    <string name="case_sensitive">case sensitive</string>
+    <string name="password_has_not_been_changed">密碼並未改變</string>
+    <string name="passwords_dont_match">密碼不匹配</string>
+    <string name="case_sensitive">大小寫區分</string>
     <string name="disclaimer">Disclaimer</string>
     <string name="password_disclaimer">Please read this disclaimer and check the box at end.\n\nNote that the password feature was designed as a way to provide privacy from “prying eyes.”  Due to the limitations of the platform, actual encryption of the data is not feasible and somebody with advanced skills could access your data even with a password present.\n\nIt is highly recommended that you protect your device with a lock pattern or PIN for additional security</string>
-    <string name="i_understand_the_limitations">I understand these limitations</string>
-    <string name="set_password_now_part1">Set a password now</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="i_understand_the_limitations">我明白這些限制</string>
+    <string name="set_password_now_part1">是否現在設置密碼</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="set_password_now_part2_format">Even if you answer ^1, you will have the option to set a password at any time by long-tapping on the book’s name and tapping ^2</string>
     <string name="folder_name_format">Folder name (use ^1 for subfolders)</string>
-    <string name="no_backup_files">No backup files found</string>
-    <string name="no_backup_files_new_instructions">If you are trying to create a book using an import file, please create a book from scratch first, then import into it</string>
-    <string name="remove_transactions">Remove transactions older than the date below</string>
+    <string name="no_backup_files">未找到備份文件</string>
+    <string name="no_backup_files_new_instructions">如果您嘗試使用導入文件創建一本記賬本， 從新開始創建一個新的記憶本，然後再導入</string>
+    <string name="remove_transactions">刪除在此日期前的交易</string>
     <string name="book_to_make_copy_of">Book to make a copy of</string>
     <string name="truncate_warning_format">All transactions prior to ^1 will unrecoverably be destroyed</string>
-    <string name="information_and_help">Information &amp; help</string>
-    <string name="discussion_forum">Discussion forum</string>
-    <string name="join_the_user_community_format">Join the ^1 users’ community</string>
-    <string name="contact_us">Contact us</string>
-    <string name="email_the_developers">Email the developers directly</string>
-    <string name="tap_to_display_import_settings_format">Tapping ^1 will display the import settings screen</string>
+    <string name="information_and_help">資訊 &amp; 幫助</string>
+    <string name="discussion_forum">討論區</string>
+    <string name="join_the_user_community_format">加入 ^1 用戶社區</string>
+    <string name="contact_us">聯絡我們</string>
+    <string name="email_the_developers">直接電郵給開發者</string>
+    <string name="tap_to_display_import_settings_format">點擊 ^1 將顯示導入設置</string>
     <string name="verify_import_settings">Please verify that the chosen default settings are, in fact, correct for the file you are importing. If everything looks good, press the <b>Back</b> arrow to continue with the import process</string>
     <string name="change_settings_instructions_format">This message will not appear for subsequent imports, but you can change the settings at any time by tapping ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">The following setting(s) appear to be incorrect for the file you are trying to import</string>
     <string name="qif_csv_encoding_explanation_format">Typically ^1 should be used for the languages in the list below, but some financial institutions may produce files where ^2 has to be selected for them to import properly.\n\nFor all other languages NOT on the list, ^2 should always be selected</string>
     <string name="credits_legal">Credits &amp; legal</string>
-    <string name="contact_and_social">Contact &amp; social</string>
-    <string name="follow_us">Follow us</string>
+    <string name="contact_and_social">聯絡 &amp; social</string>
+    <string name="follow_us">訂閱我們</string>
     <string name="add_us_to_circle">Add us to your circles and +1 us</string>
-    <string name="become_a_fan">Become a fan</string>
-    <string name="haptic_feedback">Haptic feedback</string>
-    <string name="haptic_feedback_description">If selected, vibrate when tapping the buttons</string>
-	<string name="default_book_name">My book</string>
-	<string name="color_theme">Colour theme</string>
-	<string name="dark">Dark</string>  <!-- As in "dark color theme" -->
-	<string name="light">Light</string> <!-- As in "opposite of dark" -->
-	<string name="preview">Preview</string>
+    <string name="become_a_fan">成為粉絲</string>
+    <string name="haptic_feedback">觸覺反饋</string>
+    <string name="haptic_feedback_description">選定選項時，手機會震動</string>
+	<string name="default_book_name">我的記賬本</string>
+	<string name="color_theme">顏色主題</string>
+	<string name="dark">深色</string>  <!-- As in "dark color theme" -->
+	<string name="light">淺色</string> <!-- As in "opposite of dark" -->
+	<string name="preview">預覽</string>
 	
 	<string-array name="book_new_source">
-	    <item>Create from scratch</item>
-	    <item>Create from backup</item>
-	    <item>Copy from existing book</item>
+	    <item>從新開始創建</item>
+	    <item>從備份創建</item>
+	    <item>從現有記賬本複製</item>
     </string-array>
 
 	<string-array name="book_new_source_descriptions">
@@ -146,63 +144,63 @@
     </string-array>
 
 	<string-array name="book_export_file_type_description">
-        <item>Depending on the classifications and categories you use, may only be readable by Microsoft® Money</item>
-        <item>Readable by all applications supporting the QIF format</item>
-        <item>Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
+        <item>根據您使用的分類和類別，可能只有Microsoft® Money能讀取</item>
+        <item>所有支持QIF格式的應用程式都能讀取</item>
+        <item>支持電子表格應用程式，例如Microsoft® Excel 或 Google™ Docs。 The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
     </string-array>
 
-    <string name="import_file_confirm_format">Do you want to import ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="import_file_confirm_format">你是否想導入 ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
         <item/> <!-- Not used -->
-        <item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item>你是否想導入 ^1 檔案</item> <!-- This is a question, but the question mark will be added progrmatically -->
         <item/> <!-- Not used -->
     </string-array>
 
-    <string name="general">General</string>
-    <string name="starting_screen">Starting screen</string>
-    <string name="negative_amount_format">Negative amount format</string>
+    <string name="general">一般</string>
+    <string name="starting_screen">開始屏幕</string>
+    <string name="negative_amount_format">負數格式</string>
     
-    <string name="show_currency_symbol">Show currency symbol</string>
+    <string name="show_currency_symbol">顯示貨幣符號</string>
 	<string-array name="show_currency_symbol_items">
 		<item>According to the currency</item>
 		<item>Before the amount</item>
 		<item>After the amount</item>
 	</string-array>
 	
-    <string name="base_currency">Base currency</string>
-    <string name="space_between_symbol_and_amount">Space between the symbol and the amount</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+    <string name="base_currency">基礎貨幣</string>
+    <string name="space_between_symbol_and_amount">在貨幣符號和金額之間添加空位</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
     
-    <string name="password_time_out_period">Password time-out period</string>
+    <string name="password_time_out_period">密碼有效週期</string>
 	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
-        <item>^1 seconds</item>
+        <item>^1 秒</item>
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
-        <item>1 minute</item>
-        <item>^1 minutes</item>
+        <item>1 分鐘</item>
+        <item>^1 分鐘</item>
         <item/> <!-- Not used -->
 	</string-array>
     
-    <string name="set_button_behavior_format">^1 button behaviour</string>
+    <string name="set_button_behavior_format">^1 按鈕行為</string>
 	<string-array name="set_button_behavior_items">
-		<item>Sets the currently displayed number</item>
+		<item>設置當前顯示的號碼</item>
 		<item>Completes calculation and sets its result</item>
 	</string-array>
 
-    <string name="confirmations_and_warnings">Confirmations &amp; warnings</string>
+    <string name="confirmations_and_warnings">確認 &amp; 警告</string>
 
-    <string name="warn_if_no_category">Warn, if no category</string>
-    <string name="warn_if_no_category_description">If selected, a warning is displayed when there is no category specified</string>
+    <string name="warn_if_no_category">沒有類別時顯示警告</string>
+    <string name="warn_if_no_category_description">在沒有指定類別時顯示警告訊息。</string>
     
-    <string name="warn_if_incorrect_category_type">Warn, if incorrect category type</string>
-    <string name="warn_if_incorrect_category_type_description">If selected, a warning is displayed if the wrong type of category is specified</string>
+    <string name="warn_if_incorrect_category_type">錯誤類別時顯示警告</string>
+    <string name="warn_if_incorrect_category_type_description">在指定了錯誤類別時顯示警告訊息。</string>
     
-    <string name="modification_confirmation">Modification confirmation</string>
+    <string name="modification_confirmation">修改確認</string>
 	<string-array name="modification_confirmation_items">
-		<item>None</item>
+		<item>無</item>
 		<item>Reconciled only</item>
-		<item>All</item>
+		<item>所有</item>
 	</string-array>
 	
     <string name="back_press_prompt">Back press prompt</string>
@@ -287,22 +285,20 @@
 	<string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
-        <item>GBK (國家標準)</item>
+        <item>GBK (Chinese national standard)</item>
         <item>Cyrillic (Windows)</item>
         <item>Western European (Windows)</item>
         <item>Central European (Windows)</item>
-        <item>UTF-16BE (Unicode)</item>
-        <item>UTF-16LE (Unicode)</item>
-	</string-array>
+    </string-array>
 
-    <string name="maintain_entries">Maintain entries</string>
+    <string name="maintain_entries">維護賬目</string>
     <string name="maintain_number_field_entries">Maintain number field entries</string>
     <string name="maintain_number_field_entries_description">Allows you to delete no longer used transaction number field entries</string>
 
     <string name="delete_entry_warning_format">Entry ^1 will be deleted</string>
     <string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
-        <item>^1 條目將會被刪除</item>
+        <item>^1 賬目將會被刪除</item>
         <item/> <!-- Not used -->
     </string-array>
 </resources>

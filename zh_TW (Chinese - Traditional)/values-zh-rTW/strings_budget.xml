@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    	   
     <string name="budget">預算</string>
     <string name="view_budget">檢視預算</string>
     <string name="edit_budget_item">編輯預算項目</string>
