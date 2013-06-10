@@ -277,8 +277,7 @@
 	<string name="fiscal_year">財政年度</string>
 	
 	<string name="time_of_reminder">Time of reminder</string>
-	<string name="reminder_hour_of_day_change_warning">請注意，現有的提醒，將<b>不會</b>進行修改。請自行到手機中的日曆進行相關修改。
-	\n\nThe new time will be used for any new reminders as well as upcoming instances of existing recurring bills or deposits</string>
+	<string name="reminder_hour_of_day_change_warning">請注意，現有的提醒，將<b>不會</b>進行修改。請自行到手機中的日曆進行相關修改。\n\nThe new time will be used for any new reminders as well as upcoming instances of existing recurring bills or deposits</string>
 
 	<string-array name="auto_enter_days_before">
 		<item>不要自動輸入</item>

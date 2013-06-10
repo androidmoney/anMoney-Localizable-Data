@@ -70,7 +70,7 @@
     <string name="account_not_found">找不到賬戶</string>
     <string name="cannot_transfer_to_itself">無法轉移到自身</string>
     <string name="cannot_copy_to_itself">無法複製或移動到自身</string>
-    <string name="copy_move_currency_warning">目標賬戶有不同的基礎貨幣，您可能需要調整目標賬戶的交易金額。</string>
+    <string name="copy_move_currency_warning">目標賬戶有不同的基礎貨幣，您可能需要調整目標賬戶的交易金額</string>
     <string name="all_transactions_hidden_by_filter">所有交易都被顯示過濾器隱藏</string>
     <string name="show_number">顯示數目</string>
     <string name="show_number_description">顯示數目</string>
@@ -87,13 +87,13 @@
     <string name="transaction_modified_reconciled_message">對賬交易將被修改</string>
     <string name="transaction_modified_related_reconciled_message">The other side of this transaction, which is reconciled, will be modified</string>
     <string name="records_may_differ">這可能會導致你的記錄，不同於金融機構</string>
-    <string name="missing_category_warning_message_format">我們強烈建議指定類別，因為沒有它，花費報告可能不準確。\n\n　點擊 ^1 保存交易及保持類別為空，或者 ^2 返回修改交易。</string>
+    <string name="missing_category_warning_message_format">我們強烈建議指定類別，因為沒有它，花費報告可能不準確。\n\n　點擊 ^1 保存交易及保持類別為空，或者 ^2 返回修改交易</string>
     <string name="expense_category_given_for_income_message_format">An expense category is specified for ^1.\n\nTap ^2 to leave the category as is, or ^3 to go back to editing the transaction</string> <!-- the ^1 parameter comes from amount1_description array -->
     <string name="income_category_given_for_expense_message_format">An income category is specified for ^1.\n\nTap ^2 to leave the category as is, or ^3 to go back to editing the transaction</string> <!-- the ^2 parameter comes from amount2_description array -->
     <string name="payee_not_found_format">收款人 ^1 未能找到</string>
     <string name="payer_not_found_format">付款人 ^1　未能找到</string>
     <string name="would_you_like_to_create_it">你是否想創建</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="amount_zero_warning_message_format">交易金額為零。　\n\n點擊 ^1 保持金額為零，或者 ^2 輸入無效的交易。</string>
+    <string name="amount_zero_warning_message_format">交易金額為零。　\n\n點擊 ^1 保持金額為零，或者 ^2 輸入無效的交易</string>
     <string name="sum_of_splits_warning_message_format">The sum of the splits does not match the transaction amount.\n\nTap ^1 to edit the splits</string>
     <string name="duplicate_number_message_format">A transaction dated ^1 is already using this cheque number.\n\nTap ^2 to reuse the cheque number, or ^3 to go back to editing the transaction</string>
     <string name="leave_zero">Leave 0</string>

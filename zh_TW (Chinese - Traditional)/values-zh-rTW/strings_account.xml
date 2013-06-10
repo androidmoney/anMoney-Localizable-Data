@@ -62,8 +62,8 @@
     <string name="copy_account_number">複製賬戶號碼</string>
     <string name="book_total">記賬總計</string>
     <string name="favorites_total">Favourites total</string>
-	<string name="delete_account_warning_part1_format">賬戶 ^1 將被永久刪除。\n\n所有此賬號下的交易都會被刪除。</string>
-	<string name="delete_account_warning_part2_format">如果只想隱藏賬戶及保存交易記錄，點擊 ^1 及「關閉賬號」。</string>
+	<string name="delete_account_warning_part1_format">賬戶 ^1 將被永久刪除。\n\n所有此賬號下的交易都會被刪除</string>
+	<string name="delete_account_warning_part2_format">如果只想隱藏賬戶及保存交易記錄，點擊 ^1 及「關閉賬號」</string>
 	<string name="no_accounts">您沒有任何賬戶</string>
     <string name="create_account_instructions_format">要創建一個賬戶，在屏幕上方點擊 ^i</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">您沒有該賬戶的任何交易</string>

@@ -191,10 +191,10 @@
     <string name="confirmations_and_warnings">確認 &amp; 警告</string>
 
     <string name="warn_if_no_category">沒有類別時顯示警告</string>
-    <string name="warn_if_no_category_description">在沒有指定類別時顯示警告訊息。</string>
+    <string name="warn_if_no_category_description">在沒有指定類別時顯示警告訊息</string>
     
     <string name="warn_if_incorrect_category_type">錯誤類別時顯示警告</string>
-    <string name="warn_if_incorrect_category_type_description">在指定了錯誤類別時顯示警告訊息。</string>
+    <string name="warn_if_incorrect_category_type_description">在指定了錯誤類別時顯示警告訊息</string>
     
     <string name="modification_confirmation">修改確認</string>
 	<string-array name="modification_confirmation_items">

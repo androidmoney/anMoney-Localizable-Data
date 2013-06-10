@@ -61,7 +61,7 @@
 	</record>
 	<record>
 		<mainCategory>賬單</mainCategory>
-		<subcategory>垃圾/資源回收</subcategory>
+		<subcategory>垃圾／資源回收</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -86,7 +86,7 @@
 	</record>
 	<record>
 		<mainCategory>賬單</mainCategory>
-		<subcategory>天然氣/石油</subcategory>
+		<subcategory>天然氣／石油</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -121,7 +121,7 @@
 	</record>
 	<record>
 		<mainCategory>賬單</mainCategory>
-		<subcategory>水/污水</subcategory>
+		<subcategory>水／污水</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -139,17 +139,17 @@
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>兒童 / 玩具</mainCategory>
+		<mainCategory>兒童／玩具</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>兒童 / 玩具</mainCategory>
+		<mainCategory>兒童／玩具</mainCategory>
 		<subcategory>子女撫養費</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>兒童 / 玩具</mainCategory>
+		<mainCategory>兒童／玩具</mainCategory>
 		<subcategory>托兒</subcategory>
 		<expense>1</expense>
 	</record>
@@ -159,7 +159,7 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>信用卡付款　/　轉賬</mainCategory>
+		<mainCategory>信用卡付款／轉賬</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -243,48 +243,48 @@
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
+		<mainCategory>嗜好／休閒</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
-		<subcategory>書籍/雜誌</subcategory>
+		<mainCategory>嗜好／休閒</mainCategory>
+		<subcategory>書籍／雜誌</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
+		<mainCategory>嗜好／休閒</mainCategory>
 		<subcategory>文化活動</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
+		<mainCategory>嗜好／休閒</mainCategory>
 		<subcategory>娛樂</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
-		<subcategory>電影/視頻租賃</subcategory>
+		<mainCategory>嗜好／休閒</mainCategory>
+		<subcategory>電影／視頻租賃</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
+		<mainCategory>嗜好／休閒</mainCategory>
 		<subcategory>體育賽事</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
+		<mainCategory>嗜好／休閒</mainCategory>
 		<subcategory>體育用品</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
-		<subcategory>錄音帶 / CDs</subcategory>
+		<mainCategory>嗜好／休閒</mainCategory>
+		<subcategory>錄音帶／CDs</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>嗜好/休閒</mainCategory>
-		<subcategory>玩具/遊戲</subcategory>
+		<mainCategory>嗜好／休閒</mainCategory>
+		<subcategory>玩具／遊戲</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -329,7 +329,7 @@
 	</record>
 	<record>
 		<mainCategory>保險</mainCategory>
-		<subcategory>業主的/租戶的</subcategory>
+		<subcategory>業主的／租戶的</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -378,7 +378,7 @@
 		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
 	</record>
 	<record>
-		<mainCategory>按揭/租金</mainCategory>
+		<mainCategory>按揭／租金</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -408,38 +408,38 @@
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>家居電話/手機</mainCategory>
+		<mainCategory>家居電話／手機</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>服務/會員</mainCategory>
-		<expense>1</expense>
-		<short>1</short>
-	</record>
-	<record>
-		<mainCategory>稅</mainCategory>
+		<mainCategory>服務／會員</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>稅</mainCategory>
-		<subcategory>商品及服務稅 / 增值稅</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>旅遊/度假</mainCategory>
+		<mainCategory>稅</mainCategory>
+		<subcategory>商品及服務稅／增值稅</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>旅遊/度假</mainCategory>
+		<mainCategory>旅遊／度假</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>旅遊／度假</mainCategory>
 		<subcategory>住宿</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>旅遊/度假</mainCategory>
+		<mainCategory>旅遊／度假</mainCategory>
 		<subcategory>旅行</subcategory>
 		<expense>1</expense>
 	</record>
@@ -519,34 +519,34 @@
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>工資/薪金</mainCategory>
+		<mainCategory>工資／薪金</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>工資/薪金</mainCategory>
+		<mainCategory>工資／薪金</mainCategory>
 		<subcategory>紅利</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>工資/薪金</mainCategory>
+		<mainCategory>工資／薪金</mainCategory>
 		<subcategory>佣金</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>工資/薪金</mainCategory>
+		<mainCategory>工資／薪金</mainCategory>
 		<subcategory>工資總額</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>工資/薪金</mainCategory>
+		<mainCategory>工資／薪金</mainCategory>
 		<subcategory>淨薪金</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>工資/薪金</mainCategory>
+		<mainCategory>工資／薪金</mainCategory>
 		<subcategory>超時工作</subcategory>
 		<expense>0</expense>
 	</record>

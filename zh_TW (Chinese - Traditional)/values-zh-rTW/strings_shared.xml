@@ -7,10 +7,10 @@
     <string name="sentence_end_question_mark_format">^1？</string>
     <string name="parantheses_format_normal_width">(^1)</string>
     <string name="parantheses_format_full_width">（^1）</string>
-    <string name="two_items_dash_with_space_format">^1　－　^2</string>
+    <string name="two_items_dash_with_space_format">^1－^2</string>
     <string name="two_items_dash_without_space_format">^1－^2</string>
     <string name="colon_format">^1：</string>
-    <string name="two_part_slash_format">^1　／　^2</string>
+    <string name="two_part_slash_format">^1／^2</string>
     <string name="two_part_comma_format">^1、　^2</string>
 	<string name="default_name_format">^1　編號　^2</string>
     <string name="percent_sign">%</string>
@@ -133,8 +133,8 @@
 	<string name="all_collapsed">已摺疊</string>
     <string name="postal_address">郵政地扯</string>
     <string name="postal_address_hint">街道\n鎮\n郵政編碼</string>
-    <string name="cannot_perform_sd_card_operation">這動作未能成功, 請檢查你設備內的記憶卡, 或者你的的設備正在連接電腦, 使記憶卡暫時無法使用。</string>
-    <string name="cannot_perform_file_system_operation_format">這動作未能成功, 內部存儲路徑 (^1) 訪問不允許。</string>
+    <string name="cannot_perform_sd_card_operation">這動作未能成功, 請檢查你設備內的記憶卡, 或者你的的設備正在連接電腦, 使記憶卡暫時無法使用</string>
+    <string name="cannot_perform_file_system_operation_format">這動作未能成功, 內部存儲路徑 (^1) 訪問不允許</string>
     <string name="please_correct_and_try_again">請修正及再試一次</string>
     <string name="no_network_message_format">^1 需要定期連接網絡來進行許可驗證。\n\n請開啟網絡傳輸並再試一次。\n你可以在完成後關閉網絡連線。\n\n 點擊 ^2 設定 <b>行動數據</b></string>
     <string name="calculator">計算機</string>
