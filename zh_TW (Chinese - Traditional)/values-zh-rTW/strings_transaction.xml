@@ -17,8 +17,8 @@
     <string name="mark_canceled">標記已取消</string>
     <string name="mark_transaction">標記交易</string>
 	<string-array name="mark_transactions_format_plurals">
-        <item/> <!-- Intentionally left empty -->
         <item>標記 ^1 交易</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     <string name="mark_transactions_all">標記 <b>全部</b> 交易</string>
@@ -164,21 +164,21 @@
 
 	<string name="delete_transaction_warning">交易將會被刪除</string>
 	<string-array name="delete_transaction_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
         <item>^1 選定的交易將會被刪除</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     <string name="delete_transaction_warning_all"><b>全部</b> 的交易將會被刪除</string>
 	<string name="delete_transaction_warning_reconciled">對賬交易將會被刪除</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
-        <item/> <!-- Intentionally left empty -->
         <item>^1 選定的交易數據都將被刪除，其中至少有一個對賬</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string name="accept_transaction_confirm_singular">交易將會被接受</string>
     <string-array name="accept_transaction_confirm_format_plurals">
-        <item/> <!-- Intentionally left empty -->
         <item>^1 選定的交易將會被接受</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 </resources>

@@ -91,13 +91,13 @@
 	<string name="no_categories_yet">No categories yet</string>
     <string name="no_classes_yet">No classes yet</string>
 	<string-array name="category_count_format_plurals">
-        <item>1 類別</item>
         <item>^1 多項類別</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="uncategorized_count_plurals">
         <item>^1 未歸類交易</item>
-        <item>^1 未歸類的多項交易</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 

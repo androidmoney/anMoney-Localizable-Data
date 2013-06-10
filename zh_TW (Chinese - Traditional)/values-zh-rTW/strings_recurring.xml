@@ -29,9 +29,9 @@
 	<string name="skip_occurrence">Skip occurrence</string>
 	<string name="skipped">已跳過</string>
 	<string-array name="skipped_occurrences_format_plurals">
-		<item/> <!-- Not used -->
 		<item>Skipped ^1 occurrences</item>
         <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Skip cancelled</string>
 	<string name="skip_which">Skip which</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -68,14 +68,14 @@
 	<string name="based_part1">Based on the</string>
 	<string name="based_part2_singular">last</string>
 	<string-array name="based_part2_plurals">
-		<item/> <!-- Intentionally left empty -->
 		<item>last ^1</item>
         <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
-		<item>occurrence</item>
 		<item>occurrences</item>
         <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
     <string name="upcoming_date">Upcoming date</string> <!-- As in the "the date of the upcoming recurring instance" --> 
     <string name="series_start_date">Series start date</string> <!-- As in the "the starting date of the entire recurring series" -->
@@ -87,22 +87,22 @@
 	<string name="every_3"/> <!-- Intentionally left empty -->
 	<string-array name="every_day_plurals">
 		<item>@string/every_1</item>
-		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_week_plurals">
 		<item>@string/every_1</item>
-		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_month_plurals">
 		<item>@string/every_1</item>
-		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_year_plurals">
 		<item>@string/every_1</item>
-		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string name="never">從不</string>
@@ -131,22 +131,22 @@
 	<string name="yearly">每年</string>
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
-		<item>days</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>week</item>
-		<item>weeks</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
-		<item>months</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_lower</item>
-		<item>years</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
@@ -155,14 +155,14 @@
 	
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
-		<item>1 逾期</item>
 		<item>^1 逾期</item>
         <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 逾期賬單或存款</item>
-		<item>^1 逾期賬單或存款</item>
         <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -171,8 +171,8 @@
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">使用今天的日期為交易日</string>
 	<string-array name="enter_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
         <item>^1 選定的常用項目將被輸入</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	
@@ -292,15 +292,15 @@
 	</string-array>	
 	
 	<string-array name="days_before_plurals">
-		<item/> <!-- Intenionally left empty -->
 		<item>^1 日前</item>
         <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
-		<item/> <!-- Intenionally left empty -->
 		<item>到期日前^1天</item>
         <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string name="specify_custom_number_of_days">指定自定義的天數</string>

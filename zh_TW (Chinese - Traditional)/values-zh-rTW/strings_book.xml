@@ -33,8 +33,8 @@
     <string name="delete_file">刪除文件</string>
     <string name="delete_file_warning_format">文件 ^1　將會被刪除</string>
 	<string-array name="delete_files_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
         <item>^1 已選擇的文件將會被刪除</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">選擇記賬本</string>
@@ -151,8 +151,8 @@
 
     <string name="import_file_confirm_format">你是否想導入 ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
         <item>你是否想導入 ^1 檔案</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
 
@@ -172,13 +172,13 @@
     
     <string name="password_time_out_period">密碼有效週期</string>
 	<string-array name="n_seconds_format_plurals">
-        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 秒</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
-        <item>1 分鐘</item>
         <item>^1 分鐘</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     
@@ -245,14 +245,14 @@
     
 	<string name="backed_up_book_format">Backed up ^1</string>
     <string-array name="backed_up_books_format_plurals">
-        <item/> <!-- Not used -->
         <item>Backed up ^1 books</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>Exported one transaction</item>
         <item>Exported ^1 transactions</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
 
@@ -297,8 +297,8 @@
 
     <string name="delete_entry_warning_format">Entry ^1 will be deleted</string>
     <string-array name="delete_entries_warning_format_plurals">
-        <item/> <!-- Not used -->
         <item>^1 賬目將會被刪除</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
 </resources>

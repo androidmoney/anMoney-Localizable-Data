@@ -155,14 +155,14 @@
 	<string name="no_items">沒有項目</string>
     <string name="no_items_yet">還未有項目</string>
 	<string-array name="items_format_plurals">
-        <item/> <!-- Not used -->
         <item>^1 項目</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     
 	<string-array name="selected_format_plurals">
-        <item>1 已選擇</item>
         <item>^1 已選擇</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     

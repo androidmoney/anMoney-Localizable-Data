@@ -39,8 +39,8 @@
     <string name="without_payee">沒有收款人</string>
     <string name="no_payees_yet">未有收款人</string>
 	<string-array name="payee_count_format_plurals">
-        <item>1 收款人</item>
         <item>^1 收款人</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 

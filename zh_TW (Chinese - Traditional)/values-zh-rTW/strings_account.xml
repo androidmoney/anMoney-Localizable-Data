@@ -145,14 +145,14 @@
     
     <string name="no_accounts_yet">還未有賬戶</string>
 	<string-array name="account_count_format_plurals">
-        <item>1 賬戶</item>
-        <item>^1 多個賬戶</item>
+        <item>^1 賬戶</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
 
 	<string-array name="pending_count_plurals">
         <item>^1 新增單項交易</item>
-        <item>^1 新增多項交易</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 
