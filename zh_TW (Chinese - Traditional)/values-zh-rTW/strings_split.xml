@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">    	   
-    <string name="splits">Splits</string> <!-- This is a noun -->
-    <string name="split_canceled">Split cancelled</string> <!-- "Split" is a verb -->
-    <string name="new_split">New split</string> <!-- "Split" here and below are nouns -->
-    <string name="edit_split">Edit split</string>
-    <string name="edit_splits">Edit splits</string>
-    <string name="delete_split">Delete split</string>
-	<string name="delete_split_warning">Split will be deleted</string>
-	<string name="sum_of_splits">Sum of splits</string>
-	<string name="unassigned">Unassigned</string>
-	<string name="transaction_total">Transaction total</string>
-    <string name="go_back_to_edit">Go back to editing the splits</string>
-    <string name="unassigned_split_message_format">The sum of the splits is ^1, while the transaction total is ^2. This leaves ^3 unassigned, which is not recommended</string>
-    <string name="what_would_you_like_to_do">What would you like to do</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_the_total_format">Set the total to ^1</string>
-    <string name="distribute_format">Distribute the ^1 evenly</string>
-    <string name="leave_unassigned_format">Leave the ^1 unassigned</string>
-    <string name="distributed">Distributed</string>
+    <string name="splits">分割項目</string> <!-- This is a noun -->
+    <string name="split_canceled">分割已取消</string> <!-- "Split" is a verb -->
+    <string name="new_split">新增分割項目</string> <!-- "Split" here and below are nouns -->
+    <string name="edit_split">編輯分割項目</string>
+    <string name="edit_splits">編輯分割項目</string>
+    <string name="delete_split">刪除分割項目</string>
+	<string name="delete_split_warning">分割項目將會被刪除</string>
+	<string name="sum_of_splits">分割項目總數</string>
+	<string name="unassigned">未分配</string>
+	<string name="transaction_total">交易項目合計總額</string>
+    <string name="go_back_to_edit">返回以編輯分割項目</string>
+    <string name="unassigned_split_message_format">不建議執行此動作，因為分割項目總數是 ^1, 而交易項目合計總額為 ^2. 這會使 ^3 為未分配</string>
+    <string name="what_would_you_like_to_do">您想做什麼</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_the_total_format">設定合計總額為 ^1</string>
+    <string name="distribute_format">平均地分配 ^1</string>
+    <string name="leave_unassigned_format">使 ^1 為未分配</string>
+    <string name="distributed">已分配</string>
 </resources>

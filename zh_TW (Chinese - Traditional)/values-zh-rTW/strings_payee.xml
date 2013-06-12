@@ -6,7 +6,7 @@
     <string name="call_payee">致電給收款人</string>
     <string name="delete_payee">刪除收款人</string>
     <string name="delete_payee_warning_format">收款人 ^1 將會被永久刪除</string>
-    <string name="delete_from_app_format">Also delete from ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
+    <string name="delete_from_app_format">同時刪除聯絡人－ ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
     <string name="add_payee_as_a_contact">添加收款人到聯絡人</string>
     <string name="payee">收款人</string>
     <string name="payer">付款人</string>
@@ -16,20 +16,20 @@
     <string name="call">致電</string>
     <string name="map_address">地扯</string> <!-- Show the address on the map -->
     <string name="no_payees">你沒有任何收款人</string>
-    <string name="create_payee_instructions_format">要創建一個收款人，點擊屏幕上方的 ^i </string> <!-- ^1 will be replaced by an image -->
+    <string name="create_payee_instructions_format">要創建一個收款人，點擊螢幕上方的 ^i </string> <!-- ^1 will be replaced by an image -->
     <string name="payee_transaction_list_empty">你沒有任何交易收款人</string>
     <string name="payee_exists">收款人名稱已經存在</string>
     <string name="combine_payees">是否想合拼兩個收款人</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="payee_name">收款人名稱</string>
-    <string name="link_payee">你要鏈接收款人到現有的連絡人嗎</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="account_number">賬戶號碼</string>
+    <string name="link_payee">你是否要鏈接收款人到現有的聯絡人</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="account_number">帳戶號碼</string>
     <string name="phone">電話</string>
     <string name="phone_number">電話號碼</string>
     <string name="email">電子郵件</string>
     <string name="email_address">電郵地扯</string>
     <string name="url">網址</string>
     <string name="web_address">網址</string>
-    <string name="select_account">選擇賬戶</string>
+    <string name="select_account">選擇帳戶</string>
     <string name="open_web_page">打開網頁</string>
     <string name="view_payees">查看收款人</string>
     <string name="default_payee_name">我的收款人</string>
@@ -37,7 +37,7 @@
     <string name="all_payees_hidden_by_filter">所有收款人均被顯示過濾器隱藏</string>
         
     <string name="without_payee">沒有收款人</string>
-    <string name="no_payees_yet">未有收款人</string>
+    <string name="no_payees_yet">還未有收款人</string>
 	<string-array name="payee_count_format_plurals">
         <item>^1 收款人</item>
         <item/> <!-- Not used -->
@@ -45,8 +45,8 @@
 	</string-array>
 
     <string name="all_payees">所有收款人</string>
-	<string name="payees_in_open_accounts">在開放賬戶下的收款人</string>
-	<string name="payees_in_closed_accounts_only">僅在封閉賬戶下的收款人</string>
+	<string name="payees_in_open_accounts">在開放帳戶下的收款人</string>
+	<string name="payees_in_closed_accounts_only">在封閉帳戶下的收款人</string>
 	<string name="unused_payees">未使用的收款人</string>
 	<string-array name="payee_list_filter_title_bar">
 		<item>@string/all_payees</item>

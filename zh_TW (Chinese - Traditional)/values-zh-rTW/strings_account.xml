@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">    	   
-    <string name="account">賬戶</string>
-    <string name="accounts">賬戶</string>
-    <string name="all_accounts">所有賬戶</string>
-    <string name="open_accounts">開啟賬戶</string>
+    <string name="account">帳戶</string>
+    <string name="accounts">帳戶</string>
+    <string name="all_accounts">所有帳戶</string>
+    <string name="open_accounts">開啟帳戶</string>
     <string name="liability">債務</string>
     <string name="asset">資產</string>
     <string name="credit_liability_details">信貸/負債詳情</string>
@@ -11,83 +11,83 @@
 <!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
 <!-- <string name="associated_reward_program">Associated reward program</string> -->
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
-    <string name="account_balances">賬戶餘額</string>
+    <string name="account_balances">帳戶餘額</string>
     <string name="vehicle_details">汽車</string>
     <string name="property_details">物業</string>
-    <string name="view_accounts">查看賬戶</string>
-    <string name="new_account">新增賬戶</string>
-    <string name="edit_account">編輯賬戶</string>
+    <string name="view_accounts">查看帳戶</string>
+    <string name="new_account">新增帳戶</string>
+    <string name="edit_account">編輯帳戶</string>
     <string name="balance_noun">結餘</string>
     <string name="balances_noun">結餘</string>
     <string name="adjust">調整</string>
     <string name="adjust_balance">調整結餘</string>
 	<string name="balance_adjusted">結餘已調整</string>
 	<string name="balance_adjustment_note">調整結餘</string>
-	<string name="category_for_adjustment_transaction">調整交易類別</string>
+	<string name="category_for_adjustment_transaction">調整交易種類</string>
 	<string name="postpone">延遲</string>
     <string name="balance_verb">平衡</string>
-    <string name="balance_account">平衡賬戶</string>
-    <string name="balanced">已均衡</string>
+    <string name="balance_account">平衡帳戶</string>
+    <string name="balanced">帳戶已平衡</string>
     <string name="balance_postponed">平衡已延遲</string>
     <string name="balance_canceled">平衝已取消</string>
-	<string name="started_balancing_already">你已經在這個賬戶中開始平衡</string>
+	<string name="started_balancing_already">您已經開始在這個帳戶進行平衡</string>
 	<string name="postpone_balancing_warning">是否延遲平衡</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="account_balance_does_not_match_bank_warning_format">您輸入的語句開始平衡中, ^1, 不匹配所有對賬交易的總和， ^2</string>
-	<string name="account_balance_does_not_match_credit_warning_format">您輸入的所久金額, ^1, 不符合所有先前對賬交易的總和， ^2</string>
-	<string name="account_balance_does_not_match_fix">嘗試修復它：\n\n<li>重複檢查語句</li>\n<li>標記交易為已對賬</li>\n<li>標記交易為未對賬</li>\n<li>調整期初餘額</li></string>
+	<string name="account_balance_does_not_match_bank_warning_format">對帳單開始平衡, ^1, 不符合所有先前對帳交易的總和， ^2</string>
+	<string name="account_balance_does_not_match_credit_warning_format">您輸入的所欠總金額, ^1, 不符合所有先前對帳交易的總和， ^2</string>
+	<string name="account_balance_does_not_match_fix">以下動作修復：\n\n<li>重複檢查語句</li>\n<li>標記交易為已對帳</li>\n<li>標記交易為未對帳</li>\n<li>調整期初餘額</li></string>
 	<string name="left_to_reconcile">Left to reconcile</string>
-	<string name="statement_balance">Statement balance</string>
-    <string name="statement_date">Statement date</string>
-    <string name="statement_starting_balance">Statement starting balance</string>
-    <string name="statement_ending_balance">Statement ending balance</string>
+	<string name="statement_balance">對帳單平衡</string>
+    <string name="statement_date">對帳單日期</string>
+    <string name="statement_starting_balance">對帳單期初餘額</string>
+    <string name="statement_ending_balance">對帳單期末餘額</string>
     <string name="amount_owed_last_month">上月結欠總金額</string>
     <string name="amount_owed_this_month">本月結欠總金額</string>
 	<string name="service_charge_amount">服務費</string>
     <string name="service_charge_category">服務費種類</string>
-    <string name="service_charge_notes_format">Service charge for statement period ending on ^1</string>
-    <string name="interest_earned_amount">所賺取的利息金額</string>
-    <string name="interest_earned_category">所賺取的利息類別</string>
-    <string name="interest_earned_notes_format">Interest earned for statement period ending on ^1</string>
+    <string name="service_charge_notes_format">對帳單週期^1的服務費</string>
+    <string name="interest_earned_amount">利息所得</string>
+    <string name="interest_earned_category">利息所得種類</string>
+    <string name="interest_earned_notes_format">對帳單週期^1的利息所得</string>
     <string name="interest_paid_amount">支付的利息金額</string>
-    <string name="interest_paid_category">Interest paid category</string>
-    <string name="interest_paid_notes_format">Interest paid for statement period ending on ^1</string>
+    <string name="interest_paid_category">利息支出種類</string>
+    <string name="interest_paid_notes_format">對帳單週期^1的利息支出</string>
     <string name="clear_all_transactions">是否清除所有交易</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
-	<string name="clear_all_transactions_on_all_pages">是否清除所有頁面的所有交易</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
-    <string name="export_account">導出賬戶</string>
-    <string name="delete_account">刪除賬號</string>
-    <string name="close_account">關閉賬戶</string>
-    <string name="reopen_account">重新開啟賬戶</string>
-    <string name="repair_account">修復賬戶</string>
+	<string name="clear_all_transactions_on_all_pages">是否清除所有頁面中的全部交易</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+    <string name="export_account">匯出帳戶</string>
+    <string name="delete_account">刪除帳號</string>
+    <string name="close_account">關閉帳戶</string>
+    <string name="reopen_account">重新開啟帳戶</string>
+    <string name="repair_account">修復帳戶</string>
     <string name="repaired">已修復</string>
-    <string name="copy_account_number">複製賬戶號碼</string>
-    <string name="book_total">記賬總計</string>
+    <string name="copy_account_number">複製帳戶號碼</string>
+    <string name="book_total">記帳本合計總額</string>
     <string name="favorites_total">Favourites total</string>
-	<string name="delete_account_warning_part1_format">賬戶 ^1 將被永久刪除。\n\n所有此賬號下的交易都會被刪除</string>
-	<string name="delete_account_warning_part2_format">如果只想隱藏賬戶及保存交易記錄，點擊 ^1 及「關閉賬號」</string>
-	<string name="no_accounts">您沒有任何賬戶</string>
-    <string name="create_account_instructions_format">要創建一個賬戶，在屏幕上方點擊 ^i</string>  <!-- ^i will be replaced by an icon -->
-    <string name="no_transactions_for_account">您沒有該賬戶的任何交易</string>
-    <string name="account_type">賬戶類型</string>
-    <string name="account_type_bank_first">賬戶類型分組，銀行賬戶優先</string>
-    <string name="account_type_cash_first">賬戶類型分組，現金優先</string>
-    <string name="account_name">賬戶名稱</string>
+	<string name="delete_account_warning_part1_format">帳戶 ^1 將被永久刪除。\n\n 由於此帳戶下有交易項目，所以此帳號下的交易都會被一拼刪除</string>
+	<string name="delete_account_warning_part2_format">如果只想隱藏帳戶及保存交易記錄，點擊 ^1 返回並選擇「關閉帳號」</string>
+	<string name="no_accounts">您沒有任何帳戶</string>
+    <string name="create_account_instructions_format">要創建一個帳戶，在屏幕上方點擊 ^i</string>  <!-- ^i will be replaced by an icon -->
+    <string name="no_transactions_for_account">您沒有該帳戶的任何交易</string>
+    <string name="account_type">帳戶類型</string>
+    <string name="account_type_bank_first">帳戶類型分組及銀行帳戶優先</string>
+    <string name="account_type_cash_first">帳戶類型分組及現金優先</string>
+    <string name="account_name">帳戶名稱</string>
     <string name="abbreviation">縮寫</string>
     <string name="abbr">Abbr</string>
-    <string name="type">Type</string>
-    <string name="favorite_account">收藏賬戶</string>
-    <string name="favorite_accounts">收藏賬戶</string>
-    <string name="account_has_been_closed">該賬戶已被關閉</string>
+    <string name="type">類型</string>
+    <string name="favorite_account">收藏帳戶</string>
+    <string name="favorite_accounts">收藏多個帳戶</string>
+    <string name="account_has_been_closed">該帳戶已被關閉</string>
     <string name="acquisition_date">取得日期</string>
     <string name="credit_limit">信用額度</string>
     <string name="must_pay_balance">我必須要每月支付全部結欠 (收費卡)</string>
     <string name="will_pay_balance">我打算每月支付全部結欠</string>
     <string name="interest_rate">利率</string>
-    <string name="introductory_rate_in_effect">There is an introductory rate in effect</string>
-    <string name="introductory_rate">Introductory rate</string>
+    <string name="introductory_rate_in_effect">期初利率作用中</string>
+    <string name="introductory_rate">期初利率</string>
     <string name="valid_until">有效期至</string>
     <string name="minimum_balance">最低餘額</string>
     <string name="date">日期</string>
-    <string name="make">Make</string>
+    <string name="make">製造</string>
     <string name="vehicle_make">汽車品牌</string>
     <string name="year">年</string>
     <string name="model">型號</string>
@@ -106,96 +106,96 @@
     <string name="reopen_canceled">重新開放已取消</string>
     <string name="no_financial_institution_assigned">未設定金融機構</string>
     <string name="maximum_100">最高 100%</string>
-    <string name="must_be_less_than_interest_rate">必須 &lt; 利率</string>
-    <string name="must_be_in_future">必須在未來</string> <!-- As in "The date supplied must be a future date" -->
+    <string name="must_be_less_than_interest_rate">必須小於利率</string>
+    <string name="must_be_in_future">必須是未來</string> <!-- As in "The date supplied must be a future date" -->
     <string name="must_be_in_past">必須是過去</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">無效</string>
     <string name="invalid_vin_number">必須是17個字母和/或數字</string>
     <string name="invalid_url">無效的URL</string>
-    <string name="opening_balance_warning_message">This account has reconciled transactions.\n\nChanging the opening balance may cause your records to differ from the financial institution’s</string>
-    <string name="no_exchange_rate_warning_message_format">There is no exchange rate given between the ^1 and the ^2, which will cause the book balance to be inaccurate</string>
+    <string name="opening_balance_warning_message">這個帳戶有已對帳的交易。\n\n更改期初餘額可能會導致您的記錄不同於金融機構的記錄</string>
+    <string name="no_exchange_rate_warning_message_format">在 ^1 和 ^2 之間沒有提供匯率，這將導致帳面餘額不準確</string>
     <string name="would_you_like_to_give_one_after_saving">Would you like to give one after saving</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">淨值</string>
-    <string name="net_worth_over_time">Net worth over time / Forecast</string>
-	<string name="set_total_to_show">Set total to display</string>
-	<string name="total_to_show">Total to display</string>
+    <string name="net_worth_over_time">隨時間推移或預測淨值</string>
+	<string name="set_total_to_show">設定顯示合計總額</string>
+	<string name="total_to_show">顯示合計總額</string>
     <string name="selected_total">Selected total</string>
 	<string name="entered_total">Entered total</string>
-	<string name="balance_as_of_today">Balance as of today</string>
-	<string name="cleared_total">Cleared total</string>
-	<string name="reconciled_total">Reconciled total</string>
+	<string name="balance_as_of_today">今天餘額</string>
+	<string name="cleared_total">已清除的合計總額</string>
+	<string name="reconciled_total">已對帳的合計總額</string>
     <string name="default_cash_account_name">我的每日現金</string>
-    <string name="default_checking_account_name">我的常用賬戶</string>
-    <string name="default_savings_account_name">我的儲蓄賬戶</string>
+    <string name="default_checking_account_name">我的常用帳戶</string>
+    <string name="default_savings_account_name">我的儲蓄帳戶</string>
     <string name="default_credit_account_name">我的信用卡</string>
     <string name="color">顏色</string>
     <string name="projected_balance">預計</string>
-    <string name="projected_balance_at_the_end_of_the_month">Projected balance at month’s end</string>
+    <string name="projected_balance_at_the_end_of_the_month">預計在月底的餘額</string>
     <string name="at_months_end">月底</string>
-	<string name="projected_balance_on_the_nth_day_of_the_month_format">Projected balance on the ^1</string>
-	<string name="total_for_format">Total for ^1</string>
-	<string name="total_for_month">Total for month</string>
-	<string name="period">Period</string>
-	<string name="total_for_period">Total for period</string>
-	<string name="total_for_unassigned">Total for unassigned</string>
-	<string name="make_account_budget_question_part1">是否將此賬戶作為預算</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="make_account_budget_question_part2_format">Even if you tap ^1, you can do this later by editing the account</string>
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">預計在 ^1 的餘額</string>
+	<string name="total_for_format">在 ^1 的合計總額</string>
+	<string name="total_for_month">本月合計總額</string>
+	<string name="period">週期</string>
+	<string name="total_for_period">週期合計總額</string>
+	<string name="total_for_unassigned">未分配的合計總額</string>
+	<string name="make_account_budget_question_part1">是否將此帳戶作為預算的一部分</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="make_account_budget_question_part2_format">就算您點擊 ^1，您也可以隨時通過「編輯帳戶」來達成此工作</string>
 	<string name="show_option_format">顯示 ^1 選項</string> <!-- This will say "Show the Next Check Number option" -->
-	<string name="show_closed">顯示已關閉的賬戶</string> <!-- As in "show closed accounts" -->
+	<string name="show_closed">顯示已關閉的帳戶</string> <!-- As in "show closed accounts" -->
     
-    <string name="no_accounts_yet">還未有賬戶</string>
+    <string name="no_accounts_yet">還未有帳戶</string>
 	<string-array name="account_count_format_plurals">
-        <item>^1 賬戶</item>
+        <item>^1 帳戶</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
 
 	<string-array name="pending_count_plurals">
         <item>^1 新增單項交易</item>
-        <item/> <!-- Not used -->
+        <item>^1 新增多項交易</item>
         <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="account_group_labels">
-		<item>銀行賬戶</item>
+		<item>銀行帳戶</item>
 		<item>現金</item>
-		<item>信用卡賬戶</item>
-		<item>投資賬戶</item>
+		<item>信用卡帳戶</item>
+		<item>投資帳戶</item>
 		<!-- <item>Loans and liabilities</item> -->
 		<item>其他債務</item>
 		<item>其他資產</item>
 	</string-array>
 
 	<string-array name="total_for_account_group_labels">
-		<item>銀行賬戶合計</item>
+		<item>銀行帳戶合計</item>
 		<item>現金合計</item>
-		<item>信用卡賬戶合計</item>
-		<item>投資賬戶合計</item>
+		<item>信用卡帳戶合計</item>
+		<item>投資帳戶合計</item>
 		<!-- <item>Total for loans and liabilities</item> -->
 		<item>其他債務合計</item>
 		<item>其他資產合計</item>
 	</string-array>
 
 	<string-array name="opening_balance_new_labels">
-	    <item>賬戶餘額</item>
+	    <item>帳戶餘額</item>
 		<item>購買價</item>
-		<item>賬戶所欠金額</item>
-		<item>卡上所欠的金額</item>
+		<item>帳戶欠款金額</item>
+		<item>信用卡欠款金額</item>
 	</string-array>
 
-	<string name="opening">初期</string> <!-- As in "Opening balance" -->
+	<string name="opening">期初</string> <!-- As in "Opening balance" -->
 	<string-array name="opening_balance_edit_labels">
-	    <item>初期餘額</item>
-		<item>原本購買價</item> <!-- of an asset -->
-		<item>賬戶最初所欠金額</item>
-		<item>信用卡原本欠款金額</item>
+	    <item>期初餘額</item>
+		<item>期初購買價</item> <!-- of an asset -->
+		<item>帳戶期初欠款金額</item>
+		<item>信用卡期初欠款金額</item>
 	</string-array>
 
 	<string-array name="current_balance_edit_labels">
 	    <item>目前餘額</item>
 		<item>目前資產</item> <!-- of an asset -->
-		<item>賬戶所欠款項</item>
-		<item>信用卡所欠款項</item>
+		<item>帳戶欠款金額</item>
+		<item>信用卡欠款金額</item>
 	</string-array>
 
 	<string-array name="account_type_names">
@@ -225,14 +225,14 @@
 		<item>投資</item>
 	</string-array>
 
-    <string name="show_account_numbers">顯示賬戶號碼</string>
-    <string name="show_account_numbers_description">在賬戶名稱下顯示賬戶號碼</string>
+    <string name="show_account_numbers">顯示帳戶號碼</string>
+    <string name="show_account_numbers_description">顯示您設定的帳戶號碼在帳戶名稱下</string>
 
     <string name="use_abbreviations">使用縮寫</string>
-    <string name="use_abbreviations_description">顯示賬戶的縮寫以取代它的名字</string>
+    <string name="use_abbreviations_description">顯示您設定的帳戶縮寫以取代帳戶名稱</string>
 
-    <string name="show_group_totals">顯示組別總計</string>
-    <string name="show_group_totals_description">顯示每一組別的總結餘</string>
+    <string name="show_group_totals">顯示組別合計總額</string>
+    <string name="show_group_totals_description">顯示每一組別的合計總額</string>
 
 	<string-array name="account_list_status_filter_title_bar">
 		<item>@string/all_accounts</item>
@@ -259,7 +259,7 @@
     	<item>@string/not_exported_transaction2</item>
 	</string-array>
     
-    <string name="display_order">顯示順序</string>
+    <string name="display_order">顯示排序</string>
     <string name="entry_date">輸入日期</string>
     <string-array name="transaction_list_sort_order_title_bar">
     	<item>@string/date</item>
@@ -284,14 +284,14 @@
 	<string name="previous_half_year">上半年</string>
 	<string name="next_half_year">下半年</string>
 	<string name="current_year">本年度</string>
-	<string name="previous_year">前年</string>
+	<string name="previous_year">上年</string>
 	<string name="next_year">下年</string>
-	<string name="current_week">當前星期</string>
-	<string name="previous_week">上星期</string>
-	<string name="next_week">下星期</string>
-	<string name="current_two_weeks">當前兩週內</string>
-	<string name="previous_two_weeks">過去兩週內</string>
-	<string name="next_two_weeks">未來的兩週內</string>
+	<string name="current_week">本週</string>
+	<string name="previous_week">上週</string>
+	<string name="next_week">下週</string>
+	<string name="current_two_weeks">當前兩週</string>
+	<string name="previous_two_weeks">過去兩週</string>
+	<string name="next_two_weeks">未來兩週</string>
 	<string name="all_dates">所有日期</string>
 	<string-array name="date_range_items">
 		<item>@string/all_dates</item>

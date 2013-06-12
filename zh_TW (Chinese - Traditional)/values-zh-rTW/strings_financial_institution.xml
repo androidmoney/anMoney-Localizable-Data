@@ -2,12 +2,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="financial_institution">金融機構</string>
     <string name="financial_institutions">金融機構</string>
-    <string name="financial_institution_bank_first">金融機構為一組，銀行賬戶優先</string>
-    <string name="financial_institution_cash_first">金融機構為一組，現金優先</string>
+    <string name="financial_institution_bank_first">金融機構分組及銀行帳戶優先</string>
+    <string name="financial_institution_cash_first">金融機構分組及現金優先</string>
     <string name="view_financial_institution">檢視金融機構</string>
     <string name="edit_financial_institution">編輯金融機構</string>
     <string name="call_financial_institution">致電給金融機構</string>
-    <string name="new_financial_institution">新的金融機構</string>
+    <string name="new_financial_institution">新增金融機構</string>
     <string name="delete_financial_institution">刪除金融機構</string>
     <string name="delete_financial_institution_warning_format">金融機構 ^1 將從所有帳戶中永久刪除</string>
     <string name="add_financial_institution_as_a_contact">添加金融機構為聯絡人</string>
@@ -17,6 +17,6 @@
     <string name="view_financial_institutions">檢視金融機構</string>
     <string name="financial_institution_name">金融機構名稱</string>
     <string name="contact_exists">此聯絡人名稱已被使用</string>
-    <string name="link_financial_institution">Do you want to link this financial institution to the existing contact</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="link_financial_institution">你是否要鏈接該金融機構到現有的聯繫人</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="no_financial_institutions_yet">還沒有任何金融機構</string>
 </resources>

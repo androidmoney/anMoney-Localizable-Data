@@ -11,12 +11,12 @@
 	<string name="report_settings">報告設定</string>
 	<string name="custom_dates">自定義日期</string>
 	<string name="other">其他</string>
-	<string name="report_empty">There is no data to display</string>
-    <string name="report_settings_instructions_format">To change the settings for the report, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
-	<string name="reset_report_settings">設置將被重置為它們的默認值</string>
-	<string name="settings_reset">Settings reset</string>
-	<string name="reset_canceled">Reset cancelled</string>
-    <string name="report_settings_tip">To change the settings for a report:\n\n<li>Long-tap on the report’s name and tap <b>Report settings</b></li>\n\n<li>Tap the icon at the top right corner of the screen while the report is displayed</li></string>
+	<string name="report_empty">沒有數據能被顯示</string>
+    <string name="report_settings_instructions_format">點擊螢幕上方的 ^i 以更改報告設定</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">設置將被重置為預設值</string>
+	<string name="settings_reset">還原預設設定</string>
+	<string name="reset_canceled">還原已取消</string>
+    <string name="report_settings_tip">更改報告設定:\n\n<li>長按報告名稱並點擊「報告設定」</li>\n\n<li>當報告顯示後，點擊螢幕右上方的圖示</li></string>
 	<string name="report_name">報告名稱</string>
 	<string name="all_reports">所有報告</string>
 	<string name="favorite_reports">收藏報告</string>
@@ -24,7 +24,7 @@
 	<string name="delete_report">刪除報告</string>
     <string name="rename_report">重新命名報告</string>
     <string name="duplicate_report">重複報告</string>
-    <string name="delete_report_warning_format">Report ^1 will be permanently deleted</string>
+    <string name="delete_report_warning_format">報告 ^1 將會被永久刪除</string>
 	<string name="report_type">報告類型</string>
 	<string name="group">組合</string> <!-- This is a verb -->
 	<string name="do_not_group">不要組合</string>
@@ -33,8 +33,8 @@
 	<string name="yesterday">昨天</string>
 	<string name="select_report">選擇報告</string>
     <string name="report_folder">報告文件夾</string>
-	<string name="language">Language</string>
-	<string name="text_size">Text size</string>
+	<string name="language">語言</string>
+	<string name="text_size">文字大小</string>
 	<string name="text_size_sample">Ab</string>
     
 	<string name="chart_type">圖表類型</string>
