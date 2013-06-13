@@ -18,8 +18,6 @@
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
-    <string name="yes">Da</string>
-    <string name="no">Ne</string>
     <string name="done">Napravljeno</string>
     <string name="_continue">Nastavi</string>
 	<string name="continue_question">Nastavi</string>

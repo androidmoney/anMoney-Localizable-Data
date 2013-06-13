@@ -21,8 +21,6 @@
     <string name="filter_by_order_format">^1 per ^2</string>
     <string name="filter_by_direction_order_format">^1 per ^3 ^2</string>
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 per ^3 ^2 per ^4</string>
-    <string name="yes">Si</string>
-	<string name="no">No</string>
 	<string name="done">Fatto</string>
 	<string name="_continue">Continua</string>
 	<string name="continue_question">Continuare</string>
@@ -135,7 +133,7 @@
 	<string name="cannot_perform_sd_card_operation">Questa operazione non può essere effettuata ora è perché non è inserita una scheda SD nel dispositivo, o perché il dispositivo è connesso al computer, rendendo la scheda SD inaccessibile</string>
 	<string name="cannot_perform_file_system_operation_format">Questa operazione non può essere effettuata in questo momento perché il percorso del file system (^1) n\non è accessibile</string>
     <string name="please_correct_and_try_again">Verificare e riprovare</string>
-	<string name="no_network_message_format">^1 E’ necessario connettersi periodicamente alla rete per verificare le informazioni corrette della licenza.\n\nSi prega di collegarsi alla rete, e non appena la connessione è attiva, riprovare. Ci si può scollegare dalla rete dopo verificata la licenza.\n\nCliccare qui ^2 aprire le impostazioni <b>Wireless &amp; reti</b></string>
+	<string name="no_network_message_format">^1 E’ necessario connettersi periodicamente alla rete per verificare le informazioni corrette della licenza.\n\nSi prega di collegarsi alla rete, e non appena la connessione è attiva, riprovare. Ci si può scollegare dalla rete dopo verificata la licenza.\n\nCliccare qui ^2 aprire le impostazioni <b>^3</b></string>
 	<string name="calculator">Calcolatrice</string>
 	<string name="only_in_full_version">Disponibile solo nella versione PRO</string>
     <string name="will_not_effect_transactions">Questo <b>non</b> non avrà effetto sulle nessuna transazione attuale</string>

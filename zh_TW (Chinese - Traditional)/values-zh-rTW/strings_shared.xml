@@ -22,8 +22,6 @@
     <string name="filter_by_order_format">^1 排序以 ^2　</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 排序以 ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 排序以 ^2 ^3 在 ^4　</string> <!-- Example: "All transactions by decreasing date for all dates" -->
-    <string name="yes">是</string>
-    <string name="no">否</string>
     <string name="done">完成</string>
     <string name="_continue">繼續</string>
 	<string name="continue_question">繼續</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -124,7 +122,6 @@
 	<string name="archiving">存檔</string>
 	<string name="archiving_settings">存檔設定</string>
     <string name="more">更多</string>
-    <string name="specify_export_options">指定導出選項</string>
 	<string name="select_all">全選</string>
 	<string name="unselect_all">取消全選</string>
 	<string name="expand_all">全部展開</string>
@@ -136,7 +133,7 @@
     <string name="cannot_perform_sd_card_operation">這動作未能成功, 請檢查你設備內的記憶卡, 或者你的的設備正在連接電腦, 使記憶卡暫時無法使用</string>
     <string name="cannot_perform_file_system_operation_format">這動作未能成功, 內部存儲路徑 (^1) 訪問不允許</string>
     <string name="please_correct_and_try_again">請修正及再試一次</string>
-    <string name="no_network_message_format">^1 需要定期連接網絡來進行許可驗證。\n\n請開啟網絡傳輸並再試一次。\n你可以在完成後關閉網絡連線。\n\n 點擊 ^2 設定 <b>行動數據</b></string>
+    <string name="no_network_message_format">^1 需要定期連接網絡來進行許可驗證。\n\n請開啟網絡傳輸並再試一次。\n你可以在完成後關閉網絡連線。\n\n 點擊 ^2 設定 <b>^3</b></string>
     <string name="calculator">計算機</string>
     <string name="only_in_full_version">只限專業版本</string>
     <string name="will_not_effect_transactions">這 <b>不會</b> 影響任何現有交易</string>

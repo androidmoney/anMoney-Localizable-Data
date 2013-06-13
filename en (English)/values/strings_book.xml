@@ -15,7 +15,7 @@
     <string name="no_books">You don’t have any books</string>
     <string name="upgrading_book">Upgrading book</string>
     <string name="upgrading_books">Upgrading books</string>
-    <string name="backup">Backup</string>
+    <string name="backup">Backup</string> <!-- Verb -->
     <string name="backup_canceled">Backup cancelled</string>
     <string name="backup_book">Backup book</string>
     <string name="overwrite">Overwrite</string>

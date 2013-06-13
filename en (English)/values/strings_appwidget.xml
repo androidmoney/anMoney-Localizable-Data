@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools"
     	   tools:locale="en">
     	   
-	<string name="appwidget_warning_format">It appears that you have ^1 currently installed on the SD card.\n\nSince this may cause the widgets to disappear, it is highly recommended that you move ^1 back to the device from the SD card, if you plan on making use of the widgets</string>
+	<string name="appwidget_warning_format">It appears that you have ^1 currently installed on the SD card.\n\nSince this may cause the widgets to disappear, it is highly recommended that you move ^1 back to the device from the SD card, if you plan on making use of the widgets</string> <!-- ^1 is the app name -->
 
     <string name="no_books_warning">Please create at least one book before dropping the widget</string>
     <string name="no_books_and_accounts_warning">Please create at least one book and an account before dropping the widget</string>
@@ -19,7 +19,7 @@
     <string name="show_total">Show the account total</string>
     <string name="opacity">Opacity</string>
 
-    <string name="app_name_upcoming">anMoney — Upcoming</string>
+    <string name="app_name_upcoming">anMoney — Upcoming</string> <!-- as in Upcoming Bills -->
 
     <string name="app_name_budget">anMoney — Budget</string>
 

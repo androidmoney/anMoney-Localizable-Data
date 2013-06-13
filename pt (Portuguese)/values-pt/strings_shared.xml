@@ -21,8 +21,6 @@
     <string name="filter_by_order_format">^1 por ^2</string>
     <string name="filter_by_direction_order_format">^1 por ^3 em ordem ^2</string>
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 por ^3 em ordem ^2 para ^4</string>
-    <string name="yes">Sim</string>
-    <string name="no">Não</string>
     <string name="done">Feito</string>
     <string name="_continue">Continuar</string>
 	<string name="continue_question">Continuar</string>
@@ -135,7 +133,7 @@
     <string name="cannot_perform_sd_card_operation">Esta operação não pode ser executada neste momento pois não há cartão SD em seu dispositivo, ou seu aparelho está conectado ao seu computador tornando o cartão SD inacessível</string>
     <string name="cannot_perform_file_system_operation_format">Esta operação não pode ser executada neste momento pois o caminho no sistema de arquivos  (^1) não está acessível</string>
     <string name="please_correct_and_try_again">Por favor, corrija e tente de novo</string>
-    <string name="no_network_message_format">^1 requer acesso periódico à internet para validação de licença.\n\nPor favor habilite a rede, e, uma vez conectado, tente novamente. Você pode desabilitar a rede posteriormente.\n\nTocando ^2 te levará a configurações da <b>Redes sem fio e outras</b></string>
+    <string name="no_network_message_format">^1 requer acesso periódico à internet para validação de licença.\n\nPor favor habilite a rede, e, uma vez conectado, tente novamente. Você pode desabilitar a rede posteriormente.\n\nTocando ^2 te levará a configurações da <b>^3</b></string>
     <string name="calculator">Calculadora</string>
     <string name="only_in_full_version">Só na versão PRO</string>
     <string name="will_not_effect_transactions">Isto <b>não</b> afeta qualquer transação existente</string>

@@ -21,8 +21,6 @@
     <string name="filter_by_order_format">^1 podľa ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 ^2 podľa ^3</string> <!-- Example: "All payees by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 ^2 podľa ^3 za ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
-    <string name="yes">Áno</string>
-    <string name="no">Nie</string>
     <string name="done">Uložiť</string>
     <string name="_continue">Pokračovať</string>
 	<string name="continue_question">Pokračovať</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -135,7 +133,7 @@
     <string name="cannot_perform_sd_card_operation">Operácia sa nedá dokončiť, pretože v zariadení nieje SD karta, alebo máte zaríadenie pripojené k počítaču a SD karta nieje pristupná</string>
 	<string name="cannot_perform_file_system_operation_format">Operáciu nieje možné teraz dokončiť, pretože adresár (^1) nieje dostupný</string>
     <string name="please_correct_and_try_again">Opravte zadanie a zopakujte požiadavku</string>
-    <string name="no_network_message_format">^1 vyžaduje pravidelný prístup k sieti z dôvodu možnosti overiť licenciu.\n\nPovoľte prosím sieť, po sprístupnení siete zopakujte operácu. Následne môžete prístup k sieti opäť zakázať.\n\nPo kliknutí ^2 bude zobrazený dialóg <b>Bezdrôtové pripojenia a siete</b></string>
+    <string name="no_network_message_format">^1 vyžaduje pravidelný prístup k sieti z dôvodu možnosti overiť licenciu.\n\nPovoľte prosím sieť, po sprístupnení siete zopakujte operácu. Následne môžete prístup k sieti opäť zakázať.\n\nPo kliknutí ^2 bude zobrazený dialóg <b>^3</b></string>
     <string name="calculator">Kalkulačka</string>
     <string name="only_in_full_version">Len vo verzii PRO</string>
     <string name="will_not_effect_transactions">Žiadne existujúce transakcie <b>nebudou</b> změněny.</string>
