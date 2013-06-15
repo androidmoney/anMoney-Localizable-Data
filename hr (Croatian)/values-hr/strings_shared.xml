@@ -119,8 +119,6 @@
 	<string name="archiving_settings">Postavke arhiviranja</string>
     <string name="more">Više</string>
     <string name="specify_options">Postavi opcije</string>
-	<string name="select_all">Odaberi sve</string>
-	<string name="unselect_all">Poništi odabir svega</string>
 	<string name="expand_all">Raširi sve</string>
 	<string name="all_expanded">Sve rašireno</string>
 	<string name="collapse_all">Skupi sve</string>
@@ -129,12 +127,6 @@
     <string name="postal_address_hint">Ulica\nGrad\nPoštanski broj</string>
     <string name="calculator">Kalkulator</string>
     <string name="will_not_effect_transactions">To <b>neće</b> utjecati na postojeće transakcije</string>
-    
-	<string-array name="selected_format_plurals">
-        <item>Odabrano: 1</item>
-        <item>Odabrano: ^1</item>
-        <item/> <!-- Not used -->
-	</string-array>
     
 	<string-array name="reminder_leads">
         <item>Ne podsječaj me</item>

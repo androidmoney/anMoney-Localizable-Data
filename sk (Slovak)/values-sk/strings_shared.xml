@@ -122,8 +122,6 @@
 	<string name="archiving_settings">Možnosti zálohovania</string>
     <string name="more">Ďalší</string>
     <string name="specify_options">Upresnite parametre</string>
-	<string name="select_all">Vybrať všetko</string>
-	<string name="unselect_all">Zrušiť výber</string>
 	<string name="expand_all">Rozbaliť všetko</string>
 	<string name="all_expanded">Všetko rozbalené</string>
 	<string name="collapse_all">Zbaliť všetko</string>

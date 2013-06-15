@@ -124,8 +124,6 @@
 	<string name="archiving_settings">Archiving settings</string>
     <string name="more">More</string>
     <string name="specify_options">Specify options</string>
-	<string name="select_all">Select all</string> <!-- Select all items -->
-	<string name="unselect_all">Unselect all</string>
 	<string name="expand_all">Expand all</string>
 	<string name="all_expanded">All expanded</string>
 	<string name="collapse_all">Collapse all</string>
@@ -156,12 +154,6 @@
 	<string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
         <item/> <!-- Not used -->
         <item>^1 items</item>
-        <item/> <!-- Not used -->
-	</string-array>
-    
-	<string-array name="selected_format_plurals">
-        <item>1 selected</item>
-        <item>^1 selected</item>
         <item/> <!-- Not used -->
 	</string-array>
     

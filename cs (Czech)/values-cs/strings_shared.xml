@@ -122,8 +122,6 @@
 	<string name="archiving_settings">Možnosti zálohování</string>
     <string name="more">Další</string>
     <string name="specify_options">Upřesněte parametry</string>
-	<string name="select_all">Vybrat vše</string>
-	<string name="unselect_all">Zrušit výběr</string>
 	<string name="expand_all">Rozbalit vše</string>
 	<string name="all_expanded">Vše rozbaleno</string>
 	<string name="collapse_all">Sbalit vše</string>
@@ -155,12 +153,6 @@
         <item>^1 záznam</item>
         <item>^1 záznamy</item>
         <item>^1 záznamů</item>
-    </string-array>
-    
-	<string-array name="selected_format_plurals">
-        <item>^1 vybraný</item>
-        <item>^1 vybrané</item>
-        <item>^1 vybraných</item>
     </string-array>
     
     <string-array name="reminder_leads">

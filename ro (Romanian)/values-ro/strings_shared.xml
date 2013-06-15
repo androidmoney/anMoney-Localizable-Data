@@ -122,8 +122,6 @@
 	<string name="archiving_settings">Setări arhivare</string>
     <string name="more">Mai mult</string>
     <string name="specify_options">Specifică opţiunile</string>
-	<string name="select_all">Selectează toate</string>
-	<string name="unselect_all">Deselectează toate</string>
 	<string name="expand_all">Extinde toate</string>
 	<string name="all_expanded">Toate au fost extinse</string>
 	<string name="collapse_all">Restrânge toate</string>
@@ -153,13 +151,7 @@
     <string name="no_items_yet">Nici un articol încă</string>
 	<string-array name="items_format_plurals">
         <item/> <!-- Not used -->
-        <item>articol ^1</item>
-        <item/> <!-- Not used -->
-	</string-array>
-    
-	<string-array name="selected_format_plurals">
-        <item>selectat 1</item>
-        <item>selectat ^1</item>
+        <item>Articol ^1</item>
         <item/> <!-- Not used -->
 	</string-array>
     

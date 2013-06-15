@@ -122,8 +122,6 @@
 	<string name="archiving_settings">Paramètres d’archivage</string>
 	<string name="more">Plus</string>
 	<string name="specify_options">Spécifier les options</string>
-	<string name="select_all">Tout sélectionner</string>
-	<string name="unselect_all">Tout désélectionner</string>
 	<string name="expand_all">Tout détailler</string>
 	<string name="all_expanded">Tout détaillé</string>
 	<string name="collapse_all">Tout condenser</string>
@@ -146,12 +144,6 @@
         <item/> <!-- Not used -->
 	</string-array>
 	
-	<string-array name="selected_format_plurals">
-        <item>1 sélectionné</item>
-        <item>^1 sélectionnés</item>
-        <item/> <!-- Not used -->
-	</string-array>
-    	
 	<string-array name="reminder_leads">
 		<item>Pas de rappel</item>
 		<item>Le jour même</item>

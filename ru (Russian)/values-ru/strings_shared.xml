@@ -122,8 +122,6 @@
 	<string name="archiving_settings">Настройки архивирования</string>
     <string name="more">Ещё</string>
     <string name="specify_options">Укажите параметры</string>
-    <string name="select_all">Выбрать все</string>
-    <string name="unselect_all">Снять все выделения</string>
     <string name="expand_all">Развернуть все</string>
 	<string name="all_expanded">Развёрнуто</string>
 	<string name="collapse_all">Свернуть все</string>
@@ -146,12 +144,6 @@
 		<item>^1 элементов</item>
 	</string-array>
 	
-	<string-array name="selected_format_plurals">
-		<item>^1 выбрано</item>
-		<item>^1 выбрано</item>
-		<item>^1 выбрано</item>
-	</string-array>
-    	
 	<string-array name="reminder_leads">
         <item>Не напоминать</item>
         <item>В этот день</item>

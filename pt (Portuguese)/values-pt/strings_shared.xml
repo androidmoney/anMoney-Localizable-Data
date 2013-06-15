@@ -122,8 +122,6 @@
 	<string name="archiving_settings">Configurações de backup</string>
     <string name="more">Mais</string>
     <string name="specify_options">Especifique as opções</string>
-	<string name="select_all">Selecionar todos</string>
-	<string name="unselect_all">Desmarcar todos</string>
 	<string name="expand_all">Expandir todos</string>
 	<string name="all_expanded">Todas expandidas</string>
 	<string name="collapse_all">Recolher todas</string>
@@ -157,12 +155,6 @@
 		<item/> <!-- Not used -->
 	</string-array>
     
-	<string-array name="selected_format_plurals">
-        <item>1 selecionado</item>
-	    <item>^1 selecionados</item>
-        <item/> <!-- Not used -->
-	</string-array>
-		
 	<string-array name="reminder_leads">
         <item>Não me lembre</item>
         <item>No dia</item>

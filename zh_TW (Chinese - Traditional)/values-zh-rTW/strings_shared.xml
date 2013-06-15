@@ -122,8 +122,6 @@
 	<string name="archiving">存檔</string>
 	<string name="archiving_settings">存檔設定</string>
     <string name="more">更多</string>
-	<string name="select_all">全選</string>
-	<string name="unselect_all">取消全選</string>
 	<string name="expand_all">全部展開</string>
 	<string name="all_expanded">已展開</string>
 	<string name="collapse_all">全部摺疊</string>
@@ -153,12 +151,6 @@
     <string name="no_items_yet">還未有項目</string>
 	<string-array name="items_format_plurals">
         <item>^1 項目</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-	</string-array>
-    
-	<string-array name="selected_format_plurals">
-        <item>^1 已選擇</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
