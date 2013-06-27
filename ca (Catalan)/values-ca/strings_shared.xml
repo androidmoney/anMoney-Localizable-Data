@@ -21,7 +21,6 @@
     <string name="filter_by_order_format">^1 per ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 per ^3 ^2</string> <!-- Example: "All payees by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 per ^3 ^2 per ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
-    <string name="done">Fet</string>
     <string name="_continue">Continuar</string>
 	<string name="continue_question">Continuar</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="home">Inici</string>
@@ -34,7 +33,6 @@
     <string name="export">Exportar</string>
     <string name="export_canceled">Exportació cancel·lada</string>
 	<string name="import_export">Importar/exportar</string>
-    <string name="settings">Configuració</string>
     <string name="display_options">Opcions de visualització</string>
     <string name="add_favorite">Afegir a preferits</string>
     <string name="added_to_favorites">Afegit a preferits</string>

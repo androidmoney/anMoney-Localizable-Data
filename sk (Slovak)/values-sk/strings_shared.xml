@@ -21,7 +21,6 @@
     <string name="filter_by_order_format">^1 podľa ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 ^2 podľa ^3</string> <!-- Example: "All payees by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 ^2 podľa ^3 za ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
-    <string name="done">Uložiť</string>
     <string name="_continue">Pokračovať</string>
 	<string name="continue_question">Pokračovať</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="home">Úvod</string>
@@ -34,7 +33,6 @@
     <string name="export">Export</string>
     <string name="export_canceled">Export zrušený</string>
 	<string name="import_export">Import/Export</string>
-    <string name="settings">Nastavenia</string>
     <string name="display_options">Možnosti zobrazenia</string>
     <string name="add_favorite">Pridať k obľúbeným</string>
     <string name="added_to_favorites">Pridané k obľúbeným</string>
@@ -153,12 +151,6 @@
         <item>^1 záznam</item>
         <item>^1 záznamy</item>
         <item>^1 záznamov</item>
-    </string-array>
-    
-	<string-array name="selected_format_plurals">
-        <item>^1 označený</item>
-        <item>^1 označené</item>
-        <item>^1 označených</item>
     </string-array>
     
     <string-array name="reminder_leads">

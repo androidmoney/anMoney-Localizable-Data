@@ -27,7 +27,7 @@
     <string name="restore_warning_format">記帳本將會被覆蓋，請注意「所有」數據將會無法還原</string>
     <string name="select_backup_file_to_restore">選擇備份檔案以還原</string>
     <string name="select_backup_file_to_create_from">選擇備份檔案以創建由……</string>
-    <string name="import_statement">導入對帳單</string>
+    <string name="import_statement">匯入對帳單</string>
     <string name="no_sd_card_inserted">沒有偵測到外置記憶卡</string>
     <string name="select_files">選擇檔案</string>
     <string name="delete_file">刪除檔案</string>
@@ -38,30 +38,30 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">選擇記帳本</string>
-    <string name="select_book_to_import_into">導入對帳單到選擇的記帳本中</string>
-    <string name="select_import_file">選擇檔案以導入</string>
-    <string name="not_specified_brackets">&lt;Not specified></string>
-    <string name="map_accounts">Map accounts</string>
-    <string name="configure_account_mappings">Configure account mappings</string>
+    <string name="select_book_to_import_into">匯入對帳單到選擇的記帳本中</string>
+    <string name="select_import_file">選擇檔案以匯入</string>
+    <string name="not_specified_brackets">&lt;未指定></string>
+    <string name="map_accounts">計劃帳戶</string>
+    <string name="configure_account_mappings">配置帳戶計劃</string>
     <string name="account_required">需要帳戶</string>
     <string name="duplicate_name">重複名稱</string>
     <string name="options">選項</string>
-    <string name="select_options">選擇導入選項</string>
+    <string name="select_options">選擇匯入選項</string>
     <string name="remove_duplicates">刪除重複</string>
-    <string name="remove_duplicates_notes">While this should work correctly in the great majority of cases, there may be issues, especially if the accounts have amounts in different currencies. In these cases, matching is not possible. After import, please check that the balances are correct</string>
+    <string name="remove_duplicates_notes">雖然這在絕大多數情況下應能正常工作, 但也可能會出現問題，特別是如果該帳戶具有不同的貨幣金額。在這些情況下，匹配是不可能的。導入後，請檢查結餘是正確的</string>
     <string name="import_classes">Import classes</string>
-    <string name="ignore_memos">Ignore the memo field</string>
+    <string name="ignore_memos">忽略備忘錄</string>
     <string name="create_payees_in_app_name_format">在 ^1 創建收款人</string>
-    <string name="contact_account">Contact account to create payees in</string>
-    <string name="select_import_mode">選擇導入模式</string>
-    <string name="select_accounts_to_export">選擇帳戶以導出</string>
-    <string name="specify_export_file_format">指定導出文件格式</string>
-    <string name="mark_transactions_exported">標記交易為已導出</string>
+    <string name="contact_account">聯繫帳戶創建受款人</string>
+    <string name="select_import_mode">選擇匯入模式</string>
+    <string name="select_accounts_to_export">選擇帳戶以匯出</string>
+    <string name="specify_export_file_format">指定匯出文件格式</string>
+    <string name="mark_transactions_exported">標記交易為已匯出</string>
     <string name="create_single_file">創建一個單獨的檔案</string>
-    <string name="no_transactions_matched_your_selection_criteria">無交易符合您的選擇標準。\n\n 沒有導出任何檔案</string>
-	<string name="import_folder">導入文件夾</string>
-	<string name="export_folder">導出文件夾</string>
-    <string name="ask_to_view_imported_transaction">你是否想查看導入的交易</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="no_transactions_matched_your_selection_criteria">無交易符合您的選擇標準。\n\n 沒有匯出任何檔案</string>
+	<string name="import_folder">匯入文件夾</string>
+	<string name="export_folder">匯出文件夾</string>
+    <string name="ask_to_view_imported_transaction">你是否想查看匯入的交易</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="tip">Tip</string>
     <string name="user_guide">用戶指南</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
@@ -94,7 +94,7 @@
     <string name="set_password_now_part2_format">就算您選擇 ^1，您可以隨時長按記帳本名稱及點擊 ^2 以設定密碼</string>
     <string name="folder_name_format">文件夾名稱 (use ^1 for subfolders)</string>
     <string name="no_backup_files">未找到備份檔案</string>
-    <string name="no_backup_files_new_instructions">如果您嘗試使用導入檔案創建一本記帳本，請從新開始創建一個新的記帳本，然後再導入</string>
+    <string name="no_backup_files_new_instructions">如果您嘗試使用匯入檔案創建一本記帳本，請從新開始創建一個新的記帳本，然後再匯入</string>
     <string name="remove_transactions">刪除在此日期前的交易</string>
     <string name="book_to_make_copy_of">建立記帳本副本</string>
     <string name="truncate_warning_format">所有在 ^1 之前的交易都會被銷毀並且不能復原</string>
@@ -103,15 +103,15 @@
     <string name="join_the_user_community_format">加入 ^1 用戶社區</string>
     <string name="contact_us">聯絡我們</string>
     <string name="email_the_developers">直接電郵給開發者</string>
-    <string name="tap_to_display_import_settings_format">點擊 ^1 將顯示導入設置</string>
-    <string name="verify_import_settings">請確認您選擇的預設設定以確保你導入正確的檔案，如果一切看起來不錯，點擊<b>返回</b>以繼續導入</string>
+    <string name="tap_to_display_import_settings_format">點擊 ^1 將顯示匯入設置</string>
+    <string name="verify_import_settings">請確認您選擇的預設設定以確保你匯入正確的檔案，如果一切看起來不錯，點擊<b>返回</b>以繼續匯入</string>
     <string name="change_settings_instructions_format">This message will not appear for subsequent imports, 但您可以隨時在螢幕上方點擊 ^i 以改變設定</string> <!-- ^i will be replaced by an image -->
-    <string name="bad_import_settings">The following setting(s) appear to be incorrect for the file you are trying to import</string>
-    <string name="qif_csv_encoding_explanation_format">Typically ^1 should be used for the languages in the list below, but some financial institutions may produce files where ^2 has to be selected for them to import properly.\n\nFor all other languages NOT on the list, ^2 should always be selected</string>
-    <string name="credits_legal">Credits &amp; legal</string>
-    <string name="contact_and_social">聯絡 &amp; social</string>
+    <string name="bad_import_settings">你所嘗試導入的檔案設定不正確</string>
+    <string name="qif_csv_encoding_explanation_format">一般以下語言應該使用 ^1 ，但部分金融機構可能需要使用 ^2。\n\n如果你所選擇的語言不在以下名單中，請選擇 ^2 </string>
+    <string name="credits_legal">版權擁有</string>
+    <string name="contact_and_social">聯絡</string>
     <string name="follow_us">訂閱我們</string>
-    <string name="add_us_to_circle">Add us to your circles and +1 us</string>
+    <string name="add_us_to_circle">新增我們到圈子中及 +1 我們</string>
     <string name="become_a_fan">成為粉絲</string>
     <string name="haptic_feedback">觸覺反饋</string>
     <string name="haptic_feedback_description">選定選項時，手機會震動</string>
@@ -130,17 +130,17 @@
 	<string-array name="book_new_source_descriptions">
 	    <item/> <!-- Intentionally left empty -->
 	    <item/> <!-- Intentionally left empty -->
-	    <item>and optionally truncate at a given date</item>
+	    <item>在一個指定的日期，選擇性地截斷</item>
     </string-array>
 	
 	<string-array name="import_mode">
         <item>從銀行下載的對帳單</item>
-        <item>從其他軟件導出的數據</item>
+        <item>從其他軟件匯出的數據</item>
     </string-array>
 
 	<string-array name="import_mode_description">
-        <item>Used for statements downloaded from various financial institutions, such as a month-end statement from American Express. Both <b>QIF</b> and <b>OFX/QFX/OFS</b> formats are supported. The import file(s) must not contain transfers between accounts</item>
-        <item>Used for transferring data from another personal finance software, such as Microsoft® Money or Quicken®. Only the <b>QIF</b> format is supported</item>
+        <item>從金融機構下載的對帳單，支援 <b>QIF</b> 及 <b>OFX/QFX/OFS</b> 格式。匯入的檔案不得包含賬戶之間的轉帳</item>
+        <item>從其他個人理財軟件中匯出的數據，例如 Microsoft® Money 式 Quicken®。只支援 <b>QIF</b> 格式</item>
     </string-array>
 
 	<string-array name="book_export_file_type_description">
@@ -149,9 +149,9 @@
         <item>支持電子表格應用程式，例如Microsoft® Excel 或 Google™ Docs。 The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
     </string-array>
 
-    <string name="import_file_confirm_format">你是否想導入 ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="import_file_confirm_format">你是否想匯入 ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-        <item>你是否想導入 ^1 檔案</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item>你是否想匯入 ^1 檔案</item> <!-- This is a question, but the question mark will be added progrmatically -->
 	    <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
@@ -173,7 +173,7 @@
     <string name="password_time_out_period">密碼有效週期</string>
 	<string-array name="n_seconds_format_plurals">
         <item>^1 秒</item>
-	    <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
@@ -251,7 +251,7 @@
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>已導出 ^1 個交易項目</item>
+        <item>已匯出 ^1 個交易項目</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
@@ -265,12 +265,12 @@
 	<string name="external_storage">外部存儲</string>	
 	<string name="path">路徑</string>	
 
-    <string name="qif_csv_date_order">QIF/CSV date order</string>
+    <string name="qif_csv_date_order">QIF/CSV 日期順序</string>
 
-	<string name="comma">Comma</string>	
-    <string name="qif_csv_decimal_mark">QIF/CSV decimal mark</string>
+	<string name="comma">逗號</string>	
+    <string name="qif_csv_decimal_mark">QIF/CSV 小數符號</string>
 	<string-array name="qif_csv_decimal_marks">
-        <item>Decimal point</item>
+        <item>小數點</item>
         <item>@string/comma</item>
     </string-array>
 
@@ -280,8 +280,14 @@
         <item>Semicolon</item>
     </string-array>
 
-	<string name="qif_csv_encoding">QIF/CSV encoding</string>
-    <string name="ofx_qfx_encoding">OFX/QFX/OFS encoding</string>
+    <string name="csv_delimiter">CSV 分隔符號</string>
+	<string-array name="csv_delimiters">
+        <item>@string/comma</item>
+        <item>分號</item>
+    </string-array>
+
+	<string name="qif_csv_encoding">QIF/CSV 編碼</string>
+    <string name="ofx_qfx_encoding">OFX/QFX/OFS 編碼</string>
 	<string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
@@ -289,9 +295,7 @@
         <item>Cyrillic (Windows)</item>
         <item>Western European (Windows)</item>
         <item>Central European (Windows)</item>
-        <item>UTF-16BE (Unicode)</item>
-        <item>UTF-16LE (Unicode)</item>
-	</string-array>
+    </string-array>
 
     <string name="maintain_entries">維護帳目</string>
     <string name="maintain_number_field_entries">維護輸入帳目的數量</string>

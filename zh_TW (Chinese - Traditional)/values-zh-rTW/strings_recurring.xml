@@ -9,12 +9,12 @@
 	<string name="enter">輸入</string>
 	<string name="entered">已輸入</string>
 	<string name="enter_canceled">輸入已取消</string>
-	<string name="enter_into_register">Enter into register</string>
-	<string name="enter_into_register_warning">Please confirm that you want to enter this into the register right now</string>
+	<string name="enter_into_register">輸入到記帳本</string>
+	<string name="enter_into_register_warning">請確認你是否現在輸入項到記帳本</string>
 	<string name="enter_now">現在輸入</string>
 	<string name="enter_after_editing">編輯後輸入</string>
 	<string name="enter_partially_after_editing">編輯後輸入部分</string>
-	<string name="move_to_next_occurrence">Move to the next occurrence</string>
+	<string name="move_to_next_occurrence">移動到下一個事件</string>
 	<string name="remain_on_this_occurrence_format">Remain on this occurrence, if entered amount is less than ^1</string>	    	    	
 	<string name="edit_recurring">編輯常用項目</string>
 	<string name="edit_series">Edit series</string>

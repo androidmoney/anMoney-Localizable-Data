@@ -32,8 +32,8 @@
     <string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" -->
 	<string name="not_void1">非無效</string> <!-- This is an adjective as in "Not void transaction" -->
     <string name="pending2">處理中</string> <!--- As in it is a new transaction, and I need to review and accept it -->
-	<string name="exported_transaction">已導出</string>
-    <string name="not_exported_transaction1">未導出</string>
+	<string name="exported_transaction">已匯出</string>
+    <string name="not_exported_transaction1">未匯出</string>
     <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
     <string name="edit_notes">編輯備註</string>
     <string name="notes_created">備註已被建立</string>
@@ -50,7 +50,7 @@
     <string name="follow_up_deleted">已刪除後續行動</string>
     <string name="follow_up_creation_canceled">已取消建立後續行動</string>
     <string name="go_to">跳至</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
-    <string name="number">號碼</string>
+    <string name="number">卡類型</string>
     <string name="transfer">轉帳</string>
     <string name="transfers">轉帳人</string>
     <string name="transfer_account">轉帳戶口</string>
@@ -145,7 +145,7 @@
     </string-array>
 	<string-array name="amount2_labels">
         <item>存款</item>
-        <item>Receive</item>
+        <item>接收</item>
         <item>Credit</item>
         <item>Principal receipt</item>
         <item>Decrease</item>

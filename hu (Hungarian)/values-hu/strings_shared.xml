@@ -21,7 +21,6 @@
     <string name="filter_by_order_format">^1 ^2 szerint</string>
 	<string name="filter_by_direction_order_format">^1 ^2 ^3 szerint</string>
 	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 ^2 ^3 szerint ^4</string>
-    <string name="done">Kész</string>
     <string name="_continue">Tovább</string>
 	<string name="continue_question">Tovább</string>
     <string name="home">Kezdőlap</string>
@@ -34,7 +33,6 @@
     <string name="export">Exportálás</string>
     <string name="export_canceled">Exportáltá megszakítva</string>
 	<string name="import_export">Importálás/exportálás</string>
-    <string name="settings">Beállítások</string>
     <string name="display_options">Megjelenítés opciói</string>
     <string name="add_favorite">Kedvencekhez adás</string>
     <string name="added_to_favorites">Kedvencekhez adta</string>

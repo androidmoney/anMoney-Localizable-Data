@@ -22,7 +22,6 @@
     <string name="filter_by_order_format">^1 排序以 ^2　</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 排序以 ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 排序以 ^2 ^3 在 ^4　</string> <!-- Example: "All transactions by decreasing date for all dates" -->
-    <string name="done">完成</string>
     <string name="_continue">繼續</string>
 	<string name="continue_question">繼續</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="home">主頁</string>
@@ -35,7 +34,6 @@
     <string name="export">匯出</string>
     <string name="export_canceled">取消匯出</string>
 	<string name="import_export">匯入/匯出</string>
-    <string name="settings">設定</string>
     <string name="display_options">顯示選項</string>
     <string name="add_favorite">加到我的最愛</string>
     <string name="added_to_favorites">已加到我的最愛</string>
@@ -84,7 +82,7 @@
     <string name="name">姓名</string>
     <string name="invalid_name">姓名無效</string>
     <string name="name_exists">姓名已存在</string>
-    <string name="amount">數量</string>
+    <string name="amount">金額</string>
     <string name="start_date">開始日期</string>
     <string name="end_date">結束日期</string>
     <string name="must_be_less_than_format">必須 &lt; ^1</string>
@@ -93,8 +91,8 @@
     <string name="total">總共</string>
     <string name="grand_total">累計</string>
     <string name="average">平均</string>
-    <string name="export_file_name">導出文件名</string>
-    <string name="specify_export_file_name">指定導出文件名</string>
+    <string name="export_file_name">匯出文件名</string>
+    <string name="specify_export_file_name">指定匯出文件名</string>
     <string name="file_exists">文件名稱已經存在</string>
     <string name="folder_exists">資料夾名稱已經存在</string>
     <string name="choose_another_name">選擇其他名稱</string>

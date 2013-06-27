@@ -21,7 +21,6 @@
     <string name="filter_by_order_format">^1 par ^2</string>
     <string name="filter_by_direction_order_format">^1 par ordre ^2 de ^3</string>
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 par ordre ^2 de ^3 pour ^4</string>
-	<string name="done">Valider</string>
 	<string name="_continue">Continuer</string>
 	<string name="continue_question">Continuer</string>
 	<string name="home">Menu principal</string>
@@ -34,7 +33,6 @@
 	<string name="export">Exporter</string>
 	<string name="export_canceled">Exportation annulée</string>
    	<string name="import_export">Importer/exporter</string>
-	<string name="settings">Paramètres</string>
 	<string name="display_options">Options d’affichage</string>
 	<string name="add_favorite">Ajouter aux favoris</string>
 	<string name="added_to_favorites">Ajouté aux favoris</string>
