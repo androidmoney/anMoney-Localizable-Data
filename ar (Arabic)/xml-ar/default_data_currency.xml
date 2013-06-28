@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<region>الأرجنتين</region>
+		<name>بيزو أرجنتيني</name>
+		<iso4217>ARS</iso4217>
+	</record>
+	<record>
+		<region>أستراليا</region>
+		<name>دولار أسترالي</name>
+		<iso4217>AUD</iso4217>
+	</record>
+	<record>
+		<region>البحرين</region>
+		<name>دينار بحريني</name>
+		<symbol>د.ب.‏</symbol>
+		<iso4217>BHD</iso4217>
+	</record>
+	<record>
+		<region>بربادوس</region>
+		<name>دولار بربادوسي</name>
+		<iso4217>BBD</iso4217>
+	</record>
+	<record>
+		<region>بوليفيا</region>
+		<name>بوليفيانو بوليفي</name>
+		<iso4217>BOB</iso4217>
+	</record>
+	<record>
+		<region>البرازيل</region>
+		<name>ريال برازيلي</name>
+		<symbol>ر.ب.‏</symbol>
+		<iso4217>BRL</iso4217>
+	</record>
+	<record>
+		<region>المملكة المتحدة</region>
+		<name>جنيه إسترليني</name>
+		<iso4217>GBP</iso4217>
+	</record>
+	<record>
+		<region>كندا</region>
+		<name>دولار كندي</name>
+		<iso4217>CAD</iso4217>
+	</record>
+	<record>
+		<region>الصين</region>
+		<name>فرنك أفريقي</name>
+		<symbol>ف.ا.‏</symbol>
+		<iso4217>XAF</iso4217>
+	</record>
+	<record>
+		<region>شيلي</region>
+		<name>بيزو شيلي</name>
+		<iso4217>CLP</iso4217>
+	</record>
+	<record>
+		<region>الصين</region>
+		<name>يوان صيني</name>
+		<symbol>ي.ص</symbol>
+		<iso4217>CNY</iso4217>
+	</record>
+	<record>
+		<region>كولومبيا</region>
+		<name>بيزو كولومبي</name>
+		<iso4217>COP</iso4217>
+	</record>
+	<record>
+		<region>جمهورية التشيك</region>
+		<name>كرونة تشيكية</name>
+		<iso4217>CZK</iso4217>
+	</record>
+	<record>
+		<region>الدانمرك</region>
+		<name>كرونة دانماركي</name>
+		<iso4217>DKK</iso4217>
+	</record>
+	<record>
+		<region>أنتيغوا وبربودا</region>
+		<name>دولار شرق الكاريبي</name>
+		<iso4217>XCD</iso4217>
+	</record>
+	<record>
+		<region>مصر</region>
+		<name>جنيه مصري</name>
+		<symbol>ج.م.‏</symbol>
+		<iso4217>EGP</iso4217>
+	</record>
+	<record>
+		<region>الإمارات العربية المتحدة</region>
+		<name>درهم إماراتي</name>
+		<symbol>د.إ.‏</symbol>
+		<iso4217>AED</iso4217>
+	</record>
+	<record>
+		<region>منطقة اليورو</region>
+		<name>يورو</name>
+		<iso4217>EUR</iso4217>
+	</record>
+	<record>
+		<region>هونغ كونغ</region>
+		<name>دولار هونج كونج</name>
+		<iso4217>HKD</iso4217>
+	</record>
+	<record>
+		<region>هنغاريا</region>
+		<name>فورينت مجري</name>
+		<iso4217>HUF</iso4217>
+	</record>
+	<record>
+		<region>أيسلندا</region>
+		<name>كرونه أيسلندي</name>
+		<iso4217>ISK</iso4217>
+	</record>
+	<record>
+		<region>الهند</region>
+		<name>روبيه هندي</name>
+		<symbol>ر.ه.‏</symbol>
+		<iso4217>INR</iso4217>
+	</record>
+	<record>
+		<region>اندونيسيا</region>
+		<name>روبية إندونيسية</name>
+		<iso4217>IDR</iso4217>
+	</record>
+	<record>
+		<region>إسرائيل</region>
+		<name>شيكل إسرائيلي جديد</name>
+		<iso4217>ILS</iso4217>
+	</record>
+	<record>
+		<region>جامايكا</region>
+		<name>دولار جامايكي</name>
+		<iso4217>JMD</iso4217>
+	</record>
+	<record>
+		<region>اليابان</region>
+		<name>ين ياباني</name>
+		<iso4217>JPY</iso4217>
+	</record>
+	<record>
+		<region>الأردن</region>
+		<name>دينار أردني</name>
+		<symbol>د.أ.‏</symbol>
+		<iso4217>JOD</iso4217>
+	</record>
+	<record>
+		<region>كينيا</region>
+		<name>شلن كينيي</name>
+		<iso4217>KES</iso4217>
+	</record>
+	<record>
+		<region>كوريا الجنوبية</region>
+		<name>وون كوريا الجنوبية</name>
+		<iso4217>KRW</iso4217>
+	</record>
+	<record>
+		<region>الكويت</region>
+		<name>دينار كويتي</name>
+		<symbol>د.ك.‏</symbol>
+		<iso4217>KWD</iso4217>
+	</record>
+	<record>
+		<region>لاتفيا</region>
+		<name>لاتس لاتفيا</name>
+		<iso4217>LVL</iso4217>
+	</record>
+	<record>
+		<region>لبنان</region>
+		<name>جنية لبناني</name>
+		<symbol>ل.ل.‏</symbol>
+		<iso4217>LBP</iso4217>
+	</record>
+	<record>
+		<region>ليتوانيا</region>
+		<name>الليتا الليتوانية</name>
+		<iso4217>LTL</iso4217>
+	</record>
+	<record>
+		<region>ماليزيا</region>
+		<name>رينغيت ماليزي</name>
+		<iso4217>MYR</iso4217>
+	</record>
+	<record>
+		<region>المكسيك</region>
+		<name>بيزو مكسيكي</name>
+		<iso4217>MXN</iso4217>
+	</record>
+	<record>
+		<region>المغرب</region>
+		<name>درهم مغربي</name>
+		 <symbol>د.م.‏</symbol>
+		<iso4217>MAD</iso4217>
+	</record>
+	<record>
+		<region>ناميبيا</region>
+		<name>دولار ناميبي</name>
+		<iso4217>NAD</iso4217>
+	</record>
+	<record>
+		<region>نيبال</region>
+		<name>روبية نيبالي</name>
+		<iso4217>NPR</iso4217>
+	</record>
+	<record>
+		<region>تركيا</region>
+		<name>ليرة تركية</name>
+		<iso4217>TRY</iso4217>
+	</record>
+	<record>
+		<region>نيوزيلاندا</region>
+		<name>دولار نيوزيلندي</name>
+		<iso4217>NZD</iso4217>
+	</record>
+	<record>
+		<region>النيجر</region>
+		<name>فرنك سي إف إيه غرب إفريقيا</name>
+		<iso4217>XOF</iso4217>
+	</record>
+	<record>
+		<region>نيجيريا</region>
+		<name>نايرا نيجيري</name>
+		<iso4217>NGN</iso4217>
+	</record>
+	<record>
+		<region>النرويج</region>
+		<name>كرونة نرويجية</name>
+		<iso4217>NOK</iso4217>
+	</record>
+	<record>
+		<region>عُمان</region>
+		<name>ريال عماني</name>
+		<symbol>ر.ع.‏</symbol>
+		<iso4217>OMR</iso4217>
+	</record>
+	<record>
+		<region>باكستان</region>
+		<name>روبية باكستاني</name>
+		<iso4217>PKR</iso4217>
+	</record>
+	<record>
+		<region>بنما</region>
+		<name>بالبوا بنمي</name>
+		<iso4217>PAB</iso4217>
+	</record>
+	<record>
+		<region>بيرو</region>
+		<name>سول جديد البيرو</name>
+		<iso4217>PEN</iso4217>
+	</record>
+	<record>
+		<region>الفيلبين</region>
+		<name>بيزو فلبيني</name>
+		<iso4217>PHP</iso4217>
+	</record>
+	<record>
+		<region>بولندا</region>
+		<name>زلوتي بولندي</name>
+		<iso4217>PLN</iso4217>
+	</record>
+	<record>
+		<region>قطر</region>
+		<name>ريال قطري</name>
+		<symbol>ر.ق.‏</symbol>
+		<iso4217>QAR</iso4217>
+	</record>
+	<record>
+		<region>رومانيا</region>
+		<name>ليو روماني</name>
+		<iso4217>RON</iso4217>
+	</record>
+	<record>
+		<region>روسيا</region>
+		<name>روبل روسي</name>
+		<iso4217>RUB</iso4217>
+	</record>
+	<record>
+		<region>المملكة العربية السعودية</region>
+		<name>ريال سعودي</name>
+		<symbol>ر.س.‏</symbol>
+		<iso4217>SAR</iso4217>
+	</record>
+	<record>
+		<region>سنغافورة</region>
+		<name>دولار سنغافوري</name>
+		<iso4217>SGD</iso4217>
+	</record>
+	<record>
+		<region>جنوب أفريقيا</region>
+		<name>راند جنوب أفريقيا</name>
+		<iso4217>ZAR</iso4217>
+	</record>
+	<record>
+		<region>سريلانكا</region>
+		<name>روبية سريلانكية</name>
+		<iso4217>LKR</iso4217>
+	</record>
+	<record>
+		<region>السويد</region>
+		<name>كرونة سويدية</name>
+		<iso4217>SEK</iso4217>
+	</record>
+	<record>
+		<region>سويسرا</region>
+		<name>فرنك سويسري</name>
+		<iso4217>CHF</iso4217>
+	</record>
+	<record>
+		<region>تايوان</region>
+		<name>دولار تايواني</name>
+		<iso4217>TWD</iso4217>
+	</record>
+	<record>
+		<region>تايلند</region>
+		<name>باخت تايلاندي</name>
+		<iso4217>THB</iso4217>
+	</record>
+	<record>
+		<region>أوكرانيا</region>
+		<name>هريفنيا أوكراني</name>
+		<iso4217>UAH</iso4217>
+	</record>
+	<record>
+		<region>أورغواي</region>
+		<name>بيزو اوروغواي</name>
+		<iso4217>UYU</iso4217>
+	</record>
+	<record>
+		<region>الولايات المتحدة الأمريكية</region>
+		<name>دولار أمريكي</name>
+		<iso4217>USD</iso4217>
+	</record>
+	<record>
+		<region>فنزويلا</region>
+		<name>بوليفار فنزويلي</name>
+		<iso4217>VEF</iso4217>
+	</record>
+	<record>
+		<region>فيتنام</region>
+		<name>دونج فيتنامي</name>
+		<iso4217>VND</iso4217>
+	</record>
+
+	<record>
+		<region>آروبا</region>
+		<name>جلدر أروبي</name>
+		<iso4217>AWG</iso4217>
+	</record>
+	<record>
+		<region>البوسنة والهرسك</region>
+		<name>مارك البوسنة والهرسك قابل للتحويل</name>
+		<iso4217>BAM</iso4217>
+	</record>
+	<record>
+		<region>بنجلاديش</region>
+		<name>تاكا بنجلاديشي</name>
+		<iso4217>BDT</iso4217>
+	</record>
+	<record>
+		<region>بلغاريا</region>
+		<name>ليف بلغاري جديد</name>
+		<iso4217>BGN</iso4217>
+	</record>
+	<record>
+		<region>برمودا</region>
+		<name>دولار برمودي</name>
+		<iso4217>BMD</iso4217>
+	</record>
+	<record>
+		<region>الباهاما</region>
+		<name>دولار باهامي</name>
+		<iso4217>BSD</iso4217>
+	</record>
+	<record>
+		<region>فيجي</region>
+		<name>دولار فيجي</name>
+		<iso4217>FJD</iso4217>
+	</record>
+	<record>
+		<region>غانا</region>
+		<name>سيدي غانا</name>
+		<iso4217>GHS</iso4217>
+	</record>
+	<record>
+		<region>غامبيا</region>
+		<name>دلاسي جامبي</name>
+		<iso4217>GMD</iso4217>
+	</record>
+	<record>
+		<region>غواتيمالا</region>
+		<name>كوتزال جواتيمالا</name>
+		<iso4217>GTQ</iso4217>
+	</record>
+	<record>
+		<region>كرواتيا</region>
+		<name>كونا كرواتي</name>
+		<iso4217>HRK</iso4217>
+	</record>
+	<record>
+		<region>كمبوديا</region>
+		<name>رييال كمبودي</name>
+		<iso4217>KHR</iso4217>
+	</record>
+	<record>
+		<region>لاوس</region>
+		<name>كيب لاوسي</name>
+		<iso4217>LAK</iso4217>
+	</record>
+	<record>
+		<region>مولدافيا</region>
+		<name>لاو مولدوفي</name>
+		<iso4217>MDL</iso4217>
+	</record>
+	<record>
+		<region>مدغشقر</region>
+		<name>أرياري مدغشقر</name>
+		<iso4217>MGA</iso4217>
+	</record>
+	<record>
+		<region>مقدونيا</region>
+		<name>دينار مقدوني</name>
+		<iso4217>MKD</iso4217>
+	</record>
+	<record>
+		<region>موريشيوس</region>
+		<name>روبية موريشيوسية</name>
+		<iso4217>MUR</iso4217>
+	</record>
+	<record>
+		<region>جزر المالديف</region>
+		<name>روفيه جزر المالديف</name>
+		<iso4217>MVR</iso4217>
+	</record>
+	<record>
+		<region>باراغواي</region>
+		<name>جواراني باراجواي</name>
+		<iso4217>PYG</iso4217>
+	</record>
+	<record>
+		<region>صربيا</region>
+		<name>دينار صربي</name>
+		<iso4217>RSD</iso4217>
+	</record>
+	<record>
+		<region>سيشل</region>
+		<name>روبية سيشيلية</name>
+		<iso4217>SCR</iso4217>
+	</record>
+	<record>
+		<region>سوريا</region>
+		<name>ليرة سورية</name>
+		<iso4217>SYP</iso4217>
+	</record>
+	<record>
+		<region>تونس</region>
+		<name>دينارتونسي</name>
+		<symbol>د.ت</symbol>
+		<iso4217>TND</iso4217>
+	</record>
+	<record>
+		<region>أوغندا</region>
+		<name>شلن أوغندي</name>
+		<iso4217>UGX</iso4217>
+	</record>
+	<record>
+		<region>بولينيزيا الفرنسية</region>
+		<name>فرنك سي إف بي</name>
+		<iso4217>XPF</iso4217>
+	</record>
+</records>	
