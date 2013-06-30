@@ -134,7 +134,7 @@
     <string name="only_in_full_version">Csak a PRO verzióban elérhető</string>
     <string name="will_not_effect_transactions">Ez <b>nem</b> érinti a meglévő tranzakciókat</string>
     
-	<string name="free_limitations">Vegye meg a PRO verziót a <b>Play Áruházban</b>, hogy eltávolítsa ez alábbi korlátokat:\n\n
+	<string name="free_limitations">Vegye meg a PRO verziót, hogy eltávolítsa ez alábbi korlátokat:\n\n
 	<li>Nincs jelszavas biztonság</li>\n
 	<li>Nincs automatikus mentés</li>\n
 	<li>Nincsenek személyre szabott jelentések</li>\n

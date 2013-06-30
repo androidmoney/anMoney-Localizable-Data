@@ -134,7 +134,7 @@
     <string name="only_in_full_version">Jen ve verzi PRO</string>
     <string name="will_not_effect_transactions">Žádné existující transakce <b>nebudou</b> změněny.</string>
     
-	<string name="free_limitations">Koupí verze PRO na <b>Google Play</b> nebo na <b>Amazon Appstore</b> odstraníte tato omezení:\n\n
+	<string name="free_limitations">Koupí verze PRO odstraníte tato omezení:\n\n
 	<li>Bez možnosti zabezpečení pomocí hesla</li>\n
 	<li>Nedostupné automatické zálohování</li>\n
 	<li>Nedostupné uživatelské reporty</li>\n

@@ -134,7 +134,7 @@
     <string name="only_in_full_version">Doar în versiunea PRO</string>
     <string name="will_not_effect_transactions">Aceasta  <b>nu</b> va afecta tranzacţiile existente</string>
     
-	<string name="free_limitations">Achiziţionaţi versiunea PRO din <b>Google Play</b> sau din <b>Amazon Appstore</b> pentru a elimina următoarele limitări:\n\n
+	<string name="free_limitations">Achiziţionaţi versiunea PRO pentru a elimina următoarele limitări:\n\n
 	<li>Lipsa unei parole de securitate</li>\n
 	<li>Lipsa autocreării unei copii de siguranţă a datelor</li>\n
 	<li>Lipsa rapoartelor customizabile</li>\n

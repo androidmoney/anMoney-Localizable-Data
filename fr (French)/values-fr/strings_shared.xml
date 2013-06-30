@@ -134,6 +134,17 @@
 	<string name="only_in_full_version">Disponible uniquement dans la version PRO</string>
     <string name="will_not_effect_transactions">Ceci n’affectera <b>pas</b> les transactions existantes</string>
 
+<!-- New --> <string name="free_limitations">Purchase the PRO version to remove the following limitations:\n\n
+	<li>No password security</li>\n
+	<li>No auto backups of your data</li>\n
+	<li>No custom reports</li>\n
+	<li>QIF imports only</li>\n
+	<li>No Contacts integration</li>\n
+	<li>At most 2 bank, 1 credit and 1 cash account</li>\n
+	<li>At most 5 budget items</li>\n
+	<li>At most 3 recurring bills or deposits</li> 
+	</string>
+    
 	<string name="no_items">Aucun élément</string>
 	<string name="no_items_yet">Pas encore d’élément</string>
    	<string-array name="items_format_plurals">

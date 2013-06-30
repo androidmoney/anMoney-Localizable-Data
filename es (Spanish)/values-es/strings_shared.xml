@@ -134,7 +134,7 @@
     <string name="only_in_full_version">Sólo en la versión PRO</string>
     <string name="will_not_effect_transactions">Esto <b>no</b> afectará a las operaciones existentes</string>
     
-	<string name="free_limitations">Comprar la versión PRO en el <b>Android Market</b> o en <b>Amazon Appstore</b> para eliminar las limitaciones siguientes:\n\n
+	<string name="free_limitations">Comprar la versión PRO para eliminar las limitaciones siguientes:\n\n
 	<li>Sin contraseña de seguridad</li>\n
 	<li>Sin backup automatico de sus datos</li>\n
 	<li>Sin reportes personalizados</li>\n
