@@ -129,7 +129,7 @@
     <string name="default_savings_account_name">Mi cuenta de ahorros</string>
     <string name="default_credit_account_name">Mi tarjeta de crédito</string>
     <string name="color">Color</string>
-    <string name="projected_balance">Pevisto</string>
+    <string name="projected_balance">Previsto</string>
     <string name="projected_balance_at_the_end_of_the_month">Saldo previsto a fin de mes</string>
     <string name="at_months_end">A fin de mes</string>
 	<string name="projected_balance_on_the_nth_day_of_the_month_format">Saldo previsto al ^1</string>

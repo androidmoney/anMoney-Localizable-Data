@@ -119,7 +119,7 @@
     <string name="net_worth_over_time">Изменение капитала / Прогноз</string>
 	<string name="set_total_to_show">Отображаемый баланс</string>
 	<string name="total_to_show">Отображаемый баланс</string>
-    <string name="selected_total">Баланс отмеченных транзакций</string>
+    <string name="selected_total">Баланс выбранных транзакций</string>
 	<string name="entered_total">Общий баланс</string>
 	<string name="balance_as_of_today">Сегодняшний баланс</string>
 	<string name="cleared_total">Чистый баланс</string>

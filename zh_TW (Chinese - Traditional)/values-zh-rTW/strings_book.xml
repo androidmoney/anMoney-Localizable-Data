@@ -274,12 +274,6 @@
         <item>@string/comma</item>
     </string-array>
 
-    <string name="csv_delimiter">CSV delimiter</string>
-	<string-array name="csv_delimiters">
-        <item>@string/comma</item>
-        <item>Semicolon</item>
-    </string-array>
-
     <string name="csv_delimiter">CSV 分隔符號</string>
 	<string-array name="csv_delimiters">
         <item>@string/comma</item>
@@ -295,7 +289,9 @@
         <item>Cyrillic (Windows)</item>
         <item>Western European (Windows)</item>
         <item>Central European (Windows)</item>
-    </string-array>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
 
     <string name="maintain_entries">維護帳目</string>
     <string name="maintain_number_field_entries">維護輸入帳目的數量</string>

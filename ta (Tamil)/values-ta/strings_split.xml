@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="splits">பிளவுகள்</string> <!-- This is a noun -->
+    <string name="split_canceled">பிளவு இரத்து செய்யப்பட்டது</string> <!-- "Split" is a verb -->
+    <string name="new_split">புதிய பிளவு</string> <!-- "Split" here and below are nouns -->
+    <string name="edit_split">பிளவை திருத்து</string>
+    <string name="edit_splits">பிளவுகளை திருத்து</string>
+    <string name="delete_split">பிளவை அழி</string>
+	<string name="delete_split_warning">பிளவு அழிக்கப்பட்டுவிடும்</string>
+	<string name="sum_of_splits">பிளவுகளின் தொகை</string>
+	<string name="unassigned">ஒதுக்கப்படாதது</string>
+	<string name="transaction_total">பரிவர்த்தனை கூட்டுத்தொகை</string>
+    <string name="go_back_to_edit">பிளவு திருத்ததிற்கு திரும்பு</string>
+    <string name="unassigned_split_message_format">பிளவுகளின் தொகை ^1, பரிவர்த்தனைகளின் கூட்டுத்தொகை ^2. ^3 ஒதுக்கப்படாமல் விடப்பட்டது, இது பரிந்துரைக்கப்படவில்லை</string>
+    <string name="what_would_you_like_to_do">நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_the_total_format">^1 ஐ கூட்டுத்தொகையாக அமை</string>
+    <string name="distribute_format">^1 ஐ சமமாக பகிர்ந்தளி</string>
+    <string name="leave_unassigned_format">^1 ஐ ஒதுக்கப்படாததாக விடு</string>
+    <string name="distributed">பகிர்தளிக்கப்பட்டது</string>
+</resources>

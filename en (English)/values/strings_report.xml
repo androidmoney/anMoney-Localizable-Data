@@ -30,9 +30,11 @@
 	<string name="report_type">Report type</string>
 	<string name="group">Group</string> <!-- This is a verb -->
 	<string name="do_not_group">Do not group</string>
-	<string name="today">Today</string>
-	<string name="tomorrow">Tomorrow</string>
-	<string name="yesterday">Yesterday</string>
+	<string name="day_0">Today</string>
+	<string name="day_p1">Tomorrow</string>
+	<string name="day_m1">Yesterday</string>
+	<string name="day_p2"></string> <!-- Intentionally left empty -->
+	<string name="day_m2"></string> <!-- Intentionally left empty -->
 	<string name="select_report">Select report</string>
     <string name="report_folder">Report folder</string>
 	<string name="language">Language</string>

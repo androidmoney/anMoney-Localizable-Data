@@ -28,10 +28,12 @@
 	<string name="report_type">Тип отчёта</string>
     <string name="group">Группировать</string>
 	<string name="do_not_group">Не группировать</string>
-    <string name="today">Сегодня</string>
-	<string name="tomorrow">Завтра</string>
-	<string name="yesterday">Вчера</string>
-    <string name="select_report">Выберите отчёт</string>
+    <string name="day_0">Сегодня</string>
+	<string name="day_p1">Завтра</string>
+	<string name="day_m1">Вчера</string>
+	<string name="day_p2"></string>
+	<string name="day_m2"></string>
+	<string name="select_report">Выберите отчёт</string>
     <string name="report_folder">Каталог для отчетов</string>
 	<string name="language">Язык</string>
 	<string name="text_size">Размер шрифта</string>

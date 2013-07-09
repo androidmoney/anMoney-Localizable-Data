@@ -28,9 +28,11 @@
 	<string name="report_type">Tipo de reporte</string>
 	<string name="group">Agrupar</string>
 <!-- Verify -->	<string name="do_not_group">No agrupar</string>
-	<string name="today">Hoy</string>
-	<string name="tomorrow">Mañana</string>
-	<string name="yesterday">Ayer</string>
+	<string name="day_0">Hoy</string>
+	<string name="day_p1">Mañana</string>
+	<string name="day_m1">Ayer</string>
+	<string name="day_p2"></string>
+	<string name="day_m2"></string>
 	<string name="select_report">Selecciona el reporte</string>
 <!-- Verify -->  <string name="report_folder">Carpeta de reporte</string>
 	<string name="language">Idioma</string>

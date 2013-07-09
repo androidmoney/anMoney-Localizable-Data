@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+	<string name="book">Registru</string>
+    <string name="new_book">Registru nou</string>
+    <string name="new_book_name">Nume registru nou</string>
+    <string name="rename_book">Redenumeşte registru</string>
+    <string name="delete_book">Şterge registru</string>
+    <string name="share_book">Distribuie registru</string>
+    <string name="book_delete_warning_short_format">Registrul ^1 va fi şters</string>
+    <string name="all_data_will_be_lost">Toate datele din acest registru vor fi pierdute definitiv, dacă nu faceţi o copie de rezervă</string>
+    <string name="import_into_book">Importă în registru</string>
+    <string name="export_from_book">Exportă din registru</string>
+    <string name="import_into_book_format">Importă în registrul ^1</string>
+    <string name="no_books">Nu aveţi niciun registru</string>
+    <string name="upgrading_book">Actualizez registrul</string>
+    <string name="upgrading_books">Actualizez registrele</string>
+    <string name="backup">Copiere de rezervă</string>
+    <string name="backup_canceled">Copiere de rezervă anulată</string>
+    <string name="backup_book">Copiere de rezervă a registrului</string>
+    <string name="overwrite">Suprascrie</string>
+    <string name="backup_name">Nume copie de rezervă</string>
+    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+    <string name="restore">Refacere</string>
+    <string name="restored">Refăcut</string>
+    <string name="restore_canceled">Refacere anulată</string>
+    <string name="restore_book">Refacere registru</string>
+    <string name="restore_warning_format">Registrul ^1 va fi suprascris şi <b>toate</b> datele acestuia vor fi distruse iremediabil</string>
+    <string name="select_backup_file_to_restore">Selectaţi fişierul de rezervă care va fi refăcut</string>
+    <string name="select_backup_file_to_create_from">Selectaşi fişierul de rezervă din care va fi creat</string>
+    <string name="import_statement">Declaraţie de import</string>
+    <string name="no_sd_card_inserted">Nu este niciun card SD introdus</string>
+    <string name="select_files">Selectează fişierele</string>
+    <string name="delete_file">Şterge fişierul</string>
+    <string name="delete_file_warning_format">Fişierul ^1 va fi şters</string>
+	<string-array name="delete_files_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>Fişierele selectate ^1 vor fi şterse</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="select_book">Selectează registrul</string>
+    <string name="select_book_to_import_into">Selectează registrul în care va fi importată declaraţia</string>
+    <string name="select_import_file">Selectează fişierul (ele) de importat</string>
+<!-- New --> <string name="not_specified_brackets">&lt;Not specified></string>
+    <string name="map_accounts">Harta conturilor</string>
+    <string name="configure_account_mappings">Configurare cartare cont</string>
+    <string name="account_required">Cont necesar</string>
+    <string name="duplicate_name">Nume duplicat</string>
+    <string name="options">Opţiuni</string>
+    <string name="select_options">Selectează Opţiuni de importare</string>
+    <string name="remove_duplicates">Şterge duplicatele</string>
+    <string name="remove_duplicates_notes">Chiar dacă aceasta ar trebui să funcționeze corect în majoritatea cazurilor, pot apare probleme, în special dacă conturile au sume în valute diferite. în aceste cazuri, potrivirea nu este posibilă. După import, vă rog să verificaţi dacă balanţele sunt corecte</string>
+    <string name="import_classes">Importă clasele</string>
+    <string name="ignore_memos">Ignoră cămpul memo</string>
+    <string name="create_payees_in_app_name_format">Creează plăţi în ^1</string>
+    <string name="contact_account">Contul contactului pentru care se creează plata</string>
+    <string name="select_import_mode">Selectează modul de import</string>
+    <string name="select_accounts_to_export">Selectează contul(rile) pentru export</string>
+    <string name="specify_export_file_format">Specifică formatul fişierului exportat</string>
+    <string name="mark_transactions_exported">Marchează tranzacţiile ca exportate</string>
+    <string name="create_single_file">Creează un singur fişier</string>
+    <string name="no_transactions_matched_your_selection_criteria">Nicio tranzacţie nu se potriveşte criteriului dumneavoastră de selecşie.\n\nNiciun fişier(e) exportat nu a fost creat</string>
+	<string name="import_folder">Importă din director</string>
+	<string name="export_folder">Exportă în director</string>
+    <string name="ask_to_view_imported_transaction">Doriţi să vedeţi tranzacţiile importate</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="tip">Sfat</string>
+    <string name="user_guide">Ghidul utilizatorului</string>
+	<string name="user_guide_url">http://goo.gl/fvjiq</string>
+    <string name="whats_new">Ce este nou</string>
+    <string name="license">Licenţă</string>
+<!--     
+    <string name="accept_license">Acceptă licenţa</string>
+    <string name="decline">Refuz</string>
+-->    
+    <string name="thank_you">Mulțumesc!</string>
+    <string name="password">Parola</string>
+    <string name="old_password">Parola veche</string>
+    <string name="new_password">Parola nouă</string>
+    <string name="verify_password">Verifică parola</string>
+    <string name="enter_password">Introduceţi parola</string>
+    <string name="incorrect_password">Parolă incorectă. Vă rog reintroduceţi</string>
+    <string name="set_password">Setează parola</string>
+    <string name="password_set">Parolă setată</string>
+    <string name="edit_password">Editează parola</string>
+    <string name="remove_password">Şterge parola</string>
+    <string name="password_removed">Parolă ştearsă</string>
+    <string name="remove_password_message">Parola va fi ştearsă.\n\nDatele tale vor fi vizibile oricui are acces la acest dispozitiv</string>
+    <string name="password_has_not_been_changed">Parola nu a fost modificată</string>
+    <string name="passwords_dont_match">Parolele nu se potrivesc</string>
+    <string name="case_sensitive">diferenţiere între litere mari şi mici</string>
+    <string name="disclaimer">Declinare a responsabilităţii</string>
+    <string name="password_disclaimer">Vă rog să citiţi această Declinare a responsabilităţii şi să bifaţi în căsuţa de la sfârşit.\n\nReţineţi că facilitatea de parolare a fost proiectată ca o modalitate de a oferii confidenţialitate faţă de ochi indiscreşi.  Datorită limitărilor platformei, criptarea datelor nu este fezabilă şi cineva cu abilităţi avansate poate accesa datele dumneavoastră chiar dacă sunt parolate.\n\nEste foarte recomandat să vă protejați dispozitivul cu un tipar de blocare sau PIN pentru o securitate sporită</string>
+    <string name="i_understand_the_limitations">Înţeleg aceste limitări</string>
+    <string name="set_password_now_part1">Setaţi o parolă acum</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_password_now_part2_format">Chiar dacă ai răspuns ^1, vei avea opţiunea de a seta o parolă oricând prin apăsarea lungă pe numele registrului şi apăsarea ^2</string>
+    <string name="folder_name_format">Numele directorului (foloseşte ^1 pentru sub-directoare)</string>
+    <string name="no_backup_files">Niciun fişier de rezervă nu a fost găsit</string>
+    <string name="no_backup_files_new_instructions">Dacă încerci să creezi un registru folosind un fişier importat, te rog să creezi un registru nou mai întâi, şi apoi să imporţi în el</string>
+    <string name="remove_transactions">Şterge tranzacţiile mai vechi decât data de mai jos</string>
+    <string name="book_to_make_copy_of">Registrul pentru care se face o copie</string>
+    <string name="truncate_warning_format">Toate tranzacţiile mai vechi decât ^1 vor fi distruse iremediabil</string>
+    <string name="information_and_help">Informaţii şi ajutor</string>
+    <string name="discussion_forum">Forum de discuţii</string>
+    <string name="join_the_user_community_format">Aderaţi la comunitatea utilizatorilor ^1</string>
+    <string name="contact_us">Contactaţi-ne</string>
+    <string name="email_the_developers">Trimite email direct dezvoltatorului</string>
+    <string name="tap_to_display_import_settings_format">Apăsând ^1 va afişa ecranul setărilor de import</string>
+    <string name="verify_import_settings">Vă rog să verificaţi dacă setările implicite sunt, în fapt, corecte pentru fişierul pe care-l importaţi. Dacă totul arată în regulă, apăsaţi săgeata<b>Înapoi</b> pentru a continua procesul de import</string>
+    <string name="change_settings_instructions_format">Acest mesaj nu va apare pentru importurile subsecvente, dar puteţi schimba setările oricând prin apăsarea ^i în partea de sus a ecranului</string> <!-- ^i will be replaced by an image -->
+    <string name="bad_import_settings">Următoarele setări par a fi incorecte pentru fişierul pe care încercaţi să-l importaţi</string>
+    <string name="qif_csv_encoding_explanation_format">în mod obişnuit ^1 trebuie folosit pentru limbile din lista de mai jos, dar anumite instituţii financiare pot produce fişiere în care ^2 trebuie să fie selectate pentru a fi importate corect.\n\nPentru toate celelalte limbi care NU sunt în listă, ^2 trebuie să fie selectat întotdeauna</string>
+<!-- New --> <string name="credits_legal">Credits &amp; legal</string>
+<!-- New --> <string name="contact_and_social">Contact &amp; social</string>
+    <string name="follow_us">Urmăriţi-ne</string>
+    <string name="add_us_to_circle">Adăugaţi-ne la cercurile dumneavoastră şi acordaţi-ne +1</string>
+    <string name="become_a_fan">Deveniţi fan</string>
+    <string name="haptic_feedback">Feedback tactil</string>
+    <string name="haptic_feedback_description">Dacă este selectat, va vibra când se apasă butoanele</string>
+	<string name="default_book_name">Registrul meu</string>
+	<string name="color_theme">Culoare temă</string>
+	<string name="dark">Întunecată</string>  <!-- As in "dark color theme" -->
+	<string name="light">Luminoasă</string> <!-- As in "opposite of dark" -->
+	<string name="preview">Previzualizare</string>
+	
+	<string-array name="book_new_source">
+	    <item>Creează nou</item>
+	    <item>Creează din fişier de rezervă</item>
+	    <item>Copiază din registru existent</item>
+    </string-array>
+
+	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Intentionally left empty -->
+	    <item/> <!-- Intentionally left empty -->
+	    <item>şi trunchiază opțional la o anumită dată</item>
+    </string-array>
+	
+	<string-array name="import_mode">
+        <item>Declaraţii descărcate de la bănci</item>
+        <item>Date exportate de alt program</item>
+    </string-array>
+
+	<string-array name="import_mode_description">
+        <item>Folosite pentru declaraţii descărcate de la diferite instituţii financiare, cum ar fi declaraţia de sfârşit de lună de la American Express. Atât formatele <b>QIF</b> şi <b>OFX/QFX/OFS</b> sunt suportate. Fişierele de import nu trebuie să conţină transferuri între conturi</item>
+        <item>Folosit pentru transferul datelor din alt program financiar, cum ar fi Microsoft® Money sau Quicken®. Doar formatul <b>QIF</b> este suportat</item>
+    </string-array>
+
+	<string-array name="book_export_file_type_description">
+        <item>Funcţie de clasificarea şi categoriile pe care le folosiţi, pot fi citite doar de Microsoft® Money</item>
+        <item>Pot fi citite de toate aplicațiile care suportă formatul QIF</item>
+        <item>Pot fi citite de aplicații tip calcul tabelar, cum ar fi Microsoft® Excel sau Google™ Docs. Primul rînd exportat conţine titlul coloanelor, urmat de un rînd pentru fiecare tranzacţie. Fiecare împărţire primeşte propriul rînd</item>
+    </string-array>
+
+    <string name="import_file_confirm_format">Vreţi să importaţi ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string-array name="import_files_confirm_format_plurals">
+        <item/> <!-- Not used -->
+        <item>Vreţi să importaţi fişierele ^1</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item/> <!-- Not used -->
+    </string-array>
+
+    <string name="general">General</string>
+    <string name="starting_screen">Ecranul de start</string>
+    <string name="negative_amount_format">Format sumă negativă</string>
+    
+    <string name="show_currency_symbol">Arată simbolul valutei</string>
+	<string-array name="show_currency_symbol_items">
+		<item>Conform valutei</item>
+		<item>înainte de sumă</item>
+		<item>După sumă</item>
+	</string-array>
+	
+    <string name="base_currency">Valuta de bază</string>
+    <string name="space_between_symbol_and_amount">Spaţiu între simbol şi sumă</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+    
+    <string name="password_time_out_period">Parola a expirat</string>
+	<string-array name="n_seconds_format_plurals">
+        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+        <item>^1 secunde</item>
+        <item/> <!-- Not used -->
+    </string-array>
+	<string-array name="n_minutes_format_plurals">
+        <item>1 minut</item>
+        <item>^1 minute</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    
+    <string name="set_button_behavior_format">Acţiune buton ^1</string>
+	<string-array name="set_button_behavior_items">
+		<item>Setează numărul afişat în mod curent</item>
+		<item>Finalizează calculele şi setează rezultatul lor</item>
+	</string-array>
+
+    <string name="confirmations_and_warnings">Confirmări &amp; avertismente</string>
+
+    <string name="warn_if_no_category">Avertizează, dacă nu este o categorie</string>
+    <string name="warn_if_no_category_description">Dacă este selectat, un avertisment va fi afişat când nu este specificată nicio categorie</string>
+    
+    <string name="warn_if_incorrect_category_type">Avertizează, dacă tipul de categorie este incorect</string>
+    <string name="warn_if_incorrect_category_type_description">Dacă este selectat, un avertisment va fi afişat dacă un tip greşit de categorie este specificat</string>
+    
+    <string name="modification_confirmation">Confirmare modificare</string>
+	<string-array name="modification_confirmation_items">
+		<item>Nimic</item>
+		<item>Doar cele reconciliate</item>
+		<item>Toate</item>
+	</string-array>
+	
+    <string name="back_press_prompt">Atenţionare apăsare înapoi</string>
+    <string name="back_press_prompt_description">Dacă este selectat, o Atenţionare cerere-de-salvare este afişată când este apăsat butonul înapoi</string>
+    
+    <string name="new_payee_confirmation">Confirmare plată nouă</string>
+    <string name="new_payee_confirmation_description">Dacă este selectat, o confirmare este afişată înainte de a crea o nouă plată</string>
+    
+    <string name="duplicate_check_number">Număr cec duplicat</string>
+    <string name="duplicate_check_number_description">Dacă este selectat, o avertizare este afişată dacă numărul cecului a fost folosit deja</string>
+    
+    <string name="field_with_initial_focus">Câmp cu focus iniţial</string>
+    
+    <string name="show_keyboard_automatically">Arată tastatura automat</string>
+	<string name="show_keyboard_automatically_description">Dacă este selectat, tastatura va fi afişată când se adaugă o nouă tranzacţie</string>
+	    
+    <string name="notes_in_transaction_window">Note în fereastra tranzacţiei</string>
+    <string name="notes_in_transaction_window_description">Dacă este selectat, o notă cu o singură linie poate fi editată în fereastra tranzacţiei</string>
+    
+    <string name="new_category_in_transaction_window">Categorie nouă în fereastra tranzacţiei</string>
+    <string name="new_category_in_transaction_window_description">Dacă este selectat, o nouă categorie poate fi creată din fereastra tranzacţiei</string>
+    
+    <string name="hide_labels">Ascunde etichetele</string>
+    <string name="hide_labels_description">Dacă este selectat, etichetele din fereastra tranzacţiei pot fi ascunse pentru mai mult spaţiu</string>
+    
+    <string name="security">Securitate</string>
+    
+    <string name="quick_entry_password">Introducere rapidă a parolei</string>
+    <string name="quick_entry_password_description">Dacă este selectat, widget-ul Introducere Rapidă va cere parola, dacă este setată</string>
+    
+    <string name="backup_folder">Director de rezervă</string>
+    
+    <string name="date_in_file_name">Date în numele fişierului</string>
+    <string name="date_in_file_name_description">Dacă este selectat, data de azi va fi adăugată la numele fişierului când este trimis</string>
+    
+    <string name="automatic_backup">Creare copie de rezervă automată</string>
+    <string name="automatic_backup_description">Dacă este selectat, acest registru va fi copiat de rezervă automat</string>
+    
+    <string name="backup_how_often">Cât de des se face copie de rezervă</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    
+    <string name="auto_backup_notify_description">Dacă este selectat, o notificare va fi afişată după operația de copiere de rezervă</string>
+    
+	<string name="backed_up_book_format">^1 a fost copiat de rezervă</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item/> <!-- Not used -->
+        <item>Registrele ^1 au fost copiate de rezervă</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="book_exported_format_plurals">
+        <item>O tranzacţie a fost exportată</item>
+        <item>tranzacţiile ^1 au fost exportate</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string name="failed_to_back_up_book">Copierea de rezervă a registrului a eşuat</string>
+	<string name="no_space_left_on_sd_card">Nu este spaţiu pe cardul SD</string>
+	<string name="cannot_restore_newer_version">Nu poate fi refăcut fişierul de rezervă deoarece a fost creat de o versiune mai nouă a ^1.\n\nVă rog instalaţi ultima versiune a ^1 şi încercaţi din nou</string>
+		
+	<string name="file">Fişier</string>	
+	<string name="folder">Director</string>	
+	<string name="external_storage">Stocare externă</string>	
+	<string name="path">Cale</string>	
+
+    <string name="qif_csv_date_order">Ordinea datelor QIF/CSV</string>
+
+	<string name="comma">Virgulă</string>	
+    <string name="qif_csv_decimal_mark">Marcaj zecimale QIF/CSV</string>
+	<string-array name="qif_csv_decimal_marks">
+        <item>Punct zecimale</item>
+        <item>@string/comma</item>
+    </string-array>
+
+    <string name="csv_delimiter">Delimitator CSV</string>
+	<string-array name="csv_delimiters">
+        <item>@string/comma</item>
+<!-- New -->        <item>Semicolon</item>
+    </string-array>
+
+	<string name="qif_csv_encoding">Codare QIF/CSV</string>
+    <string name="ofx_qfx_encoding">Codare OFX/QFX/OFS</string>
+	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK (Chinese national standard)</item>
+        <item>Cyrillic (Windows)</item>
+        <item>Western European (Windows)</item>
+        <item>Central European (Windows)</item>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
+
+    <string name="maintain_entries">Intrări principale</string>
+    <string name="maintain_number_field_entries">Păstrează intrările câmpurilor numărului</string>
+    <string name="maintain_number_field_entries_description">Permite să ştergeţi întrările câmpurilor numărului tranzacţiilor care nu mai sunt folosite</string>
+
+    <string name="delete_entry_warning_format">Intrarea ^1 va fi ştearsă</string>
+    <string-array name="delete_entries_warning_format_plurals">
+        <item/> <!-- Not used -->
+<!-- New --> <item>^1 entries will be deleted</item>
+        <item/> <!-- Not used -->
+	</string-array>
+</resources>

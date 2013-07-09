@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<mainCategory>Alimenti</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Automobile</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Automobile</mainCategory>
+		<subcategory>Auto Pagamento</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Automobile</mainCategory>
+		<subcategory>Benzina</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Automobile</mainCategory>
+		<subcategory>Manutenzione</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Spese Bancarie</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Spese Bancarie</mainCategory>
+		<subcategory>Interessi Pagati</subcategory>
+		<expense>1</expense>
+		<defaultForInterestPaid>1</defaultForInterestPaid>
+	</record>
+	<record>
+		<mainCategory>Spese Bancarie</mainCategory>
+		<subcategory>Commissione di Servizio</subcategory>
+		<expense>1</expense>
+		<defaultForServiceCharge>1</defaultForServiceCharge>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Televisione via Cavo / Satellite</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Cellulare</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Elettricità</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Rifiuti / Riciclaggio</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Centro fitness</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Quote Associative</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Pagamento di Ipoteca</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Gas Naturale / Gasolio da Riscaldamento</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Giornale</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Servizio Online / Internet</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Altro Prestito di Pagamento</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Affitto</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Studente Prestito di Pagamento</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Telefono Fisso</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bollette</mainCategory>
+		<subcategory>Acqua / Canalizzazione</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Prelievo di Contanti</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Donazioni</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Cura del Bambino</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bambini / Giocattoli</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Bambini / Giocattoli</mainCategory>
+		<subcategory>Mantenimento dei Figli</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Bambini / Giocattoli</mainCategory>
+		<subcategory>Asilo</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Abbigliamento</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Pagamenti con Carta di Credito / Trasferimenti</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Cenare Fuori</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Educazione</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Educazione</mainCategory>
+		<subcategory>Libri</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Educazione</mainCategory>
+		<subcategory>Tassa</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Educazione</mainCategory>
+		<subcategory>Tassa di Insegnamento</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Divertimento</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Tassa</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Alimento</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Regali</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Generi Alimentari</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Sanità</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Sanità</mainCategory>
+		<subcategory>Dentale</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sanità</mainCategory>
+		<subcategory>Cura degli Occhi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sanità</mainCategory>
+		<subcategory>Ospedale</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sanità</mainCategory>
+		<subcategory>Medico</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sanità</mainCategory>
+		<subcategory>Prescrizioni</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<subcategory>Libri / Riviste</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<subcategory>Eventi culturali</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<subcategory>Ospitando</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<subcategory>Cinema / Noleggio Video</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<subcategory>Eventi Sportivi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<subcategory>Articoli Sportivi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<subcategory>Nastri / CD</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby / Tempo Libero</mainCategory>
+		<subcategory>Giocattoli / Giochi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Rimodellamento</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Casa</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Casa</mainCategory>
+		<subcategory>Arredamento</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Casa</mainCategory>
+		<subcategory>Pulizia</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Casa</mainCategory>
+		<subcategory>Giardinaggio</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Assicurazione</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Assicurazione</mainCategory>
+		<subcategory>Auto</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Assicurazione</mainCategory>
+		<subcategory>Aanitaria</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Assicurazione</mainCategory>
+		<subcategory>Aasa</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Assicurazione</mainCategory>
+		<subcategory>Vita</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Expense Lavoro</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Expense Lavoro</mainCategory>
+		<subcategory>Non Rimborsati</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Expense Lavoro</mainCategory>
+		<subcategory>Rimborsato</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Prestito</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Prestito</mainCategory>
+		<subcategory>Interesse del Prestito</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Prestito</mainCategory>
+		<subcategory>Interessi Ipotecari</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Varie</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
+	</record>
+	<record>
+		<mainCategory>Ipoteca / Affitto</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Cura Personale</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Cura Animali</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Cura Animali</mainCategory>
+		<subcategory>Alimento</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Cura Animali</mainCategory>
+		<subcategory>Vettovaglie</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Cura Animali</mainCategory>
+		<subcategory>Veterinario</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Telefono Fisso / Cellulare</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Servizi / Appartenenze</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Tasse</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Tasse</mainCategory>
+		<subcategory>VAT</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Viaggio / Vacanza</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Viaggio / Vacanza</mainCategory>
+		<subcategory>Alloggio</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Viaggio / Vacanza</mainCategory>
+		<subcategory>Viaggio</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Servizio Pubblico</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Proventi da Investimenti</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Proventi da Investimenti</mainCategory>
+		<subcategory>Plusvalenze</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Proventi da Investimenti</mainCategory>
+		<subcategory>Dividendi</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Proventi da Investimenti</mainCategory>
+		<subcategory>Interessi</subcategory>
+		<expense>0</expense>
+		<defaultForInterestEarned>1</defaultForInterestEarned>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Proventi da Investimenti</mainCategory>
+		<subcategory>Interessi di Esenzione Fiscale</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Altri Proventi</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Altri Proventi</mainCategory>
+		<subcategory>Mantenimento dei Figli ha Ricevuto</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Altri Proventi</mainCategory>
+		<subcategory>Stock Option</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Altri Proventi</mainCategory>
+		<subcategory>Regali Ricevuti</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Altri Proventi</mainCategory>
+		<subcategory>Prestito Principale Ricevuto</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Altri Proventi</mainCategory>
+		<subcategory>Lotteria / Toto</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Altri Proventi</mainCategory>
+		<subcategory>Indennità di Disoccupazione</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Pensione</mainCategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Salari / Stipendio</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Salari / Stipendio</mainCategory>
+		<subcategory>Bonus</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Salari / Stipendio</mainCategory>
+		<subcategory>Commissione</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Salari / Stipendio</mainCategory>
+		<subcategory>Salario Lordo</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Salari / Stipendio</mainCategory>
+		<subcategory>Salario Netto</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Salari / Stipendio</mainCategory>
+		<subcategory>Pagare gli Straordinari</subcategory>
+		<expense>0</expense>
+	</record>
+</records>

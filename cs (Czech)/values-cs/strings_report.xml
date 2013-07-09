@@ -28,9 +28,11 @@
 	<string name="report_type">Typ reportu</string>
 	<string name="group">Vytvářet skupiny</string>
 	<string name="do_not_group">Nevytvářet skupiny</string>
-	<string name="today">Dnes</string>
-	<string name="tomorrow">Zítra</string>
-	<string name="yesterday">Včera</string>
+	<string name="day_0">Dnes</string>
+	<string name="day_p1">Zítra</string>
+	<string name="day_m1">Včera</string>
+	<string name="day_p2"></string>
+	<string name="day_m2"></string>
 	<string name="select_report">Vyberte report</string>
     <string name="report_folder">Složka pro report</string>
 	<string name="language">Jazyk</string>

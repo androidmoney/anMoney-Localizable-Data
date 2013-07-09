@@ -28,9 +28,11 @@
 	<string name="report_type">Tipo report</string>
 	<string name="group">Raggruppare</string>
 	<string name="do_not_group">Non raggruppare</string>
-	<string name="today">Oggi</string>
-	<string name="tomorrow">Domani</string>
-	<string name="yesterday">Ieri</string>
+	<string name="day_0">Oggi</string>
+	<string name="day_p1">Domani</string>
+	<string name="day_m1">Ieri</string>
+	<string name="day_p2"></string>
+	<string name="day_m2"></string>
 	<string name="select_report">Selezionare report</string>	
     <string name="report_folder">Report cartella</string>
 	<string name="language">Lingua</string>
