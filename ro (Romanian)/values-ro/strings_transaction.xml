@@ -118,7 +118,7 @@
     <string name="reconciled_transactions_color">Culoare tranzacţii reconciliate</string>
 	<string name="create_transaction_instructions_format">Pentru a crea o tranzacţie, apasă ^i în partea de sus a ecranului</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">Filtru text</string>
-    <string name="profit_and_loss_statement">Extras de cont Profit &amp; Pierdere </string>
+    <string name="profit_and_loss_statement">Extras de cont Profit &amp; Pierdere</string>
 	<string name="transaction_type">Tip tranzacţie</string>
 	<string name="transaction_status">Stare tranzacţie</string>
 
@@ -165,7 +165,7 @@
 	<string name="delete_transaction_warning">Tranzacţia a fost ştearsă</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item> tranzacţia ^1 selectată va fi ştearsă</item>
+        <item>Tranzacţiile ^1 selectate vor fi şterse</item>
         <item/> <!-- Not used -->
 	</string-array>
     <string name="delete_transaction_warning_all"><b>Toate</b> tranzacţiile vor fi şterse</string>
@@ -178,7 +178,7 @@
 	<string name="accept_transaction_confirm_singular">Tranzacţiile vor fi acceptate</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 selected transactions will be accepted</item>
+<!-- New --> <item>^1 selected transactions will be accepted</item>
         <item/> <!-- Not used -->
 	</string-array>
 </resources>

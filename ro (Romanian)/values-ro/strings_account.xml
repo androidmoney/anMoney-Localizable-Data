@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account">Cont</string>
+    <string name="accounts">Conturi</string>
+    <string name="all_accounts">Toate conturile</string>
+    <string name="open_accounts">Deschide conturi</string>
+    <string name="liability">Responsabilitate</string>
+    <string name="asset">Bunuri</string>
+    <string name="credit_liability_details">Detalii Credit / Responsabilitate</string>
+<!-- <string name="associated_loan">Associated loan</string> -->
+<!-- <string name="associated_loan_if_any">Împrumut asociat, dacă există</string> -->
+<!-- <string name="associated_reward_program">Program de recompensare asociat</string> -->
+<!-- <string name="associated_reward_program_if_any"> Program de recompensare asociat, dacă există</string> -->
+    <string name="account_balances">Balanţe cont</string>
+    <string name="vehicle_details">Detalii vehicul</string>
+    <string name="property_details">Detalii proprietate</string>
+    <string name="view_accounts">Vizualizează conturi</string>
+    <string name="new_account">Cont nou</string>
+    <string name="edit_account">Editează cont</string>
+    <string name="balance_noun">Balanţa</string>
+    <string name="balances_noun">Balanţe</string>
+    <string name="adjust">Ajustează</string>
+    <string name="adjust_balance">Ajustează balanţa</string>
+	<string name="balance_adjusted">Balanţă ajustată</string>
+	<string name="balance_adjustment_note">Ajustare balanţă</string>
+	<string name="category_for_adjustment_transaction">Categoria tranzacţiei ajustate</string>
+	<string name="postpone">Amână</string>
+    <string name="balance_verb">Balanţează</string>
+    <string name="balance_account">Balanţează cont</string>
+    <string name="balanced">Balanţat</string>
+    <string name="balance_postponed">Balanţare amânată</string>
+    <string name="balance_canceled">Balanţare anulată</string>
+	<string name="started_balancing_already">Ai început să balanţezi acest cont deja</string>
+	<string name="postpone_balancing_warning">Amâni balanţarea</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="account_balance_does_not_match_bank_warning_format">Declaraţia balanţei de început introdusă, ^1, nu se potriveşte cu suma tuturor tranzacţiilor reconciliate anterior, ^2</string>
+	<string name="account_balance_does_not_match_credit_warning_format">Suma introdusă, ^1, nu se potriveşte cu suma tuturor tranzacțiilor reconciliate anterior, ^2</string>
+	<string name="account_balance_does_not_match_fix">Încearcă să o repari prin:\n\n<li>Reverificarea declaraţiei</li>\n<li>Marcarea tranzacţiilor ca reconciliate</li>\n<li>Marcarea tranzacţiilor ca ne-reconciliate</li>\n<li>Ajustarea balanţei de deschidere</li></string>
+	<string name="left_to_reconcile">Rămase de reconciliat</string>
+	<string name="statement_balance">Balanţa declaraţie</string>
+    <string name="statement_date">Data declaraţiei</string>
+    <string name="statement_starting_balance">Declaraţie balanţă de deschidere</string>
+    <string name="statement_ending_balance">Declaraţie balanţă de închidere</string>
+    <string name="amount_owed_last_month">Suma totală deţinută luna trecută</string>
+    <string name="amount_owed_this_month">Suma totală deţinută luna aceasta</string>
+	<string name="service_charge_amount">Suma plătită pentru serviciu</string>
+    <string name="service_charge_category">Categoria de plată pentru serviciu</string>
+    <string name="service_charge_notes_format">Plata pentru declaraţia pentru perioada care se termină în ^1</string>
+    <string name="interest_earned_amount">Suma dobînzii câştigate</string>
+    <string name="interest_earned_category">Categoria dobînzii câştigate</string>
+    <string name="interest_earned_notes_format">Dobînda câştigată pentru declaraţia dn perioada care se termină în ^1</string>
+    <string name="interest_paid_amount">Suma plătită ca dobîndă</string>
+    <string name="interest_paid_category">Categoria pentru plata dobînzii</string>
+    <string name="interest_paid_notes_format">Dobânda plătită pentru declaraţia dn perioada care se termină în ^1</string>
+    <string name="clear_all_transactions">Soldezi toate tranzacțiile</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+	<string name="clear_all_transactions_on_all_pages">Soldezi toate tranzacțiile din toate paginile</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+    <string name="export_account">Exportă cont</string>
+    <string name="delete_account">Şterge cont</string>
+    <string name="close_account">Închide cont</string>
+    <string name="reopen_account">Redeschide cont</string>
+    <string name="repair_account">Repară cont</string>
+    <string name="repaired">Reparat</string>
+    <string name="copy_account_number">Copiază cont number</string>
+    <string name="book_total">Total registru</string>
+    <string name="favorites_total">Total favorite</string>
+	<string name="delete_account_warning_part1_format">Contul ^1 va fi şters permanent.\n\nDeoarece acest cont este folosit în trazacţii, toate tranzacțiile legate de el vor fi Şterse de asemenea</string>
+	<string name="delete_account_warning_part2_format">Pentru a ascunde contul, dar salva istoricul tranzacţiilor, apasă ^1 şi închide contul în schimb</string>
+	<string name="no_accounts">Nu aveţi niciun cont</string>
+    <string name="create_account_instructions_format">Pentru a crea un cont, apasă ^i în partea de sus a ecranului</string>  <!-- ^i will be replaced by an icon -->
+    <string name="no_transactions_for_account">Nu aveţi nicio tranzacţie pentru acest cont</string>
+    <string name="account_type">Tipul contului</string>
+    <string name="account_type_bank_first">Tipul contului cu conturile bancă primele</string>
+    <string name="account_type_cash_first">Tipul contului cu conturile cash primele</string>
+    <string name="account_name">Numele contului</string>
+    <string name="abbreviation">Abreviere</string>
+    <string name="abbr">Abv</string>
+    <string name="type">Tip</string>
+    <string name="favorite_account">Cont favorit</string>
+    <string name="favorite_accounts">Conturi favorite</string>
+    <string name="account_has_been_closed">Acest cont a fost închis</string>
+    <string name="acquisition_date">Data achiziţiei</string>
+    <string name="credit_limit">Limita de credit</string>
+    <string name="must_pay_balance">Trebuie să plătesc întreaga balanţă în fiecare lună (Card plată)</string>
+    <string name="will_pay_balance">Intenționez să plătesc întreaga balanţă în fiecare lună</string>
+    <string name="interest_rate">Rata dobânzii</string>
+    <string name="introductory_rate_in_effect">Există o rată iniţială în efect</string>
+    <string name="introductory_rate">Rata iniţială</string>
+    <string name="valid_until">Valid până la</string>
+    <string name="minimum_balance">Balanţa minimă</string>
+    <string name="date">Data</string>
+    <string name="make">Fabricat</string>
+    <string name="vehicle_make">Fabricație vehicul</string>
+    <string name="year">An</string>
+    <string name="model">Model</string>
+    <string name="vehicle_model">Model vehicul</string>
+    <string name="vehicle_identification_number">Numâr identificare vehicul (VIN)</string>
+    <string name="vin">VIN</string>
+    <string name="purchase_location">Locație achiziție</string>
+    <string name="location">Locație</string>
+    <string name="warranty_information">Informații garanție</string>
+    <string name="type_details_about_warranty_information">Tastează detalii privind garanția aici</string>
+    <string name="warranty_expiration_date">Dată expirare garanție</string>
+    <string name="manufacturer_web_address">Adresa web a producătorului</string>
+    <string name="property_address">Adresa proprietate</string>
+    <string name="closed">închis</string>
+    <string name="reopened">Redeschis</string>
+    <string name="reopen_canceled">Redeschidere anulată</string>
+    <string name="no_financial_institution_assigned">Nicio instituţie financiară desemnată</string>
+    <string name="maximum_100">Maxim 100%</string>
+    <string name="must_be_less_than_interest_rate">Trebuie să fie &lt; rata dobînzii</string>
+    <string name="must_be_in_future">Trebuie să fie în viitor</string> <!-- As in "The date supplied must be a future date" -->
+    <string name="must_be_in_past">Trebuie să fie în trecut</string> <!-- As in "The date supplied must be a past date" -->
+    <string name="invalid_year">Invalid</string>
+    <string name="invalid_vin_number">Trebuie să fie 17 litere şi/sau cifre</string>
+<!-- New --> <string name="invalid_url">URL invalid</string>
+    <string name="opening_balance_warning_message">Acest cont are tranzacţii reconciliate.\n\nSchimbarea balanţei de deschidere poate produce diferenţe între înregistrările tale şi cele ale instituției financiare</string>
+    <string name="no_exchange_rate_warning_message_format">Nu există rată de schimb dată între ^1 şi ^2, ceea ce va produce o balanţă a registrului inexactă</string>
+    <string name="would_you_like_to_give_one_after_saving">Vrei să introduci una după salvare</string>  <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="net_worth">Câştig net</string>
+    <string name="net_worth_over_time">Câştig net în timp / Prognoză</string>
+	<string name="set_total_to_show">Setează totalul de afişat</string>
+	<string name="total_to_show">Total de afişat</string>
+    <string name="selected_total">Total selectat</string>
+	<string name="entered_total">Total introdus</string>
+	<string name="balance_as_of_today">Balanţa pentru azi</string>
+	<string name="cleared_total">Total soldat</string>
+	<string name="reconciled_total">Total reconciliat</string>
+    <string name="default_cash_account_name">Cash-ul meu zilnic</string>
+    <string name="default_checking_account_name">Contul meu curent</string>
+    <string name="default_savings_account_name">Contul meu de economii</string>
+    <string name="default_credit_account_name">Cardul meu de credit</string>
+    <string name="color">Culoare</string>
+    <string name="projected_balance">Prognozat</string>
+    <string name="projected_balance_at_the_end_of_the_month">Balanţa prognozată la sfârşitul lunii</string>
+    <string name="at_months_end">La sfârşitul lunii</string>
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">Balanţa prognozată la ^1</string>
+	<string name="total_for_format">Total pentru ^1</string>
+	<string name="total_for_month">Total pentru luna</string>
+	<string name="period">Perioada</string>
+	<string name="total_for_period">Total pentru perioada</string>
+	<string name="total_for_unassigned">Total pentru nedesemnate</string>
+	<string name="make_account_budget_question_part1">Vrei să faci acest cont parte a bugetului tău</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="make_account_budget_question_part2_format">Chiar dacă apeşi ^1, poţi face asta mai târziu prin editarea contului</string>
+	<string name="show_option_format">Arată opțiunea ^1</string> <!-- This will say "Show the Next Check Number option" -->
+	<string name="show_closed">Arată închise</string> <!-- As in "show closed accounts" -->
+    
+    <string name="no_accounts_yet">Niciun cont încă</string>
+	<string-array name="account_count_format_plurals">
+        <item>1 cont</item>
+        <item>^1 conturi</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="pending_count_plurals">
+        <item>^1 tranzacţie nouă</item>
+        <item>^1 tranzacţii noi</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="account_group_labels">
+		<item>Conturi bancare</item>
+		<item>Cash</item>
+		<item>Conturi credite</item>
+		<item>Conturi investiţii cash</item>
+		<!-- <item>Împrumuturi şi responsabilitati</item> -->
+		<item>Alte responsabilitati</item>
+		<item>Alte bunuri</item>
+	</string-array>
+
+	<string-array name="total_for_account_group_labels">
+		<item>Total pentru conturi bancare</item>
+		<item>Total pentru cash</item>
+		<item>Total pentru conturi credite</item>
+		<item>Total pentru conturi investiţii cash</item>
+		<!-- <item>Total pentru Împrumuturi şi responsabilitati</item> -->
+		<item>Total pentru responsabilitati</item>
+		<item>Total pentru alte bunuri</item>
+	</string-array>
+
+	<string-array name="opening_balance_new_labels">
+	    <item>balanţă cont</item>
+		<item>Preţ achiziţie</item>
+		<item>Suma deţinută în acest cont</item>
+		<item>Suma deţinută în acest card</item>
+	</string-array>
+
+	<string name="opening">Deschidere</string> <!-- As in "Opening balance" -->
+	<string-array name="opening_balance_edit_labels">
+	    <item>Deschidere balanţă</item>
+		<item>Preţul de achiziţie original</item> <!-- of an asset -->
+		<item>Suma deţinută în acest cont, iniţial</item>
+		<item>Suma deţinută în acest card, iniţial</item>
+	</string-array>
+
+	<string-array name="current_balance_edit_labels">
+	    <item>Balanţa curentă</item>
+		<item>Valoare curentă</item> <!-- of an asset -->
+		<item>Suma deţinută în acest cont, în acest moment</item>
+		<item>Suma deţinută în acest card, în acest moment</item>
+	</string-array>
+
+	<string-array name="account_type_names">
+	    <item>Bancă</item>
+		<item>Cash / Alte</item>
+		<item>Card Credit / Debit</item>
+		<item>Linie de credit</item>
+		<item>Împrumut</item>
+<!-- 		<item>Alte responsabilitate</item> Loan Loans -->
+		<item>Alte responsabilitate</item>
+		<item>Proprietate</item>
+		<item>Vehicul</item>
+		<item>Alte bunuri</item>
+		<item>Cont investiţii cash</item>
+	</string-array>
+
+	<string-array name="default_account_names">
+	    <item>Bancă</item>
+		<item>Cash</item>
+		<item>Card Credit</item>
+		<item>Linie de credit</item>
+		<item>Împrumut</item>
+		<item>@string/liability</item>
+		<item>Proprietate</item>
+		<item>Vehicul</item>
+		<item>@string/asset</item>
+		<item>Investiţie</item>
+	</string-array>
+
+    <string name="show_account_numbers">Arată numărul contului</string>
+    <string name="show_account_numbers_description">Arată numărul contului sub nume, dacă există</string>
+
+    <string name="use_abbreviations">Foloseşte abrevieri</string>
+    <string name="use_abbreviations_description">Afişează abrevierea contului, în locul numelui, dacă există</string>
+
+    <string name="show_group_totals">Arată totalurile grupului</string>
+    <string name="show_group_totals_description">Afişează totalul pentru fiecare grup</string>
+
+	<string-array name="account_list_status_filter_title_bar">
+		<item>@string/all_accounts</item>
+		<item>@string/open_accounts</item>
+		<item>@string/favorite_accounts</item>
+	</string-array>
+
+	<string-array name="account_list_sort_order_title_bar">
+		<item>@string/type</item>
+		<item/> <!-- Intentionally left empty -->
+		<item>@string/name</item>
+		<item>@string/financial_institution</item>
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+
+    <string name="all_transactions">Toate tranzacțiile</string>
+	<string-array name="transaction_list_filter_title_bar">
+    	<item>@string/all_transactions</item>
+		<item>@string/unreconciled2</item>
+		<item>@string/reconciled2</item>
+		<item>@string/cleared2</item>
+		<item>@string/pending2</item>
+		<item>@string/follow_up2</item>
+    	<item>@string/not_exported_transaction2</item>
+	</string-array>
+    
+    <string name="display_order">Afişează ordinea</string>
+    <string name="entry_date">Introduceţi data</string>
+    <string-array name="transaction_list_sort_order_title_bar">
+    	<item>@string/date</item>
+		<item>@string/number</item>
+		<item>@string/payee</item>
+		<item>@string/amount</item>
+		<item>@string/category</item>
+		<item>@string/entry_date</item>
+		<item/> <!-- Not unused -->
+		<item/> <!-- Not unused -->
+		<item>@string/account</item>
+	</string-array>
+    
+    <string name="date_range">Perioada</string>
+	<string name="current_month">Luna curentă</string>
+	<string name="previous_month">Luna precedentă</string>
+	<string name="next_month">Luna viitoare</string>
+<!-- New --> <string name="current_quarter">Current quarter</string>
+<!-- New --> <string name="previous_quarter">Previous quarter</string>
+<!-- New --> <string name="next_quarter">Next quarter</string>
+	<string name="current_half_year">Jumătatea de an curent</string>
+	<string name="previous_half_year">Jumătatea de an precedent</string>
+	<string name="next_half_year">Jumătatea de an viitoare</string>
+	<string name="current_year">Anul curent</string>
+	<string name="previous_year">Anul precedent</string>
+	<string name="next_year">Anul viitor</string>
+	<string name="current_week">Săptămâna curentă</string>
+	<string name="previous_week">Săptămâna precedentă</string>
+	<string name="next_week">Săptămâna viitoare</string>
+	<string name="current_two_weeks">Perioada curentă de două săptămâni</string>
+	<string name="previous_two_weeks">Perioada precedentă de două săptămâni</string>
+	<string name="next_two_weeks">Perioada viitoare de două săptămâni</string>
+	<string name="all_dates">Toate datele</string>
+	<string-array name="date_range_items">
+		<item>@string/all_dates</item>
+		<item>Toate până la data</item>
+		<item>@string/current_month</item>
+		<item>@string/current_year</item>
+		<item>Luna de până la data</item>
+		<item>Anul de până la data</item>
+		<item>@string/previous_month</item>
+		<item>@string/previous_year</item>
+		<item>Ultimile 30 zile</item>
+		<item>Ultimile 3 luni</item>
+		<item>Ultimile 6 luni</item>
+		<item>Ultimile 12 luni</item>
+		<item>Viitoarele 30 zile</item>
+		<item>Viitoarele 3 luni</item>
+		<item>Viitoarele 6 luni</item>
+		<item>Viitoarele 12 luni</item>
+		<item>@string/custom_dates</item>
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>toate datele</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>ultimile 30 zile</item>
+		<item>ultimile 3 luni</item>
+		<item>ultimile 6 luni</item>
+		<item>ultimile 12 luni</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar_months">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	
+<!-- New -->  <string name="display_grouping">Display grouping</string>
+</resources>
