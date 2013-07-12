@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<string-array name="day_names_stand_alone_wide">
+        <item>ஞாயிறு</item>
+        <item>திங்கள்</item>
+        <item>செவ்வாய்</item> 
+        <item>புதன்</item>
+        <item>வியாழன்</item> 
+        <item>வெள்ளி</item>
+        <item>சனி</item>
+	</string-array>    
+
+    <string-array name="month_names_stand_alone_wide">
+        <item>ஜனவரி</item>
+        <item>பிப்ரவரி</item>
+        <item>மார்ச்</item> 
+        <item>ஏப்ரல்</item>
+        <item>மே</item> 
+        <item>ஜூன்</item>
+        <item>ஜூலை</item>
+        <item>ஆகஸ்டு</item> 
+        <item>செப்டம்பர்</item>
+        <item>அக்டோபர்</item> 
+        <item>நவம்பர்</item>
+        <item>டிசம்பர்</item> 
+	</string-array>    
+
+	<string-array name="month_names_stand_alone_abbreviated">
+        <item>ஜன.</item>
+        <item>பிப்.</item>
+        <item>மார்.</item> 
+        <item>ஏப்.</item>
+        <item>மே</item> 
+        <item>ஜூன்</item>
+        <item>ஜூலை</item>
+        <item>ஆக.</item> 
+        <item>செப்.</item>
+        <item>அக்.</item> 
+        <item>நவ.</item>
+        <item>டிச.</item> 
+	</string-array>    
+</resources>
