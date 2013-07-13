@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>Dependendo das classificações e categorias que você usa, pode somente ser lido pelo Microsoft Money</item>
-        <item>Lido por todas as applicações que suportam o formato QIF</item>
+        <item>Lido por todas as applicações que suportam o formato <b>QIF</b></item>
         <item>Lido por planilhas, tais como Microsoft® Excel ou Google™ Docs. A primeira linha exportada contêm o cabeçalho, seguida por uma linha para cada transação. Cada divisão contêm sua própria linha</item>
     </string-array>
 

@@ -139,7 +139,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>Ovisno o klasifikaciji i kategoriji koja se koristi može biti samo čitljivo sa Microsoft® Money</item>
-        <item>Čitljivo sa svim aplikacijama koje podržavaju QIF</item>
+        <item>Čitljivo sa svim aplikacijama koje podržavaju <b>QIF</b></item>
         <item>Čitljivo sa tabličnim aplikacijama kao Microsoft® Excel ili Google™ Docs. Prvi red sadrži imena kolona, a iza njih transakcija. Svaki odvojak je novi red</item>
     </string-array>
 

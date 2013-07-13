@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="appwidget_warning_format">現在SDカードに^1をインストールしている場合にこれが表示されます。\n\nウィジェットが消える可能性がありますので、ウィジェットを利用しようと考えている場合は、^1をSDカードからデバイスに移動させることを強くお勧めします</string> <!-- ^1 is the app name -->
+
+    <string name="no_books_warning">ウィジェットを終了する前に少なくとも1つの通帳を作成してください</string>
+    <string name="no_books_and_accounts_warning">ウィジェットを終了する前に少なくとも通帳と口座を1つを作成してください</string>
+    <string name="no_accounts_warning">ウィジェットを終了する前に少なくとも口座を1つ作成してください</string>
+    <string name="book_no_longer_exists_format">通帳^1はもう存在しません</string>
+    <string name="account_no_longer_exists">口座は存在しません</string>
+    <string name="report_no_longer_exists">レポートは存在しません</string>
+    <string name="budget_no_longer_exists_format">予算^1はもはや存在しません</string>
+    
+    <string name="quick_entry">簡単入力</string>
+    <string name="app_name_quick_entry">anMoney簡単入力</string>
+    <string name="app_name_quick_entry_large">anMoney簡単入力（大）</string>
+    <string name="app_name_quick_entry_small">anMoney簡単入力（小）</string>
+    <string name="show_total">口座合計を表示する</string>
+    <string name="opacity">不透明性</string>
+
+    <string name="app_name_upcoming">anMoney次回</string> <!-- as in Upcoming Bills -->
+
+    <string name="app_name_budget">anMoney予算</string>
+
+    <string name="app_name_report">anMoneyレポート</string>
+
+	<string name="dash_clock_extension_description">もしある場合延滞請求書または預金を表示します</string>
+</resources>

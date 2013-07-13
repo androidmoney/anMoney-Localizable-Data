@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources> 
+    <string name="splits">分割</string> <!-- This is a noun -->
+    <string name="split_canceled">分割は取消されました</string> <!-- "Split" is a verb -->
+    <string name="new_split">新しい分割</string> <!-- "Split" here and below are nouns -->
+    <string name="edit_split">分割を編集する</string>
+    <string name="edit_splits">分割を編集する</string>
+    <string name="delete_split">分割を削除する</string>
+	<string name="delete_split_warning">分割は削除されます</string>
+	<string name="sum_of_splits">分割の合計</string>
+	<string name="unassigned">未割当</string>
+	<string name="transaction_total">トランザクションの合計</string>
+    <string name="go_back_to_edit">分割編集に戻る</string>
+    <string name="unassigned_split_message_format">分割分の合計は^1で、トランザクションの合計は^2です。割当てられない^3が残っており、これは推奨されません</string>
+    <string name="what_would_you_like_to_do">どうされますか？</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_the_total_format">^1に合計を設定しますか</string>
+    <string name="distribute_format">均等に^1を分散します</string>
+    <string name="leave_unassigned_format">^1を割り当てないままにする</string>
+    <string name="distributed">分散済み</string>
+</resources>

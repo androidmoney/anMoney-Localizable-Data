@@ -11,17 +11,17 @@
     <string name="budget_no_longer_exists_format">預算 ^1 不再存在</string>
     
     <string name="quick_entry">快速輸入</string>
-    <string name="app_name_quick_entry">anMoney — 快速輸入</string>
-    <string name="app_name_quick_entry_large">anMoney — 快速輸入 (大型)</string>
-    <string name="app_name_quick_entry_small">anMoney — 快速輸入 (小型)</string>
+    <string name="app_name_quick_entry">anMoney快速輸入</string>
+    <string name="app_name_quick_entry_large">anMoney快速輸入 (大型)</string>
+    <string name="app_name_quick_entry_small">anMoney快速輸入 (小型)</string>
     <string name="show_total">顯示帳戶的合計總額</string>
     <string name="opacity">不透明</string>
 
-    <string name="app_name_upcoming">anMoney — 近期</string>
+    <string name="app_name_upcoming">anMoney近期</string>
 
-    <string name="app_name_budget">anMoney — 預算</string>
+    <string name="app_name_budget">anMoney預算</string>
 
-    <string name="app_name_report">anMoney — 報告</string>
+    <string name="app_name_report">anMoney報告</string>
 
 	<string name="dash_clock_extension_description">顯示逾期帳單或存款。</string>
 </resources>

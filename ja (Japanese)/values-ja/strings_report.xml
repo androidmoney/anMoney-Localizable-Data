@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="report">レポート</string>
+    <string name="reports">@string/report</string>
+	<string name="view_report">レポートを表示</string>
+	<string name="view_reports">レポートを表示</string>
+	<string name="report_canceled">レポートは取消されました</string>
+	<string name="export_report">レポートをエクスポートする</string>
+	<string name="report_exported">SDカードに正常にエクスポートされました</string>
+	<string name="share_report">レポートを共有する</string>
+	<string name="report_settings">レポート設定</string>
+	<string name="custom_dates">カスタム日付</string>
+	<string name="other">その他</string>
+	<string name="report_empty">表示するデータはありません</string>
+    <string name="report_settings_instructions_format">レポートの設定を変更するには画面上の^iをタップします</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">設定がデフォルトにリセットされます</string>
+	<string name="settings_reset">設定のリセット</string>
+	<string name="reset_canceled">リセットは取消されました</string>
+    <string name="report_settings_tip">レポートの設定を変更するには、\n\n<li>レポート名をロング・タップして<b>レポート設定</b>をタップします </li>\n\n<li>レポートが表示されている間に画面右上のアイコンをタップします</li></string>
+	<string name="report_name">レポート名</string>
+	<string name="all_reports">すべてのレポート</string>
+	<string name="favorite_reports">お気に入りレポート</string>
+	<string name="save_report_as">としてレポートを保存する</string>
+	<string name="delete_report">レポートを削除する</string>
+    <string name="rename_report">名前の変更を報告する</string>
+    <string name="duplicate_report">レポートを複写する</string>
+    <string name="delete_report_warning_format">レポート^1は完全に削除されます</string>
+	<string name="report_type">レポートタイプ</string>
+	<string name="group">グループ</string> <!-- This is a verb -->
+	<string name="do_not_group">グループ化しないでください</string>
+	<string name="day_0">今日</string>
+	<string name="day_p1">明日</string>
+	<string name="day_m1">昨日</string>
+	<string name="day_p2"></string> <!-- Intentionally left empty -->
+	<string name="day_m2"></string> <!-- Intentionally left empty -->
+	<string name="select_report">レポートを選択する</string>
+    <string name="report_folder">レポート・フォルダー</string>
+	<string name="language">言語</string>
+	<string name="text_size">文字サイズ</string>
+	<string name="text_size_sample">日</string>
+		
+	<string name="chart_type">チャートの種類</string>
+	<string name="text_report">テキストレポート</string>
+	<string name="pie_chart">円グラフ</string>
+	<string name="line_chart">折れ線グラフ</string>
+	<string name="bar_chart">棒グラフ</string>
+
+	<string name="page_format">ページ^1</string>
+
+	<string name="page_size">用紙サイズ</string>
+	<string-array name="page_size_items">
+	    <item>A3</item>
+	    <item>A4</item>
+	    <item>A5</item>
+	    <item>B5</item>
+	    <item>レター</item>
+	    <item>法律</item>
+	    <item>タブロイド</item>
+	</string-array>
+
+	<string name="page_orientation">用紙方向</string>
+	<string name="portrait">縦向き</string>
+	<string name="landscape">ランドスケープ</string>
+
+	<string name="amounts_on_charts">チャート上の金額を表示する</string>
+	<string name="percentages_on_pie_charts">円グラフにパーセンテージを表示する</string>
+	<string name="create_settings_page">設定ページを作成します</string>
+				
+	<string-array name="report_export_file_type">
+	    <item>@string/csv</item>
+	    <item>@string/pdf</item>
+	    <item>ウェブページ</item>
+	</string-array>
+
+	<string-array name="report_export_file_type_description">
+	    <item>Microsoft® ExcelやGoogle™ Docsなどのスプレッドシート・アプリケーションで読み取り可能</item>
+	    <item>印刷や文書作成に適しています。 Adobe Reader、または別のPDFビューアが必要です</item>
+	    <item>ウェブサイト上での公開またはWebブラウザでの表示に適しています</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">として共有する形式を指定する</string>
+</resources>

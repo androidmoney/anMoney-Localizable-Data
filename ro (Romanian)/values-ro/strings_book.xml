@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>Funcţie de clasificarea şi categoriile pe care le folosiţi, pot fi citite doar de Microsoft® Money</item>
-        <item>Pot fi citite de toate aplicațiile care suportă formatul QIF</item>
+        <item>Pot fi citite de toate aplicațiile care suportă formatul <b>QIF</b></item>
         <item>Pot fi citite de aplicații tip calcul tabelar, cum ar fi Microsoft® Excel sau Google™ Docs. Primul rînd exportat conţine titlul coloanelor, urmat de un rînd pentru fiecare tranzacţie. Fiecare împărţire primeşte propriul rînd</item>
     </string-array>
 

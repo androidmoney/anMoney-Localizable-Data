@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>Attól függően, hogy milyen osztályozásokat és kategóriákat használ, csak a Microsoft® Money-val olvashatja</item>
-        <item>Olvasható az összes QIF formátumot támogató szoftverrel</item>
+        <item>Olvasható az összes <b>QIF</b> formátumot támogató szoftverrel</item>
         <item>Olvashatja egy táblázatkezelő szoftverrel, mint például a Microsoft® Excel vagy a Google™ Docs. Az első sor tartalmazza az oszlopfejléceket, és utána minden tranzakcióhoz kap egy sort. Minden egyes osztás kapja a saját sorát is</item>
     </string-array>
 

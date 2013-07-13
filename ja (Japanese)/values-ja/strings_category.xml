@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="category_main_sub_separator">：</string>
+    <string name="category_main_sub_format">^1^2^3</string>
+    <string name="category">カテゴリー</string>
+    <string name="categories">@string/category</string>
+    <string name="subcategory">サブカテゴリー</string>
+    <string name="classification">分類</string>
+    <string name="_class">区分</string>
+    <string name="subclass">サブクラス</string>
+    <string name="parent_category">親カテゴリー</string>  <!-- This is the main category that a subcategory belongs to -->
+    <string name="parent_class">親クラス</string>  <!-- This is the main class that a subclass belongs to -->
+    <string name="edit_category">カテゴリーを編集する</string>
+    <string name="edit_subcategory">サブカテゴリーを編集する</string>
+    <string name="edit_class">区分を編集する</string>
+    <string name="edit_subclass">サブクラスを編集する</string>
+    <string name="new_category">新しいカテゴリー</string>
+    <string name="new_subcategory">新しいサブカテゴリー</string>
+    <string name="new_class">新しい区分</string>
+    <string name="new_subclass">新しいサブクラス</string>
+    <string name="delete_category">カテゴリーを削除する</string>
+    <string name="delete_subcategory">サブカテゴリーを削除する</string>
+    <string name="delete_class">区分を削除する</string>
+    <string name="delete_subclass">サブクラスを削除する</string>
+    <string name="add_default_categories">デフォルトのカテゴリーを追加します</string>
+    <string name="add_classification">分類を追加</string>
+    <string name="select_category">カテゴリーを選択する</string>
+    <string name="select_class">区分を選択する</string>
+    <string name="delete_classification">分類を削除する</string>
+    <string name="rename_classification">分類名を変更する</string>
+    <string name="select_classification">分類を選択する</string>
+    <string name="enter_classification_name">分類名を入力します</string>
+    <string name="enter_new_classification_name">新しい分類名を入力します</string>
+    <string name="categories_and_classifications">カテゴリーと分類</string>
+    <string name="no_categories_expense">お客様には経費カテゴリーがありません</string>
+    <string name="no_categories_income">お客様には収入カテゴリーがありません</string>
+    <string name="no_classes">お客様には区分がありません</string>
+    <string name="create_category_instructions_format">カテゴリーを作成するには画面上の^iをタップします</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_class_instructions_format">区分を作成するには画面上の^iをタップします</string> <!-- ^1 will be replaced by an image -->
+    <string name="uncategorized_transactions">未分類トランザクション</string>
+    <string name="delete_category_no_subcategories_warning_format">カテゴリー^1は完全に削除されます</string>
+    <string name="delete_class_no_subclass_warning_format">クラス^1は完全に削除されます</string>
+    <string name="delete_category_with_subcategories_warning_format">カテゴリー^1と<u>すべてのサブカテゴリー</u>は完全に削除されます</string>
+    <string name="delete_class_with_subclass_warning_format">クラス^1と<u>すべてのサブクラス</u>は完全に削除されます</string>
+    <string name="delete_subcategory_warning_format">サブカテゴリー^1は完全に削除されます</string>
+    <string name="delete_subclass_warning_format">サブクラス^1は完全に削除されます</string>
+    <string name="delete_classification_warning_format">分類^1は完全に削除されます。すべての取引はその分類を除去しなければなりません</string>
+    <string name="default_categories_add_confirmation">デフォルトのカテゴリーを追加しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="default_categories_added">デフォルトのカテゴリーを追加</string>
+    <string name="all_categories">すべてのカテゴリー</string>
+    <string name="expense">経費</string>
+    <string name="expenses">経費</string>
+    <string name="expense_categories">経費カテゴリー</string>
+    <string name="income">収入</string>
+    <string name="income_categories">収入カテゴリー</string>
+    <string name="savings">貯金</string> <!-- As in "amount saved by budgeting" -->
+    <string name="category_name">カテゴリー名</string>
+    <string name="subcategory_name_lower">サブカテゴリー名</string>
+    <string name="class_name">クラス名</string>
+    <string name="subclass_name_lower">サブクラス名</string>
+    <string name="without_subcategory">サブカテゴリーなし</string>
+    <string name="without_subclass">サブクラスなし</string>
+    <string name="cannot_be_zero">0にすることはできません</string>
+    <string name="change_expense_warning">支出から収入にまたはその逆にこのカテゴリーを変更しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="prepopulate">既定のカテゴリーに移入しますか</string>
+    <string name="short_categories">短いカテゴリー・リストのみを読み込む　(完全なリストをロードするオプションは後ほど表示されます)</string>
+    <string name="view_categories">カテゴリーを表示</string>
+    <string name="category_not_found">カテゴリーが見つかりません</string>
+    <string name="class_not_found">クラスが見つかりません</string>
+    <string name="total_income">総所得</string>
+    <string name="total_expense">合計経費</string>
+	<string name="net">純量</string>
+    <string name="net_income">純利益</string>
+    <string name="uncategorized">未分類</string>
+    <string name="income_uncategorized">未分類収入</string>
+    <string name="expense_uncategorized">未分類経費</string>
+    <string name="show_uncategorized">未分類で表示する</string>
+    <string name="move_subcategory_to_another_category_warning">別のカテゴリーの下位にこのサブカテゴリーを移動しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="show_zero_balance_categories">ゼロバランスでカテゴリーを表示しますか</string>
+    <string name="show_zero_balance_items">ゼロバランスを持つアイテムを表示する</string> <!-- "Items" refers to classification name -->
+    <string name="recategorize_category">このカテゴリーに全てのトランザクションを再カテゴリ化する</string>
+    <string name="recategorize_class">この区分に全てのトランザクションを再カテゴリー化する</string>
+	<string name="spending_by_category0">カテゴリー別支出</string>
+	<string name="spending_by_category1">カテゴリーまたは^1による支出</string>
+	<string name="spending_by_category2">カテゴリー、^1または^2による支出</string>
+	<string name="spending_by_category_over_time0">経時的なカテゴリー別支出</string>
+	<string name="spending_by_category_over_time1">経時的なカテゴリーまたは^1による支出</string>
+	<string name="spending_by_category_over_time2">経時的なカテゴリー、^1または^2による支出</string>
+	
+    <string name="no_categories">カテゴリーはありません</string>
+	<string name="no_categories_yet">カテゴリーはまだありません</string>
+    <string name="no_classes_yet">区分はまだありません</string>
+	<string-array name="category_count_format_plurals">
+	    <item>^1カテゴリー</item>
+	    <item/>
+	    <item/>
+	</string-array>
+	<string-array name="uncategorized_count_plurals">
+    	<item>^1の分類されない取引</item>
+		<item/>
+		<item/>
+  	</string-array>
+
+	<string-array name="default_classifications">
+	    <item>家族</item>
+	    <item>プロパティー</item>
+	    <item>プロジェクト</item>
+	    <item>趣味</item>
+	    <item>休暇</item>
+	    <item>ジョブの経費</item>
+	    <item>その他</item>
+   </string-array>
+</resources>

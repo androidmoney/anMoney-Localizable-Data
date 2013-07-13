@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>A seconda delle classificazioni e le categorie utilizzate, possono essere leggibili da Microsoft® Money</item>
-        <item>Leggibile da tutte le applicazioni che supportano il formato QIF</item>
+        <item>Leggibile da tutte le applicazioni che supportano il formato <b>QIF</b></item>
         <item>Leggibile da applicazioni di foglio elettronico, come Microsoft® Excel™ o Google Docs. La prima riga esportata contiene le intestazioni delle colonne, seguita da una riga per ogni transazione. Ogni divisa occupa una riga</item>
     </string-array>
 

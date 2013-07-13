@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="splits">பிளவுகள்</string> <!-- This is a noun -->
     <string name="split_canceled">பிளவு இரத்து செய்யப்பட்டது</string> <!-- "Split" is a verb -->
     <string name="new_split">புதிய பிளவு</string> <!-- "Split" here and below are nouns -->

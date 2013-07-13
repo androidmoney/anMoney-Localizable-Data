@@ -147,7 +147,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>Depending on the classifications and categories you use, may only be readable by Microsoft® Money</item>
-        <item>Readable by all applications supporting the QIF format</item>
+        <item>Readable by all applications supporting the <b>QIF</b> format</item>
         <item>Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
     </string-array>
 

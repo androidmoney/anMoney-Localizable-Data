@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="account">கணக்கு</string>
     <string name="accounts">கணக்குகள்</string>
     <string name="all_accounts">எல்லா கணக்குகளும்</string>

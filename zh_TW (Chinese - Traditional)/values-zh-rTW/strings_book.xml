@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>根據您使用的分類和種類，可能只有Microsoft® Money能讀取</item>
-        <item>所有支持QIF格式的應用程式都能讀取</item>
+        <item>所有支持<b>QIF</b>格式的應用程式都能讀取</item>
         <item>支持電子表格應用程式，例如Microsoft® Excel 或 Google™ Docs。 The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
     </string-array>
 

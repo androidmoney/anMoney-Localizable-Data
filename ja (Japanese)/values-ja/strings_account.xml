@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="account">口座</string>
+    <string name="accounts">@string/account</string>
+    <string name="all_accounts">すべての口座</string>
+    <string name="open_accounts">口座開設</string>
+    <string name="liability">責任</string> <!-- Liability account -->
+    <string name="asset">資産</string>  <!-- Aeset account -->
+    <string name="credit_liability_details">クレジット/負債の詳細</string>
+<!-- <string name="associated_loan">Associated loan</string> -->
+<!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
+<!-- <string name="associated_reward_program">Associated reward program</string> -->
+<!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
+    <string name="account_balances">口座残高</string>
+    <string name="vehicle_details">自動車詳細</string>
+    <string name="property_details">プロパティー詳細</string>
+    <string name="view_accounts">口座を表示</string>
+    <string name="new_account">新しい口座</string>
+    <string name="edit_account">口座を編集する</string>
+    <string name="balance_noun">残高</string> <!-- Account balance -->
+    <string name="balances_noun">残高</string>
+    <string name="adjust">調整</string>
+    <string name="adjust_balance">残高調整</string>
+	<string name="balance_adjusted">残高は修正されました</string>
+	<string name="balance_adjustment_note">残高修正</string>
+	<string name="category_for_adjustment_transaction">取引調整のためのカテゴリー</string>
+	<string name="postpone">延期する</string>
+    <string name="balance_verb">残高</string> <!-- Balance/Reconcile an account -->
+    <string name="balance_account">残高勘定</string>
+    <string name="balanced">均衡した</string> <!-- Past tense verb -->
+    <string name="balance_postponed">収支は延期されました</string>
+    <string name="balance_canceled">残高は取消されました</string>
+	<string name="started_balancing_already">お客様は、既にこの口座に残高を持っています。</string>
+	<string name="postpone_balancing_warning">収支を延期する</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="account_balance_does_not_match_bank_warning_format">入力した明細書期首残高^1は以前に調整された全トランザクションの合計^2と一致しません</string>  <!-- ^1 and ^2 are numbers -->
+	<string name="account_balance_does_not_match_credit_warning_format">お客様が入力した負債額^1は以前、調整された全トランザクションの合計^2と一致しません</string> <!-- ^1 and ^2 are numbers -->
+	<string name="account_balance_does_not_match_fix">次の方法で修正をお試しください。\n\n<li>明細書を再確認</li>\n<li>調整済みとしてトランザクションをマーキング</li>\n<li>未調整としてトランザクションをマーキング</li>\n<li>期首残高を調整する</li></string>
+	<string name="left_to_reconcile">調整の左</string> <!-- Amount left to reconcile -->
+	<string name="statement_balance">明細書残高</string> <!-- Statement as in "Bank statement" -->
+    <string name="statement_date">銀行取引明細書日付</string>
+    <string name="statement_starting_balance">明細書期首残高</string>
+    <string name="statement_ending_balance">明細書期末残高</string>
+    <string name="amount_owed_last_month">先月未払い総額</string>
+    <string name="amount_owed_this_month">今月未払い総額</string>
+	<string name="service_charge_amount">手数料金額</string> <!-- As in bank service charge -->
+    <string name="service_charge_category">手数料カテゴリー</string>
+    <string name="service_charge_notes_format">^1に終了する明細書の手数料</string>
+    <string name="interest_earned_amount">受取利息額</string>
+    <string name="interest_earned_category">受取利息カテゴリー</string>
+    <string name="interest_earned_notes_format">^1に終了する明細書の受取利息</string>
+    <string name="interest_paid_amount">支払利息額</string>
+    <string name="interest_paid_category">支払利息カテゴリー</string>
+    <string name="interest_paid_notes_format">^1に終了する明細書の支払利息</string>
+    <string name="clear_all_transactions">すべての取引をクリア</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+	<string name="clear_all_transactions_on_all_pages">すべてのページのすべての取引をクリア</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+    <string name="export_account">口座のエクスポート</string>
+    <string name="delete_account">アカウントを削除する</string>
+    <string name="close_account">口座を閉じる</string>
+    <string name="reopen_account">口座を再開する</string>
+    <string name="repair_account">口座を修正する</string>
+    <string name="repaired">修正済み</string>
+    <string name="copy_account_number">口座番号をコピーします</string>
+    <string name="book_total">通帳合計</string>
+    <string name="favorites_total">お気に入り合計</string>
+	<string name="delete_account_warning_part1_format">口座^1は完全に削除されます。\n\nこの口座はトランザクションで使用されているため関連するすべてのトランザクションも同様に削除されます</string>
+	<string name="delete_account_warning_part2_format">口座を非表示にしてトランザクション履歴を保存するには、^1をタップしてその代わりに口座を閉じます</string> <!-- ^1 = OK -->
+	<string name="no_accounts">お客様には口座がありません</string>
+    <string name="create_account_instructions_format">口座を作成するには画面上の^iをタップします</string>  <!-- ^i will be replaced by an icon -->
+    <string name="no_transactions_for_account">お客様には、この口座におけるトランザクションがありません</string>
+    <string name="account_type">口座種別</string>
+    <string name="account_type_bank_first">銀行口座が最初の口座種別</string>
+    <string name="account_type_cash_first">現金が最初の口座種別</string>
+    <string name="account_name">口座名</string>
+    <string name="abbreviation">短縮形</string>
+    <string name="abbr">短縮形</string>
+    <string name="type">入力する</string>
+    <string name="favorite_account">お気に入り口座</string>
+    <string name="favorite_accounts">お気に入り口座</string>
+    <string name="account_has_been_closed">この口座は閉鎖されました</string>
+    <string name="acquisition_date">取得日</string>
+    <string name="credit_limit">クレジット上限</string>
+    <string name="must_pay_balance">私は毎月残高全体を支払う必要があります（チャージカード）</string>
+    <string name="will_pay_balance">私は毎月残高全体を支払うつもりです</string>
+    <string name="interest_rate">金利</string>
+    <string name="introductory_rate_in_effect">実際の当初金利があります</string>
+    <string name="introductory_rate">当初金利</string>
+    <string name="valid_until">まで有効</string>
+    <string name="minimum_balance">最低限残高</string>
+    <string name="date">日付</string>
+    <string name="make">作る</string>  <!-- Vehicle make -->
+    <string name="vehicle_make">自動車メーカー</string>
+    <string name="year">年</string>
+    <string name="model">モデル</string> <!-- Vehicle model -->
+    <string name="vehicle_model">自動車モデル</string>
+    <string name="vehicle_identification_number">車両識別番号（VIN）</string>
+    <string name="vin">VIN</string> <!-- Vehicle Identifiication Number -->
+    <string name="purchase_location">購入場所</string>
+    <string name="location">場所</string>
+    <string name="warranty_information">保証内容</string>
+    <string name="type_details_about_warranty_information">ここに保障の詳細を入力します</string>
+    <string name="warranty_expiration_date">保証有効期限</string>
+    <string name="manufacturer_web_address">メーカーのウェブアドレス</string>
+    <string name="property_address">プロパティー・アドレス</string>
+    <string name="closed">クローズ済み</string>
+    <string name="reopened">再開済み</string>
+    <string name="reopen_canceled">再開は取消されました</string>
+    <string name="no_financial_institution_assigned">金融機関が割り当てられていません</string>
+    <string name="maximum_100">最大100％</string>
+    <string name="must_be_less_than_interest_rate">金利未満でなければなりません</string>
+    <string name="must_be_in_future">未来でなければなりません</string> <!-- As in "The date supplied must be a future date" -->
+    <string name="must_be_in_past">過去でなければなりません</string> <!-- As in "The date supplied must be a past date" -->
+    <string name="invalid_year">無効</string>
+    <string name="invalid_vin_number">17文字および/または数字でなければなりません</string>
+    <string name="invalid_url">無効なURL</string>
+    <string name="opening_balance_warning_message">この口座はトランザクションを調整しています。\n\n期首残高を変更すると、お客様の記録と金融機関の記録との間に差異が生じる場合があります</string>
+    <string name="no_exchange_rate_warning_message_format">^1と^2との間に任意の為替レートがありません。これは通帳残高の不正確さを引き起こす原因となります</string> <!-- ^1 and ^2 are currency names -->
+    <string name="would_you_like_to_give_one_after_saving">保存の後に付与しますか</string>  <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="net_worth">純資産</string> <!-- Net worth is an accounting term -->
+    <string name="net_worth_over_time">経時的純資産/予想</string>
+	<string name="set_total_to_show">表示する合計を設定する</string>
+	<string name="total_to_show">表示する合計</string>
+    <string name="selected_total">選択された合計</string>
+	<string name="entered_total">入力済合計</string>
+	<string name="balance_as_of_today">今日現在の残高</string>
+	<string name="cleared_total">クリアされた合計</string>
+	<string name="reconciled_total">調整された合計</string>
+    <string name="default_cash_account_name">私の毎日の現金</string>
+    <string name="default_checking_account_name">私の現在の口座</string>
+    <string name="default_savings_account_name">私の普通預金口座</string>
+    <string name="default_credit_account_name">私のクレジットカード</string>
+    <string name="color">色</string>
+    <string name="projected_balance">予測された</string>
+    <string name="projected_balance_at_the_end_of_the_month">予測された月末のバランス</string>
+    <string name="at_months_end">月の終わり</string>
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">予測された^1上のバランス</string> <!-- ^1 is a date -->
+	<string name="total_for_format">^1の合計</string>  <!-- ^1 is a name -->
+	<string name="total_for_month">月の合計</string>
+	<string name="period">期間</string>
+	<string name="total_for_period">期間の合計</string>
+	<string name="total_for_unassigned">未割当の合計</string>
+	<string name="make_account_budget_question_part1">この口座をお客様の予算の一部に当てますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="make_account_budget_question_part2_format">たとえ^1をタップしても、口座を編集することで後でこれを行うことができます</string> <!-- Tap is "No" -->
+	<string name="show_option_format">^1オプションを表示する</string> <!-- This will say "Show the Next Check Number option" -->
+	<string name="show_closed">締切済みを表示する</string> <!-- As in "show closed accounts" -->
+    
+    <string name="no_accounts_yet">口座はまだありません</string>
+	<string-array name="account_count_format_plurals">
+	    <item>^1口座</item>
+	    <item/>
+	    <item/>
+	</string-array>
+
+	<string-array name="pending_count_plurals">
+	    <item>^1新しいトランザクション</item>
+	    <item/>
+	    <item/>
+	  </string-array>
+
+	<string-array name="account_group_labels">
+	    <item>銀行口座</item>
+	    <item>現金</item>
+	    <item>信用取引勘定</item>
+	    <item>投資現金口座</item>
+		<!-- <item>Loans and liabilities</item> -->
+	    <item>その他の負債</item>
+	    <item>その他の資産</item>
+	</string-array>
+
+	<string-array name="total_for_account_group_labels">
+	    <item>銀行口座の合計</item>
+	    <item>現金の合計</item>
+	    <item>クレジット口座の合計</item>
+	    <item>投資活動による現金口座の合計</item>
+		<!-- <item>Total for loans and liabilities</item> -->
+	    <item>その他の負債の合計</item>
+	    <item>その他の資産の合計</item>
+	</string-array>
+
+	<string-array name="opening_balance_new_labels">
+	    <item>口座残高</item>
+	    <item>購入価格</item>
+	    <item>この口座の未払額</item>
+	    <item>このカードの未払額</item>
+	</string-array>
+
+	<string name="opening">開く</string> <!-- As in "Opening balance" -->
+	<string-array name="opening_balance_edit_labels">
+	    <item>期首残高</item>
+	    <item>取得購入価格</item>
+	    <item>この口座の元々の未払額</item>
+	    <item>このカードの当初からの未払額</item>
+	</string-array>
+
+	<string-array name="current_balance_edit_labels">
+	    <item>現在の残高:</item>
+	    <item>現在の値</item>
+	    <item>この口座の現在の未払額</item>
+	    <item>このカードの現在の未払額</item>
+	</string-array>
+
+	<string-array name="account_type_names">
+	    <item>銀行</item>
+	    <item>現金/その他</item>
+	    <item>クレジット/チャージカード</item>
+	    <item>クレジットの線</item>
+	    <item>ローン</item>
+<!-- 		<item>Other liability</item> Loan Loans -->
+	    <item>その他の負債</item>
+	    <item>プロパティー</item>
+	    <item>自動車</item>
+	    <item>その他の資産</item>
+	    <item>投資現金口座</item>
+	</string-array>
+
+	<string-array name="default_account_names">
+	    <item>銀行</item>
+	    <item>現金</item>
+	    <item>クレジットカード</item>
+	    <item>クレジットの線</item>
+	    <item>ローン</item>
+	    <item>@string/liability</item>
+	    <item>プロパティー</item>
+	    <item>自動車</item>
+	    <item>@string/asset</item>
+	    <item>投資</item>
+	</string-array>
+
+    <string name="show_account_numbers">口座番号を表示する</string>
+    <string name="show_account_numbers_description">もしある場合、名前の下に口座ト番号を示しています</string>
+
+    <string name="use_abbreviations">短縮形を使用する</string>
+    <string name="use_abbreviations_description">もし1つある場合名前の代わりに口座の短縮形を表示します</string>
+
+    <string name="show_group_totals">グループ合計を表示する</string>
+    <string name="show_group_totals_description">各ディスプレイ·グループの合計を表示します</string>
+
+	<string-array name="account_list_status_filter_title_bar">
+	    <item>@string/all_accounts</item>
+	    <item>@string/open_accounts</item>
+	    <item>@string/favorite_accounts</item>
+	  </string-array>
+
+	<string-array name="account_list_sort_order_title_bar">
+	    <item>@string/type</item>
+	    <item/>
+	    <item>@string/name</item>
+	    <item>@string/financial_institution</item>
+	    <item/>
+	</string-array>
+
+    <string name="all_transactions">すべてのトランザクション</string>
+	<string-array name="transaction_list_filter_title_bar">
+	    <item>@string/all_transactions</item>
+	    <item>@string/unreconciled2</item>
+	    <item>@string/reconciled2</item>
+	    <item>@string/cleared2</item>
+	    <item>@string/pending2</item>
+	    <item>@string/follow_up2</item>
+	    <item>@string/not_exported_transaction2</item>
+	</string-array>
+    
+    <string name="display_order">順序を表示する</string>
+    <string name="entry_date">記入日</string>
+		<string-array name="transaction_list_sort_order_title_bar">
+		<item>@string/date</item>
+		<item>@string/number</item>
+		<item>@string/payee</item>
+		<item>@string/amount</item>
+		<item>@string/category</item>
+		<item>@string/entry_date</item>
+		<item/>
+		<item/>
+		<item>@string/account</item>
+	</string-array>
+    
+    <string name="date_range">期間</string>
+	<string name="current_month">現在の月</string>
+	<string name="previous_month">前月</string>
+	<string name="next_month">次月</string>
+	<string name="current_quarter">現在の四半期</string>
+	<string name="previous_quarter">前四半期</string>
+	<string name="next_quarter">次の四半期</string>
+	<string name="current_half_year">現在の半期</string>
+	<string name="previous_half_year">前の半年</string>
+	<string name="next_half_year">今後半年間</string>
+	<string name="current_year">今年</string>
+	<string name="previous_year">前年</string>
+	<string name="next_year">来年</string>
+	<string name="current_week">今週</string>
+	<string name="previous_week">前週</string>
+	<string name="next_week">次週</string>
+	<string name="current_two_weeks">現在の2週間</string>
+	<string name="previous_two_weeks">前の2週間</string>
+	<string name="next_two_weeks">次の2週間</string>
+	<string name="all_dates">すべての日付</string>
+	<string-array name="date_range_items">
+		<item>@string/all_dates</item>
+		<item>これまでのすべて</item>
+		<item>@string/current_month</item>
+		<item>@string/current_year</item>
+		<item>月から日</item>
+		<item>年初来</item>
+		<item>@string/previous_month</item>
+		<item>@string/previous_year</item>
+		<item>過去30日間</item>
+		<item>過去3 か月間</item>
+		<item>過去6カ月</item>
+		<item>過去12か月</item>
+		<item>今後30日</item>
+		<item>今後2か月</item>
+		<item>今後6カ月</item>
+		<item>今後12か月</item>
+		<item>@string/custom_dates</item>
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar">
+	    <item>全ての日付</item>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item>過去 30 日</item>
+	    <item>過去 3 か月</item>
+	    <item>過去6カ月</item>
+	    <item>過去12か月</item>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar_months">
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	    <item/>
+	</string-array>
+	
+    <string name="display_grouping">グループの表示</string>
+</resources>

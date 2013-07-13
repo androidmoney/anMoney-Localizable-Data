@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
 		<item>Je nachdem, welche Klassen oder Kategorien sie verwenden, kann es u.U. nur von Microsoft® Money gelesen werden</item>
-		<item>Lesbar von allen Anwendungen, die das QIF-Format unterstützen</item>
+		<item>Lesbar von allen Anwendungen, die das <b>QIF-Format</b> unterstützen</item>
 		<item>Lesbar durch Tabellenkalkulations-Programme, wie z.B. Microsoft® Excel or Google Docs. Die erste exportierte Zeile enthält den Header (Feldnamen), gefolgt von einer Zeile für jede Transaktion. Jede Splitbuchung hat eine eigene Zeile</item>
 	</string-array>
 

@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
 		<item>Suivant les classifications et catégories que vous utilisez, seul Microsoft® Money sera peut-être capable de relire le fichier</item>
-		<item>Lisible par toutes les applications supportant le format QIF</item>
+		<item>Lisible par toutes les applications supportant le format <b>QIF</b></item>
 		<item>Lisible par les tableurs tels que Microsoft® Excel ou Google™ Docs. La première rangée exportée contient les en-têtes de colonnes, suivie d’une rangée pour chaque transaction. Chaque fractionnement se trouve consigné sur une rangée distincte.</item>
 	</string-array>
 

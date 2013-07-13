@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>En funció de les classificacions i categories emprades, només podria ser llegible per part de Microsoft® Money</item>
-        <item>Llegible per tots els programaris que suportin el format QIF</item>
+        <item>Llegible per tots els programaris que suportin el format <b>QIF</b></item>
         <item>Llegible pels programaris de full de càlcul, com ara Microsoft® Excel o Google™ Docs. La primera fila exportada conté les capçaleres de les columnes, seguit d’una fila per cada transacció. Cada divisió té la seva pròpia fila</item>
     </string-array>
 

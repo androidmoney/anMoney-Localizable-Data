@@ -145,7 +145,7 @@
 
 	<string-array name="book_export_file_type_description">
         <item>Závisí na klasifikácii a kategóriách, ktoré používate, môže byť čitateľné len v Microsoft® Money</item>
-        <item>Čitateľné vo všetkých aplikáciách, ktoré podporujú formát QIF</item>
+        <item>Čitateľné vo všetkých aplikáciách, ktoré podporujú formát <b>QIF</b></item>
         <item>Čitateľné pomocou tabuľkových kalkulátorov, napríklad aplikácia Microsoft® Excel alebo Google™ Docs. Prvý exportovaný riadok obsahuje záhlavie stĺpcov, nasledovaný riadkami jednotlivých transakcií. Každé rozdelenie bude na samostatnom riadku</item>
     </string-array>
 

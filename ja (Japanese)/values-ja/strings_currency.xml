@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="currency">通貨</string>
+    <string name="currencies">@string/currency</string>
+    <string name="edit_currency">通貨を編集する</string>
+    <string name="set_as_base_currency">基準通貨として設定する</string>
+    <string name="base_currency_set">基準通貨セット</string>
+    <string name="exchange_rate">為替レート</string>
+    <string name="exchange_rates">為替レート</string>
+    <string name="country">国</string>
+    <string name="region">地域</string>
+    <string name="currency_name">通貨名</string>
+    <string name="symbol">記号</string>
+    <string name="symbol_required">必要な記号</string>
+    <string name="exchange_rate_required">必要な為替レート</string>
+    <string name="view_currencies">通貨を表示</string>
+    <string name="tap_to_modify_converted_amounts">タップして変換した金額を変更します</string>
+    <string name="currency_converter">通貨換算</string>
+    <string name="invert">反転する</string>
+    <string name="save_exchange_rate">この為替レートを保存する</string>
+    <string name="all_currencies">すべての通貨</string>
+    <string name="used_currencies">使用通貨</string>
+    <string name="and_prior_format">^1と前</string> <!-- As in "January 1 and prior" -->
+    
+	<string-array name="currency_list_status_filter_title_bar">
+	    <item>@string/all_currencies</item>
+	    <item>@string/used_currencies</item>
+	</string-array>
+
+	<string-array name="currency_list_sort_order_title_bar">
+	    <item>@string/name</item>
+	    <item>@string/region</item>
+	</string-array>
+</resources>

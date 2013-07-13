@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<region>アルゼンチン</region>
+		<name>アルゼンチン ペソ</name>
+		<iso4217>ARS</iso4217>
+	</record>
+	<record>
+		<region>オーストラリア</region>
+		<name>オーストラリア ドル</name>
+		<iso4217>AUD</iso4217>
+	</record>
+	<record>
+		<region>バーレーン</region>
+		<name>バーレーン ディナール</name>
+		<iso4217>BHD</iso4217>
+	</record>
+	<record>
+		<region>バルバドス</region>
+		<name>バルバドス ドル</name>
+		<iso4217>BBD</iso4217>
+	</record>
+	<record>
+		<region>ボリビア</region>
+		<name>ボリビアーノ</name>
+		<iso4217>BOB</iso4217>
+	</record>
+	<record>
+		<region>ブラジル</region>
+		<name>ブラジル レアル</name>
+		<iso4217>BRL</iso4217>
+	</record>
+	<record>
+		<region>イギリス</region>
+		<name>英国ポンド</name>
+		<iso4217>GBP</iso4217>
+	</record>
+	<record>
+		<region>カナダ</region>
+		<name>カナダ ドル</name>
+		<iso4217>CAD</iso4217>
+	</record>
+	<record>
+		<region>カメルーン</region>
+		<name>フラン (CFA-BEAC)</name>
+		<iso4217>XAF</iso4217>
+	</record>
+	<record>
+		<region>チリ</region>
+		<name>チリ ペソ</name>
+		<iso4217>CLP</iso4217>
+	</record>
+	<record>
+		<region>中国</region>
+		<name>中国人民元</name>
+		<symbol>元</symbol>
+		<iso4217>CNY</iso4217>
+	</record>
+	<record>
+		<region>コロンビア</region>
+		<name>コロンビア ペソ</name>
+		<iso4217>COP</iso4217>
+	</record>
+	<record>
+		<region>チェコ共和国</region>
+		<name>チェコ コルナ</name>
+		<iso4217>CZK</iso4217>
+	</record>
+	<record>
+		<region>デンマーク</region>
+		<name>デンマーク クローネ</name>
+		<iso4217>DKK</iso4217>
+	</record>
+	<record>
+		<region>アンティグア・バーブーダ</region>
+		<name>東カリブ ドル</name>
+		<iso4217>XCD</iso4217>
+	</record>
+	<record>
+		<region>エジプト</region>
+		<name>エジプト ポンド</name>
+		<iso4217>EGP</iso4217>
+	</record>
+	<record>
+		<region>アラブ首長国連邦</region>
+		<name>アラブ首長国連邦ディルハム</name>
+		<iso4217>AED</iso4217>
+	</record>
+	<record>
+		<region>ユーロ圏</region>
+		<name>ユーロ</name>
+		<iso4217>EUR</iso4217>
+	</record>
+	<record>
+		<region>香港</region>
+		<name>香港ドル</name>
+		<iso4217>HKD</iso4217>
+	</record>
+	<record>
+		<region>ハンガリー</region>
+		<name>ハンガリー フォリント</name>
+		<iso4217>HUF</iso4217>
+	</record>
+	<record>
+		<region>アイスランド</region>
+		<name>アイスランド クローナ</name>
+		<iso4217>ISK</iso4217>
+	</record>
+	<record>
+		<region>インド</region>
+		<name>インド ルピー</name>
+		<iso4217>INR</iso4217>
+	</record>
+	<record>
+		<region>インドネシア</region>
+		<name>インドネシア ルピア</name>
+		<iso4217>IDR</iso4217>
+	</record>
+	<record>
+		<region>イスラエル</region>
+		<name>イスラエル新シェケル</name>
+		<iso4217>ILS</iso4217>
+	</record>
+	<record>
+		<region>ジャマイカ</region>
+		<name>ジャマイカ ドル</name>
+		<iso4217>JMD</iso4217>
+	</record>
+	<record>
+		<region>日本</region>
+		<name>日本円</name>
+		<symbol>￥</symbol>
+		<iso4217>JPY</iso4217>
+	</record>
+	<record>
+		<region>ヨルダン</region>
+		<name>ヨルダン ディナール</name>
+		<iso4217>JOD</iso4217>
+	</record>
+	<record>
+		<region>ケニア</region>
+		<name>ケニア シリング</name>
+		<iso4217>KES</iso4217>
+	</record>
+	<record>
+		<region>大韓民国</region>
+		<name>韓国 ウォン</name>
+		<iso4217>KRW</iso4217>
+	</record>
+	<record>
+		<region>クウェート</region>
+		<name>クウェート ディナール</name>
+		<iso4217>KWD</iso4217>
+	</record>
+	<record>
+		<region>ラトビア</region>
+		<name>ラトビア ラッツ</name>
+		<iso4217>LVL</iso4217>
+	</record>
+	<record>
+		<region>レバノン</region>
+		<name>レバノン ポンド</name>
+		<iso4217>LBP</iso4217>
+	</record>
+	<record>
+		<region>リトアニア</region>
+		<name>リトアニア リタス</name>
+		<iso4217>LTL</iso4217>
+	</record>
+	<record>
+		<region>マレーシア</region>
+		<name>マレーシア リンギット</name>
+		<iso4217>MYR</iso4217>
+	</record>
+	<record>
+		<region>メキシコ</region>
+		<name>メキシコ ペソ</name>
+		<iso4217>MXN</iso4217>
+	</record>
+	<record>
+		<region>モロッコ</region>
+		<name>モロッコ ディルハム</name>
+		<iso4217>MAD</iso4217>
+	</record>
+	<record>
+		<region>ナミビア</region>
+		<name>ナミビア ドル</name>
+		<iso4217>NAD</iso4217>
+	</record>
+	<record>
+		<region>ネパール</region>
+		<name>ネパール ルピー</name>
+		<iso4217>NPR</iso4217>
+	</record>
+	<record>
+		<region>トルコ</region>
+		<name>新トルコリラ</name>
+		<iso4217>TRY</iso4217>
+	</record>
+	<record>
+		<region>ニュージーランド</region>
+		<name>ニュージーランド ドル</name>
+		<iso4217>NZD</iso4217>
+	</record>
+	<record>
+		<region>ニジェール</region>
+		<name>フラン (CFA-BCEAO)</name>
+		<iso4217>XOF</iso4217>
+	</record>
+	<record>
+		<region>ナイジェリア</region>
+		<name>ナイジェリア ナイラ</name>
+		<iso4217>NGN</iso4217>
+	</record>
+	<record>
+		<region>ノルウェー</region>
+		<name>ノルウェー クローネ</name>
+		<iso4217>NOK</iso4217>
+	</record>
+	<record>
+		<region>オマーン</region>
+		<name>オマーン リアル</name>
+		<iso4217>OMR</iso4217>
+	</record>
+	<record>
+		<region>パキスタン</region>
+		<name>パキスタン ルピー</name>
+		<iso4217>PKR</iso4217>
+	</record>
+	<record>
+		<region>パナマ</region>
+		<name>パナマ バルボア</name>
+		<iso4217>PAB</iso4217>
+	</record>
+	<record>
+		<region>ペルー</region>
+		<name>ペルー 新ソル</name>
+		<iso4217>PEN</iso4217>
+	</record>
+	<record>
+		<region>フィリピン</region>
+		<name>フィリピン ペソ</name>
+		<iso4217>PHP</iso4217>
+	</record>
+	<record>
+		<region>ポーランド</region>
+		<name>ポーランド ズウォティ</name>
+		<iso4217>PLN</iso4217>
+	</record>
+	<record>
+		<region>カタール</region>
+		<name>カタール リアル</name>
+		<iso4217>QAR</iso4217>
+	</record>
+	<record>
+		<region>ルーマニア</region>
+		<name>ルーマニア レイ</name>
+		<iso4217>RON</iso4217>
+	</record>
+	<record>
+		<region>ロシア</region>
+		<name>ロシア ルーブル</name>
+		<iso4217>RUB</iso4217>
+	</record>
+	<record>
+		<region>サウジアラビア</region>
+		<name>サウジ リヤル</name>
+		<iso4217>SAR</iso4217>
+	</record>
+	<record>
+		<region>シンガポール</region>
+		<name>シンガポール ドル</name>
+		<iso4217>SGD</iso4217>
+	</record>
+	<record>
+		<region>南アフリカ</region>
+		<name>南アフリカ ランド</name>
+		<iso4217>ZAR</iso4217>
+	</record>
+	<record>
+		<region>スリランカ</region>
+		<name>スリランカ ルピー</name>
+		<iso4217>LKR</iso4217>
+	</record>
+	<record>
+		<region>スウェーデン</region>
+		<name>スウェーデン クローナ</name>
+		<iso4217>SEK</iso4217>
+	</record>
+	<record>
+		<region>スイス</region>
+		<name>スイス フラン</name>
+		<iso4217>CHF</iso4217>
+	</record>
+	<record>
+		<region>台湾</region>
+		<name>新台湾ドル</name>
+		<iso4217>TWD</iso4217>
+	</record>
+	<record>
+		<region>タイ</region>
+		<name>タイ バーツ</name>
+		<iso4217>THB</iso4217>
+	</record>
+	<record>
+		<region>ウクライナ</region>
+		<name>ウクライナ グリブナ</name>
+		<iso4217>UAH</iso4217>
+	</record>
+	<record>
+		<region>ウルグアイ</region>
+		<name>ウルグアイ ペソ</name>
+		<iso4217>UYU</iso4217>
+	</record>
+	<record>
+		<region>アメリカ合衆国</region>
+		<name>米ドル</name>
+		<iso4217>USD</iso4217>
+	</record>
+	<record>
+		<region>ベネズエラ</region>
+		<name>ベネズエラ ボリバルフエルテ</name>
+		<iso4217>VEF</iso4217>
+	</record>
+	<record>
+		<region>ベトナム</region>
+		<name>ベトナム ドン</name>
+		<iso4217>VND</iso4217>
+	</record>
+	
+	<record>
+		<region>アルバ島</region>
+		<name>アルバ ギルダー</name>
+		<iso4217>AWG</iso4217>
+	</record>
+	<record>
+		<region>ボスニア・ヘルツェゴビナ</region>
+		<name>ボスニア マルク</name>
+		<iso4217>BAM</iso4217>
+	</record>
+	<record>
+		<region>バングラデシュ</region>
+		<name>バングラデシュ タカ</name>
+		<iso4217>BDT</iso4217>
+	</record>
+	<record>
+		<region>ブルガリア</region>
+		<name>ブルガリア 新レフ</name>
+		<iso4217>BGN</iso4217>
+	</record>
+	<record>
+		<region>バミューダ</region>
+		<name>バミューダ ドル</name>
+		<iso4217>BMD</iso4217>
+	</record>
+	<record>
+		<region>バハマ</region>
+		<name>バハマ ドル</name>
+		<iso4217>BSD</iso4217>
+	</record>
+	<record>
+		<region>フィジー</region>
+		<name>フィジー諸島 ドル</name>
+		<iso4217>FJD</iso4217>
+	</record>
+	<record>
+		<region>ガーナ</region>
+		<name>ガーナ セディ</name>
+		<iso4217>GHS</iso4217>
+	</record>
+	<record>
+		<region>ガンビア</region>
+		<name>ガンビア ダラシ</name>
+		<iso4217>GMD</iso4217>
+	</record>
+	<record>
+		<region>グアテマラ</region>
+		<name>グアテマラ ケツァル</name>
+		<iso4217>GTQ</iso4217>
+	</record>
+	<record>
+		<region>クロアチア</region>
+		<name>クロアチア クーナ</name>
+		<iso4217>HRK</iso4217>
+	</record>
+	<record>
+		<region>カンボジア</region>
+		<name>カンボジア リエル</name>
+		<iso4217>KHR</iso4217>
+	</record>
+	<record>
+		<region>ラオス</region>
+		<name>ラオス キープ</name>
+		<iso4217>LAK</iso4217>
+	</record>
+	<record>
+		<region>モルドバ</region>
+		<name>モルドバ レイ</name>
+		<iso4217>MDL</iso4217>
+	</record>
+	<record>
+		<region>マダガスカル</region>
+		<name>マダガスカル アリアリ</name>
+		<iso4217>MGA</iso4217>
+	</record>
+	<record>
+		<region>マケドニア</region>
+		<name>マケドニア デナル</name>
+		<iso4217>MKD</iso4217>
+	</record>
+	<record>
+		<region>モーリシャス</region>
+		<name>モーリシャス ルピー</name>
+		<iso4217>MUR</iso4217>
+	</record>
+	<record>
+		<region>モルジブ</region>
+		<name>モルディブ諸島 ルフィア</name>
+		<iso4217>MVR</iso4217>
+	</record>
+	<record>
+		<region>パラグアイ</region>
+		<name>パラグアイ グアラニ</name>
+		<iso4217>PYG</iso4217>
+	</record>
+	<record>
+		<region>セルビア</region>
+		<name>ディナール (セルビア)</name>
+		<iso4217>RSD</iso4217>
+	</record>
+	<record>
+		<region>セーシェル</region>
+		<name>セイシェル ルピー</name>
+		<iso4217>SCR</iso4217>
+	</record>
+	<record>
+		<region>シリア</region>
+		<name>シリア ポンド</name>
+		<iso4217>SYP</iso4217>
+	</record>
+	<record>
+		<region>チュニジア</region>
+		<name>チュニジア ディナール</name>
+		<iso4217>TND</iso4217>
+	</record>
+	<record>
+		<region>ウガンダ</region>
+		<name>ウガンダ シリング</name>
+		<iso4217>UGX</iso4217>
+	</record>
+	<record>
+		<region>仏領ポリネシア</region>
+		<name>CFP フラン</name>
+		<iso4217>XPF</iso4217>
+	</record>
+</records>	
