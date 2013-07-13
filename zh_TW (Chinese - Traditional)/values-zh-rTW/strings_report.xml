@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">    	   
+<resources>
 	<string name="report">報告</string>
-    <string name="reports">報告</string>
+    <string name="reports">@string/report</string>
 	<string name="view_report">檢視報告</string>
 	<string name="view_reports">檢視報告</string>
 	<string name="report_canceled">報告已取消</string>
-	<string name="export_report">導出報告</string>
-	<string name="report_exported">成功導出到記憶卡</string>
+	<string name="export_report">匯出報告</string>
+	<string name="report_exported">成功匯出到記憶卡</string>
 	<string name="share_report">分享報告</string>
 	<string name="report_settings">報告設定</string>
 	<string name="custom_dates">自定義日期</string>
 	<string name="other">其他</string>
-	<string name="report_empty">沒有數據能被顯示</string>
-    <string name="report_settings_instructions_format">點擊螢幕上方的 ^i 以更改報告設定</string> <!-- ^1 will be replaced by an image -->
-	<string name="reset_report_settings">設置將被重置為預設值</string>
+	<string name="report_empty">沒有數據可供顯示</string>
+    <string name="report_settings_instructions_format">點擊螢幕上方的^i以更改報告設定</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">設定將被重置為預設值</string>
 	<string name="settings_reset">還原預設設定</string>
 	<string name="reset_canceled">還原已取消</string>
-    <string name="report_settings_tip">更改報告設定:\n\n<li>長按報告名稱並點擊「報告設定」</li>\n\n<li>當報告顯示後，點擊螢幕右上方的圖示</li></string>
+    <string name="report_settings_tip">更改報告設定:\n\n<li>長按報告名稱並點擊<b>「報告設定」</b></li>\n\n<li>當報告顯示後，點擊螢幕右上方的圖示</li></string>
 	<string name="report_name">報告名稱</string>
 	<string name="all_reports">所有報告</string>
 	<string name="favorite_reports">收藏報告</string>
 	<string name="save_report_as">儲存報告為</string>
 	<string name="delete_report">刪除報告</string>
     <string name="rename_report">重新命名報告</string>
-    <string name="duplicate_report">重複報告</string>
-    <string name="delete_report_warning_format">報告 ^1 將會被永久刪除</string>
+    <string name="duplicate_report">複製報告</string>
+    <string name="delete_report_warning_format">報告^1將會被永久刪除</string>
 	<string name="report_type">報告類型</string>
 	<string name="group">組合</string> <!-- This is a verb -->
 	<string name="do_not_group">不要組合</string>
 	<string name="day_0">今天</string>
 	<string name="day_p1">明天</string>
 	<string name="day_m1">昨天</string>
-	<string name="day_p2"></string>
-	<string name="day_m2"></string>
+	<string name="day_p2"></string> <!-- Intentionally left empty -->
+	<string name="day_m2"></string> <!-- Intentionally left empty -->
 	<string name="select_report">選擇報告</string>
-    <string name="report_folder">報告文件夾</string>
+    <string name="report_folder">報告資料夾</string>
 	<string name="language">語言</string>
 	<string name="text_size">文字大小</string>
-	<string name="text_size_sample">Ab</string>
+	<string name="text_size_sample">的</string>
     
 	<string name="chart_type">圖表類型</string>
 	<string name="text_report">文字報告</string>
@@ -45,7 +45,7 @@
 	<string name="line_chart">折線圖</string>
 	<string name="bar_chart">棒型圖</string>
 
-	<string name="page_format">頁面 ^1</string>
+	<string name="page_format">頁面^1</string>
 
 	<string name="page_size">頁面大小</string>
 	<string-array name="page_size_items">
@@ -59,22 +59,22 @@
 	</string-array>
 
 	<string name="page_orientation">頁面方向</string>
-	<string name="portrait">垂直</string>
-	<string name="landscape">水平</string>
+	<string name="portrait">直印</string>
+	<string name="landscape">橫印</string>
 
 	<string name="amounts_on_charts">在圖表上顯示金額</string>
 	<string name="percentages_on_pie_charts">在餅形統計圖上顯示百分比</string>
-	<string name="create_settings_page">創建設置頁面</string>
+	<string name="create_settings_page">創建設定頁面</string>
 				
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>
         <item>@string/pdf</item>
-        <item>Web page</item>
+        <item>網頁</item>
     </string-array>
 
 	<string-array name="report_export_file_type_description">
-		<item>可讀的電子表格應用程序，如 Microsoft® Excel 或 Google™ Docs</item>
-		<item>適用於打印或創建的文件記錄， 需要 Adobe Reader 或其他 PDF 檢視器</item>
+		<item>可由試算表應用程式讀取，如Microsoft® Excel或Google™文件</item>
+		<item>適用於列印或創建書面文檔。需要Adobe Reader或其他PDF檢視器</item>
 		<item>適用於在網站上發布或在Web瀏覽器中查看</item>
 	</string-array>
 

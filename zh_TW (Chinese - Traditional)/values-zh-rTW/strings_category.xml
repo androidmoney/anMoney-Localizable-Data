@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">    	   
+<resources>	
     <string name="category_main_sub_separator">：</string>
     <string name="category_main_sub_format">^1^2^3</string>
-    <string name="category">類型</string>
-    <string name="categories">類型</string>
-    <string name="subcategory">子類型</string>
+    <string name="category">類別</string>
+    <string name="categories">@string/category</string>
+    <string name="subcategory">子類別</string>
     <string name="classification">分類</string>
     <string name="_class">類別</string>
     <string name="subclass">子類別</string>
@@ -20,12 +20,12 @@
     <string name="new_subclass">新增子類別</string>
     <string name="delete_category">刪除類型</string>
     <string name="delete_subcategory">刪除子類型</string>
-    <string name="delete_class">刪除類別</string>
-    <string name="delete_subclass">刪除子類別</string>
+    <string name="delete_class">刪除分類</string>
+    <string name="delete_subclass">刪除子分類</string>
     <string name="add_default_categories">加入預設類型</string>
     <string name="add_classification">加入分類</string>
     <string name="select_category">選擇類型</string>
-    <string name="select_class">選擇類別</string>
+    <string name="select_class">選擇分類</string>
     <string name="delete_classification">刪除分類</string>
     <string name="rename_classification">重新命名分類</string>
     <string name="select_classification">選擇分類</string>
@@ -35,17 +35,17 @@
     <string name="no_categories_expense">您沒有任何支出類型</string>
     <string name="no_categories_income">您沒有任何收入類型</string>
     <string name="no_classes">您沒有任何類別</string>
-    <string name="create_category_instructions_format">點擊螢幕上方的 ^i 以建立類型</string> <!-- ^1 will be replaced by an image -->
-    <string name="create_class_instructions_format">點擊螢幕上方的 ^i 以建立類別</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_category_instructions_format">點擊螢幕上方的^i以建立類型</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_class_instructions_format">點擊螢幕上方的^i以建立分類</string> <!-- ^1 will be replaced by an image -->
     <string name="uncategorized_transactions">未分類的交易</string>
-    <string name="delete_category_no_subcategories_warning_format">類型 ^1 將會被永久刪除</string>
-    <string name="delete_class_no_subclass_warning_format">類別 ^1 將會被永久刪除</string>
-    <string name="delete_category_with_subcategories_warning_format">類型 ^1 及 <b>所有其子類型</b> 均會被永久刪除</string>
-    <string name="delete_class_with_subclass_warning_format">類別 ^1 及 <b>所有其子類別</b> 均會被永久刪除</string>
-    <string name="delete_subcategory_warning_format">子類型 ^1 將會被永久刪除</string>
-    <string name="delete_subclass_warning_format">子類別 ^1 將會被永久刪除</string>
-    <string name="delete_classification_warning_format">分類 ^1 將會被永久刪除。所有此分類的交易均會被刪除</string>
-    <string name="default_categories_add_confirmation">您是否需要加入預設類型</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="delete_category_no_subcategories_warning_format">類型^1將會被永久刪除</string>
+    <string name="delete_class_no_subclass_warning_format">分類^1將會被永久刪除</string>
+    <string name="delete_category_with_subcategories_warning_format">類型^1及<b>所有其子類型</b>均會被永久刪除</string>
+    <string name="delete_class_with_subclass_warning_format">分類^1及<b>所有其子分類</b>均會被永久刪除</string>
+    <string name="delete_subcategory_warning_format">子類型^1將會被永久刪除</string>
+    <string name="delete_subclass_warning_format">子分類^1將會被永久刪除</string>
+    <string name="delete_classification_warning_format">分類^1將會被永久刪除。所有交易將會刪除其相關分類資訊</string>
+    <string name="default_categories_add_confirmation">您是否想要加入預設類型</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="default_categories_added">預設類型已加入</string>
     <string name="all_categories">所有類型</string>
     <string name="expense">支出</string>
@@ -56,17 +56,17 @@
     <string name="savings">存款</string> <!-- As in "amount saved by budgeting" -->
     <string name="category_name">類型名稱</string>
     <string name="subcategory_name_lower">子類型名稱</string>
-    <string name="class_name">類別名稱</string>
-    <string name="subclass_name_lower">子類別名稱</string>
+    <string name="class_name">分類名稱</string>
+    <string name="subclass_name_lower">子分類名稱</string>
     <string name="without_subcategory">沒有子類型</string>
-    <string name="without_subclass">沒有子類別</string>
-    <string name="cannot_be_zero">不能為 0</string>
-    <string name="change_expense_warning">您是否需要將此類型由支出轉為收入或由收入轉為支出</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="prepopulate">填充預設類型</string>
-    <string name="short_categories">僅載入簡短類型列表(您可以隨時選擇載入詳細列表)</string>
+    <string name="without_subclass">沒有子分類</string>
+    <string name="cannot_be_zero">不能為0</string>
+    <string name="change_expense_warning">您是否要將此類型由支出轉為收入或其他類型</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="prepopulate">以預設類型填入</string>
+    <string name="short_categories">僅載入簡短類型列表（您可以隨時選擇載入詳細列表）</string>
     <string name="view_categories">檢視類型</string>
     <string name="category_not_found">找不到類型</string>
-    <string name="class_not_found">找不到類別</string>
+    <string name="class_not_found">找不到分類</string>
     <string name="total_income">總收入</string>
     <string name="total_expense">總開支</string>
 	<string name="net">淨</string>
@@ -77,26 +77,26 @@
     <string name="show_uncategorized">顯示未分類項目</string>
     <string name="move_subcategory_to_another_category_warning">您是否需要移動此子類型到其他父類型</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="show_zero_balance_categories">顯示所有餘額為零的類型</string>
-    <string name="show_zero_balance_items">顯示所有餘額為零的類別</string> <!-- "Items" refers to classification name -->
-    <string name="recategorize_category">Recategorise all transactions with this category as</string>
-    <string name="recategorize_class">Recategorise all transactions with this class as</string>
-	<string name="spending_by_category0">Spending by category</string>
-	<string name="spending_by_category1">Spending by category or ^1</string>
-	<string name="spending_by_category2">Spending by category, ^1 or ^2</string>
-	<string name="spending_by_category_over_time0">Spending by category over time</string>
-	<string name="spending_by_category_over_time1">Spending by category or ^1 over time</string>
-	<string name="spending_by_category_over_time2">Spending by category, ^1 or ^2 over time</string>
+    <string name="show_zero_balance_items">顯示所有餘額為零的項目</string> <!-- "Items" refers to classification name -->
+    <string name="recategorize_category">將全部具有此類型的交易更改類型為</string>
+    <string name="recategorize_class">將全部具有此分類的交易更改分類為</string>
+	<string name="spending_by_category0">類型別支出</string>
+	<string name="spending_by_category1">類型別支出或^1</string>
+	<string name="spending_by_category2">類型別支出、^1或^2</string>
+	<string name="spending_by_category_over_time0">歷來類型別支出</string>
+	<string name="spending_by_category_over_time1">歷來類型別支出或^1</string>
+	<string name="spending_by_category_over_time2">歷來類型別支出^1或^2</string>
 	
     <string name="no_categories">沒有類型</string>
-	<string name="no_categories_yet">還未有類型</string>
-    <string name="no_classes_yet">還未有類別</string>
+	<string name="no_categories_yet">尚無類型</string>
+    <string name="no_classes_yet">尚無分類</string>
 	<string-array name="category_count_format_plurals">
-        <item>^1 類型</item>
+        <item>^1類型</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="uncategorized_count_plurals">
-        <item>^1 未歸類交易</item>
+        <item>^1多筆未歸類交易</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
@@ -104,7 +104,7 @@
 	<string-array name="default_classifications">
 		<item>家庭成員</item>
 		<item>屬性</item>
-		<item>項目</item>
+		<item>計畫</item>
 		<item>愛好</item>
 		<item>假期</item>
 		<item>工作開支</item>

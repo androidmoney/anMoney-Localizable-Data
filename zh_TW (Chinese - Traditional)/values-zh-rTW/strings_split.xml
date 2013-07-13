@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">    	   
+<resources>
     <string name="splits">分割項目</string> <!-- This is a noun -->
     <string name="split_canceled">分割已取消</string> <!-- "Split" is a verb -->
     <string name="new_split">新增分割項目</string> <!-- "Split" here and below are nouns -->
@@ -11,10 +11,10 @@
 	<string name="unassigned">未分配</string>
 	<string name="transaction_total">交易項目合計總額</string>
     <string name="go_back_to_edit">返回以編輯分割項目</string>
-    <string name="unassigned_split_message_format">不建議執行此動作，因為分割項目總數是 ^1, 而交易項目合計總額為 ^2. 這會使 ^3 為未分配</string>
+    <string name="unassigned_split_message_format">不建議執行此動作，因總金額是^1、而交易項目合計總額為^2。這會使^3為未分配狀態</string>
     <string name="what_would_you_like_to_do">您想做什麼</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_the_total_format">設定合計總額為 ^1</string>
-    <string name="distribute_format">平均地分配 ^1</string>
-    <string name="leave_unassigned_format">使 ^1 為未分配</string>
+    <string name="set_the_total_format">設定合計總額為^1</string>
+    <string name="distribute_format">平均地分配^1</string>
+    <string name="leave_unassigned_format">留下^1為未分配</string>
     <string name="distributed">已分配</string>
 </resources>

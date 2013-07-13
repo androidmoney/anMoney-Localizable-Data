@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">    	   
+<resources>
     <string name="currency">貨幣</string>
-    <string name="currencies">貨幣</string>
+    <string name="currencies">@string/currency</string>
     <string name="edit_currency">編輯貨幣</string>
     <string name="set_as_base_currency">設為基礎貨幣</string>
     <string name="base_currency_set">基礎貨幣集</string>
     <string name="exchange_rate">匯率</string>
-    <string name="exchange_rates">匯率</string>
+    <string name="exchange_rates">@string/exchange_rate</string>
     <string name="country">國家</string>
     <string name="region">地區</string>
     <string name="currency_name">貨幣名稱</string>
@@ -14,13 +14,13 @@
     <string name="symbol_required">需要貨幣符號</string>
     <string name="exchange_rate_required">需要匯率</string>
     <string name="view_currencies">檢視貨幣</string>
-    <string name="tap_to_modify_converted_amounts">點擊修改轉換金額</string>
+    <string name="tap_to_modify_converted_amounts">點擊以修改轉換金額</string>
     <string name="currency_converter">貨幣換算器</string>
     <string name="invert">倒置</string>
     <string name="save_exchange_rate">保存該匯率</string>
     <string name="all_currencies">所有貨幣</string>
     <string name="used_currencies">二手貨幣</string>
-    <string name="and_prior_format">^1 及以前</string> <!-- As in "January 1 and prior" -->
+    <string name="and_prior_format">^1及以前</string> <!-- As in "January 1 and prior" -->
     
 	<string-array name="currency_list_status_filter_title_bar">
 		<item>@string/all_currencies</item>

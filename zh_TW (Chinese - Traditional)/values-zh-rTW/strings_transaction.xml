@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">    	   
+<resources>    
     <string name="transactions">交易</string>
     <string name="view_transactions">檢視交易</string>
     <string name="new_transaction">新增交易</string>
@@ -11,17 +11,17 @@
     <string name="accept">接受</string>
     <string name="accepted">已接受</string>
     <string name="accept_canceled">接受已取消</string>
-    <string name="accept_transaction_all"><b>所有</b> 交易均會被接受</string>
+    <string name="accept_transaction_all"><b>所有</b>交易均會被接受</string>
     <string name="mark">標記</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
     <string name="marked">已標記</string>
     <string name="mark_canceled">標記已取消</string>
     <string name="mark_transaction">標記交易</string>
 	<string-array name="mark_transactions_format_plurals">
-        <item>標記 ^1 交易</item>
+        <item>標記^1交易</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
-    <string name="mark_transactions_all">標記 <b>全部</b> 交易</string>
+    <string name="mark_transactions_all">標記<b>全部</b>交易</string>
     <string name="unreconciled1">未對帳</string>
     <string name="unreconciled2">@string/unreconciled1</string>
     <string name="cleared1">已清除</string>
@@ -31,18 +31,18 @@
     <string name="_void_verb">無效</string>
     <string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" -->
 	<string name="not_void1">非無效</string> <!-- This is an adjective as in "Not void transaction" -->
-    <string name="pending2">處理中</string> <!--- As in it is a new transaction, and I need to review and accept it -->
+    <string name="pending2">待處理</string> <!--- As in it is a new transaction, and I need to review and accept it -->
 	<string name="exported_transaction">已匯出</string>
     <string name="not_exported_transaction1">未匯出</string>
     <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
     <string name="edit_notes">編輯備註</string>
-    <string name="notes_created">備註已被建立</string>
-    <string name="notes_edited">備註已被修改</string>
-    <string name="notes_deleted">備註已被刪除</string>
-    <string name="notes_creation_canceled">創建備註已取消</string>
+    <string name="notes_created">備註已建立</string>
+    <string name="notes_edited">備註已修改</string>
+    <string name="notes_deleted">備註已刪除</string>
+    <string name="notes_creation_canceled">備註建立已取消</string>
     <string name="flag_for_follow_up">後續行動警示</string>
     <string name="edit_follow_up">編輯後續行動</string>
-    <string name="make_recurring">設定為常用</string>
+    <string name="make_recurring">設定為經常性項目</string>
     <string name="follow_up2">後續行動</string>
     <string name="follow_up_by">後續行動由</string>
     <string name="follow_up_created">已建立後續行動</string>
@@ -50,52 +50,52 @@
     <string name="follow_up_deleted">已刪除後續行動</string>
     <string name="follow_up_creation_canceled">已取消建立後續行動</string>
     <string name="go_to">跳至</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
-    <string name="number">卡類型</string>
+    <string name="number">號碼</string>
     <string name="transfer">轉帳</string>
     <string name="transfers">轉帳人</string>
-    <string name="transfer_account">轉帳戶口</string>
-    <string name="add">添加</string>
-    <string name="added">已添加</string>
-    <string name="add_canceled">添加已取消</string>
-    <string name="accept_and_edit">接受 及 編輯</string>
-    <string name="add_and_close">添加 及 關閉</string>
-    <string name="duplicate_in_current_account">重複當前帳戶</string>
-    <string name="duplicate_copy_move">重複，複製 或 移動</string>
+    <string name="transfer_account">轉帳帳號</string>
+    <string name="add">加入</string>
+    <string name="added">已加入</string>
+    <string name="add_canceled">加入已取消</string>
+    <string name="accept_and_edit">接受並編輯</string>
+    <string name="add_and_close">加入並關閉</string>
+    <string name="duplicate_in_current_account">在目前帳戶製作副本</string>
+    <string name="duplicate_copy_move">製作副本，複製或移動</string>
     <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
     <string name="copy_to_another_account">複製到另一個帳戶</string>
     <string name="move_to_another_account">移動到另一個帳戶</string>
     <string name="copy_transaction">複製交易</string>
     <string name="move_transaction">移動交易</string>
-    <string name="do_not_duplicate_notes">不要重複備註</string>
+    <string name="do_not_duplicate_notes">不對備註製作副本</string>
     <string name="account_not_found">找不到帳戶</string>
     <string name="cannot_transfer_to_itself">無法轉移到自身</string>
     <string name="cannot_copy_to_itself">無法複製或移動到自身</string>
     <string name="copy_move_currency_warning">目標帳戶有不同的基礎貨幣，您可能需要調整目標帳戶的交易金額</string>
     <string name="all_transactions_hidden_by_filter">所有交易都被顯示過濾器隱藏</string>
     <string name="show_number">顯示數目</string>
-    <string name="show_number_description">顯示數目</string>
+    <string name="show_number_description">若有的話顯示數目</string>
     <string name="show_notes">顯示備註</string>
-    <string name="show_notes_description">顯示備註</string>
-    <string name="classification_cannot_fit_warning_part1">由於螢幕空間的缺乏，在交易視窗上，在不滾動的情況下你將無法看到所有分類</string>
-    <string name="classification_cannot_fit_warning_part2">你是否想隱藏一些標籤來騰出一些空間</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="classification_cannot_fit_warning_part3">你日後可以隨時更改這些設定</string>
-    <string name="ask_to_edit_related_transaction_message_part1">Since the other side of this transaction is split, you need to edit it there</string>
-    <string name="ask_to_edit_related_transaction_message_part2">你是否想編輯其他交易</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="show_notes_description">若有的話顯示備註</string>
+    <string name="classification_cannot_fit_warning_part1">由於螢幕空間的缺乏，在交易視窗上，在不滾動的情況下您將無法看到所有分類</string>
+    <string name="classification_cannot_fit_warning_part2">您是否想隱藏一些標籤來騰出一些空間</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="classification_cannot_fit_warning_part3">您日後可以隨時更改這些設定</string>
+    <string name="ask_to_edit_related_transaction_message_part1">因為此交易的另一側是分割交易，您需在另一側編輯</string>
+    <string name="ask_to_edit_related_transaction_message_part2">您是否想編輯其他交易</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="transaction_modified_message">交易將被修改</string>
-    <string name="transaction_confirm_save_on_back_press_message_format">交易已被修改。\n\n　點擊 ^1 儲存交易, ^2 返回修改交易, 或 ^3 取消任何修改</string>
-    <string name="split_confirm_save_on_back_press_message_format">The split has been modified.\n\nTap ^1 to save the split, ^2 to go back to editing the split, or ^3 to discard the changes</string>
+    <string name="transaction_confirm_save_on_back_press_message_format">交易已被修改。\n\n點擊^1儲存交易，^2返回修改交易，或^3取消任何修改</string>
+    <string name="split_confirm_save_on_back_press_message_format">此分割交易已被修改。\n\n點擊^1儲存此分割交易，^2返回修改此分割交易，或^3取消任何修改</string>
     <string name="transaction_modified_reconciled_message">對帳交易將被修改</string>
-    <string name="transaction_modified_related_reconciled_message">The other side of this transaction, which is reconciled, will be modified</string>
+    <string name="transaction_modified_related_reconciled_message">此交易的另一側已對帳交易將被修改</string>
     <string name="records_may_differ">這可能會導致你的記錄，不同於金融機構</string>
-    <string name="missing_category_warning_message_format">我們強烈建議指定類別，因為沒有它，花費報告可能不準確。\n\n　點擊 ^1 保存交易及保持類別為空，或者 ^2 返回修改交易</string>
-    <string name="expense_category_given_for_income_message_format">An expense category is specified for ^1.\n\nTap ^2 to leave the category as is, or ^3 to go back to editing the transaction</string> <!-- the ^1 parameter comes from amount1_description array -->
-    <string name="income_category_given_for_expense_message_format">An income category is specified for ^1.\n\nTap ^2 to leave the category as is, or ^3 to go back to editing the transaction</string> <!-- the ^2 parameter comes from amount2_description array -->
-    <string name="payee_not_found_format">收款人 ^1 未能找到</string>
-    <string name="payer_not_found_format">付款人 ^1　未能找到</string>
+    <string name="missing_category_warning_message_format">我們強烈建議指定類別，因為沒有它，花費報告可能不準確。\n\n點擊^1儲存此交易及保持類別為空，或者^2返回修改交易</string>
+    <string name="expense_category_given_for_income_message_format">已為^1指定一個支出類型。\n\n點擊^2保留原有類型，或^3返回修改交易</string> <!-- the ^1 parameter comes from amount1_description array -->
+    <string name="income_category_given_for_expense_message_format">已為^1指定一個收入類型。\n\n點擊^2保留原有類型，或^3返回修改交易</string> <!-- the ^2 parameter comes from amount2_description array -->
+    <string name="payee_not_found_format">收款人^1未找到</string>
+    <string name="payer_not_found_format">付款人^1未找到</string>
     <string name="would_you_like_to_create_it">你是否想創建</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="amount_zero_warning_message_format">交易金額為零。　\n\n點擊 ^1 保持金額為零，或者 ^2 輸入無效的交易</string>
-    <string name="sum_of_splits_warning_message_format">The sum of the splits does not match the transaction amount.\n\nTap ^1 to edit the splits</string>
-    <string name="duplicate_number_message_format">A transaction dated ^1 is already using this cheque number.\n\nTap ^2 to reuse the cheque number, or ^3 to go back to editing the transaction</string>
+    <string name="amount_zero_warning_message_format">交易金額為零。\n\n點擊^1保持金額為零，或者^2輸入作廢的交易</string>
+    <string name="sum_of_splits_warning_message_format">分割交易的總額不符合此筆交易金額。\n\n點擊^1以編輯分割交易</string>
+    <string name="duplicate_number_message_format">一筆標示為^1日期的交易已使用此支票號碼。\n\n點擊^2再次使用此支票號碼，或^3返回修改交易</string>
     <string name="leave_zero">保持為 0</string>
     <string name="credits">餘額</string>
     <string name="no_credits">沒有餘額</string>
@@ -116,68 +116,68 @@
     <string name="next_check_number">下一個支票編號</string>
     <string name="cleared_transactions_color">已刪除交易的顏色</string> <!-- As in "color of cleared transactions" -->
     <string name="reconciled_transactions_color">已對帳交易的顏色</string> <!-- As in "color of teconciled transactions" -->
-	<string name="create_transaction_instructions_format">點擊 ^i 螢幕上方以創建交易</string> <!-- ^i will be replaced by an icon --> 
-    <string name="text_filter">文本過濾器</string>
-    <string name="profit_and_loss_statement">利潤及遺失對帳單</string>
+	<string name="create_transaction_instructions_format">點擊^i螢幕上方以創建交易</string> <!-- ^i will be replaced by an icon --> 
+    <string name="text_filter">文字過濾器</string>
+    <string name="profit_and_loss_statement">損益對帳單</string>
 	<string name="transaction_type">交易類型</string>
 	<string name="transaction_status">交易狀態</string>
 
-    <string name="full_screen_mode">全屏模式</string>
-    <string name="full_screen_mode_description">交易被選中後，會有更多交易顯示出來</string>
+    <string name="full_screen_mode">全螢幕模式</string>
+    <string name="full_screen_mode_description">如勾選，會有更多交易顯示出來</string>
 
 	<string-array name="amount1_labels">
         <item>付款</item>
         <item>支出</item>
         <item>收費</item>
         <item>付款</item>
-        <item>Increase</item>
-        <item>Decrease</item>
+        <item>增加</item>
+        <item>減少</item>
         <item>提款</item>
     </string-array>
 	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
-        <item>the 付款</item>
-        <item>the spending</item>
-        <item>the charge</item>
-        <item>the 付款</item>
-        <item>the increase</item>
-        <item>the decrease</item>
-        <item>the 提款</item>
+        <item>付款額</item>
+        <item>支出額</item>
+        <item>收費額</item>
+        <item>付款額</item>
+        <item>增加額</item>
+        <item>減少額</item>
+        <item>提款額</item>
     </string-array>
 	<string-array name="amount2_labels">
         <item>存款</item>
         <item>接收</item>
-        <item>Credit</item>
-        <item>Principal receipt</item>
-        <item>Decrease</item>
-        <item>Increase</item>
+        <item>額度</item>
+        <item>主要收據</item>
+        <item>減少</item>
+        <item>增加</item>
         <item>存款</item>
     </string-array>
 	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
-        <item>the 存款</item>
-        <item>the receipt</item>
-        <item>the credit</item>
-        <item>the principal receipt</item>
-        <item>the decrease</item>
-        <item>the increase</item>
-        <item>the 存款</item>
+        <item>存款額</item>
+        <item>收據額</item>
+        <item>信用額度</item>
+        <item>主要收據</item>
+        <item>減少量</item>
+        <item>增加量</item>
+        <item>存款額</item>
     </string-array>
 
 	<string name="delete_transaction_warning">交易將會被刪除</string>
 	<string-array name="delete_transaction_warning_format_plurals">
-        <item>^1 選定的交易將會被刪除</item>
+        <item>選定的^1交易將會被刪除</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     <string name="delete_transaction_warning_all"><b>全部</b> 的交易將會被刪除</string>
 	<string name="delete_transaction_warning_reconciled">對帳交易將會被刪除</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
-        <item>^1 選定的交易數據都將被刪除，其中至少有一個對帳</item>
+        <item>選定的^1交易數據都將被刪除，且其中至少有一筆已對帳</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string name="accept_transaction_confirm_singular">交易將會被接受</string>
     <string-array name="accept_transaction_confirm_format_plurals">
-        <item>^1 選定的交易將會被接受</item>
+        <item>選定的^1交易將會被接受</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>

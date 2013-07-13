@@ -287,8 +287,8 @@
 	    <item>@string/utf_8</item>
 	    <item>GBK（中国国家標準）</item>
 	    <item>キリル文字（Windows）</item>
-	    <item>西ヨーロッパ (Windows)</item>
-	    <item>中央ヨーロッパ (Windows)</item>
+	    <item>西ヨーロッパ （Windows）</item>
+	    <item>中央ヨーロッパ （Windows）</item>
 	    <item>UTF-16BE（Unicode）</item>
 	    <item>UTF-16LE（Unicode）</item>
 	</string-array>

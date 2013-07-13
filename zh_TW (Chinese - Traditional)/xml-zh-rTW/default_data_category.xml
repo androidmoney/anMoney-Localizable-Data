@@ -41,87 +41,87 @@
 		<defaultForServiceCharge>1</defaultForServiceCharge>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
-		<subcategory>收費電視</subcategory>
+		<mainCategory>帳單</mainCategory>
+		<subcategory>有線／衛星電視</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>手機</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>電費</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>垃圾／資源回收</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>健身中心</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>房租</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>會員費</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
-		<subcategory>按揭</subcategory>
+		<mainCategory>帳單</mainCategory>
+		<subcategory>抵押費用</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>天然氣／石油</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>報紙</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
-		<subcategory>互聯網服務</subcategory>
+		<mainCategory>帳單</mainCategory>
+		<subcategory>網際網路服務</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>其他貸款</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>租金</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
+		<mainCategory>帳單</mainCategory>
 		<subcategory>學生貸款</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
-		<subcategory>家居電話</subcategory>
+		<mainCategory>帳單</mainCategory>
+		<subcategory>市內電話</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>賬單</mainCategory>
-		<subcategory>水／污水</subcategory>
+		<mainCategory>帳單</mainCategory>
+		<subcategory>水費／污水費</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -135,7 +135,7 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>領養兒童</mainCategory>
+		<mainCategory>育兒</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -159,7 +159,7 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>信用卡付款／轉賬</mainCategory>
+		<mainCategory>信用卡付款／轉帳</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -219,12 +219,12 @@
 	</record>
 	<record>
 		<mainCategory>醫療保健</mainCategory>
-		<subcategory>牙齒</subcategory>
+		<subcategory>牙齒照護</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>醫療保健</mainCategory>
-		<subcategory>眼睛</subcategory>
+		<subcategory>眼睛照護</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -239,7 +239,7 @@
 	</record>
 	<record>
 		<mainCategory>醫療保健</mainCategory>
-		<subcategory>藥方</subcategory>
+		<subcategory>處方</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -264,7 +264,7 @@
 	</record>
 	<record>
 		<mainCategory>嗜好／休閒</mainCategory>
-		<subcategory>電影／視頻租賃</subcategory>
+		<subcategory>電影／影片租賃</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -279,7 +279,7 @@
 	</record>
 	<record>
 		<mainCategory>嗜好／休閒</mainCategory>
-		<subcategory>錄音帶／CDs</subcategory>
+		<subcategory>錄音帶／CD</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -293,17 +293,17 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>家庭</mainCategory>
+		<mainCategory>家居</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>家庭</mainCategory>
+		<mainCategory>家居</mainCategory>
 		<subcategory>家具</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>家庭</mainCategory>
+		<mainCategory>家居</mainCategory>
 		<subcategory>家居清潔</subcategory>
 		<expense>1</expense>
 	</record>
@@ -343,12 +343,12 @@
 	</record>
 	<record>
 		<mainCategory>工作支出</mainCategory>
-		<subcategory>Non-Reimbursed</subcategory>
+		<subcategory>非代墊款項</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>工作支出</mainCategory>
-		<subcategory>Reimbursed</subcategory>
+		<subcategory>代墊款項</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -378,37 +378,37 @@
 		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
 	</record>
 	<record>
-		<mainCategory>按揭／租金</mainCategory>
+		<mainCategory>抵押／租金</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>個人護理</mainCategory>
+		<mainCategory>個人照護</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>寵物護理</mainCategory>
+		<mainCategory>寵物照護</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>寵物護理</mainCategory>
+		<mainCategory>寵物照護</mainCategory>
 		<subcategory>食物</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>寵物護理</mainCategory>
+		<mainCategory>寵物照護</mainCategory>
 		<subcategory>用品</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>寵物護理</mainCategory>
+		<mainCategory>寵物照護</mainCategory>
 		<subcategory>獸醫</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>家居電話／手機</mainCategory>
+		<mainCategory>市內電話／手機</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -449,25 +449,25 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>免稅利息</mainCategory>
+		<mainCategory>投資收益</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>免稅利息</mainCategory>
-		<subcategory>Capital Gains</subcategory>
+		<mainCategory>投資收益</mainCategory>
+		<subcategory>資本利得</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>免稅利息</mainCategory>
-		<subcategory>Dividends</subcategory>
+		<mainCategory>投資收益</mainCategory>
+		<subcategory>股息</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>免稅利息</mainCategory>
-		<subcategory>Interest</subcategory>
+		<mainCategory>投資收益</mainCategory>
+		<subcategory>利息</subcategory>
 		<expense>0</expense>
 		<defaultForInterestEarned>1</defaultForInterestEarned>
 		<short>1</short>
@@ -535,13 +535,13 @@
 	</record>
 	<record>
 		<mainCategory>工資／薪金</mainCategory>
-		<subcategory>工資總額</subcategory>
+		<subcategory>薪資總額</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>工資／薪金</mainCategory>
-		<subcategory>淨薪金</subcategory>
+		<subcategory>薪資淨額</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>

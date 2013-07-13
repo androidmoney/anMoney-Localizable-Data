@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="financial_institution">金融機構</string>
-    <string name="financial_institutions">金融機構</string>
-    <string name="financial_institution_bank_first">金融機構分組及銀行帳戶優先</string>
-    <string name="financial_institution_cash_first">金融機構分組及現金優先</string>
+    <string name="financial_institutions">@string/financial_institution</string>
+    <string name="financial_institution_bank_first">金融機構分組-銀行帳戶優先</string>
+    <string name="financial_institution_cash_first">金融機構分組-現金優先</string>
     <string name="view_financial_institution">檢視金融機構</string>
     <string name="edit_financial_institution">編輯金融機構</string>
     <string name="call_financial_institution">致電給金融機構</string>
     <string name="new_financial_institution">新增金融機構</string>
     <string name="delete_financial_institution">刪除金融機構</string>
-    <string name="delete_financial_institution_warning_format">金融機構 ^1 將從所有帳戶中永久刪除</string>
+    <string name="delete_financial_institution_warning_format">金融機構^1將從所有帳戶中永久刪除</string>
     <string name="add_financial_institution_as_a_contact">添加金融機構為聯絡人</string>
-    <string name="financial_institution_exists">此金融機構已存在</string>
-    <string name="no_financial_institutions">你沒有任何金融機構</string>
-    <string name="create_financial_institution_instructions_format">點擊螢幕上方以建立金融機構</string> <!-- ^1 will be replaced by an image -->
+    <string name="financial_institution_exists">此金融機構名稱已存在</string>
+    <string name="no_financial_institutions">您沒有任何金融機構</string>
+    <string name="create_financial_institution_instructions_format">點擊螢幕上方^i以建立金融機構</string> <!-- ^1 will be replaced by an image -->
     <string name="view_financial_institutions">檢視金融機構</string>
     <string name="financial_institution_name">金融機構名稱</string>
     <string name="contact_exists">此聯絡人名稱已被使用</string>
-    <string name="link_financial_institution">你是否要鏈接該金融機構到現有的聯繫人</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="link_financial_institution">您是否要鏈接該金融機構到現有的聯繫人</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="no_financial_institutions_yet">還沒有任何金融機構</string>
 </resources>

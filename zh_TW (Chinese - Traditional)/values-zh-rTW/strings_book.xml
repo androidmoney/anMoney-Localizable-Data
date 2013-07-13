@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">    	   
+<resources>  
     <string name="book">記帳本</string>
     <string name="new_book">新增記帳本</string>
     <string name="new_book_name">新記帳本名稱</string>
     <string name="rename_book">重新命名記帳本</string>
     <string name="delete_book">刪除記帳本</string>
     <string name="share_book">分享記帳本</string>
-    <string name="book_delete_warning_short_format">記帳本 ^1 將會被刪除</string>
-    <string name="all_data_will_be_lost">如果沒有備份，在這本記帳本中的所有數據將會永久丟失</string>
+    <string name="book_delete_warning_short_format">記帳本^1將會被刪除</string>
+    <string name="all_data_will_be_lost">如果沒有備份，此記帳本中的所有數據將會永久消失</string>
     <string name="import_into_book">匯入到記帳本</string>
-    <string name="export_from_book">從記帳本中匯出</string>
-    <string name="import_into_book_format">匯入到記帳本 ^1</string>
-    <string name="no_books">你沒有任何記帳本</string>
+    <string name="export_from_book">由記帳本匯出</string>
+    <string name="import_into_book_format">匯入到記帳本^1</string>
+    <string name="no_books">您沒有任何記帳本</string>
     <string name="upgrading_book">升級記帳本</string>
     <string name="upgrading_books">升級多個記帳本</string>
     <string name="backup">備份</string>
     <string name="backup_canceled">取消備份</string>
     <string name="backup_book">備份記帳本</string>
-    <string name="overwrite">覆蓋</string>
+    <string name="overwrite">覆寫</string>
     <string name="backup_name">備份名稱</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
     <string name="restore">還原</string>
     <string name="restored">已還原</string>
     <string name="restore_canceled">取消還原</string>
     <string name="restore_book">還原記帳本</string>
-    <string name="restore_warning_format">記帳本將會被覆蓋，請注意「所有」數據將會無法還原</string>
+    <string name="restore_warning_format">記帳本^1將會被覆蓋，請注意<b>所有</b>數據將會刪除且無法還原</string>
     <string name="select_backup_file_to_restore">選擇備份檔案以還原</string>
     <string name="select_backup_file_to_create_from">選擇備份檔案以創建由……</string>
     <string name="import_statement">匯入對帳單</string>
-    <string name="no_sd_card_inserted">沒有偵測到外置記憶卡</string>
+    <string name="no_sd_card_inserted">沒有偵測到外置SD記憶卡</string>
     <string name="select_files">選擇檔案</string>
     <string name="delete_file">刪除檔案</string>
-    <string name="delete_file_warning_format">檔案 ^1 將會被刪除</string>
+    <string name="delete_file_warning_format">檔案^1將會被刪除</string>
 	<string-array name="delete_files_warning_format_plurals">
-        <item>^1 已選擇的檔案將會被刪除</item>
+        <item>^1已選擇的檔案將會被刪除</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
@@ -44,25 +44,25 @@
     <string name="map_accounts">計劃帳戶</string>
     <string name="configure_account_mappings">配置帳戶計劃</string>
     <string name="account_required">需要帳戶</string>
-    <string name="duplicate_name">重複名稱</string>
+    <string name="duplicate_name">複製名稱</string>
     <string name="options">選項</string>
     <string name="select_options">選擇匯入選項</string>
-    <string name="remove_duplicates">刪除重複</string>
-    <string name="remove_duplicates_notes">雖然這在絕大多數情況下應能正常工作, 但也可能會出現問題，特別是如果該帳戶具有不同的貨幣金額。在這些情況下，匹配是不可能的。導入後，請檢查結餘是正確的</string>
-    <string name="import_classes">Import classes</string>
-    <string name="ignore_memos">忽略備忘錄</string>
-    <string name="create_payees_in_app_name_format">在 ^1 創建收款人</string>
+    <string name="remove_duplicates">刪除重複項目</string>
+    <string name="remove_duplicates_notes">雖然這在絕大多數情況下應能正常工作，但也可能會出現問題，特別是如果該帳戶具有不同的貨幣金額。在這些情況下，匹配是不可能的。在匯入之後，請檢查結餘金額是正確的</string>
+    <string name="import_classes">匯入類別</string>
+    <string name="ignore_memos">忽略備註欄位</string>
+    <string name="create_payees_in_app_name_format">在^1創建收款人</string>
     <string name="contact_account">聯繫帳戶創建受款人</string>
     <string name="select_import_mode">選擇匯入模式</string>
     <string name="select_accounts_to_export">選擇帳戶以匯出</string>
     <string name="specify_export_file_format">指定匯出文件格式</string>
     <string name="mark_transactions_exported">標記交易為已匯出</string>
-    <string name="create_single_file">創建一個單獨的檔案</string>
-    <string name="no_transactions_matched_your_selection_criteria">無交易符合您的選擇標準。\n\n 沒有匯出任何檔案</string>
+    <string name="create_single_file">建立一個單獨的檔案</string>
+    <string name="no_transactions_matched_your_selection_criteria">無交易符合您的選擇標準。\n\n沒有匯出任何檔案</string>
 	<string name="import_folder">匯入文件夾</string>
 	<string name="export_folder">匯出文件夾</string>
-    <string name="ask_to_view_imported_transaction">你是否想查看匯入的交易</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="tip">Tip</string>
+    <string name="ask_to_view_imported_transaction">您是否想查看匯入的交易</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="tip">小提示</string>
     <string name="user_guide">用戶指南</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
     <string name="whats_new">最新資訊</string>
@@ -71,7 +71,7 @@
     <string name="accept_license">Accept license</string>
     <string name="decline">Decline</string>
  -->    
-    <string name="thank_you">感謝!</string>
+    <string name="thank_you">感謝您!</string>
     <string name="password">密碼</string>
     <string name="old_password">舊密碼</string>
     <string name="new_password">新密碼</string>
@@ -83,38 +83,38 @@
     <string name="edit_password">修改密碼</string>
     <string name="remove_password">移除密碼</string>
     <string name="password_removed">密碼已被移除</string>
-    <string name="remove_password_message">密碼將會被移除。\n\n 您的資料將會曝露，任何可能存取您設備的第三者均能輕易閱讀</string>
+    <string name="remove_password_message">密碼將會被移除。\n\n您的資料將會曝露，任何可能存取您設備的第三者均能輕易閱讀</string>
     <string name="password_has_not_been_changed">密碼並未改變</string>
-    <string name="passwords_dont_match">密碼不匹配</string>
+    <string name="passwords_dont_match">密碼不符</string>
     <string name="case_sensitive">大小寫區分</string>
     <string name="disclaimer">免責聲明</string>
-    <string name="password_disclaimer">請仔細閱讀本免責聲明並在最後勾選。\n\n請注意密碼保護功能是用作防止「偷窺者」侵犯使用者私隱。由於平台的局限性，實際的數據加密是不可行的。\n\n強烈建議您以鎖屏或PIN碼的加密方式保護您的設備。</string>
+    <string name="password_disclaimer">請仔細閱讀本免責聲明並在最後勾選方塊。\n\n請注意密碼保護功能是用作防止「偷窺者」侵犯使用者隱私。由於平台的侷限性，實際的數據加密是不可行的。即使目前已設置密碼，擁有進階技巧的人仍可能讀取您的資料。\n\n強烈建議您以鎖屏或PIN碼的加密方式保護您的設備。</string>
     <string name="i_understand_the_limitations">我明白這些限制</string>
     <string name="set_password_now_part1">是否現在設置密碼</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_password_now_part2_format">就算您選擇 ^1，您可以隨時長按記帳本名稱及點擊 ^2 以設定密碼</string>
-    <string name="folder_name_format">文件夾名稱 (use ^1 for subfolders)</string>
+    <string name="set_password_now_part2_format">就算您選擇^1，您可以隨時長按記帳本名稱及點擊^2以設定密碼</string>
+    <string name="folder_name_format">文件夾名稱 （使用^1建立子文件夾）</string>
     <string name="no_backup_files">未找到備份檔案</string>
-    <string name="no_backup_files_new_instructions">如果您嘗試使用匯入檔案創建一本記帳本，請從新開始創建一個新的記帳本，然後再匯入</string>
+    <string name="no_backup_files_new_instructions">如果您嘗試使用匯入檔案創建一本記帳本，請重新建立一個新的記帳本，然後再匯入</string>
     <string name="remove_transactions">刪除在此日期前的交易</string>
     <string name="book_to_make_copy_of">建立記帳本副本</string>
-    <string name="truncate_warning_format">所有在 ^1 之前的交易都會被銷毀並且不能復原</string>
+    <string name="truncate_warning_format">所有在^1之前的交易都會被銷毀並且不能復原</string>
     <string name="information_and_help">資訊及幫助</string>
     <string name="discussion_forum">討論區</string>
-    <string name="join_the_user_community_format">加入 ^1 用戶社區</string>
+    <string name="join_the_user_community_format">加入^1使用者社群</string>
     <string name="contact_us">聯絡我們</string>
     <string name="email_the_developers">直接電郵給開發者</string>
-    <string name="tap_to_display_import_settings_format">點擊 ^1 將顯示匯入設置</string>
-    <string name="verify_import_settings">請確認您選擇的預設設定以確保你匯入正確的檔案，如果一切看起來不錯，點擊<b>返回</b>以繼續匯入</string>
-    <string name="change_settings_instructions_format">This message will not appear for subsequent imports, 但您可以隨時在螢幕上方點擊 ^i 以改變設定</string> <!-- ^i will be replaced by an image -->
-    <string name="bad_import_settings">你所嘗試導入的檔案設定不正確</string>
-    <string name="qif_csv_encoding_explanation_format">一般以下語言應該使用 ^1 ，但部分金融機構可能需要使用 ^2。\n\n如果你所選擇的語言不在以下名單中，請選擇 ^2 </string>
-    <string name="credits_legal">版權擁有</string>
-    <string name="contact_and_social">聯絡</string>
-    <string name="follow_us">訂閱我們</string>
-    <string name="add_us_to_circle">新增我們到圈子中及 +1 我們</string>
+    <string name="tap_to_display_import_settings_format">點擊^1將顯示匯入設置</string>
+    <string name="verify_import_settings">請檢查您選擇的預設設定值符合您正要匯入的檔案。如果一切看來都對，點擊<b>返回</b>箭號以繼續匯入</string>
+    <string name="change_settings_instructions_format">此訊息在今後匯入時將不再出現，但您可以隨時在螢幕上方點擊^i以改變設定</string> <!-- ^i will be replaced by an image -->
+    <string name="bad_import_settings">下列的設定看來對您正嘗試匯入的檔案而言並不正確</string>
+    <string name="qif_csv_encoding_explanation_format">一般而言在下列的語言清單中應該使用^1，但部分金融機構的資料檔案可能需要使用^2才能夠正確匯入。\n\n對其他不在清單中的語言，請選擇^2</string>
+    <string name="credits_legal">版權及法律資訊</string>
+    <string name="contact_and_social">聯繫及社群</string>
+    <string name="follow_us">關注我們</string>
+    <string name="add_us_to_circle">新增我們到您的交友圈及+1我們</string>
     <string name="become_a_fan">成為粉絲</string>
     <string name="haptic_feedback">觸覺反饋</string>
-    <string name="haptic_feedback_description">選定選項時，手機會震動</string>
+    <string name="haptic_feedback_description">選定選項時，點選按鍵會震動</string>
 	<string name="default_book_name">我的記帳本</string>
 	<string name="color_theme">顏色主題</string>
 	<string name="dark">深色</string>  <!-- As in "dark color theme" -->
@@ -122,8 +122,8 @@
 	<string name="preview">預覽</string>
 	
 	<string-array name="book_new_source">
-	    <item>從新開始創建</item>
-	    <item>從備份創建</item>
+	    <item>重新開始建立</item>
+	    <item>從備份建立</item>
 	    <item>從現有記帳本複製</item>
     </string-array>
 
@@ -135,25 +135,25 @@
 	
 	<string-array name="import_mode">
         <item>從銀行下載的對帳單</item>
-        <item>從其他軟件匯出的數據</item>
+        <item>從其他軟體匯出的數據</item>
     </string-array>
 
 	<string-array name="import_mode_description">
-        <item>從金融機構下載的對帳單，支援 <b>QIF</b> 及 <b>OFX/QFX/OFS</b> 格式。匯入的檔案不得包含賬戶之間的轉帳</item>
-        <item>從其他個人理財軟件中匯出的數據，例如 Microsoft® Money 式 Quicken®。只支援 <b>QIF</b> 格式</item>
+        <item>用以讀入從金融機構下載的對帳單據，如美國運通的月結單。<b>QIF</b>及<b>OFX/QFX/OFS</b>格式均支援。匯入的檔案不得包含帳戶之間的轉帳</item>
+        <item>用以讀入從其他個人理財軟體匯出的數據，如 Microsoft® Money或Quicken®。僅支援<b>QIF</b>格式</item>
     </string-array>
 
 	<string-array name="book_export_file_type_description">
-        <item>根據您使用的分類和種類，可能只有Microsoft® Money能讀取</item>
-        <item>所有支持<b>QIF</b>格式的應用程式都能讀取</item>
-        <item>支持電子表格應用程式，例如Microsoft® Excel 或 Google™ Docs。 The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
+        <item>根據您所使用的分類和類別，可能只有Microsoft® Money能讀取</item>
+        <item>所有支持QIF格式的應用程式都能讀取</item>
+        <item>支援試算表應用程式，例如Microsoft® Excel或Google™文件。第一行匯出的內容包含了表頭，接下來一行代表一筆交易。每筆分割金額都是獨立一行</item>
     </string-array>
 
-    <string name="import_file_confirm_format">你是否想匯入 ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="import_file_confirm_format">您是否想匯入^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-        <item>你是否想匯入 ^1 檔案</item> <!-- This is a question, but the question mark will be added progrmatically -->
-	    <item/> <!-- Not used -->
+        <item>您是否想匯入^1檔案</item> <!-- This is a question, but the question mark will be added progrmatically -->
         <item/> <!-- Not used -->
+	    <item/> <!-- Not used -->
     </string-array>
 
     <string name="general">一般</string>
@@ -162,7 +162,7 @@
     
     <string name="show_currency_symbol">顯示貨幣符號</string>
 	<string-array name="show_currency_symbol_items">
-		<item>跟據相關貨幣</item>
+		<item>根據此貨幣</item>
 		<item>金額之前</item>
 		<item>金額之後</item>
 	</string-array>
@@ -172,29 +172,29 @@
     
     <string name="password_time_out_period">密碼有效週期</string>
 	<string-array name="n_seconds_format_plurals">
-        <item>^1 秒</item>
+        <item>^1秒</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
-        <item>^1 分鐘</item>
+        <item>^1分鐘</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     
-    <string name="set_button_behavior_format">^1 按鈕行為</string>
+    <string name="set_button_behavior_format">^1按鈕行為</string>
 	<string-array name="set_button_behavior_items">
 		<item>設置當前顯示的號碼</item>
-		<item>完成計算並設定為結果</item>
+		<item>完成計算並設定其結果</item>
 	</string-array>
 
     <string name="confirmations_and_warnings">確認及警告</string>
 
-    <string name="warn_if_no_category">沒有種類時顯示警告</string>
-    <string name="warn_if_no_category_description">在沒有指定種類時顯示警告訊息</string>
+    <string name="warn_if_no_category">若無類別則顯示警告</string>
+    <string name="warn_if_no_category_description">如勾選，在沒有指定類別時會顯示警告訊息</string>
     
-    <string name="warn_if_incorrect_category_type">錯誤種類時顯示警告</string>
-    <string name="warn_if_incorrect_category_type_description">在指定了錯誤種類時顯示警告訊息</string>
+    <string name="warn_if_incorrect_category_type">若錯誤類別時則顯示警告</string>
+    <string name="warn_if_incorrect_category_type_description">如勾選，在指定錯誤類別時會顯示警告訊息</string>
     
     <string name="modification_confirmation">修改確認</string>
 	<string-array name="modification_confirmation_items">
@@ -204,102 +204,102 @@
 	</string-array>
 	
     <string name="back_press_prompt">返回鍵提示</string>
-    <string name="back_press_prompt_description">當您點擊返回按鍵時，會問您是否儲存工作</string>
+    <string name="back_press_prompt_description">若勾選，當您點擊返回鍵時，會問您是否儲存工作</string>
     
     <string name="new_payee_confirmation">新增收款人確認</string>
-    <string name="new_payee_confirmation_description">當您新增收款人時，會彈出確認視窗</string>
+    <string name="new_payee_confirmation_description">若勾選，當您新增收款人時，會彈出確認視窗</string>
     
     <string name="duplicate_check_number">重複支票號碼</string>
-    <string name="duplicate_check_number_description">當支票號碼已被使用時，會彈出警告</string>
+    <string name="duplicate_check_number_description">若勾選，當支票號碼已被使用時，會彈出警告</string>
     
-    <string name="field_with_initial_focus">Field with initial focus</string>
+    <string name="field_with_initial_focus">含初始焦點的欄位</string>
     
     <string name="show_keyboard_automatically">自動顯示鍵盤</string>
-	<string name="show_keyboard_automatically_description">當您新增一個交易項目時，會自動彈出鍵盤</string>
+	<string name="show_keyboard_automatically_description">若勾選，當新增一個交易項目時，會自動彈出鍵盤</string>
 	    
     <string name="notes_in_transaction_window">顯示備註</string>
-    <string name="notes_in_transaction_window_description">在交易項目視窗中，顯示可編輯的單行備註</string>
+    <string name="notes_in_transaction_window_description">若勾選，可在交易項目視窗中編輯單行備註</string>
     
-    <string name="new_category_in_transaction_window">建立新種類</string>
-    <string name="new_category_in_transaction_window_description">在交易項目視窗中可以建立新種類</string>
+    <string name="new_category_in_transaction_window">在交易視窗中建立新類別</string>
+    <string name="new_category_in_transaction_window_description">若勾選，可在交易項目視窗中建立新類別</string>
     
     <string name="hide_labels">隱藏標籤</string>
-    <string name="hide_labels_description">在交易項目視窗中，可以隱藏標籤以節省空間</string>
+    <string name="hide_labels_description">若勾選，可隱藏交易項目視窗的標籤以節省空間</string>
     
     <string name="security">安全性</string>
     
     <string name="quick_entry_password">「快速輸入」密碼</string>
-    <string name="quick_entry_password_description">在widget中的「快速輸入」需要輸入密碼</string>
+    <string name="quick_entry_password_description">若勾選，「快速輸入」widget中將要求輸入密碼（若有設置的話）</string>
     
     <string name="backup_folder">備份文件夾</string>
     
     <string name="date_in_file_name">添加日期作為檔案名稱</string>
-    <string name="date_in_file_name_description">在檔案名稱中添加今天日期</string>
+    <string name="date_in_file_name_description">若勾選，送出時檔案名稱會添加今天日期</string>
     
     <string name="automatic_backup">自動備份</string>
-    <string name="automatic_backup_description">系統會自動備份記帳本</string>
+    <string name="automatic_backup_description">若勾選，此記帳本將會自動備份</string>
     
     <string name="backup_how_often">多久備份一次</string> <!-- This is a question, but the question mark will be added progrmatically -->
     
-    <string name="auto_backup_notify_description">每次當備份完成，系統會彈出通知視窗</string>
+    <string name="auto_backup_notify_description">若勾選，當備份完成，系統會彈出通知視窗</string>
     
-	<string name="backed_up_book_format">已備份 ^1</string>
+	<string name="backed_up_book_format">已備份^1</string>
     <string-array name="backed_up_books_format_plurals">
-        <item>已備份 ^1 記帳本</item>
+        <item>已備份^1記帳本</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>已匯出 ^1 個交易項目</item>
+        <item>已匯出^1個交易項目</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
 
 	<string name="failed_to_back_up_book">備份記帳本失敗</string>
-	<string name="no_space_left_on_sd_card">在記憶卡上已沒有剩餘空間</string>
-	<string name="cannot_restore_newer_version">回復備份失敗，因為回復檔案是在新版本的 ^1 建立。\n\n請安裝最新版本的 ^1 再試</string>
+	<string name="no_space_left_on_sd_card">在SD記憶卡上已無剩餘空間</string>
+	<string name="cannot_restore_newer_version">回復備份失敗，因為回復檔案是在新版本的^1建立。\n\n請安裝最新版本的^2再嘗試</string>
 		
 	<string name="file">檔案</string>	
 	<string name="folder">文件夾</string>	
-	<string name="external_storage">外部存儲</string>	
+	<string name="external_storage">外部儲存空間</string>	
 	<string name="path">路徑</string>	
 
-    <string name="qif_csv_date_order">QIF/CSV 日期順序</string>
+    <string name="qif_csv_date_order">QIF／CSV日期順序</string>
 
 	<string name="comma">逗號</string>	
-    <string name="qif_csv_decimal_mark">QIF/CSV 小數符號</string>
+    <string name="qif_csv_decimal_mark">QIF／CSV小數符號</string>
 	<string-array name="qif_csv_decimal_marks">
         <item>小數點</item>
         <item>@string/comma</item>
     </string-array>
 
-    <string name="csv_delimiter">CSV 分隔符號</string>
+    <string name="csv_delimiter">CSV分隔符號</string>
 	<string-array name="csv_delimiters">
         <item>@string/comma</item>
         <item>分號</item>
     </string-array>
 
-	<string name="qif_csv_encoding">QIF/CSV 編碼</string>
-    <string name="ofx_qfx_encoding">OFX/QFX/OFS 編碼</string>
-	<string-array name="encodings">
+	<string name="qif_csv_encoding">QIF／CSV編碼</string>
+    <string name="ofx_qfx_encoding">OFX／QFX／OFS編碼</string>
+<!-- New --> <string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
-        <item>GBK (Chinese national standard)</item>
-        <item>Cyrillic (Windows)</item>
-        <item>Western European (Windows)</item>
-        <item>Central European (Windows)</item>
-        <item>UTF-16BE (Unicode)</item>
-        <item>UTF-16LE (Unicode)</item>
+        <item>GBK （Chinese national standard）</item>
+        <item>Cyrillic （Windows）</item>
+        <item>Western European （Windows）</item>
+        <item>Central European （Windows）</item>
+        <item>UTF-16BE （Unicode）</item>
+        <item>UTF-16LE （Unicode）</item>
 	</string-array>
 
-    <string name="maintain_entries">維護帳目</string>
-    <string name="maintain_number_field_entries">維護輸入帳目的數量</string>
-    <string name="maintain_number_field_entries_description">允許您刪除長期沒有使用的交易帳目</string>
+    <string name="maintain_entries">維護條目</string>
+    <string name="maintain_number_field_entries">維護數值欄位條目</string>
+    <string name="maintain_number_field_entries_description">允許您刪除不再使用的數值欄位條目</string>
 
-    <string name="delete_entry_warning_format">帳目 ^1 將會被刪除</string>
+    <string name="delete_entry_warning_format">條目^1將會被刪除</string>
     <string-array name="delete_entries_warning_format_plurals">
-        <item>^1 帳目將會被刪除</item>
+        <item>^1條目將會被刪除</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>

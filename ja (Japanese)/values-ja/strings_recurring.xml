@@ -149,7 +149,7 @@
 	    <item/>
 	    <item/>
 	</string-array>
-	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
+	<string name="every_n_period_format">^1^2^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">日付が週末にあたる場合</string>
 	<string name="skip_weekends">週末をスキップする</string>
 	

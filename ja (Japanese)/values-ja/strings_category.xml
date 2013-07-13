@@ -63,7 +63,7 @@
     <string name="cannot_be_zero">0にすることはできません</string>
     <string name="change_expense_warning">支出から収入にまたはその逆にこのカテゴリーを変更しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="prepopulate">既定のカテゴリーに移入しますか</string>
-    <string name="short_categories">短いカテゴリー・リストのみを読み込む　(完全なリストをロードするオプションは後ほど表示されます)</string>
+    <string name="short_categories">短いカテゴリー・リストのみを読み込む（完全なリストをロードするオプションは後ほど表示されます）</string>
     <string name="view_categories">カテゴリーを表示</string>
     <string name="category_not_found">カテゴリーが見つかりません</string>
     <string name="class_not_found">クラスが見つかりません</string>
