@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="FilePicker_open_folder">கோப்புறையை திற</string>
+	<string name="FilePicker_select_file">கோப்பை தெரிவு செய்</string>
+	<string name="FilePicker_deselect_file">கோப்புத் தெரிவை நீக்கு</string>
+	<string name="FilePicker_delete_file">கோப்பை அழி</string>
+	<string name="FilePicker_go_to_parent_folder">முதன்மை கோப்புறைக்குச் செல்</string>
+</resources>
