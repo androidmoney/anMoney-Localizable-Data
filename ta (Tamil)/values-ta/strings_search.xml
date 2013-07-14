@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="search">தேடு</string>
+    <string name="search_transactions">பரிவர்த்தனைகளை தேடு</string>
+    <string name="no_matching_transactions">பொருத்தமான பரிவர்த்தனைகள் இல்லை</string>
+</resources>

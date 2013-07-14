@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="two_part_format_normal_width">^1 ^2</string>
+    <string name="two_part_format_full_width">^1 ^2</string>
+    <string name="sentence_end_period_format">^1.</string>
+    <string name="sentence_end_question_mark_format">^1?</string>
+    <string name="parantheses_format_normal_width">(^1)</string>
+    <string name="parantheses_format_full_width">(^1)</string>
+    <string name="two_items_dash_with_space_format">^1 – ^2</string>
+    <string name="two_items_dash_without_space_format">^1–^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1 / ^2</string>
+    <string name="two_part_comma_format">^1, ^2</string>
+<!-- New -->    <string name="default_name_format">^1 No. ^2</string> <!-- "Book No. 2" -->
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+	<string name="plus_format">^1+</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol">*</string>
+    <string name="quarter_format">காலாண்டு^1 ^2</string> <!-- "Q1 2013" -->
+<!-- New -->    <string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
+<!-- New -->    <string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+<!-- New -->    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 by ^2 ^3 for ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+    <string name="_continue">தொடர்</string>
+	<string name="continue_question">தொடர்</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="home">முகப்பு</string> <!-- Home screen -->
+	<string name="home_screen">முகப்புத்திரை</string>
+    <string name="previous">முந்தைய</string>
+    <string name="next">அடுத்து</string>
+    <string name="_import">இறக்குமதி செய்</string> <!-- This is a verb -->
+    <string name="imported">இறக்குமதியானது</string>
+    <string name="import_canceled">இறக்குமதி இரத்து செய்யப்பட்டது</string>
+    <string name="export">ஏற்றுமதி செய்</string> <!-- This is a verb -->
+    <string name="export_canceled">ஏற்றுமதி இரத்து செய்யப்பட்டது</string>
+	<string name="import_export">இறக்குமதி செய்/ஏற்றுமதி செய்</string>
+    <string name="display_options">காட்சிமுறை விருப்பத்தேர்வுகள்</string>
+    <string name="add_favorite">விருப்பமானதில் சேர்</string>
+    <string name="added_to_favorites">விருப்பமானதில் சேர்க்கப்பட்டது</string>
+    <string name="remove">அகற்று</string>
+    <string name="remove_favorite">விருப்பமானதில் இருந்து அகற்று</string>
+    <string name="removed_from_favorites">விருப்பமானதில் இருந்து அகற்றப்பட்டது</string>
+    <string name="save">சேமி</string> <!-- This is a verb -->
+    <string name="saved">சேமிக்கப்பட்டது</string>
+    <string name="save_canceled">சேமிப்பு இரத்து செய்யப்பட்டது</string>
+    <string name="canceled">இரத்து செய்யப்பட்டது</string>
+    <string name="delete">அழி</string>
+    <string name="deleted">அழிக்கப்பட்டது</string>
+    <string name="delete_canceled">அழித்தல் இரத்து செய்யப்பட்டது</string>
+    <string name="create">உருவாக்கு</string>
+    <string name="created">உருவாக்கு</string>
+    <string name="create_canceled">உருவாக்கம் இரத்து செய்யப்பட்டது</string>
+	<string name="create_what">என்ன உருவாக்கம்</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">திருத்து</string>
+    <string name="edit_canceled">திருத்தம் இரத்து செய்யப்பட்டது</string>
+	<string name="edit_which">எதை திருத்த</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="copy">நகல் எடு</string>
+    <string name="copied">நகல் எடுக்கப்பட்டது</string>
+    <string name="move">நகர்த்து</string> <!-- Move an item -->
+    <string name="moved">நகர்த்தப்பட்டது</string>
+    <string name="duplicate">மறுநகல்</string>
+    <string name="duplicated">மறுநகல் எடுக்கப்பட்டது</string>
+    <string name="rename">மறுபெயரிடு</string>
+    <string name="renamed">மறுபெயரிடப்பட்டது</string>
+    <string name="rename_canceled">மறுபெயரிடுதல் இரத்து செய்யப்பட்டது</string>
+    <string name="link">இணை</string>
+    <string name="linked">இணைக்கப்பட்டது</string>
+    <string name="combine">ஒருங்கிணை</string>
+    <string name="combined">ஒருங்கிணைக்கப்பட்டது</string>
+    <string name="copy_to_clipboard">பிடிப்புபலகையில் நகலெடு</string>
+    <string name="set">நிருவு</string> <!-- Set a value -->
+	<string name="share">பகிர்ந்து கொள்</string>
+	<string name="share_canceled">பகிர்வு இரத்து செய்யப்பட்டது</string>
+    <string name="create_in_app_name_format">^1 ல் உருவாக்கு</string> <!-- Create in Contacts -->
+    <string name="pick_from_app_name_format">^1 லிருந்து எடு</string> <!-- Pick from Contacts -->
+    <string name="do_not_ask_again">மீண்டும் கேட்க வேண்டாம்</string>
+    <string name="apply_to_all">எல்லாவற்றிலும் பயன்படுத்து</string>
+	<string name="all_items">எல்லா உருப்புகளும்</string>
+    <string name="notes">குறிப்புகள்</string>
+    <string name="no_notes">எந்த குறிப்புகளும் இல்லை</string>
+    <string name="required">தேவைப்படுவது</string>
+    <string name="name">பெயர்</string>
+    <string name="invalid_name">செல்லுபடியற்ற பெயர்</string>
+    <string name="name_exists">பெயர் ஏற்கனவே உள்ளது</string>
+    <string name="amount">தொகை</string>
+    <string name="start_date">ஆரம்ப தேதி</string>
+    <string name="end_date">முடிவு தேதி</string>
+    <string name="must_be_less_than_format">இருக்க வேண்டும் &lt; ^1</string>
+    <string name="must_be_greater_than_format">இருக்க வேண்டும் > ^1</string>
+    <string name="reset">மறுநிறுவு</string>
+    <string name="total">மொத்தம்</string>
+    <string name="grand_total">ஆக மொத்தம்</string> <!-- Grand total amount -->
+    <string name="average">சராசரி</string> <!-- Average amount -->
+    <string name="export_file_name">ஏற்றுமதி கோப்பின் பெயர்</string>
+    <string name="specify_export_file_name">ஏற்றுமதி கோப்பின் பெயரை குறிப்பிடு</string>
+    <string name="file_exists">இப்பெயரில் ஒரு கோப்பு ஏற்கனவே உள்ளது</string>
+    <string name="folder_exists">இப்பெயரில் ஒரு கோப்புறை ஏற்கனவே உள்ளது</string>
+    <string name="choose_another_name">வேறு பெயரை தேர்ந்தெடு</string>
+    <string name="will_be_overwritten">எழுதியதன் மேல் எழுதப்ப்டுவிடும்</string>
+    <string name="calendar">நாள்காட்டி</string>
+    <string name="remind_me">என்னை ஞாபகப்படுத்து</string>
+    <string name="add_as_a_contact">ஒரு தொடர்பாக சேர்</string>
+    <string name="to_from_format">^1 ^2</string> <!-- To <account>, இருந்து <account> -->
+    <string name="to">இடம் வரை</string> <!-- To <account> -->
+    <string name="from">இருந்து</string> <!-- From <account> -->
+	<string name="send_email">மின்னஞ்சல் அனுப்பு</string>
+	<string name="please_read">தயவுசெய்து படி</string>
+	<string name="rate_app_format">தகுதியிடு ^1</string> <!-- ^1 is app name -->
+	<string name="please_rate_app_format">சிறிதுநேரம்\nதகுதியிடு ^1</string> <!-- ^1 is app name -->
+	<string name="later_rate_description">சுமார் ஒரு வாரத்தில் நீங்கள் நினைவூட்டப்படுவீர்</string>
+	<string name="no_rate_description_format">^1 திரையிலிருந்து எந்த நேரத்திலும் நீங்கள் இதை செய்ய முடியும</string> <!-- ^1 is "Settings" -->
+<!-- New --> <string name="task_killer_warning_format">பயன்பாட்டுச்செயலிகளின் பணி முடக்கியை பற்றிய எச்சரிக்கை apps:\n\nஉங்கள் சாதனம் தானியங்கு செயல்முறைக்காக ஒரு நாளில் ஒரு முறை எழுந்திரிக்கும். இந்த செயலாக்கம் ஒரு சில விநாடிகள் மட்டுமே நீடிக்கும் என்பதால், இது உங்கள் சாதனத்தின் மின்சக்தியில் எந்த மோசமான பாதிப்பையும் ஏற்படுத்தாது.\n\nமுறையாக செயல்படுத்தபடும் இந்த பின்னனி செயலாக்கத்தை பணி முடக்கிகளால் தடுக்கவோ மேலும் ^1 வுடன் பயன்படுத்தவோ முடியாது</string> <!-- ^1 is app name -->
+	<string name="no_thanks">தேவையில்லை, நன்றி</string>
+	<string name="maybe_later">ஒருவேளை பிறகு</string>
+	<string name="unexpected_error_warning">எதிர்பாராத பிழை ஏற்பட்டதால் anMoney நிறுத்தப்பட்டது.\n\nமின்னஞ்சலில் பிழை அறிக்கை அனுப்புவதன் மூலம் இதை சரிசெய்ய எங்களுக்கு உதவுங்கள். மின்னஞ்சல் அனுப்பும் முன் திருத்துவதற்கு உங்களுக்கு வாய்ப்புள்ளது.\n\nஉங்கள் ஒத்துழைப்பிற்கு நன்றி.</string>
+    <string name="unexpected_error_notification_ticker">எதிர்பாராத பிழை. தயவுசெய்து பிழை அறிக்கை அனுப்புக.</string>
+    <string name="unexpected_error_notification_title">anMoney நிறுத்திவிட்டது</string>
+    <string name="unexpected_error_notification_text">பிழை அறிக்கை அனுப்ப இங்கே தொடவும்.</string>
+    <string name="unexpected_error_comment">நீங்கள் விரும்பவில்லை என்றால், பிழை ஏற்பட்டபோது நீங்கள் எங்கே என்ன செய்துகொண்டிருந்தீர்கள் என தயவுசெய்து விவரிக்கவும்</string>
+	<string name="archiving">காப்பகப்படுத்துதல்</string>
+	<string name="archiving_settings">காப்பகப்படுத்துதல் அமைப்புகள்</string>
+    <string name="more">மேலும்</string>
+    <string name="specify_options">குறிப்பிட்ட தெரிவுகள்</string>
+	<string name="expand_all">எல்லாவற்றையும் விரிவுபடுத்து</string>
+	<string name="all_expanded">எல்லாம் விரிவுபடுத்தப்பட்டது</string>
+	<string name="collapse_all">எல்லாவற்றையும் சுருக்கு</string>
+	<string name="all_collapsed">எல்லாம் சுருக்கப்பட்டது</string>
+    <string name="postal_address">கடிதத்தொடர்பு முகவரி</string>
+    <string name="postal_address_hint">தெரு\nநகரம்\nகடித குறியீட்டெண்</string> <!-- Replace this with locale specific fields -->
+    <string name="cannot_perform_sd_card_operation">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது ஏனெனில் உங்கள் சாதனத்தில் குறுசேமிப்பு அட்டைஇல்லை, அல்லது தற்போழுது உங்கள் சாதனம் கணினியோடு இனைக்கப்பட்டிருக்கும்</string>
+    <string name="cannot_perform_file_system_operation_format">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது உள் நினைவகப் பாதை (^1) ஐ அணுக இயலாது</string>
+    <string name="please_correct_and_try_again">தயவுசெய்து இதை சரிசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்</string>
+    <string name="no_network_message_format">^1 உரிம சரிபார்த்தலுக்கு காலமுறை இணைய அனுகலை வேண்டுகிறது.\n\nதயவுசெய்து இணையத்தை செயல்படவை, மேலும், ஒருமுறை இனைப்பை பெற்றவுடன், மீண்டும் முயற்சிக்கவும். பிற்பாடு நீங்கள் இனைப்பை முடக்கவும்.\n\n^2 ஐ தட்டுவது நீங்கள் எடுக்கும் <b>^3</b> அமைப்புகள்</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
+    <string name="calculator">கணக்கீட்டுப்பொறி</string>
+    <string name="only_in_full_version">உரிமப் பதிப்பிற்கு மட்டும்</string>
+    <string name="will_not_effect_transactions">இது <b>எந்த இருக்கும் பரிவர்த்தனைகளையும் பாதிப்பது இல்லை</b></string>
+    
+	<string name="free_limitations">கீழ்வரும் வரம்புகளை நீக்குவதற்கு உரிமப் பதிப்பை வாங்கவும்:\n\n
+	<li>கடவுச்சொல் பாதுகாப்பு இல்லாமை</li>\n
+	<li>உங்கள் தரவுகளை தானியங்கு காப்புநகல் செய்ய இயலாமை</li>\n
+	<li>அறிக்கைகளை விரும்பிய வடிவில் பெற இயலாமை</li>\n
+	<li>QIF இறக்குமதி மட்டுமே</li>\n
+	<li>தொடர்புகளை இணைக்கும் வசதி இல்லை</li>\n
+	<li>அதிகபட்சமாக 2 வங்கி, 1 கடன் மேலும் 1 ரொக்க கணக்கு</li>\n
+	<li>அதிகபட்சமாக 5 திட்டஅறிக்கை உறுப்புகள்</li>\n
+	<li>அதிகபட்சமாக 3 மறுநிகழ் கட்டணசீட்டு அல்லது வைப்புநிதி</li> 
+	</string>
+
+	<string name="no_items">உறுப்புகள் இல்லை</string>
+    <string name="no_items_yet">இன்னும் உறுப்புகள் இல்லை</string>
+	<string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
+        <item/> <!-- Not used -->
+        <item>^1 உறுப்புகள்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    
+    <string-array name="reminder_leads">
+        <item>என்னை நினைவூட்ட வேண்டாம்</item>
+        <item>அந்த நாள்</item>
+        <item>முன் நாள்</item>
+        <item>இரு நாட்கள் முன்னால்</item>
+        <item>ஒரு வாரம் முன்னால்</item>
+        <item>இரு வாரங்கள் முன்னால்</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1 வது</item>
+		<item>2 வது</item>
+		<item>3 வது</item>
+		<item>4 வது</item>
+		<item>5 வது</item>
+		<item>6 வது</item>
+		<item>7 வது</item>
+		<item>8 வது</item>
+		<item>9 வது</item>
+		<item>10 வது</item>
+		<item>11 வது</item>
+		<item>12 வது</item>
+		<item>13 வது</item>
+		<item>14 வது</item>
+		<item>15 வது</item>
+		<item>16 வது</item>
+		<item>17 வது</item>
+		<item>18 வது</item>
+		<item>19 வது</item>
+		<item>20 வது</item>
+		<item>21 வது</item>
+		<item>22 வது</item>
+		<item>23 வது</item>
+		<item>24 வது</item>
+		<item>25 வது</item>
+		<item>26 வது</item>
+		<item>27 வது</item>
+		<item>28 வது</item>
+		<item>29 வது</item>
+		<item>30 வது</item>
+		<item>31 வது</item>
+	</string-array>
+
+    <string name="display_direction">காட்சிமுறை வழிகாட்டுதல்</string>
+	<string-array name="sort_direction_items">
+		<item>அதிகரித்தல்</item>
+		<item>குறைதல்</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>அதிகரித்தல்</item>
+		<item>குறைதல்</item>
+	</string-array>
+</resources>
