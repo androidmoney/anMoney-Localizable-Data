@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">I parametri saranno cancellati e impostati quelli predefiniti</string>
 	<string name="settings_reset">Reset parametri</string>
 	<string name="reset_canceled">Reset annullato</string>
-	<string name="report_settings_tip">Per cambiare i parametri di un report:\n\n<li>Tieni premuto sul nome del report e seleziona <b>Parametri report</b></li>\n\n<li>Toccare l’icona nell’angolo in alto a destra dello schermo, mentre il report viene visualizzato</li></string>
+	<string name="report_settings_tip_format">Per cambiare i parametri di un report:\n\n<li>Tieni premuto sul nome del report e seleziona ^1</li>\n\n<li>Toccare l’icona nell’angolo in alto a destra dello schermo, mentre il report viene visualizzato</li></string>
 	<string name="report_name">Nome report</string>
 	<string name="all_reports">Tutti i reports</string>
 	<string name="favorite_reports">Reports favoriti</string>

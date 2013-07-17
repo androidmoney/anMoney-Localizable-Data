@@ -129,7 +129,7 @@
 	<string name="cannot_perform_sd_card_operation">Cette opération ne peut être effectuée pour l’instant, soit parce qu’il n’y a pas de carte SD dans votre appareil, soit parce que votre appareil est actuellement connecté à votre ordinateur, ce qui rend la carte SD inaccessible</string>
 	<string name="cannot_perform_file_system_operation_format">Cette opération ne peut être effectuée pour l’instant car le chemin sur le système de fichiers (^1) n’est pas accessible</string>
     <string name="please_correct_and_try_again">Corrigez et réessayez</string>
-	<string name="no_network_message_format">^1 doit accéder régulièrement au réseau pour vérifier votre licence.\n\nVeuillez vous connecter au réseau et réessayer dès que la connection est active. Vous pourrez ensuite vous déconnecter du réseau.\n\nAppuyez sur ^2 pour ouvrir les paramètres <b>^3</b></string>
+	<string name="no_network_message_format">^1 doit accéder régulièrement au réseau pour vérifier votre licence.\n\nVeuillez vous connecter au réseau et réessayer dès que la connection est active. Vous pourrez ensuite vous déconnecter du réseau.\n\nAppuyez sur ^2 pour ouvrir les paramètres ^3</string>
 	<string name="calculator">Calculatrice</string>
 	<string name="only_in_full_version">Disponible uniquement dans la version PRO</string>
     <string name="will_not_effect_transactions">Ceci n’affectera <b>pas</b> les transactions existantes</string>

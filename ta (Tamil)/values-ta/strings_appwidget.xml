@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+	<string name="appwidget_warning_format">தோன்றும் இதை ^1 தற்பொழுது நீங்கள் குறுசேமிப்பு அட்டையில் நிருவியுள்ளீர்.\n\nஇது சாளரத்தை காண இயலாமல் செய்யும் என்பதால்,^1 ஐ நீங்கள் குறுசேமிப்பு அட்டையிலிருந்து சாதனத்திற்கு நகர்த்த பரிந்துரைக்கப்படுகிறது, நீங்கள் சாளரங்களை பயன்படுத்த திட்டமிட்டிருந்தால்</string> <!-- ^1 is the app name -->
+
+    <string name="no_books_warning">திரையில் சாளரத்தை இடும்முன் குறைந்தபட்சம் ஒரு புத்தகத்தையாவது உருவாக்கவும்</string>
+    <string name="no_books_and_accounts_warning">திரையில் சாளரத்தை இடும்முன் குறைந்தபட்சம் ஒரு புத்தகம் மேலும் ஒரு கணக்கை உருவாக்கவும்</string>
+    <string name="no_accounts_warning">திரையில் சாளரத்தை இடும்முன் குறைந்தபட்சம் ஒரு கணக்கை உருவாக்கவும்</string>
+    <string name="book_no_longer_exists_format">புத்தகம் ^1 நீடித்து இருக்கவில்லை</string>
+    <string name="account_no_longer_exists">கணக்கு நீடித்து இருக்கவில்லை</string>
+    <string name="report_no_longer_exists">அறிக்கை நீடித்து இருக்கவில்லை</string>
+    <string name="budget_no_longer_exists_format">திட்டஅறிக்கை ^1 நீடித்து இருக்கவில்லை</string>
+    
+    <string name="quick_entry">விரைவான நுழைவு</string>
+    <string name="app_name_quick_entry">anMoney — விரைவான நுழைவு</string>
+    <string name="app_name_quick_entry_large">anMoney — விரைவான நுழைவு (பெரியது)</string>
+    <string name="app_name_quick_entry_small">anMoney — விரைவான நுழைவு (சிறியது)</string>
+    <string name="show_total">கணக்கு கூடுதலை காட்டவும்</string>
+    <string name="opacity">ஒளி ஊடுருவி செல்ல விடாத தன்மை</string>
+
+    <string name="app_name_upcoming">anMoney — வரவிருப்பவை</string> <!-- as in Upcoming Bills -->
+
+    <string name="app_name_budget">anMoney — திட்டஅறிக்கை</string>
+
+    <string name="app_name_report">anMoney — அறிக்கை</string>
+
+	<string name="dash_clock_extension_description">தவனைதவறிய கட்டணசீட்டு அல்லது வைப்புநிதி இருப்பின், காட்டப்படும்.</string>
+</resources>

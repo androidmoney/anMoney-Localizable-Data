@@ -100,8 +100,8 @@
     <string name="remind_me">என்னை ஞாபகப்படுத்து</string>
     <string name="add_as_a_contact">ஒரு தொடர்பாக சேர்</string>
     <string name="to_from_format">^1 ^2</string> <!-- To <account>, இருந்து <account> -->
-    <string name="to">இடம் வரை</string> <!-- To <account> -->
-    <string name="from">இருந்து</string> <!-- From <account> -->
+    <string name="to">இதற்கு</string> <!-- To <account> -->
+    <string name="from">இதிலிருந்து</string> <!-- From <account> -->
 	<string name="send_email">மின்னஞ்சல் அனுப்பு</string>
 	<string name="please_read">தயவுசெய்து படி</string>
 	<string name="rate_app_format">தகுதியிடு ^1</string> <!-- ^1 is app name -->
@@ -129,7 +129,7 @@
     <string name="cannot_perform_sd_card_operation">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது ஏனெனில் உங்கள் சாதனத்தில் குறுசேமிப்பு அட்டைஇல்லை, அல்லது தற்போழுது உங்கள் சாதனம் கணினியோடு இனைக்கப்பட்டிருக்கும்</string>
     <string name="cannot_perform_file_system_operation_format">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது உள் நினைவகப் பாதை (^1) ஐ அணுக இயலாது</string>
     <string name="please_correct_and_try_again">தயவுசெய்து இதை சரிசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்</string>
-    <string name="no_network_message_format">^1 உரிம சரிபார்த்தலுக்கு காலமுறை இணைய அனுகலை வேண்டுகிறது.\n\nதயவுசெய்து இணையத்தை செயல்படவை, மேலும், ஒருமுறை இனைப்பை பெற்றவுடன், மீண்டும் முயற்சிக்கவும். பிற்பாடு நீங்கள் இனைப்பை முடக்கவும்.\n\n^2 ஐ தட்டுவது நீங்கள் எடுக்கும் <b>^3</b> அமைப்புகள்</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
+    <string name="no_network_message_format">^1 உரிம சரிபார்த்தலுக்கு காலமுறை இணைய அனுகலை வேண்டுகிறது.\n\nதயவுசெய்து இணையத்தை செயல்படவை, மேலும், ஒருமுறை இனைப்பை பெற்றவுடன், மீண்டும் முயற்சிக்கவும். பிற்பாடு நீங்கள் இனைப்பை முடக்கவும்.\n\n^2 ஐ தட்டுவது நீங்கள் எடுக்கும் ^3 அமைப்புகள்</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
     <string name="calculator">கணக்கீட்டுப்பொறி</string>
     <string name="only_in_full_version">உரிமப் பதிப்பிற்கு மட்டும்</string>
     <string name="will_not_effect_transactions">இது <b>எந்த இருக்கும் பரிவர்த்தனைகளையும் பாதிப்பது இல்லை</b></string>

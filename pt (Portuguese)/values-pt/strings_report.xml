@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">As configurações serão redefinidas para seus padrões</string>
 	<string name="settings_reset">Redefinir configurações</string>
 	<string name="reset_canceled">Redefininção cancelada</string>
-	<string name="report_settings_tip">Para alterar as configurações de um relatório:\n\n<li>Toque longo no nome do relatório e toque <b>Configurações do relatório</b></li>\n\n<li>Toque o ícone no canto superior direito da tela enquanto o relatório é mostrado</li></string>
+	<string name="report_settings_tip_format">Para alterar as configurações de um relatório:\n\n<li>Toque longo no nome do relatório e toque ^1</li>\n\n<li>Toque o ícone no canto superior direito da tela enquanto o relatório é mostrado</li></string>
 	<string name="report_name">Nome do relatório</string>
 	<string name="all_reports">Todos os relatórios</string>
 	<string name="favorite_reports">Relatórios favoritos</string>

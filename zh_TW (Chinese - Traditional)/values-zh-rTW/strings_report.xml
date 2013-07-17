@@ -12,11 +12,11 @@
 	<string name="custom_dates">自定義日期</string>
 	<string name="other">其他</string>
 	<string name="report_empty">沒有數據可供顯示</string>
-    <string name="report_settings_instructions_format">點擊螢幕上方的^i以更改報告設定</string> <!-- ^1 will be replaced by an image -->
+    <string name="report_settings_instructions_format">點擊螢幕上方的 ^i 以更改報告設定</string> <!-- ^1 will be replaced by an image -->
 	<string name="reset_report_settings">設定將被重置為預設值</string>
 	<string name="settings_reset">還原預設設定</string>
 	<string name="reset_canceled">還原已取消</string>
-    <string name="report_settings_tip">更改報告設定:\n\n<li>長按報告名稱並點擊<b>「報告設定」</b></li>\n\n<li>當報告顯示後，點擊螢幕右上方的圖示</li></string>
+    <string name="report_settings_tip_format">更改報告設定:\n\n<li>長按報告名稱並點擊^1</li>\n\n<li>當報告顯示後，點擊螢幕右上方的圖示</li></string>
 	<string name="report_name">報告名稱</string>
 	<string name="all_reports">所有報告</string>
 	<string name="favorite_reports">收藏報告</string>

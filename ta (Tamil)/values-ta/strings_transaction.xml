@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="transactions">பரிவர்த்தனைகள்</string>
+    <string name="view_transactions">பரிவர்த்தனைகள் பார்வையிட</string>
+    <string name="new_transaction">புதிய பரிவர்த்தனைகள்</string>
+    <string name="edit_transaction">பரிவர்த்தனைகளை திருத்த</string>
+    <string name="split_transaction">பரிவர்த்தனைகளை பிளக்க</string>
+    <string name="delete_transaction">பரிவர்த்தனைகளை அழிக்க</string>
+    <string name="accept_transaction">பரிவர்த்தனைகளை ஏற்க</string> <!-- Accept as in "Accept a new transaction" -->
+    <string name="select">தேர்வு செய்</string>
+    <string name="accept">ஏற்றுக் கொள்</string>
+    <string name="accepted">ஏற்றுக்கொள்ளப்பட்டது</string>
+    <string name="accept_canceled">ஏற்பது இரத்துசெய்யப்பட்டது</string>
+    <string name="accept_transaction_all"><b>எல்லா</b>பரிவர்தனைகள் ஏற்றுக்கொள்ளப்பட்டுவிடும்</string>
+    <string name="mark">குறியிடு</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
+    <string name="marked">குறியிடப்பட்டது</string>
+    <string name="mark_canceled">குறியிடுதல் இரத்துசெய்யப்பட்டது</string>
+    <string name="mark_transaction">பரிவர்த்தனையை குறியிடு</string>
+	<string-array name="mark_transactions_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 பரிவர்த்தனைகளை குறியிடு</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="mark_transactions_all">குறியிடு <b>எல்லா</b> பரிவர்த்தனைகளை</string>
+    <string name="unreconciled1">சமரசமல்லாதது</string>
+    <string name="unreconciled2">@string/unreconciled1</string>
+    <string name="cleared1">தெளிவானது</string>
+    <string name="cleared2">@string/cleared1</string>
+    <string name="reconciled1">சமரசமானது</string>
+    <string name="reconciled2">@string/reconciled1</string>
+    <string name="_void_verb">வெற்றிடம்</string>
+    <string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" -->
+	<string name="not_void1">வெற்றிடம் இல்லை</string> <!-- This is an adjective as in "Not void transaction" -->
+    <string name="pending2">நிலுவையிலுள்ளது</string> <!--- As in it is a new transaction, and I need to review and accept it -->
+	<string name="exported_transaction">ஏற்றுமதியானது</string>
+    <string name="not_exported_transaction1">ஏற்றுமதி ஆகவில்லை</string>
+    <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
+    <string name="edit_notes">குறிப்புகளை திருத்த</string>
+    <string name="notes_created">குறிப்புகள் உருவாக்கப்பட்டது</string>
+    <string name="notes_edited">குறிப்புகள் திருத்தப்பட்டது</string>
+    <string name="notes_deleted">குறிப்புகள் அழிக்கப்பட்டது</string>
+    <string name="notes_creation_canceled">குறிப்புகள் உருவாக்கம் இரத்து செய்யப்பட்டது</string>
+    <string name="flag_for_follow_up">பின்தொடர் சுட்டிக்காட்டி</string>
+    <string name="edit_follow_up">பின்தொடரை திருத்த</string>
+    <string name="make_recurring">மறுநிகழ்வை ஏற்படுத்த</string>
+    <string name="follow_up2">பின்தொடர்</string>
+    <string name="follow_up_by">மூலம் பின்தொடர்ந்து</string>
+    <string name="follow_up_created">பின்தொடர் உருவாக்கப்பட்டது</string>
+    <string name="follow_up_edited">பின்தொடர் திருத்தப்பட்டது</string>
+    <string name="follow_up_deleted">பின்தொடர் அழிக்கப்பட்டது</string>
+    <string name="follow_up_creation_canceled">பின்தொடர் உருவாக்கம் இரத்து செய்யப்பட்டது</string>
+    <string name="go_to">அங்கு போக</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
+    <string name="number">எண்</string>
+    <string name="transfer">பரிமாற்றம்</string>
+    <string name="transfers">பரிமாற்றங்கள்</string>
+    <string name="transfer_account">பரிமாற்றக் கணக்கு</string>
+    <string name="add">சேர்க்க</string>
+    <string name="added">சேர்க்கப்பட்டது</string>
+    <string name="add_canceled">சேர்த்தல் இரத்துசெய்யப்பட்டது</string>
+    <string name="accept_and_edit">ஏற்க &amp; திருத்த</string>
+    <string name="add_and_close">சேர்க்க &amp; மூடு</string>
+    <string name="duplicate_in_current_account">நடப்பு கணக்கில் மறுநகலெடு</string>
+    <string name="duplicate_copy_move">மறுநகலெடு, நகல் அல்லது நகர்த்து</string>
+    <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+    <string name="copy_to_another_account">மற்றொரு கணக்கிற்கு நகலெடு</string>
+    <string name="move_to_another_account">மற்றொரு கணக்கிற்கு நகர்த்து</string>
+    <string name="copy_transaction">பரிவர்த்தனையை நகலெடு</string>
+    <string name="move_transaction">பரிவர்த்தனையை நகர்த்து</string>
+    <string name="do_not_duplicate_notes">குறிப்புகளை மறுநகலெடுக்க வேண்டாம்</string>
+    <string name="account_not_found">கணக்கு தென்படவில்லை</string>
+    <string name="cannot_transfer_to_itself">தானே பரிமாறிக்கொள்ள முடியாது</string>
+    <string name="cannot_copy_to_itself">தானே நகல்/நகர்த்த முடியாது</string>
+    <string name="copy_move_currency_warning">குறிப்பிட்ட கணக்கு மாறுபட்ட அடிப்படை நாணயத்தை கொண்டுள்ளது. குறிப்பிட்ட கணக்கின் பரிவர்த்தனை தொகையை நீங்கள் சரிசெய்ய வேண்டியிருக்கும்</string>
+    <string name="all_transactions_hidden_by_filter">எல்லா பரிவர்த்தனைகளும் காட்சி வடிகட்டியால் மறைக்கப்பட்டுள்ளது</string>
+    <string name="show_number">எண்ணை காட்டு</string>
+    <string name="show_number_description">எண்ணை காட்சிப்படுத்து, அதுவும் ஒன்றாக இருந்தால்</string>
+    <string name="show_notes">குறிப்புகளை காட்டு</string>
+    <string name="show_notes_description">குறிப்புகளை காட்டு, ஏதேனும் இருந்தால்</string>
+    <string name="classification_cannot_fit_warning_part1">பரிவர்த்தனை சாளரத்தின் மேல், திரையின் அளவுப்பற்றாக்குறை காரணமாக, திரையின் அளவுப்பற்றாக்குறை காரணமாக உங்களால் சுழற்றாமல் அனைத்து  வகைப்படுத்துதல்களையும் காண இயலாது</string>
+    <string name="classification_cannot_fit_warning_part2">திரைசிறிது இடவசதி செய்ய சில அடையாளங்களை மறைக்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="classification_cannot_fit_warning_part3">இந்த அமைப்புகளை பின்னால் எந்த நேரத்திலும் உங்களால் மாற்றிக்கொள்ள இயலும்</string>
+    <string name="ask_to_edit_related_transaction_message_part1">இந்த பரிவர்த்தனையின் மறுபக்கம் பிளவை கொண்டுள்ளது, அதை நீங்கள் அங்கே திருத்த வேண்டியிருக்கும்</string>
+    <string name="ask_to_edit_related_transaction_message_part2">இப்போழுது வேறு பரிவர்த்தனையை திருத்த விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="transaction_modified_message">பரிவர்த்தனை மாற்றப்பட்டுவிடும்</string>
+    <string name="transaction_confirm_save_on_back_press_message_format">இந்த பரிவர்த்தனை மாற்றப்பட்டுவிடும்.\n\nபரிவர்த்தனையை சேமிக்க ^1 ஐ தட்டு, பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^2, அல்லது  மாற்றங்களை கைவிடுவதற்கு ^3</string>
+    <string name="split_confirm_save_on_back_press_message_format">இந்த பிளவு மாற்றப்பட்டது.\n\nபிளவை சேமிக்க ^1 ஐ தட்டு, பிளவு திருத்தத்திற்கு திரும்ப செல்ல ^2, அல்லது மாற்றங்களை கைவிடுவதற்கு ^3</string>
+    <string name="transaction_modified_reconciled_message">ஒரு சமரச பரிவர்த்தனை  மாற்றப்பட்டுவிடும்</string>
+    <string name="transaction_modified_related_reconciled_message">இந்த பரிவர்த்தனையின் மறுபக்கம், எந்த சமரசமோ, மாற்றப்பட்டுவிடும்</string>
+    <string name="records_may_differ">உங்களின் இந்த பதிவேடுகள் நிதி  நிறுவனதத்தினுடையதில் இருந்து மாறுபடலாம்</string>
+    <string name="missing_category_warning_message_format">கண்டிப்பாக ஒரு  வகைபாட்டை குறிப்பிட பரிந்துரைக்கப்படுகிறது, அது இல்லையென்றால், செலவு அறிக்கையில் தவறு ஏற்படலாம்.\n\nவகைபாட்டை குறிப்பிடாமலே பரிவர்த்தனையை சேமிக்க^1 ஐ தட்டு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^2</string>
+    <string name="expense_category_given_for_income_message_format">^1 க்காக செலவு வகைப்பாடு குறிப்பிடப்பட்டுள்ளது.\n\nவகைப்பாட்டை அப்படியே விட ^2 ஐ தட்டு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^3</string> <!-- the ^1 parameter comes from amount1_description array -->
+    <string name="income_category_given_for_expense_message_format">^1 க்காக வரவு வகைப்பாடு குறிப்பிடப்பட்டுள்ளது.\n\nவகைப்பாட்டை அப்படியே விட ^2 ஐ தட்டு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^3</string> <!-- the ^2 parameter comes from amount2_description array -->
+    <string name="payee_not_found_format">பெறுபவர் ^1 தென்படவில்லை</string>
+    <string name="payer_not_found_format">செலுத்துபவர் ^1 தென்படவில்லை</string>
+    <string name="would_you_like_to_create_it">நீங்கள் அதை உருவாக்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="amount_zero_warning_message_format">பரிவர்த்தனை தொகை பூஞ்சியம்.\n\nஅந்த தொகையை பூஞ்சியமாக விட ^1 ஐ தட்டு, அல்லது ஒரு வெற்றிட பரிவர்த்தனைக்குள் நுழைய ^2</string>
+    <string name="sum_of_splits_warning_message_format">பிளவுகளின் கூட்டுத்தொகை பரிவர்த்தனை தொகையோடு ஒத்துப்போகவில்லை.\n\nபிளவை திருத்த ^1 ஐ தட்டு</string>
+    <string name="duplicate_number_message_format">ஒரு பரிவர்த்தனை தேதி ^1 ஏற்கனவே இந்த காசோலை எண்ணில் பயன்படுத்தப்பட்டுள்ளது,.\n\nமீண்டும் இந்த எண்ணை பயன்படுத்த ^2 ஐ தட்டு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^3</string>
+    <string name="leave_zero">பூஞ்சியமாக விடு</string>
+    <string name="credits">வரவுகள்</string>
+    <string name="no_credits">கடன்கள் இல்லை</string>
+    <string name="deposits">வைப்புநிதிகள்</string>
+    <string name="no_deposits">வைப்புநிதிகள் இல்லை</string>
+    <string name="checks">காசோலைகள்</string> <!-- As in check book -->
+    <string name="no_checks">காசோலைகள் இல்லை</string> <!-- As in check book -->
+    <string name="charges">கட்டணங்கள்</string>
+    <string name="no_charges">கட்டணங்கள் இல்லை</string>
+    <string name="payments">பண நிலுவைகள்</string>
+    <string name="no_payments">பண நிலுவைகள் இல்லை</string>
+    <string name="checks_payments">காசோலைகள் &amp; பண நிலுவைகள்</string>
+    <string name="no_checks_payments">காசோலைகளோ அல்லது பண நிலுவைகளோ இல்லை</string>
+    <string name="deposits_payments">வைப்புநிதிகள் &amp; பண நிலுவைகள்</string>
+    <string name="no_deposits_payments">வைப்புநிதிகளோ அல்லது பண நிலுவைகளோ இல்லை</string>
+    <string name="no_unreconciled_transactions">சமரசமல்லாத பரிவர்த்தனைகள் இல்லை</string>
+    <string name="cleared_all_transactions">எல்லா பரிவர்த்தனைகளும் தெளிவாக்கப்பட்டது</string>
+    <string name="next_check_number">அடுத்த காசோலை எண்</string>
+    <string name="cleared_transactions_color">தெளிவாக்கப்பட்ட பரிவர்த்தனைகளின் நிறம்</string> <!-- As in "color of cleared transactions" -->
+    <string name="reconciled_transactions_color">சமரசமாக்கப்பட்ட பரிவர்த்தனைகளின் நிறம்</string> <!-- As in "color of teconciled transactions" -->
+	<string name="create_transaction_instructions_format">ஒரு பரிவர்த்தனையை உருவாக்க, திரையின் மேலே உள்ள ^i ஐ தட்டு</string> <!-- ^i will be replaced by an icon --> 
+    <string name="text_filter">உரை வடிகட்டி</string>
+    <string name="profit_and_loss_statement">லாபம் &amp; நஷ்டம் அறிக்கை</string>
+	<string name="transaction_type">பரிவர்த்தனை வகை</string>
+	<string name="transaction_status">பரிவர்த்தனை நிலை</string>
+
+    <string name="full_screen_mode">முழுதிரை நிலை</string>
+    <string name="full_screen_mode_description">சரிபார்க்கப்பட்டு விட்டால், மேலும் பரிவர்த்தனைகள் தெரியும்</string>
+
+	<string-array name="amount1_labels">
+        <item>பண அளிப்பு</item>
+        <item>செலவு</item>
+        <item>பற்று</item>
+        <item>பண அளிப்பு</item>
+        <item>அதிகரிப்பு</item>
+        <item>குறைப்பு</item>
+        <item>திரும்பப்பெறுதல்</item>
+    </string-array>
+	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
+        <item>அந்த பண அளிப்பு</item>
+        <item>அந்த செலவிடுதல்</item>
+        <item>அந்த கட்டணம்</item>
+        <item>அந்த பண நிலுவை</item>
+        <item>அந்த அதிகரிப்பு</item>
+        <item>அந்த குறைப்பு</item>
+        <item>அந்த திரும்பப்பெறுதல்</item>
+    </string-array>
+	<string-array name="amount2_labels">
+        <item>வைப்புநிதி</item>
+        <item>பெற்றது</item>
+        <item>வரவு</item>
+        <item>அசல் பற்றுச்சீட்டு</item>
+        <item>குறைப்பு</item>
+        <item>அதிகரிப்பு</item>
+        <item>வைப்புநிதி</item>
+    </string-array>
+	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
+        <item>அந்த வைப்புநிதி</item>
+        <item>அந்த பற்றுச்சீட்டு</item>
+        <item>அந்த கடன்</item>
+        <item>அந்த அசல் பற்றுச்சீட்டு</item>
+        <item>அந்த குறைப்பு</item>
+        <item>அந்த அதிகரிப்பு</item>
+        <item>அந்த வைப்புநிதி</item>
+    </string-array>
+
+	<string name="delete_transaction_warning">அந்த பரிவர்த்தனை அழிக்கப்பட்டுவிடும்</string>
+	<string-array name="delete_transaction_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 தேர்ந்தெடுக்கப்பட்ட பரிவர்த்தனைகள் அழிக்கப்பட்டுவிடும்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="delete_transaction_warning_all"><b>எல்லா</b> பரிவர்த்தனைகளும் அழிக்கப்பட்டுவிடும்</string>
+	<string name="delete_transaction_warning_reconciled">ஒரு சமரசப் பரிவர்த்தனை அழிக்கப்பட்டுவிடும்</string>
+    <string-array name="delete_transaction_warning_reconciled_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 தேர்ந்தெடுக்கப்பட்ட பரிவர்த்தனைகள் அழிக்கப்பட்டுவிடும், இதில் குறைந்தபட்சம் ஒரு சமரசப் பரிவர்த்தனை</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="accept_transaction_confirm_singular">பரிவர்த்தனை ஏற்கப்பட்டுவிடும்</string>
+    <string-array name="accept_transaction_confirm_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 தேர்தெடுக்கப்பட்ட பரிவர்த்தனைகள் ஏற்கப்பட்டுவிடும்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+</resources>

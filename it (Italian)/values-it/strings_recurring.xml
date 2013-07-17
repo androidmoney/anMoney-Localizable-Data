@@ -131,7 +131,7 @@
 
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
-		<item>1 in ritardo</item>
+		<item>^1 in ritardo</item>
 	    <item>^1 in ritardo</item>
         <item/> <!-- Not used -->
 	</string-array>

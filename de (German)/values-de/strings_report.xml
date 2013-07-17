@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">Die Einstellungen werden auf die Grundeinstellungen zurückgesetzt</string>
 	<string name="settings_reset">Seinstellungen zurückgesetzt</string>
 	<string name="reset_canceled">Zurücksetzung abgebrochen</string>
-	<string name="report_settings_tip">Um die Einstellungen für einen Bericht zu sehen:\n\n<li>Lange auf den Berichtsnamen drücken und <b>Berichtseinstellungen</b> drücken</li>\n\n<li>Drücken Sie auf das Icon am rechten oberen Bildschirmrand während der Bericht angezeigt wird.</li></string>
+	<string name="report_settings_tip_format">Um die Einstellungen für einen Bericht zu sehen:\n\n<li>Lange auf den Berichtsnamen drücken und ^1 drücken</li>\n\n<li>Drücken Sie auf das Icon am rechten oberen Bildschirmrand während der Bericht angezeigt wird.</li></string>
 	<string name="report_name">Berichtsname</string>
 	<string name="all_reports">Alle Berichte</string>
 	<string name="favorite_reports">Berichts-Favoriten</string>

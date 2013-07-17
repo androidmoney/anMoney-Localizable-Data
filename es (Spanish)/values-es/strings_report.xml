@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">Los ajustes se establecen a sus valores por defecto</string>
 	<string name="settings_reset">Restablecer configuración</string>
 	<string name="reset_canceled">Restablecer cancelado</string>
-	<string name="report_settings_tip">Para cambiar la configuración de un reporte:\n\n<li>Toca largo en el nombre del reporte y pulsa <b>Configuración del reporte</b></li>\n\n<li>Toque <b>Menú</b> y luego pulse <b>Configuración</b> mientras que el informe se muestra</li></string>
+	<string name="report_settings_tip_format">Para cambiar la configuración de un reporte:\n\n<li>Toca largo en el nombre del reporte y pulsa <b>Configuración del reporte</b></li>\n\n<li>Toque <b>Menú</b> y luego pulse ^1 mientras que el informe se muestra</li></string>
 	<string name="report_name">Nombre del reporte</string>
 	<string name="all_reports">Todos los reportes</string>
 	<string name="favorite_reports">Reportes favoritos</string>

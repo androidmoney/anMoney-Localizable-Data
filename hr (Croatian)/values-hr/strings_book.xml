@@ -171,7 +171,7 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string-array name="n_minutes_format_plurals">
-        <item>1 minuta</item>
+        <item>^1 minuta</item>
         <item>^1 minuta</item>
         <item/> <!-- Not used -->
 	</string-array>
@@ -284,7 +284,7 @@
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>Izvezena jedna transakcija</item>
+        <item>Izvezena ^1 transakcija</item>
         <item>Izvezena ^1 transakcije</item>
         <item/> <!-- Not used -->
 	</string-array>

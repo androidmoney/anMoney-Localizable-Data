@@ -145,7 +145,7 @@
     
     <string name="no_accounts_yet">இன்னும் கணக்குகள் இல்லை</string>
 	<string-array name="account_count_format_plurals">
-        <item>1 கணக்கு</item>
+        <item/> <!-- Not used -->
         <item>^1 கணக்குகள்</item>
         <item/> <!-- Not used -->
     </string-array>

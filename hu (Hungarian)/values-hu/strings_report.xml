@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">A beállítások vissza lesznek állítva az alapértékeikre</string>
 	<string name="settings_reset">Beállítások visszaállítva</string>
 	<string name="reset_canceled">Visszaállítás megszakítva</string>
-    <string name="report_settings_tip">Hogy módosítsa a jelentés beállításait:\n\n<li>Hosszú-érintse meg a jelentés nevét és érintse meg a <b>Jelentés beállításai</b>-t</li>\n\n<li>Érintse meg az ikont a jobb felső sarokban, amíkor nézi a jelentést</li></string>
+    <string name="report_settings_tip_format">Hogy módosítsa a jelentés beállításait:\n\n<li>Hosszú-érintse meg a jelentés nevét és érintse meg a ^1-t</li>\n\n<li>Érintse meg az ikont a jobb felső sarokban, amíkor nézi a jelentést</li></string>
 	<string name="report_name">Jelentés neve</string>
 	<string name="all_reports">Összes jelentés</string>
 	<string name="favorite_reports">Kedvenc jelentések</string>

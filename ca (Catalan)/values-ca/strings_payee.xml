@@ -39,7 +39,7 @@
     <string name="without_payee">Sense beneficiari</string>
     <string name="no_payees_yet">Cap beneficiari encara</string>
 	<string-array name="payee_count_format_plurals">
-        <item>1 beneficiari</item>
+        <item/> <!-- Not used -->
         <item>^1 beneficiaris</item>
         <item/> <!-- Not used -->
 	</string-array>

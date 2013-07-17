@@ -138,7 +138,7 @@
 
     <string name="no_accounts_yet">Nema računa</string>
 	<string-array name="account_count_format_plurals">
-        <item>1 račun</item>
+        <item/> <!-- Not used -->
         <item>^1 računa</item>
         <item/> <!-- Not used -->
 	</string-array>

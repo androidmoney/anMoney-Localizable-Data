@@ -23,5 +23,5 @@
 
     <string name="app_name_report">anMoneyレポート</string>
 
-	<string name="dash_clock_extension_description">もしある場合延滞請求書または預金を表示します</string>
+	<string name="dash_clock_extension_description">もしある場合延滞請求書または預金を表示します。</string>
 </resources>

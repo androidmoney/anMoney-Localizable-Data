@@ -90,7 +90,7 @@
 	<string name="no_categories_yet">Bisher keine Kategorien</string>
 	<string name="no_classes_yet">Bisher keine Klassen</string>
 	<string-array name="category_count_format_plurals">
-		<item>1 Kategorie</item>
+        <item/> <!-- Not used -->
         <item>^1 Kategorien</item>
         <item/> <!-- Not used -->
     </string-array>

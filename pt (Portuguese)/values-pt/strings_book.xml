@@ -251,7 +251,7 @@
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>Uma transação foi exportada</item>
+        <item>^1 transação foi exportada</item>
         <item>^1 transações foram exportadas</item>
         <item/> <!-- Not used -->
 	</string-array>

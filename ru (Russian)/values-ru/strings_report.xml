@@ -16,7 +16,7 @@
     <string name="reset_report_settings">Настройки будут сброшены в состояние по умолчанию</string>
     <string name="settings_reset">Сброс настроек</string>
     <string name="reset_canceled">Сброс отменён</string>
-    <string name="report_settings_tip">Для изменения настроек отчёта:\n\n<li>Нажмите и удержите имя отчёта, затем выберите <b>Настройки отчёта</b></li>\n\n<li>Во время просмотра отчёта нажмите иконку в верхней правой части экрана</li></string>
+    <string name="report_settings_tip_format">Для изменения настроек отчёта:\n\n<li>Нажмите и удержите имя отчёта, затем выберите ^1</li>\n\n<li>Во время просмотра отчёта нажмите иконку в верхней правой части экрана</li></string>
 	<string name="report_name">Название отчёта</string>
 	<string name="all_reports">Все отчёты</string>
 	<string name="favorite_reports">Избранные отчёты</string>

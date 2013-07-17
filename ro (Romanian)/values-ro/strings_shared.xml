@@ -129,7 +129,7 @@
     <string name="cannot_perform_sd_card_operation">Această operaţie nu poate fi realizată acum deoarece fie nu este introdus un card în dispozitiv, fie dispozitivul dumneavoastră este conectat la computer ceea ce face cardul SD inaccesibil</string>
     <string name="cannot_perform_file_system_operation_format">Această operaţie nu poate fi realizată acum deoarece calea (^1) către memoria internă nu este accessibilă</string>
     <string name="please_correct_and_try_again">Vă rugăm corectaţi şi încercaţi din nou</string>
-    <string name="no_network_message_format">^1 necesită acces periodic la reţea pentru verificarea licenţei.\n\nVă rugăm porniţi reţeaua, şi, odată ce aveţi conexiune de date, încercaţi din nou. Puteţi dezactiva reţeaua după aceea.\n\nApăsând ^2 veţi ajunge la <b>^3</b> setări</string>
+    <string name="no_network_message_format">^1 necesită acces periodic la reţea pentru verificarea licenţei.\n\nVă rugăm porniţi reţeaua, şi, odată ce aveţi conexiune de date, încercaţi din nou. Puteţi dezactiva reţeaua după aceea.\n\nApăsând ^2 veţi ajunge la ^3 setări</string>
     <string name="calculator">Calculator</string>
     <string name="only_in_full_version">Doar în versiunea PRO</string>
     <string name="will_not_effect_transactions">Aceasta  <b>nu</b> va afecta tranzacţiile existente</string>

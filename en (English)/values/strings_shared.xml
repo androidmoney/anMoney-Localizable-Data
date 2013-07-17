@@ -131,7 +131,7 @@
     <string name="cannot_perform_sd_card_operation">This operation cannot be performed right now as either there is no SD card in your device, or your device is currently connected to your computer making the SD card inaccessible</string>
     <string name="cannot_perform_file_system_operation_format">This operation cannot be performed right now as the internal memory path (^1) is not accessible</string>
     <string name="please_correct_and_try_again">Please correct and try again</string>
-    <string name="no_network_message_format">^1 requires periodic network access for license verification purposes.\n\nPlease enable the network, and, once you have data connection, try again. You may disable the network afterwards.\n\nTapping ^2 will take you to the <b>^3</b> settings</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
+    <string name="no_network_message_format">^1 requires periodic network access for license verification purposes.\n\nPlease enable the network, and, once you have data connection, try again. You may disable the network afterwards.\n\nTapping ^2 will take you to the ^3 settings</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
     <string name="calculator">Calculator</string>
     <string name="only_in_full_version">Only in the PRO version</string>
     <string name="will_not_effect_transactions">This will <b>not</b> affect any existing transactions</string>

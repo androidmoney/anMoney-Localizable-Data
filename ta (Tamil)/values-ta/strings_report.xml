@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="report">அறிக்கை</string>
+    <string name="reports">அறிக்கைகள்</string>
+	<string name="view_report">அறிக்கையை பார்க்க</string>
+	<string name="view_reports">அறிக்கைகளை பார்க்க</string>
+	<string name="report_canceled">அறிக்கை இரத்து செய்யப்பட்டது</string>
+	<string name="export_report">அறிக்கையை ஏற்றுமதி செய்</string>
+	<string name="report_exported">வெற்றிகரமாக பதிவு அட்டைக்கு அறிக்கையை ஏற்றுமதி செய்யப்பட்டது</string>
+	<string name="share_report">அறிக்கையை பகிர்ந்துகொள்</string>
+	<string name="report_settings">அறிக்கை அமைப்புகள்</string>
+	<string name="custom_dates">விருப்பிற்கேற்ற நாட்கள்</string>
+	<string name="other">மற்றவை</string>
+	<string name="report_empty">காட்சிப்படுத்த இங்கே எந்த தரவும் இல்லை</string>
+    <string name="report_settings_instructions_format">அறிக்கை அமைப்புகளை மாற்ற, திரையின் மேலே இருக்கும் ^i ஐ தட்டவும்</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">அமைப்புகள் அதன் இயல்பிருப்பு நிலைக்கு மீட்டமைக்கப்படும்</string>
+	<string name="settings_reset">அமைப்புகளை மீட்டமைக்க</string>
+	<string name="reset_canceled">மீட்டமைப்பு இரத்து செய்யப்பட்டது</string>
+    <string name="report_settings_tip_format">அறிக்கையின் அமைப்புகளை மாற்ற:\n\n<li>அறிக்கையின் பெயர் மீது நீண்ட அழுத்தத்தை தரவும் மேலும் தொடவும் ^1</li>\n\n<li> அறிக்கை தெரியும்போழுது மேலே வலது மூலையில் இருக்கும் குறிப்படத்தை தொடவும்</li></string>
+	<string name="report_name">அறிக்கையின் பெயர்</string>
+	<string name="all_reports">அனைத்து அறிக்கைகள்</string>
+	<string name="favorite_reports">விருப்பமான அறிக்கைகள்</string>
+	<string name="save_report_as">அப்படியே அறிக்கையை சேமி</string>
+	<string name="delete_report">அறிக்கையை அழி</string>
+    <string name="rename_report">அறிக்கைக்கு மறுபெயரிடு</string>
+    <string name="duplicate_report">மறுநகல் அறிக்கை</string>
+    <string name="delete_report_warning_format">அறிக்கை ^1 நிரந்தரமாக அழிக்கப்பட்விடும்</string>
+	<string name="report_type">அறிக்கையின் வகை</string>
+	<string name="group">தொகுப்பு</string> <!-- This is a verb -->
+	<string name="do_not_group">தொகுக்க வேண்டாம்</string>
+	<string name="day_0">இன்று</string>
+	<string name="day_p1">நாளை</string>
+	<string name="day_m1">நேற்று</string>
+	<string name="day_p2"></string> <!-- Intentionally left empty -->
+	<string name="day_m2"></string> <!-- Intentionally left empty -->
+	<string name="select_report">அறிக்கையை தேர்ந்தெடு</string>
+    <string name="report_folder">அறிக்கை கோப்புறை</string>
+	<string name="language">மொழி</string>
+	<string name="text_size">உரையின் அளவு</string>
+	<string name="text_size_sample">அ</string>
+		
+	<string name="chart_type">விளக்கப்பட வகை</string>
+	<string name="text_report">உரை அறிக்கை</string>
+	<string name="pie_chart">வட்ட விளக்கப்படம்</string>
+	<string name="line_chart">கோட்டு விளக்கப்படம்</string>
+	<string name="bar_chart">பட்டை விளக்கப்படம்</string>
+
+	<string name="page_format">பக்கம் ^1</string>
+
+	<string name="page_size">பக்க அளவு</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+<!-- New --> <item>Letter</item>
+<!-- New --> <item>Legal</item>
+<!-- New --> <item>Tabloid</item>
+	</string-array>
+
+	<string name="page_orientation">பக்க திசைப்போக்கு</string>
+	<string name="portrait">நீளவாக்கு வடிவம்</string>
+	<string name="landscape">அகலவாக்கு வடிவம்</string>
+
+	<string name="amounts_on_charts">விளக்கப்படத்தில் தொகைகளை காட்டுக</string>
+	<string name="percentages_on_pie_charts">வட்ட விளக்கப்படத்தில் விகிதாச்சாரங்களை காட்டுக</string>
+	<string name="create_settings_page">பக்க அமைப்புகளை உருவாக்கு</string>
+				
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>வலைப் பக்கம்</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>விரிதாள் பயன்பாட்டுச்செயலிகள் மூலம் படிக்கத்தக்கவை, உதாரணமாக Microsoft® Excel or Google™ Docs போன்றவை</item>
+		<item>அச்சிடவோ அல்லது காகித அடிச்சுவடி உருவாக்க ஏற்றது. இதற்கு Adobe Reader அல்லது PDF பார்க்க உகந்த வேறு செயலி தேவை</item>
+		<item>வலைப்பக்கத்தில் வெளியிடவும் அல்லது வலை உலாவியின் வாயிலாக பார்க்கவும் ஏற்றது</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">பகிர்வதற்கான வடிவத்தை குறிப்பிடு</string>
+</resources>

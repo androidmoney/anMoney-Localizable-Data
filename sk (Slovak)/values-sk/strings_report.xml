@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">Parametre reportu budú nastavené na východzie hodnoty</string>
 	<string name="settings_reset">Obnoviť nastavenia</string>
 	<string name="reset_canceled">Obnovenie zrušené</string>
-    <string name="report_settings_tip">Pre nastavenia parametrov reportu:\n\n<li>Dlho podržte názov reportu a zvoľte <b>Možnosti reportu</b></li>\n\n<li>Zobrazte report a použite ikonu v pravom hornom rohu obrazovky</li></string>
+    <string name="report_settings_tip_format">Pre nastavenia parametrov reportu:\n\n<li>Dlho podržte názov reportu a zvoľte ^1</li>\n\n<li>Zobrazte report a použite ikonu v pravom hornom rohu obrazovky</li></string>
 	<string name="report_name">Názov reportu</string>
 	<string name="all_reports">Všetky reporty</string>
 	<string name="favorite_reports">Obľúbené reporty</string>

@@ -129,7 +129,7 @@
     <string name="cannot_perform_sd_card_operation">Невозможно выполнить операцию — отсутствует или недоступна карта SD</string>
 	<string name="cannot_perform_file_system_operation_format">Невозможно выполнить операцию — путь в памяти устройства (^1) недоступен</string>
     <string name="please_correct_and_try_again">Проверьте и попробуйте ещё раз</string>
-	<string name="no_network_message_format">^1 периодически требуется доступ к сети для проверки лицензии.\n\nПожалуйста, подключитесь к сети и, после подключения, попробуйте снова. После проверки от сети можно отключиться.\n\nНажатие ^2 откроет настройки <b>^3</b></string>
+	<string name="no_network_message_format">^1 периодически требуется доступ к сети для проверки лицензии.\n\nПожалуйста, подключитесь к сети и, после подключения, попробуйте снова. После проверки от сети можно отключиться.\n\nНажатие ^2 откроет настройки ^3</string>
 	<string name="calculator">Калькулятор</string>
 	<string name="only_in_full_version">Доступно только в полной версии</string>
     <string name="will_not_effect_transactions">Существующие транзакции останутся неизменными</string>

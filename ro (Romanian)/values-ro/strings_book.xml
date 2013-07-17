@@ -177,7 +177,7 @@
         <item/> <!-- Not used -->
     </string-array>
 	<string-array name="n_minutes_format_plurals">
-        <item>1 minut</item>
+        <item>^1 minut</item>
         <item>^1 minute</item>
         <item/> <!-- Not used -->
 	</string-array>
@@ -251,8 +251,8 @@
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>O tranzacţie a fost exportată</item>
-        <item>tranzacţiile ^1 au fost exportate</item>
+        <item>Tranzacţie ^1 a fost exportată</item>
+        <item>Tranzacţiile ^1 au fost exportate</item>
         <item/> <!-- Not used -->
 	</string-array>
 

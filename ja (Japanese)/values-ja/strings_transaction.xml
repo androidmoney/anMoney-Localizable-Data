@@ -11,7 +11,7 @@
     <string name="accept">承諾</string>
     <string name="accepted">承諾済み</string>
     <string name="accept_canceled">取消された承諾</string>
-    <string name="accept_transaction_all"><u>すべて</u>のトランザクションは受け付けられます</string>
+    <string name="accept_transaction_all"><b>すべて</b>のトランザクションは受け付けられます</string>
     <string name="mark">マークする</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
     <string name="marked">マーク済み</string>
     <string name="mark_canceled">マークは取り消されました</string>
@@ -21,7 +21,7 @@
 	    <item/>
     	<item/>
 	</string-array>
-    <string name="mark_transactions_all"><u>すべて</u>のトランザクションをマークする</string>
+    <string name="mark_transactions_all"><b>すべて</b>のトランザクションをマークする</string>
     <string name="unreconciled1">未調整</string>
     <string name="unreconciled2">@string/unreconciled1</string>
     <string name="cleared1">クリア済み</string>
@@ -116,7 +116,7 @@
     <string name="next_check_number">次の小切手番号</string>
     <string name="cleared_transactions_color">クリアされた取引の色</string> <!-- As in "color of cleared transactions" -->
     <string name="reconciled_transactions_color">調整されたトランザクションカラー</string> <!-- As in "color of teconciled transactions" -->
-	<string name="create_transaction_instructions_format">トランザクションを作成するには画面上の^iをタップします</string> <!-- ^i will be replaced by an icon --> 
+	<string name="create_transaction_instructions_format">トランザクションを作成するには画面上の ^i をタップします</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">テキストフ​​ィルター</string>
     <string name="profit_and_loss_statement">損益明細表</string>
 	<string name="transaction_type">トランザクションタイプ</string>
@@ -168,7 +168,7 @@
 	    <item/>
     	<item/>
 	</string-array>
-    <string name="delete_transaction_warning_all"><u>すべて</u>のトランザクションが削除されます</string>
+    <string name="delete_transaction_warning_all"><b>すべて</b>のトランザクションが削除されます</string>
 	<string name="delete_transaction_warning_reconciled">調整されたトランザクションは削除されます</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
     	<item>^1の選択された取引は少なくとも1つが一致すると削除されます</item>

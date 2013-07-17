@@ -16,7 +16,7 @@
     <string name="call">呼び出す</string>
     <string name="map_address">地図アドレス</string> <!-- Show the address on the map -->
     <string name="no_payees">お客様には受取人がいません</string>
-    <string name="create_payee_instructions_format">受取人を作成するには画面上の^iをタップします</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_payee_instructions_format">受取人を作成するには画面上の ^i をタップします</string> <!-- ^1 will be replaced by an image -->
     <string name="payee_transaction_list_empty">お客様には、この受取人に関するトランザクションがありません</string>
     <string name="payee_exists">その名前の受取人は既に存在します</string>
     <string name="combine_payees">2つの受取人を結合しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->

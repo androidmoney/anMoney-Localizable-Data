@@ -177,7 +177,7 @@
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
-        <item>1 minuto</item>
+        <item>^1 minuto</item>
         <item>^1 minutos</item>
         <item/> <!-- Not used -->
 	</string-array>
@@ -251,7 +251,7 @@
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>Exportada una transacción</item>
+        <item>Exportada ^1 transacción</item>
         <item>Exportada ^1 transacciones</item>
         <item/> <!-- Not used -->
 	</string-array>

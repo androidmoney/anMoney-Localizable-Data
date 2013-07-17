@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">Els paràmetres tornaran als seus valors per defecte</string>
 	<string name="settings_reset">Restablir paràmetres</string>
 	<string name="reset_canceled">Restablir cancel·lat</string>
-    <string name="report_settings_tip">Per a canviar els paràmetres d’un informe:\n\n<li>Toqui uns segons el nom de l’informe i toqui <b>Paràmetres de l’informe</b></li>\n\n<li>Toqui la icona a la cantonada superior dreta de la pantalla mentres l’informe es mostra</li></string>
+    <string name="report_settings_tip_format">Per a canviar els paràmetres d’un informe:\n\n<li>Toqui uns segons el nom de l’informe i toqui ^1</li>\n\n<li>Toqui la icona a la cantonada superior dreta de la pantalla mentres l’informe es mostra</li></string>
 	<string name="report_name">Nom de l’informe</string>
 	<string name="all_reports">Tots els informes</string>
 	<string name="favorite_reports">Informes preferits</string>

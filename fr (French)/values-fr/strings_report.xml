@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">Les paramètres seront remis à leurs valeurs par défaut</string>
 	<string name="settings_reset">Paramètres par défaut</string>
 	<string name="reset_canceled">Remise par défaut annulée</string>
-	<string name="report_settings_tip">Pour modifier les paramètres d’un rapport:\n\n<li>Appuyez longuement sur le nom du rapport et tapez sur <b>Paramètres du rapport</b></li>\n\n<li>Appuyez sur l’icône en haut et à droite de l’écran une fois le rapport affiché</li></string>
+	<string name="report_settings_tip_format">Pour modifier les paramètres d’un rapport:\n\n<li>Appuyez longuement sur le nom du rapport et tapez sur ^1</li>\n\n<li>Appuyez sur l’icône en haut et à droite de l’écran une fois le rapport affiché</li></string>
 	<string name="report_name">Nom du rapport</string>
 	<string name="all_reports">Tous les rapports</string>
 	<string name="favorite_reports">Rapports favoris</string>

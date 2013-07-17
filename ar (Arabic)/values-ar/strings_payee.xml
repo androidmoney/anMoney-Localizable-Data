@@ -39,8 +39,8 @@
 	<string name="without_payee">بدون مستفيد</string>
 	<string name="no_payees_yet">لامستفيدين حاليا</string>	
 <!-- TODO --> <string-array name="payee_count_format_plurals">
-	    <item>1 payee</item>
-	    <item>2 payees</item>
+        <item/> <!-- Not used -->
+	    <item>^1 payees</item>
 	    <item>^1 payees</item>
 	</string-array>
 	

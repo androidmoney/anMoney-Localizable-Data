@@ -39,7 +39,7 @@
     <string name="without_payee">Sem beneficiário</string>
     <string name="no_payees_yet">Nenhum beneficiário ainda</string>
 	<string-array name="payee_count_format_plurals">
-        <item>1 beneficiário</item>
+        <item/> <!-- Not used -->
         <item>^1 beneficiários</item>
         <item/> <!-- Not used -->
 	</string-array>

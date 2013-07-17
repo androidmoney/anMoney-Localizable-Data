@@ -12,11 +12,11 @@
 	<string name="custom_dates">カスタム日付</string>
 	<string name="other">その他</string>
 	<string name="report_empty">表示するデータはありません</string>
-    <string name="report_settings_instructions_format">レポートの設定を変更するには画面上の^iをタップします</string> <!-- ^1 will be replaced by an image -->
+    <string name="report_settings_instructions_format">レポートの設定を変更するには画面上の ^i をタップします</string> <!-- ^1 will be replaced by an image -->
 	<string name="reset_report_settings">設定がデフォルトにリセットされます</string>
 	<string name="settings_reset">設定のリセット</string>
 	<string name="reset_canceled">リセットは取消されました</string>
-    <string name="report_settings_tip">レポートの設定を変更するには、\n\n<li>レポート名をロング・タップして<b>レポート設定</b>をタップします </li>\n\n<li>レポートが表示されている間に画面右上のアイコンをタップします</li></string>
+    <string name="report_settings_tip_format">レポートの設定を変更するには、\n\n<li>レポート名をロング・タップして^1をタップします </li>\n\n<li>レポートが表示されている間に画面右上のアイコンをタップします</li></string>
 	<string name="report_name">レポート名</string>
 	<string name="all_reports">すべてのレポート</string>
 	<string name="favorite_reports">お気に入りレポート</string>

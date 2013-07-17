@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="estimated_indicator">~</string>
-    <string name="recurring_bills_and_deposits">Facturas recurrentes &amp; depósitos</string>
+    <string name="recurring_bills_and_deposits">Facturas &amp; depósitos recurrentes</string>
 
     <string name="recurring_bills_and_deposits_by_direction_order_format">Recurrentes por ^2 en orden ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
 	<string name="view_recurring">Ver recurrencias</string>
@@ -149,7 +149,7 @@
 
 	<string name="overdue_count_format">^1/^2</string>
 <!-- Verify -->	<string-array name="overdue_plurals">
-		<item>1 vencida</item>
+		<item>^1 vencida</item>
 		<item>^1 vencidas</item>
         <item/> <!-- Not used -->
 	</string-array>

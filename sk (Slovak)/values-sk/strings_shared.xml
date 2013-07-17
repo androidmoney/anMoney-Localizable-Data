@@ -129,7 +129,7 @@
     <string name="cannot_perform_sd_card_operation">Operácia sa nedá dokončiť, pretože v zariadení nieje SD karta, alebo máte zaríadenie pripojené k počítaču a SD karta nieje pristupná</string>
 	<string name="cannot_perform_file_system_operation_format">Operáciu nieje možné teraz dokončiť, pretože adresár (^1) nieje dostupný</string>
     <string name="please_correct_and_try_again">Opravte zadanie a zopakujte požiadavku</string>
-    <string name="no_network_message_format">^1 vyžaduje pravidelný prístup k sieti z dôvodu možnosti overiť licenciu.\n\nPovoľte prosím sieť, po sprístupnení siete zopakujte operácu. Následne môžete prístup k sieti opäť zakázať.\n\nPo kliknutí ^2 bude zobrazený dialóg <b>^3</b></string>
+    <string name="no_network_message_format">^1 vyžaduje pravidelný prístup k sieti z dôvodu možnosti overiť licenciu.\n\nPovoľte prosím sieť, po sprístupnení siete zopakujte operácu. Následne môžete prístup k sieti opäť zakázať.\n\nPo kliknutí ^2 bude zobrazený dialóg ^3</string>
     <string name="calculator">Kalkulačka</string>
     <string name="only_in_full_version">Len vo verzii PRO</string>
     <string name="will_not_effect_transactions">Žiadne existujúce transakcie <b>nebudou</b> změněny.</string>

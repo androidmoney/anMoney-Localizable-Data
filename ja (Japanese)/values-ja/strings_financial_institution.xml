@@ -13,7 +13,7 @@
     <string name="add_financial_institution_as_a_contact">連絡先として金融機関を追加</string>
     <string name="financial_institution_exists">その名前の金融機関は既に存在します</string>
     <string name="no_financial_institutions">お客様には金融機関がありません</string>
-    <string name="create_financial_institution_instructions_format">金融機関を作成するには画面上の^iをタップします</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_financial_institution_instructions_format">金融機関を作成するには画面上の ^i をタップします</string> <!-- ^1 will be replaced by an image -->
     <string name="view_financial_institutions">金融機関を表示</string>
     <string name="financial_institution_name">金融機関名</string>
     <string name="contact_exists">その名前の連絡先は既に存在します</string>

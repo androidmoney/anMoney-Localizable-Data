@@ -90,7 +90,7 @@
 	<string name="no_categories_yet">Cap categoria encara</string>
     <string name="no_classes_yet">Cap classe encara</string>
 	<string-array name="category_count_format_plurals">
-        <item>1 categoria</item>
+        <item/> <!-- Not used -->
         <item>^1 categories</item>
         <item/> <!-- Not used -->
 	</string-array>

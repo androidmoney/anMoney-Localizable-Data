@@ -154,7 +154,7 @@
 	
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
-		<item>1 endarrerit</item>
+		<item>^1 endarrerit</item>
 		<item>^1 endarrerits</item>
         <item/> <!-- Not used -->
 	</string-array>

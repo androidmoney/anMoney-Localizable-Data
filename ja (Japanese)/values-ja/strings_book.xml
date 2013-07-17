@@ -24,7 +24,7 @@
     <string name="restored">復元済み</string>
     <string name="restore_canceled">復元は取消されました</string>
     <string name="restore_book">通帳を復元する</string>
-    <string name="restore_warning_format">通帳^1が上書きされ<u>すべて</u>のデータは回復不能に破壊されます</string>
+    <string name="restore_warning_format">通帳^1が上書きされ<b>すべて</b>のデータは回復不能に破壊されます</string>
     <string name="select_backup_file_to_restore">復元するバックアップファイルを選択する</string>
     <string name="select_backup_file_to_create_from">から作成するバックアップファイルを選択する</string>
     <string name="import_statement">明細をインポートする</string>
@@ -104,8 +104,8 @@
     <string name="contact_us">弊社までお問い合わせください</string>
     <string name="email_the_developers">開発者に直接メールする</string>
     <string name="tap_to_display_import_settings_format">^1をタップするとインポート設定画面が表示されます</string>
-    <string name="verify_import_settings">選択したデフォルト設定がインポートしたファイルのために本当に正しいかご確認ください。すべて問題ない場合は<u>戻る</u>の矢印を押してインポート処理を続けます</string>
-    <string name="change_settings_instructions_format">このメッセージは次回インポートでは表示されませんが、画面上の^iをタップすることでいつでも設定を変更できます</string> <!-- ^i will be replaced by an image -->
+    <string name="verify_import_settings">選択したデフォルト設定がインポートしたファイルのために本当に正しいかご確認ください。すべて問題ない場合は<b>戻る</b>の矢印を押してインポート処理を続けます</string>
+    <string name="change_settings_instructions_format">このメッセージは次回インポートでは表示されませんが、画面上の ^i をタップすることでいつでも設定を変更できます</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">次の設定はインポートしようとしているファイルを誤って表示しています</string>
     <string name="qif_csv_encoding_explanation_format">通常^1は以下のリストにある言語で使用されるべきですが、いくつかの金融機関では正常なインポートのために^2が選択されてファイルを生成しています。\n\nリストに存在しない他のすべての言語の場合、^2は常に選択する必要があります</string>
     <string name="credits_legal">クレジットと法</string>
@@ -139,13 +139,13 @@
 	</string-array>
 
 	<string-array name="import_mode_description">
-	    <item>アメリカン·エキスプレスからの月末の明細など様々な金融機関からダウンロードした明細に使用されます。<u>QIF</u>と<u>OFX​​/QFX/OFS</u>の両方のフォーマットがサポートされています。インポートファイルに口座間の転送を含めることはできません</item>
-	    <item>Microsoft® MoneyやQuicken®など別のパーソナルファイナンスソフトウェアからデータを転送するために使用されます。<u>QIF</u>フォーマットのみサポートされています</item>
+	    <item>アメリカン·エキスプレスからの月末の明細など様々な金融機関からダウンロードした明細に使用されます。<b>QIF</b>と<b>OFX​​/QFX/OFS</b>の両方のフォーマットがサポートされています。インポートファイルに口座間の転送を含めることはできません</item>
+	    <item>Microsoft® MoneyやQuicken®など別のパーソナルファイナンスソフトウェアからデータを転送するために使用されます。<b>QIF</b>フォーマットのみサポートされています</item>
   	</string-array>
 
 	<string-array name="book_export_file_type_description">
 	    <item>お客様が使用している分類やカテゴリーによっては、Microsoft® Moneyでしか読めない場合があります</item>
-	    <item><u>QIF</u>形式をサポートしているすべてのアプリケーションで読み取り可能</item>
+	    <item><b>QIF</b>形式をサポートしているすべてのアプリケーションで読み取り可能</item>
 	    <item>Microsoft® ExcelやGoogle™ Docsなどのスプレッドシート・アプリケーションで読み取り可能。エクスポートされた最初の行には各トランザクションの行に続いて列ヘッダーが含まれています。各分割は独自の行を持ちます</item>
 	</string-array>
 

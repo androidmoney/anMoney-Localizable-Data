@@ -35,13 +35,13 @@
     <string name="no_categories_expense">お客様には経費カテゴリーがありません</string>
     <string name="no_categories_income">お客様には収入カテゴリーがありません</string>
     <string name="no_classes">お客様には区分がありません</string>
-    <string name="create_category_instructions_format">カテゴリーを作成するには画面上の^iをタップします</string> <!-- ^1 will be replaced by an image -->
-    <string name="create_class_instructions_format">区分を作成するには画面上の^iをタップします</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_category_instructions_format">カテゴリーを作成するには画面上の ^i をタップします</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_class_instructions_format">区分を作成するには画面上の ^i をタップします</string> <!-- ^1 will be replaced by an image -->
     <string name="uncategorized_transactions">未分類トランザクション</string>
     <string name="delete_category_no_subcategories_warning_format">カテゴリー^1は完全に削除されます</string>
     <string name="delete_class_no_subclass_warning_format">クラス^1は完全に削除されます</string>
-    <string name="delete_category_with_subcategories_warning_format">カテゴリー^1と<u>すべてのサブカテゴリー</u>は完全に削除されます</string>
-    <string name="delete_class_with_subclass_warning_format">クラス^1と<u>すべてのサブクラス</u>は完全に削除されます</string>
+    <string name="delete_category_with_subcategories_warning_format">カテゴリー^1と<b>すべてのサブカテゴリー</b>は完全に削除されます</string>
+    <string name="delete_class_with_subclass_warning_format">クラス^1と<b>すべてのサブクラス</b>は完全に削除されます</string>
     <string name="delete_subcategory_warning_format">サブカテゴリー^1は完全に削除されます</string>
     <string name="delete_subclass_warning_format">サブクラス^1は完全に削除されます</string>
     <string name="delete_classification_warning_format">分類^1は完全に削除されます。すべての取引はその分類を除去しなければなりません</string>

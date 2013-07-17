@@ -128,7 +128,7 @@
 	<string name="cannot_perform_sd_card_operation">Diese Operation kann nicht ausgeführt werden. Entweder ist keine SD-Karte eingelegt oder Ihr Gerät ist mit einem Computer verbunden und blockert die SD-Karte</string>
 	<string name="cannot_perform_file_system_operation_format">Diese Operation kann nicht ausgeführt werden; auf das Datei-System (^1) kann nicht zugegriffen werden</string>
     <string name="please_correct_and_try_again">Bitte korrigieren sie das und versuchen sie es dann erneut</string>
-	<string name="no_network_message_format">^1 benötigt einen zeitweisen Netzzugriff, um die Lizenz zu verifizieren.\n\Bitte schalten Sie das Netzwerk ein und versuchen Sie es dann erneut. Danach können Sie die Netzwerkverbindung abschalten.\n\nnWenn Sie auf ^2 drücken, kommen Sie direkt zu <b>^3</b></string>
+	<string name="no_network_message_format">^1 benötigt einen zeitweisen Netzzugriff, um die Lizenz zu verifizieren.\n\Bitte schalten Sie das Netzwerk ein und versuchen Sie es dann erneut. Danach können Sie die Netzwerkverbindung abschalten.\n\nnWenn Sie auf ^2 drücken, kommen Sie direkt zu ^3</string>
     <string name="calculator">Rechner</string>
     <string name="only_in_full_version">Nur in der werbefreien Version PRO</string>
     <string name="will_not_effect_transactions">Das hat <b>keine</b> Auswirkung auf bestehende Transaktionen</string>

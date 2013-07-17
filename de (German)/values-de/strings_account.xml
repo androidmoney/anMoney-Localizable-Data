@@ -147,7 +147,7 @@
 		
 	<string name="no_accounts_yet">Bis jetzt keine Konten</string>
 	<string-array name="account_count_format_plurals">
-		<item>1 Konto</item>
+        <item/> <!-- Not used -->
 		<item>^1 Konten</item>
         <item/> <!-- Not used -->
 	</string-array>

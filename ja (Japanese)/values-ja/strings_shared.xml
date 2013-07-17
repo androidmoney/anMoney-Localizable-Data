@@ -129,10 +129,10 @@
     <string name="cannot_perform_sd_card_operation">デバイスにSDカードがないか、またはデバイスが現在SDカードをアクセス不能にするコンピュータに接続しているため、この操作を今すぐ実行することはできません</string>
     <string name="cannot_perform_file_system_operation_format">内部メモリパス（^1）がアクセス不能であるため、この操作を今すぐに実行することはできません</string>
     <string name="please_correct_and_try_again">訂正して再試行してください</string>
-    <string name="no_network_message_format">^1はライセンス確認の目的で定期的なネットワーク・アクセスを必要とします。　\n\nネットワークを有効化しデータに接続した後、再度お試しください。その後ネットワークを無効化することができます。\n\n^ 2をタップすると<u>^3</u>設定に進みます</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
+    <string name="no_network_message_format">^1はライセンス確認の目的で定期的なネットワーク・アクセスを必要とします。　\n\nネットワークを有効化しデータに接続した後、再度お試しください。その後ネットワークを無効化することができます。\n\n^ 2をタップすると^3設定に進みます</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
     <string name="calculator">電卓</string>
     <string name="only_in_full_version">PRO版のみ</string>
-    <string name="will_not_effect_transactions">これは既存のトランザクションには影響が<u>ありません</u></string>
+    <string name="will_not_effect_transactions">これは既存のトランザクションには影響が<b>ありません</b></string>
     
 	<string name="free_limitations">次の制限を除去するにはPRO版を購入して下さい。\n\n
 	<li>パスワードセキュリティー無し</li>\n

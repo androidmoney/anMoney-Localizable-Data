@@ -129,7 +129,7 @@
     <string name="cannot_perform_sd_card_operation">Aquesta operació no pot ser realitzada en aquest moment, ja sigui degut a que no hi ha targeta SD al dispositiu o bé el dispositiu està connectat a l’ordinador fent que la targeta estigui inaccessible</string>
     <string name="cannot_perform_file_system_operation_format">Aquesta operació no pot ser realitzada en aquest moment degut a que la ruta de la memòria interna (^1) no està accessible</string>
     <string name="please_correct_and_try_again">Si us plau, corregeixi i torni a provar</string>
-    <string name="no_network_message_format">^1 requereix accés periòdic a la xarxa per a poder verificar la llicència.\n\nSi us plau, activi la xarxa i, un cop tingueu connexió de dades, intenteu-ho de nou. Podreu desactivar la xarxa després d’això.\n\nTocant ^2 us portarà a la configuració de <b>^3</b></string>
+    <string name="no_network_message_format">^1 requereix accés periòdic a la xarxa per a poder verificar la llicència.\n\nSi us plau, activi la xarxa i, un cop tingueu connexió de dades, intenteu-ho de nou. Podreu desactivar la xarxa després d’això.\n\nTocant ^2 us portarà a la configuració de ^3</string>
     <string name="calculator">Calculadora</string>
     <string name="only_in_full_version">Només a la versió PRO</string>
     <string name="will_not_effect_transactions">Això <b>no</b> afectarà a les transaccions existents</string>

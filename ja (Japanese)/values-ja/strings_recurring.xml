@@ -37,7 +37,7 @@
 	<string name="skip_which">をスキップする</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="skip_one_occurrence_warning">次回の発生をスキップする</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="no_recurrings_format">お客様には自動継続請求や預金がありません\n\n作成するには：\n\n<li>^1</li>\n\n<li>あらゆるトランザクションをロング・タップして、タップ^2</li></string>
-    <string name="create_recurring_instructions_format">画面上部の^iをタップします</string> <!-- ^i will be replaced by an image -->
+    <string name="create_recurring_instructions_format">画面上部の ^i をタップします</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">定期的なアイテムを追加する前に口座と受取人を作成してください</string>
 	<string name="specify_account">最初に口座を指定してください</string>
 	<string name="account_and_amount">口座と金額</string>
@@ -277,7 +277,7 @@
 	<string name="fiscal_year">年度</string>
 	
 	<string name="time_of_reminder">リマインダーの時間</string>
-	<string name="reminder_hour_of_day_change_warning">既存のリマインダーは、現存する場合は変更<u>されません</u>のでご注意ください。これを行うには、お客様のデバイス上のカレンダーに移動し、そこでリマインダーを編集してください。\n新しい時間は既存の定期的に発生する請求の次回分か預金だけではなく、新たなリマインダーに使用されます</string>
+	<string name="reminder_hour_of_day_change_warning">既存のリマインダーは、現存する場合は変更<b>されません</b>のでご注意ください。これを行うには、お客様のデバイス上のカレンダーに移動し、そこでリマインダーを編集してください。\n新しい時間は既存の定期的に発生する請求の次回分か預金だけではなく、新たなリマインダーに使用されます</string>
 
 	<string-array name="auto_enter_days_before">
 	    <item>自動的に入力しないでください</item>
