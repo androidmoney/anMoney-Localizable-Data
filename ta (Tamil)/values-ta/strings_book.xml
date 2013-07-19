@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    	   
+    <string name="book">புத்தகம்</string>
+    <string name="new_book">புதிய புத்தகம்</string>
+    <string name="new_book_name">புதிய புத்தகத்தின் பெயர்</string>
+    <string name="rename_book">புத்தகத்தை மறுபெயரிடு</string>
+    <string name="delete_book">புத்தகத்தை அழி</string>
+    <string name="share_book">புத்தகத்தை பகிர்ந்துகொள்</string>
+    <string name="book_delete_warning_short_format">புத்தகம் ^1 அழிக்கப்பட்டுவிடும்</string>
+    <string name="all_data_will_be_lost">காப்புநகல் எடுக்கவில்லை என்றால், இந்த புத்தகத்தில் இருக்கும் எல்லா தரவுகளும் நிரந்தரமாக தொலைந்துவிடும்</string>
+    <string name="import_into_book">புத்தகத்திலிருந்து இறக்குமதி</string>
+    <string name="export_from_book">புத்தகத்திலிருந்து ஏற்றுமதி</string>
+    <string name="import_into_book_format">^1 புத்தகத்திலிருந்து இறக்குமதி</string>
+    <string name="no_books">நீங்கள்  எந்த புத்தகங்களையும் பெற்றிருக்கவில்லை</string>
+    <string name="upgrading_book">புத்தகம் மேம்படுத்தப்படுகிறது</string>
+    <string name="upgrading_books">புத்தகங்கள் மேம்படுத்தப்படுகிறது</string>
+    <string name="backup">காப்புநகல்</string> <!-- Verb -->
+    <string name="backup_canceled">காப்புநகல் இரத்துசெய்யப்பட்டது</string>
+    <string name="backup_book">புத்தகத்தை காப்புநகலெடு</string>
+    <string name="overwrite">மேலெழுதுக</string>
+    <string name="backup_name">பெயரை காப்புநகலெடு</string>
+    <string name="auto_backup_name_format">^1 (^2 தானியங்கு)</string>
+    <string name="restore">மீட்டெடு</string>
+    <string name="restored">மீட்டெடுக்கப்பட்டது</string>
+    <string name="restore_canceled">மீட்டெடுத்தல் இரத்துசெய்யப்பட்டது</string>
+    <string name="restore_book">புத்தகத்தை மீட்டெடு</string>
+    <string name="restore_warning_format">புத்தகம் ^1 மேலெழுதப்பட்டுவிடும் மேலும் <b>எல்லா</b> அதன்  தரவுகளும் திரும்ப்பெற இயலாதபடிக்கு அழிக்கப்பட்டுவிடும்</string>
+    <string name="select_backup_file_to_restore">மீட்டெடுப்பதற்காக காப்புநகல் கோப்பை தெரிவுசெய்</string>
+    <string name="select_backup_file_to_create_from">இதிலிருந்து உருவாக்க காப்புநகல் கோப்புபை தெரிவுசெய்</string>
+    <string name="import_statement">அறிக்கையை இறக்குமதி</string>
+    <string name="no_sd_card_inserted">பதிவு அட்டை இங்கே நுழைக்கப்படவில்லை</string>
+    <string name="select_files">கோப்புபை தெரிவுசெய்</string>
+    <string name="delete_file">கோப்புபை அழி</string>
+    <string name="delete_file_warning_format">கோப்பு ^1 அழிக்கப்பட்டுவிடும்</string>
+	<string-array name="delete_files_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 தெரிவுசெய்யப்பட்ட கோப்புகள் அழிக்கப்பட்டுவிடும்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="select_book">புத்தகத்தை தெரிவுசெய்</string>
+    <string name="select_book_to_import_into">அறிக்கையை இறக்குமதி செய்வதற்கான புத்தகத்தை தெரிவுசெய்</string>
+    <string name="select_import_file">இறக்குமதி செய்வதற்கான கோப்பு(கள்) தெரிவுசெய்</string>
+    <string name="not_specified_brackets">&lt;குறிப்பிடப்படில்லை></string>
+    <string name="map_accounts">கணக்குகள் ஒப்பீடு</string>
+    <string name="configure_account_mappings">கணக்கு ஒப்பீடுகளை கட்டமைக்க</string>
+    <string name="account_required">கணக்கு தேவைப்படுகிறது</string>
+    <string name="duplicate_name">மறுநகல் பெயர்</string>
+    <string name="options">தெரிவுகள்</string>
+    <string name="select_options">இறக்குமதி தெரிவுகளை தேர்வுசெய்</string>
+    <string name="remove_duplicates">மறுநகல்களை நீக்கு</string>
+    <string name="remove_duplicates_notes">அதே சமயம் பெரும்பாலும் இது சரியாகவே வேலை செய்யும், அங்கே  பிரச்சனையும் ஆகலாம், குறிப்பாக கணக்குகள் மாறுபட்ட நாணயங்களில் தொகைகளை கொண்டிருந்தால். இந்த விவகாரங்களில், பொருந்துதல் சாத்தியமில்லை. இறக்குமதிக்கு பிறகு, தயவுசெய்து மீதத் தொகைகளை சரிபார்த்துக்கொள்ளவும்</string>
+    <string name="import_classes">பிரிவுகளை இறக்குமதி செய்</string>
+    <string name="ignore_memos">செயற்குறிப்பு இடத்தை தவிர்</string>
+    <string name="create_payees_in_app_name_format">^1 ல் பணம் பெறுவோனை உருவாக்கு</string>
+    <string name="contact_account">கணக்கில் பணம் பெறுவோனை உருவாக்குவதற்கு தொடர்புகொள்</string>
+    <string name="select_import_mode">இறக்குமதி முறையை தேர்வுசெய்</string>
+    <string name="select_accounts_to_export">ஏற்றுமதிக்கு கணக்கு(கள்) தேர்வுசெய்</string>
+    <string name="specify_export_file_format">ஏற்றுமதி கோப்பின் அமைப்பை குறிப்பிடு</string>
+    <string name="mark_transactions_exported">பரிவர்த்தனைகளை ஏற்றுமதியானதாக குறியிடு</string>
+    <string name="create_single_file">ஒரு தனி கோப்பை உருவாக்கு</string>
+    <string name="no_transactions_matched_your_selection_criteria">நீங்கள் தேர்ந்தெடுத்த திட்ட அளவையில் எந்த பரிவர்த்தனைகளும் பொருந்தவில்லை.\n\nஏற்றுமதி கோப்பு(கள்) உருவாக்கப்படவில்லை</string>
+	<string name="import_folder">இறக்குமதி கோப்புறை</string>
+	<string name="export_folder">ஏற்றுமதி கோப்புறை</string>
+    <string name="ask_to_view_imported_transaction">இறக்குமதி செய்யப்பட்ட பரிவர்த்தனைகளை பார்க்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="tip">சிறு உதவி</string>
+    <string name="user_guide">உபயோகிப்பாளர் கையேடு</string>
+	<string name="user_guide_url">http://goo.gl/fvjiq</string>
+    <string name="whats_new">புதியதாக என்ன?</string>
+    <string name="license">உரிமம்</string>
+<!--     
+    <string name="accept_license">உரிமத்தை ஏற்றுக்கொள்</string>
+    <string name="decline">வேண்டாமென மறு</string>
+ -->    
+    <string name="thank_you">உங்களுக்கு நன்றி!</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="old_password">பழைய கடவுச்சொல்</string>
+    <string name="new_password">புதிய கடவுச்சொல்</string>
+    <string name="verify_password">கடவுச்சொல் சரிபார்ப்பு</string>
+    <string name="enter_password">கடவுச்சொலை பதிவுசெய்</string>
+    <string name="incorrect_password">தவறான கடவுச்சொல். தயவுசெய்து மறுபதிவு செய்</string>
+    <string name="set_password">கடவுச்சொல்லை அமை</string>
+    <string name="password_set">கடவுச்சொல் அமைக்கப்பட்டது</string>
+    <string name="edit_password">கடவுச்சொல்லை திருத்து</string>
+    <string name="remove_password">கடவுச்சொல்லை அகற்று</string>
+    <string name="password_removed">கடவுச்சொல் அகற்றப்பட்டது</string>
+    <string name="remove_password_message">கடவுச்சொல் அகற்றப்பட்டுவிடும்.\n\nஉங்கள் சாதனத்தை கையாளும் எல்லோருக்கும் உங்களின் தரவுகள் தெரியும்</string>
+    <string name="password_has_not_been_changed">கடவுச்சொல் மாற்றப்படவில்லை</string>
+    <string name="passwords_dont_match">கடவுச்சொற்கள் பொருந்தவில்லை</string>
+    <string name="case_sensitive">மிகவும் முக்கியமானது</string>
+    <string name="disclaimer">பொறுப்பு துறப்பு</string>
+    <string name="password_disclaimer">தயவுசெய்து இந்த பொறுப்பு துறப்பை படிக்கவும் மேலும் இறுதியில் உள்ள கட்டத்தை சரிபார்க்கவும்.\n\nகவனிக்கவும், இந்த கடவுச்சொல் வசதி தகவல் பாதுகாப்பு வழங்குவதற்கு “prying eyes” லிருந்து வடிவமைக்கப்பட்டது, இந்த இயங்குதள வரம்புகள் காரணமாக, உண்மையாக தரவுகளுக்கு மறையிட இயலாது மேம்பட்ட திறன் பெற்ற யாராகிலும் உங்களது தரவுகளை கடவுச்சொல் இருந்தாலும் பார்வையிட முடியும்.\n\nஉங்கள் சாதனத்தை lock pattern அல்லது PIN மூலமாக பாதுகாத்துக்கொள்ள கண்டிப்பாக பரிந்துரைக்கப்படுகிறது</string>
+    <string name="i_understand_the_limitations">இந்த வரம்புகளை நான் புரிந்து கொண்டேன்</string>
+    <string name="set_password_now_part1">இப்பொழுது ஒரு கடவுச்சொல்லை அமை</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_password_now_part2_format">^1 க்கு பதில் அளித்தால் கூட, நீங்கள் எந்தநேரத்திலும் கடவுச்சொல்லை அமைக்கும் வாய்ப்பை பெறலாம் புத்தக பெயரின் மீது நீண்ட தொடுதல் மேலும் ^2 ஐ தொடுவதன் மூலமாக</string>
+    <string name="folder_name_format">கோப்புறை பெயர் (^1 ஐ துனைக்கோப்புறைகளுக்காக பயன்படுத்து)</string>
+    <string name="no_backup_files">காப்புநகல் கோப்புகள் தென்படவில்லை</string>
+    <string name="no_backup_files_new_instructions">இறக்குமதி கோப்பை பயன்படுத்தி புத்தகத்தை உருவாக்க முயற்சிக்கிறீர்களா, முதலில் புதியதாக ஒரு புத்தகத்தை உருவாக்கு, பின்னர் அதிலிருந்து இறக்குமதி செய்</string>
+    <string name="remove_transactions">இந்த தேதிக்கு முந்தைய பரிவர்த்தனைகளை நீக்கு</string>
+    <string name="book_to_make_copy_of">நகலை செய்வதற்ககான புத்தகம்</string>
+    <string name="truncate_warning_format">^1 க்கு முன்னதாக உள்ள எல்லா பரிவர்த்தனைகளும் திரும்ப பெற இயலாதபடி அழிக்கப்பட்டுவிட்டும்</string>
+    <string name="information_and_help">தகவல்களும் &amp; உதவியும்</string>
+    <string name="discussion_forum">கருத்துக்களம்</string>
+    <string name="join_the_user_community_format">^1 ன் உபயோகிப்பாளர் சமூகத்தில்  இனைந்து கொள்ளுங்கள்</string>
+    <string name="contact_us">எங்களை தொடர்புகொள்ள</string>
+    <string name="email_the_developers">உருவாக்குநர்களுக்கு நேரடியாக மின்னஞ்சல் செய்ய</string>
+    <string name="tap_to_display_import_settings_format">இறக்குமதி அமைப்புகள் திரை தெரிய ^1 ஐ தொடவும்</string>
+    <string name="verify_import_settings">தேர்வு செய்த இயல்புநிலை அமைப்புகளை தயவுசெய்து சரிபார்க்கவும்,உள்ளபடியே, நீங்கள் இறக்குமதி செய்யும் கோப்பை சரிசெய்யவும். எல்லாம் சரியாக இருந்தால், அழுத்தவும் <b>பின்னோக்கி</b> அம்புக்குறி இறக்குமதி செய்கையோடு தொடர்வதற்கு</string>
+    <string name="change_settings_instructions_format">இந்த செய்தி அடுத்து வரும் இறக்குமதிகளுக்கு தோன்றாது, ஆனால் திரையின் மேலே இருக்கும் ^i ஐ தொடுவதன் மூலம் இந்த அமைப்புகளை எப்பொழுது வேண்டுமானாலும் உங்களால் மாற்ற முடியும்</string> <!-- ^i will be replaced by an image -->
+    <string name="bad_import_settings">தவறான கோப்பை இறக்குமதி செய்ய நீங்கள் முயலும்போழுது பின்வரும் அமைப்பு(கள்) தோன்றும்</string>
+    <string name="qif_csv_encoding_explanation_format">பொதுவாக ^1 கீழே உள்ள பட்டியலில் இருக்கும் மொழிகளை பயன்படுத்த வேண்டும், ஆனால் சில நிதிநிறுவனங்கள் ஒழுங்கான இறக்குமதிக்காக எங்கு ^2 தேர்வாகியுள்ளதோ அங்கிருந்து கோப்புகளை வழங்கலாம்.\n\nபட்டியலில் மற்ற எல்லா மொழிகளுக்காக, ^2 எப்பொழுதும் தேர்வாகும்</string>
+    <string name="credits_legal">வரவுகள் &amp; சட்ட</string>
+    <string name="contact_and_social">தொடர்பு &amp; சமூக</string>
+    <string name="follow_us">எங்களை பின்பற்றவும்</string>
+    <string name="add_us_to_circle">உங்களின் வட்டாரத்தில் எங்களை சேர்க்கவும்  மேலும் எங்களை +1</string>
+    <string name="become_a_fan">ஒரு ரசிகர் ஆக</string>
+    <string name="haptic_feedback">தொடு உணர்வியல்</string>
+    <string name="haptic_feedback_description">இது தேர்ந்தெடுக்கப்பட்டால் விசையை தொடும்பொழுது அதிர்வு ஏற்படும்</string>
+	<string name="default_book_name">எனது புத்தகம்</string>
+	<string name="color_theme">நிற வடிவமைப்பு</string>
+	<string name="dark">கருமை</string>  <!-- As in "dark color theme" -->
+	<string name="light">வெளிர்</string> <!-- As in "opposite of dark" -->
+	<string name="preview">முன்தோற்றம்</string>
+	
+	<string-array name="book_new_source">
+	    <item>புதியதாக உருவாக்க</item>
+	    <item>காப்புநகலில் இருந்து உருவாக்க</item>
+	    <item>ஏற்கனவே உள்ள புத்தகத்தில் இருந்து நகலெடுக்க</item>
+    </string-array>
+
+	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Intentionally left empty -->
+	    <item/> <!-- Intentionally left empty -->
+	    <item>மற்றும் தேவைப்பட்டால் ஒரு குறிப்பிட்ட தேதியிலிருந்து துண்டி</item>
+    </string-array>
+	
+	<string-array name="import_mode">
+        <item>அறிக்கைகள் வங்கிகளில் இருந்து இறக்குமதி செய்யப்படும்</item>
+        <item>தரவுகள் பிற பயன்பாட்டுசெயலிகளால் ஏற்றுமதி செய்யப்படும்</item>
+    </string-array>
+
+	<string-array name="import_mode_description">
+        <item>பல்வேறு நிதி நிறுவனங்களில் இருந்து பதிவிறக்க அறிக்கைகள் பயன்படுத்தப்படும்,அமெரிக்கன் எக்ஸ்பிரஸின் மாத இறுதி அறிக்கையை போல.<b>QIF</b> மேலும்<b>OFX/QFX/OFS</b> இரண்டு உருவமைப்புகள் ஆதரவளிக்கும். இறக்குமதி கோப்பு(களி)ல் கணக்குகளுக்கு இடையிலான பரிமாற்றங்கள் அடங்கியிருக்காது</item>
+        <item>மற்றொரு தனிப்பட்ட நிதி பயன்பாட்டு செயலியிலிருந்து தரவு பரிமாற்றத்திற்காக உபயோகப்படுவது, உதாரணமாக Microsoft® Money அல்லது Quicken®.<b>QIF</b> வடிவமைப்பு மட்டுமே ஆதரிக்கும்</item>
+    </string-array>
+
+	<string-array name="book_export_file_type_description">
+        <item>நீங்கள் உபயோகிக்கும் வகைபாடுகள் மற்றும் வகையாக்கத்தை சார்ந்து, Microsoft® Money ஆல் மட்டுமே படிக்கத்தக்கதாக இருக்கலாம்</item>
+        <item>QIF வடிவமைப்பை ஆதரிக்கும் எல்லா செயலிகளாலும் படிக்கக்கூடியது</item>
+        <item>வரிதாள் செயலிகளால் படிக்கத்தக்கது, உதாரணமாக Microsoft® Excel அல்லது Google™ Docs போன்றவை. வரிதாளின் முதல் கிடைவரி நெடுவரிசை தலைப்புகளை கொண்டிருக்கும், பின்தொடரும் கிடைவரி ஒவ்வொன்றும் ஒரு பரிவர்த்தனையை  பெற்றிருக்கும்.  ஒவ்வொரு பிளவும் தனக்கென கிடைவரியை பெற்றிருக்கும்</item>
+    </string-array>
+
+    <string name="import_file_confirm_format">^1 ஐ இறக்குமதியை நீங்கள் விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string-array name="import_files_confirm_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 ன் கோப்புகளை இறக்குமதி செய்ய நீங்கள் விரும்புகிறீர்களா</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item/> <!-- Not used -->
+    </string-array>
+
+    <string name="general">பொதுவானது</string>
+    <string name="starting_screen">தொடக்கத் திரை</string>
+    <string name="negative_amount_format">எதிர்மறை தொகை வடிவமைப்பு</string>
+    
+    <string name="show_currency_symbol">நாணயத்தின் குறியீடை காட்டு</string>
+	<string-array name="show_currency_symbol_items">
+		<item>நாணயத்தின் படி</item>
+		<item>தொகைக்கு முன்னால்</item>
+		<item>தொகைக்கு பின்னால்</item>
+	</string-array>
+	
+    <string name="base_currency">அடிப்படை நாணயம்</string>
+    <string name="space_between_symbol_and_amount">குறியீட்டிற்கும் தொகைக்கும் இடையே சிறு இடைவெளி</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+    
+    <string name="password_time_out_period">கடவுச்சொல் நேர முடிவு காலம்</string>
+	<string-array name="n_seconds_format_plurals">
+        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+        <item>^1 வினாடிகள்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="n_minutes_format_plurals">
+        <item>^1 நிமிடம்</item>
+        <item>^1 நிமிடங்கள்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    
+    <string name="set_button_behavior_format">^1 விசையின் நடத்தை</string>
+	<string-array name="set_button_behavior_items">
+		<item>தற்பொழுது காட்டப்படும் எண் ஐ அமைக்கவும்</item>
+		<item>கணக்கீட்டை முடித்து கிடைக்கும் விடையை அமைக்கவும்</item>
+	</string-array>
+
+    <string name="confirmations_and_warnings">உறுதி செய்தல் &amp; எச்சரிக்கைகள்</string>
+
+    <string name="warn_if_no_category">எச்சரிக்கவும், வகைபாடு இல்லையென்றால்</string>
+    <string name="warn_if_no_category_description">இது தேர்வானால், வகைபாடு குறிப்பிடப்படாதபோது ஒரு எச்சரிக்கை காட்சியளிக்கும்</string>
+    
+    <string name="warn_if_incorrect_category_type">எச்சரிக்கவும், தவறான வகைபாடு எனில்.</string>
+    <string name="warn_if_incorrect_category_type_description">இது தேர்வானால், தவறான வகைபாடு குறிப்பிடப்பட்டால் ஒரு எச்சரிக்கை காட்சியளிக்கும்</string>
+    
+    <string name="modification_confirmation">மாற்றமைப்பு உறுதி செய்தல்</string>
+	<string-array name="modification_confirmation_items">
+		<item>எதுவுமில்லை</item>
+		<item>சமரசமானது மட்டும்</item>
+		<item>எல்லாம்</item>
+	</string-array>
+	
+    <string name="back_press_prompt">பின் செல் நினைவூட்டி</string>
+    <string name="back_press_prompt_description">இது தேர்வானால், பின் செல் விசையை தொடும்போது சேமிப்பதற்கான நினைவூட்டு கேள்வி காட்சியாகும்</string>
+    
+    <string name="new_payee_confirmation">புதிய பணம் பெறுபவர் உறுதி செய்தல்</string>
+    <string name="new_payee_confirmation_description">இது தேர்வானால், புதிய பணம் பெறுபவர் உறுவாக்கத்தின்போது ஒரு உறுதி செய்தல் காட்சியாகும்</string>
+    
+    <string name="duplicate_check_number">மறுநகல் காசோலை எண்</string>
+    <string name="duplicate_check_number_description">இது தேர்வானால், காசோலை எண் ஏற்கனவே உபயோகப்படுத்தியிருந்தால் ஒரு எச்சரிக்கை காட்சியாகும்</string>
+    
+    <string name="field_with_initial_focus">ஆரம்ப உபயோகத் தளம்</string>
+    
+    <string name="show_keyboard_automatically">விசைப்பலகையை தானாக காட்டு</string>
+	<string name="show_keyboard_automatically_description">இது தேர்வானால், புதிய பரிவர்த்தனையின்போது விசைப்பலகை மேல் மீட்பாக தெரியும்</string>
+	    
+    <string name="notes_in_transaction_window">பரிவர்த்தனை சாளரத்தில் குறிப்புகள்</string>
+    <string name="notes_in_transaction_window_description">இது தேர்வானால், ஒரு ஒற்றைவரி குறிப்பு திருத்தம் பரிவர்த்தனை சாளரத்தில் தெரியும்</string>
+    
+    <string name="new_category_in_transaction_window">பரிவர்த்தனை சாளரத்தில் புதிய வகைபாடு</string>
+    <string name="new_category_in_transaction_window_description">இது தேர்வானால், ஒரு புதிய வகைபாடு பரிவர்த்தனை சாளரத்தினுள் உருவாக்கப்படும்</string>
+    
+    <string name="hide_labels">அடையாளங்களை மறைத்தல்</string>
+    <string name="hide_labels_description">இது தேர்வானால், பரிவர்த்தனை சாளரத்தின் அதிக இடத்திற்காக அதன் அடையாளங்கள் மறைக்கப்படும்</string>
+    
+    <string name="security">பாதுகாப்பு</string>
+    
+    <string name="quick_entry_password">வேகமான நுழைவுக் கடவுச்சொல்</string>
+    <string name="quick_entry_password_description">இது தேர்வானால், வேகமான நுழைவு நிரல் பலகை கடவுச்சொல்லை கேட்கும், ஏதேனும் இருந்தால்</string>
+    
+    <string name="backup_folder">காப்புநகல் கோப்புறை</string>
+    
+    <string name="date_in_file_name">கோப்புப் பெயரில் தேதி</string>
+    <string name="date_in_file_name_description">இது தேர்வானால், கோப்புகளை அனுப்பும்போது இன்றைய தேதி கோப்புப் பெயரோடு சேர்க்கப்படும்</string>
+    
+    <string name="automatic_backup">தானியங்கி காப்புநகல்</string>
+    <string name="automatic_backup_description">இது தேர்வானால், இந்த புத்தகம் தானாகவே காப்புநகல் எடுக்கப்பட்டுவிடும்</string>
+    
+    <string name="backup_how_often">காப்புநகல் எப்பொழுதெல்லாம்</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    
+    <string name="auto_backup_notify_description">இது தேர்வானால், காப்புநகல் செயலுக்குப் பிறகு ஒரு அறிவிப்பு காட்சியாகும்</string>
+    
+	<string name="backed_up_book_format">^1 காப்புநகலானது</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 புத்தகங்கள் காப்புநகலானது</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="book_exported_format_plurals">
+        <item>^1 ன் பரிவர்த்தனை ஏற்றுமதியானது</item>
+        <item>^1 ன் பரிவர்த்தனைகள் ஏற்றுமதியானது</item>
+        <item/> <!-- Not used -->
+    </string-array>
+
+	<string name="failed_to_back_up_book">புத்தகம் காப்புநகலெடுப்பது தோல்வியடைந்தது</string>
+	<string name="no_space_left_on_sd_card">பதிவு அட்டையில் போதிய இடவசதி இல்லை</string>
+	<string name="cannot_restore_newer_version">காப்புநகலை மீட்டமைக்க இயலாது ஏனெனில் அது ^1 ன் புதிய பதிப்பின் மூலம் உருவாக்கப்பட்டது.\n\nதயவுசெய்து ^1 ன் புதிய பதிப்பை உள்ளிடவும் பிறகு முயற்சி செய்யவும்</string>
+		
+	<string name="file">கோப்பு</string>	
+	<string name="folder">கோப்புறை</string>	
+	<string name="external_storage">வெளி சேமிப்பு</string>	
+	<string name="path">பாதை</string>	
+
+    <string name="qif_csv_date_order">QIF/CSV நாள் வரிசை</string>
+
+	<string name="comma">உறுப்பிசைக்குறி</string>	
+    <string name="qif_csv_decimal_mark">QIF/CSV தசம குறி</string>
+	<string-array name="qif_csv_decimal_marks">
+        <item>தசம புள்ளி</item>
+        <item>@string/comma</item>
+    </string-array>
+
+    <string name="csv_delimiter">CSV வரம்புக்குறி</string>
+	<string-array name="csv_delimiters">
+        <item>@string/comma</item>
+        <item>அரைப்புள்ளி</item>
+    </string-array>
+
+	<string name="qif_csv_encoding">QIF/CSV குறியேற்றம்</string>
+    <string name="ofx_qfx_encoding">OFX/QFX/OFS குறியேற்றம்</string>
+	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK (சீன தேசிய தரப்படுத்தப்பட்டது)</item>
+        <item>சிரிலிக் (வின்டோஸ்)</item>
+        <item>மேற்கு ஐரோப்பா (வின்டோஸ்)</item>
+        <item>மத்திய ஐரோப்பா (வின்டோஸ்)</item>
+        <item>UTF-16BE (ஒற்றை குறியீடு)</item>
+        <item>UTF-16LE (ஒற்றை குறியீடு)</item>
+	</string-array>
+
+    <string name="maintain_entries">பதிவுகளை பராமரிக்கவும்</string>
+    <string name="maintain_number_field_entries">எண் கள பதிவுகளை பராமரிக்கவும்</string>
+    <string name="maintain_number_field_entries_description">இனிமேல் பயன்படுத்தப்படும் எண் கள பதிவுகளை அழிக்க உங்களை அனுமதிக்கும்</string>
+
+    <string name="delete_entry_warning_format">^1 பதிவு அழிக்கப்பட்டுவிடும்</string>
+    <string-array name="delete_entries_warning_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 பதிவுகள் அழிக்கப்பட்டுவிடும்</item>
+        <item/> <!-- Not used -->
+    </string-array>
+</resources>

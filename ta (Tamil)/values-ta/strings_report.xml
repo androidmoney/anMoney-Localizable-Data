@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="report">அறிக்கை</string>
+    <string name="report">அறிக்கை</string>
     <string name="reports">அறிக்கைகள்</string>
 	<string name="view_report">அறிக்கையை பார்க்க</string>
 	<string name="view_reports">அறிக்கைகளை பார்க்க</string>
@@ -12,7 +12,7 @@
 	<string name="custom_dates">விருப்பிற்கேற்ற நாட்கள்</string>
 	<string name="other">மற்றவை</string>
 	<string name="report_empty">காட்சிப்படுத்த இங்கே எந்த தரவும் இல்லை</string>
-    <string name="report_settings_instructions_format">அறிக்கை அமைப்புகளை மாற்ற, திரையின் மேலே இருக்கும் ^i ஐ தட்டவும்</string> <!-- ^1 will be replaced by an image -->
+    <string name="report_settings_instructions_format">அறிக்கை அமைப்புகளை மாற்ற, திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^1 will be replaced by an image -->
 	<string name="reset_report_settings">அமைப்புகள் அதன் இயல்பிருப்பு நிலைக்கு மீட்டமைக்கப்படும்</string>
 	<string name="settings_reset">அமைப்புகளை மீட்டமைக்க</string>
 	<string name="reset_canceled">மீட்டமைப்பு இரத்து செய்யப்பட்டது</string>
@@ -58,7 +58,7 @@
 <!-- New --> <item>Tabloid</item>
 	</string-array>
 
-	<string name="page_orientation">பக்க திசைப்போக்கு</string>
+	<string name="page_orientation">பக்க வடிவமைப்பு</string>
 	<string name="portrait">நீளவாக்கு வடிவம்</string>
 	<string name="landscape">அகலவாக்கு வடிவம்</string>
 

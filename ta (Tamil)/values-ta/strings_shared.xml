@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources>    
     <string name="two_part_format_normal_width">^1 ^2</string>
     <string name="two_part_format_full_width">^1 ^2</string>
     <string name="sentence_end_period_format">^1.</string>
@@ -27,12 +27,12 @@
 	<string name="home_screen">முகப்புத்திரை</string>
     <string name="previous">முந்தைய</string>
     <string name="next">அடுத்து</string>
-    <string name="_import">இறக்குமதி செய்</string> <!-- This is a verb -->
+    <string name="_import">இறக்குமதி</string> <!-- This is a verb -->
     <string name="imported">இறக்குமதியானது</string>
     <string name="import_canceled">இறக்குமதி இரத்து செய்யப்பட்டது</string>
-    <string name="export">ஏற்றுமதி செய்</string> <!-- This is a verb -->
+    <string name="export">ஏற்றுமதி</string> <!-- This is a verb -->
     <string name="export_canceled">ஏற்றுமதி இரத்து செய்யப்பட்டது</string>
-	<string name="import_export">இறக்குமதி செய்/ஏற்றுமதி செய்</string>
+	<string name="import_export">இறக்குமதி/ஏற்றுமதி</string>
     <string name="display_options">காட்சிமுறை விருப்பத்தேர்வுகள்</string>
     <string name="add_favorite">விருப்பமானதில் சேர்</string>
     <string name="added_to_favorites">விருப்பமானதில் சேர்க்கப்பட்டது</string>
@@ -47,13 +47,13 @@
     <string name="deleted">அழிக்கப்பட்டது</string>
     <string name="delete_canceled">அழித்தல் இரத்து செய்யப்பட்டது</string>
     <string name="create">உருவாக்கு</string>
-    <string name="created">உருவாக்கு</string>
+    <string name="created">உருவாக்கப்பட்டது</string>
     <string name="create_canceled">உருவாக்கம் இரத்து செய்யப்பட்டது</string>
 	<string name="create_what">என்ன உருவாக்கம்</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="edit">திருத்து</string>
     <string name="edit_canceled">திருத்தம் இரத்து செய்யப்பட்டது</string>
 	<string name="edit_which">எதை திருத்த</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="copy">நகல் எடு</string>
+    <string name="copy">நகல்</string>
     <string name="copied">நகல் எடுக்கப்பட்டது</string>
     <string name="move">நகர்த்து</string> <!-- Move an item -->
     <string name="moved">நகர்த்தப்பட்டது</string>
@@ -67,7 +67,7 @@
     <string name="combine">ஒருங்கிணை</string>
     <string name="combined">ஒருங்கிணைக்கப்பட்டது</string>
     <string name="copy_to_clipboard">பிடிப்புபலகையில் நகலெடு</string>
-    <string name="set">நிருவு</string> <!-- Set a value -->
+    <string name="set">அமை</string> <!-- Set a value -->
 	<string name="share">பகிர்ந்து கொள்</string>
 	<string name="share_canceled">பகிர்வு இரத்து செய்யப்பட்டது</string>
     <string name="create_in_app_name_format">^1 ல் உருவாக்கு</string> <!-- Create in Contacts -->
@@ -86,7 +86,7 @@
     <string name="end_date">முடிவு தேதி</string>
     <string name="must_be_less_than_format">இருக்க வேண்டும் &lt; ^1</string>
     <string name="must_be_greater_than_format">இருக்க வேண்டும் > ^1</string>
-    <string name="reset">மறுநிறுவு</string>
+    <string name="reset">மறுஅமைவு</string>
     <string name="total">மொத்தம்</string>
     <string name="grand_total">ஆக மொத்தம்</string> <!-- Grand total amount -->
     <string name="average">சராசரி</string> <!-- Average amount -->
@@ -95,17 +95,17 @@
     <string name="file_exists">இப்பெயரில் ஒரு கோப்பு ஏற்கனவே உள்ளது</string>
     <string name="folder_exists">இப்பெயரில் ஒரு கோப்புறை ஏற்கனவே உள்ளது</string>
     <string name="choose_another_name">வேறு பெயரை தேர்ந்தெடு</string>
-    <string name="will_be_overwritten">எழுதியதன் மேல் எழுதப்ப்டுவிடும்</string>
+    <string name="will_be_overwritten">எழுதியதன் மேல் எழுதப்பட்டுவிடும்</string>
     <string name="calendar">நாள்காட்டி</string>
     <string name="remind_me">என்னை ஞாபகப்படுத்து</string>
     <string name="add_as_a_contact">ஒரு தொடர்பாக சேர்</string>
-    <string name="to_from_format">^1 ^2</string> <!-- To <account>, இருந்து <account> -->
+    <string name="to_from_format">^1 ^2</string> <!-- To <account>, from <account> -->
     <string name="to">இதற்கு</string> <!-- To <account> -->
     <string name="from">இதிலிருந்து</string> <!-- From <account> -->
 	<string name="send_email">மின்னஞ்சல் அனுப்பு</string>
 	<string name="please_read">தயவுசெய்து படி</string>
-	<string name="rate_app_format">தகுதியிடு ^1</string> <!-- ^1 is app name -->
-	<string name="please_rate_app_format">சிறிதுநேரம்\nதகுதியிடு ^1</string> <!-- ^1 is app name -->
+	<string name="rate_app_format">^1 ஐ தகுதியிடு</string> <!-- ^1 is app name -->
+	<string name="please_rate_app_format">சிறிதுநேரம்\n^1 ஐ தகுதியிடு</string> <!-- ^1 is app name -->
 	<string name="later_rate_description">சுமார் ஒரு வாரத்தில் நீங்கள் நினைவூட்டப்படுவீர்</string>
 	<string name="no_rate_description_format">^1 திரையிலிருந்து எந்த நேரத்திலும் நீங்கள் இதை செய்ய முடியும</string> <!-- ^1 is "Settings" -->
 <!-- New --> <string name="task_killer_warning_format">பயன்பாட்டுச்செயலிகளின் பணி முடக்கியை பற்றிய எச்சரிக்கை apps:\n\nஉங்கள் சாதனம் தானியங்கு செயல்முறைக்காக ஒரு நாளில் ஒரு முறை எழுந்திரிக்கும். இந்த செயலாக்கம் ஒரு சில விநாடிகள் மட்டுமே நீடிக்கும் என்பதால், இது உங்கள் சாதனத்தின் மின்சக்தியில் எந்த மோசமான பாதிப்பையும் ஏற்படுத்தாது.\n\nமுறையாக செயல்படுத்தபடும் இந்த பின்னனி செயலாக்கத்தை பணி முடக்கிகளால் தடுக்கவோ மேலும் ^1 வுடன் பயன்படுத்தவோ முடியாது</string> <!-- ^1 is app name -->
@@ -125,7 +125,7 @@
 	<string name="collapse_all">எல்லாவற்றையும் சுருக்கு</string>
 	<string name="all_collapsed">எல்லாம் சுருக்கப்பட்டது</string>
     <string name="postal_address">கடிதத்தொடர்பு முகவரி</string>
-    <string name="postal_address_hint">தெரு\nநகரம்\nகடித குறியீட்டெண்</string> <!-- Replace this with locale specific fields -->
+    <string name="postal_address_hint">தெரு\nநகரம்/Suburb மாநிலம் தபால் குறியெண்</string>
     <string name="cannot_perform_sd_card_operation">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது ஏனெனில் உங்கள் சாதனத்தில் குறுசேமிப்பு அட்டைஇல்லை, அல்லது தற்போழுது உங்கள் சாதனம் கணினியோடு இனைக்கப்பட்டிருக்கும்</string>
     <string name="cannot_perform_file_system_operation_format">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது உள் நினைவகப் பாதை (^1) ஐ அணுக இயலாது</string>
     <string name="please_correct_and_try_again">தயவுசெய்து இதை சரிசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்</string>
@@ -142,7 +142,7 @@
 	<li>தொடர்புகளை இணைக்கும் வசதி இல்லை</li>\n
 	<li>அதிகபட்சமாக 2 வங்கி, 1 கடன் மேலும் 1 ரொக்க கணக்கு</li>\n
 	<li>அதிகபட்சமாக 5 திட்டஅறிக்கை உறுப்புகள்</li>\n
-	<li>அதிகபட்சமாக 3 மறுநிகழ் கட்டணசீட்டு அல்லது வைப்புநிதி</li> 
+	<li>அதிகபட்சமாக 3 தொடர் கட்டணசீட்டு அல்லது வைப்புநிதி</li> 
 	</string>
 
 	<string name="no_items">உறுப்புகள் இல்லை</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources>    
     <string name="account">கணக்கு</string>
     <string name="accounts">கணக்குகள்</string>
     <string name="all_accounts">எல்லா கணக்குகளும்</string>
@@ -40,7 +40,7 @@
     <string name="statement_date">அறிக்கை நாள்</string>
     <string name="statement_starting_balance">அறிக்கையின் தொடக்க இருப்பு</string>
     <string name="statement_ending_balance">அறிக்கையின் இறுதி இருப்பு</string>
-    <string name="amount_owed_last_month">கடந்த மாதம் வேண்டிய மொத்த தொகை</string>
+    <string name="amount_owed_last_month">கடந்த மாத கடன் தொகை</string>
     <string name="amount_owed_this_month">இந்த மாதம் வேண்டிய மொத்த தொகை</string>
 	<string name="service_charge_amount">சேவை கட்டணத் தொகை</string> <!-- As in bank service charge -->
     <string name="service_charge_category">சேவை கட்டண வகை</string>
@@ -129,17 +129,17 @@
     <string name="default_savings_account_name">எனது சேமிப்பு கணக்கு</string>
     <string name="default_credit_account_name">எனது கடன்அட்டை கணக்கு</string>
     <string name="color">நிறம்</string>
-    <string name="projected_balance">திட்டமிட்டிருந்தது</string>
-    <string name="projected_balance_at_the_end_of_the_month">திட்டமிட்டிருந்த மாதயிறுதி மீதம்</string>
+    <string name="projected_balance">உத்தேசிக்கப்பட்ட மீதம்</string>
+    <string name="projected_balance_at_the_end_of_the_month">உத்தேசிக்கப்பட்ட மாதயிறுதி மீதம்</string>
     <string name="at_months_end">மாத இறுதியில்</string>
-	<string name="projected_balance_on_the_nth_day_of_the_month_format">^1 ல் திட்டமிட்டிருந்த மீதம்</string> <!-- ^1 is a date -->
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">^1 ல் உத்தேசிக்கப்பட்ட மீதம்</string> <!-- ^1 is a date -->
 	<string name="total_for_format">^1 ல் கூடுதல்</string>  <!-- ^1 is a name -->
 	<string name="total_for_month">மாத கூடுதல்</string>
 	<string name="period">காலம்</string>
 	<string name="total_for_period">காலத்தின் கூடுதல்</string>
 	<string name="total_for_unassigned">ஒதுக்கிவழங்கப்படாத கூடுதல்</string>
-	<string name="make_account_budget_question_part1">இந்த கணக்கை உங்கள் வரவுசெலவுதிட்டதில் ஒரு பகுதியாக்க விருப்பமா</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="make_account_budget_question_part2_format">^1 ஐ தொட்டு, கணக்கை திருத்துவதன் மூலம் பின்னால்கூட இதை நீங்கள் செய்ய முடியும்</string> <!-- Tap is "No" -->
+	<string name="make_account_budget_question_part1">இந்த கணக்கை உங்கள் வரவுசெலவு திட்டதில் ஒரு பகுதியாக்க விருப்பமா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="make_account_budget_question_part2_format">^1 ஐ தொட்டு,கணக்கை திருத்துவதன் மூலம் பின்னால்கூட இதை நீங்கள் செய்ய முடியும்</string> <!-- Tap is "No" -->
 	<string name="show_option_format">^1 ஐ விருப்பத் தேர்வாக காட்டு</string> <!-- This will say "Show the Next Check Number option" -->
 	<string name="show_closed">காட்டுதல் முடிக்கப்பட்டது</string> <!-- As in "show closed accounts" -->
     
@@ -229,7 +229,7 @@
     <string name="show_account_numbers_description">பெயருக்கு கீழே கணக்கு எண்களை காட்டவும், இருந்தால்</string>
 
     <string name="use_abbreviations">சுருக்கங்களை உபயோகி</string>
-    <string name="use_abbreviations_description">கணக்கினுடைய சுருக்கத்தை காட்டவும், instபதிலாக அதன் பெயர், அங்கே இருந்தால்</string>
+    <string name="use_abbreviations_description">கணக்கினுடைய சுருக்கத்தை காட்டவும், பதிலாக அதன் பெயர், அங்கே இருந்தால்</string>
 
     <string name="show_group_totals">தொகுப்பின் கூடுதலை காட்டு</string>
     <string name="show_group_totals_description">ஒவ்வொரு தொகுப்பிற்கான கூடுதலை காட்டு</string>
