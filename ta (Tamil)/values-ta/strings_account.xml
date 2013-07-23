@@ -6,14 +6,13 @@
     <string name="open_accounts">திறந்த கணக்குகள்</string>
     <string name="liability">கடமை</string> <!-- Liability account -->
     <string name="asset">சொத்து</string>  <!-- Aeset account -->
-    <string name="credit_liability_details">கடன் / கடமை விபரங்கள்</string>
 <!-- <string name="associated_loan">Associated loan</string> -->
 <!-- <string name="associated_loan_if_any">ஏதேனும் தொடர்புடைய கடன்</string> -->
 <!-- <string name="associated_reward_program">தொடர்புடைய பரிசு திட்டம்</string> -->
 <!-- <string name="associated_reward_program_if_any">ஏதேனும் தொடர்புடைய பரிசு திட்டம்</string> -->
     <string name="account_balances">கணக்கு கையிருப்புகள்</string>
-    <string name="vehicle_details">வாகன விபரங்கள்</string>
-    <string name="property_details">சொத்து விபரங்கள்</string>
+    <string name="vehicle">வாகனம்</string>
+    <string name="property">சொத்து</string>
     <string name="view_accounts">கணக்குகளை பார்வையிடு</string>
     <string name="new_account">புதிய கணக்கு</string>
     <string name="edit_account">கணக்கை திருத்து</string>
@@ -79,12 +78,7 @@
     <string name="account_has_been_closed">இந்த கணக்கு மூடப்பட்டது</string>
     <string name="acquisition_date">கையகப்படுத்தல் தேதி</string>
     <string name="credit_limit">கடன் வரம்பு</string>
-    <string name="must_pay_balance">நான் ஒவ்வொரு மாதமும் முழு கையிருப்பை செலுத்த வேண்டும் (கடன் அட்டை)</string>
-    <string name="will_pay_balance">நான் ஒவ்வொரு மாதமும் முழு கையிருப்பை செலுத்த நினைக்கிறேன்</string>
     <string name="interest_rate">வட்டி வீதம்</string>
-    <string name="introductory_rate_in_effect">ஒரு அறிமுக விகிதம் நடப்பில் உள்ளது</string>
-    <string name="introductory_rate">அறிமுக விகிதம்</string>
-    <string name="valid_until">வரை செல்லுபடியாகும்</string>
     <string name="minimum_balance">குறைந்தபட்ச இருப்பு</string>
     <string name="date">நாள்</string>
     <string name="make">உருவாக்கு</string>  <!-- Vehicle make -->
@@ -106,7 +100,6 @@
     <string name="reopen_canceled">மறுதிறப்பு இரத்து செய்யப்பட்டது</string>
     <string name="no_financial_institution_assigned">நிதி நிறுவனம் நிருவப்படவில்லை</string>
     <string name="maximum_100">அதிகபட்சம் 100%</string>
-    <string name="must_be_less_than_interest_rate">இருக்க வேண்டும் &lt; வட்டி வீதம்</string>
     <string name="must_be_in_future">எதிர்காலத்தில் இருக்கவேண்டும்</string> <!-- As in "The date supplied must be a future date" -->
     <string name="must_be_in_past">எதிர்காலத்தில் இருக்க வேண்டும்</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">செல்லாத</string>
@@ -206,8 +199,8 @@
 		<item>கடன்</item>
 <!-- 		<item>மற்ற கடமைகள்</item> Loan Loans -->
 		<item>மற்ற கடமைகள்</item>
-		<item>சொத்து</item>
-		<item>வாகனம்</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>மற்ற சொத்து</item>
 		<item>முதலீட்டுரொக்க கணக்கு</item>
 	</string-array>
@@ -219,8 +212,8 @@
 		<item>கடனின் துறை</item>
 		<item>கடன்</item>
 		<item>@string/liability</item>
-		<item>சொத்து</item>
-		<item>வாகனம்</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>முதலீடு</item>
 	</string-array>

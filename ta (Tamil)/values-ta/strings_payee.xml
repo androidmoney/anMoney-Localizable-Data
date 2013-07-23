@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="view_payee">பெறுபவரை பார்க்க</string>
+    <string name="edit_payee">பெறுபவரை திருத்த</string>
+    <string name="new_payee">புதிய பெறுபவர்</string>
+    <string name="call_payee">பெறுபவரை அழைக்க</string>
+    <string name="delete_payee">பெறுபவரை அழிக்க</string>
+    <string name="delete_payee_warning_format">பெறுபவர் ^1 நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>
+    <string name="delete_from_app_format">^1 இருந்து கூட அழிக்கப்படும்</string> <!-- ^1 is replaced by the name of the Contacts app -->
+    <string name="add_payee_as_a_contact">பெறுபவரை தொடர்பாக சேர்க்க</string>
+    <string name="payee">பெறுபவர்</string>
+    <string name="payer">செலுத்துபவர்</string>
+    <string name="payees">பெறுபவர்கள்</string>
+    <string name="payee_required">பெறுபவர் தேவை</string>
+    <string name="payer_required">செலுத்துபவர் தேவை</string>
+    <string name="call">அழை</string>
+    <string name="map_address">வரைபட முகவரி</string> <!-- Show the address on the map -->
+    <string name="no_payees">நீங்கள் எந்த பெறுபவர்களையும் பெற்றிருக்கவில்லை</string>
+    <string name="create_payee_instructions_format">பெறுபவரை உருவாக்க, திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^1 will be replaced by an image -->
+    <string name="payee_transaction_list_empty">நீங்கள் இந்த பெறுபவரில் பரிவர்த்தனைகள் எதையும் பெற்றிருக்கவில்லை</string>
+    <string name="payee_exists">இந்த பெயரில் ஏற்கனவே ஒரு பெறுபவர் இருக்கிறார்</string>
+    <string name="combine_payees">இரண்டு பெறுபவர்களையும் ஒருங்கிணைக்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="payee_name">பெறுபவர் பெயர்</string>
+    <string name="link_payee">இந்த பெறுபவரை இருக்கும் தொடர்புடன் இணைக்க நீங்கள் விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="account_number">கணக்கு எண்</string>
+    <string name="phone">தொலைபேசி</string>
+    <string name="phone_number">தொலைபேசி எண்</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="email_address">மின்னஞ்சல் முகவரி</string>
+    <string name="url">URL</string>
+    <string name="web_address">இணைய முகவரி</string>
+    <string name="select_account">கணக்கு தேர்வு</string>
+    <string name="open_web_page">இணைய பக்கத்தை திற</string>
+    <string name="view_payees">பெறுபவர்களை பார்க்க</string>
+    <string name="default_payee_name">எனது பெறுபவர்</string>
+	<string name="spending_by_payee">பெறுபவர் வழியாக செலவிடுதல்</string>
+    <string name="all_payees_hidden_by_filter">எல்லா பெறுபவர்களும் காட்சி வடிகட்டியால் மறைக்கப்பட்டுள்ளனர்</string>
+        
+    <string name="without_payee">பெறுபவர் இல்லாமல்</string>
+    <string name="no_payees_yet">பெறுபவர்கள் இன்னும் இல்லை</string>
+	<string-array name="payee_count_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 பெறுபவர்கள்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+    <string name="all_payees">எல்லா பெறுபவர்கள்</string>
+	<string name="payees_in_open_accounts">திறந்த கணக்கில் இருக்கும் பெறுபவர்கள்</string>
+	<string name="payees_in_closed_accounts_only">மூடிய கணக்கில் இருக்கும் பெறுபவர்கள் மட்டும்</string>
+	<string name="unused_payees">உபயோகப்படுத்தாத பெறுபவர்கள்</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

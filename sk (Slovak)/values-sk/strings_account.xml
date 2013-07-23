@@ -6,14 +6,13 @@
     <string name="open_accounts">Otvorené účty</string>
     <string name="liability">Záväzok</string>
     <string name="asset">Pohľadávka</string>
-    <string name="credit_liability_details">Detaily pohľadávok / záväzkov</string>
 <!-- <string name="associated_loan">Související úvěr</string> -->
 <!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
 <!-- <string name="associated_reward_program">Associated reward program</string> -->
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
     <string name="account_balances">Účtovné zostatky</string>
-    <string name="vehicle_details">Podrobnosti dopravného prostriedku</string>
-    <string name="property_details">Detaily o majetku</string>
+    <string name="vehicle">Dopravný prostriedok</string>
+    <string name="property">Majetok</string>
     <string name="view_accounts">Zobraziť účty</string>
     <string name="new_account">Nový účet</string>
     <string name="edit_account">Upraviť účet</string>
@@ -79,12 +78,7 @@
     <string name="account_has_been_closed">Tento účet je už uzavretý</string>
     <string name="acquisition_date">Dátum zriadenia</string>
     <string name="credit_limit">Úverový limit</string>
-    <string name="must_pay_balance">Musím každý mesiac vyrovnať celú vyčerpanú čiastku (Charge karta)</string>
-    <string name="will_pay_balance">Chcel by som každý mesiac vyrovnať celú vyčerpanú čiastku</string>
     <string name="interest_rate">Úroková sadzba</string>
-    <string name="introductory_rate_in_effect">Platí úvodná úroková sadzba</string>
-    <string name="introductory_rate">Úvodná sazba</string>
-    <string name="valid_until">Platí do</string>
     <string name="minimum_balance">Minimálny zostatok</string>
     <string name="date">Dátum</string>
     <string name="make">Vyrobená</string>
@@ -106,7 +100,6 @@
     <string name="reopen_canceled">Otvorenie zrušené</string>
     <string name="no_financial_institution_assigned">Nieje priradená žiadna finančná inštitúcia</string>
     <string name="maximum_100">Maximum 100%</string>
-    <string name="must_be_less_than_interest_rate">Musí byť &lt; úroková sadzba</string>
     <string name="must_be_in_future">Musí to byť budúcí dátum</string> <!-- As in "The date supplied must be a future date" -->
     <string name="must_be_in_past">Musí to byť v minulosti</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">Chybný rok</string>
@@ -206,8 +199,8 @@
 		<item>Pôžička</item>
 <!-- 		<item>Other liability</item> Loan Loans -->
 		<item>Iné pasivum</item>
-		<item>Majetok</item>
-		<item>Dopravný prostriedok</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>Iné aktivum</item>
 		<item>Investičný účet</item>
 	</string-array>
@@ -219,8 +212,8 @@
 		<item>Úverová linka</item>
 		<item>Pôžička</item>
 		<item>@string/liability</item>
-		<item>Majetok</item>
-		<item>Dopravný prostriedok</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>Investície</item>
 	</string-array>

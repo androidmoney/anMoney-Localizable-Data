@@ -6,14 +6,13 @@
     <string name="open_accounts">開放帳戶</string>
     <string name="liability">負債</string>
     <string name="asset">資產</string>
-    <string name="credit_liability_details">信貸/負債明細</string>
 <!-- <string name="associated_loan">Associated loan</string> -->
 <!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
 <!-- <string name="associated_reward_program">Associated reward program</string> -->
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
     <string name="account_balances">帳戶餘額</string>
-    <string name="vehicle_details">載具明細</string>
-    <string name="property_details">物業明細</string>
+    <string name="vehicle">機動車輛</string>
+    <string name="property">物業</string>
     <string name="view_accounts">查看帳戶</string>
     <string name="new_account">新增帳戶</string>
     <string name="edit_account">編輯帳戶</string>
@@ -79,12 +78,7 @@
     <string name="account_has_been_closed">該帳戶已被關閉</string>
     <string name="acquisition_date">取得日期</string>
     <string name="credit_limit">信用額度</string>
-    <string name="must_pay_balance">我必須每月支付全部結帳金額 （簽帳卡）</string>
-    <string name="will_pay_balance">我預計每月支付全部結帳金額</string>
     <string name="interest_rate">利率</string>
-    <string name="introductory_rate_in_effect">初期利率生效中</string>
-    <string name="introductory_rate">初期利率</string>
-    <string name="valid_until">有效期至</string>
     <string name="minimum_balance">最小餘額</string>
     <string name="date">日期</string>
     <string name="make">製造</string>  <!-- Vehicle make -->
@@ -106,7 +100,6 @@
     <string name="reopen_canceled">重新開放已取消</string>
     <string name="no_financial_institution_assigned">未指定金融機構</string>
     <string name="maximum_100">最高　100%</string>
-    <string name="must_be_less_than_interest_rate">必須是　&lt;　利率</string>
     <string name="must_be_in_future">必須是未來</string> <!-- As in "The date supplied must be a future date" -->
     <string name="must_be_in_past">必須是過去</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">無效</string>
@@ -206,8 +199,8 @@
 		<item>貸款</item>
 <!-- 		<item>Other liability</item> Loan Loans -->
 		<item>其他債務</item>
-		<item>物業</item>
-		<item>機動車輛</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>其他資產</item>
 		<item>現金投資</item>
 	</string-array>
@@ -219,8 +212,8 @@
 		<item>信貸額度</item>
 		<item>貸款</item>
 		<item>@string/liability</item>
-		<item>物業</item>
-		<item>機動車輛</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>投資</item>
 	</string-array>

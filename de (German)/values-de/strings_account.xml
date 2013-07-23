@@ -6,14 +6,12 @@
 	<string name="open_accounts">Offene Konten</string>
     <string name="liability">Verbindlichkeit</string>
     <string name="asset">Guthaben</string>
-	<string name="credit_liability_details">Guthaben / Verbindlichkeiten-Details</string>
 <!-- <string name="associated_loan">Der zugehöriger Kredit</string> -->
 <!-- <string name="associated_loan_if_any">Dazugehöriger Kredit, wenn vorhanden</string> -->
 <!-- <string name="associated_reward_program">Das zugehöriges Vergütungsprogramm</string> -->
 <!-- <string name="associated_reward_program_if_any">Dazugehöriges Vergütungsprogramm, wenn vorhanden</string> -->
-    <string name="account_balances">Kontensalden</string>
-    <string name="vehicle_details">Fahrzeug-Details</string>
-	<string name="property_details">Immobilien-Details</string>
+    <string name="vehicle">KfZ</string>
+    <string name="property">Grund und Boden</string>
 	<string name="view_accounts">Konten ansehen</string>
 	<string name="new_account">Neues Konto</string>
 	<string name="edit_account">Konto ändern</string>
@@ -74,21 +72,14 @@
 	<string name="abbreviation">Abkürzung</string>
 	<string name="abbr">Abk</string>
 	<string name="type">Typ</string>
-
 	<string name="favorite_account">Favoriten-Konto</string>
 	<string name="favorite_accounts">Favoriten-Konten</string>
 	<string name="account_has_been_closed">Dieses Konto wurde geschlossen</string>
 	<string name="acquisition_date">Datum des Abschlusses</string>
 	<string name="credit_limit">Kredit-Limit</string>
-	<string name="must_pay_balance">Ich zahle den gesamten Saldo monatlich (Karte belasten)</string>
-	<string name="will_pay_balance">Ich beabsichtige, den gesamten Saldo monatlich zu zahlen</string>
 	<string name="interest_rate">Zinssatz</string>
-	<string name="introductory_rate_in_effect">Es ist eine Anfangs-Rate vorhanden</string>
-	<string name="introductory_rate">Anfangs-Rate</string>
-	<string name="valid_until">Gültig bis</string>
 	<string name="minimum_balance">Minimal-Saldo</string>
 	<string name="date">Datum</string>
-
 	<string name="make">Marke</string>
 	<string name="vehicle_make">Automarke</string>
 	<string name="year">Jahr</string>
@@ -108,7 +99,6 @@
 	<string name="reopen_canceled">Wiedereröffnung abgebrochen</string>
 	<string name="no_financial_institution_assigned">Kein Finanzinstitut zugewiesen</string>
 	<string name="maximum_100">Maximal 100%</string>
-	<string name="must_be_less_than_interest_rate">Muss &lt; Zissatz sein</string>
 	<string name="must_be_in_future">Muss in der Zukunft liegen</string>
 	<string name="must_be_in_past">Muss in der Vergangenheit liegen</string>
 	<string name="invalid_year">Ungültig</string>
@@ -208,8 +198,8 @@
 		<item>Bankkredit</item>
 		<!-- 		<item>Other liability</item> Loan Loans -->
 		<item>Andere Verbindlichkeit</item>
-		<item>Grund und Boden</item>
-		<item>KfZ</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>Andere Guthaben</item>
 		<item>Investitionen</item>
 	</string-array>
@@ -221,8 +211,8 @@
 		<item>Kreditlinie</item>
 		<item>Kredit</item>
 		<item>@string/liability</item>
-		<item>Grund und Boden</item>
-		<item>KfZ</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>Investition</item>
 	</string-array>

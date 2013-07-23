@@ -6,14 +6,13 @@
 	<string name="open_accounts">Comptes ouverts</string>
     <string name="liability">Passif</string>
     <string name="asset">Actif</string>
-	<string name="credit_liability_details">Détails des crédits / dettes</string>
 <!-- <string name="associated_loan">Prêts associés</string> -->
 <!-- <string name="associated_loan_if_any">Prêt associé, le cas échéant</string> -->
 <!-- <string name="associated_reward_program">Programmes de récompense associés</string> -->
 <!-- <string name="associated_reward_program_if_any">Programme de gain associé, le cas échéant</string> -->
     <string name="account_balances">Soldes des comptes</string>
-    <string name="vehicle_details">Détails du véhicule</string>
-	<string name="property_details">Détails de la propriété</string>
+    <string name="vehicle">Véhicule</string>
+    <string name="property">Propriété</string>
 	<string name="view_accounts">Voir les comptes</string>
 	<string name="new_account">Nouveau compte</string>
 	<string name="edit_account">Modifier compte</string>
@@ -79,12 +78,7 @@
 	<string name="account_has_been_closed">Ce compte a été fermé</string>
 	<string name="acquisition_date">Date d’achat</string>
 	<string name="credit_limit">Plafond de crédit</string>
-	<string name="must_pay_balance">Je dois payer l’intégralité du solde chaque mois (carte de paiement)</string>
-	<string name="will_pay_balance">J’ai l’intention de payer l’intégralité du solde chaque mois</string>
 	<string name="interest_rate">Taux d’intérêt</string>
-	<string name="introductory_rate_in_effect">Un taux de lancement s’applique</string>
-	<string name="introductory_rate">Taux de lancement</string>
-	<string name="valid_until">Valable jusqu’au</string>
 	<string name="minimum_balance">Solde minimum</string>
 	<string name="date">Date</string>
 	<string name="make">Marque</string>
@@ -106,7 +100,6 @@
 	<string name="reopen_canceled">Ré-ouverture annulée</string>
 	<string name="no_financial_institution_assigned">Aucun établissement financier assigné</string>
 	<string name="maximum_100">Maximum 100%</string>
-	<string name="must_be_less_than_interest_rate">Doit être &lt; au taux d’intérêt</string>
 	<string name="must_be_in_future">Doit être postérieure</string>
 	<string name="must_be_in_past">Doit être antérieure</string>
 	<string name="invalid_year">Année invalide</string>
@@ -206,8 +199,8 @@
 		<item>Prêt</item>
 		<!-- 		<item>Autres remboursements</item> Prêt Prêts -->
 		<item>Autre passif</item>
-		<item>Propriété</item>
-		<item>Véhicule</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>Autre actif</item>
 		<item>Compte de placement</item>
 	</string-array>
@@ -219,8 +212,8 @@
 		<item>Ligne de crédit</item>
 		<item>Prêt</item>
 		<item>@string/liability</item>
-		<item>Propriété</item>
-		<item>Véhicule</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>Placement</item>
 	</string-array>

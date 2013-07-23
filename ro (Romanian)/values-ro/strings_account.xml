@@ -6,14 +6,13 @@
     <string name="open_accounts">Deschide conturi</string>
     <string name="liability">Responsabilitate</string>
     <string name="asset">Bunuri</string>
-    <string name="credit_liability_details">Detalii Credit / Responsabilitate</string>
 <!-- <string name="associated_loan">Associated loan</string> -->
 <!-- <string name="associated_loan_if_any">Împrumut asociat, dacă există</string> -->
 <!-- <string name="associated_reward_program">Program de recompensare asociat</string> -->
 <!-- <string name="associated_reward_program_if_any"> Program de recompensare asociat, dacă există</string> -->
     <string name="account_balances">Balanţe cont</string>
-    <string name="vehicle_details">Detalii vehicul</string>
-    <string name="property_details">Detalii proprietate</string>
+    <string name="vehicle">Vehicul</string>
+    <string name="property">Proprietate</string>
     <string name="view_accounts">Vizualizează conturi</string>
     <string name="new_account">Cont nou</string>
     <string name="edit_account">Editează cont</string>
@@ -79,12 +78,7 @@
     <string name="account_has_been_closed">Acest cont a fost închis</string>
     <string name="acquisition_date">Data achiziţiei</string>
     <string name="credit_limit">Limita de credit</string>
-    <string name="must_pay_balance">Trebuie să plătesc întreaga balanţă în fiecare lună (Card plată)</string>
-    <string name="will_pay_balance">Intenționez să plătesc întreaga balanţă în fiecare lună</string>
     <string name="interest_rate">Rata dobânzii</string>
-    <string name="introductory_rate_in_effect">Există o rată iniţială în efect</string>
-    <string name="introductory_rate">Rata iniţială</string>
-    <string name="valid_until">Valid până la</string>
     <string name="minimum_balance">Balanţa minimă</string>
     <string name="date">Data</string>
     <string name="make">Fabricat</string>
@@ -106,7 +100,6 @@
     <string name="reopen_canceled">Redeschidere anulată</string>
     <string name="no_financial_institution_assigned">Nicio instituţie financiară desemnată</string>
     <string name="maximum_100">Maxim 100%</string>
-    <string name="must_be_less_than_interest_rate">Trebuie să fie &lt; rata dobînzii</string>
     <string name="must_be_in_future">Trebuie să fie în viitor</string> <!-- As in "The date supplied must be a future date" -->
     <string name="must_be_in_past">Trebuie să fie în trecut</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">Invalid</string>
@@ -206,8 +199,8 @@
 		<item>Împrumut</item>
 <!-- 		<item>Alte responsabilitate</item> Loan Loans -->
 		<item>Alte responsabilitate</item>
-		<item>Proprietate</item>
-		<item>Vehicul</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>Alte bunuri</item>
 		<item>Cont investiţii cash</item>
 	</string-array>
@@ -219,8 +212,8 @@
 		<item>Linie de credit</item>
 		<item>Împrumut</item>
 		<item>@string/liability</item>
-		<item>Proprietate</item>
-		<item>Vehicul</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>Investiţie</item>
 	</string-array>

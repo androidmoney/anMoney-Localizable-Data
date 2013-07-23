@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ok">சரி</string>
+    <string name="cancel">இரத்து</string>
+    <string name="action_mode_done">முடிந்தது</string>
+    <string name="hour_ampm">"<xliff:g id="hour" example="3">%-l</xliff:g><xliff:g id="ampm" example="pm">%P</xliff:g>"</string>
+    <string name="hour_cap_ampm">"<xliff:g id="hour" example="3">%-l</xliff:g><xliff:g id="ampm" example="PM">%p</xliff:g>"</string>
+    <string name="noon">நண்பகல்</string>
+    <string name="Noon">@string/noon</string>
+    <string name="midnight">நள்ளிரவு</string>
+    <string name="Midnight">@string/midnight</string>
+</resources>

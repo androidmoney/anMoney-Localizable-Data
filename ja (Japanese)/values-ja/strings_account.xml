@@ -6,14 +6,13 @@
     <string name="open_accounts">口座開設</string>
     <string name="liability">責任</string> <!-- Liability account -->
     <string name="asset">資産</string>  <!-- Aeset account -->
-    <string name="credit_liability_details">クレジット/負債の詳細</string>
 <!-- <string name="associated_loan">Associated loan</string> -->
 <!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
 <!-- <string name="associated_reward_program">Associated reward program</string> -->
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
     <string name="account_balances">口座残高</string>
-    <string name="vehicle_details">自動車詳細</string>
-    <string name="property_details">プロパティー詳細</string>
+    <string name="vehicle">自動車</string>
+    <string name="property">プロパティー</string>
     <string name="view_accounts">口座を表示</string>
     <string name="new_account">新しい口座</string>
     <string name="edit_account">口座を編集する</string>
@@ -79,12 +78,7 @@
     <string name="account_has_been_closed">この口座は閉鎖されました</string>
     <string name="acquisition_date">取得日</string>
     <string name="credit_limit">クレジット上限</string>
-    <string name="must_pay_balance">私は毎月残高全体を支払う必要があります（チャージカード）</string>
-    <string name="will_pay_balance">私は毎月残高全体を支払うつもりです</string>
     <string name="interest_rate">金利</string>
-    <string name="introductory_rate_in_effect">実際の当初金利があります</string>
-    <string name="introductory_rate">当初金利</string>
-    <string name="valid_until">まで有効</string>
     <string name="minimum_balance">最低限残高</string>
     <string name="date">日付</string>
     <string name="make">作る</string>  <!-- Vehicle make -->
@@ -106,7 +100,6 @@
     <string name="reopen_canceled">再開は取消されました</string>
     <string name="no_financial_institution_assigned">金融機関が割り当てられていません</string>
     <string name="maximum_100">最大100％</string>
-    <string name="must_be_less_than_interest_rate">金利未満でなければなりません</string>
     <string name="must_be_in_future">未来でなければなりません</string> <!-- As in "The date supplied must be a future date" -->
     <string name="must_be_in_past">過去でなければなりません</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">無効</string>
@@ -206,8 +199,8 @@
 	    <item>ローン</item>
 <!-- 		<item>Other liability</item> Loan Loans -->
 	    <item>その他の負債</item>
-	    <item>プロパティー</item>
-	    <item>自動車</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 	    <item>その他の資産</item>
 	    <item>投資現金口座</item>
 	</string-array>
@@ -219,8 +212,8 @@
 	    <item>クレジットの線</item>
 	    <item>ローン</item>
 	    <item>@string/liability</item>
-	    <item>プロパティー</item>
-	    <item>自動車</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 	    <item>@string/asset</item>
 	    <item>投資</item>
 	</string-array>

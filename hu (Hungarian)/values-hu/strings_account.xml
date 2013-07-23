@@ -6,14 +6,13 @@
     <string name="open_accounts">Nyitott számlák</string>
     <string name="liability">Kötelezettség</string>
     <string name="asset">Vagyontárgy</string>
-    <string name="credit_liability_details">Hitel / Kötelezettség részletei</string>
 <!-- <string name="associated_loan">Associated loan</string> -->
 <!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
 <!-- <string name="associated_reward_program">Associated reward program</string> -->
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
     <string name="account_balances">Számlaegyenlegek</string>
-    <string name="vehicle_details">Jármű adatai</string>
-    <string name="property_details">Ingatlan adatai</string>
+   	<string name="vehicle">Jármű</string>
+    <string name="property">Ingatlan</string>
     <string name="view_accounts">Számlák megtekintése</string>
     <string name="new_account">Új számla</string>
     <string name="edit_account">Számla módosítása</string>
@@ -79,12 +78,7 @@
     <string name="account_has_been_closed">A számla le van zárva</string>
     <string name="acquisition_date">Akvizíció időpontja</string>
     <string name="credit_limit">Hitelkeret</string>
-    <string name="must_pay_balance">Köteles vagyok fizetni a teljes egyenleget havonta (Charge kártya)</string>
-    <string name="will_pay_balance">Kívánom fizetni a teljes egyenleget havonta</string>
     <string name="interest_rate">Kamatláb</string>
-    <string name="introductory_rate_in_effect">Van egy bevezető kamatláb</string>
-    <string name="introductory_rate">Bevezető kamatláb</string>
-    <string name="valid_until">Érvényes</string>
     <string name="minimum_balance">Minimum egyenleg</string>
     <string name="date">Dátum</string>
     <string name="make">Márka</string>
@@ -106,7 +100,6 @@
     <string name="reopen_canceled">Újranyitás megszakítva</string>
     <string name="no_financial_institution_assigned">Nincs pénzintézet</string>
     <string name="maximum_100">Maximum 100%</string>
-    <string name="must_be_less_than_interest_rate">Kell &lt; kamatláb</string>
     <string name="must_be_in_future">Jövőben kell lennie</string>
     <string name="must_be_in_past">Múltban kell lennie</string>
     <string name="invalid_year">Érvénytelen</string>
@@ -208,8 +201,8 @@
 		<item>Hitel</item>
 <!-- 		<item>Other liability</item> Loan Loans -->
 		<item>Egyéb kötelezettség</item>
-		<item>Ingatlan</item>
-		<item>Jármű</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>Egyéb vagyontárgy</item>
 		<item>Befektetett készpénz</item>
 	</string-array>
@@ -221,8 +214,8 @@
 		<item>Hitelkeret</item>
 		<item>Hitel</item>
 		<item>@string/liability</item>
-		<item>Ingatlan</item>
-		<item>Jármű</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>Befektetetés</item>
 	</string-array>

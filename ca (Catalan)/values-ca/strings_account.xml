@@ -6,14 +6,12 @@
     <string name="open_accounts">Comptes oberts</string>
     <string name="liability">Passiu</string>
     <string name="asset">Actiu</string>
-    <string name="credit_liability_details">Detalls de Crèdits / Passius</string>
 <!-- <string name="associated_loan">Associated loan</string> -->
 <!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
 <!-- <string name="associated_reward_program">Associated reward program</string> -->
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
-    <string name="account_balances">Saldo de comptes</string>
-    <string name="vehicle_details">Dades del vehicle</string>
-    <string name="property_details">Detalls de l’immoble</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="property">Propietat</string>
     <string name="view_accounts">Mostrar comptes</string>
     <string name="new_account">Nou compte</string>
     <string name="edit_account">Editar compte</string>
@@ -79,12 +77,7 @@
     <string name="account_has_been_closed">Aquest compte ha estat tancat</string>
     <string name="acquisition_date">Data d’adquisició</string>
     <string name="credit_limit">Límit de crèdit</string>
-    <string name="must_pay_balance">Haig de pagar tot al saldo cada mes (targeta de crèdit)</string>
-    <string name="will_pay_balance">Tinc la intenció de pagar el saldo complet cada mes</string>
     <string name="interest_rate">Tipus d’interès</string>
-    <string name="introductory_rate_in_effect">Hi ha un tipus d’interès inicial a tots els efectes</string>
-    <string name="introductory_rate">Tipus d’interès inicial</string>
-    <string name="valid_until">Vàlid fins</string>
     <string name="minimum_balance">Mínim saldo</string>
     <string name="date">Data</string>
     <string name="make">Marca</string>
@@ -106,7 +99,6 @@
     <string name="reopen_canceled">Tornar a obrir cancel·lat</string>
     <string name="no_financial_institution_assigned">Cap institució financera assignada</string>
     <string name="maximum_100">Màxim 100%</string>
-    <string name="must_be_less_than_interest_rate">Ha de ser &lt; el tipus d’interès</string>
     <string name="must_be_in_future">Ha de ser en el futur</string> <!-- As in "The date supplied must be a future date" -->
     <string name="must_be_in_past">Ha de ser en el passat</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">No vàlid</string>
@@ -206,8 +198,8 @@
 		<item>Préstec</item>
 <!-- 		<item>Other liability</item> Loan Loans -->
 		<item>Altre passiu</item>
-		<item>Propietat</item>
-		<item>Vehicle</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>Altre actiu</item>
 		<item>Compte d’inversió</item>
 	</string-array>
@@ -219,8 +211,8 @@
 		<item>Línia de crèdit</item>
 		<item>Préstec</item>
 		<item>@string/liability</item>
-		<item>Propietat</item>
-		<item>Vehicle</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>Inversió</item>
 	</string-array>

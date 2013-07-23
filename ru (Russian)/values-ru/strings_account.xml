@@ -6,14 +6,13 @@
     <string name="open_accounts">Открытые счета</string>
     <string name="liability">Обязательство</string>
     <string name="asset">Актив</string>
-    <string name="credit_liability_details">Сведения о кредите / задолженности</string>
 <!-- <string name="associated_loan">Связанная задолженность</string> -->
 <!-- <string name="associated_loan_if_any">Связанная задолженность, если есть</string> -->
 <!-- <string name="associated_reward_program">Связанная бонусная программа</string> -->
 <!-- <string name="associated_reward_program_if_any">Связанная бонусная программа, если есть</string> -->
 	<string name="account_balances">Остатки по счетам</string>
-	<string name="vehicle_details">Сведения о т/с</string>
-    <string name="property_details">Сведения о недвижимости</string>
+	<string name="vehicle">Транспортное средство</string>
+    <string name="property">Недвижимость</string>
     <string name="view_accounts">Показать счета</string>
     <string name="new_account">Новый счёт</string>
     <string name="edit_account">Изменить счёт</string>
@@ -79,12 +78,7 @@
     <string name="account_has_been_closed">Закрытый счёт</string>
     <string name="acquisition_date">Дата приобретения</string>
     <string name="credit_limit">Кредитный лимит</string>
-    <string name="must_pay_balance">Я обязан погашать всю задолженность каждый месяц (Charge card)</string>
-    <string name="will_pay_balance">Я намерен погашать всю задолженность каждый месяц</string>
     <string name="interest_rate">Процентная ставка</string>
-    <string name="introductory_rate_in_effect">Действует льготная ознакомительная ставка</string>
-    <string name="introductory_rate">Льготная ставка</string>
-    <string name="valid_until">Действует по</string>
     <string name="minimum_balance">Минимальный баланс</string>
     <string name="date">Дата</string>
     <string name="make">Марка</string>
@@ -106,7 +100,6 @@
 	<string name="reopen_canceled">Открытие отменено</string>
     <string name="no_financial_institution_assigned">Не указан финансовый институт</string>
     <string name="maximum_100">Максимум 100%</string>
-    <string name="must_be_less_than_interest_rate">Должна быть &lt; процентной ставки</string>
     <string name="must_be_in_future">Должна быть в будущем</string>
     <string name="must_be_in_past">Должна быть в прошлом</string>
     <string name="invalid_year">Некорректный год</string>
@@ -206,8 +199,8 @@
 		<item>Кредит</item>
 <!-- 		<item>Other liability</item> Loan Loans -->
 		<item>Другое обязательство</item>
-		<item>Недвижимость</item>
-		<item>Транспортное средство</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>Другой актив</item>
 		<item>Инвестиционный счет</item>
 	</string-array>
@@ -219,8 +212,8 @@
 		<item>Кредитная линия</item>
 		<item>Кредит</item>
 		<item>@string/liability</item>
-		<item>Недвижимость</item>
-		<item>Транспортное средство</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>Депозит</item>
 	</string-array>

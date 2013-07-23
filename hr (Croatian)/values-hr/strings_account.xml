@@ -6,14 +6,13 @@
     <string name="open_accounts">Otvoreni računi</string>
     <string name="liability">Pasiva</string>
     <string name="asset">Aktiva</string>
-    <string name="credit_liability_details">Detalji uplate / isplate</string>
 <!-- <string name="associated_loan">Krediti</string> -->
 <!-- <string name="associated_loan_if_any">Kredit, ako postoji</string> -->
 <!-- <string name="associated_reward_program">Program nadrada</string> -->
 <!-- <string name="associated_reward_program_if_any">Program nagrade, ako postoji</string> -->
 <!-- New --> <string name="account_balances">Account balances</string>
-	<string name="vehicle_details">Detalji o vozilu</string>
-    <string name="property_details">Dealji o vlasništvu</string>
+	<string name="vehicle">Vozilo</string>
+    <string name="property">Imovina</string>
     <string name="view_accounts">Pogledaj račun</string>
     <string name="new_account">Novi račun</string>
     <string name="edit_account">Uredi račun</string>
@@ -73,12 +72,7 @@
     <string name="account_has_been_closed">Ovaj račun je zatvoren</string>
     <string name="acquisition_date">Datum kupnje</string>
     <string name="credit_limit">Limit računa</string>
-    <string name="must_pay_balance">Moramplatiti cijeli dug svaki mjesec (Charge card)</string>
-    <string name="will_pay_balance">Planiram platiti cijeli dug svaki mjesec</string>
     <string name="interest_rate">Kamata</string>
-    <string name="introductory_rate_in_effect">Postoji ulazna naknada</string>
-    <string name="introductory_rate">Ulazna nakanada</string>
-    <string name="valid_until">Vrijedi do</string>
     <string name="minimum_balance">Minimalno stanje</string>
     <string name="date">Datum</string>
     <string name="make">Godište</string>
@@ -100,7 +94,6 @@
     <string name="reopen_canceled">Ponovo otvaranje otkazano</string>
     <string name="no_financial_institution_assigned">Nema pridjeljenih financijskih institucija</string>
     <string name="maximum_100">Maximalno 100%</string>
-    <string name="must_be_less_than_interest_rate">Mora biti &lt; kamata</string>
     <string name="must_be_in_future">Mora biti u budućnosti</string>
     <string name="must_be_in_past">Mora biti u prošlosti</string>
     <string name="invalid_year">Neispravna godina</string>
@@ -192,8 +185,8 @@
 		<item>Kredit</item>
 <!-- 		<item>Druga pasiva</item> Loan Loans -->
 		<item>Ostala pasiva</item>
-		<item>Imovina</item>
-		<item>Vozilo</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>Ostala aktiva</item>
 		<item>Investicijski račun</item>
 	</string-array>
@@ -205,8 +198,8 @@
 		<item>Kreditna linija</item>
 		<item>Kredit</item>
 		<item>@string/liability</item>
-		<item>Imovina</item>
-		<item>Vozilo</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
 		<item>@string/asset</item>
 		<item>Investicija</item>
 	</string-array>
