@@ -24,7 +24,7 @@
     <string name="restored">மீட்டெடுக்கப்பட்டது</string>
     <string name="restore_canceled">மீட்டெடுத்தல் இரத்துசெய்யப்பட்டது</string>
     <string name="restore_book">புத்தகத்தை மீட்டெடு</string>
-    <string name="restore_warning_format">புத்தகம் ^1 மேலெழுதப்பட்டுவிடும் மேலும் <b>எல்லா</b> அதன்  தரவுகளும் திரும்ப்பெற இயலாதபடிக்கு அழிக்கப்பட்டுவிடும்</string>
+    <string name="restore_warning_format">புத்தகம் ^1 மேலெழுதப்பட்டுவிடும் மேலும் அதன் <b>எல்லா</b> தரவுகளும் திரும்ப்பெற இயலாதபடிக்கு அழிக்கப்பட்டுவிடும்</string>
     <string name="select_backup_file_to_restore">மீட்டெடுப்பதற்காக காப்புநகல் கோப்பை தெரிவுசெய்</string>
     <string name="select_backup_file_to_create_from">இதிலிருந்து உருவாக்க காப்புநகல் கோப்புபை தெரிவுசெய்</string>
     <string name="import_statement">அறிக்கையை இறக்குமதி</string>
@@ -51,8 +51,8 @@
     <string name="remove_duplicates_notes">அதே சமயம் பெரும்பாலும் இது சரியாகவே வேலை செய்யும், அங்கே  பிரச்சனையும் ஆகலாம், குறிப்பாக கணக்குகள் மாறுபட்ட நாணயங்களில் தொகைகளை கொண்டிருந்தால். இந்த விவகாரங்களில், பொருந்துதல் சாத்தியமில்லை. இறக்குமதிக்கு பிறகு, தயவுசெய்து மீதத் தொகைகளை சரிபார்த்துக்கொள்ளவும்</string>
     <string name="import_classes">பிரிவுகளை இறக்குமதி செய்</string>
     <string name="ignore_memos">செயற்குறிப்பு இடத்தை தவிர்</string>
-    <string name="create_payees_in_app_name_format">^1 ல் பணம் பெறுவோனை உருவாக்கு</string>
-    <string name="contact_account">கணக்கில் பணம் பெறுவோனை உருவாக்குவதற்கு தொடர்புகொள்</string>
+    <string name="create_payees_in_app_name_format">^1 ல் பெறுவோனை உருவாக்கு</string>
+    <string name="contact_account">கணக்கில் பெறுவோனை உருவாக்குவதற்கு தொடர்புகொள்</string>
     <string name="select_import_mode">இறக்குமதி முறையை தேர்வுசெய்</string>
     <string name="select_accounts_to_export">ஏற்றுமதிக்கு கணக்கு(கள்) தேர்வுசெய்</string>
     <string name="specify_export_file_format">ஏற்றுமதி கோப்பின் அமைப்பை குறிப்பிடு</string>
@@ -104,14 +104,14 @@
     <string name="contact_us">எங்களை தொடர்புகொள்ள</string>
     <string name="email_the_developers">உருவாக்குநர்களுக்கு நேரடியாக மின்னஞ்சல் செய்ய</string>
     <string name="tap_to_display_import_settings_format">இறக்குமதி அமைப்புகள் திரை தெரிய ^1 ஐ தொடவும்</string>
-    <string name="verify_import_settings">தேர்வு செய்த இயல்புநிலை அமைப்புகளை தயவுசெய்து சரிபார்க்கவும்,உள்ளபடியே, நீங்கள் இறக்குமதி செய்யும் கோப்பை சரிசெய்யவும். எல்லாம் சரியாக இருந்தால், அழுத்தவும் <b>பின்னோக்கி</b> அம்புக்குறி இறக்குமதி செய்கையோடு தொடர்வதற்கு</string>
+    <string name="verify_import_settings">தேர்வு செய்த இயல்புநிலை அமைப்புகளை தயவுசெய்து சரிபார்க்கவும்,உள்ளபடியே, நீங்கள் இறக்குமதி செய்யும் கோப்பை சரிசெய்யவும். எல்லாம் சரியாக இருந்தால், பின்னோக்கி <b>அழுத்தவும்</b> அம்புக்குறி இறக்குமதி செய்கையோடு தொடர்வதற்கு</string>
     <string name="change_settings_instructions_format">இந்த செய்தி அடுத்து வரும் இறக்குமதிகளுக்கு தோன்றாது, ஆனால் திரையின் மேலே இருக்கும் ^i ஐ தொடுவதன் மூலம் இந்த அமைப்புகளை எப்பொழுது வேண்டுமானாலும் உங்களால் மாற்ற முடியும்</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">தவறான கோப்பை இறக்குமதி செய்ய நீங்கள் முயலும்போழுது பின்வரும் அமைப்பு(கள்) தோன்றும்</string>
     <string name="qif_csv_encoding_explanation_format">பொதுவாக ^1 கீழே உள்ள பட்டியலில் இருக்கும் மொழிகளை பயன்படுத்த வேண்டும், ஆனால் சில நிதிநிறுவனங்கள் ஒழுங்கான இறக்குமதிக்காக எங்கு ^2 தேர்வாகியுள்ளதோ அங்கிருந்து கோப்புகளை வழங்கலாம்.\n\nபட்டியலில் மற்ற எல்லா மொழிகளுக்காக, ^2 எப்பொழுதும் தேர்வாகும்</string>
-    <string name="credits_legal">வரவுகள் &amp; சட்ட</string>
-    <string name="contact_and_social">தொடர்பு &amp; சமூக</string>
+    <string name="credits_legal">வரவுகள் &amp; சட்டம்</string>
+    <string name="contact_and_social">தொடர்பு &amp; சமூகம்</string>
     <string name="follow_us">எங்களை பின்பற்றவும்</string>
-    <string name="add_us_to_circle">உங்களின் வட்டாரத்தில் எங்களை சேர்க்கவும்  மேலும் எங்களை +1</string>
+    <string name="add_us_to_circle">உங்களின் வட்டாரத்தில் எங்களை சேர்க்கவும் மேலும் +1</string>
     <string name="become_a_fan">ஒரு ரசிகர் ஆக</string>
     <string name="haptic_feedback">தொடு உணர்வியல்</string>
     <string name="haptic_feedback_description">இது தேர்ந்தெடுக்கப்பட்டால் விசையை தொடும்பொழுது அதிர்வு ஏற்படும்</string>
@@ -119,7 +119,7 @@
 	<string name="color_theme">நிற வடிவமைப்பு</string>
 	<string name="dark">கருமை</string>  <!-- As in "dark color theme" -->
 	<string name="light">வெளிர்</string> <!-- As in "opposite of dark" -->
-	<string name="preview">முன்தோற்றம்</string>
+	<string name="preview">முன்னோட்டம்</string>
 	
 	<string-array name="book_new_source">
 	    <item>புதியதாக உருவாக்க</item>
@@ -130,7 +130,7 @@
 	<string-array name="book_new_source_descriptions">
 	    <item/> <!-- Intentionally left empty -->
 	    <item/> <!-- Intentionally left empty -->
-	    <item>மற்றும் தேவைப்பட்டால் ஒரு குறிப்பிட்ட தேதியிலிருந்து துண்டி</item>
+	    <item>மற்றும் தேவைப்பட்டால் ஒரு குறிப்பிட்ட தேதியிலிருந்து தொடங்கு</item>
     </string-array>
 	
 	<string-array name="import_mode">
@@ -146,7 +146,7 @@
 	<string-array name="book_export_file_type_description">
         <item>நீங்கள் உபயோகிக்கும் வகைபாடுகள் மற்றும் வகையாக்கத்தை சார்ந்து, Microsoft® Money ஆல் மட்டுமே படிக்கத்தக்கதாக இருக்கலாம்</item>
         <item>QIF வடிவமைப்பை ஆதரிக்கும் எல்லா செயலிகளாலும் படிக்கக்கூடியது</item>
-        <item>வரிதாள் செயலிகளால் படிக்கத்தக்கது, உதாரணமாக Microsoft® Excel அல்லது Google™ Docs போன்றவை. வரிதாளின் முதல் கிடைவரி நெடுவரிசை தலைப்புகளை கொண்டிருக்கும், பின்தொடரும் கிடைவரி ஒவ்வொன்றும் ஒரு பரிவர்த்தனையை  பெற்றிருக்கும்.  ஒவ்வொரு பிளவும் தனக்கென கிடைவரியை பெற்றிருக்கும்</item>
+        <item>வரிதாள் செயலிகளால் படிக்கத்தக்கது, உதாரனமாக Microsoft® Excel அல்லது Google™ Docs போன்றவை. வரிதாளின் முதல் கிடைவரி நெடுவரிசை தலைப்புகளை கொண்டிருக்கும், பின்தொடரும் கிடைவரி ஒவ்வொன்றும் ஒரு பரிவர்த்தனையை  பெற்றிருக்கும்.  ஒவ்வொரு பிளவும் தனக்கென கிடைவரியை பெற்றிருக்கும்</item>
     </string-array>
 
     <string name="import_file_confirm_format">^1 ஐ இறக்குமதியை நீங்கள் விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -206,8 +206,8 @@
     <string name="back_press_prompt">பின் செல் நினைவூட்டி</string>
     <string name="back_press_prompt_description">இது தேர்வானால், பின் செல் விசையை தொடும்போது சேமிப்பதற்கான நினைவூட்டு கேள்வி காட்சியாகும்</string>
     
-    <string name="new_payee_confirmation">புதிய பணம் பெறுபவர் உறுதி செய்தல்</string>
-    <string name="new_payee_confirmation_description">இது தேர்வானால், புதிய பணம் பெறுபவர் உறுவாக்கத்தின்போது ஒரு உறுதி செய்தல் காட்சியாகும்</string>
+    <string name="new_payee_confirmation">புதிய பெறுபவர் உறுதி செய்தல்</string>
+    <string name="new_payee_confirmation_description">இது தேர்வானால், புதிய பெறுபவர் உறுவாக்கத்தின்போது ஒரு உறுதி செய்தல் காட்சியாகும்</string>
     
     <string name="duplicate_check_number">மறுநகல் காசோலை எண்</string>
     <string name="duplicate_check_number_description">இது தேர்வானால், காசோலை எண் ஏற்கனவே உபயோகப்படுத்தியிருந்தால் ஒரு எச்சரிக்கை காட்சியாகும்</string>

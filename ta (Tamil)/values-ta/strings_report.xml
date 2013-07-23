@@ -16,7 +16,7 @@
 	<string name="reset_report_settings">அமைப்புகள் அதன் இயல்பிருப்பு நிலைக்கு மீட்டமைக்கப்படும்</string>
 	<string name="settings_reset">அமைப்புகளை மீட்டமைக்க</string>
 	<string name="reset_canceled">மீட்டமைப்பு இரத்து செய்யப்பட்டது</string>
-    <string name="report_settings_tip_format">அறிக்கையின் அமைப்புகளை மாற்ற:\n\n<li>அறிக்கையின் பெயர் மீது நீண்ட அழுத்தத்தை தரவும் மேலும் தொடவும் ^1</li>\n\n<li> அறிக்கை தெரியும்போழுது மேலே வலது மூலையில் இருக்கும் குறிப்படத்தை தொடவும்</li></string>
+    <string name="report_settings_tip_format">அறிக்கையின் அமைப்புகளை மாற்ற:\n\n<li>அறிக்கையின் பெயர் மீது நீண்ட அழுத்தத்தை தரவும் மேலும் ^1 ஐ தொடவும்</li>\n\n<li> அறிக்கை தெரியும்போழுது மேலே வலது மூலையில் இருக்கும் குறிப்படத்தை தொடவும்</li></string>
 	<string name="report_name">அறிக்கையின் பெயர்</string>
 	<string name="all_reports">அனைத்து அறிக்கைகள்</string>
 	<string name="favorite_reports">விருப்பமான அறிக்கைகள்</string>

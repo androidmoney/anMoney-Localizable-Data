@@ -4,8 +4,8 @@
     <string name="view_budget">திட்டஅறிக்கையை பார்க்க</string>
     <string name="edit_budget_item">திட்டஅறிக்கை உறுப்புகளை திருத்த</string>
     <string name="new_budget_item">புதிய திட்டஅறிக்கை உறுப்பு</string>
-    <string name="over_budget">திட்டஅறிக்கையை விட அதிகம்</string>
-    <string name="expenses_over_budget">திட்டஅறிக்கையை விட அதிக செலவுகள்</string>
+    <string name="over_budget">திட்டமிட்டதைவிட அதிகம்</string>
+    <string name="expenses_over_budget">திட்டமிட்டதைவிட அதிக செலவுகள்</string>
 	<string name="within_budget">திட்டஅறிக்கைக்குள்</string>
     <string name="expenses_within_budget">திட்டஅறிக்கைக்குள் செலவுகள்</string>
     <string name="budgeted_amount">திட்டமிட்டது</string>
@@ -13,7 +13,7 @@
     <string name="remainder_amount">மீதம்</string>
 	<string name="budget_vs_actual">திட்டஅறிக்கை vs. உண்மையானது</string> <!-- This is a report name -->
 	<string name="budget_over_time">காலப் போக்கில் திட்டஅறிக்கை</string> <!-- This is a report name -->
-    <string name="recurring_bill_or_deposit_from">இருந்து தொடர் கட்டணச்சீட்டு அல்லது வைப்புநிதி</string>
+    <string name="recurring_bill_or_deposit_from">இருந்து மறுநிகழ் கட்டணச்சீட்டு அல்லது வைப்புநிதி</string>
     <string name="an_additional_amount_for_this_category">ஒரு உபரி தொகை இந்த வகைபாட்டிற்காக</string>
     <string name="an_additional_amount_for_this_class">ஒரு உபரி தொகை இந்த பிரிவிற்காக</string>
     <string name="the_additional_amount_for_this_category">இந்த உபரி தொகை இந்த வகைபாட்டிற்காக</string>

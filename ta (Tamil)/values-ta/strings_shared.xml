@@ -18,14 +18,14 @@
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol">*</string>
     <string name="quarter_format">காலாண்டு^1 ^2</string> <!-- "Q1 2013" -->
-<!-- New -->    <string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
-<!-- New -->    <string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
-<!-- New -->    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 by ^2 ^3 for ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+	<string name="filter_by_order_format">^1 வழி ^2</string> <!-- Example: "All accounts by name" -->
+	<string name="filter_by_direction_order_format">^1 வழி ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 வழி ^2 ^3 ^4 க்காக</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="_continue">தொடர்</string>
 	<string name="continue_question">தொடர்</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="home">முகப்பு</string> <!-- Home screen -->
 	<string name="home_screen">முகப்புத்திரை</string>
-    <string name="previous">முந்தைய</string>
+    <string name="previous">முன்னது</string>
     <string name="next">அடுத்து</string>
     <string name="_import">இறக்குமதி</string> <!-- This is a verb -->
     <string name="imported">இறக்குமதியானது</string>
@@ -125,7 +125,7 @@
 	<string name="collapse_all">எல்லாவற்றையும் சுருக்கு</string>
 	<string name="all_collapsed">எல்லாம் சுருக்கப்பட்டது</string>
     <string name="postal_address">கடிதத்தொடர்பு முகவரி</string>
-    <string name="postal_address_hint">தெரு\nநகரம்/Suburb மாநிலம் தபால் குறியெண்</string>
+    <string name="postal_address_hint">தெரு\nநகரம்\nதபால் குறியீட்டெண்</string>
     <string name="cannot_perform_sd_card_operation">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது ஏனெனில் உங்கள் சாதனத்தில் குறுசேமிப்பு அட்டைஇல்லை, அல்லது தற்போழுது உங்கள் சாதனம் கணினியோடு இனைக்கப்பட்டிருக்கும்</string>
     <string name="cannot_perform_file_system_operation_format">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது உள் நினைவகப் பாதை (^1) ஐ அணுக இயலாது</string>
     <string name="please_correct_and_try_again">தயவுசெய்து இதை சரிசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்</string>

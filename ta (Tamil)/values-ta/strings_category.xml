@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_main_sub_separator">:</string>
+    <string name="category_main_sub_format">^1 ^2 ^3</string>
+    <string name="category">வகைபாடு</string>
+    <string name="categories">வகைபாடுகள்</string>
+    <string name="subcategory">உள்வகைபாடு</string>
+    <string name="classification">வகையாக்கம்</string>
+    <string name="_class">பிரிவு</string>
+    <string name="subclass">உட்பிரிவு</string>
+    <string name="parent_category">முதன்மை வகைபாடு</string>  <!-- This is the main category that a subcategory belongs to -->
+    <string name="parent_class">முதன்மை பிரிவு</string>  <!-- This is the main class that a subclass belongs to -->
+    <string name="edit_category">வகைபாட்டை திருத்த</string>
+    <string name="edit_subcategory">உள்வகைபாட்டை திருத்த</string>
+    <string name="edit_class">பிரிவை திருத்த</string>
+    <string name="edit_subclass">உட்பிரிவை திருத்த</string>
+    <string name="new_category">புதிய வகைபாடு</string>
+    <string name="new_subcategory">புதிய உள்வகைபாடு</string>
+    <string name="new_class">புதிய பிரிவு</string>
+    <string name="new_subclass">புதிய உட்பிரிவு</string>
+    <string name="delete_category">வகைபாட்டை அழி</string>
+    <string name="delete_subcategory">உள்வகைபாட்டை அழி</string>
+    <string name="delete_class">பிரிவை அழி</string>
+    <string name="delete_subclass">உட்பிரிவை அழி</string>
+    <string name="add_default_categories">இயல்பிருப்பு வகைபாடுகளை சேர்</string>
+    <string name="add_classification">வகையாக்கங்களை சேர்</string>
+    <string name="select_category">வகைபாட்டை தெரிவுசெய்</string>
+    <string name="select_class">பிரிவை தெரிவுசெய்</string>
+    <string name="delete_classification">வகையாக்கங்களை அழி</string>
+    <string name="rename_classification">வகையாக்கத்திற்கு மறுபெயரிடு</string>
+    <string name="select_classification">வகையாக்கத்தை தெரிவுசெய்</string>
+    <string name="enter_classification_name">வகையாக்கத்தின் பெயரை உள்ளிடு</string>
+    <string name="enter_new_classification_name">புதிய வகையாக்கத்தின் பெயரை உள்ளிடு</string>
+    <string name="categories_and_classifications">வகைபாடுகள் &amp; வகையாக்கங்கள்</string>
+    <string name="no_categories_expense">நீங்கள் எந்த செலவின வகைபாடுகளையும் பெற்றிருக்கவில்லை</string>
+    <string name="no_categories_income">நீங்கள் எந்த வரவு வகைபாடுகளையும் பெற்றிருக்கவில்லை</string>
+    <string name="no_classes">நீங்கள் எந்த பிரிவுகளையும்   பெற்றிருக்கவில்லை</string>
+    <string name="create_category_instructions_format">புதிய வகைபாட்டை உருவாக்க, திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_class_instructions_format">புதிய பிரிவை உருவாக்க, திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^1 will be replaced by an image -->
+    <string name="uncategorized_transactions">வகைபடுத்தப்படாத பரிவர்த்தனைகள்</string>
+    <string name="delete_category_no_subcategories_warning_format">வகைபாடு ^1 நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>
+    <string name="delete_class_no_subclass_warning_format">பிரிவு ^1 நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>
+    <string name="delete_category_with_subcategories_warning_format">வகைபாடு ^1 மற்றும் <b>அதன் அனைத்து உள்வகைபாடுகளும்</b> நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>
+    <string name="delete_class_with_subclass_warning_format">பிரிவு ^1 மற்றும் <b>அதன் அனைத்து உட்பிரிவுகளும்</b> நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>
+    <string name="delete_subcategory_warning_format">Subcategory ^1 நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>
+    <string name="delete_subclass_warning_format">உட்பிரிவு ^1 நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>
+    <string name="delete_classification_warning_format">வகையாக்கம் ^1 நிரந்தரமாக அழிக்கப்பட்டுவிடும். அனைத்து பரிவர்த்தனைகளிலிருந்தும் நீக்கப்பட்டுவிடும்</string>
+    <string name="default_categories_add_confirmation">இயல்பிருப்பு வகைபாடுகளை சேர்க்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="default_categories_added">இயல்பிருப்பு வகைபாடுகள் சேர்க்கப்பட்டது</string>
+    <string name="all_categories">அனைத்து வகைபாடுகள்</string>
+    <string name="expense">செலவு</string>
+    <string name="expenses">செலவுகள்</string>
+    <string name="expense_categories">செலவு வகைபாடுகள்</string>
+    <string name="income">வரவு</string>
+    <string name="income_categories">வரவு வகைபாடுகள்</string>
+    <string name="savings">சேமிப்பு</string> <!-- As in "amount saved by budgeting" -->
+    <string name="category_name">வகைபாட்டின் பெயர்</string>
+    <string name="subcategory_name_lower">வகைபாட்டின் பெயர்</string>
+    <string name="class_name">பிரிவின் பெயர்</string>
+    <string name="subclass_name_lower">உட்பிரிவின் பெயர்</string>
+    <string name="without_subcategory">உள்வகைபாடு இல்லாமல்</string>
+    <string name="without_subclass">உட்பிரிவு இல்லாமல்</string>
+    <string name="cannot_be_zero">Cannot be 0</string>
+    <string name="change_expense_warning">இந்த வகைபாட்டை செலவிலிருந்து வரவிற்கு மற்ற விரும்புகிறீர்களா, அல்லது எதிர்மாறாக</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="prepopulate">இயல்பிருப்பு வகைபாடுகளோடு பரப்பு</string>
+    <string name="short_categories">சுருக்க வகைபாடுகள் பட்டியல் மட்டும் ஏற்றவும் (முழுபட்டியலை ஏற்ற பின்னர் வாய்ப்புண்டு)</string>
+    <string name="view_categories">வகைபாடுகளை பார்க்க</string>
+    <string name="category_not_found">வகைபாடு தென்படவில்லை</string>
+    <string name="class_not_found">பிரிவு தென்படவில்லை</string>
+    <string name="total_income">மொத்த வருவாய்</string>
+    <string name="total_expense">மொத்த செலவு</string>
+	<string name="net">நிகர</string>
+    <string name="net_income">நிகர வருவாய்</string>
+    <string name="uncategorized">வகைபடுத்தப்படாதது</string>
+    <string name="income_uncategorized">வகைபடுத்தப்படாத வருவாய்</string>
+    <string name="expense_uncategorized">வகைபடுத்தப்படாத செலவு</string>
+    <string name="show_uncategorized">வகைபடுத்தப்படாதவைகளை காட்டு</string>
+    <string name="move_subcategory_to_another_category_warning">இந்த உள்வகைபாட்டை மற்றொரு வகைபாட்டிற்கு நகர்த்த விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="show_zero_balance_categories">மீதம் பூச்சியமாக உள்ள வகைபாடுகளை காட்டு</string>
+    <string name="show_zero_balance_items">மீதம் பூச்சியமாக உள்ள உருப்புகளை காட்டு</string> <!-- "Items" refers to classification name -->
+    <string name="recategorize_category">அனைத்து பரிவர்த்தனைகளையும் இந்த வகைபாடாக மறுவகைபடுத்து</string>
+    <string name="recategorize_class">அனைத்து பரிவர்த்தனைகளையும் இந்த பிரிவாக மறுவகைபடுத்து</string>
+	<string name="spending_by_category0">வகைபாட்டின் வழி செலவுகள்</string>
+	<string name="spending_by_category1">வகைபாட்டின் வழி செலவுகள் அல்லது ^1</string>
+	<string name="spending_by_category2">வகைபாட்டின் வழி செலவுகள், ^1 அல்லது ^2</string>
+	<string name="spending_by_category_over_time0">காலப்போக்கில் வகைபாட்டின் வழி செலவுகள்</string>
+	<string name="spending_by_category_over_time1">காலப்போக்கில் வகைபாட்டின் வழி செலவுகள் அல்லது காலப்போக்கில் ^1</string>
+	<string name="spending_by_category_over_time2">வகைபாட்டின் வழி செலவுகள், காலப்போக்கில் ^1 அல்லது ^2</string>
+	
+    <string name="no_categories">வகைபாடுகள் இல்லை</string>
+	<string name="no_categories_yet">இன்னும் வகைபாடுகள் இல்லை</string>
+    <string name="no_classes_yet">இன்னும் பிரிவுகள் இல்லை</string>
+	<string-array name="category_count_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 வகைபாடுகள்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="uncategorized_count_plurals">
+        <item>^1 வகைபடுத்தப்படாத பரிவர்த்தனை</item>
+        <item>^1 வகைபடுத்தப்படாத பரிவர்த்தனைகள்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="default_classifications">
+		<item>குடும்ப உறுப்பினர்கள்</item>
+		<item>உடமைகள்</item>
+		<item>செயல் திட்டங்கள்</item>
+		<item>பொழுதுபோக்குகள்</item>
+		<item>விடுமுறைகள்</item>
+		<item>வேலை செலவுகள்</item>
+		<item>மற்றவை</item>
+	</string-array>
+</resources>

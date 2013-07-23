@@ -18,8 +18,8 @@
     <string name="currency_converter">நாணய  மாற்றி</string>
     <string name="invert">Invert</string>
     <string name="save_exchange_rate">இந்த பரிமாற்ற விகிதத்தை சேமி</string>
-    <string name="all_currencies">எல்லா நாணயகள்</string>
-    <string name="used_currencies">உபயோகப்படுத்திய நாணயகள்</string>
+    <string name="all_currencies">எல்லா நாணயங்கள்</string>
+    <string name="used_currencies">உபயோகப்படுத்திய நாணயங்கள்</string>
     <string name="and_prior_format">^1 மேலும் முன்னதாக</string> <!-- As in "January 1 and prior" -->
     
 	<string-array name="currency_list_status_filter_title_bar">

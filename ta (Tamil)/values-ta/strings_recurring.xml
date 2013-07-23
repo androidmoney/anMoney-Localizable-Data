@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    	   
+	<string name="estimated_indicator">~</string>
+    <string name="recurring_bills_and_deposits">மறுநிகழ் கட்டணசீட்டுகள் &amp; வைப்புநிதிகள்</string>
+	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
+    <string name="recurring_bills_and_deposits_by_direction_order_format">கட்டணசீட்டுகள் &amp; வைப்பு நிதிகள் வழியாக ^1 ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="view_recurring">மறுநிகழ்வை பார்க்க</string>
+	<string name="new_recurring">புதிய மறுநிகழ்வு</string>
+	<string name="enter">உள்ளிடு</string>
+	<string name="entered">உள்ளிடப்பட்டது</string>
+	<string name="enter_canceled">உள்ளிடுதல் இரத்துசெய்யப்பட்டது</string>
+	<string name="enter_into_register">பதிவுக்கான உள்ளீடு</string>
+	<string name="enter_into_register_warning">இதை தற்போது பதிவு செய்வதற்காக உள்ளிடுகிறீர்களா என்பதை தயவுசெய்து உறுதி செய்யவும்</string>
+	<string name="enter_now">தற்போது உள்ளிடவும்</string>
+	<string name="enter_after_editing">திருத்திய பிறகு உள்ளிடவும்</string>
+	<string name="enter_partially_after_editing">திருத்திய பிறகு பகுதி மட்டும் உள்ளிடவும்</string>
+	<string name="move_to_next_occurrence">அடுத்த நிகழ்விற்கு நகர்த்தவும்</string>
+	<string name="remain_on_this_occurrence_format">^1 ஐ விட குறைவான தொகை உள்ளிடப்பட்டால் இந்த நிகழ்விலேயே தங்கியிரு</string>	    	    	
+	<string name="edit_recurring">மறுநிகழ்வை திருத்த</string>
+	<string name="edit_series">தொடரை திருத்த</string>
+	<string name="edit_occurrence">நிகழ்வை திருத்த</string>
+	<string name="entire_series">ஒட்டுமொத்த தொடர்கள்</string>
+	<string name="edit_template_warning">தனிப்பயன் எதிர்கால நிகழ்வுகள் உள்ளன.\n\nதொடரை திருத்துவதன் மூலம் இந்த தனிப்பயன் தகவுகளை நீக்கலாம்</string>
+	<string name="delete_recurring">தொடர்நிகழ்வை அழி</string>
+	<string name="delete_recurring_warning_part1_format">^1 ஐ அழி</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="delete_recurring_warning_part2">அனைத்து எதிர்கால நிகழ்வுகளும் அழிக்கப்பட்டுவிடும்</string>
+	<string name="change_recurring_amount_format">தொடர்நிகழ் தொகையை ^1 லிருந்து ^2 க்கு மாற்று</string> <!-- This is a question -->
+	<string name="skip">தவிர்</string>
+	<string name="skip_occurrence">நிகழ்வை தவிர்</string>
+	<string name="skipped">தவிர்க்கப்பட்டது</string>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item/> <!-- Not used -->
+		<item>^1 நிகழ்வுகள் தவிர்க்கப்பட்டது</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="skip_canceled">தவிர்ப்பு இரத்து செய்யப்பட்டது</string>
+	<string name="skip_which">எதை தவிர்க்க</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="skip_one_occurrence_warning">வரவிருக்கும் நிகழ்வுகளை தவிர்க்கவா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="no_recurrings_format">நீங்கள் எந்த கட்டணசீட்டுகள் அல்லது வைப்பு நிதிகளை பெற்றிருக்கவில்லை.\n\nஒன்றை உருவாக்க:\n\n<li>^1</li>\n\n<li>பரிவர்த்தனையை நீளமாக தொடவும் பிறகு ^2 ஐ தொடவும்</li></string>
+    <string name="create_recurring_instructions_format">திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^i will be replaced by an image -->
+	<string name="recurring_no_accounts_yet">தொடர்நிகழ்வை சேர்க்கும் முன் தயவுசெய்து கணக்குகளையும் பெறுபவர்களையும் உருவாக்கவும்</string>
+	<string name="specify_account">தயவுசெய்து முதலில் கணக்கை குறிப்பிடவும்</string>
+	<string name="account_and_amount">கணக்கு &amp; தொகை</string>
+	<string name="payee_and_category">பெறுபவர் &amp; வகைபாடு</string>
+	<string name="auto_enter_and_reminder">தானியங்கு உள்ளீடு &amp; நீனைவூட்டல்</string>
+	<string name="pay_by_check">நான் காசோலை வழி பணம் செலுத்துகிறேன்</string>
+	<string name="amount_is">தொகை உள்ளது</string>
+	<string name="fixed">நிலையானது</string>
+	<string name="estimated">உத்தேசமானது</string>
+	<string name="estimated_amount_format">^1^2</string>
+	<string name="upcoming">வரவிருப்பது</string>
+	<string name="no_upcoming">வரவிருக்கும் கட்டணசீட்டுகள் அல்லது வைப்புநிதிகள் எதுவுமில்லை</string>
+	<string name="no_upcoming_bills">வரவிருக்கும் கட்டணசீட்டுகள் எதுவுமில்லை</string>
+	<string name="no_upcoming_deposits">வரவிருக்கும் வைப்புநிதிகள் எதுவுமில்லை</string>
+	<string name="enter_automatically">தானாக உள்ளிடுதல் பதிவிற்காக</string>
+	<string name="notify_me">எனக்கு தெரிவி</string>
+	<string name="cannot_auto_enter">பண பரிமாற்ற தடுமாற்றங்களுக்கு வாய்ப்பிருப்பதால், மறுநிகழ் கட்டணசீட்டுகள் அல்லது வைப்பு நிதிகள் வேறுபட்ட நாணயங்களை கொண்ட  கணக்குகளிடையே பரிமாற்றம் செய்யும்போது தானாக பதிவிற்கான உள்ளீடை செய்யவியலாது.\n\nநீங்கள் கைமுறையில் இந்த பரிவர்த்தனையை உள்ளிட வேண்டும் மேலும் தற்போதைய நாணய மதிப்பை குறிப்பிட வேண்டும்</string>
+	<string name="entered_recurring_bill">மறுநிகழ் கட்டணசீட்டு உள்ளிடப்பட்டது</string>
+	<string name="entered_recurring_deposit">மறுநிகழ் வைப்புநிதி உள்ளிடப்பட்டது</string>
+	<string name="notify_me_when_entered">உள்ளிடப்பட்டவுடன் அறிவிப்பு பட்டையில் எனக்கு தெரிவி</string>
+	<string name="the_last_day_of_the_month">மாதத்தின் கடைசி நாள்</string>
+	<string name="include_in_budget">திட்டஅறிக்கையில் சேர்த்துக்கொள்</string>
+	<string name="include_recurrings">மறுநிகழ் உறுப்புகளோடு சேர்த்துக்கொள்</string> <!-- as in "Include recurring items on report" -->
+	<string name="make_recurring_budget_question_part1">இந்த தொடரை உங்கள் திட்டஅறிக்கையின் பகுதியாக ஆக்க விரும்புகிறீர்களா</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part2_format">எப்போதும் நீங்கள் ^1 ஐ தொட்டால், பின்னர் கூட இதை செய்ய முடியும் தொடரை திருத்துவதன் மூலம்</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+		
+	<!-- These three below form a sentence -->
+	<string name="based_part1">அடிப்படை</string>
+	<string name="based_part2_singular">கடைசி</string>
+	<string-array name="based_part2_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 கடைசி</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>நிகழ்வு</item>
+		<item>நிகழ்வுகள்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="upcoming_date">வரவிருக்கம் நாள்</string> <!-- As in the "the date of the upcoming recurring instance" --> 
+    <string name="series_start_date">தெடர் ஆரம்ப தேதி</string> <!-- As in the "the starting date of the entire recurring series" -->
+	<string name="end_date_if_any">முடிவு தேதி சேர்க்கவும். ஏதேனும் இருந்தால்</string>
+	<string name="invalid_date">ஒத்துவராத தேதி</string>
+	<string name="repeat">மீண்டும்</string>
+	<string name="every_1">ஒவ்வொரு</string>
+	<string name="every_2"/> <!-- Intentionally left empty -->
+	<string name="every_3"/> <!-- Intentionally left empty -->
+	<string-array name="every_day_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_week_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_month_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_year_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="never">ஒருபோதும் இல்லை</string>
+	<string name="day_upper">நாள்</string>
+	<string name="day_lower">@string/day_upper</string>
+	<string name="days_upper">நாட்கள்</string>
+	<string name="daily">தினசரி</string>
+	<string name="week_upper">வாரம்</string>
+	<string name="weeks_upper">வாரங்கள்</string>
+	<string name="weekly">வாராந்திரம்</string>
+	<string name="biweekly">அரைத்திங்கள்</string>
+	<string name="two_weeks">இரு வாரங்கள்</string>
+	<string name="month_upper">மாதம்</string>
+	<string name="month_lower">@string/month_upper</string>
+	<string name="months_upper">மாதங்கள்</string>
+	<string name="monthly">மாதந்தோரும்</string>
+	<string name="twice_a_month">மாதமிருமுறை</string>
+	<string name="quarter_upper">காலாண்டு</string>
+	<string name="quarters_upper">காலாண்டுகள்</string>
+	<string name="quarterly">காலாண்டுதோரும்</string>
+	<string name="half_year">அரையாண்டு</string>
+	<string name="half_yearly">அரையாண்டுதோரம்</string>
+	<string name="year_upper">ஆண்டு</string>
+	<string name="year_lower">@string/year_upper</string>
+	<string name="years_upper">ஆண்டுகள்</string>
+	<string name="yearly">ஆண்டுதோரும்</string>
+	<string-array name="day_plurals">
+		<item>@string/day_upper</item>
+		<item>@string/days_upper</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="week_plurals">
+		<item>@string/week_upper</item>
+		<item>@string/weeks_upper</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="month_plurals">
+		<item>@string/month_upper</item>
+		<item>@string/months_upper</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="year_plurals">
+		<item>@string/year_upper</item>
+		<item>@string/years_upper</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
+	<string name="if_it_falls_on_a_weekend">அந்த நாள் வார இறுதி நாளாக முடிந்தால்</string>
+	<string name="skip_weekends">வார இறுதிகளை தவிர்</string>
+	
+	<string name="overdue_count_format">^1/^2</string>
+	<string-array name="overdue_plurals">
+		<item>^1 தவறிய தவணை</item>
+		<item>^1 தவறிய தவணை</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="overdue_count_plurals">
+		<item>^1 தவணைதவறிய கட்டணசீட்டு அல்லது வைப்பு நிதி</item>
+		<item>^1 தவணைதவறிய கட்டணசீட்டுகள் அல்லது வைப்பு நிதிகள்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="enter_into_register_fixed_amount_items">
+		<item>@string/enter_now</item>
+		<item>முதலில் பரிவரத்தனையை திருத்து</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">இன்றைய தேதியை பரிவர்த்தனை தேதியாக பயன்படுத்து</string>
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 தேர்வு செய்யப்பட்ட மறுநிகழ் உறுப்புகள் உள்ளிடப்பட்டுவிடும்</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+	<string-array name="skip_which_items">
+		<item>வரவிருக்கும் நிகழ்வுகள்</item>
+		<item>அனைத்து கடந்த தவணை நிகழ்வுகள்</item>
+	</string-array>
+
+	<string-array name="workday_adjustment_methods">
+		<item>எதுவும் செய்ய வேண்டாம்</item>
+		<item>முந்தய வார தேதிக்கு இதை நகர்த்து</item>
+		<item>அடுத்த வார தேதிக்கு இதை நகர்த்து</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>ஆக 1வது</item>
+		<item>ஆக 2வது</item>
+		<item>ஆக 3வது</item>
+		<item>ஆக 4வது</item>
+		<item>ஆக 5வது</item>
+		<item>ஆக 6வது</item>
+		<item>ஆக 7வது</item>
+		<item>ஆக 8வது</item>
+		<item>ஆக 9வது</item>
+		<item>ஆக 10வது</item>
+		<item>ஆக 11வது</item>
+		<item>ஆக 12வது</item>
+		<item>ஆக 13வது</item>
+		<item>ஆக 14வது</item>
+		<item>ஆக 15வது</item>
+		<item>ஆக 16வது</item>
+		<item>ஆக 17வது</item>
+		<item>ஆக 18வது</item>
+		<item>ஆக 19வது</item>
+		<item>ஆக 20வது</item>
+		<item>ஆக 21வது</item>
+		<item>ஆக 22வது</item>
+		<item>ஆக 23வது</item>
+		<item>ஆக 24வது</item>
+		<item>ஆக 25வது</item>
+		<item>ஆக 26வது</item>
+		<item>ஆக 27வது</item>
+		<item>ஆக 28வது</item>
+		<item>ஆக 29வது</item>
+		<item>ஆக 30வது</item>
+		<item>ஆக 31வது</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month_and_on_the">
+		<item>ஆக 1வது மேலும் ஆக</item>
+		<item>ஆக 2வது மேலும் ஆக</item>
+		<item>ஆக 3வது மேலும் ஆக</item>
+		<item>ஆக 4வது மேலும் ஆக</item>
+		<item>ஆக 5வது மேலும் ஆக</item>
+		<item>ஆக 6வது மேலும் ஆக</item>
+		<item>ஆக 7வது மேலும் ஆக</item>
+		<item>ஆக 8வது மேலும் ஆக</item>
+		<item>ஆக 9வது மேலும் ஆக</item>
+		<item>ஆக 10வது மேலும் ஆக</item>
+		<item>ஆக 11வது மேலும் ஆக</item>
+		<item>ஆக 12வது மேலும் ஆக</item>
+		<item>ஆக 13வது மேலும் ஆக</item>
+		<item>ஆக 14வது மேலும் ஆக</item>
+		<item>ஆக 15வது மேலும் ஆக</item>
+		<item>ஆக 16வது மேலும் ஆக</item>
+		<item>ஆக 17வது மேலும் ஆக</item>
+		<item>ஆக 18வது மேலும் ஆக</item>
+		<item>ஆக 19வது மேலும் ஆக</item>
+		<item>ஆக 20வது மேலும் ஆக</item>
+		<item>ஆக 21வது மேலும் ஆக</item>
+		<item>ஆக 22வது மேலும் ஆக</item>
+		<item>ஆக 23வது மேலும் ஆக</item>
+		<item>ஆக 24வது மேலும் ஆக</item>
+		<item>ஆக 25வது மேலும் ஆக</item>
+		<item>ஆக 26வது மேலும் ஆக</item>
+		<item>ஆக 27வது மேலும் ஆக</item>
+		<item>ஆக 28வது மேலும் ஆக</item>
+		<item>ஆக 29வது மேலும் ஆக</item>
+		<item>ஆக 30வது மேலும் ஆக</item>
+		<item>ஆக 31வது மேலும் ஆக</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_month">மாதத்தின் கடைசி நாள்</string>
+	<string-array name="on_the_nth_day_of_the_week_format">
+		<item>ஆக முதல் ^1</item>
+		<item>ஆக இரண்டாவது ^1</item>
+		<item>ஆக மூன்றாவது ^1</item>
+		<item>ஆக நான்காவது ^1</item>
+	</string-array>
+	<string-array name="on_the_nth_day_of_the_week_days">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string name="on_the_last_day_of_the_week_format">ஆக முதல் ^1</string>
+
+	<string name="work_week">வேலை வாரம்</string>
+	<string name="period_end_day_of_the_month">மாத இறுதி நாள் காலம்</string>
+	<string name="fiscal_year">நிதி ஆண்டு</string>
+	
+	<string name="time_of_reminder">நினைவூட்டி நேரம்</string>
+	<string name="reminder_hour_of_day_change_warning">கவனிக்கவும் ஏற்கனவே இருக்கும் நினைவூட்டிகள், ஏதேனும் இருந்தால், மாற்றியமைக்க <b>இயலாது</b>. இதை செய்யுங்கள், உங்கள் சாதனதத்தின் நாட்காட்டிக்கு சென்று மாற்றியமைக்கவும்.\n\nஎந்த புதிய நினைவூட்டிக்கும் புதிய நேரமே பயன்படுத்தவும்  அதைப் போலவே கட்டணரசீதுகள் அல்லது வைப்புநிதி வரவிருக்கும் நிகழ்வுகளும்</string>
+
+	<string-array name="auto_enter_days_before">
+		<item>தானாக உள்ளிடுதல் வேண்டாம்</item>
+		<item>தவணை நாள்</item>
+		<item>நேற்று முன்தினம் தவணை நாள்</item>
+		<item>இரண்டு நாட்கள் முந்தைய தவணை</item>
+		<item>மூன்று நாட்கள் முந்தைய தவணை</item>
+		<item>ஒரு வாரம் முந்தைய தவணை</item>
+		<item>இரண்டு வாரம் முந்தைய தவணை</item>
+		<item>மூன்று  வாரம் முந்தைய தவணை</item>
+		<item>ஒரு மாதம் முந்தைய தவணை</item>
+	</string-array>	
+	
+	<string-array name="days_before_plurals">
+		<item/> <!-- Intenionally left empty -->
+<!-- New --> <item>^1 days before</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+	<string-array name="days_before_due_date_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 நாட்கள் முந்தைய  தவணை</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+<!-- New --> <string name="specify_custom_number_of_days">Specify custom number of days</string>
+</resources>
