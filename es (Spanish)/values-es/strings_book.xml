@@ -7,7 +7,7 @@
     <string name="delete_book">Eliminar libro</string>
     <string name="share_book">Compartir libro</string>
     <string name="book_delete_warning_short_format">Se eliminará el libro ^1</string>
-    <string name="all_data_will_be_lost">Todos los datos de este libro se perderán para irreversiblemente, a menos que haya una copia de seguridad</string>
+    <string name="all_data_will_be_lost">Todos los datos de este libro se perderán irreversiblemente, a menos que haya una copia de seguridad</string>
     <string name="import_into_book">Importar en el libro</string>
     <string name="export_from_book">Exportar el libro</string>
     <string name="import_into_book_format">Importar en el libro ^1</string>
