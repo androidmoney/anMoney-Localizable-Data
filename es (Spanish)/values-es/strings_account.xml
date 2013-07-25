@@ -12,7 +12,7 @@
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
     <string name="account_balances">Saldos de cuentas</string>
     <string name="vehicle">Vehículo</string>
-    <string name="property">Propiedad</string>
+    <string name="property">Inmueble</string>
     <string name="view_accounts">Ver cuentas</string>
     <string name="new_account">Nueva cuenta</string>
     <string name="edit_account">Editar cuenta</string>
@@ -24,8 +24,8 @@
 	<string name="balance_adjustment_note">Ajuste del saldo</string>
 	<string name="category_for_adjustment_transaction">Categoría para la transacción de ajuste</string>
     <string name="postpone">Postergar</string>
-	<string name="balance_verb">Saldo</string>
-    <string name="balance_account">Saldo de la cuenta</string>
+	<string name="balance_verb">Saldar</string>
+    <string name="balance_account">Saldar la cuenta</string>
     <string name="balanced">Conciliado</string>
     <string name="balance_postponed">Conciliación postergada</string>
     <string name="balance_canceled">Conciliación cancelada</string>
@@ -57,11 +57,11 @@
     <string name="close_account">Cerrar cuenta</string>
     <string name="reopen_account">Reabrir cuenta</string>
     <string name="repair_account">Reparar cuenta</string>
-    <string name="repaired">Reparado</string>
+    <string name="repaired">Reparada</string>
     <string name="copy_account_number">Copiar el número de cuenta</string>
     <string name="book_total">Total del libro</string>
     <string name="favorites_total">Total de los favoritos</string>
-	<string name="delete_account_warning_part1_format">La eliminación de la cuenta ^1 será irreversible.\n\nComo hay transacciones que usan esta cuenta, todas esas transacciones se eliminarán también</string>
+	<string name="delete_account_warning_part1_format">La eliminación de la cuenta ^1 será irreversible.\n\nHay otras transacciones (en otras cuentas) que involucran a esta cuenta y por lo tanto se eliminarán también</string>
 	<string name="delete_account_warning_part2_format">Para ocultar la cuenta, pero guardar el historial de transacciones, en su lugar pulse ^1 y cierre la cuenta</string>
 	<string name="no_accounts">No tienes ninguna cuenta</string>
     <string name="create_account_instructions_format">Para crear una cuenta, pulsa el botón ^i en la parte superior de la pantalla</string>
@@ -94,7 +94,7 @@
     <string name="type_details_about_warranty_information">Detalles del tipo de garantía</string>
     <string name="warranty_expiration_date">Fecha de caducidad de la garantía</string>
     <string name="manufacturer_web_address">Dirección web del fabricante</string>
-    <string name="property_address">Dirección de la propiedad</string>
+    <string name="property_address">Dirección de la inmueble</string>
     <string name="closed">Cerrado</string>
     <string name="reopened">Reabierto</string>
     <string name="reopen_canceled">Reapertura cancelada</string>
@@ -126,11 +126,11 @@
     <string name="projected_balance_at_the_end_of_the_month">Saldo previsto a fin de mes</string>
     <string name="at_months_end">A fin de mes</string>
 	<string name="projected_balance_on_the_nth_day_of_the_month_format">Saldo previsto al ^1</string>
-	<string name="total_for_format">Total por ^1</string>
+	<string name="total_for_format">Total para ^1</string>
 	<string name="total_for_month">Total por mes</string>
 	<string name="period">Período</string>
 	<string name="total_for_period">Total por periodo</string>
-	<string name="total_for_unassigned">Total para «sin asignar»</string>
+	<string name="total_for_unassigned">Total sin categoriza</string>
 	<string name="make_account_budget_question_part1">Te gustaría incluir esta cuenta en tu presupuesto</string>
 	<string name="make_account_budget_question_part2_format">Aún si presionas ^1, puedes hacer esto luego mediante la edición de la cuenta</string>
 	<string name="show_option_format">Mostrar la opción ^1 </string>
@@ -160,10 +160,10 @@
 	</string-array>
 
 	<string-array name="total_for_account_group_labels">
-		<item>Total de cuentas bancarias</item>
+		<item>Total en cuentas bancarias</item>
 		<item>Total en efectivo</item>
-		<item>Total de cuentas de crédito</item>
-		<item>Total de cuentas de inversión</item>
+		<item>Total en cuentas de crédito</item>
+		<item>Total en cuentas de inversión</item>
 		<!-- <item>Total for loans and liabilities</item> -->
 		<item>Total de otros pasivos</item>
 		<item>Total de otros activos</item>

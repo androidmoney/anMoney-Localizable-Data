@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="splits">பிளவுகள்</string> <!-- This is a noun -->
-    <string name="split_canceled">பிளவு இரத்து செய்யப்பட்டது</string> <!-- "Split" is a verb -->
+    <string name="split_canceled">பிளவு இரத்து செய்யப்பட்டது</string>
     <string name="new_split">புதிய பிளவு</string> <!-- "Split" here and below are nouns -->
     <string name="edit_split">பிளவை திருத்து</string>
     <string name="edit_splits">பிளவுகளை திருத்து</string>

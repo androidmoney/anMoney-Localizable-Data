@@ -20,7 +20,7 @@
     <string name="the_additional_amount_for_this_class">இந்த உபரி தொகை இந்த பிரிவிற்காக</string>
     <string name="currently_daily_format">தற்போழுது ^1 தினமும்</string>
     <string name="currently_weekly_format">தற்போழுது ^1 வாராந்திரம்</string>
-    <string name="currently_biweekly_format">தற்போழுது ^1 அரைத்திங்கள்</string>
+    <string name="currently_biweekly_format">தற்போது ^1 அரைத்திங்கள்</string>
     <string name="currently_monthly_format">தற்போழுது ^1 மாதாந்திரம்</string>
     <string name="currently_quarterly_format">தற்போழுது ^1 காலாண்டு</string>
     <string name="currently_half_yearly_format">தற்போழுது ^1 அரையாண்டு</string>
@@ -33,6 +33,6 @@
     <string name="special_item">சிறப்பு உறுப்பு</string>
     <string name="no_budget_items">நீங்கள் எந்த திட்டஅறிக்கை உறுப்புகளையும் கொண்டிருக்கவில்லை</string>
     <string name="create_budget_item_instructions_format">திட்டஅறிக்கை உறுப்புகளை உருவாக்க, திரையின் மேல் உள்ள ^i ஐ தட்டவும்</string> <!-- ^i will be replaced by an image -->
-    <string name="customized_schedule">விருப்பிற்கேற்ற காலஅட்டவணை</string> <!-- As in "Customized monthly budget amounts" -->
+    <string name="customized_schedule">விருப்பின்படியான காலதிட்டம்</string>
 	<string name="include_budget_items">திட்டஅறிக்கை உறுப்புகள் உள்பட</string> <!-- as in "Include budget items on report" -->
 </resources>

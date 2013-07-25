@@ -11,7 +11,7 @@
     <string name="colon_format">^1:</string>
     <string name="two_part_slash_format">^1 / ^2</string>
     <string name="two_part_comma_format">^1, ^2</string>
-<!-- New -->    <string name="default_name_format">^1 No. ^2</string> <!-- "Book No. 2" -->
+	<string name="default_name_format">^1 #^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
 	<string name="plus_format">^1+</string>
@@ -37,11 +37,11 @@
     <string name="add_favorite">விருப்பமானதில் சேர்</string>
     <string name="added_to_favorites">விருப்பமானதில் சேர்க்கப்பட்டது</string>
     <string name="remove">அகற்று</string>
-    <string name="remove_favorite">விருப்பமானதில் இருந்து அகற்று</string>
-    <string name="removed_from_favorites">விருப்பமானதில் இருந்து அகற்றப்பட்டது</string>
+    <string name="remove_favorite">விருப்பமானதில் இருந்து நீக்கு</string>
+    <string name="removed_from_favorites">விருப்பமானதில் இருந்து நீக்கப்பட்டது</string>
     <string name="save">சேமி</string> <!-- This is a verb -->
     <string name="saved">சேமிக்கப்பட்டது</string>
-    <string name="save_canceled">சேமிப்பு இரத்து செய்யப்பட்டது</string>
+    <string name="save_canceled">சேமித்தல் இரத்து செய்யப்பட்டது</string>
     <string name="canceled">இரத்து செய்யப்பட்டது</string>
     <string name="delete">அழி</string>
     <string name="deleted">அழிக்கப்பட்டது</string>
@@ -69,7 +69,7 @@
     <string name="copy_to_clipboard">பிடிப்புபலகையில் நகலெடு</string>
     <string name="set">அமை</string> <!-- Set a value -->
 	<string name="share">பகிர்ந்து கொள்</string>
-	<string name="share_canceled">பகிர்வு இரத்து செய்யப்பட்டது</string>
+    <string name="share_canceled">பகிர்தல் இரத்து செய்யப்பட்டது</string>
     <string name="create_in_app_name_format">^1 ல் உருவாக்கு</string> <!-- Create in Contacts -->
     <string name="pick_from_app_name_format">^1 லிருந்து எடு</string> <!-- Pick from Contacts -->
     <string name="do_not_ask_again">மீண்டும் கேட்க வேண்டாம்</string>
@@ -125,7 +125,7 @@
 	<string name="collapse_all">எல்லாவற்றையும் சுருக்கு</string>
 	<string name="all_collapsed">எல்லாம் சுருக்கப்பட்டது</string>
     <string name="postal_address">கடிதத்தொடர்பு முகவரி</string>
-    <string name="postal_address_hint">தெரு\nநகரம்\nதபால் குறியீட்டெண்</string>
+    <string name="postal_address_hint">தெரு\nநகரம்/மாநிலம்/பின்கோடு</string>
     <string name="cannot_perform_sd_card_operation">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது ஏனெனில் உங்கள் சாதனத்தில் குறுசேமிப்பு அட்டைஇல்லை, அல்லது தற்போழுது உங்கள் சாதனம் கணினியோடு இனைக்கப்பட்டிருக்கும்</string>
     <string name="cannot_perform_file_system_operation_format">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது உள் நினைவகப் பாதை (^1) ஐ அணுக இயலாது</string>
     <string name="please_correct_and_try_again">தயவுசெய்து இதை சரிசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்</string>

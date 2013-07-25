@@ -73,13 +73,13 @@
     <string name="net_income">நிகர வருவாய்</string>
     <string name="uncategorized">வகைபடுத்தப்படாதது</string>
     <string name="income_uncategorized">வகைபடுத்தப்படாத வருவாய்</string>
-    <string name="expense_uncategorized">வகைபடுத்தப்படாத செலவு</string>
-    <string name="show_uncategorized">வகைபடுத்தப்படாதவைகளை காட்டு</string>
+    <string name="expense_uncategorized">வகைபடுத்தப்படாத செலவினம்</string>
+    <string name="show_uncategorized">வகைபடுத்தப்படாததை காட்டு</string>
     <string name="move_subcategory_to_another_category_warning">இந்த உள்வகைபாட்டை மற்றொரு வகைபாட்டிற்கு நகர்த்த விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="show_zero_balance_categories">மீதம் பூச்சியமாக உள்ள வகைபாடுகளை காட்டு</string>
     <string name="show_zero_balance_items">மீதம் பூச்சியமாக உள்ள உருப்புகளை காட்டு</string> <!-- "Items" refers to classification name -->
-    <string name="recategorize_category">அனைத்து பரிவர்த்தனைகளையும் இந்த வகைபாடாக மறுவகைபடுத்து</string>
-    <string name="recategorize_class">அனைத்து பரிவர்த்தனைகளையும் இந்த பிரிவாக மறுவகைபடுத்து</string>
+    <string name="recategorize_category">இந்த வகைபாட்டிற்கு எல்லா பரிவர்த்தனைகளையும் மறுவகைபடுத்து</string>
+    <string name="recategorize_class">இந்த பிரிவிற்கு எல்லா பரிவர்த்தனைகளையும் மறுவகைபடுத்து</string>
 	<string name="spending_by_category0">வகைபாட்டின் வழி செலவுகள்</string>
 	<string name="spending_by_category1">வகைபாட்டின் வழி செலவுகள் அல்லது ^1</string>
 	<string name="spending_by_category2">வகைபாட்டின் வழி செலவுகள், ^1 அல்லது ^2</string>

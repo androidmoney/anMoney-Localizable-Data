@@ -15,14 +15,14 @@
     <string name="upgrading_book">புத்தகம் மேம்படுத்தப்படுகிறது</string>
     <string name="upgrading_books">புத்தகங்கள் மேம்படுத்தப்படுகிறது</string>
     <string name="backup">காப்புநகல்</string> <!-- Verb -->
-    <string name="backup_canceled">காப்புநகல் இரத்துசெய்யப்பட்டது</string>
+    <string name="backup_canceled">காப்புநகல் இரத்து செய்யப்பட்டது</string>
     <string name="backup_book">புத்தகத்தை காப்புநகலெடு</string>
     <string name="overwrite">மேலெழுதுக</string>
     <string name="backup_name">பெயரை காப்புநகலெடு</string>
     <string name="auto_backup_name_format">^1 (^2 தானியங்கு)</string>
     <string name="restore">மீட்டெடு</string>
     <string name="restored">மீட்டெடுக்கப்பட்டது</string>
-    <string name="restore_canceled">மீட்டெடுத்தல் இரத்துசெய்யப்பட்டது</string>
+    <string name="restore_canceled">மீட்டெடுத்தல் இரத்து செய்யப்பட்டது</string>
     <string name="restore_book">புத்தகத்தை மீட்டெடு</string>
     <string name="restore_warning_format">புத்தகம் ^1 மேலெழுதப்பட்டுவிடும் மேலும் அதன் <b>எல்லா</b> தரவுகளும் திரும்ப்பெற இயலாதபடிக்கு அழிக்கப்பட்டுவிடும்</string>
     <string name="select_backup_file_to_restore">மீட்டெடுப்பதற்காக காப்புநகல் கோப்பை தெரிவுசெய்</string>
@@ -182,7 +182,7 @@
         <item/> <!-- Not used -->
 	</string-array>
     
-    <string name="set_button_behavior_format">^1 விசையின் நடத்தை</string>
+    <string name="set_button_behavior_format">^1 தொடு உணர்வியல்</string>
 	<string-array name="set_button_behavior_items">
 		<item>தற்பொழுது காட்டப்படும் எண் ஐ அமைக்கவும்</item>
 		<item>கணக்கீட்டை முடித்து கிடைக்கும் விடையை அமைக்கவும்</item>
@@ -210,7 +210,7 @@
     <string name="new_payee_confirmation_description">இது தேர்வானால், புதிய பெறுபவர் உறுவாக்கத்தின்போது ஒரு உறுதி செய்தல் காட்சியாகும்</string>
     
     <string name="duplicate_check_number">மறுநகல் காசோலை எண்</string>
-    <string name="duplicate_check_number_description">இது தேர்வானால், காசோலை எண் ஏற்கனவே உபயோகப்படுத்தியிருந்தால் ஒரு எச்சரிக்கை காட்சியாகும்</string>
+    <string name="duplicate_check_number_description">இது தேர்ந்தெடுக்கப்பட்டால், ஏற்கனவே பயன்படுத்திய காசோலை எண்ணாக இருந்தால் ஒரு எச்சரிக்கை காட்சியாகும்</string>
     
     <string name="field_with_initial_focus">ஆரம்ப உபயோகத் தளம்</string>
     

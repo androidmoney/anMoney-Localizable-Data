@@ -4,7 +4,7 @@
     <string name="reports">அறிக்கைகள்</string>
 	<string name="view_report">அறிக்கையை பார்க்க</string>
 	<string name="view_reports">அறிக்கைகளை பார்க்க</string>
-	<string name="report_canceled">அறிக்கை இரத்து செய்யப்பட்டது</string>
+    <string name="report_canceled">அறிக்கை இரத்து செய்யப்பட்டது</string>
 	<string name="export_report">அறிக்கையை ஏற்றுமதி செய்</string>
 	<string name="report_exported">வெற்றிகரமாக பதிவு அட்டைக்கு அறிக்கையை ஏற்றுமதி செய்யப்பட்டது</string>
 	<string name="share_report">அறிக்கையை பகிர்ந்துகொள்</string>
@@ -15,7 +15,7 @@
     <string name="report_settings_instructions_format">அறிக்கை அமைப்புகளை மாற்ற, திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^1 will be replaced by an image -->
 	<string name="reset_report_settings">அமைப்புகள் அதன் இயல்பிருப்பு நிலைக்கு மீட்டமைக்கப்படும்</string>
 	<string name="settings_reset">அமைப்புகளை மீட்டமைக்க</string>
-	<string name="reset_canceled">மீட்டமைப்பு இரத்து செய்யப்பட்டது</string>
+    <string name="reset_canceled">மீட்டமைப்பு இரத்து செய்யப்பட்டது</string>
     <string name="report_settings_tip_format">அறிக்கையின் அமைப்புகளை மாற்ற:\n\n<li>அறிக்கையின் பெயர் மீது நீண்ட அழுத்தத்தை தரவும் மேலும் ^1 ஐ தொடவும்</li>\n\n<li> அறிக்கை தெரியும்போழுது மேலே வலது மூலையில் இருக்கும் குறிப்படத்தை தொடவும்</li></string>
 	<string name="report_name">அறிக்கையின் பெயர்</string>
 	<string name="all_reports">அனைத்து அறிக்கைகள்</string>
