@@ -5,11 +5,11 @@
     <string name="new_book_name">Nombre del nuevo libro</string>
     <string name="rename_book">Renombrar libro</string>
     <string name="delete_book">Eliminar libro</string>
-<!-- Verify --> <string name="share_book">Compartir libro</string>
-    <string name="book_delete_warning_short_format">Libro ^1 será eliminado</string>
-    <string name="all_data_will_be_lost">Todos los datos de este libro se perderán para siempre, si no hay una copia de seguridad</string>
+    <string name="share_book">Compartir libro</string>
+    <string name="book_delete_warning_short_format">Se eliminará el libro ^1</string>
+    <string name="all_data_will_be_lost">Todos los datos de este libro se perderán para irreversiblemente, a menos que haya una copia de seguridad</string>
     <string name="import_into_book">Importar en el libro</string>
-    <string name="export_from_book">Exportación del libro</string>
+    <string name="export_from_book">Exportar el libro</string>
     <string name="import_into_book_format">Importar en el libro ^1</string>
     <string name="no_books">No tienes ningún libro</string>
     <string name="upgrading_book">Actualizando libro</string>
@@ -31,14 +31,14 @@
     <string name="no_sd_card_inserted">No hay ninguna tarjeta SD insertada</string>
     <string name="select_files">Seleccione los archivos</string>
     <string name="delete_file">Eliminar archivo</string>
-    <string name="delete_file_warning_format">Archivo ^1 será eliminado</string>
+    <string name="delete_file_warning_format">Se eliminará el archivo ^1</string>
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 archivos seleccionados serán eliminadas</item>
+        <item>Se eliminarán ^1 archivos seleccionados</item>
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Seleccionar libro</string>
-    <string name="select_book_to_import_into">Seleccione el libro para importar declaraciones</string>
+    <string name="select_book_to_import_into">Selecciona el libro para importar declaraciones</string>
     <string name="select_import_file">Seleccione archivo(s) para importar</string>
     <string name="not_specified_brackets">&lt;No especificado></string>
     <string name="map_accounts">Mapa de cuentas</string>
