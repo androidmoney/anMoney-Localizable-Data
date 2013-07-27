@@ -134,7 +134,7 @@
 	<string name="make_account_budget_question_part1">Você gostaria de fazer dessa conta parte do seu orçamento</string>
 	<string name="make_account_budget_question_part2_format">Mesmo se você escolher ^1, você pode fazer isto mais tarde editando a conta</string>
 	<string name="show_option_format">Mostrar a opção ^1</string>
-    <string name="show_closed">Mostrar\nfechadas</string>
+    <string name="show_closed">Mostrar fechadas</string>
 
     <string name="no_accounts_yet">Nenhuma conta ainda</string>
 	<string-array name="account_count_format_plurals">

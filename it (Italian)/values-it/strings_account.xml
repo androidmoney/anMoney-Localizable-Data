@@ -134,7 +134,7 @@
 	<string name="make_account_budget_question_part1">Vorresti che questo conto facesse parte del tuo budget</string>
 	<string name="make_account_budget_question_part2_format">Anche se premi ^1, lo potrai fare dopo modificando le impostazioni del tuo conto</string>
 	<string name="show_option_format">Visualizza il ^1 opzioni</string>
-	<string name="show_closed">Visualizzazione\nchiusa</string>
+	<string name="show_closed">Visualizzazione chiusa</string>
 	
     <string name="no_accounts_yet">Ancora nessun conto</string>
 	<string-array name="account_count_format_plurals">

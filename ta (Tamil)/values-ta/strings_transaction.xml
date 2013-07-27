@@ -10,11 +10,11 @@
     <string name="select">தேர்வு செய்</string>
     <string name="accept">ஏற்றுக் கொள்</string>
     <string name="accepted">ஏற்றுக்கொள்ளப்பட்டது</string>
-    <string name="accept_canceled">ஏற்பது இரத்து செய்யப்பட்டது</string>
+    <string name="accept_canceled">ஏற்பது இரத்துசெய்யப்பட்டது</string>
     <string name="accept_transaction_all"><b>எல்லா</b> பரிவர்தனைகள் ஏற்றுக்கொள்ளப்பட்டுவிடும்</string>
     <string name="mark">குறியிடு</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
     <string name="marked">குறியிடப்பட்டது</string>
-    <string name="mark_canceled">குறியிடுதல் இரத்து செய்யப்பட்டது</string>
+    <string name="mark_canceled">குறியிடுதல் இரத்துசெய்யப்பட்டது</string>
     <string name="mark_transaction">பரிவர்த்தனையை குறியிடு</string>
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
@@ -39,7 +39,7 @@
     <string name="notes_created">குறிப்புகள் உருவாக்கப்பட்டது</string>
     <string name="notes_edited">குறிப்புகள் திருத்தப்பட்டது</string>
     <string name="notes_deleted">குறிப்புகள் அழிக்கப்பட்டது</string>
-    <string name="notes_creation_canceled">குறிப்பு உருவாக்கம் இரத்து செய்யப்பட்டது</string>
+    <string name="notes_creation_canceled">குறிப்புகள் உருவாக்கம் இரத்து செய்யப்பட்டது</string>
     <string name="flag_for_follow_up">பின்தொடர் சுட்டிக்காட்டி</string>
     <string name="edit_follow_up">பின்தொடரை திருத்த</string>
     <string name="make_recurring">மறுநிகழ்வை ஏற்படுத்த</string>
@@ -56,7 +56,7 @@
     <string name="transfer_account">பரிமாற்றக் கணக்கு</string>
     <string name="add">சேர்க்க</string>
     <string name="added">சேர்க்கப்பட்டது</string>
-    <string name="add_canceled">சேர்த்தல் இரத்து செய்யப்பட்டது</string>
+    <string name="add_canceled">சேர்த்தல் இரத்துசெய்யப்பட்டது</string>
     <string name="accept_and_edit">ஏற்க &amp; திருத்த</string>
     <string name="add_and_close">சேர்க்க &amp; முடிக்க</string>
     <string name="duplicate_in_current_account">நடப்பு கணக்கில் மறுநகலெடு</string>
@@ -90,12 +90,12 @@
     <string name="missing_category_warning_message_format">கண்டிப்பாக ஒரு  வகைபாட்டை குறிப்பிட பரிந்துரைக்கப்படுகிறது, அது இல்லையென்றால், செலவு அறிக்கையில் தவறு ஏற்படலாம்.\n\nவகைபாட்டை குறிப்பிடாமலே பரிவர்த்தனையை சேமிக்க^1 ஐ தட்டு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^2</string>
     <string name="expense_category_given_for_income_message_format">^1 க்காக செலவு வகைப்பாடு குறிப்பிடப்பட்டுள்ளது.\n\nவகைப்பாட்டை அப்படியே விட ^2 ஐ தொடு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^3</string> <!-- the ^1 parameter comes from amount1_description array -->
     <string name="income_category_given_for_expense_message_format">^1 க்காக வரவு வகைப்பாடு குறிப்பிடப்பட்டுள்ளது.\n\nவகைப்பாட்டை அப்படியே விட ^2 ஐ தொடு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^3</string> <!-- the ^2 parameter comes from amount2_description array -->
-    <string name="payee_not_found_format">பணம் பெறுபவர் ^1 தென்படவில்லை</string>
-    <string name="payer_not_found_format">பணம் செலுத்துபவர் ^1 தென்படவில்லை</string>
-    <string name="would_you_like_to_create_it">நீங்கள் அதை உருவாக்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="payee_not_found_format">பெறுபவர் ^1 தென்படவில்லை</string>
+    <string name="payer_not_found_format">செலுத்துபவர் ^1 தென்படவில்லை</string>
+    <string name="would_you_like_to_create_it">நீங்கள் இதை உருவாக்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="amount_zero_warning_message_format">பரிவர்த்தனை தொகை பூஞ்சியம்.\n\nஅந்த தொகையை பூஞ்சியமாக விட ^1 ஐ தொடு, அல்லது ஒரு வெற்றிட பரிவர்த்தனைக்குள் நுழைய ^2</string>
     <string name="sum_of_splits_warning_message_format">பிளவுகளின் கூட்டுத்தொகை பரிவர்த்தனை தொகையோடு ஒத்துப்போகவில்லை.\n\nபிளவை திருத்த ^1 ஐ தொடு</string>
-    <string name="duplicate_number_message_format">^1 தேதியிட்ட ஒரு பரிவர்த்தனையில் ஏற்கனவே இந்த எண் பயன்படுத்தப்பட்டுள்ளது.\n\nஅதையே பயன்படுத்த ^2 ஐ தொடு, அல்லது பரிவர்த்தனையை திருத்த ^3</string>
+    <string name="duplicate_number_message_format">ஒரு பரிவர்த்தனை தேதி ^1 ஏற்கனவே இந்த காசோலை எண்ணில் பயன்படுத்தப்பட்டுள்ளது,.\n\nமீண்டும் இந்த எண்ணை பயன்படுத்த ^2 ஐ தட்டு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^3</string>
     <string name="leave_zero">பூஞ்சியமாக விடு</string>
     <string name="credits">வரவுகள்</string>
     <string name="no_credits">வரவுகள் இல்லை</string>
@@ -108,14 +108,14 @@
     <string name="payments">பண அளிப்புகள்</string>
     <string name="no_payments">பண அளிப்புகள் இல்லை</string>
     <string name="checks_payments">காசோலைகள் &amp; பண அளிப்புகள்</string>
-    <string name="no_checks_payments">காசோலைகள் அல்லது பண அளிப்புகள் இல்லை</string>
+    <string name="no_checks_payments">காசோலைகளோ அல்லது பண அளிப்புகளோ இல்லை</string>
     <string name="deposits_payments">வைப்புநிதிகள் &amp; பண அளிப்புகள்</string>
     <string name="no_deposits_payments">வைப்புநிதிகளோ அல்லது பண அளிப்புகளோ இல்லை</string>
     <string name="no_unreconciled_transactions">சமரசமல்லாத பரிவர்த்தனைகள் இல்லை</string>
     <string name="cleared_all_transactions">எல்லா பரிவர்த்தனைகளும் தெளிவாக்கப்பட்டது</string>
     <string name="next_check_number">அடுத்த காசோலை எண்</string>
-	<string name="cleared_transactions_color">தெளிவான பரிவர்த்தனைகளின் நிறம்</string>
-	<string name="reconciled_transactions_color">சமரசமான பரிவர்த்தனைகளின் நிறம்</string>
+    <string name="cleared_transactions_color">தெளிவாக்கப்பட்ட பரிவர்த்தனைகளின் நிறம்</string> <!-- As in "color of cleared transactions" -->
+    <string name="reconciled_transactions_color">சமரசமாக்கப்பட்ட பரிவர்த்தனைகளின் நிறம்</string> <!-- As in "color of teconciled transactions" -->
 	<string name="create_transaction_instructions_format">ஒரு பரிவர்த்தனையை உருவாக்க, திரையின் மேலே உள்ள ^i ஐ தொடு</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">உரை வடிகட்டி</string>
     <string name="profit_and_loss_statement">லாபம் &amp; நஷ்டம் அறிக்கை</string>
@@ -162,7 +162,7 @@
         <item>அந்த வைப்புநிதி</item>
     </string-array>
 
-	<string name="delete_transaction_warning">அந்த பரிவர்த்தனை அழிக்கப்பட்டுவிடும்</string>
+	<string name="delete_transaction_warning">இந்த பரிவர்த்தனை அழிக்கப்பட்டுவிடும்</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 தேர்ந்தெடுக்கப்பட்ட பரிவர்த்தனைகள் அழிக்கப்பட்டுவிடும்</item>

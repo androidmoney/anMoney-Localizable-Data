@@ -37,11 +37,11 @@
     <string name="add_favorite">விருப்பமானதில் சேர்</string>
     <string name="added_to_favorites">விருப்பமானதில் சேர்க்கப்பட்டது</string>
     <string name="remove">அகற்று</string>
-    <string name="remove_favorite">விருப்பமானதில் இருந்து நீக்கு</string>
-    <string name="removed_from_favorites">விருப்பமானதில் இருந்து நீக்கப்பட்டது</string>
+    <string name="remove_favorite">விருப்பமானதில் இருந்து அகற்று</string>
+    <string name="removed_from_favorites">விருப்பமானதில் இருந்து அகற்றப்பட்டது</string>
     <string name="save">சேமி</string> <!-- This is a verb -->
     <string name="saved">சேமிக்கப்பட்டது</string>
-    <string name="save_canceled">சேமித்தல் இரத்து செய்யப்பட்டது</string>
+    <string name="save_canceled">சேமிப்பு இரத்து செய்யப்பட்டது</string>
     <string name="canceled">இரத்து செய்யப்பட்டது</string>
     <string name="delete">அழி</string>
     <string name="deleted">அழிக்கப்பட்டது</string>
@@ -69,7 +69,7 @@
     <string name="copy_to_clipboard">பிடிப்புபலகையில் நகலெடு</string>
     <string name="set">அமை</string> <!-- Set a value -->
 	<string name="share">பகிர்ந்து கொள்</string>
-    <string name="share_canceled">பகிர்தல் இரத்து செய்யப்பட்டது</string>
+	<string name="share_canceled">பகிர்வு இரத்து செய்யப்பட்டது</string>
     <string name="create_in_app_name_format">^1 ல் உருவாக்கு</string> <!-- Create in Contacts -->
     <string name="pick_from_app_name_format">^1 லிருந்து எடு</string> <!-- Pick from Contacts -->
     <string name="do_not_ask_again">மீண்டும் கேட்க வேண்டாம்</string>
@@ -108,7 +108,7 @@
 	<string name="please_rate_app_format">சிறிதுநேரம்\n^1 ஐ தகுதியிடு</string> <!-- ^1 is app name -->
 	<string name="later_rate_description">சுமார் ஒரு வாரத்தில் நீங்கள் நினைவூட்டப்படுவீர்</string>
 	<string name="no_rate_description_format">^1 திரையிலிருந்து எந்த நேரத்திலும் நீங்கள் இதை செய்ய முடியும</string> <!-- ^1 is "Settings" -->
-<!-- New --> <string name="task_killer_warning_format">பயன்பாட்டுச்செயலிகளின் பணி முடக்கியை பற்றிய எச்சரிக்கை apps:\n\nஉங்கள் சாதனம் தானியங்கு செயல்முறைக்காக ஒரு நாளில் ஒரு முறை எழுந்திரிக்கும். இந்த செயலாக்கம் ஒரு சில விநாடிகள் மட்டுமே நீடிக்கும் என்பதால், இது உங்கள் சாதனத்தின் மின்சக்தியில் எந்த மோசமான பாதிப்பையும் ஏற்படுத்தாது.\n\nமுறையாக செயல்படுத்தபடும் இந்த பின்னனி செயலாக்கத்தை பணி முடக்கிகளால் தடுக்கவோ மேலும் ^1 வுடன் பயன்படுத்தவோ முடியாது</string> <!-- ^1 is app name -->
+	<string name="task_killer_warning_format">பயன்பாட்டுச்செயலிகளின் பணி முடக்கியை பற்றிய எச்சரிக்கை செயலிகள்:\n\nஉங்கள் சாதனம் தானியங்கு செயல்முறைக்காக ஒரு நாளில் ஒரு முறை எழுந்திரிக்கும். இந்த செயலாக்கம் ஒரு சில விநாடிகள் மட்டுமே நீடிக்கும் என்பதால், இது உங்கள் சாதனத்தின் மின்சக்தியில் எந்த மோசமான பாதிப்பையும் ஏற்படுத்தாது.\n\nமுறையாக செயல்படுத்தபடும் இந்த பின்னனி செயலாக்கத்தை பணி முடக்கிகளால் தடுக்கவோ மேலும் ^1 வுடன் பயன்படுத்தவோ முடியாது</string> <!-- ^1 is app name -->
 	<string name="no_thanks">தேவையில்லை, நன்றி</string>
 	<string name="maybe_later">ஒருவேளை பிறகு</string>
 	<string name="unexpected_error_warning">எதிர்பாராத பிழை ஏற்பட்டதால் anMoney நிறுத்தப்பட்டது.\n\nமின்னஞ்சலில் பிழை அறிக்கை அனுப்புவதன் மூலம் இதை சரிசெய்ய எங்களுக்கு உதவுங்கள். மின்னஞ்சல் அனுப்பும் முன் திருத்துவதற்கு உங்களுக்கு வாய்ப்புள்ளது.\n\nஉங்கள் ஒத்துழைப்பிற்கு நன்றி.</string>
@@ -125,7 +125,7 @@
 	<string name="collapse_all">எல்லாவற்றையும் சுருக்கு</string>
 	<string name="all_collapsed">எல்லாம் சுருக்கப்பட்டது</string>
     <string name="postal_address">கடிதத்தொடர்பு முகவரி</string>
-    <string name="postal_address_hint">தெரு\nநகரம்/மாநிலம்/பின்கோடு</string>
+    <string name="postal_address_hint">தெரு\nநகரம்\nதபால் குறியீட்டெண்</string>
     <string name="cannot_perform_sd_card_operation">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது ஏனெனில் உங்கள் சாதனத்தில் குறுசேமிப்பு அட்டைஇல்லை, அல்லது தற்போழுது உங்கள் சாதனம் கணினியோடு இனைக்கப்பட்டிருக்கும்</string>
     <string name="cannot_perform_file_system_operation_format">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது உள் நினைவகப் பாதை (^1) ஐ அணுக இயலாது</string>
     <string name="please_correct_and_try_again">தயவுசெய்து இதை சரிசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்</string>

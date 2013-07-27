@@ -8,7 +8,7 @@
 	<string name="new_recurring">புதிய மறுநிகழ்வு</string>
 	<string name="enter">உள்ளிடு</string>
 	<string name="entered">உள்ளிடப்பட்டது</string>
-    <string name="enter_canceled">உள்ளீடு இரத்து செய்யப்பட்டது</string>
+	<string name="enter_canceled">உள்ளிடுதல் இரத்துசெய்யப்பட்டது</string>
 	<string name="enter_into_register">பதிவுக்கான உள்ளீடு</string>
 	<string name="enter_into_register_warning">இதை தற்போது பதிவு செய்வதற்காக உள்ளிடுகிறீர்களா என்பதை தயவுசெய்து உறுதி செய்யவும்</string>
 	<string name="enter_now">தற்போது உள்ளிடவும்</string>
@@ -20,7 +20,7 @@
 	<string name="edit_series">தொடரை திருத்த</string>
 	<string name="edit_occurrence">நிகழ்வை திருத்த</string>
 	<string name="entire_series">ஒட்டுமொத்த தொடர்கள்</string>
-    <string name="edit_template_warning">விருப்பின்படியான வருங்கால நிகழ்வுகள் இங்கே.\n\nஇந்த தொடரை திருத்துவதன் மூலம் விருப்பங்களை நீக்கலாம்</string>
+	<string name="edit_template_warning">தனிப்பயன் எதிர்கால நிகழ்வுகள் உள்ளன.\n\nதொடரை திருத்துவதன் மூலம் இந்த தனிப்பயன் தகவுகளை நீக்கலாம்</string>
 	<string name="delete_recurring">தொடர்நிகழ்வை அழி</string>
 	<string name="delete_recurring_warning_part1_format">^1 ஐ அழி</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
 	<string name="delete_recurring_warning_part2">அனைத்து எதிர்கால நிகழ்வுகளும் அழிக்கப்பட்டுவிடும்</string>
@@ -33,7 +33,7 @@
 		<item>^1 நிகழ்வுகள் தவிர்க்கப்பட்டது</item>
         <item/> <!-- Not used -->
 	</string-array>
-	<string name="skip_canceled">தவிர்த்தல் இரத்து செய்யப்பட்டது</string>
+	<string name="skip_canceled">தவிர்ப்பு இரத்து செய்யப்பட்டது</string>
 	<string name="skip_which">எதை தவிர்க்க</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="skip_one_occurrence_warning">வரவிருக்கும் நிகழ்வுகளை தவிர்க்கவா</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="no_recurrings_format">நீங்கள் எந்த கட்டணசீட்டுகள் அல்லது வைப்பு நிதிகளை பெற்றிருக்கவில்லை.\n\nஒன்றை உருவாக்க:\n\n<li>^1</li>\n\n<li>பரிவர்த்தனையை நீளமாக தொடவும் பிறகு ^2 ஐ தொடவும்</li></string>
@@ -43,8 +43,8 @@
 	<string name="account_and_amount">கணக்கு &amp; தொகை</string>
 	<string name="payee_and_category">பெறுபவர் &amp; வகைபாடு</string>
 	<string name="auto_enter_and_reminder">தானியங்கு உள்ளீடு &amp; நீனைவூட்டல்</string>
-	<string name="pay_by_check">நான் இதற்கு காசோலை மூலமாக அளிப்பேன்</string>
-	<string name="amount_is">தொகை உள்ளது</string>
+	<string name="pay_by_check">நான் காசோலை வழி பணம் செலுத்துகிறேன்</string>
+	<string name="amount_is">தொகை தன்மை</string>
 	<string name="fixed">நிலையானது</string>
 	<string name="estimated">உத்தேசமானது</string>
 	<string name="estimated_amount_format">^1^2</string>
@@ -78,7 +78,7 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="upcoming_date">வரவிருக்கம் நாள்</string> <!-- As in the "the date of the upcoming recurring instance" --> 
-    <string name="series_start_date">தெடர் ஆரம்ப தேதி</string> <!-- As in the "the starting date of the entire recurring series" -->
+    <string name="series_start_date">தொடர் ஆரம்ப தேதி</string> <!-- As in the "the starting date of the entire recurring series" -->
 	<string name="end_date_if_any">முடிவு தேதி சேர்க்கவும். ஏதேனும் இருந்தால்</string>
 	<string name="invalid_date">ஒத்துவராத தேதி</string>
 	<string name="repeat">மீண்டும்</string>
@@ -293,7 +293,7 @@
 	
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
-<!-- New --> <item>^1 days before</item>
+		<item>^1 நாட்கள் முன்னதாக</item>
         <item/> <!-- Not used -->
 	</string-array>
 	
@@ -303,5 +303,5 @@
         <item/> <!-- Not used -->
 	</string-array>
 	
-<!-- New --> <string name="specify_custom_number_of_days">Specify custom number of days</string>
+	<string name="specify_custom_number_of_days">விருப்பிற்கேற்ற நாட்களை குறிப்பிடவும்</string>
 </resources>

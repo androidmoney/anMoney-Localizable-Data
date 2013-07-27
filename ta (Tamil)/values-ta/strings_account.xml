@@ -13,7 +13,7 @@
     <string name="account_balances">கணக்கு கையிருப்புகள்</string>
     <string name="vehicle">வாகனம்</string>
     <string name="property">சொத்து</string>
-    <string name="view_accounts">கணக்குகளை பார்வையிடு</string>
+    <string name="view_accounts">கணக்குகளை பார்வையிட</string>
     <string name="new_account">புதிய கணக்கு</string>
     <string name="edit_account">கணக்கை திருத்து</string>
     <string name="balance_noun">கையிருப்பு</string> <!-- Account balance -->
@@ -28,12 +28,12 @@
     <string name="balance_account">கணக்கை சமப்படுத்து</string>
     <string name="balanced">சமநிலையானது</string> <!-- Past tense verb -->
     <string name="balance_postponed">சரிசெய்தல் தள்ளிவைக்கப்பட்டது</string>
-    <string name="balance_canceled">சரிசெய்தல் இரத்து செய்யப்பட்டது</string>
+    <string name="balance_canceled">சரிசெய்தல் இரத்தானது</string>
 	<string name="started_balancing_already">நீங்கள் ஏற்கனவே இந்த கணக்கை சமப்படுத்த தொடங்கிவிட்டீர்</string>
 	<string name="postpone_balancing_warning">சமப்படுத்தல் தள்ளிவைப்பு</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="account_balance_does_not_match_bank_warning_format">நீங்கள் உள்ளிட்ட அறிக்கையின் ஆரம்ப இருப்பு, ^1, முந்தைய எல்லா சமரசப்பரிவர்தனைகளின் தொகையோடு ஒத்துப்போகவில்லை, ^2</string>  <!-- ^1 and ^2 are numbers -->
-	<string name="account_balance_does_not_match_credit_warning_format">நீங்கள் உள்ளிட்டத் தொகை, ^1, முந்தைய எல்லா சமரசப்பரிவர்தனைகளின் தொகையோடு ஒத்துப்போகவில்லை, ^2</string> <!-- ^1 and ^2 are numbers -->
-	<string name="account_balance_does_not_match_fix">இதை சரிசெய்ய முயற்சி:\n\n<li>அறிக்கை இரட்டை-சோதனை</li>\n<li>பரிவர்தனைகளை சமரசமென குறியிடுதல்</li>\n<li>பரிவர்தனைகளை சமரசமல்ல என குறியிடுதல்</li>\n<li>தொடக்க இருப்பை சரிசெய்தல்</li></string>
+	<string name="account_balance_does_not_match_bank_warning_format">நீங்கள் உள்ளிட்ட அறிக்கையின் ஆரம்ப இருப்பு, ^1, முந்தைய எல்லா சமரசப்பரிவர்த்தனைகளின் தொகையோடு ஒத்துப்போகவில்லை, ^2</string>  <!-- ^1 and ^2 are numbers -->
+	<string name="account_balance_does_not_match_credit_warning_format">நீங்கள் உள்ளிட்டத் தொகை, ^1, முந்தைய எல்லா சமரசப்பரிவர்த்தனைகளின் தொகையோடு ஒத்துப்போகவில்லை, ^2</string> <!-- ^1 and ^2 are numbers -->
+	<string name="account_balance_does_not_match_fix">இதை சரிசெய்ய முயற்சி:\n\n<li>அறிக்கை இரட்டை-சோதனை</li>\n<li>பரிவர்த்தனைகளை சமரசமென குறியிடுதல்</li>\n<li>பரிவர்த்தனைகளை சமரசமல்ல என குறியிடுதல்</li>\n<li>தொடக்க இருப்பை சரிசெய்தல்</li></string>
 	<string name="left_to_reconcile">சமரசமாக விடுதல்</string> <!-- Amount left to reconcile -->
 	<string name="statement_balance">அறிக்கை இருப்பு</string> <!-- Statement as in "Bank statement" -->
     <string name="statement_date">அறிக்கை நாள்</string>
@@ -50,7 +50,7 @@
     <string name="interest_paid_amount">வழங்கிய வட்டி தொகை</string>
     <string name="interest_paid_category">வட்டி செலுத்திய வகை</string>
     <string name="interest_paid_notes_format">முடிவுற்ற அறிக்கை காலத்தில் வழங்கிய வட்டி ^1</string>
-    <string name="clear_all_transactions">எல்லா பரிவர்தனைகளையும் துடை</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+    <string name="clear_all_transactions">எல்லா பரிவர்த்தனைகளையும் துடை</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
 	<string name="clear_all_transactions_on_all_pages">எல்லா பக்கத்திலும் உள்ள பரிவர்த்தனைகளையும் துடை</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
     <string name="export_account">கணக்கை ஏற்றுமதி செய்</string>
     <string name="delete_account">கணக்கை அழி</string>
@@ -76,12 +76,12 @@
     <string name="favorite_account">விருப்பமான கணக்கு</string>
     <string name="favorite_accounts">விருப்பமான கணக்குகள்</string>
     <string name="account_has_been_closed">இந்த கணக்கு மூடப்பட்டது</string>
-    <string name="acquisition_date">கையகப்படுத்துதல் தேதி</string>
+    <string name="acquisition_date">கையகப்படுத்தல் தேதி</string>
     <string name="credit_limit">கடன் வரம்பு</string>
     <string name="interest_rate">வட்டி வீதம்</string>
     <string name="minimum_balance">குறைந்தபட்ச இருப்பு</string>
     <string name="date">நாள்</string>
-    <string name="make">உருவாக்கம்</string>  <!-- Vehicle make -->
+    <string name="make">உருவாக்கு</string>  <!-- Vehicle make -->
     <string name="vehicle_make">வாகன உருவாக்கம்</string>
     <string name="year">வருடம்</string>
     <string name="model">வகை</string> <!-- Vehicle model -->
@@ -101,7 +101,7 @@
     <string name="no_financial_institution_assigned">நிதி நிறுவனம் நிருவப்படவில்லை</string>
     <string name="maximum_100">அதிகபட்சம் 100%</string>
     <string name="must_be_in_future">எதிர்காலத்தில் இருக்கவேண்டும்</string> <!-- As in "The date supplied must be a future date" -->
-    <string name="must_be_in_past">எதிர்காலத்தில் இருக்கவேண்டும்</string> <!-- As in "The date supplied must be a past date" -->
+    <string name="must_be_in_past">எதிர்காலத்தில் இருக்க வேண்டும்</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">செல்லாத</string>
     <string name="invalid_vin_number">17 எழுத்துக்கள் இருக்க வேண்டும் மற்றும்/அல்லது எண்கள்</string>
     <string name="invalid_url">செல்லாத URL</string>
@@ -118,7 +118,7 @@
 	<string name="cleared_total">தெளிவான கூடுதல்</string>
 	<string name="reconciled_total">சமரச கூடுதல்</string>
     <string name="default_cash_account_name">எனது தினசரி கணக்கு</string>
-    <string name="default_checking_account_name">எனது காசோலை கணக்கு</string>
+    <string name="default_checking_account_name">எனது நடப்பு கணக்கு</string>
     <string name="default_savings_account_name">எனது சேமிப்பு கணக்கு</string>
     <string name="default_credit_account_name">எனது கடன்அட்டை கணக்கு</string>
     <string name="color">நிறம்</string>
@@ -134,7 +134,7 @@
 	<string name="make_account_budget_question_part1">இந்த கணக்கை உங்கள் வரவுசெலவு திட்டதில் ஒரு பகுதியாக்க விருப்பமா</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="make_account_budget_question_part2_format">^1 ஐ தொட்டு,கணக்கை திருத்துவதன் மூலம் பின்னால்கூட இதை நீங்கள் செய்ய முடியும்</string> <!-- Tap is "No" -->
 	<string name="show_option_format">^1 ஐ விருப்பத் தேர்வாக காட்டு</string> <!-- This will say "Show the Next Check Number option" -->
-	<string name="show_closed">மூடப்பட்டதையும் காட்டுக</string> <!-- As in "show closed accounts" -->
+	<string name="show_closed">மூடியதை காட்டுக</string> <!-- As in "show closed accounts" -->
     
     <string name="no_accounts_yet">இன்னும் கணக்குகள் இல்லை</string>
 	<string-array name="account_count_format_plurals">
@@ -241,7 +241,7 @@
 		<item/> <!-- Intentionally left empty -->
 	</string-array>
 
-    <string name="all_transactions">எல்லா பரிவர்த்தனைகள்</string>
+    <string name="all_transactions">எல்லா பரிவர்த்தனைகளும்</string>
 	<string-array name="transaction_list_filter_title_bar">
     	<item>@string/all_transactions</item>
 		<item>@string/unreconciled2</item>
@@ -306,7 +306,7 @@
 		<item>@string/custom_dates</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
-<!-- New -->		<item>all dates</item>
+		<item>எல்லா நாட்களும்</item>
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
@@ -339,5 +339,5 @@
 		<item/> <!-- Intentionally left empty -->
 	</string-array>
 	
-    <string name="display_grouping">தொகுப்புகள் காட்டப்படும்</string>
+    <string name="display_grouping">காட்டப்படும் தொகுப்புகள்</string>
 </resources>

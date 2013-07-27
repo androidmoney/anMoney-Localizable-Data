@@ -15,22 +15,22 @@
     <string name="upgrading_book">புத்தகம் மேம்படுத்தப்படுகிறது</string>
     <string name="upgrading_books">புத்தகங்கள் மேம்படுத்தப்படுகிறது</string>
     <string name="backup">காப்புநகல்</string> <!-- Verb -->
-    <string name="backup_canceled">காப்புநகல் இரத்து செய்யப்பட்டது</string>
+    <string name="backup_canceled">காப்புநகல் இரத்துசெய்யப்பட்டது</string>
     <string name="backup_book">புத்தகத்தை காப்புநகலெடு</string>
     <string name="overwrite">மேலெழுதுக</string>
-    <string name="backup_name">பெயரை காப்புநகலெடு</string>
+    <string name="backup_name">காப்புநகலின் பெயர்</string>
     <string name="auto_backup_name_format">^1 (^2 தானியங்கு)</string>
     <string name="restore">மீட்டெடு</string>
     <string name="restored">மீட்டெடுக்கப்பட்டது</string>
-    <string name="restore_canceled">மீட்டெடுத்தல் இரத்து செய்யப்பட்டது</string>
+    <string name="restore_canceled">மீட்டெடுத்தல் இரத்துசெய்யப்பட்டது</string>
     <string name="restore_book">புத்தகத்தை மீட்டெடு</string>
-    <string name="restore_warning_format">புத்தகம் ^1 மேலெழுதப்பட்டுவிடும் மேலும் அதன் <b>எல்லா</b> தரவுகளும் திரும்ப்பெற இயலாதபடிக்கு அழிக்கப்பட்டுவிடும்</string>
+    <string name="restore_warning_format">புத்தகம் ^1 மேலெழுதப்பட்டுவிடும் மேலும் <b>எல்லா</b> அதன்  தரவுகளும் திரும்பப்பெற இயலாதபடிக்கு அழிக்கப்பட்டுவிடும்</string>
     <string name="select_backup_file_to_restore">மீட்டெடுப்பதற்காக காப்புநகல் கோப்பை தெரிவுசெய்</string>
-    <string name="select_backup_file_to_create_from">இதிலிருந்து உருவாக்க காப்புநகல் கோப்புபை தெரிவுசெய்</string>
+    <string name="select_backup_file_to_create_from">இதிலிருந்து உருவாக்க காப்புநகல் கோப்பை தெரிவுசெய்</string>
     <string name="import_statement">அறிக்கையை இறக்குமதி</string>
     <string name="no_sd_card_inserted">பதிவு அட்டை இங்கே நுழைக்கப்படவில்லை</string>
-    <string name="select_files">கோப்புபை தெரிவுசெய்</string>
-    <string name="delete_file">கோப்புபை அழி</string>
+    <string name="select_files">கோப்பை தெரிவுசெய்</string>
+    <string name="delete_file">கோப்பை அழி</string>
     <string name="delete_file_warning_format">கோப்பு ^1 அழிக்கப்பட்டுவிடும்</string>
 	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
@@ -97,7 +97,7 @@
     <string name="no_backup_files_new_instructions">இறக்குமதி கோப்பை பயன்படுத்தி புத்தகத்தை உருவாக்க முயற்சிக்கிறீர்களா, முதலில் புதியதாக ஒரு புத்தகத்தை உருவாக்கு, பின்னர் அதிலிருந்து இறக்குமதி செய்</string>
     <string name="remove_transactions">இந்த தேதிக்கு முந்தைய பரிவர்த்தனைகளை நீக்கு</string>
     <string name="book_to_make_copy_of">நகலை செய்வதற்ககான புத்தகம்</string>
-    <string name="truncate_warning_format">^1 க்கு முன்னதாக உள்ள எல்லா பரிவர்த்தனைகளும் திரும்ப பெற இயலாதபடி அழிக்கப்பட்டுவிட்டும்</string>
+    <string name="truncate_warning_format">^1 க்கு முன்னதாக உள்ள எல்லா பரிவர்த்தனைகளும் திரும்ப பெற இயலாதபடி அழிக்கப்பட்டுவிடும்</string>
     <string name="information_and_help">தகவல்களும் &amp; உதவியும்</string>
     <string name="discussion_forum">கருத்துக்களம்</string>
     <string name="join_the_user_community_format">^1 ன் உபயோகிப்பாளர் சமூகத்தில்  இனைந்து கொள்ளுங்கள்</string>
@@ -111,7 +111,7 @@
     <string name="credits_legal">வரவுகள் &amp; சட்டம்</string>
     <string name="contact_and_social">தொடர்பு &amp; சமூகம்</string>
     <string name="follow_us">எங்களை பின்பற்றவும்</string>
-    <string name="add_us_to_circle">உங்களின் வட்டாரத்தில் எங்களை சேர்க்கவும் மேலும் +1</string>
+    <string name="add_us_to_circle">உங்களின் வட்டாரத்தில் எங்களை சேர்க்கவும்  மேலும் எங்களை +1</string>
     <string name="become_a_fan">ஒரு ரசிகர் ஆக</string>
     <string name="haptic_feedback">தொடு உணர்வியல்</string>
     <string name="haptic_feedback_description">இது தேர்ந்தெடுக்கப்பட்டால் விசையை தொடும்பொழுது அதிர்வு ஏற்படும்</string>
@@ -130,7 +130,7 @@
 	<string-array name="book_new_source_descriptions">
 	    <item/> <!-- Intentionally left empty -->
 	    <item/> <!-- Intentionally left empty -->
-	    <item>மற்றும் தேவைப்பட்டால் ஒரு குறிப்பிட்ட தேதியிலிருந்து தொடங்கு</item>
+	    <item>மற்றும் தேவைப்பட்டால் ஒரு குறிப்பிட்ட தேதியிலிருந்து துவங்கு</item>
     </string-array>
 	
 	<string-array name="import_mode">
@@ -146,7 +146,7 @@
 	<string-array name="book_export_file_type_description">
         <item>நீங்கள் உபயோகிக்கும் வகைபாடுகள் மற்றும் வகையாக்கத்தை சார்ந்து, Microsoft® Money ஆல் மட்டுமே படிக்கத்தக்கதாக இருக்கலாம்</item>
         <item>QIF வடிவமைப்பை ஆதரிக்கும் எல்லா செயலிகளாலும் படிக்கக்கூடியது</item>
-        <item>வரிதாள் செயலிகளால் படிக்கத்தக்கது, உதாரனமாக Microsoft® Excel அல்லது Google™ Docs போன்றவை. வரிதாளின் முதல் கிடைவரி நெடுவரிசை தலைப்புகளை கொண்டிருக்கும், பின்தொடரும் கிடைவரி ஒவ்வொன்றும் ஒரு பரிவர்த்தனையை  பெற்றிருக்கும்.  ஒவ்வொரு பிளவும் தனக்கென கிடைவரியை பெற்றிருக்கும்</item>
+        <item>வரிதாள் செயலிகளால் படிக்கத்தக்கது, உதாரணமாக Microsoft® Excel அல்லது Google™ Docs போன்றவை. வரிதாளின் முதல் கிடைவரி நெடுவரிசை தலைப்புகளை கொண்டிருக்கும், பின்தொடரும் கிடைவரி ஒவ்வொன்றும் ஒரு பரிவர்த்தனையை  பெற்றிருக்கும்.  ஒவ்வொரு பிளவும் தனக்கென கிடைவரியை பெற்றிருக்கும்</item>
     </string-array>
 
     <string name="import_file_confirm_format">^1 ஐ இறக்குமதியை நீங்கள் விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -182,7 +182,7 @@
         <item/> <!-- Not used -->
 	</string-array>
     
-    <string name="set_button_behavior_format">^1 தொடு உணர்வியல்</string>
+    <string name="set_button_behavior_format">^1 விசையின் நடத்தை</string>
 	<string-array name="set_button_behavior_items">
 		<item>தற்பொழுது காட்டப்படும் எண் ஐ அமைக்கவும்</item>
 		<item>கணக்கீட்டை முடித்து கிடைக்கும் விடையை அமைக்கவும்</item>
@@ -191,10 +191,10 @@
     <string name="confirmations_and_warnings">உறுதி செய்தல் &amp; எச்சரிக்கைகள்</string>
 
     <string name="warn_if_no_category">எச்சரிக்கவும், வகைபாடு இல்லையென்றால்</string>
-    <string name="warn_if_no_category_description">இது தேர்வானால், வகைபாடு குறிப்பிடப்படாதபோது ஒரு எச்சரிக்கை காட்சியளிக்கும்</string>
+    <string name="warn_if_no_category_description">இது தேர்வானால், வகைபாடு குறிப்பிடப்படாதபோது ஒரு எச்சரிக்கை காட்சியாகும்</string>
     
     <string name="warn_if_incorrect_category_type">எச்சரிக்கவும், தவறான வகைபாடு எனில்.</string>
-    <string name="warn_if_incorrect_category_type_description">இது தேர்வானால், தவறான வகைபாடு குறிப்பிடப்பட்டால் ஒரு எச்சரிக்கை காட்சியளிக்கும்</string>
+    <string name="warn_if_incorrect_category_type_description">இது தேர்வானால், தவறான வகைபாடு குறிப்பிடப்பட்டால் ஒரு எச்சரிக்கை காட்சியாகும்</string>
     
     <string name="modification_confirmation">மாற்றமைப்பு உறுதி செய்தல்</string>
 	<string-array name="modification_confirmation_items">
@@ -206,11 +206,11 @@
     <string name="back_press_prompt">பின் செல் நினைவூட்டி</string>
     <string name="back_press_prompt_description">இது தேர்வானால், பின் செல் விசையை தொடும்போது சேமிப்பதற்கான நினைவூட்டு கேள்வி காட்சியாகும்</string>
     
-    <string name="new_payee_confirmation">புதிய பெறுபவர் உறுதி செய்தல்</string>
-    <string name="new_payee_confirmation_description">இது தேர்வானால், புதிய பெறுபவர் உறுவாக்கத்தின்போது ஒரு உறுதி செய்தல் காட்சியாகும்</string>
+    <string name="new_payee_confirmation">புதிய பணம் பெறுபவர் உறுதி செய்தல்</string>
+    <string name="new_payee_confirmation_description">இது தேர்வானால், புதிய பணம் பெறுபவர் உறுவாக்கத்தின்போது ஒரு உறுதி செய்தல் காட்சியாகும்</string>
     
     <string name="duplicate_check_number">மறுநகல் காசோலை எண்</string>
-    <string name="duplicate_check_number_description">இது தேர்ந்தெடுக்கப்பட்டால், ஏற்கனவே பயன்படுத்திய காசோலை எண்ணாக இருந்தால் ஒரு எச்சரிக்கை காட்சியாகும்</string>
+    <string name="duplicate_check_number_description">இது தேர்வானால், காசோலை எண் ஏற்கனவே உபயோகப்படுத்தியிருந்தால் ஒரு எச்சரிக்கை காட்சியாகும்</string>
     
     <string name="field_with_initial_focus">ஆரம்ப உபயோகத் தளம்</string>
     

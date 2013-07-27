@@ -133,7 +133,7 @@
 	<string name="make_account_budget_question_part1">Möchten Sie diese Konto in Ihr Budget einbeziehen</string>
 	<string name="make_account_budget_question_part2_format">Selbst, wenn Sie ^1 drücken. können Sie das später nachholen</string>
 	<string name="show_option_format">Zeige die ^1 Option</string>
-	<string name="show_closed">Geschlossene\nanzeigen</string>
+	<string name="show_closed">Geschlossene anzeigen</string>
 		
 	<string name="no_accounts_yet">Bis jetzt keine Konten</string>
 	<string-array name="account_count_format_plurals">
