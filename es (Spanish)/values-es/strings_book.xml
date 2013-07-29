@@ -129,7 +129,7 @@
 
 	<string-array name="book_new_source_descriptions">
 	    <item/> <!-- Intentionally left empty -->
-	    <item/> <!-- Intentionally left empty --
+	    <item/> <!-- Intentionally left empty -->
 	    <item>y, opcionalmente, truncar en una fecha determinada</item>
     </string-array>
 	
@@ -147,7 +147,8 @@
         <item>Dependiendo de las clasificaciones y las categorías que usted use, sólo puede ser leído por Microsoft® Money</item>
         <item>Legible por todas las aplicaciones compatibles con el formato <b>QIF</b></item>
         <item>Legible por las aplicaciones de hojas de cálculo, como Microsoft® Excel o Google Docs™. La primera fila exportado contiene los títulos de columna, seguida por una fila para cada transacción. Cada división toma su propia fila</item>
-    </string-array>
+    </string-array>
+
 
     <string name="import_file_confirm_format">Quieres importar ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
