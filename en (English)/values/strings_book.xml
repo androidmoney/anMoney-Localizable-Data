@@ -102,7 +102,7 @@
     <string name="truncate_warning_format">All transactions prior to ^1 will unrecoverably be destroyed</string>
     <string name="information_and_help">Information &amp; help</string>
     <string name="discussion_forum">Discussion forum</string>
-    <string name="join_the_user_community_format">Join the ^1 users’ community</string> <!-- is it correct(posessive case: users's) -->
+    <string name="join_the_user_community_format">Join the ^1 users’ community</string> <!-- is it correct? (possessive case for non proper nouns: users) -->
     <string name="contact_us">Contact us</string>
     <string name="email_the_developers">Email the developers directly</string>
     <string name="tap_to_display_import_settings_format">Tapping ^1 will display the import settings screen</string>
@@ -154,7 +154,7 @@
     <string name="import_file_confirm_format">Do you want to import ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
         <item/> <!-- Not used -->
-        <item>Do you want to import the ^1 files</item> <!--is ^1 a name or quantity?--> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item>Do you want to import the ^1 files</item> <!--is "^1" a name or a quantity?--> <!-- This is a question, but the question mark will be added progrmatically -->
         <item/> <!-- Not used -->
     </string-array>
 
