@@ -277,7 +277,7 @@
     <string name="csv_delimiter">Delimitador para CSV</string>
 	<string-array name="csv_delimiters">
 		<item>@string/comma</item>
-<!-- Verify -->  <item>Punto y coma</item>
+	    <item>Punto y coma</item>
     </string-array>
 
     <string name="qif_csv_encoding">Codificación para QIF/CSV</string>
