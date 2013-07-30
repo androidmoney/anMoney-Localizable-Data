@@ -49,13 +49,13 @@
 
 	<string name="page_size">பக்க அளவு</string>
 	<string-array name="page_size_items">
-		<item>A3</item>
-		<item>A4</item>
-		<item>A5</item>
-		<item>B5</item>
-		<item>Letter</item>
-		<item>Legal</item>
-		<item>Tabloid</item>
+		<item>ஏ3</item>
+		<item>ஏ4</item>
+		<item>ஏ5</item>
+		<item>பி5</item>
+		<item>லெட்டர்</item>
+		<item>லீகல்</item>
+		<item>டேப்லாய்டு</item>
 	</string-array>
 
 	<string name="page_orientation">பக்க வடிவமைப்பு</string>

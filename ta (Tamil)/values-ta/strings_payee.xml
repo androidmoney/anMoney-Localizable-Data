@@ -33,7 +33,7 @@
     <string name="open_web_page">இணைய பக்கத்தை திற</string>
     <string name="view_payees">பெறுபவர்களை பார்க்க</string>
     <string name="default_payee_name">எனது பெறுபவர்</string>
-	<string name="spending_by_payee">பெறுபவர் வழியாக செலவிடுதல்</string>
+	<string name="spending_by_payee">பெறுபவர் வழி செலவிடுதல்</string>
     <string name="all_payees_hidden_by_filter">எல்லா பெறுபவர்களும் காட்சி வடிகட்டியால் மறைக்கப்பட்டுள்ளனர்</string>
         
     <string name="without_payee">பெறுபவர் இல்லாமல்</string>

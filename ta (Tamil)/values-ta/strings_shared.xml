@@ -62,10 +62,10 @@
     <string name="rename">மறுபெயரிடு</string>
     <string name="renamed">மறுபெயரிடப்பட்டது</string>
     <string name="rename_canceled">மறுபெயரிடுதல் இரத்து செய்யப்பட்டது</string>
-    <string name="link">இணை</string>
-    <string name="linked">இணைக்கப்பட்டது</string>
-    <string name="combine">ஒருங்கிணை</string>
-    <string name="combined">ஒருங்கிணைக்கப்பட்டது</string>
+    <string name="link">இனை</string>
+    <string name="linked">இனைக்கப்பட்டது</string>
+    <string name="combine">ஒருங்கினை</string>
+    <string name="combined">ஒருங்கினைக்கப்பட்டது</string>
     <string name="copy_to_clipboard">பிடிப்புபலகையில் நகலெடு</string>
     <string name="set">அமை</string> <!-- Set a value -->
 	<string name="share">பகிர்ந்து கொள்</string>
@@ -126,7 +126,7 @@
 	<string name="all_collapsed">எல்லாம் சுருக்கப்பட்டது</string>
     <string name="postal_address">கடிதத்தொடர்பு முகவரி</string>
     <string name="postal_address_hint">தெரு\nநகரம்\nதபால் குறியீட்டெண்</string>
-    <string name="cannot_perform_sd_card_operation">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது ஏனெனில் உங்கள் சாதனத்தில் குறுசேமிப்பு அட்டைஇல்லை, அல்லது தற்போழுது உங்கள் சாதனம் கணினியோடு இனைக்கப்பட்டிருக்கும்</string>
+    <string name="cannot_perform_sd_card_operation">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது ஏனெனில் உங்கள் சாதனத்தில் பதிவு அட்டை இல்லை, அல்லது தற்போழுது உங்கள் சாதனம் கணினியோடு இனைக்கப்பட்டிருக்கும்</string>
     <string name="cannot_perform_file_system_operation_format">இந்த செயலாக்கத்தை தற்போழுது நடைமுறைபடுத்த இயலாது உள் நினைவகப் பாதை (^1) ஐ அணுக இயலாது</string>
     <string name="please_correct_and_try_again">தயவுசெய்து இதை சரிசெய்து பின்னர் மீண்டும் முயற்சிக்கவும்</string>
     <string name="no_network_message_format">^1 உரிம சரிபார்த்தலுக்கு காலமுறை இணைய அனுகலை வேண்டுகிறது.\n\nதயவுசெய்து இணையத்தை செயல்படவை, மேலும், ஒருமுறை இனைப்பை பெற்றவுடன், மீண்டும் முயற்சிக்கவும். பிற்பாடு நீங்கள் இனைப்பை முடக்கவும்.\n\n^2 ஐ தட்டுவது நீங்கள் எடுக்கும் ^3 அமைப்புகள்</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
@@ -139,7 +139,7 @@
 	<li>உங்கள் தரவுகளை தானியங்கு காப்புநகல் செய்ய இயலாமை</li>\n
 	<li>அறிக்கைகளை விரும்பிய வடிவில் பெற இயலாமை</li>\n
 	<li>QIF இறக்குமதி மட்டுமே</li>\n
-	<li>தொடர்புகளை இணைக்கும் வசதி இல்லை</li>\n
+	<li>தொடர்புகளை இனைக்கும் வசதி இல்லை</li>\n
 	<li>அதிகபட்சமாக 2 வங்கி, 1 கடன் மேலும் 1 ரொக்க கணக்கு</li>\n
 	<li>அதிகபட்சமாக 5 திட்டஅறிக்கை உறுப்புகள்</li>\n
 	<li>அதிகபட்சமாக 3 தொடர் கட்டணசீட்டு அல்லது வைப்புநிதி</li> 

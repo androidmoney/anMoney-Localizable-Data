@@ -42,6 +42,7 @@
 	<string name="specify_account">請先指定帳戶</string>
 	<string name="account_and_amount">帳戶及數目</string>
 	<string name="payee_and_category">收款人及類型</string>
+	<string name="auto_enter">自動輸入</string>
 	<string name="auto_enter_and_reminder">自動輸入及提醒</string>
 	<string name="pay_by_check">我以支票付款</string>
 	<string name="amount_is">數目是</string>

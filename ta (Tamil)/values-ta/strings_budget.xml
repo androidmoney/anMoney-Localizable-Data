@@ -32,7 +32,7 @@
     <string name="all_other_spending">மற்ற எல்லா செலவுகளும்</string>
     <string name="special_item">சிறப்பு உறுப்பு</string>
     <string name="no_budget_items">நீங்கள் எந்த திட்டஅறிக்கை உறுப்புகளையும் கொண்டிருக்கவில்லை</string>
-    <string name="create_budget_item_instructions_format">திட்டஅறிக்கை உறுப்புகளை உருவாக்க, திரையின் மேல் உள்ள ^i ஐ தட்டவும்</string> <!-- ^i will be replaced by an image -->
+    <string name="create_budget_item_instructions_format">திட்டஅறிக்கை உறுப்புகளை உருவாக்க, திரையின் மேல் உள்ள ^i ஐ தொடவும்</string> <!-- ^i will be replaced by an image -->
     <string name="customized_schedule">விருப்பின்படியான காலதிட்டம்</string>
 	<string name="include_budget_items">திட்டஅறிக்கை உறுப்புகள் உள்பட</string> <!-- as in "Include budget items on report" -->
 </resources>

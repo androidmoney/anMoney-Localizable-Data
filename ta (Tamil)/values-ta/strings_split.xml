@@ -16,5 +16,5 @@
     <string name="set_the_total_format">^1 ஐ கூட்டுத்தொகையாக அமை</string>
     <string name="distribute_format">^1 ஐ சமமாக பகிர்ந்தளி</string>
     <string name="leave_unassigned_format">^1 ஐ ஒதுக்கப்படாததாக விடு</string>
-    <string name="distributed">பகிர்தளிக்கப்பட்டது</string>
+    <string name="distributed">பகிர்ந்தளிக்கப்பட்டது</string>
 </resources>

@@ -42,6 +42,7 @@
     <string name="specify_account">Сначала укажите счёт</string>
 	<string name="account_and_amount">Счёт и сумма</string>
 	<string name="payee_and_category">Получатель и категория</string>
+	<string name="auto_enter">Автоматизация</string>
 	<string name="auto_enter_and_reminder">Автоматизация и напоминание</string>
 	<string name="pay_by_check">Оплата чеком</string>
 	<string name="amount_is">Сумма</string>

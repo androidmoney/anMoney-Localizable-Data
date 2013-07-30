@@ -42,6 +42,7 @@
 	<string name="specify_account">Por favor especifique a conta primeiro</string>
 	<string name="account_and_amount">Conta &amp; Valor</string>
 	<string name="payee_and_category">Beneficiário &amp; Categoria</string>
+	<string name="auto_enter">Entrada automática</string>
 	<string name="auto_enter_and_reminder">Entrada automática &amp; Alertas</string>
 	<string name="pay_by_check">Eu pago isto com cheque</string>
 	<string name="amount_is">Valor é</string>

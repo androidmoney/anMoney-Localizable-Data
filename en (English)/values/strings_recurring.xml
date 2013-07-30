@@ -44,6 +44,7 @@
 	<string name="specify_account">Please specify the account first</string>
 	<string name="account_and_amount">Account &amp; Amount</string>
 	<string name="payee_and_category">Payee &amp; Category</string>
+	<string name="auto_enter">Automatic entry</string>
 	<string name="auto_enter_and_reminder">Automatic entry &amp; Reminder</string>
 	<string name="pay_by_check">I pay this by cheque</string>
 	<string name="amount_is">Amount is</string>

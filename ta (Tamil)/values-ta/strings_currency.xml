@@ -16,7 +16,7 @@
     <string name="view_currencies">நாணயங்களை பார்க்க</string>
     <string name="tap_to_modify_converted_amounts">மாற்றப்பட்டதொகைகளை திருத்தியமைக்க தொடவும்</string>
     <string name="currency_converter">நாணய  மாற்றி</string>
-    <string name="invert">Invert</string>
+    <string name="invert">நேர்மாறாக்கு</string>
     <string name="save_exchange_rate">இந்த பரிமாற்ற விகிதத்தை சேமி</string>
     <string name="all_currencies">எல்லா நாணயங்கள்</string>
     <string name="used_currencies">உபயோகப்படுத்திய நாணயங்கள்</string>

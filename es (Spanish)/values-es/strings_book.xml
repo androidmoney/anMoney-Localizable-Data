@@ -38,11 +38,11 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Seleccionar libro</string>
-    <string name="select_book_to_import_into">Selecciona el libro en el cual importar el extracto</string>
+    <string name="select_book_to_import_into">Selecciona el libro en el cual se importará el extracto</string>
     <string name="select_import_file">Seleccionar archivo(s) para importar</string>
     <string name="not_specified_brackets">&lt;No especificado></string>
     <string name="map_accounts">Mapear cuentas</string>
-    <string name="configure_account_mappings">Configurar  mapeo de cuentas</string>
+    <string name="configure_account_mappings">Configurar mapeo de cuentas</string>
     <string name="account_required">Se requiere una cuenta</string>
     <string name="duplicate_name">Duplicar el nombre</string>
     <string name="options">Opciones</string>
@@ -50,17 +50,17 @@
     <string name="remove_duplicates">Eliminar duplicados</string>
     <string name="remove_duplicates_notes">Si bien dsto debería funcionar correctamente en la gran mayoría de los casos, podría haber problemas. Sobre todo si las cuentas tienen importes en distintas monedas. En esos casos no es posible hacer una vinculación. Después de la importación, por favor verifique si los saldos son correctos</string>
     <string name="import_classes">Importar clases</string>
-    <string name="ignore_memos">Ignorar el campo memo</string>
+    <string name="ignore_memos">Ignorar el campo «notas»</string>
     <string name="create_payees_in_app_name_format">Crear los beneficiarios en ^1</string>
     <string name="contact_account">Cuenta donde se crearán los beneficiarios</string> <!-- RC Note. This text is valid only if "account" refers to accounts on the device (contacts, scheduler, tasks: gmail, hotmail, etc) -->
     <string name="select_accounts_to_export">Seleccionar cuenta(s) a exportar</string>
     <string name="select_import_mode">Seleccionar el modo de importación</string>
-    <string name="specify_export_file_format">Especificar el formato de archivo de exportación</string>
+    <string name="specify_export_file_format">Especificar el formato del archivo de exportación</string>
     <string name="mark_transactions_exported">Marcar transacciones como exportadas</string>
     <string name="create_single_file">Crear un único archivo</string>
     <string name="no_transactions_matched_your_selection_criteria">No hay transacciones que correspondan a sus criterios de selección.\n\nNo se creó ningún archivo de exportación</string>
-	<string name="import_folder">Importar carpeta</string>
-	<string name="export_folder">Exportar carpeta</string>
+	<string name="import_folder">Carpeta de importación</string>
+	<string name="export_folder">Carpeta de exportación</string>
     <string name="ask_to_view_imported_transaction">¿Quiere ver las transacciones importadas</string>
     <string name="tip">Consejo</string>
     <string name="user_guide">Guía del usuario</string>

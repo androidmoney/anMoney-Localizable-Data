@@ -21,7 +21,7 @@
         <item>^1 பரிவர்த்தனைகளை குறியிடு</item>
         <item/> <!-- Not used -->
 	</string-array>
-    <string name="mark_transactions_all">குறியிடு <b>எல்லா</b> பரிவர்த்தனைகளை</string>
+    <string name="mark_transactions_all">எல்லா <b>பரிவர்த்தனைகளையும்</b> குறியிடு</string>
     <string name="unreconciled1">சமரசமல்லாதது</string>
     <string name="unreconciled2">@string/unreconciled1</string>
     <string name="cleared1">தெளிவானது</string>
@@ -86,7 +86,7 @@
     <string name="split_confirm_save_on_back_press_message_format">இந்த பிளவு மாற்றப்பட்டது.\n\nபிளவை சேமிக்க ^1 ஐ தொடு, பிளவு திருத்தத்திற்கு திரும்ப செல்ல ^2, அல்லது மாற்றங்களை கைவிடுவதற்கு ^3</string>
     <string name="transaction_modified_reconciled_message">ஒரு சமரச பரிவர்த்தனை  மாற்றப்பட்டுவிடும்</string>
     <string name="transaction_modified_related_reconciled_message">இந்த பரிவர்த்தனையின் மறுபக்கம், எந்த சமரசமோ, மாற்றப்பட்டுவிடும்</string>
-    <string name="records_may_differ">உங்களின் இந்த பதிவேடுகள் நிதி  நிறுவனதத்தினுடையதில் இருந்து மாறுபடலாம்</string>
+    <string name="records_may_differ">உங்களின் இந்த பதிவேடுகள் நிதி  நிறுவனத்தினுடையதில் இருந்து மாறுபடலாம்</string>
     <string name="missing_category_warning_message_format">கண்டிப்பாக ஒரு  வகைபாட்டை குறிப்பிட பரிந்துரைக்கப்படுகிறது, அது இல்லையென்றால், செலவு அறிக்கையில் தவறு ஏற்படலாம்.\n\nவகைபாட்டை குறிப்பிடாமலே பரிவர்த்தனையை சேமிக்க^1 ஐ தட்டு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^2</string>
     <string name="expense_category_given_for_income_message_format">^1 க்காக செலவு வகைப்பாடு குறிப்பிடப்பட்டுள்ளது.\n\nவகைப்பாட்டை அப்படியே விட ^2 ஐ தொடு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^3</string> <!-- the ^1 parameter comes from amount1_description array -->
     <string name="income_category_given_for_expense_message_format">^1 க்காக வரவு வகைப்பாடு குறிப்பிடப்பட்டுள்ளது.\n\nவகைப்பாட்டை அப்படியே விட ^2 ஐ தொடு, அல்லது பரிவர்த்தனை திருத்தத்திற்கு திரும்ப செல்ல ^3</string> <!-- the ^2 parameter comes from amount2_description array -->

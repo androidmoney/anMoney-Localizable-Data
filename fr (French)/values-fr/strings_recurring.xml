@@ -42,6 +42,7 @@
 	<string name="specify_account">Veuillez d’abord indiquer le compte</string>
 	<string name="account_and_amount">Compte et Montant</string>
 	<string name="payee_and_category">Bénéficiaire et Catégorie</string>
+	<string name="auto_enter">Saisie automatique</string>
 	<string name="auto_enter_and_reminder">Saisie automatique et Rappel</string>
 	<string name="pay_by_check">Je paie cela par chèque</string>
 	<string name="amount_is">Le montant est</string>
