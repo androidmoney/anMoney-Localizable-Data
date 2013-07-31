@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">Moure cap a la propera ocurrència</string>
 	<string name="remain_on_this_occurrence_format">Romandre en aquesta ocurrència, si la quantitat inserida és inferior a ^1</string>	    	    	
 	<string name="edit_recurring">Editar recurrència</string>
-	<string name="edit_series">Editar sèrie</string>
-	<string name="edit_occurrence">Edit ocurrència</string>
 	<string name="entire_series">Sèrie sensera</string>
 	<string name="edit_template_warning">Hi ha ocurrències futures personalitzades.\n\nA l’editar la sèrie s’esborraran aquestes personalitzacions</string>
 	<string name="delete_recurring">Esborrar recurrència</string>

@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">Lépjen a következő előforduláshoz</string>
 	<string name="remain_on_this_occurrence_format">Maradjon ezen az előforduláson, ha a beírt összeg kisebb, mint ^1</string>	    	    	
 	<string name="edit_recurring">Ismétlődő módosítása</string>
-	<string name="edit_series">Sorozat módosítása</string>
-	<string name="edit_occurrence">Előfordulás módosítása</string>
 	<string name="entire_series">Az egész sorozatot</string>
 	<string name="edit_template_warning">Vannak már egyedi előfordulások.\n\nHa módosítja a sorozatot, ezek el fognak veszni</string>
 	<string name="delete_recurring">Ismétlődő törlése</string>

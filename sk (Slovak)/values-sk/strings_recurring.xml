@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">Presunúť na ďalší termín opakovania</string>
 	<string name="remain_on_this_occurrence_format">Ponechať aktuálne zadanie, ak je zadaná suma menšia ako ^1</string>	    	    	
 	<string name="edit_recurring">Upraviť opakujúcu sa platbu</string>
-	<string name="edit_series">Upraviť série</string>
-	<string name="edit_occurrence">Upraviť všetky výskyty</string>
 	<string name="entire_series">Všetky výskyty</string>
 	<string name="edit_template_warning">Máte naplánované budúce upravené výskyty.\n\nZmenou opakujúcej sa platby budú tieto úpravy odstránené</string>
 	<string name="delete_recurring">Zmazať opakujúcu sa platbu</string>

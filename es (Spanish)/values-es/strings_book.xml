@@ -46,9 +46,9 @@
     <string name="account_required">Se requiere una cuenta</string>
     <string name="duplicate_name">Duplicar el nombre</string>
     <string name="options">Opciones</string>
-    <string name="select_options">Seleccione las opciones de importación</string>
+    <string name="select_options">Selecciona las opciones de importación</string>
     <string name="remove_duplicates">Eliminar duplicados</string>
-    <string name="remove_duplicates_notes">Si bien dsto debería funcionar correctamente en la gran mayoría de los casos, podría haber problemas. Sobre todo si las cuentas tienen importes en distintas monedas. En esos casos no es posible hacer una vinculación. Después de la importación, por favor verifique si los saldos son correctos</string>
+    <string name="remove_duplicates_notes">Si bien esto debería funcionar correctamente en la gran mayoría de los casos, podría haber problemas. Sobre todo si las cuentas tienen importes en distintas monedas. En tales casos no es posible hacer una vinculación. Después de la importación, por favor verifica si los saldos son correctos</string>
     <string name="import_classes">Importar clases</string>
     <string name="ignore_memos">Ignorar el campo «notas»</string>
     <string name="create_payees_in_app_name_format">Crear los beneficiarios en ^1</string>
@@ -58,7 +58,7 @@
     <string name="specify_export_file_format">Especificar el formato del archivo de exportación</string>
     <string name="mark_transactions_exported">Marcar transacciones como exportadas</string>
     <string name="create_single_file">Crear un único archivo</string>
-    <string name="no_transactions_matched_your_selection_criteria">No hay transacciones que correspondan a sus criterios de selección.\n\nNo se creó ningún archivo de exportación</string>
+    <string name="no_transactions_matched_your_selection_criteria">No hay transacciones que se correspondan con sus criterios de selección.\n\nNo se exportó ningún archivo</string>
 	<string name="import_folder">Carpeta de importación</string>
 	<string name="export_folder">Carpeta de exportación</string>
     <string name="ask_to_view_imported_transaction">Quiere ver las transacciones importadas</string>
@@ -104,7 +104,7 @@
     <string name="contact_us">Contáctanos</string>
     <string name="email_the_developers">Envíale un email directamente a los desarrolladores</string>
     <string name="tap_to_display_import_settings_format">Tocando ^1 se mostrará la pantalla de configuración de importación</string>
-    <string name="verify_import_settings">Por favor, comprueba que la configuración predeterminada sea la correcta para el archivo que se está importando. Si todo está bien, pulsa la tecla <b>Volver</b> para continuar con el proceso de importación</string>
+    <string name="verify_import_settings">Por favor, comprueba que la configuración predeterminada sea la correcta para el archivo que se está importando. Si todo está bien, pulsa la tecla <b>Volver</b> de tu dispositivo para continuar con el proceso de importación</string>
     <string name="change_settings_instructions_format">Este mensaje no aparecerá en ulteriores importaciones, pero se puede cambiar la configuración en cualquier momento pulsando el botón ^i en la parte inferior de la pantalla</string>
     <string name="bad_import_settings">La siguiente opción parece estar incorrecta para el archivo que se intenta importar</string>
     <string name="qif_csv_encoding_explanation_format">Normalmente ^1 debe ser utilizado para los idiomas en la lista a continuación, pero algunas instituciones financieras pueden producir archivos donde ^2 tiene que ser seleccionado por ellos para importar correctamente.\n\nPara todos los otros idiomas NO incluidos en la lista, ^2 siempre se debe seleccionar</string>
@@ -258,7 +258,7 @@
 
 	<string name="failed_to_back_up_book">No se pudo realizar la copia de seguridad del libro</string>
 	<string name="no_space_left_on_sd_card">No hay espacio libre en la tarjeta SD</string>
-	<string name="cannot_restore_newer_version">No se puede restaurar la copia de seguridad, ya que fue creado por una versión más reciente de ^1.\n\nPor favor, instale la última versión del ^1 y vuelva a intentarlo</string>
+	<string name="cannot_restore_newer_version">No se puede restaurar la copia de seguridad, ya que fue creada por una versión más reciente de ^1.\n\nPor favor, instala la última versión de ^1 y vuelve a intentarlo</string>
 		
 	<string name="file">Archivo</string>	
 	<string name="folder">Carpeta</string>	

@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">移動到下一個發生點</string>
 	<string name="remain_on_this_occurrence_format">若輸入金額少於^1就保持在此發生點</string>	    	    	
 	<string name="edit_recurring">編輯經常性項目</string>
-	<string name="edit_series">編輯系列</string>
-	<string name="edit_occurrence">編輯發生點</string>
 	<string name="entire_series">整個系列</string>
 	<string name="edit_template_warning">存在有計畫過的未來發生點。\n\n編輯此系列將移除這些計畫內容</string>
 	<string name="delete_recurring">刪除經常性項目</string>

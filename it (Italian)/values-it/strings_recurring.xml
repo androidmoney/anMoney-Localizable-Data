@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">Spostalo alla prossima occorrenza</string>
 	<string name="remain_on_this_occurrence_format">Rimani in questa occorrenza, se hai inserito un importo minore di ^1</string>	    	    	
 	<string name="edit_recurring">Modifica ricorrenza</string>
-	<string name="edit_series">Modifica serie</string>
-	<string name="edit_occurrence">Modifica occorrenza</string>
 	<string name="entire_series">L’intera serie</string>
 	<string name="edit_template_warning">Ci sono future occorrenze personalizzate.\n\nModificando le serie queste personalizzazioni verranno cancellate</string>
 	<string name="delete_recurring">Elimina ricorrenza</string>

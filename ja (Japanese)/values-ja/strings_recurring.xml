@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">次の発生に移動する</string>
 	<string name="remain_on_this_occurrence_format">入力した金額が^1未満の場合この発生に残っている</string>	    	    	
 	<string name="edit_recurring">自動継続を編集する</string>
-	<string name="edit_series">シリーズを編集する</string>
-	<string name="edit_occurrence">発生を編集する</string>
 	<string name="entire_series">シリーズ全体</string>
 	<string name="edit_template_warning">カスタマイズされた未来の発生があります。\n\nシリーズを編集するとこれらのカスタマイズは除去されます</string>
 	<string name="delete_recurring">自動更新を削除する</string>

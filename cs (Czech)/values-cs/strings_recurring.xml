@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">Posunout na příští provedení</string>
 	<string name="remain_on_this_occurrence_format">Ponechat aktuální provedení, je-li zadaná částka menší než ^1</string>	    	    	
 	<string name="edit_recurring">Upravit trvalý příkaz</string>
-	<string name="edit_series">Celá série</string>
-	<string name="edit_occurrence">Upravit všechny výskyty</string>
 	<string name="entire_series">Všechny výskyty</string>
 	<string name="edit_template_warning">Máte naplánované budoucí upravené výskyty.\n\nZměnou trvalého příkazu budou tyto úpravy odstraněny</string>
 	<string name="delete_recurring">Smazat trvalý příkaz</string>

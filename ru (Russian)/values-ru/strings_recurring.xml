@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">Перейти к следующему повтору</string>
 	<string name="remain_on_this_occurrence_format">Остаться в текущем повторе, если сумма менее ^1</string>	    	    	
 	<string name="edit_recurring">Изменить операцию</string>
-	<string name="edit_series">Изменить серию</string>
-	<string name="edit_occurrence">Изменить 1 операцию</string>
 	<string name="entire_series">Всю серию</string>
     <string name="edit_template_warning">В серии есть изменённые операции.\n\nИзменение серии приведет к отмене изменений операций</string>
 	<string name="delete_recurring">Удалить операцию</string>

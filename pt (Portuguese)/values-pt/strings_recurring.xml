@@ -17,8 +17,6 @@
 	<string name="move_to_next_occurrence">Mova para a próxima ocorrência</string>
 	<string name="remain_on_this_occurrence_format">Esta ocorrência permanece, se o valor registrado for menor que ^1</string>
 	<string name="edit_recurring">Alterar recorrência</string>
-	<string name="edit_series">Alterar séries</string>
-	<string name="edit_occurrence">Alterar ocorrência</string>
 	<string name="entire_series">Série inteira</string>
 	<string name="edit_template_warning">Existe ocorrências futuras personalizadas.\n\nEditar a série eliminará estas personalizações</string>
 	<string name="delete_recurring">Excluir recorrência</string>

@@ -19,8 +19,6 @@
 	<string name="move_to_next_occurrence">Move to the next occurrence</string>
 	<string name="remain_on_this_occurrence_format">Remain on this occurrence, if entered amount is less than ^1</string>	    	    	
 	<string name="edit_recurring">Edit recurring</string>
-	<string name="edit_series">Edit series</string>
-	<string name="edit_occurrence">Edit occurrence</string>
 	<string name="entire_series">Entire series</string>
 	<string name="edit_template_warning">There are customised future occurrences.\n\nEditing the series will remove these customisations</string>
 	<string name="delete_recurring">Delete recurring</string>
