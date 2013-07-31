@@ -77,8 +77,8 @@
     <string name="move_subcategory_to_another_category_warning">Quieres mover esta subcategoría debajo de otra categoría</string>
     <string name="show_zero_balance_categories">Mostrar las categorías con saldo cero</string>
     <string name="show_zero_balance_items">Mostrar los elementos con saldo cero</string>
-    <string name="recategorize_category">Recategoriza todas las transacciones con esta categoría</string>
-    <string name="recategorize_class">Recategorizar todas las transacciones asociadas a esta clase como</string>
+    <string name="recategorize_category">Recategorizar todas las transacciones con esta categoría como</string>
+    <string name="recategorize_class">Reclasificar todas las transacciones asociadas a esta clase como</string>
 	<string name="spending_by_category0">Gastos por categoría</string>
 	<string name="spending_by_category1">Gastos por categoría o ^1</string>
 	<string name="spending_by_category2">Gastos por categoría, ^1 o ^2</string>
