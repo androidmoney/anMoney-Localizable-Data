@@ -79,7 +79,7 @@
     <string name="show_zero_balance_categories">顯示所有餘額為零的類型</string>
     <string name="show_zero_balance_items">顯示所有餘額為零的項目</string> <!-- "Items" refers to classification name -->
     <string name="recategorize_category">將全部具有此類型的交易更改類型為</string>
-    <string name="recategorize_class">將全部具有此分類的交易更改分類為</string>
+    <string name="reclassify_class">將全部具有此分類的交易更改分類為</string>
 	<string name="spending_by_category0">類型別支出</string>
 	<string name="spending_by_category1">類型別支出或^1</string>
 	<string name="spending_by_category2">類型別支出、^1或^2</string>

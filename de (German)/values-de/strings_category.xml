@@ -78,7 +78,7 @@
 	<string name="show_zero_balance_categories">Zeige Kategorien mit Null-Saldo</string>
 	<string name="show_zero_balance_items">Zeige Posten mit Null-Saldo</string>
 	<string name="recategorize_category">Umorganisieren aller Transaktionen dieser Kategorie als</string>
-	<string name="recategorize_class">Umorganisieren aller Transaktionen dieser Klasse als</string>
+	<string name="reclassify_class">Umorganisieren aller Transaktionen dieser Klasse als</string>
 	<string name="spending_by_category0">Ausgaben nach Kategorie</string>
 	<string name="spending_by_category1">Ausgaben nach Kategorie oder ^1</string>
 	<string name="spending_by_category2">Ausgaben nach Kategorie, ^1 oder ^2</string>

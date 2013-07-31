@@ -79,7 +79,7 @@
     <string name="show_zero_balance_categories">ゼロバランスでカテゴリーを表示しますか</string>
     <string name="show_zero_balance_items">ゼロバランスを持つアイテムを表示する</string> <!-- "Items" refers to classification name -->
     <string name="recategorize_category">このカテゴリーに全てのトランザクションを再カテゴリ化する</string>
-    <string name="recategorize_class">この区分に全てのトランザクションを再カテゴリー化する</string>
+    <string name="reclassify_class">この区分に全てのトランザクションを再カテゴリー化する</string>
 	<string name="spending_by_category0">カテゴリー別支出</string>
 	<string name="spending_by_category1">カテゴリーまたは^1による支出</string>
 	<string name="spending_by_category2">カテゴリー、^1または^2による支出</string>

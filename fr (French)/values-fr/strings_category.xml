@@ -78,7 +78,7 @@
 	<string name="show_zero_balance_categories">Afficher les catégories avec une balance à zéro</string>
 	<string name="show_zero_balance_items">Afficher les éléments avec une balance à zéro</string>
 	<string name="recategorize_category">Recatégoriser toutes les transactions de cette catégorie sous</string>
-	<string name="recategorize_class">Recatégoriser toutes les transactions de cette classe sous</string>
+	<string name="reclassify_class">Recatégoriser toutes les transactions de cette classe sous</string>
 	<string name="spending_by_category0">Dépenses par catégorie</string>
 	<string name="spending_by_category1">Dépenses par catégorie ou ^1</string>
 	<string name="spending_by_category2">Dépenses par catégorie, ^1 ou ^2</string>

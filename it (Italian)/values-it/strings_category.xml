@@ -78,7 +78,7 @@
     <string name="show_zero_balance_categories">Visualizza categorie con bilancio a zero</string>
     <string name="show_zero_balance_items">Visualizza voci con bilancio a zero</string>
     <string name="recategorize_category">Ricategorizzare tutte le transazioni con questa categoria</string>
-    <string name="recategorize_class">Ricategorizzare tutte le transazioni con questa classe</string>
+    <string name="reclassify_class">Ricategorizzare tutte le transazioni con questa classe</string>
 	<string name="spending_by_category0">Spese per categoria</string>
 	<string name="spending_by_category1">Spese per categoria o ^1</string>
 	<string name="spending_by_category2">Spese per categoria, ^1 o ^2</string>

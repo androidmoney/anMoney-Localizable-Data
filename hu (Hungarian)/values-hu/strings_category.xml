@@ -78,7 +78,7 @@
     <string name="show_zero_balance_categories">Mutassa a nulla egyenlegű kategóriákat is</string>
     <string name="show_zero_balance_items">Mutassa a nulla egyenlegű tételeket is</string>
     <string name="recategorize_category">Tranzakciók ezzel a kategóriaval lesznek újrakategóriázva</string>
-    <string name="recategorize_class">Tranzakciók ezzel a osztályal lesznek újraosztályozva</string>
+    <string name="reclassify_class">Tranzakciók ezzel a osztályal lesznek újraosztályozva</string>
 	<string name="spending_by_category0">Költés kategóriánként</string>
 	<string name="spending_by_category1">Költés kategória vagy ^1 szerint</string>
 	<string name="spending_by_category2">Költés kategória, ^1 vagy ^2 szerint</string>

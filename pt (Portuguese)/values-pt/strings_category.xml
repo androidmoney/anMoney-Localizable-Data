@@ -78,7 +78,7 @@
     <string name="show_zero_balance_categories">Mostrar categorias com saldo zerado</string>
     <string name="show_zero_balance_items">Mostrar itens com saldo zerado</string>
     <string name="recategorize_category">Recategorizar todas as transações com esta categoria</string>
-    <string name="recategorize_class">Recategorizar todas as transações com esta classe</string>
+    <string name="reclassify_class">Recategorizar todas as transações com esta classe</string>
 	<string name="spending_by_category0">Gastos por categoria</string>
 	<string name="spending_by_category1">Gastos por categoria ou ^1</string>
 	<string name="spending_by_category2">Gastos por categoria, ^1 or ^2</string>

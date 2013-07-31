@@ -79,7 +79,7 @@
     <string name="show_zero_balance_categories">மீதம் பூச்சியமாக உள்ள வகைபாடுகளை காட்டு</string>
     <string name="show_zero_balance_items">மீதம் பூச்சியமாக உள்ள உருப்புகளை காட்டு</string> <!-- "Items" refers to classification name -->
     <string name="recategorize_category">இந்த வகைபாட்டிற்கு எல்லா பரிவர்த்தனைகளையும் மறுவகைபடுத்து</string>
-    <string name="recategorize_class">இந்த பிரிவிற்கு எல்லா பரிவர்த்தனைகளையும் மறுவகைபடுத்து</string>
+    <string name="reclassify_class">இந்த பிரிவிற்கு எல்லா பரிவர்த்தனைகளையும் மறுவகைபடுத்து</string>
 	<string name="spending_by_category0">வகைபாட்டின் வழி செலவுகள்</string>
 	<string name="spending_by_category1">வகைபாட்டின் வழி செலவுகள் அல்லது ^1</string>
 	<string name="spending_by_category2">வகைபாட்டின் வழி செலவுகள், ^1 அல்லது ^2</string>

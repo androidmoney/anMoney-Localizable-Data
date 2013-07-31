@@ -79,7 +79,7 @@
     <string name="show_zero_balance_categories">Zobraziť kategórie s nulovou bilanciou</string>
     <string name="show_zero_balance_items">Zobraziť položky s nulovou bilanciou</string>
     <string name="recategorize_category">Zmeniť kategóriu všetkých položiek s touto kategóriou na</string>
-    <string name="recategorize_class">Zmeniť kategóriu všetkých položiek s touto triedou na</string>
+    <string name="reclassify_class">Zmeniť kategóriu všetkých položiek s touto triedou na</string>
 	<string name="spending_by_category0">Výdavky podľa kategórie</string>
 	<string name="spending_by_category1">Výdavky podľa kategórie alebo ^1</string>
 	<string name="spending_by_category2">Výdavky podľa kategórie, ^1 alebo ^2</string>

@@ -11,5 +11,4 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="recategorize_category">Recategorize all transactions with this category as</string>
-    <string name="recategorize_class">Recategorize all transactions with this class as</string>
 </resources>
