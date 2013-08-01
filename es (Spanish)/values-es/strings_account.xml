@@ -201,8 +201,8 @@
 		<item>Otro pasivo</item>
 		<item>@string/property</item>
 		<item>@string/vehicle</item>
-		<item>Otros activos</item>
-		<item>Cuenta de inversión</item>
+		<item>Otro activo</item>
+		<item>Inversión</item>
 	</string-array>
 
 	<string-array name="default_account_names">
@@ -219,10 +219,10 @@
 	</string-array>
 
     <string name="show_account_numbers">Mostrar los números de cuenta</string>
-    <string name="show_account_numbers_description">Muestra los números de cuenta debajo del nombre, si la hay</string>
+    <string name="show_account_numbers_description">Si hay un número de cuenta, se muestra debajo del nombre de la cuenta</string>
 
     <string name="use_abbreviations">Utilizar las abreviaturas</string>
-    <string name="use_abbreviations_description">Muestra la abreviatura de la cuenta en lugar de su nombre, si la hay</string>
+    <string name="use_abbreviations_description">Si hay una abreviatura, se muestra en lugar del nombre de cuenta</string>
 
     <string name="show_group_totals">Mostrar totales de grupo</string>
     <string name="show_group_totals_description">Muestra el total de cada grupo</string>
