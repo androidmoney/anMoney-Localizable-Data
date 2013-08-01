@@ -68,7 +68,7 @@
     <string name="no_transactions_for_account">No tienes ninguna transacción para esta cuenta</string>
     <string name="account_type">Tipo de cuenta</string>
     <string name="account_type_bank_first">Tipo de cuenta con cuentas bancarias primero</string>
-    <string name="account_type_cash_first">Tipo de cuenta en efectivo primero</string>
+    <string name="account_type_cash_first">Tipo de cuenta con cuentas en efectivo primero</string>
     <string name="account_name">Nombre de la cuenta</string>
     <string name="abbreviation">Abreviatura</string>
     <string name="abbr">Abrev.</string>
@@ -95,8 +95,8 @@
     <string name="warranty_expiration_date">Fecha de caducidad de la garantía</string>
     <string name="manufacturer_web_address">Dirección web del fabricante</string>
     <string name="property_address">Dirección de la inmueble</string>
-    <string name="closed">Cerrado</string>
-    <string name="reopened">Reabierto</string>
+    <string name="closed">Cerrada</string>
+    <string name="reopened">Reabierta</string>
     <string name="reopen_canceled">Reapertura cancelada</string>
     <string name="no_financial_institution_assigned">No se asignó ninguna institución financiera</string>
     <string name="maximum_100">Máximo 100%</string>
@@ -150,20 +150,20 @@
 	</string-array>
 
 	<string-array name="account_group_labels">
-		<item>Cuentas bancarias</item>
-		<item>Cuentas en efectivo</item>
-		<item>Cuentas de crédito</item>
-		<item>Cuentas de inversión</item>
+		<item>Bancos</item>
+		<item>Efectivo</item>
+		<item>Tarjetas</item>
+		<item>Inversiones</item>
 		<!-- <item>Loans and liabilities</item> -->
 		<item>Otros pasivos</item>
 		<item>Otros activos</item>
 	</string-array>
 
 	<string-array name="total_for_account_group_labels">
-		<item>Total en cuentas bancarias</item>
+		<item>Total en bancos</item>
 		<item>Total en efectivo</item>
 		<item>Total en cuentas de crédito</item>
-		<item>Total en cuentas de inversión</item>
+		<item>Total en inversiones</item>
 		<!-- <item>Total for loans and liabilities</item> -->
 		<item>Total de otros pasivos</item>
 		<item>Total de otros activos</item>
@@ -201,8 +201,8 @@
 		<item>Otro pasivo</item>
 		<item>@string/property</item>
 		<item>@string/vehicle</item>
-		<item>Otros activos</item>
-		<item>Cuenta de inversión</item>
+		<item>Otro activo</item>
+		<item>Inversión</item>
 	</string-array>
 
 	<string-array name="default_account_names">
@@ -215,14 +215,14 @@
 		<item>@string/property</item>
 		<item>@string/vehicle</item>
 		<item>@string/asset</item>
-		<item>Cuenta de inversión</item>
+		<item>Inversión</item>
 	</string-array>
 
     <string name="show_account_numbers">Mostrar los números de cuenta</string>
-    <string name="show_account_numbers_description">Muestra los números de cuenta debajo del nombre, si la hay</string>
+    <string name="show_account_numbers_description">Si hay un número de cuenta, se muestra debajo del nombre de la cuenta</string>
 
     <string name="use_abbreviations">Utilizar las abreviaturas</string>
-    <string name="use_abbreviations_description">Muestra la abreviatura de la cuenta en lugar de su nombre, si la hay</string>
+    <string name="use_abbreviations_description">Si hay una abreviatura, se muestra en lugar del nombre de cuenta</string>
 
     <string name="show_group_totals">Mostrar totales de grupo</string>
     <string name="show_group_totals_description">Muestra el total de cada grupo</string>
