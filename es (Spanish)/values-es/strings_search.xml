@@ -2,5 +2,5 @@
 <resources>
     <string name="search">Búsqueda</string>
     <string name="search_transactions">Buscar transacciones</string>
-    <string name="no_matching_transactions">No hay resultados</string>
+    <string name="no_matching_transactions">No hay transacciones coincidentes</string>
 </resources>
