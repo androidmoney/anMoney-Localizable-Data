@@ -68,8 +68,8 @@
     <string name="combined">Combinado</string>
     <string name="copy_to_clipboard">Copiar al portapapeles</string>
     <string name="set">Establecer</string>
-    <<string name="share">Compartir</string>
-    <<string name="share_canceled">No se compartió</string>
+    <string name="share">Compartir</string>
+    <string name="share_canceled">No se compartió</string>
     <string name="create_in_app_name_format">Crear en ^1</string>
     <string name="pick_from_app_name_format">Elegir de ^1</string>
     <string name="do_not_ask_again">No volver a preguntar</string>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<region>அர்ஜென்டினா</region>
+		<name>அர்ஜென்டினாவின் பேசோ</name>
+		<iso4217>ARS</iso4217>
+	</record>
+	<record>
+		<region>ஆஸ்திரேலியா</region>
+		<name>ஆஸ்திரேலிய டாலர்</name>
+		<iso4217>AUD</iso4217>
+	</record>
+	<record>
+		<region>பஹ்ரைன்</region>
+		<name>பஹ்ரைனி தினார்</name>
+		<iso4217>BHD</iso4217>
+	</record>
+	<record>
+		<region>பார்படோஸ்</region>
+		<name>பெர்பேடியன் டாலர்</name>
+		<iso4217>BBD</iso4217>
+	</record>
+	<record>
+		<region>பொலிவியா</region>
+		<name>பொலீவியன் பொலிவியானோ</name>
+		<iso4217>BOB</iso4217>
+	</record>
+	<record>
+		<region>பிரேஸில்</region>
+		<name>பிரேசிலியன் ரியல்</name>
+		<iso4217>BRL</iso4217>
+	</record>
+	<record>
+		<region>பிரிடிஷ் கூட்டரசு</region>
+		<name>பிரிட்டிஷ் பவுன்ட் ஸ்டெர்லிங்</name>
+		<iso4217>GBP</iso4217>
+	</record>
+	<record>
+		<region>கனடா</region>
+		<name>கனடியன் டாலர்</name>
+		<iso4217>CAD</iso4217>
+	</record>
+	<record>
+		<region>கேமரூன்</region>
+		<name>CFA ஃப்ராங்க் BEAC</name>
+		<iso4217>XAF</iso4217>
+	</record>
+	<record>
+		<region>சிலி</region>
+		<name>சிலியன் பெசோ</name>
+		<iso4217>CLP</iso4217>
+	</record>
+	<record>
+		<region>சீனா</region>
+		<name>சீன யுவான்</name>
+		<iso4217>CNY</iso4217>
+	</record>
+	<record>
+		<region>கொலம்பியா</region>
+		<name>கொலம்பியன் பெசோ</name>
+		<iso4217>COP</iso4217>
+	</record>
+	<record>
+		<region>செக் குடியரசு</region>
+		<name>செக் குடியரசு கொருனா</name>
+		<iso4217>CZK</iso4217>
+	</record>
+	<record>
+		<region>டென்மார்க்</region>
+		<name>டானிஷ் க்ரோன்</name>
+		<iso4217>DKK</iso4217>
+	</record>
+	<record>
+		<region>ஆண்டிகுவா மற்றும் பார்புடா</region>
+		<name>கிழக்கு கெரேபியன் டாலர்</name>
+		<iso4217>XCD</iso4217>
+	</record>
+	<record>
+		<region>எகிப்து</region>
+		<name>எகிப்திய பவுண்டு</name>
+		<iso4217>EGP</iso4217>
+	</record>
+	<record>
+		<region>ஐக்கிய அரபு கூட்டாட்சி</region>
+		<name>ஐக்கிய அரபு எமிரேட்டு டிர்ஹம்</name>
+		<iso4217>AED</iso4217>
+	</record>
+	<record>
+		<region>யூரோ</region>
+		<name>யூரோ</name>
+		<iso4217>EUR</iso4217>
+	</record>
+	<record>
+		<region>ஹாங்காங்</region>
+		<name>ஹாங்காங் டாலர்</name>
+		<iso4217>HKD</iso4217>
+	</record>
+	<record>
+		<region>ஹங்கேரி</region>
+		<name>ஹங்கேரியன் ஃபோரின்ட்</name>
+		<iso4217>HUF</iso4217>
+	</record>
+	<record>
+		<region>ஐஸ்லாந்து</region>
+		<name>ஐஸ்லாண்டிக் க்ரோனா</name>
+		<iso4217>ISK</iso4217>
+	</record>
+	<record>
+		<region>இந்தியா</region>
+		<name>ரூபாய்</name>
+		<iso4217>INR</iso4217>
+	</record>
+	<record>
+		<region>இந்தோனேஷியா</region>
+		<name>இந்தோனேஷியன் ருபியா</name>
+		<iso4217>IDR</iso4217>
+	</record>
+	<record>
+		<region>இஸ்ரேல்</region>
+		<name>இஸ்ரேலி நியூ ஷிகேல்</name>
+		<iso4217>ILS</iso4217>
+	</record>
+	<record>
+		<region>ஜமைகா</region>
+		<name>ஜமைக்கான் டாலர்</name>
+		<iso4217>JMD</iso4217>
+	</record>
+	<record>
+		<region>ஜப்பான்</region>
+		<name>ஜாப்பனிய யென்</name>
+		<iso4217>JPY</iso4217>
+	</record>
+	<record>
+		<region>ஜொர்டான்</region>
+		<name>ஜோர்டானியன் டைனர்</name>
+		<iso4217>JOD</iso4217>
+	</record>
+	<record>
+		<region>கென்யா</region>
+		<name>கெனியன் ஷில்லிங்</name>
+		<iso4217>KES</iso4217>
+	</record>
+	<record>
+		<region>தென் கொரியா</region>
+		<name>தென் கொரிய வான்</name>
+		<iso4217>KRW</iso4217>
+	</record>
+	<record>
+		<region>குவைத்து</region>
+		<name>குவைத்தி தினார்</name>
+		<iso4217>KWD</iso4217>
+	</record>
+	<record>
+		<region>லாட்வியா</region>
+		<name>லாத்வியன் லாட்ஸ்</name>
+		<iso4217>LVL</iso4217>
+	</record>
+	<record>
+		<region>லெபனான்</region>
+		<name>லபனீஸ் பவுண்டு</name>
+		<iso4217>LBP</iso4217>
+	</record>
+	<record>
+		<region>லிதுவேனியா</region>
+		<name>லிதுவேனியன் லிடஸ்</name>
+		<iso4217>LTL</iso4217>
+	</record>
+	<record>
+		<region>மலேஷியா</region>
+		<name>மலேஷியன் ரிங்கித்</name>
+		<iso4217>MYR</iso4217>
+	</record>
+	<record>
+		<region>மெக்சிகோ</region>
+		<name>மெக்ஸிகன் பெசோ</name>
+		<iso4217>MXN</iso4217>
+	</record>
+	<record>
+		<region>மொராக்கோ</region>
+		<name>மொரோக்கோ திர்ஹாம்</name>
+		<iso4217>MAD</iso4217>
+	</record>
+	<record>
+		<region>நமீபியா</region>
+		<name>நமீபியன் டாலர்</name>
+		<iso4217>NAD</iso4217>
+	</record>
+	<record>
+		<region>நேபாளம்</region>
+		<name>நேபாளீஸ் ருபீ</name>
+		<iso4217>NPR</iso4217>
+	</record>
+	<record>
+		<region>துருக்கி</region>
+		<name>துர்க்கிஸ் லீரா</name>
+		<iso4217>TRY</iso4217>
+	</record>
+	<record>
+		<region>மொசாம்பிக்</region>
+		<name>நியூசிலாந்து டாலர்</name>
+		<iso4217>NZD</iso4217>
+	</record>
+	<record>
+		<region>நைஜர்</region>
+		<name>CFA ஃப்ராங்க் BCEAO</name>
+		<iso4217>XOF</iso4217>
+	</record>
+	<record>
+		<region>நைஜீரியா</region>
+		<name>நைஜீரியன் நைரா</name>
+		<iso4217>NGN</iso4217>
+	</record>
+	<record>
+		<region>நார்வே</region>
+		<name>நார்வேஜியன் க்ரோன்</name>
+		<iso4217>NOK</iso4217>
+	</record>
+	<record>
+		<region>ஓமன்</region>
+		<name>ஓமானி ரியால்</name>
+		<iso4217>OMR</iso4217>
+	</record>
+	<record>
+		<region>பாகிஸ்தான்</region>
+		<name>பாக்கிஸ்தானி ருபீ</name>
+		<iso4217>PKR</iso4217>
+	</record>
+	<record>
+		<region>பனாமா</region>
+		<name>பானாமானியன் பால்போபா</name>
+		<iso4217>PAB</iso4217>
+	</record>
+	<record>
+		<region>பெரு</region>
+		<name>பெரூவியன் நியூவோ சோல்</name>
+		<iso4217>PEN</iso4217>
+	</record>
+	<record>
+		<region>பிலிப்பைன்ஸ்</region>
+		<name>ஃபிலிபைன் பேசோ</name>
+		<iso4217>PHP</iso4217>
+	</record>
+	<record>
+		<region>போலந்து</region>
+		<name>போலிஷ் ஸ்லாட்டி</name>
+		<iso4217>PLN</iso4217>
+	</record>
+	<record>
+		<region>கதார்</region>
+		<name>கத்தாரி ரியால்</name>
+		<iso4217>QAR</iso4217>
+	</record>
+	<record>
+		<region>ருமேனியா</region>
+		<name>ரோமானியன் லியூ</name>
+		<iso4217>RON</iso4217>
+	</record>
+	<record>
+		<region>ரஷ்யா</region>
+		<name>ரஷ்யன் ரூபல்</name>
+		<iso4217>RUB</iso4217>
+	</record>
+	<record>
+		<region>சவூதி அரேபியா</region>
+		<name>சவுதி ரியால்</name>
+		<iso4217>SAR</iso4217>
+	</record>
+	<record>
+		<region>சிங்கப்பூர்</region>
+		<name>சிங்கப்பூர் டாலர்</name>
+		<iso4217>SGD</iso4217>
+	</record>
+	<record>
+		<region>தென் ஆப்பிரிக்கா</region>
+		<name>தென் ஆப்ரிக்க ராண்ட்</name>
+		<iso4217>ZAR</iso4217>
+	</record>
+	<record>
+		<region>இலங்கை</region>
+		<name>இலங்கை ரூபாய்</name>
+		<iso4217>LKR</iso4217>
+	</record>
+	<record>
+		<region>ஸ்வீடன்</region>
+		<name>ஸ்வீடிஷ் க்ரோனா</name>
+		<iso4217>SEK</iso4217>
+	</record>
+	<record>
+		<region>ஸ்விட்சர்லாந்து</region>
+		<name>சுவிஸ் ஃப்ராங்க்</name>
+		<iso4217>CHF</iso4217>
+	</record>
+	<record>
+		<region>தைவான்</region>
+		<name>புதிய தைவான் டாலர்</name>
+		<iso4217>TWD</iso4217>
+	</record>
+	<record>
+		<region>தாய்லாந்து</region>
+		<name>தாய் பாட்</name>
+		<iso4217>THB</iso4217>
+	</record>
+	<record>
+		<region>உக்ரைன்</region>
+		<name>உக்ரைனியன் ஹிரைவ்னியா</name>
+		<iso4217>UAH</iso4217>
+	</record>
+	<record>
+		<region>உருகுவே</region>
+		<name>உருகுவேயன் பேசோ</name>
+		<iso4217>UYU</iso4217>
+	</record>
+	<record>
+		<region>ஐக்கிய அமெரிக்க குடியரசு</region>
+		<name>யூ.எஸ். டாலர்</name>
+		<iso4217>USD</iso4217>
+	</record>
+	<record>
+		<region>வெனஜுவேலா</region>
+		<name>வெனிசுலியன் போலிவர்</name>
+		<iso4217>VEF</iso4217>
+	</record>
+	<record>
+		<region>வியட்நாம்</region>
+		<name>வியட்நாமீஸ் டாங்</name>
+		<iso4217>VND</iso4217>
+	</record>
+
+	<record>
+		<region>அரூபா</region>
+		<name>அருபன் ஃப்ளோரின்</name>
+		<iso4217>AWG</iso4217>
+	</record>
+	<record>
+		<region>போஸ்னியா மற்றும் ஹெர்ஸிகோவினா</region>
+		<name>போஸ்னியா-ஹெர்ஸேகோவினா கன்வெர்டிபில் மார்க்</name>
+		<iso4217>BAM</iso4217>
+	</record>
+	<record>
+		<region>பங்களாதேஷ்</region>
+		<name>பங்கலாதேஷி டாகா</name>
+		<iso4217>BDT</iso4217>
+	</record>
+	<record>
+		<region>பல்கேரியா</region>
+		<name>புல்கேரியன் லெவ்</name>
+		<iso4217>BGN</iso4217>
+	</record>
+	<record>
+		<region>பெர்முடா</region>
+		<name>பெர்முடன் டாலர்</name>
+		<iso4217>BMD</iso4217>
+	</record>
+	<record>
+		<region>பஹாமாஸ்</region>
+		<name>பஹாமியன் டாலர்</name>
+		<iso4217>BSD</iso4217>
+	</record>
+	<record>
+		<region>ஃபிஜி</region>
+		<name>ஃபிஜியன் டாலர்</name>
+		<iso4217>FJD</iso4217>
+	</record>
+	<record>
+		<region>கானா</region>
+		<name>கானியன் செடி</name>
+		<iso4217>GHS</iso4217>
+	</record>
+	<record>
+		<region>காம்பியா</region>
+		<name>கேம்பியன் தலாசி</name>
+		<iso4217>GMD</iso4217>
+	</record>
+	<record>
+		<region>குவாத்தாமாலா</region>
+		<name>குவாடெமெலன் குயூட்ஸல்</name>
+		<iso4217>GTQ</iso4217>
+	</record>
+	<record>
+		<region>குரோசியா</region>
+		<name>குரோஷியன் குனா</name>
+		<iso4217>HRK</iso4217>
+	</record>
+	<record>
+		<region>கம்போடியா</region>
+		<name>கம்போடியன் ரியெல்</name>
+		<iso4217>KHR</iso4217>
+	</record>
+	<record>
+		<region>லாவோஸ்</region>
+		<name>லவுட்டியன் கிப்</name>
+		<iso4217>LAK</iso4217>
+	</record>
+	<record>
+		<region>மால்டோவா</region>
+		<name>மால்டோவன் லியூ</name>
+		<iso4217>MDL</iso4217>
+	</record>
+	<record>
+		<region>மடகாஸ்கர்</region>
+		<name>மலகாசி ஏரியரி</name>
+		<iso4217>MGA</iso4217>
+	</record>
+	<record>
+		<region>மாசிடோனியா</region>
+		<name>மெசிடோனியன் தினார்</name>
+		<iso4217>MKD</iso4217>
+	</record>
+	<record>
+		<region>மொரிசியஸ்</region>
+		<name>மொரீஷியன் ருபீ</name>
+		<iso4217>MUR</iso4217>
+	</record>
+	<record>
+		<region>மாலத்தீவு</region>
+		<name>மால்தீவியன் ருஃபியா</name>
+		<iso4217>MVR</iso4217>
+	</record>
+	<record>
+		<region>பாரகுவே</region>
+		<name>பராகுயான் குவாரானி</name>
+		<iso4217>PYG</iso4217>
+	</record>
+	<record>
+		<region>செர்பியா</region>
+		<name>செர்பியன் தினார்</name>
+		<iso4217>RSD</iso4217>
+	</record>
+	<record>
+		<region>ஸேசேல்ஸ்</region>
+		<name>சிஷிலோயிஸ் ருபீ</name>
+		<iso4217>SCR</iso4217>
+	</record>
+	<record>
+		<region>சிரியா</region>
+		<name>சிஷிலோயிஸ் ருபீ</name>
+		<iso4217>SYP</iso4217>
+	</record>
+	<record>
+		<region>டுனிசியா</region>
+		<name>துனிஷியன் தினார்</name>
+		<iso4217>TND</iso4217>
+	</record>
+	<record>
+		<region>உகாண்டா</region>
+		<name>உகாண்டன் ஷில்லிங்</name>
+		<iso4217>UGX</iso4217>
+	</record>
+	<record>
+		<region>ஃப்ரென்ச் பாலினேஷியா</region>
+		<name>CFP ஃப்ராங்க்</name>
+		<iso4217>XPF</iso4217>
+	</record>
+</records>	

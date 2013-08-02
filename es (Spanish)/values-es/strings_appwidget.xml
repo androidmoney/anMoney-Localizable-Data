@@ -23,5 +23,5 @@
 
 	<string name="app_name_report">anMoney — Reporte</string>
 
-<!-- Verify --> <string name="dash_clock_extension_description">Muestra cargos o depósitos atrasados.</string>
+	<string name="dash_clock_extension_description">Muestra cargos o depósitos atrasados.</string>
 </resources>

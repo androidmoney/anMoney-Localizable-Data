@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<mainCategory>வாழ்க்கைப்படி</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஊர்தித்துறை</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>ஊர்தித்துறை</mainCategory>
+		<subcategory>தானுந்து வண்டி கட்டணம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஊர்தித்துறை</mainCategory>
+		<subcategory>பெட்ரோல்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஊர்தித்துறை</mainCategory>
+		<subcategory>பராமரிப்பு</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>வங்கிக்கட்டணம்</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>வங்கிக்கட்டணம்</mainCategory>
+		<subcategory>செலுத்திய வட்டி</subcategory>
+		<expense>1</expense>
+		<defaultForInterestPaid>1</defaultForInterestPaid>
+	</record>
+	<record>
+		<mainCategory>வங்கி கட்டணம்</mainCategory>
+		<subcategory>சேவைக் கட்டணம்</subcategory>
+		<expense>1</expense>
+		<defaultForServiceCharge>1</defaultForServiceCharge>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>கேபிள் தொலைகாட்சி
+</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>கைபேசி</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>மின்கட்டணம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>குப்பைகள் / மறுசுழற்சி</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>ஆரோக்கிய மன்றம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>வாடகை தவணை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>உறுப்பினர் கட்டணம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>அடமானத் தவனை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>எரிபொருள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>செய்தித்தாள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>இணைய கட்டணம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>மற்ற கடன் தவனை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>வாடகை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>கல்விக் கடன் தவனை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>தொலைபேசி கட்டணம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கட்டணச் சீட்டுக்கள்</mainCategory>
+		<subcategory>குடிநீர்/கழிவுநீர் கட்டணம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பணம் திரும்பப்பெறுதல்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>அறக்கட்டளை நன்கொடை</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>குழந்தை பராமரிப்பு</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>குழந்தைகள் / பொம்மைகள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>குழந்தைகள் / பொம்மைகள்</mainCategory>
+		<subcategory>குழந்தைகள் பராமரிப்பு</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>குழந்தைகள் / பொம்மைகள்</mainCategory>
+		<subcategory>நாள்பராமரிப்பு</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆடைகள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>கடன் அட்டை பண அளிப்புகள் / இடமாற்றங்கள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>வெளிஉணவுச் செலவுகள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>கல்வி</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>கல்வி</mainCategory>
+		<subcategory>பாடபுத்தகங்கள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கல்வி</mainCategory>
+		<subcategory>கட்டணங்கள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கல்வி</mainCategory>
+		<subcategory>சிறப்பு வகுப்பு</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>கட்டணங்கள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>உணவு</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>அன்பளிப்புகள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>மளிகைப்பொருட்கள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>ஆரோக்கிய பராமரிப்பு</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>ஆரோக்கிய பராமரிப்பு</mainCategory>
+		<subcategory>பற்கள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆரோக்கிய பராமரிப்பு</mainCategory>
+		<subcategory>கண்பராமரிப்பு</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆரோக்கிய பராமரிப்பு</mainCategory>
+		<subcategory>மருத்துவமனை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆரோக்கிய பராமரிப்பு</mainCategory>
+		<subcategory>மருத்துவர்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆரோக்கிய பராமரிப்பு</mainCategory>
+		<subcategory>மருந்துகள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<subcategory>புத்தகங்கள் / செய்தி இதழ்கள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<subcategory>பண்பாட்டு நிகழ்வுகள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<subcategory>பொழுதுபோக்கு</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<subcategory>சினிமா / வீடியோ வாடகை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<subcategory>விளையாட்டு நிகழ்வுகள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<subcategory>விளையாட்டு பொருட்கள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<subcategory>ஒலிநாடா / CDகள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பொழுதுபோக்கு / ஓய்வு</mainCategory>
+		<subcategory>பொம்மைகள் / விளையாட்டுகள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>இல்ல மேம்பாடுகள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>குடும்பம் தொடர்பானது</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>குடும்பம் தொடர்பானது</mainCategory>
+		<subcategory>அறைகலன்கள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>குடும்பம் தொடர்பானது</mainCategory>
+		<subcategory>வீட்டுத்தூய்மை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>குடும்பம் தொடர்பானது</mainCategory>
+		<subcategory>முற்றச் சேவை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆயுள்காப்பீடு</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>ஆயுள்காப்பீடு</mainCategory>
+		<subcategory>ஊர்தித்துறை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆயுள்காப்பீடு</mainCategory>
+		<subcategory>ஆரோக்கியம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆயுள்காப்பீடு</mainCategory>
+		<subcategory>வீட்டுக்காரர் / வாடகைதாரர்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>ஆயுள்காப்பீடு</mainCategory>
+		<subcategory>ஆயுள்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>வேலை செலவுகள்</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>வேலை செலவுகள்</mainCategory>
+		<subcategory>திரும்பப்பெறஇயலாதது</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>வேலை செலவுகள்</mainCategory>
+		<subcategory>திரும்பப்பெறத்தக்கது</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கடன்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>கடன்</mainCategory>
+		<subcategory>கடன் வட்டி</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கடன்</mainCategory>
+		<subcategory>அடமான வட்டி</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>கடன்</mainCategory>
+		<subcategory>கல்வி கடன் வட்டி</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>சில்லரையானவை</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
+	</record>
+	<record>
+		<mainCategory>அடமானம் / வாடகை</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>தனிப்பட்ட பராமரிப்பு</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>செல்லப்பபிராணி பராமரிப்பு</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>செல்லப்பபிராணி பராமரிப்பு</mainCategory>
+		<subcategory>உணவு</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>செல்லப்பபிராணி பராமரிப்பு</mainCategory>
+		<subcategory>தேவையானவை</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>செல்லப்பபிராணி பராமரிப்பு</mainCategory>
+		<subcategory>மருத்துவம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>தொலைபேசி / கைபேசி</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>சேவைகள் / உறுப்பனர்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>வரிகள்</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>வரிகள்</mainCategory>
+		<subcategory>ஜிஎஸ்டி / வாட்</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>பயணம் / விடுமுறை</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>பயணம் / விடுமுறை</mainCategory>
+		<subcategory>விடுதி</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>பயணம் / விடுமுறை</mainCategory>
+		<subcategory>பயணம்</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>நுகர்பவை</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>முதலீட்டு வருவாய்</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>முதலீட்டு வருவாய்</mainCategory>
+		<subcategory>முதலீட்டு சம்பாத்தியம்</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>முதலீட்டு  வருவாய்</mainCategory>
+		<subcategory>ஈவுத்தொகைகள்</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>முதலீட்டு வருவாய்</mainCategory>
+		<subcategory>வட்டி</subcategory>
+		<expense>0</expense>
+		<defaultForInterestEarned>1</defaultForInterestEarned>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>முதலீட்டு வருவாய்</mainCategory>
+		<subcategory>வரியில்லா வட்டி</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>இதர வருவாய்</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>இதர வருவாய்</mainCategory>
+		<subcategory>தரகு</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>இதர வருவாய்</mainCategory>
+		<subcategory>ஊூழியர் பங்கு பயன்</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>இதர வருவாய்</mainCategory>
+		<subcategory>அன்பளிப்புகள்</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>இதர வருவாய்</mainCategory>
+		<subcategory>கடன்அசல் வரவு</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>இதர வருவாய்</mainCategory>
+		<subcategory>பரிசுச்சீட்டு</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>இதர வருவாய்</mainCategory>
+		<subcategory>வேலையில்லா உதவித்தொகை</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>ஓய்வூதிய வருவாய்</mainCategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<subcategory>சம்பளம்</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<subcategory>தரகு</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<subcategory>கூலி</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<subcategory>பேட்டா</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<subcategory>மிகுதிநேர கூலி</subcategory>
+		<expense>0</expense>
+	</record>
+</records>
