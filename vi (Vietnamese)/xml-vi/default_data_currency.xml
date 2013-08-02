@@ -3,25 +3,21 @@
 	<record>
 		<region>Argentina</region>
 		<name>Peso Argentina</name>
-		<symbol>$AR</symbol>
 		<iso4217>ARS</iso4217>
 	</record>
 	<record>
 		<region>Úc</region>
 		<name>Đô-la Úc</name>
-		<symbol>$AU</symbol>
 		<iso4217>AUD</iso4217>
 	</record>
 	<record>
 		<region>Bahrain</region>
 		<name>Dinar Bahrain</name>
-		<symbol>DB</symbol>
 		<iso4217>BHD</iso4217>
 	</record>
 	<record>
 		<region>Barbadia</region>
 		<name>Đô-la Barbadia</name>
-		<symbol>$Bds</symbol>
 		<iso4217>BBD</iso4217>
 	</record>
 	<record>
@@ -32,19 +28,16 @@
 	<record>
 		<region>Bra-xin</region>
 		<name>Real Bra-xin</name>
-		<symbol>$R</symbol>
 		<iso4217>BRL</iso4217>
 	</record>
 	<record>
 		<region>Vương quốc Anh</region>
 		<name>Bảng Anh</name>
-		<symbol>£UK</symbol>		
 		<iso4217>GBP</iso4217>
 	</record>
 	<record>
 		<region>Ca-na-đa</region>
 		<name>Đô-la Ca-na-da</name>
-		<symbol>$CA</symbol>
 		<iso4217>CAD</iso4217>
 	</record>
 	<record>
@@ -55,7 +48,6 @@
 	<record>
 		<region>Chile</region>
 		<name>Peso Chile</name>
-		<symbol>$CL</symbol>
 		<iso4217>CLP</iso4217>
 	</record>
 	<record>
@@ -66,7 +58,6 @@
 	<record>
 		<region>Colombia</region>
 		<name>Peso Colombia</name>
-		<symbol>$CO</symbol>
 		<iso4217>COP</iso4217>
 	</record>
 	<record>
@@ -77,7 +68,6 @@
 	<record>
 		<region>Đan Mạch</region>
 		<name>Curon Đan Mạch</name>
-		<symbol>krD</symbol>
 		<iso4217>DKK</iso4217>
 	</record>
 	<record>
@@ -88,7 +78,6 @@
 	<record>
 		<region>Ai Cập</region>
 		<name>Bảng Ai Cập</name>
-		<symbol>£EG</symbol>
 		<iso4217>EGP</iso4217>
 	</record>
 	<record>
@@ -104,7 +93,6 @@
 	<record>
 		<region>Đặc khu hành chính Hồng Kông thuộc CHND Trung Hoa</region>
 		<name>Đô-la Hồng Kông</name>
-		<symbol>$HK</symbol>
 		<iso4217>HKD</iso4217>
 	</record>
 	<record>
@@ -115,7 +103,6 @@
 	<record>
 		<region>Ai-xơ-len</region>
 		<name>Curon Ai-xơ-len</name>
-		<symbol>krI</symbol>
 		<iso4217>ISK</iso4217>
 	</record>
 	<record>
@@ -136,19 +123,16 @@
 	<record>
 		<region>Jamaica</region>
 		<name>Đô-la Jamaica</name>
-		<symbol>$JM</symbol>
 		<iso4217>JMD</iso4217>
 	</record>
 	<record>
 		<region>Nhật Bản</region>
 		<name>Yên Nhật</name>
-		<symbol>¥JP</symbol>
 		<iso4217>JPY</iso4217>
 	</record>
 	<record>
 		<region>Jordan</region>
 		<name>Dinar Jordan</name>
-		<symbol>DJ</symbol>
 		<iso4217>JOD</iso4217>
 	</record>
 	<record>
@@ -164,7 +148,6 @@
 	<record>
 		<region>Kuwait</region>
 		<name>Dina Kuwait</name>
-		<symbol>DK</symbol>
 		<iso4217>KWD</iso4217>
 	</record>
 	<record>
@@ -175,7 +158,6 @@
 	<record>
 		<region>Li Băng</region>
 		<name>Bảng Li Băng</name>
-		<symbol>£LB</symbol>
 		<iso4217>LBP</iso4217>
 	</record>
 	<record>
@@ -191,7 +173,6 @@
 	<record>
 		<region>Mêhicô</region>
 		<name>Peso Mêhicô</name>
-		<symbol>$Mex</symbol>
 		<iso4217>MXN</iso4217>
 	</record>
 	<record>
@@ -202,13 +183,11 @@
 	<record>
 		<region>Namibia</region>
 		<name>Đô-la Namibia</name>
-		<symbol>$NA</symbol>
 		<iso4217>NAD</iso4217>
 	</record>
 	<record>
 		<region>Nepal</region>
 		<name>Rupi Nepal</name>
-		<symbol>RsNP</symbol>
 		<iso4217>NPR</iso4217>
 	</record>
 	<record>
@@ -219,7 +198,6 @@
 	<record>
 		<region>New Zealand</region>
 		<name>Đô-la New Zealand</name>
-		<symbol>$NZ</symbol>
 		<iso4217>NZD</iso4217>
 	</record>
 	<record>
@@ -235,7 +213,6 @@
 	<record>
 		<region>Na Uy</region>
 		<name>Curon Na Uy</name>
-		<symbol>krN</symbol>
 		<iso4217>NOK</iso4217>
 	</record>
 	<record>
@@ -246,7 +223,6 @@
 	<record>
 		<region>Pakistan</region>
 		<name>Rupi Pakistan</name>
-		<symbol>RsPK</symbol>
 		<iso4217>PKR</iso4217>
 	</record>
 	<record>
@@ -272,7 +248,6 @@
 	<record>
 		<region>Qatar</region>
 		<name>Rial Qatar</name>
-		<symbol>RQ</symbol>
 		<iso4217>QAR</iso4217>
 	</record>
 	<record>
@@ -288,13 +263,11 @@
 	<record>
 		<region>Ả rập Xêút</region>
 		<name>Rian Ả rập Xêút</name>
-		<symbol>RS</symbol>
 		<iso4217>SAR</iso4217>
 	</record>
 	<record>
 		<region>Singapore</region>
 		<name>Đô-la Singapore</name>
-		<symbol>$SG</symbol>
 		<iso4217>SGD</iso4217>
 	</record>
 	<record>
@@ -305,13 +278,11 @@
 	<record>
 		<region>Sri Lanka</region>
 		<name>Rupi Sri Lanka</name>
-		<symbol>RsSL</symbol>
 		<iso4217>LKR</iso4217>
 	</record>
 	<record>
 		<region>Thụy Điển</region>
 		<name>Cua-ron Thuỵ Điển</name>
-		<symbol>krS</symbol>
 		<iso4217>SEK</iso4217>
 	</record>
 	<record>
@@ -322,7 +293,6 @@
 	<record>
 		<region>Đài Loan</region>
 		<name>Đô-la Đài Loan</name>
-		<symbol>$NT</symbol>
 		<iso4217>TWD</iso4217>
 	</record>
 	<record>
@@ -338,13 +308,11 @@
 	<record>
 		<region>Uruguay</region>
 		<name>Peso Uruguay</name>
-		<symbol>$UY</symbol>
 		<iso4217>UYU</iso4217>
 	</record>
 	<record>
 		<region>Hoa Kỳ</region>
 		<name>Đô-la Mỹ</name>
-		<symbol>$US</symbol>
 		<iso4217>USD</iso4217>
 	</record>
 	<record>
