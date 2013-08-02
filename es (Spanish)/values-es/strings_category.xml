@@ -51,7 +51,7 @@
     <string name="expense">Gasto</string>
     <string name="expenses">Gastos</string>
     <string name="expense_categories">Categorías de gastos</string>
-    <string name="income">Ingresos</string>
+    <string name="income">Ingreso</string>
     <string name="income_categories">Categorías de ingresos</string>
     <string name="savings">Ahorros</string> <!-- As in "amount saved by budgeting" -->
     <string name="category_name">Nombre de la categoría</string>
