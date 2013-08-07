@@ -14,7 +14,7 @@
     <string name="unassigned_split_message_format">La suma de las divisiones es ^1, mientras que el total de la transacción es ^2. Esto deja ^3 sin asignar (no recomendable)</string>
     <string name="what_would_you_like_to_do">Qué te gustaría hacer</string>
     <string name="set_the_total_format">Ajustar el total a ^1</string>
-    <string name="distribute_format">Distribuir uniformemente los ^1</string>
+    <string name="distribute_format">Distribuir los ^1 en partes iguales</string>
     <string name="leave_unassigned_format">Dejar sin asignar los ^1</string>
     <string name="distributed">Distribuido</string>
 </resources>
