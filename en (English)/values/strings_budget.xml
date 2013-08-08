@@ -20,7 +20,7 @@
     <string name="an_additional_amount_for_this_class">An additional amount for this class</string>
     <string name="the_additional_amount_for_this_category">The additional amount for this category</string>
     <string name="the_additional_amount_for_this_class">The additional amount for this class</string>
-    <string name="currently_daily_format">currently ^1 daily</string>
+    <string name="currently_daily_format">currently ^1 daily</string> <!-- ^1 is an numeric amount (same for the items below) -->
     <string name="currently_weekly_format">currently ^1 weekly</string>
     <string name="currently_biweekly_format">currently ^1 fortnightly</string>
     <string name="currently_monthly_format">currently ^1 monthly</string>

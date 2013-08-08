@@ -22,7 +22,7 @@
 	<string name="delete_recurring">Eliminar elemento recurrente</string>
 	<string name="delete_recurring_warning_part1_format">Eliminar ^1</string>
 	<string name="delete_recurring_warning_part2">Se eliminarán todas las ocurrencias futuras</string>
-<!-- Verify -->	<string name="change_recurring_amount_format">Cambiar de ^1 a ^2 el importe recurrente</string>
+	<string name="change_recurring_amount_format">Cambiar de ^1 a ^2 el importe recurrente</string>
 	<string name="skip">Omitir</string>
 	<string name="skip_occurrence">Omitir ocurrencia</string>
 	<string name="skipped">Se omitió</string>
@@ -76,8 +76,8 @@
 		<item/> <!-- Intentionally left empty -->
         <item/> <!-- Not used -->
 	</string-array>
-<!-- Verify --> <string name="upcoming_date">Fecha futura</string>
-<!-- Verify --> <string name="series_start_date">Fecha inicial</string>
+	<string name="upcoming_date">Fecha futura</string>
+	<string name="series_start_date">Fecha inicial</string>
 	<string name="end_date_if_any">Si se especificó una fecha final, incluirla</string>
 	<string name="invalid_date">Fecha inválida</string>
 	<string name="repeat">Repetir</string>
@@ -115,9 +115,9 @@
 	<string name="twice_a_month">Dos veces al mes</string>
 	<string name="quarter_upper">Trimestre</string>
 	<string name="quarters_upper">Trimestres</string>
-<!-- Verify --> <string name="quarterly">Trimestralmente</string>
-<!-- Verify --> <string name="half_year">Semestre</string>
-<!-- Verify --> <string name="half_yearly">Semestralmente</string>
+	<string name="quarterly">Trimestralmente</string>
+	<string name="half_year">Semestre</string>
+	<string name="half_yearly">Semestralmente</string>
 	<string name="year_upper">Año</string>
 	<string name="year_lower">año</string>
 	<string name="years_upper">Años</string>
@@ -147,7 +147,7 @@
 	<string name="skip_weekends">Saltar fines de semana</string>
 
 	<string name="overdue_count_format">^1/^2</string>
-<!-- Verify -->	<string-array name="overdue_plurals">
+	<string-array name="overdue_plurals">
 		<item>^1 atrasada</item>
 		<item>^1 atrasadas</item>
         <item/> <!-- Not used -->
@@ -165,7 +165,7 @@
 	<string name="use_todays_date_for_transaction_date">Utilizar la fecha del día como fecha de la transacción</string>
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-<!-- Verify --> <item>Se registrarán ^1 elementos recurrentes</item>
+		<item>Se registrarán ^1 elementos recurrentes</item>
         <item/> <!-- Not used -->
 	</string-array>
 	

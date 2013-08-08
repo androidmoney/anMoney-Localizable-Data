@@ -196,7 +196,7 @@
 		<item>31º</item>
 	</string-array>
 
-<!-- Verify --> <string name="display_direction">Ordenamiento</string>
+	<string name="display_direction">Ordenamiento</string>
 	<string-array name="sort_direction_items">
 		<item>Creciente</item>
 		<item>Decreciente</item>

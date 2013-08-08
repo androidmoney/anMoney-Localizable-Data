@@ -177,7 +177,7 @@
 		<symbol>€</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>EUR</iso4217>
-		<iso3166></iso3166> <!-- Special -->
+		<iso3166>EU</iso3166>
 	</record>
 	<record>
 		<region>Fiji</region>
