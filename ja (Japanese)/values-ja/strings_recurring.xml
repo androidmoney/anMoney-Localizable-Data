@@ -1,124 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="estimated_indicator">≒</string>
-    <string name="recurring_bills_and_deposits">自動継続請求と預金</string>
+    <string name="recurring_bills_and_deposits">自動継続請求と入金</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
-    <string name="recurring_bills_and_deposits_by_direction_order_format">^1 ^2による請求書と預金</string> <!-- Example: "Bills & deposits by decreasing date" -->	
-	<string name="view_recurring">自動継続を表示</string>
-	<string name="new_recurring">新しい自動更新</string>
-	<string name="enter">入力する</string>
-	<string name="entered">入力済み</string>
-	<string name="enter_canceled">入力は取消されました</string>
-	<string name="enter_into_register">レジスターに入力します</string>
-	<string name="enter_into_register_warning">今すぐにレジスターにこれを入力することを確定してください</string>
-	<string name="enter_now">今、入力します</string>
-	<string name="enter_after_editing">編集後に入力する</string>
-	<string name="enter_partially_after_editing">編集後に部分的に入力する</string>
-	<string name="move_to_next_occurrence">次の発生に移動する</string>
-	<string name="remain_on_this_occurrence_format">入力した金額が^1未満の場合この発生に残っている</string>	    	    	
-	<string name="edit_recurring">自動継続を編集する</string>
+    <string name="recurring_bills_and_deposits_by_direction_order_format">自動継続請求と入金を^2の^1で表示</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="view_recurring">自動継続の表示</string>
+	<string name="new_recurring">自動継続の作成</string>
+	<string name="enter">入力</string>
+	<string name="entered">入力しました</string>
+	<string name="enter_canceled">キャンセルしました</string>
+	<string name="enter_into_register">入力結果の登録</string>
+	<string name="enter_into_register_warning">直ぐに登録しますか</string>
+	<string name="enter_now">すぐに登録</string>
+	<string name="enter_after_editing">編集後登録</string>
+	<string name="enter_partially_after_editing">編集後一部登録</string>
+	<string name="move_to_next_occurrence">次の取り引きに移動</string>
+	<string name="remain_on_this_occurrence_format">入力金額が^1より少なければ、現取り引きに留まる</string>	
+	<string name="edit_recurring">自動継続の編集</string>
 	<string name="entire_series">シリーズ全体</string>
-	<string name="edit_template_warning">カスタマイズされた未来の発生があります。\n\nシリーズを編集するとこれらのカスタマイズは除去されます</string>
-	<string name="delete_recurring">自動更新を削除する</string>
-	<string name="delete_recurring_warning_part1_format">^1を削除</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
-	<string name="delete_recurring_warning_part2">将来における発生はすべて削除されます</string>
-	<string name="change_recurring_amount_format">^1から^2への自動更新金額の変更</string> <!-- This is a question -->
+	<string name="edit_template_warning">次回以降の取り引きで変更の加えられているものがあります。\n\nシリーズを編集するとこれらの変更は破棄されます</string>
+	<string name="delete_recurring">自動継続の削除</string>
+	<string name="delete_recurring_warning_part1_format">^1を消去しますか</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="delete_recurring_warning_part2">今後の取り引きはすべて削除されます</string>
+	<string name="change_recurring_amount_format">自動継続の金額を^1から^2に変更しますか</string> <!-- This is a question -->
 	<string name="skip">スキップ</string>
-	<string name="skip_occurrence">発生をスキップする</string>
-	<string name="skipped">スキップ済み</string>
+	<string name="skip_occurrence">取り引きをスキップ</string>
+	<string name="skipped">スキップしました</string>
 	<string-array name="skipped_occurrences_format_plurals">
-    	<item>^1の発生をスキップ済み</item>
-	    <item/>
-    	<item/>
-  	</string-array>
-	<string name="skip_canceled">スキップは取消されました</string>
-	<string name="skip_which">をスキップする</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="skip_one_occurrence_warning">次回の発生をスキップする</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="no_recurrings_format">お客様には自動継続請求や預金がありません\n\n作成するには：\n\n<li>^1</li>\n\n<li>あらゆるトランザクションをロング・タップして、タップ^2</li></string>
-    <string name="create_recurring_instructions_format">画面上部の ^i をタップします</string> <!-- ^i will be replaced by an image -->
-	<string name="recurring_no_accounts_yet">定期的なアイテムを追加する前に口座と受取人を作成してください</string>
-	<string name="specify_account">最初に口座を指定してください</string>
+		<item>^1の取り引きをスキップ</item>
+		<item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="skip_canceled">キャンセルしました</string>
+	<string name="skip_which">どれをスキップしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="skip_one_occurrence_warning">次回の取り引きをスキップしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="no_recurrings_format">自動継続請求と入金は設定されていません\n\n作成するには:\n\n<li>^1</li>\n\n<li>トランザクションを長押しして、^2をタップしてください</li></string>
+    <string name="create_recurring_instructions_format">画面上方の ^i をタップ</string> <!-- ^i will be replaced by an image -->
+	<string name="recurring_no_accounts_yet">自動継続項目を設定する前に口座と支払先を作成してください</string>
+	<string name="specify_account">はじめに口座を指定して下さい</string>
 	<string name="account_and_amount">口座と金額</string>
-	<string name="payee_and_category">受取人とカテゴリー</string>
-	<string name="auto_enter">自動エントリー</string>
-	<string name="auto_enter_and_reminder">自動エントリーとリマインダー</string>
-	<string name="pay_by_check">私は小切手でこれを払います</string>
-	<string name="amount_is">金額は</string>
-	<string name="fixed">固定された</string>
-	<string name="estimated">およそ</string>
+	<string name="payee_and_category">支払先とカテゴリー</string>
+	<string name="auto_enter">自動入力</string>
+	<string name="auto_enter_and_reminder">自動入力と事前通知</string>
+	<string name="pay_by_check">小切手で支払う</string>
+	<string name="amount_is">金額: </string>
+	<string name="fixed">固定</string>
+	<string name="estimated">予想</string>
 	<string name="estimated_amount_format">^1^2</string>
 	<string name="upcoming">次回</string>
-	<string name="no_upcoming">次回の請求または預金はありません</string>
+	<string name="no_upcoming">次回の請求/入金はありません</string>
 	<string name="no_upcoming_bills">次回の請求はありません</string>
-	<string name="no_upcoming_deposits">次回の預金はありません</string>
-	<string name="enter_automatically">自動的にレジスターに入る</string>
-	<string name="notify_me">私に通知して下さい</string>
-	<string name="cannot_auto_enter">見込まれる為替レートの変動により異なる通貨の口座間の送金を伴う自動請求、または預金はレジスターに自動的に入力されません。\n\nこのようなトランザクションは手動で入力し、またその時点での為替レートを指定する必要があります</string>
-	<string name="entered_recurring_bill">入力済定期的請求</string>
-	<string name="entered_recurring_deposit">入力済定期的預金</string>
-	<string name="notify_me_when_entered">入力されたとき通知バー上で私に通知して下さい</string>
-	<string name="the_last_day_of_the_month">月の最終日</string>
-	<string name="include_in_budget">予算に含める</string>
-	<string name="include_recurrings">定期的な項目を含む</string> <!-- as in "Include recurring items on report" -->
-	<string name="make_recurring_budget_question_part1">このシリーズをお客様の予算の一部に当てますか</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
-	<string name="make_recurring_budget_question_part2_format">たとえ^1をタップしても、シリーズを編集することで後でこれを行うことができます</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
-		
+	<string name="no_upcoming_deposits">次回の入金はありません</string>
+	<string name="enter_automatically">自動入力</string>
+	<string name="notify_me">バックアップの通知</string>
+	<string name="cannot_auto_enter">為替レートの変動が考えられるため、自動継続請求または入金が複数の通貨を扱う口座間の移し替えを含む場合には、自動的に登録されることはありません。\n\nこのトランザクションを手動で入力し、有効な為替レートを設定してください</string>
+	<string name="entered_recurring_bill">自動継続請求登録完了</string>
+	<string name="entered_recurring_deposit">自動継続入金登録完了</string>
+	<string name="notify_me_when_entered">登録されたときは通知バー上で通知する</string>
+	<string name="the_last_day_of_the_month">月末日</string>
+	<string name="include_in_budget">予算への組み込み</string>
+	<string name="include_recurrings">自動継続項目の組み込み</string> <!-- as in "Include recurring items on report" -->
+	<string name="make_recurring_budget_question_part1">このシリーズを予算に組み込みますか</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part2_format">^1をタップしてもあとでシリーズを編集できます</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+
 	<!-- These three below form a sentence -->
-	<string name="based_part1">に基づく</string>
-	<string name="based_part2_singular">最後</string>
+	<string name="based_part1">取り引き実績から（</string>
+	<string name="based_part2_singular">過去</string>
 	<string-array name="based_part2_plurals">
-    	<item>最後の^1</item>
-	    <item/>
-    	<item/>
-  	</string-array>
-	<string-array name="based_part3_plurals">
-	    <item>発生</item>
-	    <item/>
-	    <item/>
+		<item>過去^1</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
-    <string name="upcoming_date">次回の日付</string> <!-- As in the "the date of the upcoming recurring instance" --> 
-    <string name="series_start_date">シリーズ開始日</string> <!-- As in the "the starting date of the entire recurring series" -->
-	<string name="end_date_if_any">もしある場合、包括的終了日</string>
+	<string-array name="based_part3_plurals">
+		<item>回分）</item>
+       <item/> <!-- Not used -->
+       <item/> <!-- Not used -->
+	</string-array>
+    <string name="upcoming_date">次回の期日</string> <!-- As in the "the date of the upcoming recurring instance" -->
+    <string name="series_start_date">開始日</string> <!-- As in the "the starting date of the entire recurring series" -->
+	<string name="end_date_if_any">最終日（必要に応じて）</string>
 	<string name="invalid_date">無効な日付</string>
-	<string name="repeat">繰り返す</string>
-	<string name="every_1">すべての</string>
+	<string name="repeat">繰り返し</string>
+	<string name="every_1">毎</string>
 	<string name="every_2"/> <!-- Intentionally left empty -->
 	<string name="every_3"/> <!-- Intentionally left empty -->
 	<string-array name="every_day_plurals">
-	    <item>@string/every_1</item>
-	    <item/>
-	    <item/>
-  	</string-array>
+		<item>@string/every_1</item>
+	    <item/> <!-- Not used -->
+	    <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="every_week_plurals">
-	    <item>@string/every_1</item>
-	    <item/>
-	    <item/>
+		<item>@string/every_1</item>
+	    <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_month_plurals">
-	    <item>@string/every_1</item>
-	    <item/>
-	    <item/>
+		<item>@string/every_1</item>
+	    <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_year_plurals">
-	    <item>@string/every_1</item>
-	    <item/>
-	    <item/>
-  	</string-array>
-	<string name="never">決してない</string>
+		<item>@string/every_1</item>
+	    <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="never">なし</string>
 	<string name="day_upper">日</string>
 	<string name="day_lower">@string/day_upper</string>
-	<string name="days_upper">日</string>
-	<string name="daily">日次</string>
+	<string name="days_upper">@string/day_upper</string>
+	<string name="daily">日ごと</string>
 	<string name="week_upper">週</string>
 	<string name="weeks_upper">@string/week_upper</string>
-	<string name="weekly">毎週</string>
-	<string name="biweekly">2週間ごと</string>
+	<string name="weekly">週ごと</string>
+	<string name="biweekly">隔週</string>
 	<string name="two_weeks">2週間</string>
 	<string name="month_upper">月</string>
 	<string name="month_lower">@string/month_upper</string>
 	<string name="months_upper">@string/month_upper</string>
-	<string name="monthly">毎月</string>
-	<string name="twice_a_month">月二回</string>
+	<string name="monthly">月ごと</string>
+	<string name="twice_a_month">月2回</string>
 	<string name="quarter_upper">四半期</string>
 	<string name="quarters_upper">@string/quarter_upper</string>
 	<string name="quarterly">四半期ごと</string>
@@ -127,180 +127,180 @@
 	<string name="year_upper">年</string>
 	<string name="year_lower">@string/year_upper</string>
 	<string name="years_upper">@string/year_upper</string>
-	<string name="yearly">毎年</string>
+	<string name="yearly">年ごと</string>
 	<string-array name="day_plurals">
 	    <item>@string/day_upper</item>
-	    <item/>
-	    <item/>
+	    <item/> <!-- Not user -->
+	    <item/> <!-- Not user -->
 	</string-array>
 	<string-array name="week_plurals">
 	    <item>@string/week_upper</item>
-	    <item/>
-	    <item/>
+	    <item/> <!-- Not user -->
+	    <item/> <!-- Not user -->
 	</string-array>
 	<string-array name="month_plurals">
 	    <item>@string/month_upper</item>
-	    <item/>
-	    <item/>
+	    <item/> <!-- Not user -->
+	    <item/> <!-- Not user -->
 	</string-array>
 	<string-array name="year_plurals">
 	    <item>@string/year_upper</item>
-	    <item/>
-	    <item/>
+	    <item/> <!-- Not user -->
+	    <item/> <!-- Not user -->
 	</string-array>
 	<string name="every_n_period_format">^1^2^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
-	<string name="if_it_falls_on_a_weekend">日付が週末にあたる場合</string>
-	<string name="skip_weekends">週末をスキップする</string>
+	<string name="if_it_falls_on_a_weekend">日付が週末の場合</string>
+	<string name="skip_weekends">週末はスキップ</string>
 	
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
-	    <item>^1期日</item>
-	    <item/>
-    	<item/>
-  	</string-array>
+		<item>^1期限超過</item>
+	    <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 	<string-array name="overdue_count_plurals">
-    	<item>^1の支払期日を過ぎた請求または預金</item>
-	    <item/>
-    	<item/>
-  	</string-array>
+		<item>^1期限超過の請求/入金</item>
+	    <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
-	    <item>@string/enter_now</item>
-	    <item>最初にトランザクションを編集する</item>
-  	</string-array>
-	<string name="use_todays_date_for_transaction_date">トランザクション日に本日の日付を使用する</string>
+		<item>@string/enter_now</item>
+		<item>初めにトランザクションを編集</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">トランザクションの日付を本日にする</string>
 	<string-array name="enter_warning_format_plurals">
-    	<item>^1の選択された自動更新アイテムは入力されます</item>
-	    <item/>
-    	<item/>
-  	</string-array>
-	
+        <item>選択した^1の自動継続項目が登録される</item>
+	    <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
+
 	<string-array name="skip_which_items">
-	    <item>次回の発生</item>
-	    <item>すべての延滞発生</item>
+		<item>次回の取り引き</item>
+		<item>期限後のすべての取り引き</item>
 	</string-array>
 
 	<string-array name="workday_adjustment_methods">
-	    <item>何もしないでください</item>
-	    <item>前の平日に移動させる</item>
-	    <item>次の平日に移動させる</item>
+		<item>何もしない</item>
+		<item>前の平日に移動する</item>
+		<item>次の平日に移動する</item>
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month">
-	    <item>1日</item>
-	    <item>2日</item>
-	    <item>3日</item>
-	    <item>4日</item>
-	    <item>5日</item>
-	    <item>6日</item>
-	    <item>7日</item>
-	    <item>8日</item>
-	    <item>9日</item>
-	    <item>10日</item>
-	    <item>11日</item>
-	    <item>12日</item>
-	    <item>13日</item>
-	    <item>14日</item>
-	    <item>15日</item>
-	    <item>16日</item>
-	    <item>17日</item>
-	    <item>18日</item>
-	    <item>19日</item>
-	    <item>20日</item>
-	    <item>21日</item>
-	    <item>22日</item>
-	    <item>23日</item>
-	    <item>24日</item>
-	    <item>25日</item>
-	    <item>26日</item>
-	    <item>27日</item>
-	    <item>28日</item>
-	    <item>29日</item>
-	    <item>30日</item>
-	    <item>31日</item>
+		<item>1日</item>
+		<item>2日</item>
+		<item>3日</item>
+		<item>4日</item>
+		<item>5日</item>
+		<item>6日</item>
+		<item>7日</item>
+		<item>8日</item>
+		<item>9日</item>
+		<item>10日</item>
+		<item>11日</item>
+		<item>12日</item>
+		<item>13日</item>
+		<item>14日</item>
+		<item>15日</item>
+		<item>16日</item>
+		<item>17日</item>
+		<item>18日</item>
+		<item>19日</item>
+		<item>20日</item>
+		<item>21日</item>
+		<item>22日</item>
+		<item>23日</item>
+		<item>24日</item>
+		<item>25日</item>
+		<item>26日</item>
+		<item>27日</item>
+		<item>28日</item>
+		<item>29日</item>
+		<item>30日</item>
+		<item>31日</item>
 	</string-array>
-
+	
 	<string-array name="on_the_nth_day_of_the_month_and_on_the">
-	    <item>1日と</item>
-	    <item>2日と</item>
-	    <item>3日と</item>
-	    <item>4日と</item>
-	    <item>5日と</item>
-	    <item>6日と</item>
-	    <item>7日と</item>
-	    <item>8日と</item>
-	    <item>9日と</item>
-	    <item>10日と</item>
-	    <item>11日と</item>
-	    <item>12日と</item>
-	    <item>13日と</item>
-	    <item>14日と</item>
-	    <item>15日と</item>
-	    <item>16日と</item>
-	    <item>17日と</item>
-	    <item>18日と</item>
-	    <item>19日と</item>
-	    <item>20日と</item>
-	    <item>21日と</item>
-	    <item>22日と</item>
-	    <item>23日と</item>
-	    <item>24日と</item>
-	    <item>25日と</item>
-	    <item>26日と</item>
-	    <item>27日と</item>
-	    <item>28日と</item>
-	    <item>29日と</item>
-	    <item>30日と</item>
-	    <item>31日と</item>
+		<item>1日と</item>
+		<item>2日と</item>
+		<item>3日と</item>
+		<item>4日と</item>
+		<item>5日と</item>
+		<item>6日と</item>
+		<item>7日と</item>
+		<item>8日と</item>
+		<item>9日と</item>
+		<item>10日と</item>
+		<item>11日と</item>
+		<item>12日と</item>
+		<item>13日と</item>
+		<item>14日と</item>
+		<item>15日と</item>
+		<item>16日と</item>
+		<item>17日と</item>
+		<item>18日と</item>
+		<item>19日と</item>
+		<item>20日と</item>
+		<item>21日と</item>
+		<item>22日と</item>
+		<item>23日と</item>
+		<item>24日と</item>
+		<item>25日と</item>
+		<item>26日と</item>
+		<item>27日と</item>
+		<item>28日と</item>
+		<item>29日と</item>
+		<item>30日と</item>
+		<item>31日と</item>
 	</string-array>
-	<string name="on_the_last_day_of_the_month">月の最終日に</string>
+	<string name="on_the_last_day_of_the_month">月末日</string>
 	<string-array name="on_the_nth_day_of_the_week_format">
-	    <item>最初の^1に</item>
-	    <item>2番目の^1に</item>
-	    <item>3番目の^1に</item>
-	    <item>4番目の^1に</item>
-  	</string-array>
+		<item>第1^1</item>
+		<item>第2^1</item>
+		<item>第3^1</item>
+		<item>第4^1</item>
+	</string-array>
 	<string-array name="on_the_nth_day_of_the_week_days">
-	    <item/>
-	    <item/>
-	    <item/>
-	    <item/>
-	    <item/>
-	    <item/>
-	    <item/>
-  	</string-array>
-	<string name="on_the_last_day_of_the_week_format">最後の^1に</string>
-
-	<string name="work_week">週間労働時間</string>
-	<string name="period_end_day_of_the_month">月の期間終了日</string>
-	<string name="fiscal_year">年度</string>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string name="on_the_last_day_of_the_week_format">最終^1</string>
 	
-	<string name="time_of_reminder">リマインダーの時間</string>
-	<string name="reminder_hour_of_day_change_warning">既存のリマインダーは、現存する場合は変更<b>されません</b>のでご注意ください。これを行うには、お客様のデバイス上のカレンダーに移動し、そこでリマインダーを編集してください。\n新しい時間は既存の定期的に発生する請求の次回分か預金だけではなく、新たなリマインダーに使用されます</string>
-
+	<string name="work_week">平日</string>
+	<string name="period_end_day_of_the_month">月の終了日</string>
+	<string name="fiscal_year">会計年度</string>
+	
+	<string name="time_of_reminder">事前通知の時期</string>
+	<string name="reminder_hour_of_day_change_warning">設定済みの事前通知はここでは変更されません。端末のカレンダー機能で変更してください\n\n新しく設定された時刻が次回の自動継続請求/入金および他の事前通知で使用されます</string>
+	
 	<string-array name="auto_enter_days_before">
-	    <item>自動的に入力しないでください</item>
-	    <item>期日に</item>
-	    <item>期日の前日</item>
-	    <item>期日の2日前</item>
-	    <item>期日の3日前</item>
-	    <item>期日前の1週間</item>
-	    <item>期日の2週間前</item>
-	    <item>期日の3週間前</item>
-	    <item>期日の一箇月前</item>
+		<item>自動入力をしない</item>
+		<item>期日に</item>
+		<item>期日の前日</item>
+		<item>期日の2日前</item>
+		<item>期日の3日前</item>
+		<item>期日の1週間前</item>
+		<item>期日の2週間前</item>
+		<item>期日の3週間前</item>
+		<item>期日の1ヶ月前</item>
 	</string-array>	
-	
+
 	<string-array name="days_before_plurals">
-    	<item>^1日前</item>
-	    <item/>
-    	<item/>
+		<item>^1日前</item>
+	    <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-	
+
 	<string-array name="days_before_due_date_plurals">
-    	<item>期日の^1日前</item>
-	    <item/>
-    	<item/>
+		<item>期限の^1日前</item>
+	    <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-	
-	<string name="specify_custom_number_of_days">日数のカスタム数を指定する</string>
+
+	<string name="specify_custom_number_of_days">日数の設定</string>
 </resources>

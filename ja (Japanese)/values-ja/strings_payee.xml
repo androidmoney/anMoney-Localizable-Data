@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="view_payee">受取人を表示</string>
-    <string name="edit_payee">受取人を編集する</string>
-    <string name="new_payee">新しい受取人</string>
-    <string name="call_payee">受取人を呼び出す</string>
-    <string name="delete_payee">受取人を削除する</string>
-    <string name="delete_payee_warning_format">受取人^1は完全に削除されます</string>
-    <string name="delete_from_app_format">また^1から削除</string> <!-- ^1 is replaced by the name of the Contacts app -->
-    <string name="add_payee_as_a_contact">連絡先として受取人を追加</string>
-    <string name="payee">受取人</string>
-    <string name="payer">支払人</string>
+    <string name="view_payee">支払先の表示</string>
+    <string name="edit_payee">支払先の編集</string>
+    <string name="new_payee">支払先の作成</string>
+    <string name="call_payee">支払先の呼び出し</string>
+    <string name="delete_payee">支払先の削除</string>
+    <string name="delete_payee_warning_format">支払先の^1は完全に削除されます</string>
+    <string name="delete_from_app_format">^1からも削除</string> <!-- ^1 is replaced by the name of the Contacts app -->
+    <string name="add_payee_as_a_contact">支払先を連絡先に追加</string>
+    <string name="payee">支払先</string>
+    <string name="payer">支払者</string>
     <string name="payees">@string/payee</string>
-    <string name="payee_required">受取人が必要です</string>
-    <string name="payer_required">必要な支払人</string>
-    <string name="call">呼び出す</string>
-    <string name="map_address">地図アドレス</string> <!-- Show the address on the map -->
-    <string name="no_payees">お客様には受取人がいません</string>
-    <string name="create_payee_instructions_format">受取人を作成するには画面上の ^i をタップします</string> <!-- ^1 will be replaced by an image -->
-    <string name="payee_transaction_list_empty">お客様には、この受取人に関するトランザクションがありません</string>
-    <string name="payee_exists">その名前の受取人は既に存在します</string>
-    <string name="combine_payees">2つの受取人を結合しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="payee_name">受取人名</string>
-    <string name="link_payee">既存の連絡先にこの受取人をリンクしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="account_number">口座</string>
+    <string name="payee_required">支払先を入力</string>
+    <string name="payer_required">支払者を入力</string>
+    <string name="call">呼び出し</string>
+    <string name="map_address">住所のマップ</string> <!-- Show the address on the map -->
+    <string name="no_payees">支払先がありません</string>
+    <string name="create_payee_instructions_format">画面上方の ^i をタップして支払先を作成</string> <!-- ^1 will be replaced by an image -->
+    <string name="payee_transaction_list_empty">この支払先に関するトランザクションはありません</string>
+    <string name="payee_exists">同じ名前の支払先がすでに登録されています</string>
+    <string name="combine_payees">2つの支払先を結合しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="payee_name">支払先の名称</string>
+    <string name="link_payee">この支払先を登録済みの連絡先と関連づけますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="account_number">口座番号</string>
     <string name="phone">電話</string>
     <string name="phone_number">電話番号</string>
     <string name="email">Eメール</string>
     <string name="email_address">Eメールアドレス</string>
     <string name="url">URL</string>
     <string name="web_address">ウェブアドレス</string>
-    <string name="select_account">口座を選択する</string>
-    <string name="open_web_page">Webページを開く</string>
-    <string name="view_payees">受取人を表示</string>
-    <string name="default_payee_name">私の受取人</string>
-	<string name="spending_by_payee">受取人による支出</string>
-    <string name="all_payees_hidden_by_filter">すべての受取人はディスプレイ・フィルターによって隠されている</string>
+    <string name="select_account">口座の選択</string>
+    <string name="open_web_page">ウェブページをオープン</string>
+    <string name="view_payees">支払先の表示</string>
+<!-- New --> <string name="default_payee_name">My payee</string>
+	<string name="spending_by_payee">支払先別の支出</string>
+    <string name="all_payees_hidden_by_filter">すべての支払先がフィルターによって表示されていません</string>
         
-    <string name="without_payee">受取人なし</string>
-    <string name="no_payees_yet">受取人はまだありません</string>
+    <string name="without_payee">支払先なし</string>
+    <string name="no_payees_yet">支払先がありません</string>
 	<string-array name="payee_count_format_plurals">
-    	<item>^1受取人</item>
-	    <item/>
-	    <item/>
-	  </string-array>
+        <item>^1支払先</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 
-    <string name="all_payees">すべての受取人</string>
-	<string name="payees_in_open_accounts">開設口座の受取人</string>
-	<string name="payees_in_closed_accounts_only">閉鎖済み口座の受取人のみ</string>
-	<string name="unused_payees">未使用の受取人</string>
+    <string name="all_payees">すべての支払先</string>
+	<string name="payees_in_open_accounts">利用中の口座の支払先</string>
+	<string name="payees_in_closed_accounts_only">閉鎖した口座のみにある支払先</string>
+	<string name="unused_payees">未使用の支払先</string>
 	<string-array name="payee_list_filter_title_bar">
-	    <item>@string/all_payees</item>
-	    <item>@string/payees_in_open_accounts</item>
-	    <item>@string/payees_in_closed_accounts_only</item>
-	    <item>@string/unused_payees</item>
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
 	</string-array>
 
 	<string-array name="payee_list_order_title_bar">
-	    <item>@string/date</item>
-	    <item/>
-	    <item>@string/name</item>
-	    <item>@string/amount</item>
-	    <item/>
-	    <item/>
-	    <item/>
-	    <item/>
-	    <item/>
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-	<string name="appwidget_warning_format">^1はSDカード上にインストールされているようです。\n\nウィジェットが消失するおそれがあるため, ウィジェットを継続して使用するためには, ^1をSDカードから本体にインストールし直すことを強くおすすめします</string> <!-- ^1 is the app name -->
+	<string name="appwidget_warning_format">^1はSDカード上にインストールされているようです。\n\nウィジェットが消失するおそれがあるため、ウィジェットを継続して使用するためには、^1をSDカードから本体にインストールし直すことを強くおすすめします</string> <!-- ^1 is the app name -->
 
     <string name="no_books_warning">ウィジェットを配置する前に会計簿を少なくとも一つは作成しておいてください</string>
     <string name="no_books_and_accounts_warning">ウィジェットを配置する前に会計簿と口座を少なくとも一つずつ作成しておいてください</string>

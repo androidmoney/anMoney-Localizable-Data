@@ -1,306 +1,306 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="book">通帳</string>
-    <string name="new_book">新しい通帳</string>
-    <string name="new_book_name">新しい通帳名</string>
-    <string name="rename_book">通帳の名前を変更する</string>
-    <string name="delete_book">通帳を削除する</string>
-    <string name="share_book">通帳を共有する</string>
-    <string name="book_delete_warning_short_format">通帳^1は削除されます</string>
-    <string name="all_data_will_be_lost">バックアップされていない場合は、この通帳の中のすべてのデータは永久に失われます。</string>
-    <string name="import_into_book">通帳にインポートする</string>
-    <string name="export_from_book">通帳からエクスポートする</string>
-    <string name="import_into_book_format">通帳^1にインポートする</string>
-    <string name="no_books">お客様には通帳がありません</string>
-    <string name="upgrading_book">通帳のアップグレード</string>
-    <string name="upgrading_books">通帳のアップグレード</string>
+    <string name="book">会計簿</string>
+    <string name="new_book">新しい会計簿</string>
+    <string name="new_book_name">新しい会計簿の名前</string>
+    <string name="rename_book">名前の変更</string>
+    <string name="delete_book">削除</string>
+    <string name="share_book">共有</string>
+    <string name="book_delete_warning_short_format">^1は削除されます</string>
+    <string name="all_data_will_be_lost">バックアップがない場合、この会計簿のデータは完全に消去されます</string>
+    <string name="import_into_book">インポート</string>
+    <string name="export_from_book">エクスポート</string>
+    <string name="import_into_book_format">^1へのインポート</string>
+    <string name="no_books">会計簿がありません</string>
+    <string name="upgrading_book">会計簿の更新</string>
+    <string name="upgrading_books">会計簿の更新</string>
     <string name="backup">バックアップ</string> <!-- Verb -->
-    <string name="backup_canceled">バックアップは取り消されました</string>
-    <string name="backup_book">バックアップ用通帳</string>
-    <string name="overwrite">上書きする</string>
+    <string name="backup_canceled">キャンセルしました</string>
+    <string name="backup_book">バックアップ</string>
+    <string name="overwrite">上書き</string>
     <string name="backup_name">バックアップ名</string>
-    <string name="auto_backup_name_format">^1（^2自動）</string>
-    <string name="restore">復元する</string>
-    <string name="restored">復元済み</string>
-    <string name="restore_canceled">復元は取消されました</string>
-    <string name="restore_book">通帳を復元する</string>
-    <string name="restore_warning_format">通帳^1が上書きされ<b>すべて</b>のデータは回復不能に破壊されます</string>
-    <string name="select_backup_file_to_restore">復元するバックアップファイルを選択する</string>
-    <string name="select_backup_file_to_create_from">から作成するバックアップファイルを選択する</string>
-    <string name="import_statement">明細をインポートする</string>
-    <string name="no_sd_card_inserted">挿入されたSDカードはありません</string>
-    <string name="select_files">ファイルを選択する</string>
-    <string name="delete_file">ファイルを削除する</string>
-    <string name="delete_file_warning_format">ファイル^1は削除されます</string>
+<!-- New -->    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+    <string name="restore">復元</string>
+    <string name="restored">復元しました</string>
+    <string name="restore_canceled">キャンセルしました</string>
+    <string name="restore_book">復元</string>
+    <string name="restore_warning_format">^1は上書きされ、いずれのデータも回復することはできなくなります</string>
+    <string name="select_backup_file_to_restore">復元するバックアップファイルの選択</string>
+    <string name="select_backup_file_to_create_from">参照するバックアップファイルの選択</string>
+    <string name="import_statement">明細のインポート</string>
+    <string name="no_sd_card_inserted">SDカードが挿入されていません</string>
+    <string name="select_files">ファイルの選択</string>
+    <string name="delete_file">ファイルの削除</string>
+    <string name="delete_file_warning_format">^1は削除されます</string>
 	<string-array name="delete_files_warning_format_plurals">
-	    <item>^1の選択されたファイルは削除されます</item>
-		<item/>
-	    <item/>
+        <item>選択された^1は削除されます</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
-    <string name="select_book">通帳を選択する</string>
-    <string name="select_book_to_import_into">明細書をインポートする通帳を選択する</string>
-    <string name="select_import_file">インポートするファイルを選択する（複数可）</string>
-    <string name="not_specified_brackets">&lt;詳細未定&gt;</string>
-    <string name="map_accounts">口座を位置付ける</string>
-    <string name="configure_account_mappings">アカウントマッピングの設定</string>
-    <string name="account_required">口座が要求されます</string>
-    <string name="duplicate_name">名前を複写する</string>
+    <string name="select_book">会計簿の選択</string>
+    <string name="select_book_to_import_into">明細をインポートする会計簿の選択</string>
+    <string name="select_import_file">インポートするファイルの選択</string>
+    <string name="not_specified_brackets">指定されていない></string>
+    <string name="map_accounts">口座のマップ</string>
+    <string name="configure_account_mappings">口座マップの構成</string>
+    <string name="account_required">口座名を入力</string>
+    <string name="duplicate_name">名前の複製</string>
     <string name="options">オプション</string>
-    <string name="select_options">インポートオプションを選択する</string>
-    <string name="remove_duplicates">重複を除去する</string>
-    <string name="remove_duplicates_notes">多くの場合これは正しく動作しますが、特に口座が異なる通貨の金額を持つ場合、問題が生じる場合があります。そのような場合、一致は不可能です。インポート後収支が正しいことを確認してください</string>
-    <string name="import_classes">クラスをインポートする</string>
-    <string name="ignore_memos">メモフィールドを無視</string>
-    <string name="create_payees_in_app_name_format">^1に受取人を作成します</string>
-    <string name="contact_account">振込先を作成するための連絡アカウント</string>
-    <string name="select_import_mode">インポート·モードを選択する</string>
-    <string name="select_accounts_to_export">エクスポートする口座を選択する（複数可）</string>
-    <string name="specify_export_file_format">エクスポートファイル形式を指定する</string>
-    <string name="mark_transactions_exported">エキスポート済みとしてトランザクションをマークする</string>
-    <string name="create_single_file">単一のファイルを作成します</string>
-    <string name="no_transactions_matched_your_selection_criteria">お客様の選択基準に合致したトランザクションはありません。\n\nエクスポートファイルは作成されていません</string>
-	<string name="import_folder">インポートフォルダー</string>
-	<string name="export_folder">フォルダーをエクスポートする</string>
-    <string name="ask_to_view_imported_transaction">インポートされたトランザクションを表示しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="select_options">インポートオプションの選択</string>
+    <string name="remove_duplicates">重複の削除</string>
+    <string name="remove_duplicates_notes">ほとんどの場合問題ありません。ただし、口座に複数の通貨が混在する場合などには、まれに問題の生じる場合があります。インポートのあと差引残高が正しいことをチェックしてください</string>
+    <string name="import_classes">クラスのインポート</string>
+    <string name="ignore_memos">メモフィールドの無視</string>
+    <string name="create_payees_in_app_name_format">^1に支払先を作成</string>
+    <string name="contact_account">支払先を作成する口座に連絡</string>
+    <string name="select_import_mode">データ種別の選択</string>
+    <string name="select_accounts_to_export">エクスポートする口座の選択</string>
+    <string name="specify_export_file_format">エクスポートフォーマットの指定</string>
+    <string name="mark_transactions_exported">トランザクションをエクスポート済みとしてマーク</string>
+    <string name="create_single_file">単一のファイルを作成</string>
+    <string name="no_transactions_matched_your_selection_criteria">選択基準にマッチしたトランザクションは見つかりません\n\nエクスポートファイルは作成されていません</string>
+	<string name="import_folder">インポート・フォルダ</string>
+	<string name="export_folder">エクスポート・フォルダ</string>
+<!-- Verify -->    <string name="ask_to_view_imported_transaction">インポートされたトランザクションを表示しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="tip">ヒント</string>
     <string name="user_guide">ユーザーズガイド</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
     <string name="whats_new">最新情報</string>
     <string name="license">ライセンス</string>
-<!--     
-    <string name="accept_license">Accept license</string>
-    <string name="decline">Decline</string>
- -->    
-    <string name="thank_you">ありがとうございます！</string>
+	<!--
+	<string name="accept_license">ライセンスの承認</string>
+	<string name="decline">拒否</string>
+	-->
+    <string name="thank_you">ありがとうございました!</string>
     <string name="password">パスワード</string>
     <string name="old_password">旧パスワード</string>
-    <string name="new_password">新しいパスワード</string>
-    <string name="verify_password">パスワードの確定</string>
-    <string name="enter_password">パスワードを入力する</string>
-    <string name="incorrect_password">パスワードが正しくありません。 もう一度入力してください</string>
-    <string name="set_password">パスワードを設定する</string>
-    <string name="password_set">パスワード設定</string>
-    <string name="edit_password">パスワードを編集する</string>
-    <string name="remove_password">パスワードを除去する</string>
-    <string name="password_removed">パスワードは除去されました</string>
-    <string name="remove_password_message">パスワードが除去されます。\n\nお客様のデータは、デバイスへのアクセス権を持つ全ての人に閲覧可能になります</string>
-    <string name="password_has_not_been_changed">パスワードが変更されていません</string>
-    <string name="passwords_dont_match">パスワードが一致しません</string>
-    <string name="case_sensitive">大文字と小文字を区別</string>
-    <string name="disclaimer">免責条項:</string>
-    <string name="password_disclaimer">この免責事項を読んで、最後にチェックボックスをオンにしてください。\n\nパスワード機能は “詮索好きの目”からプライバシーを提供するための方法として設計されていることにご注意ください。プラットフォームの制限により実際のデータの暗号化は現実的ではなく、高度なスキルを持つ何者が現在のパスワードを悪用してお客様のデータにアクセスする可能性があります。\n\nそれはお客様が追加のセキュリティーとして、ロックパターンやPINを使用してデバイスを保護することを強くお勧めします</string>
-    <string name="i_understand_the_limitations">私はこれらの制限を理解しています</string>
-    <string name="set_password_now_part1">今すぐパスワードを設定する</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_password_now_part2_format">たとえ^1に答えても、通帳の名前をロング・タップして^2をタップすることでいつでもパスワードを設定できるオプションを持てます</string>
-    <string name="folder_name_format">フォルダー名（サブフォルダー^1を使用する）</string>
-    <string name="no_backup_files">バックアップファイルは見つかりませんでした</string>
-    <string name="no_backup_files_new_instructions">インポートファイルを使用して通帳を作成しようとしている場合、ブックを最初から作成してください、その後インポートします</string>
-    <string name="remove_transactions">下記の日付より古いトランザクションを除去します</string>
-    <string name="book_to_make_copy_of">コピー作成用通帳</string>
-    <string name="truncate_warning_format">^1に先行するすべてのトランザクションは回復不能に破壊されます</string>
+    <string name="new_password">新パスワード</string>
+    <string name="verify_password">パスワードの確認</string>
+    <string name="enter_password">パスワードの入力</string>
+    <string name="incorrect_password">パスワードが正しくありません。再度入力してください</string>
+    <string name="set_password">パスワードの設定</string>
+    <string name="password_set">設定されました</string>
+    <string name="edit_password">パスワードの編集</string>
+    <string name="remove_password">パスワードの削除</string>
+    <string name="password_removed">削除しました</string>
+    <string name="remove_password_message">パスワードが削除されます。\n\n端末にアクセスすれば誰でもデータを見ることができます</string>
+    <string name="password_has_not_been_changed">パスワードは変更されていません</string>
+    <string name="passwords_dont_match">パスワードか一致しません</string>
+    <string name="case_sensitive">大文字/小文字を区別します</string>
+    <string name="disclaimer">免責条項</string>
+    <string name="password_disclaimer">以下の免責条項を読んで最後のチェックボックスをチェックして下さい\n\nパスワードのしくみは「詮索好きな目」からプライバシーを保護する一手法として設計されたものです。しかし、この端末のプラットホームの制約からデータを真に暗号化することができないため、たとえパスワードが設定されていても、高度な技能を有している人ならデータにアクセスすることができます。\n\nご自身の端末をロックパターンあるいは PINによって保護されることを強くおすすめします</string>
+    <string name="i_understand_the_limitations">制約条件を了解しました</string>
+    <string name="set_password_now_part1">パスワードを設定しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_password_now_part2_format">ここで^1としても、会計簿の名前をロング・タップして^2を選択することで、いつでもパスワードを設定できます</string>
+    <string name="folder_name_format">フォルダ名（サブフォルダには ^1を使用）</string>
+    <string name="no_backup_files">バックアップファイルが見つかりません</string>
+<!-- New --> <string name="no_backup_files_new_instructions">If you are trying to create a book using an import file, please create a book from scratch first, then import into it</string>
+    <string name="remove_transactions">以下の日付より古いトランザクションを削除</string>
+    <string name="book_to_make_copy_of">コピーする会計簿</string>
+    <string name="truncate_warning_format">^1以前のトランザクションはどれも完全に削除されて回復不能となります</string>
     <string name="information_and_help">情報とヘルプ</string>
-    <string name="discussion_forum">ディスカッション・フォーラム</string>
-    <string name="join_the_user_community_format">^1ユーザーのコミュニティに参加する</string>
-    <string name="contact_us">弊社までお問い合わせください</string>
-    <string name="email_the_developers">開発者に直接メールする</string>
+    <string name="discussion_forum">ディスカッションフォーラム</string>
+    <string name="join_the_user_community_format">^1のユーザーズコミュニティに参加</string>
+    <string name="contact_us">Contact us</string>
+    <string name="email_the_developers">開発者にEメール</string>
     <string name="tap_to_display_import_settings_format">^1をタップするとインポート設定画面が表示されます</string>
-    <string name="verify_import_settings">選択したデフォルト設定がインポートしたファイルのために本当に正しいかご確認ください。すべて問題ない場合は<b>戻る</b>の矢印を押してインポート処理を続けます</string>
-    <string name="change_settings_instructions_format">このメッセージは次回インポートでは表示されませんが、画面上の ^i をタップすることでいつでも設定を変更できます</string> <!-- ^i will be replaced by an image -->
-    <string name="bad_import_settings">次の設定はインポートしようとしているファイルを誤って表示しています</string>
-    <string name="qif_csv_encoding_explanation_format">通常^1は以下のリストにある言語で使用されるべきですが、いくつかの金融機関では正常なインポートのために^2が選択されてファイルを生成しています。\n\nリストに存在しない他のすべての言語の場合、^2は常に選択する必要があります</string>
-    <string name="credits_legal">クレジットと法</string>
-    <string name="contact_and_social">お問い合わせ＆ソーシャル</string>
-    <string name="follow_us">フォローしてください</string>
-    <string name="add_us_to_circle">お客様のサークルや+1に私たちを追加</string>
-    <string name="become_a_fan">ファンになる</string>
-    <string name="haptic_feedback">触覚フィードバック</string>
-    <string name="haptic_feedback_description">選択した場合はボタンをタップしたときに振動</string>
-	<string name="default_book_name">私の通帳</string>
+    <string name="verify_import_settings">インポートしようとするファイルに対して正しい設定がなされているか確認してください。すべてよければパックキーを押して、インポートを進めてください</string>
+    <string name="change_settings_instructions_format">このメッセージはこのあと表示されませんが、画面上方の ^i をタップすることでいつでも設定を変更できます</string> <!-- ^i will be replaced by an image -->
+    <string name="bad_import_settings">以下の設定はインポートしようとしているファイルに対して正しくないようです</string>
+    <string name="qif_csv_encoding_explanation_format">下記の言語では^1が使用されますが、金融機関によっては^2を選ぶ方が適切な場合もあります。\n\nリストにない言語では^2を選びます</string>
+    <string name="credits_legal">クレジット&amp;法律</string>
+    <string name="contact_and_social">問い合わせ&amp;ソーシャル</string>
+<!-- New --> <string name="follow_us">Follow us</string>
+<!-- New --> <string name="add_us_to_circle">Add us to your circles and +1 us</string>
+<!-- New --> <string name="become_a_fan">Become a fan</string>
+    <string name="haptic_feedback">バイブレーション</string>
+    <string name="haptic_feedback_description">選択した場合、タップ時に振動する</string>
+<!-- New -->	<string name="default_book_name">My book</string>
 	<string name="color_theme">カラーテーマ</string>
-	<string name="dark">ダーク</string>  <!-- As in "dark color theme" -->
-	<string name="light">明るい</string> <!-- As in "opposite of dark" -->
+	<string name="dark">ダーク</string> <!-- As in "dark color theme" -->
+	<string name="light">ライト</string> <!-- As in "opposite of dark" -->
 	<string name="preview">プレビュー</string>
-	
+
 	<string-array name="book_new_source">
-	    <item>最初から作成します</item>
-	    <item>バックアップから作成します</item>
-	    <item>既存の通帳からコピーする</item>
-	</string-array>
+		<item>新規に作成</item>
+		<item>バックアップから作成</item>
+		<item>既存の会計簿をコピー</item>
+    </string-array>
 
 	<string-array name="book_new_source_descriptions">
-	    <item/>
-	    <item/>
-	    <item>そしてオプションで指定の日付で切り捨てる</item>
-	</string-array>
-	
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>場合によっては日付を調整</item>
+    </string-array>
+
 	<string-array name="import_mode">
-	    <item>銀行からダウンロードした明細書</item>
-	    <item>別のソフトウェアでエクスポートされたデータ</item>
-	</string-array>
+        <item>ダウンロードした明細書</item>
+        <item>他のアプリケーションのデータ</item>
+    </string-array>
 
 	<string-array name="import_mode_description">
-	    <item>アメリカン·エキスプレスからの月末の明細など様々な金融機関からダウンロードした明細に使用されます。<b>QIF</b>と<b>OFX​​/QFX/OFS</b>の両方のフォーマットがサポートされています。インポートファイルに口座間の転送を含めることはできません</item>
-	    <item>Microsoft® MoneyやQuicken®など別のパーソナルファイナンスソフトウェアからデータを転送するために使用されます。<b>QIF</b>フォーマットのみサポートされています</item>
-  	</string-array>
+        <item><b>QIF</b>と<b>OFX/QFX/OFS</b>の両方のフォーマットがサポートされています（アメリカンエキスプレスからの月末の明細など様々な金融機関からタウンロードした明細に使用されます）。インポートファイルに口座間の振替を含めることはできません</item>
+        <item><b>QIF</b>フォーマットのみサポートされています（Microsoft® MoneyやQuicken®などパーソナルファイナンスソフトウェアからデータを転送するために使用されます）</item>
+    </string-array>
 
 	<string-array name="book_export_file_type_description">
-	    <item>お客様が使用している分類やカテゴリーによっては、Microsoft® Moneyでしか読めない場合があります</item>
-	    <item><b>QIF</b>形式をサポートしているすべてのアプリケーションで読み取り可能</item>
-	    <item>Microsoft® ExcelやGoogle™ Docsなどのスプレッドシート・アプリケーションで読み取り可能。エクスポートされた最初の行には各トランザクションの行に続いて列ヘッダーが含まれています。各分割は独自の行を持ちます</item>
-	</string-array>
+        <item>使用する分類やカテゴリーによってはMicrosoft® Moneyでしか読み込めない場合があります</item>
+        <item><b>QIF</b>形式をサポートするすべてのアプリケーションで読み込み可能です</item>
+        <item>スプレッドシートアプリケーション（Microsoft® ExcelやGoogle™ Docsなど）で読み込むことができます。先頭行はそれぞれのトランザクションのヘッダーになります。分割されたトランザクションはそれぞれ別の行となります</item>
+    </string-array>
 
     <string name="import_file_confirm_format">^1をインポートしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-	    <item>^1ファイルをインポートしますか</item>
-	    <item/>
-	    <item/>
-	</string-array>
+        <item>^1をインポートしますか</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+    </string-array>
 
     <string name="general">全般</string>
-    <string name="starting_screen">画面の起動</string>
-    <string name="negative_amount_format">マイナス金額フォーマット</string>
+    <string name="starting_screen">起動時画面</string>
+    <string name="negative_amount_format">負数の表示形式</string>
     
-    <string name="show_currency_symbol">通貨記号を表示する</string>
+    <string name="show_currency_symbol">通貨記号の表示</string>
 	<string-array name="show_currency_symbol_items">
-	    <item>通貨による</item>
-	    <item>額の前</item>
-	    <item>金額の後</item>
+		<item>通貨に依存</item>
+		<item>金額の前</item>
+		<item>金額の後</item>
 	</string-array>
-	
-    <string name="base_currency">基準通貨</string>
-    <string name="space_between_symbol_and_amount">記号と金額の間にスペースを置く</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+
+    <string name="base_currency">基本通貨</string>
+    <string name="space_between_symbol_and_amount">金額と通貨記号の間のスペース</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
     
-    <string name="password_time_out_period">パスワード・タイムアウト時間</string>
+    <string name="password_time_out_period">パスワードタイムアウト時間</string>
 	<string-array name="n_seconds_format_plurals">
-	    <item>^1秒</item>
-		<item/>
-	    <item/>
+        <item>^1秒</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
-	    <item>^1分</item>
-	    <item/>
-	    <item/>
+        <item>^1分</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
     
     <string name="set_button_behavior_format">^1ボタンの動作</string>
 	<string-array name="set_button_behavior_items">
-	    <item>現在表示されている番号を設定する</item>
-	    <item>計算を完了し結果を設定します</item>
+		<item>表示されている数字を返す</item>
+		<item>計算結果を返す</item>
 	</string-array>
 
     <string name="confirmations_and_warnings">確認と警告</string>
 
-    <string name="warn_if_no_category">カテゴリーが無い場合警告します</string>
-    <string name="warn_if_no_category_description">選択した場合、指定されたカテゴリーは存在しない場合に警告が表示されます</string>
+    <string name="warn_if_no_category">カテゴリーなしの警告</string>
+    <string name="warn_if_no_category_description">選択した場合、カテゴリーを指定しないと警告が出ます</string>
     
-    <string name="warn_if_incorrect_category_type">間違ったカテゴリー・タイプの場合警告します</string>
-    <string name="warn_if_incorrect_category_type_description">選択した場合、間違ったカテゴリーの種類が指定されている場合に警告が表示されます</string>
+    <string name="warn_if_incorrect_category_type">不適当なカテゴリータイプの警告</string>
+    <string name="warn_if_incorrect_category_type_description">選択した場合、間違ったカテゴリータイプを指定すると警告が出ます</string>
     
     <string name="modification_confirmation">変更の確認</string>
 	<string-array name="modification_confirmation_items">
-	    <item>なし</item>
-	    <item>調整のみ</item>
-	    <item>すべて</item>
+		<item>なし</item>
+		<item>調整時のみ</item>
+		<item>すべて</item>
 	</string-array>
-	
-    <string name="back_press_prompt">プロンプトを押して戻る</string>
-    <string name="back_press_prompt_description">選択した場合、戻るボタンが押されたときに保存を求める記号が表示されます</string>
+
+    <string name="back_press_prompt">バックキータップ時の表示</string>
+    <string name="back_press_prompt_description">選択した場合、バックキーのタップ時に保存を促されます</string>
     
-    <string name="new_payee_confirmation">新しい受取人の確認</string>
-    <string name="new_payee_confirmation_description">選択した場合、新たな受取人が作成される前に確認が表示されます</string>
+    <string name="new_payee_confirmation">新しい支払先の確認</string>
+    <string name="new_payee_confirmation_description">選択した場合、新しい支払先を作成するまえに確認を求められます</string>
     
-    <string name="duplicate_check_number">小切手番号を複写する</string>
-    <string name="duplicate_check_number_description">選択した場合、小切手番号がすでに使用されている場合に警告が表示されます</string>
+    <string name="duplicate_check_number">小切手番号の重複</string>
+    <string name="duplicate_check_number_description">選択した場合、小切手番号が重複すると警告が出ます</string>
     
-    <string name="field_with_initial_focus">初期フォーカスを伴うフィールド</string>
+    <string name="field_with_initial_focus">初期フォーカスするフィールド</string>
     
-    <string name="show_keyboard_automatically">自動的にキーボードを表示する</string>
-	<string name="show_keyboard_automatically_description">選択した場合、新しいトランザクションを追加するときにポップアップキーボードが表示されます</string>
-	    
-    <string name="notes_in_transaction_window">トランザクション画面の注意書き</string>
-    <string name="notes_in_transaction_window_description">選択した場合、単一行の注意書きはトランザクション画面で編集できます</string>
+    <string name="show_keyboard_automatically">キーボードの自動表示</string>
+	<string name="show_keyboard_automatically_description">選択した場合、新しいトランザクションの入力時にキーボードを表示します</string>
+
+    <string name="notes_in_transaction_window">トランザクションのメモ</string>
+    <string name="notes_in_transaction_window_description">選択した場合、トランザクション・ウィンドウに1行メモを書き込むことができます</string>
     
-    <string name="new_category_in_transaction_window">トランザクション画面の新しいカテゴリー</string>
-    <string name="new_category_in_transaction_window_description">選択した場合、新たなカテゴリーをトランザクション画面内から作成することができます</string>
+    <string name="new_category_in_transaction_window">トランザクションの新しいカテゴリー</string>
+    <string name="new_category_in_transaction_window_description">選択した場合、トランザクション・ウィンドウ内で新しいカテゴリーを追加できます</string>
     
-    <string name="hide_labels">ラベルを隠す</string>
-    <string name="hide_labels_description">選択した場合、トランザクション画面のラベルはより多くのスペースを非表示にすることができます</string>
+    <string name="hide_labels">ラベルの非表示</string>
+    <string name="hide_labels_description">選択した場合、ウィンドウ内のラベルを表示しないでスペースを広くとることができます</string>
     
-    <string name="security">安全性</string>
+    <string name="security">セキュリティ</string>
     
-    <string name="quick_entry_password">簡単入力パスワード</string>
-    <string name="quick_entry_password_description">選択した場合、クイック入力ウィジェットからもしあればパスワードの入力が要求されます</string>
+    <string name="quick_entry_password">クイックエントリー・パスワード</string>
+    <string name="quick_entry_password_description">選択した場合、クイックエントリーウィジエットがパスワードの入力を要求します</string>
     
-    <string name="backup_folder">バックアップ・フォルダー</string>
+    <string name="backup_folder">バックアップ・フォルダ</string>
     
-    <string name="date_in_file_name">ファイル名の日付</string>
-    <string name="date_in_file_name_description">選択した場合は、送信時に今日の日付がファイル名に付加されます</string>
+    <string name="date_in_file_name">ファイル名に日付を使用</string>
+    <string name="date_in_file_name_description">選択した場合、保存時に今日の日付がファイル名に付加されます</string>
     
     <string name="automatic_backup">自動バックアップ</string>
-    <string name="automatic_backup_description">選択した場合、この通帳は自動的にバックアップされます</string>
+    <string name="automatic_backup_description">選択した場合、会計簿は自動的にバックアップされます</string>
     
-    <string name="backup_how_often">バックアップ頻度</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="backup_how_often">バックアップの頻度は</string> <!-- This is a question, but the question mark will be added progrmatically -->
     
-    <string name="auto_backup_notify_description">選択した場合、通知はバックアップ操作の後に表示されます</string>
+    <string name="auto_backup_notify_description">選択した場合、バックアップ後に通知されます</string>
     
 	<string name="backed_up_book_format">^1をバックアップ</string>
     <string-array name="backed_up_books_format_plurals">
-	    <item>^1通帳をバックアップ</item>
-	    <item/>
-	    <item/>
+        <item>^1をバックアップ</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-	    <item>^1トランザクションをエクスポート済み</item>
-	    <item/>
-	    <item/>
+        <item>^1をエクスポート済み</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
     </string-array>
 
-	<string name="failed_to_back_up_book">通帳のバックアップに失敗しました</string>
-	<string name="no_space_left_on_sd_card">SDカードに空き領域がありません</string>
-	<string name="cannot_restore_newer_version">それは^1の新しいバージョンで作成されたためバックアップを復元することはできません。\n\n^1の最新バージョンをインストールして、もう一度試してください</string>
-		
+	<string name="failed_to_back_up_book">バックアップに失敗しました</string>
+	<string name="no_space_left_on_sd_card">SDカードに十分なスペースがありません</string>
+	<string name="cannot_restore_newer_version">新しいバージョンの^1で作成されているため、バックアップを復元できません。n\n最新バージョンの^1をインストール後に再度実施してください</string>
+	
 	<string name="file">ファイル</string>	
 	<string name="folder">フォルダー</string>	
-	<string name="external_storage">外部記憶装置</string>	
+	<string name="external_storage">外部ストレージ</string>	
 	<string name="path">パス</string>	
 
-    <string name="qif_csv_date_order">QIF/CSV　日付順</string>
+    <string name="qif_csv_date_order">QIF/CSVの日付の形式</string>
 
 	<string name="comma">コンマ</string>	
-    <string name="qif_csv_decimal_mark">QIF/CSV　小数点マーク</string>
+    <string name="qif_csv_decimal_mark">QIF/CSVの小数点記号</string>
 	<string-array name="qif_csv_decimal_marks">
-	    <item>小数点</item>
-	    <item>@string/comma</item>
-	</string-array>
+        <item>ピリオド</item>
+        <item>@string/comma</item>
+    </string-array>
 
-    <string name="csv_delimiter">CSVデリミター</string>
+    <string name="csv_delimiter">CSVの区切り記号</string>
 	<string-array name="csv_delimiters">
-	    <item>@string/comma</item>
-	    <item>セミコロン</item>
+        <item>@string/comma</item>
+        <item>セミコロン</item>
+    </string-array>
+
+	<string name="qif_csv_encoding">QIF/CSVのエンコード</string>
+    <string name="ofx_qfx_encoding">OFX/QFX/OFSのエンコード</string>
+<!-- New --> <string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK (Chinese national standard)</item>
+        <item>Cyrillic (Windows)</item>
+        <item>Western European (Windows)</item>
+        <item>Central European (Windows)</item>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
 	</string-array>
 
-	<string name="qif_csv_encoding">QIF/CSV　エンコーディング</string>
-    <string name="ofx_qfx_encoding">OFX/QFX/OFS　エンコーディング</string>
-	<string-array name="encodings">
-	    <item>@string/iso_8859_1</item>
-	    <item>@string/utf_8</item>
-	    <item>GBK（中国国家標準）</item>
-	    <item>キリル文字（Windows）</item>
-	    <item>西ヨーロッパ （Windows）</item>
-	    <item>中央ヨーロッパ （Windows）</item>
-	    <item>UTF-16BE（Unicode）</item>
-	    <item>UTF-16LE（Unicode）</item>
-	</string-array>
+    <string name="maintain_entries">エントリーのメンテナンス</string>
+    <string name="maintain_number_field_entries">番号フィールドエントリーのメンテナンス</string>
+    <string name="maintain_number_field_entries_description">使われなくなったトランザクションの番号フィールドエントリーを削除することができます</string>
 
-    <string name="maintain_entries">エントリを維持する</string>
-    <string name="maintain_number_field_entries">番号フィールドエントリを維持する</string>
-    <string name="maintain_number_field_entries_description">使用されない取引番号フィールドのエントリーを削除することができます</string>
-
-    <string name="delete_entry_warning_format">入力^1は削除されます</string>
+    <string name="delete_entry_warning_format">^1は削除されます</string>
     <string-array name="delete_entries_warning_format_plurals">
-    	<item>^1エントリは削除されます</item>
-        <item/>
-    	<item/>
-	</string-array>
+        <item>^1は削除されます</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+    </string-array>
 </resources>

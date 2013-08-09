@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources> 
     <string name="splits">分割</string> <!-- This is a noun -->
-    <string name="split_canceled">分割は取消されました</string> <!-- "Split" is a verb -->
-    <string name="new_split">新しい分割</string> <!-- "Split" here and below are nouns -->
-    <string name="edit_split">分割を編集する</string>
-    <string name="edit_splits">分割を編集する</string>
-    <string name="delete_split">分割を削除する</string>
+    <string name="split_canceled">キャンセルしました</string> <!-- "Split" is a verb -->
+    <string name="new_split">分割の作成</string> <!-- "Split" here and below are nouns -->
+    <string name="edit_split">分割の編集</string>
+    <string name="edit_splits">分割の編集</string>
+    <string name="delete_split">分割の削除</string>
 	<string name="delete_split_warning">分割は削除されます</string>
-	<string name="sum_of_splits">分割の合計</string>
-	<string name="unassigned">未割当</string>
+	<string name="sum_of_splits">分割分の合計</string>
+	<string name="unassigned">未処理分</string>
 	<string name="transaction_total">トランザクションの合計</string>
-    <string name="go_back_to_edit">分割編集に戻る</string>
-    <string name="unassigned_split_message_format">分割分の合計は^1で、トランザクションの合計は^2です。割当てられない^3が残っており、これは推奨されません</string>
-    <string name="what_would_you_like_to_do">どうされますか？</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_the_total_format">^1に合計を設定しますか</string>
-    <string name="distribute_format">均等に^1を分散します</string>
-    <string name="leave_unassigned_format">^1を割り当てないままにする</string>
-    <string name="distributed">分散済み</string>
+    <string name="go_back_to_edit">分割の編集に戻る</string>
+    <string name="unassigned_split_message_format">トランザクションの合計^2に対して分割分の合計は^1です。^3が割り当てられずに残りますが、これは望ましくありません</string>
+    <string name="what_would_you_like_to_do">どのようにしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_the_total_format">合計を^1に設定します</string>
+    <string name="distribute_format">^1を等しく分配します</string>
+    <string name="leave_unassigned_format">^1を割り当てないままにします</string>
+    <string name="distributed">分配しました</string>
 </resources>

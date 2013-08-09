@@ -1,184 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="transactions">トランザクション</string>
-    <string name="view_transactions">トランザクションを表示</string>
-    <string name="new_transaction">新しいトランザクション</string>
-    <string name="edit_transaction">トランザクションを編集する</string>
-    <string name="split_transaction">分割トランザクション</string>
-    <string name="delete_transaction">トランザクションを削除する</string>
-    <string name="accept_transaction">トランザクションを承諾する</string> <!-- Accept as in "Accept a new transaction" -->
-    <string name="select">選択する</string>
-    <string name="accept">承諾</string>
-    <string name="accepted">承諾済み</string>
-    <string name="accept_canceled">取消された承諾</string>
-    <string name="accept_transaction_all"><b>すべて</b>のトランザクションは受け付けられます</string>
-    <string name="mark">マークする</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
-    <string name="marked">マーク済み</string>
-    <string name="mark_canceled">マークは取り消されました</string>
-    <string name="mark_transaction">トランザクションをマークする</string>
+    <string name="view_transactions">トランザクションの表示</string>
+    <string name="new_transaction">トランザクションの作成</string>
+    <string name="edit_transaction">トランザクションの編集</string>
+    <string name="split_transaction">トランザクションの分割</string>
+    <string name="delete_transaction">トランザクションの削除</string>
+    <string name="accept_transaction">トランザクションの承認</string> <!-- Accept as in "Accept a new transaction" -->
+    <string name="select">選択</string>
+    <string name="accept">承認</string>
+    <string name="accepted">承認しました</string>
+    <string name="accept_canceled">キャンセルしました</string>
+    <string name="accept_transaction_all"><b>すべての</b>トランザクションを承認します</string>
+    <string name="mark">マーク</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
+    <string name="marked">マークしました</string>
+    <string name="mark_canceled">キャンセルしました</string>
+    <string name="mark_transaction">トランザクションのマーク</string>
 	<string-array name="mark_transactions_format_plurals">
-    	<item>^1トランザクションをマークする</item>
-	    <item/>
-    	<item/>
+        <item>^1のマーク</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
-    <string name="mark_transactions_all"><b>すべて</b>のトランザクションをマークする</string>
+    <string name="mark_transactions_all"><b>すべての</b>トランザクションをマークします</string>
     <string name="unreconciled1">未調整</string>
     <string name="unreconciled2">@string/unreconciled1</string>
-    <string name="cleared1">クリア済み</string>
+    <string name="cleared1">クリアー済み</string>
     <string name="cleared2">@string/cleared1</string>
     <string name="reconciled1">調整済み</string>
     <string name="reconciled2">@string/reconciled1</string>
     <string name="_void_verb">無効</string>
     <string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" -->
-	<string name="not_void1">無効にしない</string> <!-- This is an adjective as in "Not void transaction" -->
-    <string name="pending2">未処理</string> <!--- As in it is a new transaction, and I need to review and accept it -->
+	<string name="not_void1">有効</string> <!-- This is an adjective as in "Not void transaction" -->
+    <string name="pending2">保留中</string> <!--- As in it is a new transaction, and I need to review and accept it -->
 	<string name="exported_transaction">エクスポート済み</string>
-    <string name="not_exported_transaction1">エクスポートされていません</string>
+    <string name="not_exported_transaction1">未実施</string>
     <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
-    <string name="edit_notes">注意書きを編集する</string>
-    <string name="notes_created">注意書きが作成されました</string>
-    <string name="notes_edited">注意書きは編集されました</string>
-    <string name="notes_deleted">注意書きは削除されました</string>
-    <string name="notes_creation_canceled">注意書き作成は取消されました</string>
-    <string name="flag_for_follow_up">フォローアップのフラグ</string>
-    <string name="edit_follow_up">フォローアップを編集する</string>
-    <string name="make_recurring">自動更新する</string>
+    <string name="edit_notes">メモの編集</string>
+    <string name="notes_created">作成しました</string>
+    <string name="notes_edited">編集しました</string>
+    <string name="notes_deleted">削除しました</string>
+    <string name="notes_creation_canceled">キャンセルしました</string>
+    <string name="flag_for_follow_up">フォローアップのマーク</string>
+    <string name="edit_follow_up">フォローアップの編集</string>
+    <string name="make_recurring">自動継続の作成</string>
     <string name="follow_up2">フォローアップ</string>
-    <string name="follow_up_by">によるフォローアップ</string>
-    <string name="follow_up_created">作成されたフォローアップ</string>
-    <string name="follow_up_edited">編集されたフォローアップ</string>
-    <string name="follow_up_deleted">削除されたフォローアップ</string>
-    <string name="follow_up_creation_canceled">取消されたフォローアップ作成</string>
-    <string name="go_to">へ移動</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
+    <string name="follow_up_by">フォローアップの期日</string>
+    <string name="follow_up_created">作成しました</string>
+    <string name="follow_up_edited">編集しました</string>
+    <string name="follow_up_deleted">削除しました</string>
+    <string name="follow_up_creation_canceled">キャンセルしました</string>
+    <string name="go_to">ジャンプ</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
     <string name="number">番号</string>
-    <string name="transfer">振替</string>
-    <string name="transfers">振替</string>
-    <string name="transfer_account">振替口座</string>
+    <string name="transfer">振り替え</string>
+    <string name="transfers">振り替え</string>
+    <string name="transfer_account">振り替え先</string>
     <string name="add">追加</string>
-    <string name="added">追加済み</string>
-    <string name="add_canceled">追加は取消されました</string>
-    <string name="accept_and_edit">承諾して編集する</string>
-    <string name="add_and_close">追加して閉じる</string>
-    <string name="duplicate_in_current_account">現在の口座に複写する</string>
-    <string name="duplicate_copy_move">複製、コピーまたは移動する</string>
+    <string name="added">追加しました</string>
+    <string name="add_canceled">キャンセルしました</string>
+    <string name="accept_and_edit">了解/編集</string>
+    <string name="add_and_close">追加/終了</string>
+    <string name="duplicate_in_current_account">同じ口座にコピー</string>
+    <string name="duplicate_copy_move">コピー/移動</string>
     <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
-    <string name="copy_to_another_account">別のアカウントにコピーする</string>
-    <string name="move_to_another_account">別の口座に移動する</string>
-    <string name="copy_transaction">コピー処理</string>
-    <string name="move_transaction">トランザクションを移動する</string>
-    <string name="do_not_duplicate_notes">注意書きを複製しないでください</string>
-    <string name="account_not_found">口座が見つかりません。</string>
-    <string name="cannot_transfer_to_itself">それ自体に移動することはできません</string>
-    <string name="cannot_copy_to_itself">それ自体にコピー/移動することはできません</string>
-    <string name="copy_move_currency_warning">相手口座は基準通貨が異なります。取引金額を相手口座と調整しなければならない可能性があります</string>
-    <string name="all_transactions_hidden_by_filter">すべてのトランザクションはディスプレイ・フィルターによって隠されている</string>
-    <string name="show_number">番号を表示する</string>
-    <string name="show_number_description">もし1つある場合番号が表示されます</string>
-    <string name="show_notes">注意書きを表示する</string>
-    <string name="show_notes_description">もしある場合、注意書きを表示します</string>
-    <string name="classification_cannot_fit_warning_part1">トランザクション画面では画面スペースの不足により、スクロールせずにすべての分類を表示することができません</string>
-    <string name="classification_cannot_fit_warning_part2">いくつかの領域を解放するためにラベルの一部を非表示にしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="classification_cannot_fit_warning_part3">いつでも、この設定を変更することができます</string>
-    <string name="ask_to_edit_related_transaction_message_part1">このトランザクションのもう一方が分割されているため、それを編集する必要があります</string>
-    <string name="ask_to_edit_related_transaction_message_part2">その他のトランザクションを今すぐ編集しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="transaction_modified_message">トランザクションは変更されます</string>
-    <string name="transaction_confirm_save_on_back_press_message_format">トランザクションは変更されました。\n\nトランザクションを保存するには^1、編集に戻るには^2、変更を破棄するには^3をそれぞれタップします</string>
-    <string name="split_confirm_save_on_back_press_message_format">分割は変更されました。\n\n分割を保存するには^1を、分割の編集に戻るには^2を、変更を破棄するには^3をタップします</string>
-    <string name="transaction_modified_reconciled_message">調整されたトランザクションは変更されます</string>
-    <string name="transaction_modified_related_reconciled_message">このトランザクションのもう一方は調整されて変更されます</string>
-    <string name="records_may_differ">これにより、お客様の記録と金融機関の記録との間に差異が生じる場合があります</string>
-    <string name="missing_category_warning_message_format">カテゴリーを指定することを強くおすすめします。カテゴリーがないと支出レポートが不正確になる場合があります。\n\n^1をタップしてトランザクションを保存しカテゴリーを割当てないままにするか、^2をタップしてトランザクションの編集に戻ります</string>
-    <string name="expense_category_given_for_income_message_format">経費カテゴリーは^1に指定されています。\n\n^2をタップしてカテゴリーをそのまま残すか、^3をタップしてトランザクションの編集に戻ります</string> <!-- the ^1 parameter comes from amount1_description array -->
-    <string name="income_category_given_for_expense_message_format">収入カテゴリーは^1に指定されてます。\n\n^2をタップしてカテゴリーをそのまま残すか、^ 3をタップしてトランザクションの編集に戻ります</string> <!-- the ^2 parameter comes from amount2_description array -->
-    <string name="payee_not_found_format">受取人^1が見つかりませんでした</string>
-    <string name="payer_not_found_format">支払人^1が見つかりません</string>
-    <string name="would_you_like_to_create_it">それを作成しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="amount_zero_warning_message_format">トランザクション金額はゼロです。\n金額をゼロのままにするには^1を、または無効なトランザクションを入力するには^2をタップします</string>
-    <string name="sum_of_splits_warning_message_format">分割分の合計がトランザクション金額と一致しません。\n分割を編集するには^1をタップします</string>
-    <string name="duplicate_number_message_format">^1日付けのトランザクションが既にこのチェック番号を使用しています。\n\n^2をタップしてチェック番号を再利用するか^3をタップしてトランザクションの編集に戻る</string>
-    <string name="leave_zero">0のままにする</string>
-    <string name="credits">クレジット</string>
-    <string name="no_credits">クレジットはありません</string>
-    <string name="deposits">預金</string>
-    <string name="no_deposits">預金はありません</string>
-    <string name="checks">小切手</string> <!-- As in check book -->
-    <string name="no_checks">小切手はありません</string> <!-- As in check book -->
-    <string name="charges">請求</string>
-    <string name="no_charges">チャージはありません</string>
+    <string name="copy_to_another_account">別の口座にコピー</string>
+    <string name="move_to_another_account">別の口座に移動</string>
+    <string name="copy_transaction">トランザクションのコピー</string>
+    <string name="move_transaction">トランザクションの移動</string>
+    <string name="do_not_duplicate_notes">メモのコピーはしない</string>
+    <string name="account_not_found">口座が見つかりません</string>
+    <string name="cannot_transfer_to_itself">自身に移動できません</string>
+    <string name="cannot_copy_to_itself">自身にコピー/移動できません</string>
+    <string name="copy_move_currency_warning">基本通貨の異なる口座にコピー/移動しようとしています。先の口座のが異なりますを使っています。当該口座の通貨にあわせてトランザクションの金額を調整してください</string>
+    <string name="all_transactions_hidden_by_filter">トランザクションはすべて表示オプションの範囲外です</string>
+    <string name="show_number">番号の表示</string>
+    <string name="show_number_description">番号を表示</string>
+    <string name="show_notes">メモの表示</string>
+    <string name="show_notes_description">メモを表示</string>
+    <string name="classification_cannot_fit_warning_part1">表示画面のスペースの制約上、分類名がすべて表示されない場合があります。画面をスクロールしてください</string>
+    <string name="classification_cannot_fit_warning_part2">ラベルを非表示にしてスペースを広げますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="classification_cannot_fit_warning_part3">この設定は後でいつでも変更できます</string>
+    <string name="ask_to_edit_related_transaction_message_part1">これは分割されたトランザクションの一部です</string>
+    <string name="ask_to_edit_related_transaction_message_part2">もとのトランザクションを編集しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="transaction_modified_message">トランザクションを変更します</string>
+    <string name="transaction_confirm_save_on_back_press_message_format">トランザクションが変更されました。\n\n保存するには^1を、編集に戻るには^2を、取り消すには^3をタップします</string>
+    <string name="split_confirm_save_on_back_press_message_format">分割が変更されました。\n\n保存するには^1を、編集に戻るには^2を、取り消すには^3をタップします</string>
+    <string name="transaction_modified_reconciled_message">調整済みのトランザクションを変更します</string>
+    <string name="transaction_modified_related_reconciled_message">調整済みのトランザクションを変更しようとしています</string>
+    <string name="records_may_differ">金融機関の記録と異なる結果になるかも知れません</string>
+    <string name="missing_category_warning_message_format">支出報告が不正確にならないようカテゴリーを指定してください。\n\nカテゴリーを指定しないままトランザクションを保存するには^1を、トランザクションの編集に戻るには^2をタップします</string>
+    <string name="expense_category_given_for_income_message_format">^1は支出のカテゴリーとして指定されています。\n\nそのままでいい場合には^2を、トランザクションの編集に戻るには^3をタップします</string> <!-- the ^1 parameter comes from amount1_description array -->
+    <string name="income_category_given_for_expense_message_format">^1が収入のカテゴリーとして指定されています。\n\nそのままでいい場合には^2を、トランザクションの編集に戻るには^3をタップします</string> <!-- the ^2 parameter comes from amount2_description array -->
+    <string name="payee_not_found_format">^1が支払先に見つかりません</string>
+    <string name="payer_not_found_format">^1が支払者に見つかりません</string>
+    <string name="would_you_like_to_create_it">作成しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="amount_zero_warning_message_format">トランザクションの金額がゼロです。\n\n金額がゼロのままでいい場合には^1を、トランザクションを無効にするには^2をタップします</string>
+    <string name="sum_of_splits_warning_message_format">分割項目の合計がトランザクションの金額と一致しません。\n\n^1をタップして分割項目を編集してください</string>
+    <string name="duplicate_number_message_format">^1付のトランザクションの小切手番号はすでに使われています。\n\n同じをそのまま使うには^2を、トランザクションを編集するには^3をタップしてください</string>
+    <string name="leave_zero">0のまま</string>
+    <string name="credits">入金</string>
+    <string name="no_credits">入金がありません</string>
+    <string name="deposits">入金</string>
+    <string name="no_deposits">入金がありません</string>
+    <string name="checks">入金</string> <!-- As in check book -->
+    <string name="no_checks">入金がありません</string> <!-- As in check book -->
+    <string name="charges">支払い</string>
+    <string name="no_charges">支払いがありません</string>
     <string name="payments">支払い</string>
-    <string name="no_payments">支払いはありません</string>
-    <string name="checks_payments">小切手と支払い</string>
-    <string name="no_checks_payments">小切手または支払はありません</string>
-    <string name="deposits_payments">預金と支払い</string>
-    <string name="no_deposits_payments">預金または支払はありません</string>
-    <string name="no_unreconciled_transactions">未調整のトランザクションはありません</string>
-    <string name="cleared_all_transactions">すべての取引をクリア</string>
+    <string name="no_payments">支払いがありません</string>
+    <string name="checks_payments">小切手・支払い</string>
+    <string name="no_checks_payments">支払いがありません</string>
+    <string name="deposits_payments">入金・支払い</string>
+    <string name="no_deposits_payments">入金・支払いがありません</string>
+    <string name="no_unreconciled_transactions">未調整トランザクションがありません</string>
+    <string name="cleared_all_transactions">すべてのトランザクションをクリア</string>
     <string name="next_check_number">次の小切手番号</string>
-    <string name="cleared_transactions_color">クリアされた取引の色</string> <!-- As in "color of cleared transactions" -->
-    <string name="reconciled_transactions_color">調整されたトランザクションカラー</string> <!-- As in "color of teconciled transactions" -->
-	<string name="create_transaction_instructions_format">トランザクションを作成するには画面上の ^i をタップします</string> <!-- ^i will be replaced by an icon --> 
-    <string name="text_filter">テキストフ​​ィルター</string>
-    <string name="profit_and_loss_statement">損益明細表</string>
-	<string name="transaction_type">トランザクションタイプ</string>
-	<string name="transaction_status">トランザクションのステータス</string>
+    <string name="cleared_transactions_color">クリア済みトランザクションのカラー</string> <!-- As in "color of cleared transactions" -->
+    <string name="reconciled_transactions_color">調整済みトランザクションのカラー</string> <!-- As in "color of teconciled transactions" -->
+	<string name="create_transaction_instructions_format">トランザクションを追加するには、画面上方の ^i を押してください</string> <!-- ^i will be replaced by an icon -->
+    <string name="text_filter">テキストフィルター</string>
+    <string name="profit_and_loss_statement">損益計算書</string>
+	<string name="transaction_type">トランザクションのタイプ</string>
+	<string name="transaction_status">トランザクションの状態</string>
 
     <string name="full_screen_mode">フルスクリーンモード</string>
-    <string name="full_screen_mode_description">チェックした場合、トランザクションがさらに表示されます</string>
+    <string name="full_screen_mode_description">選択することで、より多くのトランザクションが表示できます</string>
 
 	<string-array name="amount1_labels">
-	    <item>支払い</item>
-	    <item>費やす</item>
-	    <item>請求</item>
-	    <item>支払い</item>
-	    <item>増加する</item>
-	    <item>減少する</item>
-	    <item>引き出し</item>
-	</string-array>
-	<string-array name="amount1_description">
-	    <item>支払い</item>
-	    <item>支出</item>
-	    <item>手数料</item>
-	    <item>支払い</item>
-	    <item>増加</item>
-	    <item>減少</item>
-	    <item>引き出し</item>
-	</string-array>
+        <item>支払い</item>
+        <item>支払い</item>
+        <item>支払い</item>
+        <item>支払い</item>
+        <item>増加</item>
+        <item>減少</item>
+        <item>回収</item>
+    </string-array>
+	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
+        <item>支払い</item>
+        <item>支払い</item>
+        <item>支払い</item>
+        <item>支払い</item>
+        <item>増加</item>
+        <item>減少</item>
+        <item>回収</item>
+    </string-array>
 	<string-array name="amount2_labels">
-	    <item>預金</item>
-	    <item>受け取る</item>
-	    <item>クレジット</item>
-	    <item>元レシート</item>
-	    <item>減少する</item>
-	    <item>増加する</item>
-	    <item>預金</item>
-	</string-array>
-	<string-array name="amount2_description">
-	    <item>預金</item>
-	    <item>レシート</item>
-	    <item>クレジット</item>
-	    <item>元レシート</item>
-	    <item>減少</item>
-	    <item>増加</item>
-	    <item>預金</item>
-	</string-array>
+        <item>入金</item>
+        <item>入金</item>
+        <item>入金</item>
+        <item>入金</item>
+        <item>減少</item>
+        <item>増加</item>
+        <item>入金</item>
+    </string-array>
+	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
+        <item>入金</item>
+        <item>入金</item>
+        <item>入金</item>
+        <item>入金</item>
+        <item>減少</item>
+        <item>増加</item>
+        <item>入金</item>
+    </string-array>
 
-	<string name="delete_transaction_warning">トランザクションは削除されます</string>
+	<string name="delete_transaction_warning">トランザクションを削除します</string>
 	<string-array name="delete_transaction_warning_format_plurals">
-    	<item>^1の選択された取引は削除されます</item>
-	    <item/>
-    	<item/>
+        <item>選択した^1は削除されます</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
 	</string-array>
-    <string name="delete_transaction_warning_all"><b>すべて</b>のトランザクションが削除されます</string>
-	<string name="delete_transaction_warning_reconciled">調整されたトランザクションは削除されます</string>
+    <string name="delete_transaction_warning_all">トランザクションは<b>すべて</b>削除されます</string>
+	<string name="delete_transaction_warning_reconciled">調整済みのトランザクションが削除されます</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
-    	<item>^1の選択された取引は少なくとも1つが一致すると削除されます</item>
-        <item/>
-	    <item/>
-  	</string-array>
-	<string name="accept_transaction_confirm_singular">トランザクションは承諾されます</string>
+<!-- Verify -->        <item>^1が削除されます。これらには調整済みトランザクションが含まれています（調整済みトランザクションが含まれています）</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="accept_transaction_confirm_singular">トランザクションは受け入れられます</string>
     <string-array name="accept_transaction_confirm_format_plurals">
-    	<item>^1の選択された取引は承諾されます</item>
-        <item/>
-    	<item/>
-  </string-array>
+        <item>^1は受け入れられます</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 </resources>

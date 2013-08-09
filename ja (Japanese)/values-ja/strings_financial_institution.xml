@@ -2,21 +2,21 @@
 <resources>
     <string name="financial_institution">金融機関</string>
     <string name="financial_institutions">@string/financial_institution</string>
-    <string name="financial_institution_bank_first">最初に銀行口座を持つ金融機関</string>
-    <string name="financial_institution_cash_first">最初に現金を持つ金融機関</string>
-    <string name="view_financial_institution">金融機関を表示</string>
-    <string name="edit_financial_institution">金融機関を編集する</string>
-    <string name="call_financial_institution">金融機関を呼び出す</string>
-    <string name="new_financial_institution">新しい金融機関</string>
-    <string name="delete_financial_institution">金融機関を削除する</string>
-    <string name="delete_financial_institution_warning_format">金融機関^1は完全に削除され、すべての口座から除去されます</string>
-    <string name="add_financial_institution_as_a_contact">連絡先として金融機関を追加</string>
-    <string name="financial_institution_exists">その名前の金融機関は既に存在します</string>
-    <string name="no_financial_institutions">お客様には金融機関がありません</string>
-    <string name="create_financial_institution_instructions_format">金融機関を作成するには画面上の ^i をタップします</string> <!-- ^1 will be replaced by an image -->
-    <string name="view_financial_institutions">金融機関を表示</string>
+    <string name="financial_institution_bank_first">銀行口座が最初の金融機関</string>
+    <string name="financial_institution_cash_first">現金が最初の金融機関</string>
+    <string name="view_financial_institution">金融機関の表示</string>
+    <string name="edit_financial_institution">金融機関の編集</string>
+    <string name="call_financial_institution">金融機関の呼び出し</string>
+    <string name="new_financial_institution">金融機関の作成</string>
+    <string name="delete_financial_institution">金融機関の削除</string>
+    <string name="delete_financial_institution_warning_format">金融機関の^1は完全に削除され、すべての口座からも削除されます</string>
+    <string name="add_financial_institution_as_a_contact">金融機関を連絡先に追加</string>
+    <string name="financial_institution_exists">同じ名前の金融機関がすでに存在します</string>
+    <string name="no_financial_institutions">金融機関は設定されていません</string>
+    <string name="create_financial_institution_instructions_format">作成するには 画面上部の ^i をタップしてください</string> <!-- ^1 will be replaced by an image -->
+    <string name="view_financial_institutions">金融機関の表示</string>
     <string name="financial_institution_name">金融機関名</string>
-    <string name="contact_exists">その名前の連絡先は既に存在します</string>
-    <string name="link_financial_institution">既存の連絡先にこの金融機関をリンクしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="no_financial_institutions_yet">金融機関はまだ割当てられていません</string>
+    <string name="contact_exists">同じ名前の連絡先がすでに登録されています</string>
+    <string name="link_financial_institution">この金融機関を登録済みの連絡先と関連づけますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="no_financial_institutions_yet">金融機関がありません</string>
 </resources>

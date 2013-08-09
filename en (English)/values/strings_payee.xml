@@ -18,7 +18,7 @@
     <string name="call">Call</string>
     <string name="map_address">Map address</string> <!-- Show the address on the map -->
     <string name="no_payees">You don’t have any payees</string>
-    <string name="create_payee_instructions_format">To create a payee, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_payee_instructions_format">To create a payee, tap ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
     <string name="payee_transaction_list_empty">You don’t have any transactions for this payee</string>
     <string name="payee_exists">A payee with that name already exists</string>
     <string name="combine_payees">Would like to combine the two payees</string> <!-- This is a question, but the question mark will be added progrmatically -->
