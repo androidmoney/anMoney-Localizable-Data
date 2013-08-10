@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="two_part_format_normal_width">^1 ^2</string>
-    <string name="two_part_format_full_width">^1　^2</string>
+    <string name="two_part_format_full_width">^1^2</string>
     <string name="sentence_end_period_format">^1。</string>
     <string name="sentence_end_question_mark_format">^1？</string>
     <string name="parantheses_format_normal_width">(^1)</string>
     <string name="parantheses_format_full_width">（^1）</string>
-    <string name="two_items_dash_with_space_format">^1 〜 ^2</string>
-    <string name="two_items_dash_without_space_format">^1〜^2</string>
+    <string name="two_items_dash_with_space_format">^1 ～ ^2</string>
+    <string name="two_items_dash_without_space_format">^1～^2</string>
     <string name="colon_format">^1:</string>
     <string name="two_part_slash_format">^1／^2</string>
     <string name="two_part_comma_format">^1、^2</string>
-	<string name="default_name_format">^1 No. ^2</string> <!-- "Book No. 2" -->
+	<string name="default_name_format">^1第^2</string> <!-- "Book No. 2" -->
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
 	<string name="plus_format">^1+</string>
 	<string name="equals_format">^1=</string>
 	<string name="footnote_symbol">※</string>
-    <string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
+	<string name="quarter_format">^2年第^1四半期</string> <!-- "Q1 2013" -->
     <string name="filter_by_order_format">^2の^1</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^2^3の^1</string> <!-- Example: "All payees by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^4のための^2^3の^1</string> <!-- Example: "All transactions by decreasing date for all dates" -->

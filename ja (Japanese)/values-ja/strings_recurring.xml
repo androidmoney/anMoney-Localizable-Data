@@ -35,7 +35,7 @@
 	<string name="skip_which">どれをスキップしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="skip_one_occurrence_warning">次回の取り引きをスキップしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="no_recurrings_format">自動継続請求と入金は設定されていません\n\n作成するには:\n\n<li>^1</li>\n\n<li>トランザクションを長押しして、^2をタップしてください</li></string>
-    <string name="create_recurring_instructions_format">画面上方の ^i をタップ</string> <!-- ^i will be replaced by an image -->
+    <string name="create_recurring_instructions_format">画面上方の^iをタップ</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">自動継続項目を設定する前に口座と支払先を作成してください</string>
 	<string name="specify_account">はじめに口座を指定して下さい</string>
 	<string name="account_and_amount">口座と金額</string>

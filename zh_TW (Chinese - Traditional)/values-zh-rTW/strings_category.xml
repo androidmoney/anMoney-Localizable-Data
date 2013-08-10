@@ -35,8 +35,8 @@
     <string name="no_categories_expense">您沒有任何支出類型</string>
     <string name="no_categories_income">您沒有任何收入類型</string>
     <string name="no_classes">您沒有任何類別</string>
-    <string name="create_category_instructions_format">點擊螢幕上方的 ^i 以建立類型</string> <!-- ^1 will be replaced by an image -->
-    <string name="create_class_instructions_format">點擊螢幕上方的 ^i 以建立分類</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_category_instructions_format">點擊螢幕上方的^i以建立類型</string> <!-- ^1 will be replaced by an image -->
+    <string name="create_class_instructions_format">點擊螢幕上方的^i以建立分類</string> <!-- ^1 will be replaced by an image -->
     <string name="uncategorized_transactions">未分類的交易</string>
     <string name="delete_category_no_subcategories_warning_format">類型^1將會被永久刪除</string>
     <string name="delete_class_no_subclass_warning_format">分類^1將會被永久刪除</string>

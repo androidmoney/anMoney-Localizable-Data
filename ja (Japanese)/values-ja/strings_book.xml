@@ -105,7 +105,7 @@
     <string name="email_the_developers">開発者にEメール</string>
     <string name="tap_to_display_import_settings_format">^1をタップするとインポート設定画面が表示されます</string>
     <string name="verify_import_settings">インポートしようとするファイルに対して正しい設定がなされているか確認してください。すべてよければパックキーを押して、インポートを進めてください</string>
-    <string name="change_settings_instructions_format">このメッセージはこのあと表示されませんが、画面上方の ^i をタップすることでいつでも設定を変更できます</string> <!-- ^i will be replaced by an image -->
+    <string name="change_settings_instructions_format">このメッセージはこのあと表示されませんが、画面上方の^iをタップすることでいつでも設定を変更できます</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">以下の設定はインポートしようとしているファイルに対して正しくないようです</string>
     <string name="qif_csv_encoding_explanation_format">下記の言語では^1が使用されますが、金融機関によっては^2を選ぶ方が適切な場合もあります。\n\nリストにない言語では^2を選びます</string>
     <string name="credits_legal">クレジット&amp;法律</string>

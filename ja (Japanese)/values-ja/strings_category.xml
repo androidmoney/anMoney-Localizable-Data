@@ -35,8 +35,8 @@
     <string name="no_categories_expense">支出カテゴリーがありません</string>
     <string name="no_categories_income">収入カテゴリーがありません</string>
     <string name="no_classes">クラスがありません</string>
-    <string name="create_category_instructions_format">画面上方の ^i をタップしてカテゴリーを作成</string> <!-- ^i will be replaced by an image -->
-    <string name="create_class_instructions_format">画面上方の ^i をタップしてクラスを作成</string> <!-- ^i will be replaced by an image -->
+    <string name="create_category_instructions_format">画面上方の^iをタップしてカテゴリーを作成</string> <!-- ^i will be replaced by an image -->
+    <string name="create_class_instructions_format">画面上方の^iをタップしてクラスを作成</string> <!-- ^i will be replaced by an image -->
     <string name="uncategorized_transactions">カテゴリーのないトランザクション</string>
     <string name="delete_category_no_subcategories_warning_format">^1は完全に削除されます</string>
     <string name="delete_class_no_subclass_warning_format">^1は完全に削除されます</string>

@@ -105,7 +105,7 @@
     <string name="email_the_developers">直接電郵給開發者</string>
     <string name="tap_to_display_import_settings_format">點擊^1將顯示匯入設置</string>
     <string name="verify_import_settings">請檢查您選擇的預設設定值符合您正要匯入的檔案。如果一切看來都對，點擊<b>返回</b>箭號以繼續匯入</string>
-    <string name="change_settings_instructions_format">此訊息在今後匯入時將不再出現，但您可以隨時在螢幕上方點擊 ^i 以改變設定</string> <!-- ^i will be replaced by an image -->
+    <string name="change_settings_instructions_format">此訊息在今後匯入時將不再出現，但您可以隨時在螢幕上方點擊^i以改變設定</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">下列的設定看來對您正嘗試匯入的檔案而言並不正確</string>
     <string name="qif_csv_encoding_explanation_format">一般而言在下列的語言清單中應該使用^1，但部分金融機構的資料檔案可能需要使用^2才能夠正確匯入。\n\n對其他不在清單中的語言，請選擇^2</string>
     <string name="credits_legal">版權及法律資訊</string>

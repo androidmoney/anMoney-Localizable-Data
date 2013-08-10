@@ -14,7 +14,7 @@
 	<string name="custom_dates">Custom dates</string>
 	<string name="other">Other</string>
 	<string name="report_empty">There is no data to display</string>
-    <string name="report_settings_instructions_format">To change the settings for the report, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
+    <string name="report_settings_instructions_format">To change the settings for the report, tap ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
 	<string name="reset_report_settings">The settings will be reset to their defaults</string>
 	<string name="settings_reset">Settings reset</string>
 	<string name="reset_canceled">Reset cancelled</string>

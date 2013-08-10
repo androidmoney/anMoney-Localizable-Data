@@ -12,7 +12,7 @@
 	<string name="custom_dates">指定期間</string>
 	<string name="other">その他</string>
 	<string name="report_empty">表示するデータがありません</string>
-    <string name="report_settings_instructions_format">レポートの設定を変更するには、画面上方の ^i をタップしてください</string> <!-- ^1 will be replaced by an image -->
+    <string name="report_settings_instructions_format">レポートの設定を変更するには、画面上方の^iをタップしてください</string> <!-- ^i will be replaced by an image -->
 	<string name="reset_report_settings">設定は初期状態にリセットされます</string>
 	<string name="settings_reset">設定のリセット</string>
 	<string name="reset_canceled">キャンセルしました</string>

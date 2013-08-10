@@ -64,7 +64,7 @@
 	<string name="delete_account_warning_part1_format">^1は完全に削除されます。\n\nこの口座はトランザクションで使用されているため、関連するすべてのトランザクションが削除されます</string>
 	<string name="delete_account_warning_part2_format">トランザクション履歴を保存したまま口座を非表示にするには、^1をタップして口座を閉じます</string> <!-- ^1 = OK -->
 	<string name="no_accounts">口座がありません</string>
-    <string name="create_account_instructions_format">口座を作成するには、画面上方の ^i をタップします</string> <!-- ^i will be replaced by an icon -->
+    <string name="create_account_instructions_format">口座を作成するには、画面上方の^iをタップします</string> <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">この口座にはトランザクションがありません</string>
     <string name="account_type">口座種別</string>
     <string name="account_type_bank_first">銀行口座が最初の口座種別</string>

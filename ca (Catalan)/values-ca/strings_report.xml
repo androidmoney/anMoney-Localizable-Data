@@ -12,7 +12,7 @@
 	<string name="custom_dates">Dates personalitzades</string>
 	<string name="other">Altre</string>
 	<string name="report_empty">No hi ha dades a mostrar</string>
-    <string name="report_settings_instructions_format">Per a canviar els paràmetres de l’informe, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->
+    <string name="report_settings_instructions_format">Per a canviar els paràmetres de l’informe, toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
 	<string name="reset_report_settings">Els paràmetres tornaran als seus valors per defecte</string>
 	<string name="settings_reset">Restablir paràmetres</string>
 	<string name="reset_canceled">Restablir cancel·lat</string>

@@ -116,7 +116,7 @@
     <string name="next_check_number">下一個支票編號</string>
     <string name="cleared_transactions_color">已刪除交易的顏色</string> <!-- As in "color of cleared transactions" -->
     <string name="reconciled_transactions_color">已對帳交易的顏色</string> <!-- As in "color of teconciled transactions" -->
-	<string name="create_transaction_instructions_format">點擊 ^i 螢幕上方以創建交易</string> <!-- ^i will be replaced by an icon --> 
+	<string name="create_transaction_instructions_format">點擊^i螢幕上方以創建交易</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">文字過濾器</string>
     <string name="profit_and_loss_statement">損益對帳單</string>
 	<string name="transaction_type">交易類型</string>

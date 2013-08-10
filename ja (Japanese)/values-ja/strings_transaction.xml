@@ -116,7 +116,7 @@
     <string name="next_check_number">次の小切手番号</string>
     <string name="cleared_transactions_color">クリア済みトランザクションのカラー</string> <!-- As in "color of cleared transactions" -->
     <string name="reconciled_transactions_color">調整済みトランザクションのカラー</string> <!-- As in "color of teconciled transactions" -->
-	<string name="create_transaction_instructions_format">トランザクションを追加するには、画面上方の ^i を押してください</string> <!-- ^i will be replaced by an icon -->
+	<string name="create_transaction_instructions_format">トランザクションを追加するには、画面上方の^iを押してください</string> <!-- ^i will be replaced by an icon -->
     <string name="text_filter">テキストフィルター</string>
     <string name="profit_and_loss_statement">損益計算書</string>
 	<string name="transaction_type">トランザクションのタイプ</string>
