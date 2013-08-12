@@ -64,7 +64,6 @@
 	<string name="delete_account_warning_part1_format">Le compte ^1 sera définitivement supprimé.\n\nToutes les transactions associées seront également supprimées</string>
 	<string name="delete_account_warning_part2_format">Pour masquer ce compte mais conserver l’historique des transactions, choisissez plutôt ^1 puis fermez le compte</string>
 	<string name="no_accounts">Vous ne possédez aucun compte</string>
-    <string name="create_account_instructions_format">Pour créer un compte, tapez sur ^i en haut de l’écran</string>
 	<string name="no_transactions_for_account">Il n’existe aucune transaction pour ce compte</string>
 	<string name="account_type">Type de compte</string>
 	<string name="account_type_bank_first">Type, avec <b>bancaire</b> en premier</string>

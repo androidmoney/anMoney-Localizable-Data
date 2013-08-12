@@ -16,8 +16,7 @@
     <string name="call">呼び出し</string>
     <string name="map_address">住所のマップ</string> <!-- Show the address on the map -->
     <string name="no_payees">支払先がありません</string>
-    <string name="create_payee_instructions_format">画面上方の^iをタップして支払先を作成</string> <!-- ^1 will be replaced by an image -->
-    <string name="payee_transaction_list_empty">この支払先に関するトランザクションはありません</string>
+    <string name="payee_transaction_list_empty">この支払先に関する取り引きはありません</string>
     <string name="payee_exists">同じ名前の支払先がすでに登録されています</string>
     <string name="combine_payees">2つの支払先を結合しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="payee_name">支払先の名称</string>

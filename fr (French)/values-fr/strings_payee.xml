@@ -16,7 +16,6 @@
 	<string name="call">Appeler</string>
 	<string name="map_address">Situer sur la carte</string>
     <string name="no_payees">Vous n’avez défini aucun bénéficiaire</string>
-    <string name="create_payee_instructions_format">Pour créer un bénéficiaire, appuyez sur ^i en haut de l’écran</string>
 	<string name="payee_transaction_list_empty">Vous n’avez aucune transaction pour ce bénéficiaire</string>
 	<string name="payee_exists">Un bénéficiaire portant ce nom existe déjà</string>
     <string name="combine_payees">Souhaitez-vous combiner les deux bénéficiaires</string>

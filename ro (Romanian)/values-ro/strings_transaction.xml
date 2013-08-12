@@ -116,7 +116,6 @@
     <string name="next_check_number">Următorul număr de cec</string>
     <string name="cleared_transactions_color">Culoare tranzacţii soldate</string>
     <string name="reconciled_transactions_color">Culoare tranzacţii reconciliate</string>
-	<string name="create_transaction_instructions_format">Pentru a crea o tranzacţie, apasă ^i în partea de sus a ecranului</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">Filtru text</string>
     <string name="profit_and_loss_statement">Extras de cont Profit &amp; Pierdere</string>
 	<string name="transaction_type">Tip tranzacţie</string>

@@ -16,7 +16,6 @@
 	<string name="call">اتصال</string>
 	<string name="map_address">عنوان الخريطة</string>
 	<string name="no_payees">لايوجد لديك اي مستفيدين</string>
-	<string name="create_payee_instructions_format">لاضافة مستفيدين قم بالضغط ^1 اعلى الشاشة</string>
 	<string name="payee_transaction_list_empty">لايوجد لديك اي توحيلات لهذا المستفيد</string>
 	<string name="payee_exists">المستفيد بهذا الاسم موجود مسبقا</string>
 	<string name="combine_payees">هل تود دمج المستفيدان</string>

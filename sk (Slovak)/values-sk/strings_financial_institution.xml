@@ -13,7 +13,6 @@
     <string name="add_financial_institution_as_a_contact">Uložiť inštitúciu ako kontakt</string>
     <string name="financial_institution_exists">Finančná inštitúcia s týmto názvom už existuje</string>
     <string name="no_financial_institutions">Nemáte žiadne finančné inštitúcie</string>
-    <string name="create_financial_institution_instructions_format">Pre vloženie novej finančnej inštitúcie, zvoľte ^i v hornej časti obrazovky</string> <!-- ^1 will be replaced by an image -->
     <string name="view_financial_institutions">Zobraziť finančné inštitúcie</string>
     <string name="financial_institution_name">Názov finančnej inštitúcie</string>
     <string name="contact_exists">Kontakt s týmto názvom už existuje</string>

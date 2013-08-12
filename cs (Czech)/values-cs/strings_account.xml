@@ -63,7 +63,6 @@
 	<string name="delete_account_warning_part1_format">Účet ^1 bude nevratně smazán.\n\nVzhledem k tomu, že účet je použit v transakcích, budou všechny související transakce rovněž smazány</string>
 	<string name="delete_account_warning_part2_format">Chcete-li účet jen skrýt ale zachovat historii transakcí, zvolte raději ^1 a účet uzavřete</string>
 	<string name="no_accounts">Nemáte žádné účty</string>
-    <string name="create_account_instructions_format">Pro vytvoření účtu, stiskněte ^i v horní části obrazovky</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">Pro tento účet nemáte žádné transakce</string>
     <string name="account_type">Typ účtu</string>
     <string name="account_type_bank_first">Typ účtu, bankovní účty první</string>

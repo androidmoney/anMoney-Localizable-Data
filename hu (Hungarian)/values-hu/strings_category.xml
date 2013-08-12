@@ -34,8 +34,6 @@
     <string name="no_categories_expense">Nincsenek kiadási kategóriái</string>
     <string name="no_categories_income">Nincsenek jövedelmi kategóriái</string>
     <string name="no_classes">Nincsenek osztályai</string>
-    <string name="create_category_instructions_format">Kategória létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
-    <string name="create_class_instructions_format">Osztály létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
     <string name="uncategorized_transactions">Kategória nélküli tranzakciók</string>
     <string name="delete_category_no_subcategories_warning_format">Kategória ^1 véglegesen le lesz törölve</string>
     <string name="delete_class_no_subclass_warning_format">Osztály ^1 véglegesen le lesz törölve</string>

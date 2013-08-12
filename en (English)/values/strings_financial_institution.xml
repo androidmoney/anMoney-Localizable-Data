@@ -15,7 +15,6 @@
     <string name="add_financial_institution_as_a_contact">Add fin. inst. as a contact</string>
     <string name="financial_institution_exists">A financial institution with that name already exists</string>
     <string name="no_financial_institutions">You don’t have any financial institutions</string>
-    <string name="create_financial_institution_instructions_format">To create a financial institution, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
     <string name="view_financial_institutions">View financial institutions</string>
     <string name="financial_institution_name">Financial institution name</string>
     <string name="contact_exists">A contact with that name already exists</string>

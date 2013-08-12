@@ -13,7 +13,6 @@
     <string name="add_financial_institution_as_a_contact">添加金融機構為聯絡人</string>
     <string name="financial_institution_exists">此金融機構名稱已存在</string>
     <string name="no_financial_institutions">您沒有任何金融機構</string>
-    <string name="create_financial_institution_instructions_format">點擊螢幕上方^i以建立金融機構</string> <!-- ^1 will be replaced by an image -->
     <string name="view_financial_institutions">檢視金融機構</string>
     <string name="financial_institution_name">金融機構名稱</string>
     <string name="contact_exists">此聯絡人名稱已被使用</string>

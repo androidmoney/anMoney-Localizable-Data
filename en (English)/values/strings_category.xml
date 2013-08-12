@@ -37,8 +37,6 @@
     <string name="no_categories_expense">You don’t have any expense categories</string>
     <string name="no_categories_income">You don’t have any income categories</string>
     <string name="no_classes">You don’t have any classes</string>
-    <string name="create_category_instructions_format">To create a category, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
-    <string name="create_class_instructions_format">To create a class, tap ^i at the top of the screen</string> <!-- ^1 will be replaced by an image -->
     <string name="uncategorized_transactions">Uncategorised transactions</string>
     <string name="delete_category_no_subcategories_warning_format">Category ^1 will be permanently deleted</string>
     <string name="delete_class_no_subclass_warning_format">Class ^1 will be permanently deleted</string>

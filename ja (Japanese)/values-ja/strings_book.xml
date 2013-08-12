@@ -19,7 +19,7 @@
     <string name="backup_book">バックアップ</string>
     <string name="overwrite">上書き</string>
     <string name="backup_name">バックアップ名</string>
-<!-- New -->    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+<!-- New --> <string name="auto_backup_name_format">^1 (^2 Auto)</string>
     <string name="restore">復元</string>
     <string name="restored">復元しました</string>
     <string name="restore_canceled">キャンセルしました</string>
@@ -56,12 +56,12 @@
     <string name="select_import_mode">データ種別の選択</string>
     <string name="select_accounts_to_export">エクスポートする口座の選択</string>
     <string name="specify_export_file_format">エクスポートフォーマットの指定</string>
-    <string name="mark_transactions_exported">トランザクションをエクスポート済みとしてマーク</string>
+    <string name="mark_transactions_exported">取り引きをエクスポート済みとしてマーク</string>
     <string name="create_single_file">単一のファイルを作成</string>
-    <string name="no_transactions_matched_your_selection_criteria">選択基準にマッチしたトランザクションは見つかりません\n\nエクスポートファイルは作成されていません</string>
+    <string name="no_transactions_matched_your_selection_criteria">選択基準にマッチした取り引きは見つかりません\n\nエクスポートファイルは作成されていません</string>
 	<string name="import_folder">インポート・フォルダ</string>
 	<string name="export_folder">エクスポート・フォルダ</string>
-<!-- Verify -->    <string name="ask_to_view_imported_transaction">インポートされたトランザクションを表示しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="ask_to_view_imported_transaction">インポートされた取り引きを表示しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="tip">ヒント</string>
     <string name="user_guide">ユーザーズガイド</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
@@ -83,7 +83,7 @@
     <string name="edit_password">パスワードの編集</string>
     <string name="remove_password">パスワードの削除</string>
     <string name="password_removed">削除しました</string>
-    <string name="remove_password_message">パスワードが削除されます。\n\n端末にアクセスすれば誰でもデータを見ることができます</string>
+    <string name="remove_password_message">パスワードが削除されます。\n\nデバイスにアクセスすれば誰でもデータを見ることができます</string>
     <string name="password_has_not_been_changed">パスワードは変更されていません</string>
     <string name="passwords_dont_match">パスワードか一致しません</string>
     <string name="case_sensitive">大文字/小文字を区別します</string>
@@ -91,20 +91,20 @@
     <string name="password_disclaimer">以下の免責条項を読んで最後のチェックボックスをチェックして下さい\n\nパスワードのしくみは「詮索好きな目」からプライバシーを保護する一手法として設計されたものです。しかし、この端末のプラットホームの制約からデータを真に暗号化することができないため、たとえパスワードが設定されていても、高度な技能を有している人ならデータにアクセスすることができます。\n\nご自身の端末をロックパターンあるいは PINによって保護されることを強くおすすめします</string>
     <string name="i_understand_the_limitations">制約条件を了解しました</string>
     <string name="set_password_now_part1">パスワードを設定しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_password_now_part2_format">ここで^1としても、会計簿の名前をロング・タップして^2を選択することで、いつでもパスワードを設定できます</string>
+    <string name="set_password_now_part2_format">ここで^1としても、会計簿の名前を長押しして^2を選択することで、いつでもパスワードを設定できます</string>
     <string name="folder_name_format">フォルダ名（サブフォルダには ^1を使用）</string>
     <string name="no_backup_files">バックアップファイルが見つかりません</string>
-<!-- New --> <string name="no_backup_files_new_instructions">If you are trying to create a book using an import file, please create a book from scratch first, then import into it</string>
-    <string name="remove_transactions">以下の日付より古いトランザクションを削除</string>
+	<string name="no_backup_files_new_instructions">インポートファイルを使って会計簿を作成する場合には、まず最初に空の会計簿を作成し、これにインポートして下さい</string>
+    <string name="remove_transactions">以下の日付より古い取り引きを削除</string>
     <string name="book_to_make_copy_of">コピーする会計簿</string>
-    <string name="truncate_warning_format">^1以前のトランザクションはどれも完全に削除されて回復不能となります</string>
+    <string name="truncate_warning_format">^1以前の取り引きはどれも完全に削除されて回復不能となります</string>
     <string name="information_and_help">情報とヘルプ</string>
     <string name="discussion_forum">ディスカッションフォーラム</string>
     <string name="join_the_user_community_format">^1のユーザーズコミュニティに参加</string>
     <string name="contact_us">Contact us</string>
     <string name="email_the_developers">開発者にEメール</string>
     <string name="tap_to_display_import_settings_format">^1をタップするとインポート設定画面が表示されます</string>
-    <string name="verify_import_settings">インポートしようとするファイルに対して正しい設定がなされているか確認してください。すべてよければパックキーを押して、インポートを進めてください</string>
+    <string name="verify_import_settings">インポートしようとするファイルに対して正しい設定がなされているか確認してください。設定がよければパックキーを押して、インポートを進めてください</string>
     <string name="change_settings_instructions_format">このメッセージはこのあと表示されませんが、画面上方の^iをタップすることでいつでも設定を変更できます</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">以下の設定はインポートしようとしているファイルに対して正しくないようです</string>
     <string name="qif_csv_encoding_explanation_format">下記の言語では^1が使用されますが、金融機関によっては^2を選ぶ方が適切な場合もあります。\n\nリストにない言語では^2を選びます</string>
@@ -146,7 +146,7 @@
 	<string-array name="book_export_file_type_description">
         <item>使用する分類やカテゴリーによってはMicrosoft® Moneyでしか読み込めない場合があります</item>
         <item><b>QIF</b>形式をサポートするすべてのアプリケーションで読み込み可能です</item>
-        <item>スプレッドシートアプリケーション（Microsoft® ExcelやGoogle™ Docsなど）で読み込むことができます。先頭行はそれぞれのトランザクションのヘッダーになります。分割されたトランザクションはそれぞれ別の行となります</item>
+        <item>スプレッドシートアプリケーション（Microsoft® ExcelやGoogle™ Docsなど）で読み込むことができます。先頭行はそれぞれの取り引きのヘッダーになります。分割された取り引きはそれぞれ別の行となります</item>
     </string-array>
 
     <string name="import_file_confirm_format">^1をインポートしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -215,13 +215,13 @@
     <string name="field_with_initial_focus">初期フォーカスするフィールド</string>
     
     <string name="show_keyboard_automatically">キーボードの自動表示</string>
-	<string name="show_keyboard_automatically_description">選択した場合、新しいトランザクションの入力時にキーボードを表示します</string>
+	<string name="show_keyboard_automatically_description">選択した場合、新しい取り引きの入力時にキーボードを表示します</string>
 
-    <string name="notes_in_transaction_window">トランザクションのメモ</string>
-    <string name="notes_in_transaction_window_description">選択した場合、トランザクション・ウィンドウに1行メモを書き込むことができます</string>
+    <string name="notes_in_transaction_window">取り引きのメモ</string>
+    <string name="notes_in_transaction_window_description">選択した場合、取り引き・ウィンドウに1行メモを書き込むことができます</string>
     
-    <string name="new_category_in_transaction_window">トランザクションの新しいカテゴリー</string>
-    <string name="new_category_in_transaction_window_description">選択した場合、トランザクション・ウィンドウ内で新しいカテゴリーを追加できます</string>
+    <string name="new_category_in_transaction_window">取り引きの新しいカテゴリー</string>
+    <string name="new_category_in_transaction_window_description">選択した場合、取り引き・ウィンドウ内で新しいカテゴリーを追加できます</string>
     
     <string name="hide_labels">ラベルの非表示</string>
     <string name="hide_labels_description">選択した場合、ウィンドウ内のラベルを表示しないでスペースを広くとることができます</string>
@@ -243,15 +243,15 @@
     
     <string name="auto_backup_notify_description">選択した場合、バックアップ後に通知されます</string>
     
-	<string name="backed_up_book_format">^1をバックアップ</string>
+	<string name="backed_up_book_format">^1をバックアップしました</string>
     <string-array name="backed_up_books_format_plurals">
-        <item>^1をバックアップ</item>
+        <item>^1をバックアップしました</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>^1をエクスポート済み</item>
+        <item>^1をエクスポートしました</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
@@ -295,7 +295,7 @@
 
     <string name="maintain_entries">エントリーのメンテナンス</string>
     <string name="maintain_number_field_entries">番号フィールドエントリーのメンテナンス</string>
-    <string name="maintain_number_field_entries_description">使われなくなったトランザクションの番号フィールドエントリーを削除することができます</string>
+    <string name="maintain_number_field_entries_description">使われなくなった取り引きの番号フィールドエントリーを削除することができます</string>
 
     <string name="delete_entry_warning_format">^1は削除されます</string>
     <string-array name="delete_entries_warning_format_plurals">

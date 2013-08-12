@@ -16,7 +16,6 @@
     <string name="call">Felhív</string>
     <string name="map_address">Cím térképezése</string>
     <string name="no_payees">Nincsenek kedvezményezettjei</string>
-    <string name="create_payee_instructions_format">Kedvezményezett létrehozásához érintse meg a ^i -ot a képernyő tetején</string>
     <string name="payee_transaction_list_empty">Nincsenek tranzakciói ezzel a kedvezményezettel</string>
     <string name="payee_exists">Egy kedvezményezett már létezik ezzel a névvel</string>
     <string name="combine_payees">Szeretné egyesíteni a két kedvezményezettet</string>

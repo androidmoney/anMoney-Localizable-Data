@@ -9,9 +9,9 @@
 	<string name="delete_split_warning">分割は削除されます</string>
 	<string name="sum_of_splits">分割分の合計</string>
 	<string name="unassigned">未処理分</string>
-	<string name="transaction_total">トランザクションの合計</string>
+	<string name="transaction_total">取り引きの合計</string>
     <string name="go_back_to_edit">分割の編集に戻る</string>
-    <string name="unassigned_split_message_format">トランザクションの合計^2に対して分割分の合計は^1です。^3が割り当てられずに残りますが、これは望ましくありません</string>
+    <string name="unassigned_split_message_format">取り引きの合計^2に対して分割分の合計は^1です。^3が割り当てられずに残りますが、これは望ましくありません</string>
     <string name="what_would_you_like_to_do">どのようにしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="set_the_total_format">合計を^1に設定します</string>
     <string name="distribute_format">^1を等しく分配します</string>

@@ -116,7 +116,6 @@
     <string name="next_check_number">Prossimo numero assegno</string>
     <string name="cleared_transactions_color">Autorizzato colore transazioni</string>
     <string name="reconciled_transactions_color">Riconciliata colore transazioni</string>
-	<string name="create_transaction_instructions_format">Per creare una transazione, toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an icon --> 
 	<string name="text_filter">Testo del filtro</string>
 	<string name="profit_and_loss_statement">Resoconto Profitti &amp; Perdite</string>
 	<string name="transaction_type">Tipo di transazione</string>

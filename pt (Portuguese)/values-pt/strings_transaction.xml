@@ -116,7 +116,6 @@
     <string name="next_check_number">Próximo número de cheque</string>
     <string name="cleared_transactions_color">Cor de transações apuradas</string>
     <string name="reconciled_transactions_color">Cor de transações reconciliadas</string>
-    <string name="create_transaction_instructions_format">Para criar uma transação, toque ^i no topo da tela</string>
     <string name="text_filter">Filtro de texto</string>
 	<string name="profit_and_loss_statement">Lucros &amp; Perdas</string>
 	<string name="transaction_type">Tipo da transação</string>

@@ -35,8 +35,6 @@
     <string name="no_categories_expense">நீங்கள் எந்த செலவின வகைபாடுகளையும் பெற்றிருக்கவில்லை</string>
     <string name="no_categories_income">நீங்கள் எந்த வரவு வகைபாடுகளையும் பெற்றிருக்கவில்லை</string>
     <string name="no_classes">நீங்கள் எந்த பிரிவுகளையும்   பெற்றிருக்கவில்லை</string>
-    <string name="create_category_instructions_format">புதிய வகைபாட்டை உருவாக்க, திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^1 will be replaced by an image -->
-    <string name="create_class_instructions_format">புதிய பிரிவை உருவாக்க, திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^1 will be replaced by an image -->
     <string name="uncategorized_transactions">வகைபடுத்தப்படாத பரிவர்த்தனைகள்</string>
     <string name="delete_category_no_subcategories_warning_format">வகைபாடு ^1 நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>
     <string name="delete_class_no_subclass_warning_format">பிரிவு ^1 நிரந்தரமாக அழிக்கப்பட்டுவிடும்</string>

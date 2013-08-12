@@ -116,7 +116,6 @@
 	<string name="next_check_number">Numéro de chèque suivant</string>
 	<string name="cleared_transactions_color">Couleur des opérations pointées</string>
 	<string name="reconciled_transactions_color">Couleur des opérations rapprochées</string>
-    <string name="create_transaction_instructions_format">Pour créer une transaction, pressez ^i en haut de l’écran</string>
 	<string name="text_filter">Filtre de texte</string>
 	<string name="profit_and_loss_statement">Compte de résultat</string>
 	<string name="transaction_type">Type de transaction</string>

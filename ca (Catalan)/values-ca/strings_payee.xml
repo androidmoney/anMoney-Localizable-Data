@@ -16,7 +16,6 @@
     <string name="call">Trucar</string>
     <string name="map_address">Adreça en mapa</string> <!-- Show the address on the map -->
     <string name="no_payees">No teniu cap beneficiari</string>
-    <string name="create_payee_instructions_format">Per a crear un beneficiari, toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
     <string name="payee_transaction_list_empty">Cap transacció d’aquest beneficiari</string>
     <string name="payee_exists">Ja existeix un beneficiari amb aquest nom</string>
     <string name="combine_payees">Vol combinar els dos beneficiaris</string> <!-- This is a question, but the question mark will be added progrmatically -->

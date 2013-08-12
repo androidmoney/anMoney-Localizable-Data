@@ -13,7 +13,6 @@
 	<string name="add_financial_institution_as_a_contact">Finanzinstitut als Kontakt hinzufügen</string>
 	<string name="financial_institution_exists">Ein Finanzinstitut mit diesem Namen existiert schon</string>
     <string name="no_financial_institutions">Sie haben keine Finanzinstitute</string>
-    <string name="create_financial_institution_instructions_format">Um zu beginnen, drücken Sie ^i oben auf den Bildschirm</string>
 	<string name="view_financial_institutions">Finanzinstitute ansehen</string>
 	<string name="financial_institution_name">Name des Finanzinstituts</string>
     <string name="contact_exists">Ein Kontakt mit dem Namen ist schon vorhanden</string>

@@ -35,16 +35,14 @@
     <string name="no_categories_expense">支出カテゴリーがありません</string>
     <string name="no_categories_income">収入カテゴリーがありません</string>
     <string name="no_classes">クラスがありません</string>
-    <string name="create_category_instructions_format">画面上方の^iをタップしてカテゴリーを作成</string> <!-- ^i will be replaced by an image -->
-    <string name="create_class_instructions_format">画面上方の^iをタップしてクラスを作成</string> <!-- ^i will be replaced by an image -->
-    <string name="uncategorized_transactions">カテゴリーのないトランザクション</string>
+    <string name="uncategorized_transactions">カテゴリーのない取り引き</string>
     <string name="delete_category_no_subcategories_warning_format">^1は完全に削除されます</string>
     <string name="delete_class_no_subclass_warning_format">^1は完全に削除されます</string>
     <string name="delete_category_with_subcategories_warning_format">^1およびそのサブカテゴリーはすべて完全に削除されます</string>
     <string name="delete_class_with_subclass_warning_format">^1およびそのサブクラスはすべて完全に削除されます</string>
     <string name="delete_subcategory_warning_format">^1は完全に削除されます</string>
     <string name="delete_subclass_warning_format">^1は完全に削除されます</string>
-    <string name="delete_classification_warning_format">^1は完全に削除されます。すべてのトランザクションの分類から^1が削除されます</string>
+    <string name="delete_classification_warning_format">^1は完全に削除されます。すべての取り引きの分類から^1が削除されます</string>
     <string name="default_categories_add_confirmation">デフォルト・カテゴリーを追加しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="default_categories_added">追加しました</string>
     <string name="all_categories">すべてのカテゴリー</string>
@@ -78,8 +76,8 @@
     <string name="move_subcategory_to_another_category_warning">このサブカテゴリーをほかのカテゴリーの下に移動しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="show_zero_balance_categories">差引残高ゼロのカテゴリーを表示</string>
     <string name="show_zero_balance_items">差引残高ゼロの項目を表示</string> <!-- "Items" refers to classification name -->
-    <string name="recategorize_category">このカテゴリーを含んだ分類で、すべてのトランザクションを見直す</string>
-    <string name="reclassify_class">このクラスを含んだ分類で、すべてのトランザクションを見直す</string>
+    <string name="recategorize_category">このカテゴリーを含んだ分類で、すべての取り引きを見直す</string>
+    <string name="reclassify_class">このクラスを含んだ分類で、すべての取り引きを見直す</string>
 	<string name="spending_by_category0">カテゴリー別支出</string>
 	<string name="spending_by_category1">カテゴリーまたは^1の支出</string>
 	<string name="spending_by_category2">カテゴリー、^1または^2の支出</string>
@@ -96,7 +94,7 @@
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="uncategorized_count_plurals">
-        <item>^1カテゴリーなしのトランザクション</item>
+        <item>^1カテゴリーなしの取り引き</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>

@@ -16,7 +16,6 @@
     <string name="call">Позвонить</string>
     <string name="map_address">Показать на карте</string>
     <string name="no_payees">Отсутствуют получатели</string>
-    <string name="create_payee_instructions_format">Для создания нового получателя, нажмите ^i в верхней части экрана</string>
     <string name="payee_transaction_list_empty">Нет транзакций по этому получателю</string>
     <string name="payee_exists">Получатель с таким именем уже есть</string>
     <string name="combine_payees">Объединить двух получателей</string>

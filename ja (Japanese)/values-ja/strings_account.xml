@@ -5,14 +5,14 @@
     <string name="all_accounts">すべての口座</string>
     <string name="open_accounts">利用中の口座</string>
     <string name="liability">債務</string> <!-- Liability account -->
-    <string name="asset">アセット</string> <!-- Aeset account -->
+    <string name="asset">資産</string> <!-- Aeset account -->
 <!-- <string name="associated_loan">関連ローン</string> -->
 <!-- <string name="associated_loan_if_any">関連ローン</string> -->
 <!-- <string name="associated_reward_program">関連特典プログラム</string> -->
 <!-- <string name="associated_reward_program_if_any">関連特典プログラム</string> -->
     <string name="account_balances">口座差引残高</string>
     <string name="vehicle">自動車</string>
-    <string name="property">プロパティー</string>
+    <string name="property">不動産</string>
     <string name="view_accounts">口座の表示</string>
     <string name="new_account">口座の作成</string>
     <string name="edit_account">口座の編集</string>
@@ -22,7 +22,7 @@
     <string name="adjust_balance">差引残高の調整</string>
 	<string name="balance_adjusted">調整しました</string>
 	<string name="balance_adjustment_note">差引残高調整</string>
-	<string name="category_for_adjustment_transaction">調整するトランザクションのカテゴリー</string>
+	<string name="category_for_adjustment_transaction">調整する取り引きのカテゴリー</string>
 	<string name="postpone">延期</string>
     <string name="balance_verb">差引</string> <!-- Balance/Reconcile an account -->
     <string name="balance_account">口座の差引残高調整</string>
@@ -30,10 +30,10 @@
     <string name="balance_postponed">延期しました</string>
     <string name="balance_canceled">キャンセルしました</string>
 	<string name="started_balancing_already">すでに差引を開始ずみです</string>
-	<string name="postpone_balancing_warning">差引延期</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="account_balance_does_not_match_bank_warning_format">入力された明細期首残高[^1]が調整ずみトランザクションの合計額[^2]と一致しません</string> <!-- ^1 and ^2 are numbers -->
-	<string name="account_balance_does_not_match_credit_warning_format">入力された未支払い額[^1]が調整ずみトランザクションの合計額[^2]と一致しません</string> <!-- ^1 and ^2 are numbers -->
-	<string name="account_balance_does_not_match_fix">次の方法で修正してください:\n\n<li>明細を再確認</li>\n<li>トランザクションを調整済みとしてマーク</li>\n<li>トランザクションを未調整としてマーク</li>\n<li>期首残高の調整</li></string>
+	<string name="postpone_balancing_warning">差引を延期しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="account_balance_does_not_match_bank_warning_format">入力された明細期首残高[^1]が調整ずみ取り引きの合計額[^2]と一致しません</string> <!-- ^1 and ^2 are numbers -->
+	<string name="account_balance_does_not_match_credit_warning_format">入力された未支払い額[^1]が調整ずみ取り引きの合計額[^2]と一致しません</string> <!-- ^1 and ^2 are numbers -->
+	<string name="account_balance_does_not_match_fix">次の方法で修正してください:\n\n<li>明細を再確認</li>\n<li>取り引きを調整済みとしてマーク</li>\n<li>取り引きを未調整としてマーク</li>\n<li>期首残高の調整</li></string>
 	<string name="left_to_reconcile">要調整</string> <!-- Amount left to reconcile -->
 	<string name="statement_balance">明細残高</string> <!-- Statement as in "Bank statement" -->
     <string name="statement_date">明細発行日</string>
@@ -50,8 +50,8 @@
     <string name="interest_paid_amount">支払利息額</string>
     <string name="interest_paid_category">支払利息カテゴリー</string>
     <string name="interest_paid_notes_format">^1に終了する明細期間の支払利息</string>
-    <string name="clear_all_transactions">すべてのトランザクションをクリアしますか</string> <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
-	<string name="clear_all_transactions_on_all_pages">すべてのページのトランザクションをクリアしますか</string> <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+    <string name="clear_all_transactions">すべての取り引きをクリアしますか</string> <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+	<string name="clear_all_transactions_on_all_pages">すべてのページの取り引きをクリアしますか</string> <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
     <string name="export_account">エクスポート</string>
     <string name="delete_account">口座の削除</string>
     <string name="close_account">口座の閉鎖</string>
@@ -61,11 +61,10 @@
     <string name="copy_account_number">口座番号のコピー</string>
     <string name="book_total">会計簿の合計</string>
     <string name="favorites_total">お気に入りの合計</string>
-	<string name="delete_account_warning_part1_format">^1は完全に削除されます。\n\nこの口座はトランザクションで使用されているため、関連するすべてのトランザクションが削除されます</string>
-	<string name="delete_account_warning_part2_format">トランザクション履歴を保存したまま口座を非表示にするには、^1をタップして口座を閉じます</string> <!-- ^1 = OK -->
+	<string name="delete_account_warning_part1_format">^1は完全に削除されます。\n\nこの口座は取り引きで使用されているため、関連するすべての取り引きが削除されます</string>
+	<string name="delete_account_warning_part2_format">取り引き履歴を保存したまま口座を非表示にするには、^1をタップして口座を閉じます</string> <!-- ^1 = OK -->
 	<string name="no_accounts">口座がありません</string>
-    <string name="create_account_instructions_format">口座を作成するには、画面上方の^iをタップします</string> <!-- ^i will be replaced by an icon -->
-    <string name="no_transactions_for_account">この口座にはトランザクションがありません</string>
+    <string name="no_transactions_for_account">この口座には取り引きがありません</string>
     <string name="account_type">口座種別</string>
     <string name="account_type_bank_first">銀行口座が最初の口座種別</string>
     <string name="account_type_cash_first">現金が最初の口座種別</string>
@@ -94,7 +93,7 @@
     <string name="type_details_about_warranty_information">保証種別の詳細</string>
     <string name="warranty_expiration_date">保証期限</string>
     <string name="manufacturer_web_address">メーカーのウェプページアドレス</string>
-    <string name="property_address">プロパティー・アドレス</string>
+    <string name="property_address">不動産の住所</string>
     <string name="closed">閉鎖しました</string>
     <string name="reopened">再開しました</string>
     <string name="reopen_canceled">キャンセルしました</string>
@@ -105,7 +104,7 @@
     <string name="invalid_year">無効</string>
     <string name="invalid_vin_number">17文字でなければなりません</string>
     <string name="invalid_url">無効なURL</string>
-    <string name="opening_balance_warning_message">この口座のトランザクションは調整済みです。\n\n口座開始残高を変更すると、この会計簿と金融機関の記録との間に差異が生じます</string>
+    <string name="opening_balance_warning_message">この口座の取り引きは調整済みです。\n\n口座開始残高を変更すると、この会計簿と金融機関の記録との間に差異が生じます</string>
     <string name="no_exchange_rate_warning_message_format">^1と^2との間の為替レートが設定されていないと、通帳残高は正確ではなくなります</string> <!-- ^1 and ^2 are currency names -->
     <string name="would_you_like_to_give_one_after_saving">保存の後に付与しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">純資産</string> <!-- Net worth is an accounting term -->
@@ -156,7 +155,7 @@
 		<item>投資現金口座</item>
 		<!-- <item>ローン・債務</item> -->
 		<item>他の債務</item>
-		<item>他のアセット</item>
+		<item>他の資産</item>
 	</string-array>
 	
 	<string-array name="total_for_account_group_labels">
@@ -166,7 +165,7 @@
 		<item>投資現金口座の合計</item>
 		<!-- <item>ローン・債務の合計</item> -->
 		<item>他の債務の合計</item>
-		<item>他のアセット</item>
+		<item>他の資産</item>
 	</string-array>
 	
 	<string-array name="opening_balance_new_labels">
@@ -177,7 +176,7 @@
 	</string-array>
 	
 	<string name="opening">開始</string> <!-- As in "Opening balance" -->
-		<string-array name="opening_balance_edit_labels">
+	<string-array name="opening_balance_edit_labels">
 		<item>口座開始残高</item>
 		<item>購入時価格</item> <!-- of an asset -->
 		<item>本口座の初期未払額</item>
@@ -201,7 +200,7 @@
 		<item>他の債務</item>
 		<item>@string/property</item>
 		<item>@string/vehicle</item>
-		<item>他のアセット</item>
+		<item>他の資産</item>
 		<item>投資現金口座</item>
 	</string-array>
 	
@@ -243,13 +242,13 @@
 
     <string name="all_transactions">すべて</string>
 	<string-array name="transaction_list_filter_title_bar">
-	     <item>@string/all_transactions</item>
+	    <item>@string/all_transactions</item>
 		<item>@string/unreconciled2</item>
 		<item>@string/reconciled2</item>
 		<item>@string/cleared2</item>
 		<item>@string/pending2</item>
 		<item>@string/follow_up2</item>
-	     <item>@string/not_exported_transaction2</item>
+	    <item>@string/not_exported_transaction2</item>
 	</string-array>
     
     <string name="display_order">表示順</string>

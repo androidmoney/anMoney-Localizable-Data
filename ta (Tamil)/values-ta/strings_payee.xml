@@ -16,7 +16,6 @@
     <string name="call">அழை</string>
     <string name="map_address">வரைபட முகவரி</string> <!-- Show the address on the map -->
     <string name="no_payees">நீங்கள் எந்த பெறுபவர்களையும் பெற்றிருக்கவில்லை</string>
-    <string name="create_payee_instructions_format">பெறுபவரை உருவாக்க, திரையின் மேலே இருக்கும் ^i ஐ தொடவும்</string> <!-- ^1 will be replaced by an image -->
     <string name="payee_transaction_list_empty">நீங்கள் இந்த பெறுபவரில் பரிவர்த்தனைகள் எதையும் பெற்றிருக்கவில்லை</string>
     <string name="payee_exists">இந்த பெயரில் ஏற்கனவே ஒரு பெறுபவர் இருக்கிறார்</string>
     <string name="combine_payees">இரண்டு பெறுபவர்களையும் ஒருங்கிணைக்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->

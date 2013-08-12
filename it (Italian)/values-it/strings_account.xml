@@ -64,7 +64,6 @@
 	<string name="delete_account_warning_part1_format">Conto ^1 saranno eliminati definitivamente.\n\nPoiché questo conto viene utilizzato nelle transazioni, tutte le transazioni correlate verranno cancellate</string>
 	<string name="delete_account_warning_part2_format">Per nascondere il conto, ma salvare la cronologia delle transazioni, premere ^1 altrimenti procedere alla chiusura del conto</string>
 	<string name="no_accounts">Non hai nessun conto</string>
-	<string name="create_account_instructions_format">Per creare un conto, toccare ^i nella parte superiore dello schermo</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">Tu non hai fatto nessuna transazione per questo conto</string>
     <string name="account_type">Tipo conto</string>
     <string name="account_type_bank_first">Tipo conto con primi i conti bancari</string>

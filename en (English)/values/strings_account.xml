@@ -67,7 +67,6 @@
 	<string name="delete_account_warning_part1_format">Account ^1 will be permanently deleted.\n\nSince this account is used in transactions, all related transactions will be deleted as well</string>
 	<string name="delete_account_warning_part2_format">To hide the account, but save the transaction history, tap ^1 and close the account instead</string> <!-- ^1 = OK -->
 	<string name="no_accounts">You don’t have any accounts</string>
-    <string name="create_account_instructions_format">To create an account, tap ^i at the top of the screen</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">You don’t have any transactions for this account</string>
     <string name="account_type">Account type</string>
     <string name="account_type_bank_first">Account type with bank accounts first</string>

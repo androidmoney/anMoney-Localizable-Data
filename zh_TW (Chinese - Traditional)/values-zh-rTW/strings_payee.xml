@@ -16,7 +16,6 @@
     <string name="call">致電</string>
     <string name="map_address">地址</string> <!-- Show the address on the map -->
     <string name="no_payees">您沒有任何收款人</string>
-    <string name="create_payee_instructions_format">要創建一個收款人，點擊螢幕上方的^i</string> <!-- ^1 will be replaced by an image -->
     <string name="payee_transaction_list_empty">對此收款人您沒有任何交易</string>
     <string name="payee_exists">收款人名稱已經存在</string>
     <string name="combine_payees">是否想合併兩個收款人</string> <!-- This is a question, but the question mark will be added progrmatically -->

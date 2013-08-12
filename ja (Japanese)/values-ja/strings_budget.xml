@@ -5,7 +5,7 @@
     <string name="edit_budget_item">予算項目の編集</string>
     <string name="new_budget_item">予算項目の追加</string>
     <string name="over_budget">予算超過</string>
-    <string name="expenses_over_budget">予算超過支出</string>
+    <string name="expenses_over_budget">予算超過</string>
     <string name="within_budget">予算内</string>
     <string name="expenses_within_budget">予算内支出</string>
     <string name="budgeted_amount">予算</string>
@@ -13,7 +13,7 @@
     <string name="remainder_amount">剰余</string>
 	<string name="budget_vs_actual">予算と実績</string> <!-- This is a report name -->
 	<string name="budget_over_time">予算の経時変化</string> <!-- This is a report name -->
-    <string name="recurring_bill_or_deposit_from">自動継続請求/入金:</string>
+    <string name="recurring_bill_or_deposit_from">自動継続請求・入金:</string>
     <string name="an_additional_amount_for_this_category">このカテゴリーでの追加分</string>
     <string name="an_additional_amount_for_this_class">このクラスでの追加分</string>
     <string name="the_additional_amount_for_this_category">このカテゴリーでの追加分</string>

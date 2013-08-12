@@ -34,8 +34,6 @@
     <string name="no_categories_expense">Il n’existe aucune catégorie de dépenses</string>
     <string name="no_categories_income">Il n’existe aucune catégorie de recettes</string>
     <string name="no_classes">Vous n’avez défini aucune classe</string>
-    <string name="create_category_instructions_format">Pour créer une catégorie, appuyez sur ^i en haut de l’écran</string>
-    <string name="create_class_instructions_format">Pour créer une classe, appuyez sur ^i en haut de l’écran</string>
 	<string name="uncategorized_transactions">Transactions non catégorisées</string>
 	<string name="delete_category_no_subcategories_warning_format">La catégorie ^1 va être définitivement supprimée</string>
 	<string name="delete_class_no_subclass_warning_format">La classe ^1 va être définitivement supprimée</string>

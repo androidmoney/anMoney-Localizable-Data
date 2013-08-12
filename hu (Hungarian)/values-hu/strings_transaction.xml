@@ -116,7 +116,6 @@
     <string name="next_check_number">Következő csekkszám</string>
     <string name="cleared_transactions_color">Elszámolt tranzakciók színe</string>
     <string name="reconciled_transactions_color">Egyeztetett tranzakciók színe</string>
-	<string name="create_transaction_instructions_format">Tranzakció létrehozásához érintse meg a ^i -ot a képernyő tetején</string> 
     <string name="text_filter">Szöveges szűrő</string>
     <string name="profit_and_loss_statement">Eredménykimutatás</string>
 	<string name="transaction_type">Tranzakciótípus</string>

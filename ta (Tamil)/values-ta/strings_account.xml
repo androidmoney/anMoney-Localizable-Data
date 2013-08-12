@@ -64,7 +64,6 @@
 	<string name="delete_account_warning_part1_format">^1 கணக்கு நிரந்தரமாக அழிக்கப்பட்டுவிடும்.\n\nஇந்த கணக்கில் பரிவர்த்தனைகள் இருந்தால், தொடர்புடைய எல்லாம் அழிந்துவிடும்</string>
 	<string name="delete_account_warning_part2_format">பரிவர்த்தனை வரலாறு அழியாமல் கணக்கை மறைக்க, ^1 ஐ தொடு, பதிலாக கணக்கை முடு</string> <!-- ^1 = OK -->
 	<string name="no_accounts">நீங்கள் எந்த கணக்கையும் வைத்திருக்கவில்லை</string>
-    <string name="create_account_instructions_format">கணக்கை தொடங்க, திரையின் மேலிருக்கும் ^i ஐ தொடு</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">நீங்கள் இந்த கணக்கில் எந்த பரிவர்த்தனையும் கொண்டிருக்கவில்லை</string>
     <string name="account_type">கணக்கின் வகை</string>
     <string name="account_type_bank_first">கணக்கின் வகை உடன், முதலில் வங்கிக்கணக்குகள்</string>

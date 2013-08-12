@@ -16,7 +16,6 @@
     <string name="call">Volat</string>
     <string name="map_address">Zobrazit na mapě</string> <!-- Show the address on the map -->
     <string name="no_payees">Nemáte žádné příjemce</string>
-    <string name="create_payee_instructions_format">Pro zadání příjemce, zvolte ^i v horní části obrazovky</string> <!-- ^1 will be replaced by an image -->
     <string name="payee_transaction_list_empty">Pro tohoto příjemce nemáte žádné transakce</string>
     <string name="payee_exists">Příjemce s tímto názvem neexistuje</string>
     <string name="combine_payees">Chcete provázat tyto dva příjemce</string> <!-- This is a question, but the question mark will be added progrmatically -->

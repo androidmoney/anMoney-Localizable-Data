@@ -18,148 +18,148 @@
 	<string name="equals_format">^1=</string>
 	<string name="footnote_symbol">※</string>
 	<string name="quarter_format">^2年第^1四半期</string> <!-- "Q1 2013" -->
-    <string name="filter_by_order_format">^2の^1</string> <!-- Example: "All accounts by name" -->
-    <string name="filter_by_direction_order_format">^2^3の^1</string> <!-- Example: "All payees by decreasing date" -->
-    <string name="filter_for_item_by_direction_order_for_date_range_format">^4のための^2^3の^1</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+    <string name="filter_by_order_format">^1を^2順に表示</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1を^3の^2で表示</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^4の^1を^3の^2で表示</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="_continue">続ける</string>
-	<string name="continue_question">続ける</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="continue_question">続けますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="home">ホーム</string> <!-- Home screen -->
 	<string name="home_screen">ホーム画面</string>
-    <string name="previous">前</string>
-    <string name="next">次</string>
+    <string name="previous">前へ</string>
+    <string name="next">次へ</string>
     <string name="_import">インポート</string> <!-- This is a verb -->
-    <string name="imported">インポート済み</string>
-    <string name="import_canceled">インポートは取消されました</string>
+    <string name="imported">インポートしました</string>
+    <string name="import_canceled">キャンセルしました</string>
     <string name="export">エクスポート</string> <!-- This is a verb -->
-    <string name="export_canceled">取消されたエクスポート</string>
+    <string name="export_canceled">キャンセルしました</string>
 	<string name="import_export">インポート/エクスポート</string>
-    <string name="display_options">オプションを表示する</string>
+    <string name="display_options">表示オプション</string>
     <string name="add_favorite">お気に入りに追加</string>
-    <string name="added_to_favorites">お気に入りに追加されました</string>
-    <string name="remove">除去する</string>
-    <string name="remove_favorite">お気に入りから除去する</string>
-    <string name="removed_from_favorites">お気に入りから除去する</string>
-    <string name="save">保存する</string> <!-- This is a verb -->
-    <string name="saved">保存済み</string>
-    <string name="save_canceled">保存は取消されました</string>
-    <string name="canceled">キャンセル済み</string>
+    <string name="added_to_favorites">追加しました</string>
+    <string name="remove">削除</string>
+    <string name="remove_favorite">お気に入りから削除</string>
+    <string name="removed_from_favorites">削除しました</string>
+    <string name="save">保存</string> <!-- This is a verb -->
+    <string name="saved">保存しました</string>
+    <string name="save_canceled">キャンセルしました</string>
+    <string name="canceled">キャンセルしました</string>
     <string name="delete">削除</string>
-    <string name="deleted">削除済み</string>
-    <string name="delete_canceled">取消された削除</string>
-    <string name="create">作成</string>
-    <string name="created">作成済み</string>
-    <string name="create_canceled">取消された作成</string>
+    <string name="deleted">削除しました</string>
+    <string name="delete_canceled">キャンセルしました</string>
+    <string name="create">新規作成</string>
+    <string name="created">作成しました</string>
+    <string name="create_canceled">キャンセルしました</string>
 	<string name="create_what">何を作成しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="edit">編集する</string>
-    <string name="edit_canceled">編集は取消されました</string>
-	<string name="edit_which">を編集する</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">編集</string>
+    <string name="edit_canceled">キャンセルしました</string>
+	<string name="edit_which">どれを編集しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="copy">コピー</string>
-    <string name="copied">コピー済み</string>
-    <string name="move">移動する</string> <!-- Move an item -->
-    <string name="moved">移動済み</string>
-    <string name="duplicate">複写する</string>
-    <string name="duplicated">複写済み</string>
-    <string name="rename">名前を変更する</string>
-    <string name="renamed">名前変更済み</string>
-    <string name="rename_canceled">名前の変更を取消す</string>
+    <string name="copied">コピーしました</string>
+    <string name="move">移動</string> <!-- Move an item -->
+    <string name="moved">移動しました</string>
+    <string name="duplicate">コピー</string>
+    <string name="duplicated">コピーしました</string>
+    <string name="rename">名前の変更</string>
+    <string name="renamed">変更しました</string>
+    <string name="rename_canceled">キャンセルしました</string>
     <string name="link">リンク</string>
-    <string name="linked">リンク済み</string>
-    <string name="combine">組み合わせる</string>
-    <string name="combined">組み合わせた</string>
-    <string name="copy_to_clipboard">クリップボードにコピーする</string>
+    <string name="linked">リンクしました</string>
+    <string name="combine">統合</string>
+    <string name="combined">統合しました</string>
+    <string name="copy_to_clipboard">クリップボードにコピー</string>
     <string name="set">設定</string> <!-- Set a value -->
-	<string name="share">共有する</string>
-	<string name="share_canceled">共有は取消されました</string>
-    <string name="create_in_app_name_format">^1に作成します</string> <!-- Create in Contacts -->
-    <string name="pick_from_app_name_format">^1から選ぶ</string> <!-- Pick from Contacts -->
-    <string name="do_not_ask_again">再度、質問しないでください</string>
+	<string name="share">共有</string>
+	<string name="share_canceled">キャンセルしました</string>
+    <string name="create_in_app_name_format">^1に作成</string> <!-- Create in Contacts -->
+    <string name="pick_from_app_name_format">^1から選択</string> <!-- Pick from Contacts -->
+    <string name="do_not_ask_again">次回から確認しない</string>
     <string name="apply_to_all">すべてに適用</string>
 	<string name="all_items">すべての項目</string>
-    <string name="notes">注意書き</string>
-    <string name="no_notes">注意書きはまだありません</string>
-    <string name="required">必須の</string>
+    <string name="notes">メモ</string>
+    <string name="no_notes">メモはまだありません</string>
+    <string name="required">必須項目</string>
     <string name="name">名前</string>
     <string name="invalid_name">無効な名前</string>
-    <string name="name_exists">名前は存在します</string>
+    <string name="name_exists">同じ名前があります</string>
     <string name="amount">金額</string>
     <string name="start_date">開始日</string>
     <string name="end_date">終了日</string>
     <string name="must_be_less_than_format">^1未満でなければなりません</string>
     <string name="must_be_greater_than_format">^1以上でなければなりません</string>
-    <string name="reset">リセットする</string>
-    <string name="total">合計</string>
-    <string name="grand_total">総額</string> <!-- Grand total amount -->
+    <string name="reset">リセット</string>
+    <string name="total">小計</string>
+    <string name="grand_total">合計</string> <!-- Grand total amount -->
     <string name="average">平均</string> <!-- Average amount -->
-    <string name="export_file_name">ファイル名をエクスポートする</string>
-    <string name="specify_export_file_name">エクスポートファイル名を指定する</string>
-    <string name="file_exists">その名前のファイルは既に存在します</string>
-    <string name="folder_exists">その名前のフォルダーは既に存在します</string>
-    <string name="choose_another_name">別の名前を選択してください</string>
-    <string name="will_be_overwritten">それは上書きされます</string>
+    <string name="export_file_name">エクスポートファイル名</string>
+    <string name="specify_export_file_name">エクスポートファイル名を設定</string>
+    <string name="file_exists">同じ名前のファイルがあります</string>
+    <string name="folder_exists">同じ名前のフォルダがあります</string>
+    <string name="choose_another_name">別の名前を入力</string>
+    <string name="will_be_overwritten">上書きされます</string>
     <string name="calendar">カレンダー</string>
-    <string name="remind_me">リマインドして下さい</string>
-    <string name="add_as_a_contact">連絡先として追加</string>
+    <string name="remind_me">事前通知</string>
+    <string name="add_as_a_contact">連絡先に追加</string>
     <string name="to_from_format">^1^2</string> <!-- To <account>, From <account> -->
-    <string name="to">宛先</string> <!-- To <account> -->
-    <string name="from">送信元</string> <!-- From <account> -->
-	<string name="send_email">メールを送信する</string>
-	<string name="please_read">必ずお読みください</string>
-	<string name="rate_app_format">^1を評価する</string> <!-- ^1 is app name -->
-	<string name="please_rate_app_format">お手数ですが\n^1を評価してください</string> <!-- ^1 is app name -->
-	<string name="later_rate_description">お客様には約一週間でリマインダーが送られます</string>
-	<string name="no_rate_description_format">^1画面からいつでもこれを行うことができます</string> <!-- ^1 is "Settings" -->
-	<string name="task_killer_warning_format">「タスクキラー」アプリについての警告：\n\nお使いのデバイスは自動処理を実行するために一日に一回 「起動」します。この処理は数秒しか続かないので、お客様のデバイスのバッテリ寿命に悪影響を与えることはありません。\n\nタスクキラーはこのバックグラウンド処理が正常に実行されることを妨げる可能性があり、^1と一緒に使用すべきではありません</string> <!-- ^1 is app name -->
-	<string name="no_thanks">いいえ結構です</string>
+    <string name="to">振替先：</string> <!-- To <account> -->
+    <string name="from">振替元：</string> <!-- From <account> -->
+	<string name="send_email">電子メールを送信</string>
+	<string name="please_read">必ずお読み下さい</string>
+	<string name="rate_app_format">^1の評価をお願いします</string> <!-- ^1 is app name -->
+	<string name="please_rate_app_format">お手数ですが\n^1の評価をお願いします</string> <!-- ^1 is app name -->
+	<string name="later_rate_description">一週間ほどでお知らせします</string>
+	<string name="no_rate_description_format">^1画面からいつでも評価できます</string> <!-- ^1 is "Settings" -->
+	<string name="task_killer_warning_format">タスクキラーアプリケーションに関する警告：\n\nこのデバイスは1日に1回「起動」して自動処理を実施します。この処理は数秒で終了するため、バッテリの寿命に悪影響を及ぼすものではありません。\n\nタスクキラーはこのバックグラウンド処理が適切に実行されることを妨げる可能性があり、^1と一緒に使用すべきではありません</string> <!-- ^1 is app name -->
+	<string name="no_thanks">いいえ、結構です</string>
 	<string name="maybe_later">また今度</string>
-	<string name="unexpected_error_warning">予期しないエラーが発生しanMoneyが強制的に停止されました。\n\nエラーレポートを電子メールで送信することによりこれを解決します。送信前に電子メールを編集する機会があります。\n\nご協力ありがとうございます。</string>
-    <string name="unexpected_error_notification_ticker">予期しないエラーです。レポートを送信してください</string>
-    <string name="unexpected_error_notification_title">anMoneyは停止しています</string>
-    <string name="unexpected_error_notification_text">レポートを送信するにはここをタップします。</string>
-    <string name="unexpected_error_comment">ご希望の場合、問題が発生したときに何を行っていたかを説明してください</string>
+	<string name="unexpected_error_warning">予期しないエラーによりanMoneyが強制的に停止されました。\n\nエラーレポートを電子メールで送付して、エラー修復にご協力ください。電子メールは送信前に編集することができます。\n\nご協力に感謝いたします。</string>
+    <string name="unexpected_error_notification_ticker">予期しないエラーが発生しました。エラーレポートをお送り下さい</string>
+    <string name="unexpected_error_notification_title">anMoneyが停止しました</string>
+    <string name="unexpected_error_notification_text">ここをタップしてレポートを送ります</string>
+    <string name="unexpected_error_comment">もしよろしければ、 問題の生じたときに行っていた内容をご説明下さい</string>
 	<string name="archiving">アーカイブ</string>
-	<string name="archiving_settings">アーカイブ設定</string>
-    <string name="more">さらに</string>
-    <string name="specify_options">オプションを指定する</string>
-	<string name="expand_all">すべてを展開する</string>
-	<string name="all_expanded">すべてを拡大する</string>
+	<string name="archiving_settings">アーカイブの設定</string>
+    <string name="more">詳細</string>
+    <string name="specify_options">オプションの指定</string>
+	<string name="expand_all">すべて展開する</string>
+	<string name="all_expanded">展開しました</string>
 	<string name="collapse_all">すべて折りたたむ</string>
-	<string name="all_collapsed">すべてたたむ</string>
+	<string name="all_collapsed">折りたたみました</string>
     <string name="postal_address">住所</string>
-    <string name="postal_address_hint">番地　市町村　郵便番号</string> <!-- Replace this with locale specific fields -->
-    <string name="cannot_perform_sd_card_operation">デバイスにSDカードがないか、またはデバイスが現在SDカードをアクセス不能にするコンピュータに接続しているため、この操作を今すぐ実行することはできません</string>
-    <string name="cannot_perform_file_system_operation_format">内部メモリパス（^1）がアクセス不能であるため、この操作を今すぐに実行することはできません</string>
-    <string name="please_correct_and_try_again">訂正して再試行してください</string>
-    <string name="no_network_message_format">^1はライセンス確認の目的で定期的なネットワーク・アクセスを必要とします。　\n\nネットワークを有効化しデータに接続した後、再度お試しください。その後ネットワークを無効化することができます。\n\n^2をタップすると^3設定に進みます</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
+    <string name="postal_address_hint">郵便番号　市町村　番地</string> <!-- Replace this with locale specific fields -->
+    <string name="cannot_perform_sd_card_operation">デバイスにSDカードがないか、コンピュータに接続中でSDカードにアクセスできないため、この操作は実行できません</string>
+    <string name="cannot_perform_file_system_operation_format">内部メモリのパス(^1)にアクセスできないため、この操作は実行できません</string>
+    <string name="please_correct_and_try_again">修正後に再試行して下さい</string>
+    <string name="no_network_message_format">^1はライセンス確認のため定期的にネットワークにアクセスします。\n\nネットワークを有効にしてデータ接続を行ったうえで再度実行して下さい。その後ネットワークを無効にできます。\n\n^2をタップして^3の設定を行います</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen -->
     <string name="calculator">電卓</string>
     <string name="only_in_full_version">PRO版のみ</string>
-    <string name="will_not_effect_transactions">これは既存のトランザクションには影響が<b>ありません</b></string>
+    <string name="will_not_effect_transactions">これが既存の取り引きに影響することはありません</string>
     
-	<string name="free_limitations">次の制限を除去するにはPRO版を購入して下さい。\n\n
-	<li>パスワードセキュリティー無し</li>\n
-	<li>データの自動バックアップ無し</li>\n
-	<li>カスタムレポート無し</li>\n
-	<li>QIFインポートのみ </li>\n
-	<li>連絡先の統合無し</li>\n
-	<li>銀行は最大2つ、クレジットと預金口座は最大1つまで</li>\n
+	<string name="free_limitations">次の制限を除去するにはPRO版をご購入下さい：\n\n
+	<li>パスワードセキュリティーなし</li>\n
+	<li>データの自動バックアップなし</li>\n
+	<li>カスタムレポートなし</li>\n
+	<li>QIFのインポートのみ</li>\n
+	<li>連絡先の統合なし</li>\n
+	<li>銀行口座は最大2つまで、クレジットカードと現金口座はそれぞれ1つまで</li>\n
 	<li>予算項目は最大5つまで</li>\n
-	<li>自動更新の請求または預金は最大3つまで</li>
+	<li>自動継続請求・入金は最大で3つまで</li>
 	</string>
 
-	<string name="no_items">アイテム​が​ありません</string>
-    <string name="no_items_yet">アイテムはまだありません</string>
+	<string name="no_items">項目がありません</string>
+    <string name="no_items_yet">項目がありません</string>
 	<string-array name="items_format_plurals">
-    	<item>^1アイテム</item>
+    	<item>^1の項目</item>
 	    <item/>
     	<item/>
   	</string-array>
     
     <string-array name="reminder_leads">
-	    <item>リマインドしないでください</item>
-	    <item>その日</item>
-	    <item>前日</item>
-	    <item>2日前</item>
-	    <item>1週間前</item>
-	    <item>2週間前</item>
+		<item>しない</item>
+		<item>当日</item>
+		<item>前日</item>
+		<item>2日前</item>
+		<item>1週間前</item>
+		<item>2週間前</item>
   	</string-array>
 
 	<string-array name="nth_day_of_the_month">
@@ -194,15 +194,15 @@
 	    <item>29日</item>
 	    <item>30日</item>
 	    <item>31日</item>
-  </string-array>
+	</string-array>
 
-    <string name="display_direction">方向を表示する</string>
+    <string name="display_direction">表示順序</string>
 	<string-array name="sort_direction_items">
-	    <item>増加</item>
-	    <item>減少</item>
+		<item>昇順</item>
+		<item>降順</item>
 	</string-array>
 	<string-array name="sort_direction_title_bar">
-	    <item>増加する</item>
-	    <item>減少する</item>
+		<item>昇順</item>
+		<item>降順</item>
 	</string-array>
 </resources>

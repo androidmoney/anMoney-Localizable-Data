@@ -116,7 +116,6 @@
     <string name="next_check_number">Número de cheque siguiente</string>
     <string name="cleared_transactions_color">Color de transacciones autorizadas</string>
     <string name="reconciled_transactions_color">Color de transacciones conciliadas</string>
-    <string name="create_transaction_instructions_format">Para crear una transacción, pulsa el botón ^i en la parte superior de la pantalla</string>
     <string name="text_filter">Filtro de texto</string>
     <string name="profit_and_loss_statement">Declaración de Ganancias &amp; Pérdidas</string>
 	<string name="transaction_type">Tipo de transacción</string>

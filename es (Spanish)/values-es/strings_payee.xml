@@ -16,7 +16,6 @@
     <string name="call">Llamar</string>
     <string name="map_address">Mostrar en el mapa</string>
     <string name="no_payees">No tienes ningún beneficiario</string>
-    <string name="create_payee_instructions_format">Para crear un beneficiario, pulsa el botón ^i en la parte superior de la pantalla</string>
     <string name="payee_transaction_list_empty">No tienes ninguna transacción para este beneficiario</string>
     <string name="payee_exists">Ya hay un beneficiario con ese nombre</string>
     <string name="combine_payees">Te gustaría combinar los dos beneficiarios</string>

@@ -13,7 +13,6 @@
     <string name="add_financial_institution_as_a_contact">Afegir inst. fin. com a contacte</string>
     <string name="financial_institution_exists">Ja existeix una institució financera amb aquest nom</string>
     <string name="no_financial_institutions">No teniu institucions financeres</string>
-    <string name="create_financial_institution_instructions_format">Per a crear una institució financera, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->
     <string name="view_financial_institutions">Mostrar institucions financeres</string>
     <string name="financial_institution_name">Nom de la institució financera</string>
     <string name="contact_exists">Ja existeix un contacte amb aquest nom</string>

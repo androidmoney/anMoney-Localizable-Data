@@ -34,8 +34,6 @@
     <string name="no_categories_expense">Отсутствуют расходные категории</string>
     <string name="no_categories_income">Отсутствуют приходные категории</string>
     <string name="no_classes">Отсутствуют классы</string>
-    <string name="create_category_instructions_format">Для создания категорий, нажмите ^i в верхней части экрана</string>
-    <string name="create_class_instructions_format">Для создания классов, нажмите ^i в верхней части экрана</string>
     <string name="uncategorized_transactions">Транзакции без категории</string>
     <string name="delete_category_no_subcategories_warning_format">Категория ^1 будет удалена</string>
     <string name="delete_class_no_subclass_warning_format">Класс ^1 будет удалён</string>

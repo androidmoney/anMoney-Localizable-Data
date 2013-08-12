@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources> 
     <string name="search">検索</string>
-    <string name="search_transactions">トランザクションの検索</string>
-    <string name="no_matching_transactions">適合するトランザクションは見つかりません</string>
+    <string name="search_transactions">取り引きの検索</string>
+    <string name="no_matching_transactions">適合する取り引きは見つかりません</string>
 </resources>

@@ -34,8 +34,6 @@
     <string name="no_categories_expense">No teniu cap categoria de despesa</string>
     <string name="no_categories_income">No teniu cap categoria d’ingrés</string>
     <string name="no_classes">No teniu cap classe</string>
-    <string name="create_category_instructions_format">Per a crear una categoria, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->
-    <string name="create_class_instructions_format">Per a crear una classe, toqui ^i a la part superior de la pantalla</string> <!-- ^1 will be replaced by an image -->
     <string name="uncategorized_transactions">Transaccions sense categoria</string>
     <string name="delete_category_no_subcategories_warning_format">La categoria ^1 serà esborrada de forma permanent</string>
     <string name="delete_class_no_subclass_warning_format">La classe ^1 serà esborrada de forma permanent</string>

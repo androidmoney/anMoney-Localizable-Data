@@ -116,7 +116,6 @@
     <string name="next_check_number">Číslo příštího šeku</string>
     <string name="cleared_transactions_color">Barva zkontrolovaných transakcí</string>
     <string name="reconciled_transactions_color">Brava odsouhlasených transakcí</string>
-	<string name="create_transaction_instructions_format">Pro zadání transakce, stiskněte ^i v horní části obrazovky</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">Textový filtr</string>
     <string name="profit_and_loss_statement">Přehled příjmů a výdajů</string>
 	<string name="transaction_type">Typ transakce</string>

@@ -63,7 +63,6 @@
 	<string name="delete_account_warning_part1_format">Konto ^1 wird dauerhaft gelöscht.\n\nDa dieses Konto auch in den Transaktionen verwendet wird, werden alle verbundenen Transaktionen somit auch gelöscht</string>
 	<string name="delete_account_warning_part2_format">Um das Konto zu verstecken, aber die Transaktions-Historie zu sichern, drücke ^1 und schließen Sie das Konto</string>
 	<string name="no_accounts">Sie haben keine Konten</string>
-    <string name="create_account_instructions_format">Um ein Konto zu erstellen, drücken Sie ^i oben auf den Bildschirm</string>
 	<string name="no_transactions_for_account">Sie haben keine Transaktionen für dieses Konto</string>
 	<string name="account_type">Konten-Art</string>
 	<string name="account_type_bank_first">Konten-Typ mit Bank-Konten am Anfang</string>

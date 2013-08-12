@@ -64,7 +64,6 @@
 	<string name="delete_account_warning_part1_format">Contul ^1 va fi şters permanent.\n\nDeoarece acest cont este folosit în trazacţii, toate tranzacțiile legate de el vor fi Şterse de asemenea</string>
 	<string name="delete_account_warning_part2_format">Pentru a ascunde contul, dar salva istoricul tranzacţiilor, apasă ^1 şi închide contul în schimb</string>
 	<string name="no_accounts">Nu aveţi niciun cont</string>
-    <string name="create_account_instructions_format">Pentru a crea un cont, apasă ^i în partea de sus a ecranului</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">Nu aveţi nicio tranzacţie pentru acest cont</string>
     <string name="account_type">Tipul contului</string>
     <string name="account_type_bank_first">Tipul contului cu conturile bancă primele</string>

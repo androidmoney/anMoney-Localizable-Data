@@ -116,7 +116,6 @@
     <string name="next_check_number">அடுத்த காசோலை எண்</string>
     <string name="cleared_transactions_color">தெளிவாக்கப்பட்ட பரிவர்த்தனைகளின் நிறம்</string> <!-- As in "color of cleared transactions" -->
     <string name="reconciled_transactions_color">சமரசமாக்கப்பட்ட பரிவர்த்தனைகளின் நிறம்</string> <!-- As in "color of teconciled transactions" -->
-	<string name="create_transaction_instructions_format">ஒரு பரிவர்த்தனையை உருவாக்க, திரையின் மேலே உள்ள ^i ஐ தொடு</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">உரை வடிகட்டி</string>
     <string name="profit_and_loss_statement">லாபம் &amp; நஷ்டம் அறிக்கை</string>
 	<string name="transaction_type">பரிவர்த்தனை வகை</string>

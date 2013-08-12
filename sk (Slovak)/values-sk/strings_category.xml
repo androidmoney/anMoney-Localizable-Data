@@ -35,8 +35,6 @@
     <string name="no_categories_expense">Nemáte žiadne kategórie výdajov</string>
     <string name="no_categories_income">Nemáte žiadne kategórie príjmov</string>
     <string name="no_classes">Nemáte žiadne triedy</string>
-    <string name="create_category_instructions_format">Ak chcete vytvoriť kategóriu, zvoľte ^i v hornej časti obrazovky</string>
-    <string name="create_class_instructions_format">Pre vytvorenie triedy, zvoľte ^i v hornej časti obrazovky</string>
     <string name="uncategorized_transactions">Nezaradené transakcie</string>
     <string name="delete_category_no_subcategories_warning_format">Kategória ^1 bude navždy zmazaná</string>
     <string name="delete_class_no_subclass_warning_format">Trieda ^1 bude navždy zmazaná</string>

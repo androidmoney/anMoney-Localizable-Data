@@ -63,7 +63,6 @@
 	<string name="delete_account_warning_part1_format">El compte ^1 serà esborrat de forma permanent.\n\nDegut a que aquest compte es fa servir a transaccions, totes les transaccions relacionades seran igualment esborrades</string>
 	<string name="delete_account_warning_part2_format">Per amagar el compte, però salvar l’històric de les transaccions, en comptes d’això, toqui ^1 i tanqui el compte</string>
 	<string name="no_accounts">No té cap compte</string>
-    <string name="create_account_instructions_format">Per a crear un compte, toqui ^i a la part superior de la pantalla</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">No hi ha transaccions en aquest compte</string>
     <string name="account_type">Tipus de compte</string>
     <string name="account_type_bank_first">Tipus de compte amb comptes bancaris en primer lloc</string>

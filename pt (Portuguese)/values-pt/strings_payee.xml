@@ -16,7 +16,6 @@
     <string name="call">Chamar</string>
     <string name="map_address">Mapa do endereço</string>
     <string name="no_payees">Você não tem nenhum beneficiário</string>
-    <string name="create_payee_instructions_format">Para criar um beneficiário, toque ^i no topo da tela</string>
     <string name="payee_transaction_list_empty">Você não tem transações para este beneficiário</string>
     <string name="payee_exists">Um beneficiário com este nome já existe</string>
     <string name="combine_payees">Você gostaria de relacionar estes dois beneficiários</string>

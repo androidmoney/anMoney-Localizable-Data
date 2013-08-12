@@ -116,7 +116,6 @@
     <string name="next_check_number">Següent número de xec</string>
     <string name="cleared_transactions_color">Color de les transaccions autoritzades</string>
     <string name="reconciled_transactions_color">Color de les transaccions conciliades</string>
-	<string name="create_transaction_instructions_format">Per a crear una transacció, toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an icon --> 
     <string name="text_filter">Filtre de text</string>
     <string name="profit_and_loss_statement">Situació de Pèrdues i Guanys</string>
 	<string name="transaction_type">Tipus de transacció</string>

@@ -34,8 +34,6 @@
     <string name="no_categories_expense">Sie haben keine Ausgabe-Kategorien</string>
     <string name="no_categories_income">Sie haben keine Einnahme-Kategorien</string>
     <string name="no_classes">Sie haben keine Klassen</string>
-    <string name="create_category_instructions_format">Um Kategorien zu erstellen, drücken Sie ^i oben auf den Bildschirm</string>
-    <string name="create_class_instructions_format">Um Klassen zu erstellen, drücken Sie ^i oben auf den Bildschirm</string>
 	<string name="uncategorized_transactions">Transaktionen ohne Kategorie</string>
 	<string name="delete_category_no_subcategories_warning_format">Kategorie ^1 wird dauerhaft gelöscht</string>
 	<string name="delete_class_no_subclass_warning_format">Klasse ^1 wird dauerhaft gelöscht</string>

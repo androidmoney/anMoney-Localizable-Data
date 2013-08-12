@@ -64,7 +64,6 @@
 	<string name="delete_account_warning_part1_format">Счёт ^1 будет удалён.\n\nВсе транзакции по счёту также будут удалены</string>
 	<string name="delete_account_warning_part2_format">Чтобы скрыть счёт, но сохранить историю транзакций, нажмите ^1 и закройте счёт вместо удаления</string>
 	<string name="no_accounts">Нет ни одного счёта</string>
-    <string name="create_account_instructions_format">Чтобы создать счёт, нажмите ^i в верхней части экрана</string>
     <string name="no_transactions_for_account">По счёту нет ни одной транзакции</string>
     <string name="account_type">Тип счёта</string>
     <string name="account_type_bank_first">Сначала банковские счета</string>

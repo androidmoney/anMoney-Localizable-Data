@@ -64,7 +64,6 @@
 	<string name="delete_account_warning_part1_format">Conta ^1 será excluída de forma permanente.\n\Uma vez que esta conta estiver sendo usada em transações, todas as transações relacionadas serão eliminadas também</string>
 	<string name="delete_account_warning_part2_format">Para ocultar a conta, mas salvar o histórico de transações, toque ^1 e feche a conta ao invés disso</string>
 	<string name="no_accounts">Você não tem nenhuma conta</string>
-    <string name="create_account_instructions_format">Para criar uma conta, toque ^i no topo da tela</string>
     <string name="no_transactions_for_account">Você não tem nenhuma transação para esta conta</string>
     <string name="account_type">Tipo de conta</string>
     <string name="account_type_bank_first">Conta bancária primeiro</string>

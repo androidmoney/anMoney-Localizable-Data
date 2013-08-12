@@ -64,7 +64,6 @@
 	<string name="delete_account_warning_part1_format">帳戶^1將被永久刪除。\n\n由於此帳戶下有交易項目，故與此帳戶相關的所有交易將被一併刪除</string>
 	<string name="delete_account_warning_part2_format">如果只想隱藏帳戶及保存交易記錄，點擊^1返回並選擇「關閉帳號」</string> <!-- ^1 = OK -->
 	<string name="no_accounts">您沒有任何帳戶</string>
-    <string name="create_account_instructions_format">要設立一個帳戶，請點選畫面上方^i</string>  <!-- ^i will be replaced by an icon -->
     <string name="no_transactions_for_account">您沒有該帳戶的任何交易</string>
     <string name="account_type">帳戶類型</string>
     <string name="account_type_bank_first">帳戶類型—銀行帳戶優先</string>
