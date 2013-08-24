@@ -91,7 +91,7 @@
     <string name="password_disclaimer">以下の免責条項を読んで最後のチェックボックスをチェックして下さい\n\nパスワードのしくみは「詮索好きな目」からプライバシーを保護する一手法として設計されたものです。しかし、この端末のプラットホームの制約からデータを真に暗号化することができないため、たとえパスワードが設定されていても、高度な技能を有している人ならデータにアクセスすることができます。\n\nご自身の端末をロックパターンあるいは PINによって保護されることを強くおすすめします</string>
     <string name="i_understand_the_limitations">制約条件を了解しました</string>
     <string name="set_password_now_part1">パスワードを設定しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_password_now_part2_format">ここで^1としても、会計簿の名前を長押しして^2を選択することで、いつでもパスワードを設定できます</string>
+	<string name="set_password_now_part2_format">ここで^1としても、画面上方のメニューから^2を選択することで、いつでもパスワードを設定できます</string>
     <string name="folder_name_format">フォルダ名（サブフォルダには ^1を使用）</string>
     <string name="no_backup_files">バックアップファイルが見つかりません</string>
 	<string name="no_backup_files_new_instructions">インポートファイルを使って会計簿を作成する場合には、まず最初に空の会計簿を作成し、これにインポートして下さい</string>
@@ -115,7 +115,7 @@
 <!-- New --> <string name="become_a_fan">Become a fan</string>
     <string name="haptic_feedback">バイブレーション</string>
     <string name="haptic_feedback_description">選択した場合、タップ時に振動する</string>
-<!-- New -->	<string name="default_book_name">My book</string>
+	<string name="default_book_name">私の会計簿</string>
 	<string name="color_theme">カラーテーマ</string>
 	<string name="dark">ダーク</string> <!-- As in "dark color theme" -->
 	<string name="light">ライト</string> <!-- As in "opposite of dark" -->
@@ -160,7 +160,7 @@
     <string name="starting_screen">起動時画面</string>
     <string name="negative_amount_format">負数の表示形式</string>
     
-    <string name="show_currency_symbol">通貨記号の表示</string>
+    <string name="show_currency_symbol">通貨記号の位置</string>
 	<string-array name="show_currency_symbol_items">
 		<item>通貨に依存</item>
 		<item>金額の前</item>

@@ -161,7 +161,6 @@
         <item>depozitul</item>
     </string-array>
 
-	<string name="delete_transaction_warning">Tranzacţia a fost ştearsă</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>Tranzacţiile ^1 selectate vor fi şterse</item>

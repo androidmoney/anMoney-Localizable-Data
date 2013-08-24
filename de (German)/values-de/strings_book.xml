@@ -91,7 +91,7 @@
 	<string name="password_disclaimer">Bitte lesen Sie den Haftungsausschluss und aktivieren Sie die Check-Box am Ende.\n\nBeachten Sie, dass der Passwortschutz als Gegenmaßnahme für „neugierige Augen“ gedacht ist. Wegen technischer Beschränkungen Ihres Gerätes kann kein absoluter Schutz gewährleistet werden. Jemand ist fortgeschrittenen Kenntnissen könnte in der Lage sein, sich  trotz Passworts Zutritt zu Ihren Daten zu verschaffen.\n\nEs wird ausdrücklich empfohlen, Ihr Gerät zusätzlich mit einem Zugangscode oder einer PIN abzusichern</string>
 	<string name="i_understand_the_limitations">Ich habe diese Einschränkungen verstanden</string>
 	<string name="set_password_now_part1">Passwort jetzt setzen</string>
-    <string name="set_password_now_part2_format">Sogar wenn Sie mit ^1 antworten, haben Sie jederzeit die Möglichkeit, ein Passwort zu vergeben. Drücken Sie dazu lange auf den Namen der Mappe und drücken Sie erneut ^2</string>
+<!-- New --> <string name="set_password_now_part2_format">Sogar wenn Sie mit ^1 antworten, haben Sie jederzeit die Möglichkeit, ein Passwort zu vergeben. Drücken Sie dazu lange auf den Namen der Mappe und drücken Sie erneut ^2</string>
 	<string name="folder_name_format">Ordnername (^1 für Unterordner benutzen)</string>
 	<string name="no_backup_files">Keine Backup-Dateien gefunden</string>
 	<string name="no_backup_files_new_instructions">Eine neue Mappe kann nicht durch Importieren angelegt werden. Bitte legen Sie zuerst eine neue Mappe selbst an und importieren danach</string>

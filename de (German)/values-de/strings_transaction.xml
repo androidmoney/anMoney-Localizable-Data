@@ -161,7 +161,6 @@
 		<item>die Einzahlung</item>
 	</string-array>
 
-	<string name="delete_transaction_warning">Transaktion werden gelöscht</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
 		<item>^1 ausgewählte Transaktionen werden gelöscht</item>

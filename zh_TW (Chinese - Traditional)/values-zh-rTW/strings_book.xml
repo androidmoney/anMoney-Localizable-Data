@@ -91,7 +91,7 @@
     <string name="password_disclaimer">請仔細閱讀本免責聲明並在最後勾選方塊。\n\n請注意密碼保護功能是用作防止「偷窺者」侵犯使用者隱私。由於平台的侷限性，實際的數據加密是不可行的。即使目前已設置密碼，擁有進階技巧的人仍可能讀取您的資料。\n\n強烈建議您以鎖屏或PIN碼的加密方式保護您的設備。</string>
     <string name="i_understand_the_limitations">我明白這些限制</string>
     <string name="set_password_now_part1">是否現在設置密碼</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_password_now_part2_format">就算您選擇^1，您可以隨時長按記帳本名稱及點擊^2以設定密碼</string>
+<!-- New --> <string name="set_password_now_part2_format">就算您選擇^1，您可以隨時長按記帳本名稱及點擊^2以設定密碼</string>
     <string name="folder_name_format">文件夾名稱 （使用^1建立子文件夾）</string>
     <string name="no_backup_files">未找到備份檔案</string>
     <string name="no_backup_files_new_instructions">如果您嘗試使用匯入檔案創建一本記帳本，請重新建立一個新的記帳本，然後再匯入</string>

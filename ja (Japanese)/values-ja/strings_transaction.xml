@@ -161,7 +161,6 @@
         <item>入金</item>
     </string-array>
 
-	<string name="delete_transaction_warning">取り引きを削除します</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item>選択した^1は削除されます</item>
         <item/> <!-- Not used -->
@@ -170,7 +169,7 @@
     <string name="delete_transaction_warning_all">取り引きは<b>すべて</b>削除されます</string>
 	<string name="delete_transaction_warning_reconciled">調整済みの取り引きが削除されます</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
-		<item>^1が削除されます。これらには調整済み取り引きが含まれています（調整済み取り引きが含まれています）</item>
+		<item>^1件が削除されます。これらには調整済み取り引きが含まれています</item>
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>

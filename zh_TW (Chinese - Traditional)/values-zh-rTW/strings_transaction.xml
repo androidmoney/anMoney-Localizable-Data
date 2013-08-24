@@ -161,7 +161,6 @@
         <item>存款額</item>
     </string-array>
 
-	<string name="delete_transaction_warning">交易將會被刪除</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item>選定的^1交易將會被刪除</item>
         <item/> <!-- Not used -->

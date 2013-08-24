@@ -20,8 +20,8 @@
 	<string name="entire_series">Всю серию</string>
     <string name="edit_template_warning">В серии есть изменённые операции.\n\nИзменение серии приведет к отмене изменений операций</string>
 	<string name="delete_recurring">Удалить операцию</string>
-    <string name="delete_recurring_warning_part1_format">Удалить ^1</string>
-	<string name="delete_recurring_warning_part2">Все повторы будут удалены</string>
+    <string name="delete_question_format">Удалить ^1</string>
+	<string name="all_future_occurrences_will_be_deleted">Все повторы будут удалены</string>
 	<string name="change_recurring_amount_format">Изменить сумму запланированной операции с ^1 на ^2</string>
 	<string name="skip">Пропустить</string>
 	<string name="skip_occurrence">Пропустить операцию</string>

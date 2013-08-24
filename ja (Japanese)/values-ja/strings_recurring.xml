@@ -20,8 +20,8 @@
 	<string name="entire_series">シリーズ全体</string>
 	<string name="edit_template_warning">次回以降の取り引きで変更の加えられているものがあります。\n\nシリーズを編集するとこれらの変更は破棄されます</string>
 	<string name="delete_recurring">自動継続の削除</string>
-	<string name="delete_recurring_warning_part1_format">^1を消去しますか</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
-	<string name="delete_recurring_warning_part2">今後の取り引きはすべて削除されます</string>
+	<string name="delete_question_format">^1を消去しますか</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="all_future_occurrences_will_be_deleted">今後の取り引きはすべて削除されます</string>
 	<string name="change_recurring_amount_format">自動継続の金額を^1から^2に変更しますか</string> <!-- This is a question -->
 	<string name="skip">スキップ</string>
 	<string name="skip_occurrence">取り引きをスキップ</string>
@@ -35,7 +35,7 @@
 	<string name="skip_which">どれをスキップしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="skip_one_occurrence_warning">次回の取り引きをスキップしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="no_recurrings_format">自動継続請求・入金は設定されていません\n\n作成するには:\n\n<li>^1</li>\n\n<li>取り引きを長押しして、^2をタップしてください</li></string>
-    <string name="create_recurring_instructions_format">画面上方の^iをタップ</string> <!-- ^i will be replaced by an image -->
+    <string name="create_recurring_instructions_format">画面上方の^iをタップしてください</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">自動継続項目を設定する前に口座と支払先を作成してください</string>
 	<string name="specify_account">はじめに口座を指定して下さい</string>
 	<string name="account_and_amount">口座と金額</string>
@@ -275,7 +275,7 @@
 	<string name="period_end_day_of_the_month">月の終了日</string>
 	<string name="fiscal_year">会計年度</string>
 	
-	<string name="time_of_reminder">事前通知の時期</string>
+	<string name="time_of_reminder">事前通知の時間</string>
 	<string name="reminder_hour_of_day_change_warning">設定済みの事前通知はここでは変更されません。デバイスのカレンダー機能で変更してください\n\n新しく設定された時刻が次回の自動継続請求/入金および他の事前通知で使用されます</string>
 	
 	<string-array name="auto_enter_days_before">

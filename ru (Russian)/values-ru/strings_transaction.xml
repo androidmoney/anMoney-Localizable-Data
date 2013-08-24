@@ -161,7 +161,6 @@
         <item>пополнение</item>
     </string-array>
 
-	<string name="delete_transaction_warning">Транзакция будет удалена</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item>^1 транзакция будет удалена</item>
         <item>^1 транзакции будут удалены</item>

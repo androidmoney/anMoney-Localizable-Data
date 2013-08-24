@@ -61,8 +61,8 @@
     <string name="copy_account_number">Számlaszám másolása</string>
     <string name="book_total">Könyv összeg</string>
     <string name="favorites_total">Kedvencek összege</string>
-	<string name="delete_account_warning_part1_format">A számla ^1 véglegesen le lesz törölve.\n\nMivel ezt a számlát használta tranzakciókban, valamennyi kapcsolódó tranzakció is le lesz törölve</string>
-	<string name="delete_account_warning_part2_format">Ha el szeretné rejteni a számlát, de meg is akarja tartani a történetét, érintse meg a ^1-t és zárja le a számlát helyette</string>
+	<string name="delete_account_warning_part1_format">A(z) ^1 számla véglegesen le lesz törölve.\n\nMivel ezt a számlát használta tranzakciókban, valamennyi kapcsolódó tranzakció is le lesz törölve</string>
+	<string name="delete_account_warning_part2_format">Ha el szeretné rejteni a számlát, de meg is akarja tartani a történetét, érintse meg a <b>Mégset</b> és zárja le a számlát helyette</string>
 	<string name="no_accounts">Nincsenek számlái</string>
     <string name="no_transactions_for_account">Nincsenek tranzakciói ebben a számlában</string>
     <string name="account_type">Számla típusa</string>

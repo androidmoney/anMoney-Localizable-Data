@@ -6,7 +6,6 @@
     <string name="edit_split">Upraviť rozdelenie</string>
     <string name="edit_splits">Zmena rozdelení</string>
     <string name="delete_split">Odstrániť rozdelenie</string>
-	<string name="delete_split_warning">Rozdelenie bude zmazané</string>
 	<string name="sum_of_splits">Súčet rozdelení</string>
 	<string name="unassigned">Nepriradené</string>
 	<string name="transaction_total">Súčet transakcií</string>

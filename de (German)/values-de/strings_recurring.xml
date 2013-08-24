@@ -20,8 +20,8 @@
 	<string name="entire_series">Ganze Serie</string>
 	<string name="edit_template_warning">Es gibt eigens erstellte Häufigkeiten in der Zukunft.\n\nGBeim Ändern werden diese Anpassungen entfernt</string>
 	<string name="delete_recurring">Wiederkehrende Buchung löschen</string>
-	<string name="delete_recurring_warning_part1_format">Löschen ^1</string>
-	<string name="delete_recurring_warning_part2">Alle Vorkommen in der Zukunft werden gelöscht</string>
+	<string name="delete_question_format">Löschen ^1</string>
+	<string name="all_future_occurrences_will_be_deleted">Alle Vorkommen in der Zukunft werden gelöscht</string>
 <!-- New --> <string name="change_recurring_amount_format">Change the recurring amount from ^1 to ^2</string>
 	<string name="skip">Überspringen</string>
 	<string name="skip_occurrence">Vorfall überspringen</string>

@@ -91,7 +91,7 @@
     <string name="password_disclaimer">Vă rog să citiţi această Declinare a responsabilităţii şi să bifaţi în căsuţa de la sfârşit.\n\nReţineţi că facilitatea de parolare a fost proiectată ca o modalitate de a oferii confidenţialitate faţă de ochi indiscreşi.  Datorită limitărilor platformei, criptarea datelor nu este fezabilă şi cineva cu abilităţi avansate poate accesa datele dumneavoastră chiar dacă sunt parolate.\n\nEste foarte recomandat să vă protejați dispozitivul cu un tipar de blocare sau PIN pentru o securitate sporită</string>
     <string name="i_understand_the_limitations">Înţeleg aceste limitări</string>
     <string name="set_password_now_part1">Setaţi o parolă acum</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_password_now_part2_format">Chiar dacă ai răspuns ^1, vei avea opţiunea de a seta o parolă oricând prin apăsarea lungă pe numele registrului şi apăsarea ^2</string>
+<!-- New --> <string name="set_password_now_part2_format">Chiar dacă ai răspuns ^1, vei avea opţiunea de a seta o parolă oricând prin apăsarea lungă pe numele registrului şi apăsarea ^2</string>
     <string name="folder_name_format">Numele directorului (foloseşte ^1 pentru sub-directoare)</string>
     <string name="no_backup_files">Niciun fişier de rezervă nu a fost găsit</string>
     <string name="no_backup_files_new_instructions">Dacă încerci să creezi un registru folosind un fişier importat, te rog să creezi un registru nou mai întâi, şi apoi să imporţi în el</string>

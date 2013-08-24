@@ -27,12 +27,12 @@
     <string name="currently_yearly_format">aktuálne ^1 ročne</string>
     <string name="currently_custom_format">podľa vlastného plánu, celkom ^1 za rok</string>
     <string name="budget_no_categories_yet">Pred vytvorením rozpočtu prosím vytvorte kategórie</string>
+    <string name="budget_no_accounts_yet">Pred vytvorením rozpočtu prosím vytvorte účty</string>
     <string name="select_budget_period">Obdobie pre zobrazenie rozpočtu</string>
 	<string name="all_others">Všetky ostatné</string>
     <string name="all_other_spending">Všetky ostatné výdaje</string>
     <string name="special_item">Zvláštny záznam</string>
     <string name="no_budget_items">Nemáte žiadne položky rozpočtu</string>
-    <string name="create_budget_item_instructions_format">Pre zadanie položiek rozpočtu, zvoľte ^i v hornej časti obrazovky</string> <!-- ^i will be replaced by an image -->
     <string name="customized_schedule">Vlastný plán</string> <!-- As in "Customized monthly budget amounts" -->
 	<string name="include_budget_items">Zahrnúť rozpočty</string> <!-- as in "Include budget items on report" -->
 </resources>

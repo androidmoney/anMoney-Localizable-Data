@@ -6,7 +6,6 @@
 	<string name="edit_split">Splitbuchung ändern</string>
 	<string name="edit_splits">Splitbuchungen ändern</string>
 	<string name="delete_split">Splitbuchung löschen</string>
-	<string name="delete_split_warning">Splitbuchung wird gelöscht</string>
 	<string name="sum_of_splits">Splitbuchungen</string>
 	<string name="unassigned">Nicht zugewiesen</string>
 	<string name="transaction_total">Transaktion</string>

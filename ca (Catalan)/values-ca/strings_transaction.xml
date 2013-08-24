@@ -161,7 +161,6 @@
         <item>el dipòsit</item>
     </string-array>
 
-	<string name="delete_transaction_warning">La transacció serà esborrada</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 transaccions seleccionades seran esborrades</item>

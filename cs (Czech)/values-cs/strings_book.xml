@@ -91,7 +91,7 @@
     <string name="password_disclaimer">Přečtěte si toto prohlášení a zaškrtněte políčko na konci.\n\nPřipomínáme, že funkce hesla byla navržena jako způsob, jak zajistit soukromí od „zvědavých očí“. Z důvodu omezení platformy skutečné šifrování dat není možné a někdo s pokročilými dovednostmi by mohl získat přístup k datům i přes použití hesla.\n\nPro zvýšení zabezpečení doporučujeme chránit zařízení použitím zámku nebo PINu</string>
     <string name="i_understand_the_limitations">Rozumím těmto omezením</string>
     <string name="set_password_now_part1">Nastavit heslo</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_password_now_part2_format">Přestože odpovíte ^1, budete mít možnost nastavit heslo kdykoli dlouhým podržením názvu knihy a volbou ^2</string>
+<!-- New --> <string name="set_password_now_part2_format">Přestože odpovíte ^1, budete mít možnost nastavit heslo kdykoli dlouhým podržením názvu knihy a volbou ^2</string>
     <string name="folder_name_format">Název složky (použijte ^1 pro podsložky)</string>
     <string name="no_backup_files">Nenalezen žádný záložní soubor</string>
     <string name="no_backup_files_new_instructions">Pokud se pokoušíte vytvořit knihu pomocí importu, vytvořte, prosím, nejprve prázdnou knihu, následně do ní proveďte import</string>

@@ -27,12 +27,12 @@
     <string name="currently_yearly_format">現時点で年あたり^1</string>
     <string name="currently_custom_format">現時点の設定スケジュールで年あたり合計^1</string>
     <string name="budget_no_categories_yet">予算を設定する前にカテゴリーを作成してください</string>
+    <string name="budget_no_accounts_yet">予算を設定する前に口座を作成してください</string>
     <string name="select_budget_period">表示する予算期間を選択します</string>
     <string name="all_others">他のすべて</string>
     <string name="all_other_spending">他のすべての支出</string>
     <string name="special_item">特別項目</string>
     <string name="no_budget_items">予算項目がありません</string>
-    <string name="create_budget_item_instructions_format">画面上方の^iをタップして予算項目を作成します</string> <!-- ^i will be replaced by an image -->
     <string name="customized_schedule">指定された期間</string> <!-- As in "Customized monthly budget amounts" -->
 	<string name="include_budget_items">予算項目を含む</string> <!-- as in "Include budget items on report" -->
 </resources>

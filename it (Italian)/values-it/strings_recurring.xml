@@ -20,8 +20,8 @@
 	<string name="entire_series">L’intera serie</string>
 	<string name="edit_template_warning">Ci sono future occorrenze personalizzate.\n\nModificando le serie queste personalizzazioni verranno cancellate</string>
 	<string name="delete_recurring">Elimina ricorrenza</string>
-	<string name="delete_recurring_warning_part1_format">Elimina ^1</string>
-	<string name="delete_recurring_warning_part2">Tutte le future occorrenze saranno eliminate</string>
+	<string name="delete_question_format">Elimina ^1</string>
+	<string name="all_future_occurrences_will_be_deleted">Tutte le future occorrenze saranno eliminate</string>
 	<string name="change_recurring_amount_format">Cambia l’importo ricorrente da ^1 a ^2</string>
 	<string name="skip">Salta</string>
 	<string name="skip_occurrence">Salta occorrenza</string>

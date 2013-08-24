@@ -20,8 +20,8 @@
 	<string name="entire_series">Všechny výskyty</string>
 	<string name="edit_template_warning">Máte naplánované budoucí upravené výskyty.\n\nZměnou trvalého příkazu budou tyto úpravy odstraněny</string>
 	<string name="delete_recurring">Smazat trvalý příkaz</string>
-	<string name="delete_recurring_warning_part1_format">Smazat ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
-	<string name="delete_recurring_warning_part2">Všechny budoucí výsktyt budou odstraněny</string>
+	<string name="delete_question_format">Smazat ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="all_future_occurrences_will_be_deleted">Všechny budoucí výsktyt budou odstraněny</string>
 	<string name="change_recurring_amount_format">Změnit částku trvalého příkazu z ^1 na ^2</string>
 	<string name="skip">Vynechat</string>
 	<string name="skip_occurrence">Vynechat provedení</string>

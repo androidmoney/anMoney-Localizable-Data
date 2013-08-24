@@ -93,7 +93,7 @@
     <string name="password_disclaimer">Please read this disclaimer and check the box at end.\n\nNote that the password feature was designed as a way to provide privacy from “prying eyes.”  Due to the limitations of the platform, actual encryption of the data is not feasible and somebody with advanced skills could access your data even with a password present.\n\nIt is highly recommended that you protect your device with a lock pattern or PIN for additional security</string>
     <string name="i_understand_the_limitations">I understand these limitations</string>
     <string name="set_password_now_part1">Set a password now</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_password_now_part2_format">Even if you answer ^1, you will have the option to set a password at any time by long-tapping on the book’s name and tapping ^2</string>
+	<string name="set_password_now_part2_format">Even if you answer ^1, you will have the option to set a password at any time by selecting ^2 from the menu at the top of the screen</string>
     <string name="folder_name_format">Folder name (use ^1 for subfolders)</string>
     <string name="no_backup_files">No backup files found</string>
     <string name="no_backup_files_new_instructions">If you are trying to create a book using an import file, please create a book from scratch first, then import into it</string>

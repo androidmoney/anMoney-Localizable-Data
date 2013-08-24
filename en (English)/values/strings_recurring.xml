@@ -22,8 +22,8 @@
 	<string name="entire_series">Entire series</string>
 	<string name="edit_template_warning">There are customised future occurrences.\n\nEditing the series will remove these customisations</string>
 	<string name="delete_recurring">Delete recurring</string>
-	<string name="delete_recurring_warning_part1_format">Delete ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
-	<string name="delete_recurring_warning_part2">All future occurrences will be deleted</string>
+	<string name="delete_question_format">Delete ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="all_future_occurrences_will_be_deleted">All future occurrences will be deleted</string>
 	<string name="change_recurring_amount_format">Change the recurring amount from ^1 to ^2</string> <!-- This is a question -->
 	<string name="skip">Skip</string>
 	<string name="skip_occurrence">Skip occurrence</string>

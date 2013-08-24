@@ -91,7 +91,7 @@
 	<string name="password_disclaimer">Lisez attentivement cet avertissement puis cochez la case.\n\nVeuillez noter que la fonction « mot de passe » a été créée pour vous protéger des « regards indiscrets. » Du fait des limitations de la plateforme, un véritable cryptage des données s’avère néanmoins impossible, et malgré la présence d’un mot de passe, toute personne suffisamment compétente sera en mesure d’accéder à vos données.\n\nIl vous est fortement recommandé de protéger votre appareil à l’aide d’un motif de blocage ou d’un code PIN additionnel</string>
 	<string name="i_understand_the_limitations">Je comprends ces limitations</string>
 	<string name="set_password_now_part1">Définir le mot de passe tout de suite</string>
-    <string name="set_password_now_part2_format">Même si vous répondez ^1, vous pourrez définir un mot de passe à tout moment en effectuant une pression longue sur le nom du livre et en appuyant sur ^2</string>
+<!-- New --> <string name="set_password_now_part2_format">Même si vous répondez ^1, vous pourrez définir un mot de passe à tout moment en effectuant une pression longue sur le nom du livre et en appuyant sur ^2</string>
 	<string name="folder_name_format">Nom du dossier (utiliser ^1 pour les sous-dossiers)</string>
 	<string name="no_backup_files">Aucun fichier de sauvegarde trouvé</string>
 	<string name="no_backup_files_new_instructions">Pour créer un livre à partir d’un fichier d’importation, créez d’abord un livre vierge puis importez-y le fichier</string>

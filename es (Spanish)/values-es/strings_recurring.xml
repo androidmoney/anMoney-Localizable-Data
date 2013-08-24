@@ -20,8 +20,8 @@
 	<string name="entire_series">La serie completa</string>
 	<string name="edit_template_warning">Hay ocurrencias futuras de tipo personalizado.\n\nEditar la serie completa eliminará las personalizaciones</string>
 	<string name="delete_recurring">Eliminar elemento recurrente</string>
-	<string name="delete_recurring_warning_part1_format">Eliminar ^1</string>
-	<string name="delete_recurring_warning_part2">Se eliminarán todas las ocurrencias futuras</string>
+	<string name="delete_question_format">Eliminar ^1</string>
+	<string name="all_future_occurrences_will_be_deleted">Se eliminarán todas las ocurrencias futuras</string>
 	<string name="change_recurring_amount_format">Cambiar de ^1 a ^2 el importe recurrente</string>
 	<string name="skip">Omitir</string>
 	<string name="skip_occurrence">Omitir ocurrencia</string>

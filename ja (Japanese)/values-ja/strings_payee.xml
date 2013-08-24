@@ -18,7 +18,7 @@
     <string name="no_payees">支払先がありません</string>
     <string name="payee_transaction_list_empty">この支払先に関する取り引きはありません</string>
     <string name="payee_exists">同じ名前の支払先がすでに登録されています</string>
-    <string name="combine_payees">2つの支払先を結合しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="combine_payees">2つの支払先を統合しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="payee_name">支払先の名称</string>
     <string name="link_payee">この支払先を登録済みの連絡先と関連づけますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="account_number">口座番号</string>
@@ -31,7 +31,7 @@
     <string name="select_account">口座の選択</string>
     <string name="open_web_page">ウェブページをオープン</string>
     <string name="view_payees">支払先の表示</string>
-<!-- New --> <string name="default_payee_name">My payee</string>
+	<string name="default_payee_name">支払先</string>
 	<string name="spending_by_payee">支払先別の支出</string>
     <string name="all_payees_hidden_by_filter">すべての支払先がフィルターによって表示されていません</string>
         

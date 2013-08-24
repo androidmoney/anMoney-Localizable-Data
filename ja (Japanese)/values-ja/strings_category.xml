@@ -99,13 +99,13 @@
         <item/> <!-- Not used -->
 	</string-array>
 
-<!-- New -->	<string-array name="default_classifications">
-		<item>Family members</item>
-		<item>Properties</item>
-		<item>Projects</item>
-		<item>Hobbies</item>
-		<item>Vacations</item>
-		<item>Job expenses</item>
-		<item>Other</item>
+	<string-array name="default_classifications">
+		<item>家族</item>
+		<item>不動産</item>
+		<item>プロジェクト</item>
+		<item>趣味</item>
+		<item>休暇</item>
+		<item>必要経費</item>
+		<item>その他</item>
 	</string-array>
 </resources>

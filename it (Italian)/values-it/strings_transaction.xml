@@ -161,7 +161,6 @@
         <item>il deposito</item>
     </string-array>
 
-	<string name="delete_transaction_warning">La transazione sarà eliminata</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 transazioni selezionate saranno eliminate</item>

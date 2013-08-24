@@ -90,7 +90,7 @@
     <string name="password_disclaimer">Pročitajte uputu i označite kučicu na kraju.\n\nLozinka je napravljena na način da omogući sigurnost neželjenih pogleda. Zbog ograničenja u sustavu enkripcija nije jaka i bilo tko s naprednim znanjima može pristupiti podacima iako je lozinka postavljena.\n\nPreporuča se da zastitite uredaj PINom za dodatnu sigurnost</string>
     <string name="i_understand_the_limitations">Razumijem ograničenja</string>
     <string name="set_password_now_part1">Postavi lozinku</string>
-    <string name="set_password_now_part2_format">Iako odgovorite ^1, imate ćete opciju za postaviti lozinku tako da dugo pritisnete na knjižicu ^2</string>
+<!-- New --> <string name="set_password_now_part2_format">Iako odgovorite ^1, imate ćete opciju za postaviti lozinku tako da dugo pritisnete na knjižicu ^2</string>
     <string name="folder_name_format">Ime direktorija (upotrijebi ^1 za pod direktorij)</string>
     <string name="no_backup_files">Nema sigurnosne kopije na SD kartici</string>
     <string name="no_backup_files_new_instructions">Ako pokušavate stvoriti knjižicu iz uvozne datoteke, stvorite je iz početka i uvezite podatke u nju</string>

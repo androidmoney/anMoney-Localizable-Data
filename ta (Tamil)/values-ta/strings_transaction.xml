@@ -161,7 +161,6 @@
         <item>அந்த வைப்புநிதி</item>
     </string-array>
 
-	<string name="delete_transaction_warning">இந்த பரிவர்த்தனை அழிக்கப்பட்டுவிடும்</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 தேர்ந்தெடுக்கப்பட்ட பரிவர்த்தனைகள் அழிக்கப்பட்டுவிடும்</item>

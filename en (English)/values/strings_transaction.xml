@@ -163,7 +163,6 @@
         <item>the deposit</item>
     </string-array>
 
-	<string name="delete_transaction_warning">The transaction will be deleted</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
         <item>^1 selected transactions will be deleted</item>

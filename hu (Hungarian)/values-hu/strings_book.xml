@@ -91,7 +91,7 @@
     <string name="password_disclaimer">Legyen szíves és olvassa el ezt a nyilatkozatot és jelölje meg a négyzetet a végén.\n\nMegjegyezzük, hogy a jelszó funkció célja az volt, hogy kíváncsiskodó szemek ne tudják az adatait látni. A platform korlátai miatt az adatok tényleges titkosítása nem megvalósítható, és valaki fejlett készségekkel elérhet még jelszóval védett adatokat is.\n\nJavasoljuk, hogy további biztonság céljából védje a készülékét egy zár mintával vagy egy PIN-nel</string>
     <string name="i_understand_the_limitations">Értem ezeket a korlátozásokat</string>
     <string name="set_password_now_part1">Be akar állítani egy jelszót</string>
-    <string name="set_password_now_part2_format">Ha a ^1-et választja, akkor is bármikor be tudja állítani a jelszót. Csak hosszú-érintse meg a könyv nevét és érintse meg a ^2-t utána</string>
+    <string name="set_password_now_part2_format">Ha a <b>Nemet</b> választja, akkor is bármikor be tudja állítani a jelszót. Csak válassza ki a <b>Jelszó beállítását</b> a képernyő tetején lévő menüből</string>
     <string name="folder_name_format">A mappa neve (használd a ^1 karaktert almappákra)</string>
     <string name="no_backup_files">Nem találtam mentéseket</string>
     <string name="no_backup_files_new_instructions">Ha megpróbál létrehozni egy könyvet egy import fájlból, akkor először hozzon létre egy üres könyvet, és utána importáljon</string>

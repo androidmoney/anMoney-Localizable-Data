@@ -91,7 +91,7 @@
     <string name="password_disclaimer">Si prega di leggere attentamente la liberatoria e spuntare la casella alla fine.\n\nSi noti che la funzione della password è stata concepita come un modo per garantire la privacy da «occhi indiscreti». A causa delle limitazioni della piattaforma, la crittografia effettiva dei dati non è fattibile e qualcuno con competenze avanzate potrebbe accedere ai dati.\n\nSi consiglia vivamente di proteggere il dispositivo con un blocco o il PIN per ulteriore sicurezza</string>
     <string name="i_understand_the_limitations">Ho compreso queste limitazioni</string>
     <string name="set_password_now_part1">Impostare una password ora</string>
-    <string name="set_password_now_part2_format">Anche se si risponde ^1, si avrà la possibilità di impostare una password in qualsiasi momento a lungo toccando il nome del libretto ^2</string>
+<!-- New --> <string name="set_password_now_part2_format">Anche se si risponde ^1, si avrà la possibilità di impostare una password in qualsiasi momento a lungo toccando il nome del libretto ^2</string>
     <string name="folder_name_format">Nome cartella (usa ^1 per sottocartelle)</string>
     <string name="no_backup_files">Nessun file di backup trovato</string>
     <string name="no_backup_files_new_instructions">Se si sta cercando di creare un libretto con un file di importazione, si prega di crearne uno da zero, poi importarci sopra il backup</string>

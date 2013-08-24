@@ -20,8 +20,8 @@
 	<string name="entire_series">Az egész sorozatot</string>
 	<string name="edit_template_warning">Vannak már egyedi előfordulások.\n\nHa módosítja a sorozatot, ezek el fognak veszni</string>
 	<string name="delete_recurring">Ismétlődő törlése</string>
-	<string name="delete_recurring_warning_part1_format">Törölje a ^1-t</string>
-	<string name="delete_recurring_warning_part2">Az összes jövőbeli előfordulás le lesz törölve</string>
+	<string name="delete_question_format">Törölje a ^1-t</string>
+	<string name="all_future_occurrences_will_be_deleted">Az összes jövőbeli előfordulás le lesz törölve</string>
 	<string name="change_recurring_amount_format">Módosítsa az ismétlődő összeget ^1-ról ^2-ra</string>
 	<string name="skip">Kihagyás</string>
 	<string name="skip_occurrence">Előfordulás kihagyása</string>

@@ -20,8 +20,8 @@
 	<string name="entire_series">ஒட்டுமொத்த தொடர்கள்</string>
 	<string name="edit_template_warning">தனிப்பயன் எதிர்கால நிகழ்வுகள் உள்ளன.\n\nதொடரை திருத்துவதன் மூலம் இந்த தனிப்பயன் தகவுகளை நீக்கலாம்</string>
 	<string name="delete_recurring">தொடர்நிகழ்வை அழி</string>
-	<string name="delete_recurring_warning_part1_format">^1 ஐ அழி</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
-	<string name="delete_recurring_warning_part2">அனைத்து எதிர்கால நிகழ்வுகளும் அழிக்கப்பட்டுவிடும்</string>
+	<string name="delete_question_format">^1 ஐ அழி</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="all_future_occurrences_will_be_deleted">அனைத்து எதிர்கால நிகழ்வுகளும் அழிக்கப்பட்டுவிடும்</string>
 	<string name="change_recurring_amount_format">தொடர்நிகழ் தொகையை ^1 லிருந்து ^2 க்கு மாற்று</string> <!-- This is a question -->
 	<string name="skip">தவிர்</string>
 	<string name="skip_occurrence">நிகழ்வை தவிர்</string>

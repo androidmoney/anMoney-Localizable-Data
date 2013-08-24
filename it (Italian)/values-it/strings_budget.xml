@@ -27,12 +27,12 @@
 	<string name="currently_yearly_format">attualmente ^1 annuale</string>
     <string name="currently_custom_format">attualmente una stima personalizzata per un totale di ^1 annuali</string>
     <string name="budget_no_categories_yet">Si prega di creare delle categorie prima di impostare il bilancio</string>
+    <string name="budget_no_accounts_yet">Si prega di creare delle conti prima di impostare il bilancio</string>
     <string name="select_budget_period">Seleziona un periodo del budget da visualizzare</string>
     <string name="all_others">Tutte le altre</string>
     <string name="all_other_spending">Tutte le altre spese</string>
     <string name="special_item">Voce speciale</string>
     <string name="no_budget_items">Non hai impostato nessuna voce nel budget</string>
-	<string name="create_budget_item_instructions_format">Per creare voci nel budget, toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an image -->
     <string name="customized_schedule">Personalizza stima</string>
 	<string name="include_budget_items">Includi voci del budget</string> <!-- as in "Include budget items on report" -->
 </resources>

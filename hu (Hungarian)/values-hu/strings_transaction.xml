@@ -161,7 +161,6 @@
         <item>befizetésre</item>
     </string-array>
 
-	<string name="delete_transaction_warning">A tranzakciót le lesz törölve</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item>^1 kiválasztott tranzakció le lesz törölve</item>
         <item/> <!-- Not used -->

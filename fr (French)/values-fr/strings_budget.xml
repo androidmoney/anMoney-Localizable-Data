@@ -27,12 +27,12 @@
 	<string name="currently_yearly_format">actuellement ^1 par an</string>
 	<string name="currently_custom_format">actuellement ^1 par an au total, selon un échéancier personnalisé</string>
 	<string name="budget_no_categories_yet">Veuillez créer des catégories avant de paramétrer le budget</string>
+	<string name="budget_no_accounts_yet">Veuillez créer des comptes avant de paramétrer le budget</string>
 	<string name="select_budget_period">Sélection de la période</string>
 <!-- New --> <string name="all_others">Toutes les autres</string>
 	<string name="all_other_spending">Toutes autres dépenses</string>
 	<string name="special_item">Poste spécial</string>
     <string name="no_budget_items">Aucun poste budgétaire n’est défini</string>
-    <string name="create_budget_item_instructions_format">Pour créer des postes budgétaires, appuyez sur ^i en haut de l’écran</string>
     <string name="customized_schedule">Échéancier personnalisé</string>
 	<string name="include_budget_items">Inclure les postes budgétaires</string>
 </resources>

@@ -8,7 +8,6 @@
     <string name="edit_split">Edit split</string>
     <string name="edit_splits">Edit splits</string>
     <string name="delete_split">Delete split</string>
-	<string name="delete_split_warning">Split will be deleted</string>
 	<string name="sum_of_splits">Sum of splits</string>
 	<string name="unassigned">Unassigned</string>
 	<string name="transaction_total">Transaction total</string>

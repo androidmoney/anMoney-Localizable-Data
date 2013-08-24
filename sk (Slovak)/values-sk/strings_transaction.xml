@@ -161,7 +161,6 @@
         <item>vklad</item>
     </string-array>
 
-	<string name="delete_transaction_warning">Transakcia bude zmazaná</string>
 	<string-array name="delete_transaction_warning_format_plurals">
         <item>^1 zvolená transakcia bude odstránená</item>
         <item>^1 zvolené transakcie budú odstránené</item>

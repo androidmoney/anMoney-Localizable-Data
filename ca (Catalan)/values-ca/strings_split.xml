@@ -6,7 +6,6 @@
     <string name="edit_split">Editar divisió</string>
     <string name="edit_splits">Editar divisions</string>
     <string name="delete_split">Esborrar divisió</string>
-	<string name="delete_split_warning">La divisió serà esborrada</string>
 	<string name="sum_of_splits">Suma de les divisions</string>
 	<string name="unassigned">No assignat</string>
 	<string name="transaction_total">Total de la transacció</string>

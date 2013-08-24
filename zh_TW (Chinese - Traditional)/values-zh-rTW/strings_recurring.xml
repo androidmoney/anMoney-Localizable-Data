@@ -20,8 +20,8 @@
 	<string name="entire_series">整個系列</string>
 	<string name="edit_template_warning">存在有計畫過的未來發生點。\n\n編輯此系列將移除這些計畫內容</string>
 	<string name="delete_recurring">刪除經常性項目</string>
-	<string name="delete_recurring_warning_part1_format">是否刪除^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
-	<string name="delete_recurring_warning_part2">所有未來發生點將被刪除</string>
+	<string name="delete_question_format">是否刪除^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="all_future_occurrences_will_be_deleted">所有未來發生點將被刪除</string>
 	<string name="change_recurring_amount_format">是否要將經常性項目金額由^1更改至^2</string> <!-- This is a question -->
 	<string name="skip">略過</string>
 	<string name="skip_occurrence">略過發生點</string>

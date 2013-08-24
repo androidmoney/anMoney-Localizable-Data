@@ -20,8 +20,8 @@
 	<string name="entire_series">Sèrie sensera</string>
 	<string name="edit_template_warning">Hi ha ocurrències futures personalitzades.\n\nA l’editar la sèrie s’esborraran aquestes personalitzacions</string>
 	<string name="delete_recurring">Esborrar recurrència</string>
-	<string name="delete_recurring_warning_part1_format">Esborrar ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
-	<string name="delete_recurring_warning_part2">Totes les ocurrències futures seran esborrades</string>
+	<string name="delete_question_format">Esborrar ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="all_future_occurrences_will_be_deleted">Totes les ocurrències futures seran esborrades</string>
 	<string name="change_recurring_amount_format">Canviar l’import de la recurrència de ^1 a ^2</string> <!-- This is a question -->
 	<string name="skip">Saltar</string>
 	<string name="skip_occurrence">Saltar ocurrència</string>
