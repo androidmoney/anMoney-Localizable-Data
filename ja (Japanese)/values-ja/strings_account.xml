@@ -108,7 +108,7 @@
     <string name="no_exchange_rate_warning_message_format">^1と^2との間の為替レートが設定されていないと、通帳残高は正確ではなくなります</string> <!-- ^1 and ^2 are currency names -->
     <string name="would_you_like_to_give_one_after_saving">保存の後に付与しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">純資産</string> <!-- Net worth is an accounting term -->
-    <string name="net_worth_over_time">純資産の経時変化/予測</string>
+    <string name="net_worth_over_time">純資産の経時変化／予測</string>
 	<string name="set_total_to_show">表示する集計の選択</string>
 	<string name="total_to_show">表示する集計</string>
     <string name="selected_total">選択項目の合計</string>
@@ -116,10 +116,10 @@
 	<string name="balance_as_of_today">現時点での差引残高</string>
 	<string name="cleared_total">クリア済みの合計</string>
 	<string name="reconciled_total">調整済みの合計</string>
-    <string name="default_cash_account_name">My Daily Cash</string>
-    <string name="default_checking_account_name">My Current Account</string>
-    <string name="default_savings_account_name">My Savings Account</string>
-    <string name="default_credit_account_name">My Credit Card</string>
+<!-- New --> <string name="default_cash_account_name">My Daily Cash</string>
+<!-- New --> <string name="default_checking_account_name">My Current Account</string>
+<!-- New --> <string name="default_savings_account_name">My Savings Account</string>
+<!-- New --> <string name="default_credit_account_name">My Credit Card</string>
     <string name="color">カラー</string>
     <string name="projected_balance">予想</string>
     <string name="projected_balance_at_the_end_of_the_month">月末の予想差引残高</string>
@@ -192,7 +192,7 @@
 	
 	<string-array name="account_type_names">
 		<item>銀行</item>
-		<item>現金/その他</item>
+		<item>現金／その他</item>
 		<item>クレジットカード</item>
 		<item>クレジット・ライン</item>
 		<item>ローン</item>
@@ -207,7 +207,7 @@
 	<string-array name="default_account_names">
 		<item>銀行</item>
 		<item>現金</item>
-		<item>クレジットカード/</item>
+		<item>クレジットカード</item>
 		<item>クレジット・ライン</item>
 		<item>ローン</item>
 		<item>@string/liability</item>

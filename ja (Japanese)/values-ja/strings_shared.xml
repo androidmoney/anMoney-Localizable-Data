@@ -32,7 +32,7 @@
     <string name="import_canceled">キャンセルしました</string>
     <string name="export">エクスポート</string> <!-- This is a verb -->
     <string name="export_canceled">キャンセルしました</string>
-	<string name="import_export">インポート/エクスポート</string>
+	<string name="import_export">インポート／エクスポート</string>
     <string name="display_options">表示オプション</string>
     <string name="add_favorite">お気に入りに追加</string>
     <string name="added_to_favorites">追加しました</string>

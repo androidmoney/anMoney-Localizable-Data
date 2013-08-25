@@ -86,7 +86,7 @@
     <string name="remove_password_message">パスワードが削除されます。\n\nデバイスにアクセスすれば誰でもデータを見ることができます</string>
     <string name="password_has_not_been_changed">パスワードは変更されていません</string>
     <string name="passwords_dont_match">パスワードか一致しません</string>
-    <string name="case_sensitive">大文字/小文字を区別します</string>
+    <string name="case_sensitive">大文字／小文字を区別します</string>
     <string name="disclaimer">免責条項</string>
     <string name="password_disclaimer">以下の免責条項を読んで最後のチェックボックスをチェックして下さい\n\nパスワードのしくみは「詮索好きな目」からプライバシーを保護する一手法として設計されたものです。しかし、この端末のプラットホームの制約からデータを真に暗号化することができないため、たとえパスワードが設定されていても、高度な技能を有している人ならデータにアクセスすることができます。\n\nご自身の端末をロックパターンあるいは PINによって保護されることを強くおすすめします</string>
     <string name="i_understand_the_limitations">制約条件を了解しました</string>

@@ -57,10 +57,10 @@
     <string name="add">追加</string>
     <string name="added">追加しました</string>
     <string name="add_canceled">キャンセルしました</string>
-    <string name="accept_and_edit">了解/編集</string>
-    <string name="add_and_close">追加/終了</string>
+    <string name="accept_and_edit">了解／編集</string>
+    <string name="add_and_close">追加／終了</string>
     <string name="duplicate_in_current_account">同じ口座にコピー</string>
-    <string name="duplicate_copy_move">コピー/移動</string>
+    <string name="duplicate_copy_move">コピー／移動</string>
     <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
     <string name="copy_to_another_account">別の口座にコピー</string>
     <string name="move_to_another_account">別の口座に移動</string>
@@ -69,8 +69,8 @@
     <string name="do_not_duplicate_notes">メモのコピーはしない</string>
     <string name="account_not_found">口座が見つかりません</string>
     <string name="cannot_transfer_to_itself">自身に移動できません</string>
-    <string name="cannot_copy_to_itself">自身にコピー/移動できません</string>
-    <string name="copy_move_currency_warning">基本通貨の異なる口座にコピー/移動しようとしています。当該口座の通貨にあわせて取り引きの金額を調整してください</string>
+    <string name="cannot_copy_to_itself">自身にコピー／移動できません</string>
+    <string name="copy_move_currency_warning">基本通貨の異なる口座にコピー／移動しようとしています。当該口座の通貨にあわせて取り引きの金額を調整してください</string>
     <string name="all_transactions_hidden_by_filter">取り引きはすべて表示オプションの範囲外です</string>
     <string name="show_number">番号の表示</string>
     <string name="show_number_description">番号を表示</string>

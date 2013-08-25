@@ -23,5 +23,5 @@
 
     <string name="app_name_report">anMoneyレポート</string>
 
-	<string name="dash_clock_extension_description">期限超過の請求/入金を表示</string>
+	<string name="dash_clock_extension_description">期限超過の請求／入金を表示</string>
 </resources>

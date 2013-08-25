@@ -48,7 +48,7 @@
 	<string name="estimated">予想</string>
 	<string name="estimated_amount_format">^1^2</string>
 	<string name="upcoming">次回</string>
-	<string name="no_upcoming">次回の請求/入金はありません</string>
+	<string name="no_upcoming">次回の請求／入金はありません</string>
 	<string name="no_upcoming_bills">次回の請求はありません</string>
 	<string name="no_upcoming_deposits">次回の入金はありません</string>
 	<string name="enter_automatically">自動入力</string>
@@ -159,7 +159,7 @@
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
-		<item>^1件の期限超過の請求/入金</item>
+		<item>^1件の期限超過の請求／入金</item>
 	    <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
@@ -276,7 +276,7 @@
 	<string name="fiscal_year">会計年度</string>
 	
 	<string name="time_of_reminder">事前通知の時間</string>
-	<string name="reminder_hour_of_day_change_warning">設定済みの事前通知はここでは変更されません。デバイスのカレンダー機能で変更してください\n\n新しく設定された時刻が次回の自動継続請求/入金および他の事前通知で使用されます</string>
+	<string name="reminder_hour_of_day_change_warning">設定済みの事前通知はここでは変更されません。デバイスのカレンダー機能で変更してください\n\n新しく設定された時刻が次回の自動継続請求／入金および他の事前通知で使用されます</string>
 	
 	<string-array name="auto_enter_days_before">
 		<item>自動入力をしない</item>
