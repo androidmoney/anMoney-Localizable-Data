@@ -36,7 +36,7 @@
 	<string name="select_report">Selecciona el reporte</string>
 <!-- Verify -->  <string name="report_folder">Carpeta de reporte</string>
 	<string name="language">Idioma</string>
-<!-- New --> <string name="text_size">Tamaño del texto</string>
+<!-- Verify --> <string name="text_size">Tamaño del texto</string>
 	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Tipo de gráfico</string>

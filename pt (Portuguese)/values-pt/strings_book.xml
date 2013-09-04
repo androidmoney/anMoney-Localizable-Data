@@ -91,7 +91,7 @@
     <string name="password_disclaimer">Por favor leia este aviso e sinalize no final.\n\nNote que a senha foi implementada como uma maneira de fornecer privacidade contra “olhos curiosos.”  Devido a limitação da plataforma, a atual encriptação dos dados não é confiável e alguém com conhecimentos avançados conseguiria acessar seus dados mesmo com a senha presente.\n\nÉ altamente recomendável que você proteja seu dispositivo com um padrão ou PIN para segurança adicional</string>
     <string name="i_understand_the_limitations">Eu entendo estas limitações</string>
     <string name="set_password_now_part1">Configurar uma senha agora</string>
-<!-- New --> <string name="set_password_now_part2_format">Mesmo se você responder ^1, você terá a opção de fazer isso a qualquer hora dando um toque longo no nome do livro e toque ^2</string>
+	<string name="set_password_now_part2_format">Mesmo se você responder ^1, você terá a opção de fazer isso a qualquer hora dando um toque longo no nome do livro e toque ^2</string>
     <string name="folder_name_format">Nome da pasta (use ^1 para subpastas)</string>
     <string name="no_backup_files">Nenhum arquivo de backup encontrado</string>
     <string name="no_backup_files_new_instructions">Se você está tentando criar um livro usando um arquivo de importação, por favor crie um livro na página inicial, então importe o arquivo</string>
@@ -303,4 +303,6 @@
         <item>^1 registros serão excluídos</item>
         <item/> <!-- Not used -->
 	</string-array>
+
+    <string name="internet_permission_warning"><b><u>IMPORTANTE:</u></b>Estou pensando em adicionar a permissão <b>Internet</b> para o aplicativo para se preparar para algumas novas funcionalidades que não são actualmente possível. Se você é contra isso, por favor, <a href="mailto:android.money@gmail.com">escreva</a> para nós.</string>   
 </resources>

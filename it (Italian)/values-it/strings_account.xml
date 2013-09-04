@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">Vorresti impostarne uno dopo il salvataggio</string>
     <string name="net_worth">Patrimonio netto</string>
     <string name="net_worth_over_time">Patrimonio netto nel tempo / Previsione</string>
-	<string name="set_total_to_show">Imposta il totale da visualizzare</string>
+	<string name="forecast">Previsione</string>
+    <string name="set_total_to_show">Imposta il totale da visualizzare</string>
 	<string name="total_to_show">Totale da visualizzare</string>
     <string name="selected_total">Seleziona totale</string>
 	<string name="entered_total">Totale inserito</string>

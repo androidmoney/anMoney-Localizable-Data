@@ -11,7 +11,17 @@
         <item>சனி</item>
 	</string-array>    
 
-    <string-array name="month_names_stand_alone_wide">
+	<string-array name="day_names_stand_alone_abbreviated">
+        <item>ஞா</item>
+        <item>தி</item>
+        <item>செ</item> 
+        <item>புபு</item>
+        <item>வி</item> 
+        <item>வெ</item>
+        <item>ச</item>
+	</string-array>    
+
+	<string-array name="month_names_stand_alone_wide">
         <item>ஜனவரி</item>
         <item>பிப்ரவரி</item>
         <item>மார்ச்</item> 
@@ -39,5 +49,10 @@
         <item>அக்.</item> 
         <item>நவ.</item>
         <item>டிச.</item> 
+	</string-array>    
+
+	<string-array name="am_pm_markers">
+        <item>AM</item>
+        <item>PM</item>
 	</string-array>    
 </resources>

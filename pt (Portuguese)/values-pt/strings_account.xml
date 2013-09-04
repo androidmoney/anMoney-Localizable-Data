@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">Você gostaria de informar uma após salvar</string>
     <string name="net_worth">Patrimônio líquido</string>
     <string name="net_worth_over_time">Patrimônio líquido ao longo do tempo / Previsão</string>
-	<string name="set_total_to_show">Configure a totalização</string>
+	<string name="forecast">Previsão</string>
+    <string name="set_total_to_show">Configure a totalização</string>
 	<string name="total_to_show">Total na tela</string>
     <string name="selected_total">Total selecionado</string>
 	<string name="entered_total">Total registrado</string>

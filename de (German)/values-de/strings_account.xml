@@ -108,6 +108,7 @@
     <string name="would_you_like_to_give_one_after_saving">Möchten Sie einen Saldo nach dem Speichern angeben</string>
 	<string name="net_worth">Nettobetrag</string>
 	<string name="net_worth_over_time">Prognose / Reinvermögen – Periodenaufstellung</string>
+	<string name="forecast">Prognose</string>
 	<string name="set_total_to_show">Endsumme in die Anzeige stellen</string>
 	<string name="total_to_show">Endsumme in die Anzeige stellen</string>
 	<string name="selected_total">Gewählte Endsumme</string>

@@ -111,8 +111,9 @@
     <string name="no_exchange_rate_warning_message_format">There is no exchange rate given between the ^1 and the ^2, which will cause the book balance to be inaccurate</string> <!-- ^1 and ^2 are currency names -->
     <string name="would_you_like_to_give_one_after_saving">Would you like to give one after saving</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Net worth</string> <!-- Net worth is an accounting term -->
-    <string name="net_worth_over_time">Net worth over time / Forecast</string>
-	<string name="set_total_to_show">Set total to display</string>
+    <string name="net_worth_over_time">Net worth over time / Forecast</string> <!--  This is the report name -->
+    <string name="forecast">Forecast</string>
+    <string name="set_total_to_show">Set total to display</string>
 	<string name="total_to_show">Total to display</string>
     <string name="selected_total">Selected total</string>
 	<string name="entered_total">Entered total</string>

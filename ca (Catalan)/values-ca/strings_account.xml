@@ -108,7 +108,8 @@
     <string name="would_you_like_to_give_one_after_saving">Vol donar una després de desar els canvis</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Patrimoni net</string>
     <string name="net_worth_over_time">Patrimoni net al llarg del temps / Previsió</string>
-	<string name="set_total_to_show">Establir total a mostrar</string>
+    <string name="forecast">Previsió</string>
+    <string name="set_total_to_show">Establir total a mostrar</string>
 	<string name="total_to_show">Total a mostrar</string>
     <string name="selected_total">Total seleccionat</string>
 	<string name="entered_total">Total inserit</string>

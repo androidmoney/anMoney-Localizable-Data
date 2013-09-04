@@ -83,7 +83,9 @@
 	<string name="spending_by_category_over_time0">Spese per categoria nel tempo</string>
 	<string name="spending_by_category_over_time1">Spese per categoria o ^1 nel tempo</string>
 	<string name="spending_by_category_over_time2">Spese per categoria, ^1 o ^2 nel tempo</string>
-	
+<!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
+<!-- New --> <string name="last_account_used">The last account used</string>
+		
     <string name="no_categories">No categorie</string>
 	<string name="no_categories_yet">No categorie ancora</string>
     <string name="no_classes_yet">No classi ancora</string>

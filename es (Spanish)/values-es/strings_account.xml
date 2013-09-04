@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">Te gustaría establecer una después de guardar</string>
     <string name="net_worth">Patrimonio neto</string>
     <string name="net_worth_over_time">Patrimonio neto a través del tiempo / Estimación</string>
-	<string name="set_total_to_show">Establecer el total a exhibir</string>
+	<string name="forecast">Estimación</string>
+    <string name="set_total_to_show">Establecer el total a exhibir</string>
 	<string name="total_to_show">Total a exhibir</string>
     <string name="selected_total">Total seleccionado</string>
 	<string name="entered_total">Total registrado</string>

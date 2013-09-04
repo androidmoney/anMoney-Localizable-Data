@@ -282,7 +282,7 @@
 
 	<string name="qif_csv_encoding">QIF/CSVのエンコード</string>
     <string name="ofx_qfx_encoding">OFX/QFX/OFSのエンコード</string>
-<!-- New --> <string-array name="encodings">
+	<string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
         <item>GBK (Chinese national standard)</item>
@@ -303,4 +303,6 @@
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
+
+    <string name="internet_permission_warning"><b><u>重要:</u></b>私は現在可能ではありませんいくつかの新機能を準備するためのアプリにインターネットアクセス許可を追加して検討しています。この反対している場合は、私たちに書いてください。</string>   
 </resources>

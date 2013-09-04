@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">Szeretné megadni a mentés után</string>
 	<string name="net_worth">Nettó vagyon</string>
     <string name="net_worth_over_time">Nettó vagyon időben / Prognózis</string>
-	<string name="set_total_to_show">Összeg kiválasztása</string>
+	<string name="forecast">Prognózis</string>
+    <string name="set_total_to_show">Összeg kiválasztása</string>
 	<string name="total_to_show">Megjelenítendő összeg</string>
     <string name="selected_total">Kijelölt összeg</string>
 	<string name="entered_total">Bejegyzett összeg</string>

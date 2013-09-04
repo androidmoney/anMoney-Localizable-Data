@@ -308,4 +308,6 @@
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
+
+    <string name="internet_permission_warning"><b><u>FONTOS:</u></b>Én fontolgatom, hogy az app-hoz hozzá fogom adni az <b>Internet</b> engedélyt, hogy igy felkészitetem egy néhány új funkciókra, amelyek jelenleg nem lehetségesek. Ha ellene vagy, kérjük <a href="mailto:android.money@gmail.com">írjál</a> nekünk.</string>   
 </resources>

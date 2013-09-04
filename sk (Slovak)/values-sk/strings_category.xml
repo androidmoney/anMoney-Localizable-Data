@@ -84,7 +84,9 @@
 	<string name="spending_by_category_over_time0">Výdavky podľa kategórie v priebehu času</string>
 	<string name="spending_by_category_over_time1">Výdavky podľa kategórie alebo ^1 v priebehu času</string>
 	<string name="spending_by_category_over_time2">Výdavky podľa kategórie, ^1 alebo ^2 v priebehu času</string>
-	
+<!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
+<!-- New --> <string name="last_account_used">The last account used</string>
+		
     <string name="no_categories">Žiadne kategórie</string>
 	<string name="no_categories_yet">Zatiaľ žiadne kategórie</string>
     <string name="no_classes_yet">Zatiaľ žiadne triedy</string>

@@ -108,8 +108,9 @@
     <string name="no_exchange_rate_warning_message_format">Nieje k dispozícii kurz pre obdobie od ^1 do ^2. Zostatok knihy nemusí byť presný</string>
     <string name="would_you_like_to_give_one_after_saving">Chcete zadať kurz po uložení</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Čistý zostatok</string>
-    <string name="net_worth_over_time">Výhľad zostatku</string>
-	<string name="set_total_to_show">Vyberte, ktorý súčet zobraziť</string>
+    <string name="net_worth_over_time">Výhľad zostatku / Prognóza</string>
+	<string name="forecast">Prognóza</string>
+    <string name="set_total_to_show">Vyberte, ktorý súčet zobraziť</string>
 	<string name="total_to_show">Zobraziť súčet</string>
     <string name="selected_total">Označený súčet</string>
 	<string name="entered_total">Celkový zostatok</string>

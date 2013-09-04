@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">您是否想在存款後給予一個</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">淨值</string> <!-- Net worth is an accounting term -->
     <string name="net_worth_over_time">隨時間推移之淨值／預測</string>
-	<string name="set_total_to_show">設定顯示合計總額</string>
+	<string name="forecast">預測</string>
+    <string name="set_total_to_show">設定顯示合計總額</string>
 	<string name="total_to_show">顯示合計總額</string>
     <string name="selected_total">已選擇之合計額</string>
 	<string name="entered_total">已輸入之合計額</string>

@@ -139,7 +139,7 @@
     </string-array>
 
 	<string-array name="import_mode_description">
-        <item>Utilizzato per scaricare gli estratti conto da varie istituzioni finanziarie, come una l’ estratto conto di fine mese da American Express. Entrambi i formati <b>QIF</b> e <b>OFX/QFX/OFS</b> sono supportati. Il file di importati non devono contenere i trasferimenti tra conti</item>
+        <item>Utilizzato per scaricare gli estratti conto da varie istituzioni finanziarie, come una l’estratto conto di fine mese da American Express. Entrambi i formati <b>QIF</b> e <b>OFX/QFX/OFS</b> sono supportati. Il file di importati non devono contenere i trasferimenti tra conti</item>
         <item>Utilizzato per trasferire dati da un altro software di finanza personale, come ad esempio Microsoft® Money o Quicken®. Solo il formato <b>QIF</b> è supportato</item>
     </string-array>
 
@@ -303,4 +303,6 @@
         <item>^1 voce sarà eliminata</item>
         <item/> <!-- Not used -->
 	</string-array>
+
+    <string name="internet_permission_warning"><b><u>IMPORTANTE:</u></b>Sto pensando di aggiungere il permesso di <b>Internet</b> per l’app per preparare alcune nuove funzionalità che sono attualmente non è possibile. Se sei contro questo, si prega di <a href="mailto:android.money@gmail.com">scrivere</a> a noi.</string>   
 </resources>

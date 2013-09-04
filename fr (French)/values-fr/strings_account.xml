@@ -109,6 +109,7 @@
     <string name="would_you_like_to_give_one_after_saving">Souhaitez-vous en indiquer un après l’enregistrement</string>
 	<string name="net_worth">Avoir net</string>
 	<string name="net_worth_over_time">Avoir net au fil du temps / Prévision</string>
+	<string name="forecast">Prévision</string>
 	<string name="set_total_to_show">Définir le total à afficher</string>
 	<string name="total_to_show">Total à afficher</string>
 	<string name="selected_total">Total sélectionné</string>

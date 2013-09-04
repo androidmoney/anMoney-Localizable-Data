@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">சேமிப்பிற்குப் பின் ஒன்றை தருவதற்கு நீங்கள் விரும்புகிறீர்களா</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">நிகர மதிப்பு</string> <!-- Net worth is an accounting term -->
     <string name="net_worth_over_time">காலப்போக்கில் நிகர மதிப்பு / முன்அறிவிப்பு</string>
-	<string name="set_total_to_show">காண்பதற்கான கூடுதலை அமைக்கவும்</string>
+	<string name="forecast">முன்அறிவிப்பு</string>
+    <string name="set_total_to_show">காண்பதற்கான கூடுதலை அமைக்கவும்</string>
 	<string name="total_to_show">காண்பதற்கான கூடுதல்</string>
     <string name="selected_total">தேர்ந்தெடுக்கப்பட்ட கூடுதல்</string>
 	<string name="entered_total">மொத்த கூடுதல்</string>

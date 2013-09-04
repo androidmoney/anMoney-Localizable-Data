@@ -83,6 +83,8 @@
 	<string name="spending_by_category_over_time0">Despeses per categoria del temps</string> <!-- This is a report name -->
 	<string name="spending_by_category_over_time1">Despeses per categoria o ^1 del temps</string> <!-- This is a report name -->
 	<string name="spending_by_category_over_time2">Despeses per categoria, ^1 o ^2 del temps</string> <!-- This is a report name -->
+<!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
+<!-- New --> <string name="last_account_used">The last account used</string>
 	
     <string name="no_categories">Cap categoria</string>
 	<string name="no_categories_yet">Cap categoria encara</string>

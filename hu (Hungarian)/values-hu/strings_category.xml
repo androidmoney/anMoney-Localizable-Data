@@ -83,7 +83,9 @@
 	<string name="spending_by_category_over_time0">Költés kategóriánként idő alatt</string>
 	<string name="spending_by_category_over_time1">Költés kategória vagy ^1 szerint idő alatt</string>
 	<string name="spending_by_category_over_time2">Költés kategória, ^1 vagy ^2 szerint idő alatt</string>
-	
+	<string name="assign_to_accounts">Rendelje hozzá ezekhez a számlá(k)hoz, amikor készíti a Prognózist</string>
+	<string name="last_account_used">Az utoljára használt számláhóz</string>
+		
     <string name="no_categories">Nincsenek kategóriák</string>
 	<string name="no_categories_yet">Nincsenek még kategóriák</string>
     <string name="no_classes_yet">Nincsenek még osztályok</string>

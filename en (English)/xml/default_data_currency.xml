@@ -167,7 +167,7 @@
 		<name>Egyptian pound</name>
 		<symbol>L.E.</symbol>
 		<symbolLeading>0</symbolLeading>
-		<decimalDigits>3</decimalDigits>
+		<decimalDigits>2</decimalDigits>
 		<iso4217>EGP</iso4217>
 		<iso3166>EG</iso3166>
 	</record>

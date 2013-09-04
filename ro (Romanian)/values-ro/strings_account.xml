@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">Vrei să introduci una după salvare</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Câştig net</string>
     <string name="net_worth_over_time">Câştig net în timp / Prognoză</string>
-	<string name="set_total_to_show">Setează totalul de afişat</string>
+	<string name="forecast">Prognoză</string>
+    <string name="set_total_to_show">Setează totalul de afişat</string>
 	<string name="total_to_show">Total de afişat</string>
     <string name="selected_total">Total selectat</string>
 	<string name="entered_total">Total introdus</string>

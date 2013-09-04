@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">保存の後に付与しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">純資産</string> <!-- Net worth is an accounting term -->
     <string name="net_worth_over_time">純資産の経時変化／予測</string>
-	<string name="set_total_to_show">表示する集計の選択</string>
+	<string name="forecast">予測</string>
+    <string name="set_total_to_show">表示する集計の選択</string>
 	<string name="total_to_show">表示する集計</string>
     <string name="selected_total">選択項目の合計</string>
 	<string name="entered_total">差引計</string>

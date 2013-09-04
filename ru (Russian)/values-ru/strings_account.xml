@@ -109,7 +109,8 @@
     <string name="would_you_like_to_give_one_after_saving">Задать курс после сохранения</string>
     <string name="net_worth">Капитал</string>
     <string name="net_worth_over_time">Изменение капитала / Прогноз</string>
-	<string name="set_total_to_show">Отображаемый баланс</string>
+	<string name="forecast">Прогноз</string>
+    <string name="set_total_to_show">Отображаемый баланс</string>
 	<string name="total_to_show">Отображаемый баланс</string>
     <string name="selected_total">Баланс выбранных транзакций</string>
 	<string name="entered_total">Общий баланс</string>

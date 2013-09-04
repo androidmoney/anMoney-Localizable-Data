@@ -303,4 +303,6 @@
         <item>^1 záznamy budou smazány</item>
         <item>^1 záznamů bude smazáno</item>
     </string-array>
+
+    <string name="internet_permission_warning"><b><u>DŮLEŽITÝ:</u></b>Já jsem přemýšlet přidáním <b>Internet</b> oprávnění k aplikaci připravit se na některé nové prvky, které jsou v současné době není možné. Pokud jste proti tomu, <a href="mailto:android.money@gmail.com">napište</a> nám.</string>   
 </resources>

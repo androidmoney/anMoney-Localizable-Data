@@ -107,8 +107,9 @@
     <string name="no_exchange_rate_warning_message_format">Není k dispozici kurs pro období od ^1 do ^2. Zůstatek knihy nemusí být přesný</string>
     <string name="would_you_like_to_give_one_after_saving">Chcete zadat kurs po uložení</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Čistý zůstatek</string>
-    <string name="net_worth_over_time">Výhled zůstatku</string>
-	<string name="set_total_to_show">Vyberte, který součet zobrazit</string>
+    <string name="net_worth_over_time">Výhled zůstatku / Prognóza</string>
+	<string name="forecast">Prognóza</string>
+    <string name="set_total_to_show">Vyberte, který součet zobrazit</string>
 	<string name="total_to_show">Zobrazit součet</string>
     <string name="selected_total">Vybraný součet</string>
 	<string name="entered_total">Celkový zůstatek</string>

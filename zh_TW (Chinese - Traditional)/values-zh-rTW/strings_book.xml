@@ -303,4 +303,6 @@
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
+
+    <string name="internet_permission_warning"><b><u>重要:</u></b>我考慮將Internet權限的應用程序，以備一些新的功能，這是不可能的。如果你是反對這樣做，請<a href="mailto:android.money@gmail.com">寫信給我們</a>。</string>   
 </resources>

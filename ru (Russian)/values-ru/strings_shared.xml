@@ -134,17 +134,17 @@
 	<string name="only_in_full_version">Доступно только в полной версии</string>
     <string name="will_not_effect_transactions">Существующие транзакции останутся неизменными</string>
     	    
-<!-- New --> <string name="free_limitations">Purchase the PRO version to remove the following limitations:\n\n
-	<li>No password security</li>\n
-	<li>No auto backups of your data</li>\n
-	<li>No custom reports</li>\n
-	<li>QIF imports only</li>\n
-	<li>No Contacts integration</li>\n
-	<li>At most 2 bank, 1 credit and 1 cash account</li>\n
-	<li>At most 5 budget items</li>\n
-	<li>At most 3 recurring bills or deposits</li> 
+	<string name="free_limitations">Купите PRO версию для снятия следующих ограничений:\n\n
+	<li>Нет защиты паролем</li>\n
+	<li>Нет автоматического архивирования данных</li>\n
+	<li>Нет пользовательских отчетов</li>\n
+	<li>Только импорт QIF</li>\n
+	<li>Нет интеграции с Контактами</li>\n
+	<li>Не более 2 банковских, 1 кредитного и 1 счёта наличных</li>\n
+	<li>Не более 5 элементов бюджета</li>\n
+	<li>Не более 3 запланированных операций</li> 
 	</string>
-
+	
     <string name="no_items">Нет элементов</string>
     <string name="no_items_yet">Пока ничего нет</string>
   	<string-array name="items_format_plurals">
