@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+	<string name="appwidget_warning_format">Het ziet er naar uit dat je ^1 op de SD kaart hebt geinstalleerd.\n\nOmdat dit ervoor kan zorgen dat de widget verdwijnt, word het aangeraden dat je ^1 terug plaatst op het intern geheugen, als je gebruik wil maken van de widget</string> <!-- ^1 is the app name -->
+
+    <string name="no_books_warning">Maak een boek aan voor je de widget installeerd</string>
+    <string name="no_books_and_accounts_warning">Maak een rekening en een boek aan voor je de widget installeerd</string>
+    <string name="no_accounts_warning">Maak een rekening aan voor je de widget installeerd</string>
+    <string name="book_no_longer_exists_format">Boek ^1 bestaat niet meer</string>
+    <string name="account_no_longer_exists">Rekening bestaat niet meer</string>
+    <string name="report_no_longer_exists">Rapport bestaat niet meer</string>
+    <string name="budget_no_longer_exists_format">Budget ^1 bestaat niet meer</string>
+    
+    <string name="quick_entry">Snelle invoer</string>
+    <string name="app_name_quick_entry">anMoney — Snel invoeren</string>
+    <string name="app_name_quick_entry_large">anMoney — Snel invoeren (groot)</string>
+    <string name="app_name_quick_entry_small">anMoney — Snel invoeren (klein)</string>
+    <string name="show_total">Totaal van de rekening laten zien</string>
+<!-- New -->    <string name="opacity">Opacity</string>
+
+    <string name="app_name_upcoming">anMoney — Aanstaande</string> <!-- as in Upcoming Bills -->
+
+    <string name="app_name_budget">anMoney — Budget</string>
+
+    <string name="app_name_report">anMoney — Rapport</string>
+
+	<string name="dash_clock_extension_description">Laat rekeningen die te laat zijn zien, indien aanwezig.</string>
+</resources>

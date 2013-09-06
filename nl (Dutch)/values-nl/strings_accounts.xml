@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account">Rekening</string>
+    <string name="accounts">Rekeningen</string>
+    <string name="all_accounts">Alle rekeningen</string>
+    <string name="open_accounts">Open rekeningen</string>
+    <string name="liability">Aansprakelijkheid</string> <!-- Liability account -->
+    <string name="asset">Eigendom</string>  <!-- Aeset account -->
+<!-- <string name="credit_liability_details">Credit / Liability details</string>  -->
+<!-- <string name="associated_loan">Associated loan</string> -->
+<!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
+<!-- <string name="associated_reward_program">Associated reward program</string> -->
+<!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
+    <string name="account_balances">Balans rekening</string>
+    <string name="vehicle">Voertuig</string>
+    <string name="property">Eigendom</string>  <!-- As in "real estate" -->
+    <string name="view_accounts">Bekijk rekeningen</string>
+    <string name="new_account">Nieuwe rekening</string>
+    <string name="edit_account">Rekening bewerken</string>
+    <string name="balance_noun">Balans</string> <!-- Account balance -->
+    <string name="balances_noun">Totaal balans</string>
+    <string name="adjust">Verbeteren</string>
+    <string name="adjust_balance">Balans verbeteren</string>
+	<string name="balance_adjusted">Balans verbeterd</string>
+	<string name="balance_adjustment_note">Balans aanpassing</string>
+	<string name="category_for_adjustment_transaction">Categorie voor transactie aanpassing</string>
+	<string name="postpone">Uitstellen</string>
+    <string name="balance_verb">Balans</string> <!-- Balance/Reconcile an account -->
+    <string name="balance_account">Rekening balanzen</string>
+    <string name="balanced">Gebalanst</string> <!-- Past tense verb -->
+    <string name="balance_postponed">Uitgesteld balansen</string>
+    <string name="balance_canceled">Geannuleerd balansen</string>
+	<string name="started_balancing_already">U bent al begonnen met het balansen van deze rekening</string>
+	<string name="postpone_balancing_warning">Uigesteld balanseren</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="account_balance_does_not_match_bank_warning_format">Het beginsaldo dat is ingevoerd, ^1, komt niet overeen met het totaal van alle vorige toegekende trasacties, ^2</string>  <!-- ^1 and ^2 are numbers -->
+	<string name="account_balance_does_not_match_credit_warning_format">Het totaal dat is ingevoerd, ^1, komt niet overeen met het totaal van alle vorige toegekende trasacties, ^2</string> <!-- ^1 and ^2 are numbers -->
+<!-- New --> 	<string name="account_balance_does_not_match_fix">Try fixing it by:\n\n<li>Double-checking the statement</li>\n<li>Transactie markeren als gecontroleerd</li>\n<li>Transactie markeren als niet gecontroleerd</li>\n<li>Beginsaldo aanpassen</li></string>
+	<string name="left_to_reconcile">Nog te controleren</string> <!-- Amount left to reconcile -->
+	<string name="statement_balance">Afschrift balans</string> <!-- Statement as in "Bank statement" -->
+    <string name="statement_date">Datum afschrift</string>
+    <string name="statement_starting_balance">Beginsaldo afschrift</string>
+    <string name="statement_ending_balance">Eindsaldo afschrift</string>
+    <string name="amount_owed_last_month">Totale schuld afgelopen maand</string>
+    <string name="amount_owed_this_month">Totale schuld deze maand</string>
+	<string name="service_charge_amount">Servicetoeslag bedrag</string> <!-- As in bank service charge -->
+    <string name="service_charge_category">Servicetoeslag categorie</string>
+    <string name="service_charge_notes_format">Servicetoeslag voor afschrift eindigend op ^1</string>
+    <string name="interest_earned_amount">Rente verdiend</string>
+    <string name="interest_earned_category">Rente verdiend categorie</string>
+    <string name="interest_earned_notes_format">Rente verdiend voor afschrift eindigend op ^1</string>
+    <string name="interest_paid_amount">Rente betaald</string>
+    <string name="interest_paid_category">Rente betaald categorie</string>
+    <string name="interest_paid_notes_format">Rente betaald voor afschrift eindigend op ^1</string>
+    <string name="clear_all_transactions">Verwijder alle transacties</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+	<string name="clear_all_transactions_on_all_pages">Verwijder alle transacties op pagina</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+    <string name="export_account">Rekening exporteren</string>
+    <string name="delete_account">Rekening verwijderen</string>
+    <string name="close_account">Rekening afsluiten</string>
+    <string name="reopen_account">Rekening heropenen</string>
+    <string name="repair_account">Rekening herstellen</string>
+    <string name="repaired">Hersteld</string>
+    <string name="copy_account_number">Rekeningummer kopieren</string>
+    <string name="book_total">Totaal alle rekeningen</string>
+    <string name="favorites_total">Totaal favoriete rekeningen</string>
+	<string name="delete_account_warning_part1_format">Rekening ^1 zal permanent worden verwijderd.\n\nomdat deze rekening gebruikt word in transacties, zullen alle transacties ook verwijderd worden</string>
+	<string name="delete_account_warning_part2_format">Om de rekening te verbergen, maar alle transactiegeschiedenis te bewaren, toets ^1 en sluit de rekening ipv verwijderen</string> <!-- ^1 = OK -->
+	<string name="no_accounts">U hebt geen rekeningen</string>
+    <string name="no_transactions_for_account">U heeft geen transacties voor deze rekening</string>
+    <string name="account_type">Rekening soort</string>
+    <string name="account_type_bank_first">Bankrekeningen eerst</string>
+    <string name="account_type_cash_first">Cashrekeningen eerst</string>
+    <string name="account_name">Naam rekening</string>
+    <string name="abbreviation">Afkorting</string>
+    <string name="abbr">Afk</string>
+    <string name="type">Type</string>
+    <string name="favorite_account">Favoriete rekening</string>
+    <string name="favorite_accounts">Favoriete rekeningen</string>
+    <string name="account_has_been_closed">Deze rekening is gesloten</string>
+    <string name="acquisition_date">Overname datum</string>
+    <string name="credit_limit">Crediet limiet</string>
+    <string name="interest_rate">Rente waarde</string>
+    <string name="minimum_balance">Minimale balans</string>
+    <string name="date">Datum</string>
+    <string name="make">Maken</string>  <!-- Vehicle make -->
+    <string name="vehicle_make">Voertuig merk</string>
+    <string name="year">Jaar</string>
+    <string name="model">Model</string> <!-- Vehicle model -->
+    <string name="vehicle_model">Voertuig model</string>
+    <string name="vehicle_identification_number">Voertuig identificatie nummer (VIN)</string>
+    <string name="vin">VIN</string> <!-- Acronym for Vehicle Identifiication Number, in most cases should be left as VIN -->
+    <string name="purchase_location">Aankoop locatie</string>
+    <string name="location">Locatie</string>
+    <string name="warranty_information">Garantie informatie</string>
+    <string name="type_details_about_warranty_information">Type details omtrent garantie hier</string>
+    <string name="warranty_expiration_date">Datum einde garantie</string>
+    <string name="manufacturer_web_address">Web adres van fabrikant</string>
+    <string name="property_address">adres fabrikant</string>
+    <string name="closed">Gesloten</string>
+    <string name="reopened">Heropend</string>
+    <string name="reopen_canceled">Heropenen geannuleerd</string>
+    <string name="no_financial_institution_assigned">Geen financiele instelling opgegeven</string>
+    <string name="maximum_100">Maximum 100%</string>
+    <string name="must_be_in_future">Moet in de toekomst zijn</string> <!-- As in "The date supplied must be a future date" -->
+    <string name="must_be_in_past">Moet in het verleden zijn</string> <!-- As in "The date supplied must be a past date" -->
+    <string name="invalid_year">Ongeldig</string>
+    <string name="invalid_vin_number">Moet minimaal 17 letters en/of cijfers zijn</string>
+    <string name="invalid_url">Ongeldige URL</string>
+    <string name="opening_balance_warning_message">Deze rekening heeft toegekende transacties.\n\nDoor verandering van het startsaldo kan het saldo afwijken van het banksaldo</string>
+    <string name="no_exchange_rate_warning_message_format">Er is geen wisselkoers gegeven tussen ^1 en ^2, hierdoor is het rekening saldo niet juist</string> <!-- ^1 and ^2 are currency names -->
+    <string name="would_you_like_to_give_one_after_saving">Wild u er 1 geven na het sparen</string>  <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="net_worth">Netto waarde</string> <!-- Net worth is an accounting term -->
+    <string name="net_worth_over_time">Netto waarde later / Voorspelling</string> <!--  This is the report name -->
+    <string name="forecast">Voorspelling</string>
+    <string name="set_total_to_show">Set totaal weer te geven</string>
+	<string name="total_to_show">Totaal weer te geven</string>
+    <string name="selected_total">Geselecteerde totaal</string>
+	<string name="entered_total">Ingevoerde totaal</string>
+	<string name="balance_as_of_today">Balans vandaag</string>
+	<string name="cleared_total">Toegekend totaal</string>
+	<string name="reconciled_total">Gecontroleerde totaal</string>
+    <string name="default_cash_account_name">Mijn dagelijks kontant</string>
+    <string name="default_checking_account_name">Mijn huidige rekening</string>
+    <string name="default_savings_account_name">Mijn spaarrekening</string>
+    <string name="default_credit_account_name">Mijn Credit Card</string>
+    <string name="color">Kleur</string>
+    <string name="projected_balance">Voorspeld</string>
+    <string name="projected_balance_at_the_end_of_the_month">Voorspelde saldo aan het eind van de maand</string>
+    <string name="at_months_end">Eind van de maand</string>
+	<string name="projected_balance_on_the_nth_day_of_the_month_format">Voorspelde saldo aan het ^1</string> <!-- ^1 is a date -->
+	<string name="total_for_format">Totaal voor ^1</string>  <!-- ^1 is the user supplied account name -->
+	<string name="total_for_month">Totaal voor maand</string>
+	<string name="period">Periode</string>
+	<string name="total_for_period">Totaal voor periode</string>
+	<string name="total_for_unassigned">Totaal niet toegewezen</string> <!-- Total for transactions not given a category -->
+	<string name="make_account_budget_question_part1">Moet deze rekening deel uitmaken van je budget</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="make_account_budget_question_part2_format">Als je ^1 toetst, kan je dit later doen door de rekening te bewerken</string> <!-- Tap is "No" -->
+	<string name="show_option_format">Laat de ^1 optie zien</string> <!-- This will say "Show the Next Check Number option" -->
+	<string name="show_closed">Laat gesloten zien</string> <!-- As in "Show closed accounts" -->
+    
+    <string name="no_accounts_yet">Nog geen rekeningen</string>
+<!-- New --> 	<string-array name="account_count_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 accounts</item>
+        <item/> <!-- Not used -->
+    </string-array>
+
+<!-- New --> 	<string-array name="pending_count_plurals">
+        <item>^1 new transaction</item>
+        <item>^1 new transactions</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+<!-- New --> 	<string-array name="account_group_labels">
+		<item>Bank accounts</item>
+		<item>Cash</item>
+		<item>Credit accounts</item>
+		<item>Investment cash accounts</item>
+		<!-- <item>Loans and liabilities</item> -->
+		<item>Other liabilities</item>
+		<item>Other assets</item>
+	</string-array>
+
+<!-- New --> 	<string-array name="total_for_account_group_labels">
+		<item>Total for bank accounts</item>
+		<item>Total for cash</item>
+		<item>Total for credit accounts</item>
+		<item>Total for investment cash accounts</item>
+		<!-- <item>Total for loans and liabilities</item> -->
+		<item>Total for other liabilities</item>
+		<item>Total for other assets</item>
+	</string-array>
+
+<!-- New --> 	<string-array name="opening_balance_new_labels">
+	    <item>Account balance</item>
+		<item>Purchase price</item>
+		<item>Amount owed on this account</item>
+		<item>Amount owed on this card</item>
+	</string-array>
+
+<!-- New --> 	<string name="opening">Opening</string> <!-- As in "Opening balance" -->
+<!-- New --> 	<string-array name="opening_balance_edit_labels">
+	    <item>Opening balance</item>
+		<item>Original purchase price</item> <!-- of an asset -->
+		<item>Amount owed on this account originally</item>
+		<item>Amount owed on this card originally</item>
+	</string-array>
+
+<!-- New --> 	<string-array name="current_balance_edit_labels">
+	    <item>Current balance</item>
+		<item>Current value</item> <!-- of an asset -->
+		<item>Amount owed on this account currently</item>
+		<item>Amount owed on this card currently</item>
+	</string-array>
+
+<!-- New --> 	<string-array name="account_type_names">
+	    <item>Bank</item>
+		<item>Cash / Other</item>
+		<item>Credit / Charge card</item>
+		<item>Line of credit</item>
+		<item>Loan</item>
+<!-- 		<item>Other liability</item> Loan Loans -->
+		<item>Other liability</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
+		<item>Other asset</item>
+		<item>Investment cash account</item>
+	</string-array>
+
+<!-- New --> 	<string-array name="default_account_names">
+	    <item>Bank</item>
+		<item>Cash</item>
+		<item>Credit card</item>
+		<item>Line of credit</item>
+		<item>Loan</item>
+		<item>@string/liability</item>
+		<item>@string/property</item>
+		<item>@string/vehicle</item>
+		<item>@string/asset</item>
+		<item>Investment</item>
+	</string-array>
+
+    <string name="show_account_numbers">Laat rekeningnummers zien</string>
+    <string name="show_account_numbers_description">Laat het rekeningnummer onder de naam zien, als die er is</string>
+
+    <string name="use_abbreviations">Afkortingen gebruiken</string>
+    <string name="use_abbreviations_description">Laat de rekening afkorting zien, in plaats van de naam, als die er is</string>
+
+    <string name="show_group_totals">Laat het groep totaal zien</string>
+    <string name="show_group_totals_description">Laat de totalen van ieder groep zien</string>
+
+	<string-array name="account_list_status_filter_title_bar">
+		<item>@string/all_accounts</item>
+		<item>@string/open_accounts</item>
+		<item>@string/favorite_accounts</item>
+	</string-array>
+
+	<string-array name="account_list_sort_order_title_bar">
+		<item>@string/type</item>
+		<item/> <!-- Intentionally left empty -->
+		<item>@string/name</item>
+		<item>@string/financial_institution</item>
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+
+    <string name="all_transactions">Alle transacties</string>
+	<string-array name="transaction_list_filter_title_bar">
+    	<item>@string/all_transactions</item>
+		<item>@string/unreconciled2</item>
+		<item>@string/reconciled2</item>
+		<item>@string/cleared2</item>
+		<item>@string/pending2</item>
+		<item>@string/follow_up2</item>
+    	<item>@string/not_exported_transaction2</item>
+	</string-array>
+    
+<!-- New -->     <string name="display_order">Volgorde van weergave</string>
+<!-- New -->     <string name="entry_date">Invoer datum</string>
+    <string-array name="transaction_list_sort_order_title_bar">
+    	<item>@string/date</item>
+		<item>@string/number</item>
+		<item>@string/payee</item>
+		<item>@string/amount</item>
+		<item>@string/category</item>
+		<item>@string/entry_date</item>
+		<item/> <!-- Not unused -->
+		<item/> <!-- Not unused -->
+		<item>@string/account</item>
+	</string-array>
+    
+    <string name="date_range">Datum bereik</string>
+	<string name="current_month">Huidige maand</string>
+	<string name="previous_month">Vorige maand</string>
+	<string name="next_month">Volgende maand</string>
+	<string name="current_quarter">Huidig kwartaal</string>
+	<string name="previous_quarter">Vorig kwartaal</string>
+	<string name="next_quarter">Volgend kwartaal</string>
+	<string name="current_half_year">Huidig half jaar</string>
+	<string name="previous_half_year">Vorig half jaar</string>
+	<string name="next_half_year">Volgend half jaar</string>
+	<string name="current_year">Huidig jaar</string>
+	<string name="previous_year">Vorig jaar</string>
+	<string name="next_year">Volgend jaar</string>
+	<string name="current_week">Huidige week</string>
+	<string name="previous_week">Vorige week</string>
+	<string name="next_week">Volgende week</string>
+	<string name="current_two_weeks">Huidige twee weken</string>
+	<string name="previous_two_weeks">Vorige twee weken</string>
+	<string name="next_two_weeks">Volgende twee weken</string>
+	<string name="all_dates">Alle datums</string>
+<!-- New --> 	<string-array name="date_range_items">
+		<item>@string/all_dates</item>
+		<item>All to date</item>
+		<item>@string/current_month</item>
+		<item>@string/current_year</item>
+		<item>Month to date</item>
+		<item>Year to date</item>
+		<item>@string/previous_month</item>
+		<item>@string/previous_year</item>
+		<item>Last 30 days</item>
+		<item>Last 3 months</item>
+		<item>Last 6 months</item>
+		<item>Last 12 months</item>
+		<item>Next 30 days</item>
+		<item>Next 3 months</item>
+		<item>Next 6 months</item>
+		<item>Next 12 months</item>
+		<item>@string/custom_dates</item>
+	</string-array>
+<!-- New --> 	<string-array name="transaction_list_date_range_title_bar">
+		<item>all dates</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>the last 30 days</item>
+		<item>the last 3 months</item>
+		<item>the last 6 months</item>
+		<item>the last 12 months</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string-array name="transaction_list_date_range_title_bar_months">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	
+<!-- New --> <string name="display_grouping">Display grouping</string> <!-- Allows the user to select a way to group their transactions -->
+</resources>

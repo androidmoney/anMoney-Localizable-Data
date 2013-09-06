@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="category_main_sub_separator">:</string>
+    <string name="category_main_sub_format">^1 ^2 ^3</string>
+    <string name="category">Categorie</string>
+    <string name="categories">Categorieen</string>
+    <string name="subcategory">Subcategorie</string>
+    <string name="classification">Classificatie</string>
+    <string name="_class">Klasse</string>
+    <string name="subclass">Onderklasse</string>
+    <string name="parent_category">Oorspronkelijke categorie</string>  <!-- This is the main category that a subcategory belongs to -->
+    <string name="parent_class">Oorspronkelijke klasse</string>  <!-- This is the main class that a subclass belongs to -->
+    <string name="edit_category">Bewerk categorie</string>
+    <string name="edit_subcategory">Bewerk subcategorie</string>
+    <string name="edit_class">Bewerk klasse</string>
+    <string name="edit_subclass">Bewerk subklasse</string>
+    <string name="new_category">Nieuwe categorie</string>
+    <string name="new_subcategory">Nieuwe subcategorie</string>
+    <string name="new_class">Nieuwe klasse</string>
+    <string name="new_subclass">Nieuwe subklasse</string>
+    <string name="delete_category">Verwijder categorie</string>
+    <string name="delete_subcategory">Verwijder subcategorie</string>
+    <string name="delete_class">Verwijder klasse</string>
+    <string name="delete_subclass">Verwijder subklasse</string>
+    <string name="add_default_categories">Voeg standaard categorieen toe</string>
+    <string name="add_classification">Voeg classificatie toe</string>
+    <string name="select_category">Selecteer categorie</string>
+    <string name="select_class">Selecteer klasse</string>
+    <string name="delete_classification">Verwijder classificatie</string>
+    <string name="rename_classification">Hernoem classificatie</string>
+    <string name="select_classification">Selecteer classificatie</string>
+    <string name="enter_classification_name">Voer classificatie naam in</string>
+    <string name="enter_new_classification_name">Voer nieuwe classificatie naam in</string>
+    <string name="categories_and_classifications">Categorieen &amp; classificaties</string>
+    <string name="no_categories_expense">Je hebt geen uitgave categorieen</string>
+    <string name="no_categories_income">Je hebt geen inkomsten categorien</string>
+    <string name="no_classes">Je hebt geen klassen</string>
+    <string name="uncategorized_transactions">Uncategoriseerde transacties</string>
+    <string name="delete_category_no_subcategories_warning_format">Categorie ^1 zal permanent worden verwijderd</string>
+    <string name="delete_class_no_subclass_warning_format">klasse ^1 zal permanent worden verwijderd</string>
+    <string name="delete_category_with_subcategories_warning_format">Categorie ^1 en <b>alle subcategorieen</b> zullen permanent worden verwijderd</string>
+    <string name="delete_class_with_subclass_warning_format">Klasse ^1 en <b>alle subklassen</b> zullen permanent worden verwijderd</string>
+    <string name="delete_subcategory_warning_format">Subcategorie ^1 zal permanent worden verwijderd</string>
+    <string name="delete_subclass_warning_format">Subklasse ^1 zal permanent worden verwijderd</string>
+    <string name="delete_classification_warning_format">Classificatie ^1 zal permanent worden verwijdederd. Bij alle transacties zal de classeficatie worden verwijderd</string>
+    <string name="default_categories_add_confirmation">Wil je toevoegen aan de standaard categorien</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="default_categories_added">Standaard categorien toegevoegd</string>
+    <string name="all_categories">Alle categorieen</string>
+    <string name="expense">Uitgave</string>
+    <string name="expenses">Uitgaven</string>
+    <string name="expense_categories">Uitgave categorien</string>
+    <string name="income">Inkomsten</string>
+    <string name="income_categories">Inkomsten categorieen</string>
+    <string name="savings">Sparen</string> <!-- As in "amount saved by budgeting" -->
+    <string name="category_name">Categorie naam</string>
+    <string name="subcategory_name_lower">subcategorie naam</string>
+    <string name="class_name">Klasse naam</string>
+    <string name="subclass_name_lower">Subklasse naam</string>
+    <string name="without_subcategory">Zonder subcategorie</string>
+    <string name="without_subclass">Zonder subklasse</string>
+    <string name="cannot_be_zero">Kan geen 0 zijn</string>
+    <string name="change_expense_warning">Wil je deze categorie veranderen van uitgaven naar inkomen, of vice versa</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="prepopulate">Samenvoegen met categorieen</string>
+    <string name="short_categories">Laad alleen korte categorie lijst (je hebt later de keus om de volledige lijst te laden)</string>
+    <string name="view_categories">Bekijk categorieen</string>
+    <string name="category_not_found">Categorie niet gevonden</string>
+    <string name="class_not_found">Klasse niet gevonden</string>
+    <string name="total_income">Totaal inkomsten</string>
+    <string name="total_expense">Totaal uitgaven</string>
+	<string name="net">Netto</string>
+    <string name="net_income">Netto inkomen</string>
+    <string name="uncategorized">ongecategoriseerd</string>
+    <string name="income_uncategorized">Ongecategoriseerd inkomek</string>
+    <string name="expense_uncategorized">Ongecategoriseerde uitgaven</string>
+    <string name="show_uncategorized">Laat ongecategoriseerd zien</string>
+    <string name="move_subcategory_to_another_category_warning">Wil je deze subcategorie verplaatsen naar een andere subcategorie</string> <!-- This is a question, but the question mark will be added progrmatically -->
+<!-- New -->    <string name="show_zero_balance_categories">Show categories with a zero balance</string>
+<!-- New -->        <string name="show_zero_balance_items">Show items with a zero balance</string> <!-- "Items" refers to classification name -->
+    <string name="recategorize_category">Hercategoriseer alle transacties binnen deze categorie als</string>
+    <string name="reclassify_class">Herclasseficeer alle transacties binnen deze klasse als</string>
+	<string name="spending_by_category0">Uitgaven per categorie</string>
+	<string name="spending_by_category1">Uitgaven per categorie of ^1</string>
+	<string name="spending_by_category2">Uitgaven per categorie, ^1 of ^2</string>
+	<string name="spending_by_category_over_time0">Uitgaven per categorie door de tijd</string>
+	<string name="spending_by_category_over_time1">Uitgaven per categorie of ^1 door de tijd</string>
+	<string name="spending_by_category_over_time2">Uitgave per categorie, ^1 of ^2 door de tijd</string>
+	<string name="assign_to_accounts">Koppel al deze rekening(en) bij voorspellen</string> <!-- As in "Assign the category to these accounts when Forecasting".  "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
+	<string name="last_account_used">De laatste rekening gebruikt</string>
+
+    <string name="no_categories">Geen categorieen</string>
+	<string name="no_categories_yet">Nog geen categorieen</string>
+    <string name="no_classes_yet">Nog geen klassen</string>
+<!-- New -->    	<string-array name="category_count_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 categories</item>
+        <item/> <!-- Not used -->
+	</string-array>
+<!-- New -->    	<string-array name="uncategorized_count_plurals">
+        <item>^1 uncategorised transaction</item>
+        <item>^1 uncategorised transactions</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+<!-- New -->    	<string-array name="default_classifications">
+		<item>Family members</item>
+		<item>Properties</item>
+		<item>Projects</item>
+		<item>Hobbies</item>
+		<item>Vacations</item>
+		<item>Job expenses</item>
+		<item>Other</item>
+	</string-array>
+</resources>

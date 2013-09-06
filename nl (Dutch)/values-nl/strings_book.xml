@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+	<string name="book">Boek</string>
+    <string name="new_book">Nieuw boek</string>
+    <string name="new_book_name">Naam nieuw boek</string>
+    <string name="rename_book">Hernoem boek</string>
+    <string name="delete_book">Verwijder boek</string>
+    <string name="share_book">Deel boek</string>
+    <string name="book_delete_warning_short_format">Boek ^1 word verwijderd</string>
+    <string name="all_data_will_be_lost">Alle data zal worden verwijderd, indien geen back up</string>
+    <string name="import_into_book">Importeer in boek</string>
+    <string name="export_from_book">Exporteer uit boek</string>
+    <string name="import_into_book_format">Importeer in boek ^1</string>
+    <string name="no_books">Je hebt geen boeken</string>
+<!-- New -->        <string name="upgrading_book">Upgrading boek</string>
+<!-- New -->        <string name="upgrading_books">Upgrading boeken</string>
+    <string name="backup">Backup</string> <!-- Verb -->
+    <string name="backup_canceled">Backup gestopt</string>
+    <string name="backup_book">Backup boek</string>
+    <string name="overwrite">Overschrijven</string>
+    <string name="backup_name">Backup naam</string>
+    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+    <string name="restore">Herstellen</string>
+    <string name="restored">Herstelt</string>
+    <string name="restore_canceled">Herstel geannuleerd</string>
+    <string name="restore_book">Herstel boek</string>
+    <string name="restore_warning_format">Boek ^1 zal worden overschreven en <b>alle</b> data zal onherroepelijk worden verwijderd</string>
+    <string name="select_backup_file_to_restore">Kies welk backup bestand moet worden hesteld</string>
+    <string name="select_backup_file_to_create_from">Kies het backup bestand om van te maken</string>
+<!-- New -->        <string name="import_statement">Import statement</string>
+<!-- New -->        <string name="no_sd_card_inserted">TheEr is geen SD kaart aanwezig</string>
+    <string name="select_files">Kies bestanden</string>
+    <string name="delete_file">Verwijder bestand</string>
+    <string name="delete_file_warning_format">Bestand ^1 zal worden verwijderd</string>
+<!-- New -->    	<string-array name="delete_files_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 selected files will be deleted</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="select_book">Kies boek</string>
+    <string name="select_book_to_import_into">Kies het boek om to import statement into</string>
+    <string name="select_import_file">Kies bestand(en) om te importeren</string>
+    <string name="not_specified_brackets">&lt;Niet gespecifieceerd></string>
+    <string name="map_accounts">Map rekeningen</string>
+    <string name="configure_account_mappings">Configureer rekening mappen</string>
+    <string name="account_required">Rekening verplicht</string>
+    <string name="duplicate_name">Kopieer naam</string>
+    <string name="options">Opties</string>
+    <string name="select_options">Selecteer importeer opties</string>
+    <string name="remove_duplicates">Verwijder dubbele</string>
+    <string name="remove_duplicates_notes">Hoewel dit zou moeten werken in de meeste gevallen, kunnen er problemen optreden, voor lals de rekeningen verschillende munteenheden hebben. In dit geval is samenvoegen niet mogelijk. After import, controleerna het importeren of het saldo klopt</string>
+    <string name="import_classes">Importeren van klassen</string>
+    <string name="ignore_memos">Negeer het memo veld</string>
+    <string name="create_payees_in_app_name_format">Maak begunstigde in ^1</string>
+    <string name="contact_account">Contacteer rekening om begunstigde aan te maken</string> <!-- This is NOT a bank account, but the kind of account you use with e-mail, like a Google Account -->
+    <string name="select_import_mode">Selecteer importeer manier</string>
+    <string name="select_accounts_to_export">Selecteer rekening(en) om te exporteren</string>
+    <string name="specify_export_file_format">Specificeer exporteer bestand formaat</string>
+    <string name="mark_transactions_exported">Markeer transacties als geexporteerd</string>
+    <string name="create_single_file">Creeer een enkel bestand</string>
+    <string name="no_transactions_matched_your_selection_criteria">Eris geen transactie die overeenkomt met de selectie van criteria.\n\nEr is geen export bestand gemaakt</string>
+	<string name="import_folder">Importeer folder</string>
+	<string name="export_folder">Exporteer folder</string>
+    <string name="ask_to_view_imported_transaction">Wilje de geimporteerde transacties zien</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="tip">Tip</string>
+    <string name="user_guide">Gebruikshandleiding</string>
+	<string name="user_guide_url">http://goo.gl/fvjiq</string>
+    <string name="whats_new">Wat is er nieuw</string>
+    <string name="license">Licentie</string>
+<!--     
+New        <string name="accept_license">Accept license</string>
+New        <string name="decline">Decline</string>
+ -->    
+    <string name="thank_you">Dank je!</string>
+    <string name="password">Wachtwoord</string>
+    <string name="old_password">Oud wachtwoord</string>
+    <string name="new_password">Nieuw wachtwoord</string>
+    <string name="verify_password">Wachtwoord nogmaals</string>
+    <string name="enter_password">Voer wachtwoord in</string>
+    <string name="incorrect_password">Fout wachtwoord. Probeer het nogmaals</string>
+    <string name="set_password">Maak wachtwoord</string>
+    <string name="password_set">Wachtwoord gemaakt</string>
+    <string name="edit_password">Bewerk wachtwoord</string>
+    <string name="remove_password">Verwijder wachtwoord</string>
+    <string name="password_removed">Wachtwoord verwijderd</string>
+    <string name="remove_password_message">Het wachtwoord word verwijderd.\n\nJe data is zichtbaar voor iedereen</string>
+    <string name="password_has_not_been_changed">Je wachtwoord is niet veranderd</string>
+    <string name="passwords_dont_match">Wachtwoorden zijn niet hetzelfde</string>
+    <string name="case_sensitive">Hoofdletter gevoelig</string>
+    <string name="disclaimer">Vrijwaring</string>
+    <string name="password_disclaimer">Lees aub de vrijwaring en vink het vakje onderin aan.\n\nOnthoud dat het wachtwoord bedoelt is om de privacy te waarborgen. Door de beperkingen van het platvorm, kan er geen encryptie van de data zijn en kan iemand die er verstand van heeft bij de data komen, zelfs zonder wachtwoord.\n\nHet word sterk aangeraden om je toestel te beveiligen met een patroon of pin beveiliging als eerste beveiliging</string>
+    <string name="i_understand_the_limitations">Ik begrijp de beperkingen</string>
+    <string name="set_password_now_part1">Nu een wachtwoord instellen</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="set_password_now_part2_format">Zelfs als je antwoord ^1, zul je ten alle tijden een wchtwoord kunnen instellen ^2 vanuit het menu bovin het scherm</string>
+    <string name="folder_name_format">Folder naam (gebruik ^1 voor subfolders)</string>
+    <string name="no_backup_files">Geen backup bestanden gevonden</string>
+    <string name="no_backup_files_new_instructions">Als je probeert een boekte maken met een geimporteerd bestand, maak dan eerst een oek aan, daarna kan je erin importeren</string>
+    <string name="remove_transactions">Verwijder transacties ouder dan de datum hieronder</string>
+    <string name="book_to_make_copy_of">Boek om een kopie van te maken</string>
+    <string name="truncate_warning_format">Alle transacties voorafgaand aan ^1 zullen onherstelbaar worden verwijderd</string>
+    <string name="information_and_help">Informatie &amp; help</string>
+    <string name="discussion_forum">Discussie forum</string>
+    <string name="join_the_user_community_format">Word ook lid van de ^1 gebruikers gemeenschap</string>
+    <string name="contact_us">Contacteer ons</string>
+    <string name="email_the_developers">Email de ontwikkelaars</string>
+    <string name="tap_to_display_import_settings_format">Toets ^1 laat het importeerscherm zien</string>
+    <string name="verify_import_settings">Controleer of de gekozen instellingen kloppen met het te importeren bestand. Als alles klopt, druk op de <b>Terug toets</b> om door te gaan met het importeren</string>
+    <string name="change_settings_instructions_format">Dit bericht word niet weergegeven voor de volgende import bestanden, maar je kan de instellingen altijd wijzigen door ^i bovenin het scherm aan te raken</string> <!-- ^i will be replaced by an image -->
+    <string name="bad_import_settings">De volgende instelling(en) kloppen niet et het bestand dat je wil importeren</string>
+    <string name="qif_csv_encoding_explanation_format">Typisch ^1 voor de talen in de lijst hieronder, maar sommige financiele instellingen kunnen bestanden maken waar ^2 moet worden gekozen om ze goed te importeren.\n\nVoor alle talen NIET op de lijst, ^2 moet altijd worden geselecteerd</string>
+    <string name="credits_legal">Credits &amp; legaal</string>
+    <string name="contact_and_social">Contact &amp; sociaal</string>
+    <string name="follow_us">Volg ons</string>
+    <string name="add_us_to_circle">Volg ons toe aan je kringen en +1 ons</string>
+    <string name="become_a_fan">Word fan</string>
+    <string name="haptic_feedback">Trillende terugkoppeling</string>
+    <string name="haptic_feedback_description">Indien geselecteerd, vibreer bij aanraken toetsen</string>
+	<string name="default_book_name">Mijn boek</string>
+	<string name="color_theme">Kleur thema</string>
+	<string name="dark">Donker</string>  <!-- As in "dark color theme" -->
+	<string name="light">Licht</string> <!-- As in "opposite of dark" -->
+	<string name="preview">Voorbeeld</string>
+	
+<!-- New -->    	<string-array name="book_new_source">
+	    <item>Create from scratch</item>
+	    <item>Create from backup</item>
+	    <item>Copy from existing book</item>
+    </string-array>
+
+<!-- New -->    	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Intentionally left empty -->
+	    <item/> <!-- Intentionally left empty -->
+	    <item>and optionally truncate at a given date</item>
+    </string-array>
+	
+<!-- New -->    	<string-array name="import_mode">
+        <item>Statements downloaded from banks</item>
+        <item>Data exported by another software</item>
+    </string-array>
+
+<!-- New -->    	<string-array name="import_mode_description">
+        <item>Used for statements downloaded from various financial institutions, such as a month-end statement from American Express. Both <b>QIF</b> and <b>OFX/QFX/OFS</b> formats are supported. The import file(s) must not contain transfers between accounts</item>
+        <item>Used for transferring data from another personal finance software, such as Microsoft® Money or Quicken®. Only the <b>QIF</b> format is supported</item>
+    </string-array>
+
+<!-- New -->    	<string-array name="book_export_file_type_description">
+        <item>Depending on the classifications and categories you use, may only be readable by Microsoft® Money</item>
+        <item>Readable by all applications supporting the <b>QIF</b> format</item>
+        <item>Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
+    </string-array>
+
+    <string name="import_file_confirm_format">Wil je importeren ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+<!-- New -->    	<string-array name="import_files_confirm_format_plurals">
+        <item/> <!-- Not used -->
+        <item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item/> <!-- Not used -->
+    </string-array>
+
+    <string name="general">Algemeen</string>
+    <string name="starting_screen">Start scherm</string>
+    <string name="negative_amount_format">Negatief bedrag formaat</string>
+    
+    <string name="show_currency_symbol">Muntsoort symbool laten zien</string>
+<!-- New -->    	<string-array name="show_currency_symbol_items">
+		<item>According to the currency</item>
+		<item>Before the amount</item>
+		<item>After the amount</item>
+	</string-array>
+	
+    <string name="base_currency">Standaard munteenheid</string>
+    <string name="space_between_symbol_and_amount">Ruimte tussen het symbool en bedrag</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+    
+    <string name="password_time_out_period">Wachtwoord time-out periode</string>
+<!-- New -->    	<string-array name="n_seconds_format_plurals">
+        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+        <item>^1 seconds</item>
+        <item/> <!-- Not used -->
+	</string-array>
+<!-- New -->    	<string-array name="n_minutes_format_plurals">
+        <item>^1 minute</item>
+        <item>^1 minutes</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    
+    <string name="set_button_behavior_format">^1 knop gedrag</string>
+<!-- New -->    	<string-array name="set_button_behavior_items">
+		<item>Sets the currently displayed number</item>
+		<item>Completes calculation and sets its result</item>
+	</string-array>
+
+    <string name="confirmations_and_warnings">Gedrag &amp; waarschuwing</string>
+
+    <string name="warn_if_no_category">Waarschuwen, indien geen categorie</string>
+    <string name="warn_if_no_category_description">Indien geselecteerd, er word een waarschuwing gegeven wanneer er geen categorie is geselcteers</string>
+    
+    <string name="warn_if_incorrect_category_type">Waarschuwen, bij fout categorie type</string>
+    <string name="warn_if_incorrect_category_type_description">Indien geselecteerd, er word een waarschuwing gegeven indien er een verkeerde categorie word geselecteerd</string>
+    
+    <string name="modification_confirmation">Modificatie bevestiging</string>
+<!-- New -->    	<string-array name="modification_confirmation_items">
+		<item>None</item>
+		<item>Reconciled only</item>
+		<item>All</item>
+	</string-array>
+	
+    <string name="back_press_prompt">Terug toets opdracht</string>
+    <string name="back_press_prompt_description">Indien geselecteerd, er word eem vragen-om-opslaan scherm getoond als de terug toets word ingedrukt</string>
+    
+    <string name="new_payee_confirmation">Nieuwe begunstigde bevestiging</string>
+    <string name="new_payee_confirmation_description">Indien geselecteerd, een bevestiging word getoond indien er een nieuwe begunstigde is gemaakt</string>
+    
+    <string name="duplicate_check_number">Kopieer check nummer</string>
+    <string name="duplicate_check_number_description">Indien geselecteerd, er word een waarschuwing gegeven als het check nummer al eens gebruikt is</string>
+    
+    <string name="field_with_initial_focus">Veld met eerste focus</string>
+    
+    <string name="show_keyboard_automatically">Laat het toetsenbord automatisch zien</string>
+	<string name="show_keyboard_automatically_description">Indien geselecteerd, het pop-up toetsenbord komt tevoorschijn bij toevoegen van een nieuwe transactie</string>
+	    
+    <string name="notes_in_transaction_window">Notities in transactieveld</string>
+    <string name="notes_in_transaction_window_description">Indien geselecteerd, een enkele lijn notitie kan worden toegevoegd in het transactieveld</string>
+    
+    <string name="new_category_in_transaction_window">Nieuwe categorie in transactieveld</string>
+    <string name="new_category_in_transaction_window_description">Indien geselecteerd, een nieuwe categorie kan gemaakt worden vanuit het transactieveld</string>
+    
+    <string name="hide_labels">Verberg labels</string>
+    <string name="hide_labels_description">Indien geselecteerd, labels in het transactieveld worden verborgen voor meer ruimte</string>
+    
+    <string name="security">Beveiliging</string>
+    
+    <string name="quick_entry_password">Snel wachtwoord invoeren</string>
+    <string name="quick_entry_password_description">Indien geselecteerd, de snel toevoegen widget al om een wachtwoord vragen, indien aanwezig</string>
+    
+    <string name="backup_folder">Backup folder</string>
+    
+    <string name="date_in_file_name">Datum in bestands naam</string>
+    <string name="date_in_file_name_description">Indien geselecteerd, de datum van vandaag zal worden toegevoegd in de bestands naam bij verzenden</string>
+    
+    <string name="automatic_backup">Automatische backup</string>
+    <string name="automatic_backup_description">Indien geselecteerd, dit boek word automatisch geback-upt</string>
+    
+    <string name="backup_how_often">Hoevaak moet er een backup gemaakt worden</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    
+    <string name="auto_backup_notify_description">Indien geselecteerd, een bericht word weergegeven na de backup</string>
+    
+<!-- New -->    	<string name="backed_up_book_format">Backed up ^1</string>
+<!-- New -->        <string-array name="backed_up_books_format_plurals">
+        <item/> <!-- Not used -->
+        <item>Backed up ^1 books</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+<!-- New -->    	<string-array name="book_exported_format_plurals">
+        <item>Exported ^1 transaction</item>
+        <item>Exported ^1 transactions</item>
+        <item/> <!-- Not used -->
+    </string-array>
+
+	<string name="failed_to_back_up_book">Geen backup van boek kunnen maken</string>
+	<string name="no_space_left_on_sd_card">Er is geen ruimte meer op de SD kaart</string>
+	<string name="cannot_restore_newer_version">Cannot restore the backup because it was created by a newer version of ^1.\n\nPlease install the latest version of ^1 and try again</string>
+		
+	<string name="file">Bestand</string>	
+	<string name="folder">Folder</string>	
+	<string name="external_storage">Externe opslage</string>	
+	<string name="path">Pad</string>	
+
+<!-- New -->        <string name="qif_csv_date_order">QIF/CSV date order</string>
+
+	<string name="comma">Komma</string>	
+    <string name="qif_csv_decimal_mark">QIF/CSV decimaal markering</string>
+<!-- New -->    	<string-array name="qif_csv_decimal_marks">
+        <item>Decimal point</item>
+        <item>@string/comma</item>
+    </string-array>
+
+    <string name="csv_delimiter">CSV scheidingsteken</string>
+<!-- New -->    	<string-array name="csv_delimiters">
+        <item>@string/comma</item>
+        <item>Semicolon</item>
+    </string-array>
+
+	<string name="qif_csv_encoding">QIF/CSV codering</string>
+    <string name="ofx_qfx_encoding">OFX/QFX/OFS codering</string>
+<!-- New -->    	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK (Chinese national standard)</item>
+        <item>Cyrillic (Windows)</item>
+        <item>Western European (Windows)</item>
+        <item>Central European (Windows)</item>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
+
+    <string name="maintain_entries">Behoud invoering</string>
+    <string name="maintain_number_field_entries">Behoud number veld invoeren</string>
+    <string name="maintain_number_field_entries_description">Laat je invoeringen die niet meer gebruikt worden verwijderen</string>
+
+    <string name="delete_entry_warning_format">Invoer ^1 zal worden verwijderd</string>
+<!-- New -->        <string-array name="delete_entries_warning_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 entries will be deleted</item>
+        <item/> <!-- Not used -->
+    </string-array>
+
+	<string name="internet_permission_warning"><b><u>IMPORTANT:</u></b>I am contemplating adding the <b>Internet</b> permission to the app to prepare for some new features which are currently not possible. If you are against this, please <a href="mailto:android.money@gmail.com">write</a> to us.</string>   
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="budget">Budget</string>
+    <string name="view_budget">Bekijk budget</string>
+    <string name="edit_budget_item">Bewerk budget item</string>
+    <string name="new_budget_item">Nieuw budget item</string>
+    <string name="over_budget">Resterend budget</string>
+    <string name="expenses_over_budget">Uitgaven boven budget</string>
+    <string name="within_budget">Binnen budget</string>
+    <string name="expenses_within_budget">Uitgaven binnen budget</string>
+    <string name="budgeted_amount">Gebudgeteerd</string>
+    <string name="actual_amount">Werkelijk</string>
+    <string name="remainder_amount">Overblijvend</string>
+	<string name="budget_vs_actual">Budget tegen werkelijkheid</string> <!-- This is a report name -->
+	<string name="budget_over_time">Budget door de tijd</string> <!-- This is a report name -->
+    <string name="recurring_bill_or_deposit_from">Terugkomende uitgaven of inkomsten van</string>
+    <string name="an_additional_amount_for_this_category">Een extra bedrag voor deze categorie</string>
+    <string name="an_additional_amount_for_this_class">Een extra bedrag voor deze klasse</string>
+    <string name="the_additional_amount_for_this_category">Het extra bedrag voor deze categorie</string>
+    <string name="the_additional_amount_for_this_class">Het extra bedrag voor deze klasse</string>
+    <string name="currently_daily_format">huidig ^1 dagelijks</string> <!-- ^1 is an numeric amount (same for the items below) -->
+    <string name="currently_weekly_format">huidig ^1 wekelijks</string>
+    <string name="currently_biweekly_format">huidig ^1 tweewekelijks</string>
+    <string name="currently_monthly_format">huidig ^1 maandelijks</string>
+    <string name="currently_quarterly_format">huidig ^1 kwartaal</string>
+    <string name="currently_half_yearly_format">huidig ^1 halfjaarlijks</string>
+    <string name="currently_yearly_format">huidig ^1 jaarlijks</string>
+    <string name="currently_custom_format">huidige persoonlijke schema gaat per ^1 jaar</string>
+    <string name="budget_no_categories_yet">Maak een categorie voor je een budget aanmaakt</string>
+    <string name="budget_no_accounts_yet">Maak een rekening voor je een budget aanmaakt</string>
+    <string name="select_budget_period">Kies te bekijken budget periode</string>
+    <string name="all_others">Alle anderen</string>
+    <string name="all_other_spending">Alle andere uitgaven</string>
+    <string name="special_item">Speciaal item</string>
+    <string name="no_budget_items">Je hebt geen budget items</string>
+    <string name="customized_schedule">Persoonlijk schema</string> <!-- As in "Customized monthly budget amounts" -->
+	<string name="include_budget_items">Inclusief budget items</string> <!-- as in "Include budget items on report" -->
+</resources>
