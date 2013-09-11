@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="two_part_format">^1 ^2</string>
+  <string name="sentence_end_period_format">^1.</string>
+  <string name="sentence_end_question_mark_format">^1?</string>
+  <string name="two_items_parantheses_format">^1 (^2)</string>
+  <string name="two_items_dash_with_space_format">^1 – ^2</string>
+  <string name="two_items_dash_without_space_format">^1–^2</string>
+  <string name="colon_format">^1:</string>
+  <string name="two_part_slash_format">^1 / ^2</string>
+  <string name="two_part_comma_format">^1, ^2</string>
+  <string name="default_name_format">^1 No. ^2</string>
+  <string name="percent_sign">%</string>
+  <string name="percentage_format">^1 %</string>
+  <string name="ellipsize_format">^1…</string>
+  <string name="plus_format">^1+</string>
+  <string name="equals_format">^1 =</string>
+  <string name="footnote_symbol"><sup><small>*</small></sup></string>
+  <string name="option_on_symbol">✓</string>
+  <string name="option_off_symbol">✗</string>
+  <string name="filter_by_order_format">^1 etter ^2</string>
+  <!--Example: "All accounts by name"-->
+  <string name="filter_by_direction_order_format">^1 etter ^2 ^3</string>
+  <!--Example: "All payees by decreasing date"-->
+  <string name="filter_for_item_by_direction_order_for_date_range_format">^1 for ^2 etter ^3 ^4 for ^5</string>
+  <!--Example: "All transactions for AMEX by decreasing date for all dates"-->
+  <string name="yes">Ja</string>
+  <string name="no">Nei</string>
+  <string name="done">Ferdig</string>
+  <string name="_continue">Fortsett</string>
+  <string name="continue_question">Fortsette</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="home">Hjem</string>
+  <string name="home_screen">Hjemmeskjerm</string>
+  <string name="previous">Forrige</string>
+  <string name="next">Neste</string>
+  <string name="_import">Importer</string>
+  <string name="imported">Importert</string>
+  <string name="importing">Importerer</string>
+  <string name="import_canceled">Import avbrutt</string>
+  <string name="export">Eksporter</string>
+  <string name="exporting">Eksporterer</string>
+  <string name="export_canceled">Eksport avbrutt</string>
+  <string name="import_export">Importer/eksporter</string>
+  <string name="settings">Innstillinger</string>
+  <string name="display_options">Visningsalternativer</string>
+  <string name="favorites">Favoritter</string>
+  <string name="add_favorite">Legg til som favoritt</string>
+  <string name="added_to_favorites">La til som favoritt</string>
+  <string name="remove">Fjern</string>
+  <string name="remove_favorite">Fjern som favoritt</string>
+  <string name="removed_from_favorites">Fjernet som favoritt</string>
+  <string name="save">Lagre</string>
+  <string name="saved">Lagret</string>
+  <string name="save_canceled">Lagring avbrutt</string>
+  <string name="canceled">Avbrutt</string>
+  <string name="delete">Slett</string>
+  <string name="deleted">Slettet</string>
+  <string name="delete_canceled">Sletting avbrutt</string>
+  <string name="deleting">Sletter</string>
+  <string name="create">Opprett</string>
+  <string name="created">Opprettet</string>
+  <string name="create_canceled">Oppretting avbrutt</string>
+  <string name="create_what">Opprett hva</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="edit">Rediger</string>
+  <string name="edit_canceled">Redigering avbrutt</string>
+  <string name="edit_which">Rediger hvilken</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="copy">Kopier</string>
+  <string name="copied">Kopiert</string>
+  <string name="move">Flytt</string>
+  <string name="moved">Flyttet</string>
+  <string name="duplicate">Dupliser</string>
+  <string name="duplicated">Duplisert</string>
+  <string name="rename">Gi nytt navn</string>
+  <string name="renamed">Ga nytt navn</string>
+  <string name="rename_canceled">Navneendring avbrutt</string>
+  <string name="link">Link</string>
+  <string name="linked">Linke</string>
+  <string name="combine">Kombiner</string>
+  <string name="combined">Kombinert</string>
+  <string name="copy_to_clipboard">Kopier til utklippstavlen</string>
+  <string name="set">Definer</string>
+  <string name="show">Vis</string>
+  <string name="share">Del</string>
+  <string name="share_canceled">Deling avbrutt</string>
+  <string name="create_in_app_name_format">Opprett i ^1</string>
+  <string name="pick_from_app_name_format">Velg fra ^1</string>
+  <string name="do_not_ask_again">Ikke spør igjen</string>
+  <string name="apply_to_all">Bruk på alle</string>
+  <string name="all_items">Alle elementer</string>
+  <string name="notes">Notater</string>
+  <string name="no_notes">Ingen notater ennå</string>
+  <string name="required">Kreves</string>
+  <string name="name">Navn</string>
+  <string name="invalid_name">Ugyldig navn</string>
+  <string name="name_exists">Navnet eksisterer allerede</string>
+  <string name="amount">Beløp</string>
+  <string name="start_date">Startdato</string>
+  <string name="end_date">Sluttdato</string>
+  <string name="must_be_less_than_format">Må være &lt; ^1</string>
+  <string name="must_be_greater_than_format">Må være &gt; ^1</string>
+  <string name="reset">Tilbakestill</string>
+  <string name="total">Sum</string>
+  <string name="grand_total">Totalsum</string>
+  <string name="average">Gjennomsnitt</string>
+  <string name="export_file_name">Filnavn for eksport</string>
+  <string name="specify_export_file_name">Spesifiser filnavn for eksport</string>
+  <string name="file_exists">En fil med samme navn finnes allerede</string>
+  <string name="folder_exists">En mappe med samme navn finnes allerede</string>
+  <string name="choose_another_name">Velg et annet navn</string>
+  <string name="will_be_overwritten">Det vil bli overskrevet</string>
+  <string name="calendar">Kalender</string>
+  <string name="remind_me">Påminn meg</string>
+  <string name="add_as_a_contact">Legg til som en kontakt</string>
+  <string name="to_from_format">^1 ^2</string>
+  <!--To <account>, From <account>-->
+  <string name="to">Til</string>
+  <!--To <account>-->
+  <string name="from">Fra</string>
+  <!--From <account>-->
+  <string name="send_email">Send e-post</string>
+  <string name="please_read">Vennligst les</string>
+  <string name="rate_app_format">Vurder ^1</string>
+  <string name="please_rate_app_format">Vær så snill og bruk et\nøyeblikk til å vurdere ^1</string>
+  <string name="later_rate_description">Du vil bli påminnet om en uke</string>
+  <string name="no_rate_description_format">Du kan gjøre dette når som helst fra skjermen for ^1</string>
+  <string name="task_killer_warning_format">Advarsel mot \"task killer\" apps:\n\nEnheten din vil kun \"våkne opp\" en gang om dagen for å utføre den automatiske behandlingen. Siden dette kun varer i noen sekunder vil det ikke ha en negativ effekt på batteritiden til enheten din.\n\n\"Task killers\" kan og vil hindre denne bakgrunnsbehandlingen fra å kjøre og burde ikke brukes med ^1</string>
+  <string name="no_thanks">Nei takk</string>
+  <string name="maybe_later">Kanskje senere</string>
+  <string name="unexpected_error_warning">En uforventet feil har oppstått og tvunget anMoney til å stoppe.\n\nHjelp oss løse dette ved å sende en failrapport via e-post til oss. Du vil få muligheten til å redigere e-posten før den sendes. \n\nTakk for hjelpen din!</string>
+  <string name="unexpected_error_notification_ticker">Uforventet feil. Send en feilmeldingsrapport.</string>
+  <string name="unexpected_error_notification_title">anMoney har stoppet</string>
+  <string name="unexpected_error_notification_text">Trykk her for å sende en feilrapport.</string>
+  <string name="unexpected_error_comment">Hvis du ønsker kan du beskrive hva du holdte på med når problemet oppsto</string>
+  <string name="archiving">Arkiverin</string>
+  <string name="archiving_settings">Arkiveringsinnstillinger</string>
+  <string name="more">Mer</string>
+  <string name="specify_export_options">Angi eksportalternativer</string>
+  <string name="select_all">Velg alle</string>
+  <string name="unselect_all">Tilbakestill utvalget</string>
+  <string name="expand_all">Utvid alle</string>
+  <string name="all_expanded">Utvidet alle</string>
+  <string name="collapse_all">Fold sammen alle</string>
+  <string name="all_collapsed">Sammenfoldet alle</string>
+  <string name="postal_address">Postadresse</string>
+  <string name="postal_address_hint">Gate\nBy\nPostkode</string>
+  <string name="cannot_perform_sd_card_operation">Handlingen kan ikke utføres nå ettersom det enten ikke er et minnekort i enheten din, eller minnekortet er utilgjengelig fordi enheten din er tilkoblet en datamaskin</string>
+  <string name="cannot_perform_file_system_operation_format">Handlingen kan ikke utføres fordi stien til den interne lagringen (^1) ikke er tilgjengelig</string>
+  <string name="please_correct_and_try_again">Korriger og prøv igjen</string>
+  <string name="no_network_message_format">^1 krever periodisk nettverkstilgang for bekreftelse av lisensiering.\n\nPrøv igjen etter å ha aktivert en nettverkstilkobling. Du kan slå av nettverkstilkoblingen etterpå.\n\nTrykk på ^2 og du vil bli tatt videre til innstillingene for <b>Trådløst og nettverk</b></string>
+  <string name="calculator">Kalkulator</string>
+  <string name="only_in_full_version">Kun i PRO-versjonen</string>
+  <string name="will_not_effect_transactions">Dette vil <b>ikke</b> påvirke transaksjoner som allerede eksisterer</string>
+  <string name="free_limitations">Kjør PRO-versjonen på <b>Google Play</b> eller på <b>Amazon Appstore</b> for å fjerne disse begrensningene:\n\n\n»<li>Ingen passordbeskyttelse</li>\n\n»<li>Ingen automatisk sikkerhetskopiering</li>\n\n»<li>Ingen tilpassede rapporter</li>\n\n»<li>Kun QIF-importering</li>\n\n»<li>Ingen kontaktintegrasjon</li>\n\n»<li>Maksimalt 2 bank-, 1 kreditt- og 1 kontantkonto</li>\n\n»<li>Maksimalt 5 budsjettelementer</li>\n\n»<li>Maksimalt 3 faste regninger eller innskudd</li></string>
+  <string name="no_items">Ingen elementer</string>
+  <string name="no_items_yet">Ingen elementer ennå</string>
+  <string-array name="items_format_plurals">
+    <item></item>
+    <item>^1 elementer</item>
+  </string-array>
+  <!--Not used-->
+  <string-array name="selected_format_plurals">
+    <item>1 valgt</item>
+    <item>^1 valgt</item>
+  </string-array>
+  <string-array name="reminder_leads">
+    <item>Ikke påminn meg</item>
+    <item>På dagen</item>
+    <item>Dagen før</item>
+    <item>To dager før</item>
+    <item>En uke før</item>
+    <item>To uker før</item>
+  </string-array>
+  <string-array name="nth_day_of_the_month">
+    <item>1.</item>
+    <item>2.</item>
+    <item>3.</item>
+    <item>4.</item>
+    <item>5.</item>
+    <item>6.</item>
+    <item>7.</item>
+    <item>8.</item>
+    <item>9.</item>
+    <item>10.</item>
+    <item>11.</item>
+    <item>12.</item>
+    <item>13.</item>
+    <item>14.</item>
+    <item>15.</item>
+    <item>16.</item>
+    <item>17.</item>
+    <item>18.</item>
+    <item>19.</item>
+    <item>20.</item>
+    <item>21.</item>
+    <item>22.</item>
+    <item>23.</item>
+    <item>24.</item>
+    <item>25.</item>
+    <item>26.</item>
+    <item>27.</item>
+    <item>28.</item>
+    <item>29.</item>
+    <item>30.</item>
+    <item>31.</item>
+  </string-array>
+  <string name="display_direction">Visningsretning</string>
+  <string-array name="sort_direction_items">
+    <item>Øker</item>
+    <item>Minsker</item>
+  </string-array>
+  <string-array name="sort_direction_title_bar">
+    <item>øker</item>
+    <item>minsker</item>
+  </string-array>
+</resources>

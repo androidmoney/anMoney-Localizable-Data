@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="FilePicker_open_folder">Åpne mappe</string>
+  <string name="FilePicker_select_file">Marker fil</string>
+  <string name="FilePicker_deselect_file">Fjern markering</string>
+  <string name="FilePicker_delete_file">Slett fil</string>
+  <string name="FilePicker_go_to_parent_folder">Gå opp et mappenivå</string>
+</resources>

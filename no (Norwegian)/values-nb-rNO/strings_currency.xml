@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="currency">Valuta</string>
+  <string name="currencies">Valutaer</string>
+  <string name="edit_currency">Redigér valuta</string>
+  <string name="set_as_base_currency">Velg som grunnvaluta</string>
+  <string name="base_currency_set">Grunnvaluta valgt</string>
+  <string name="exchange_rate">Valutakurs</string>
+  <string name="exchange_rates">Valutakurser</string>
+  <string name="country">Land</string>
+  <string name="region">Region</string>
+  <string name="currency_name">Valutanavn</string>
+  <string name="symbol">Symbol</string>
+  <string name="symbol_required">Symbol er påkrevd</string>
+  <string name="exchange_rate_required">Valutakurs er påkrevd</string>
+  <string name="view_currencies">Vis valutaer</string>
+  <string name="tap_to_modify_converted_amounts">Trykk for å modifisere konverterte beløper</string>
+  <string name="currency_converter">Valutakonverterer</string>
+  <string name="invert">Invertér</string>
+  <string name="save_exchange_rate">Lagre denne valutakursen</string>
+  <string name="all_currencies">Alle valutaer</string>
+  <string name="used_currencies">Brukte valutaer</string>
+  <string name="and_prior_format">^1 og tidligere</string>
+  <!--As in "January 1 and prior"-->
+  <string-array name="currency_list_status_filter_title_bar">
+    <item>@string/all_currencies</item>
+    <item>@string/used_currencies</item>
+  </string-array>
+  <string-array name="currency_list_sort_order_title_bar">
+    <item>@string/name</item>
+    <item>@string/region</item>
+  </string-array>
+  <string-array name="currency_count_format_plurals">
+    <item>1 valuta</item>
+    <item>^1 valutaer</item>
+  </string-array>
+</resources>
