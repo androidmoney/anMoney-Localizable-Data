@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="financial_institution">Financiele instelling</string>
+    <string name="financial_institutions">Financiele instellingen</string>
+    <string name="financial_institution_bank_first">Financiele instellingen met bankrekening eerst</string>
+    <string name="financial_institution_cash_first">Financiele instellingen met kontant eerst</string>
+    <string name="view_financial_institution">Bekijk financiele insytelling</string>
+    <string name="edit_financial_institution">Bewerk financiele instelling</string>
+    <string name="call_financial_institution">Benoem financiele instelling</string>
+    <string name="new_financial_institution">Nieuwe financiele instelling</string>
+    <string name="delete_financial_institution">Verwijder finaciele instelling</string>
+    <string name="delete_financial_institution_warning_format">Financiele instelling ^1 word permanent verwijderd en verwijderd van alle rekeningen</string>
+    <string name="add_financial_institution_as_a_contact">Voeg fin. inst. toe als kontakt</string>
+    <string name="financial_institution_exists">Er is al een financiele instelling met die naam</string>
+    <string name="no_financial_institutions">Je hebt geen financiele instelling</string>
+    <string name="view_financial_institutions">ekijk financiele instelling</string>
+    <string name="financial_institution_name">Naam finaciele instelling</string>
+    <string name="contact_exists">Er bestaat al een kontakt met die naam</string>
+    <string name="link_financial_institution">Wil je deze finalciele instelling toevoegen aan je kontakten</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="no_financial_institutions_yet">Nog geen financiele instellingen</string>
+</resources>

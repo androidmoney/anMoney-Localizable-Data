@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="view_payee">Bekijk begunstigde</string>
+    <string name="edit_payee">Bewerk begunstigde</string>
+    <string name="new_payee">Nieuwe begunstigde</string>
+    <string name="call_payee">Benoem begunstigde</string>
+    <string name="delete_payee">Verwijder begunstigde</string>
+    <string name="delete_payee_warning_format">Begunstigde ^1 word permanent verwijderd</string>
+    <string name="delete_from_app_format">Verwijder ook van ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
+    <string name="add_payee_as_a_contact">Voeg begunstigde toe als kontakt</string>
+    <string name="payee">Begunstigde</string>
+    <string name="payer">Betaler</string>
+    <string name="payees">Begunstigden</string>
+    <string name="payee_required">Begunstigde verplicht</string>
+    <string name="payer_required">Betaler verplicht</string>
+    <string name="call">Noem</string>
+    <string name="map_address">Map adres</string> <!-- Show the address on the map -->
+    <string name="no_payees">Je hebt geen begunstigden</string>
+    <string name="payee_transaction_list_empty">Je hebt nog geen transactie voor deze begunstigde</string>
+    <string name="payee_exists">Een begunstigde met die naam bestaat al</string>
+    <string name="combine_payees">Wil je de twee begunstigde samenvoegen</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="payee_name">Naam begunstigde</string>
+    <string name="link_payee">Wil je deze begunstigde toevoegen aan je bestaande kontakten</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="account_number">Rekening nummer</string>
+    <string name="phone">Telefoon</string>
+    <string name="phone_number">Telefoon nummer</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email adres</string>
+    <string name="url">URL</string>
+    <string name="web_address">Web adres</string>
+    <string name="select_account">Selecteer rekening</string>
+    <string name="open_web_page">Open web pagina</string>
+    <string name="view_payees">Bekijk begunstigden</string>
+    <string name="default_payee_name">Mijn begunstigden</string>
+	<string name="spending_by_payee">Uitgaven per begunstigde</string>
+    <string name="all_payees_hidden_by_filter">Alle begunstigden zijn verborgen door het weergave filter</string>
+        
+    <string name="without_payee">Zonder begunstigde</string>
+    <string name="no_payees_yet">Nog geen begunstigden</string>
+	<string-array name="payee_count_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 begunstigde</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+    <string name="all_payees">Alle begunstigden</string>
+	<string name="payees_in_open_accounts">Begunstigden in een open rekening</string>
+	<string name="payees_in_closed_accounts_only">Alleen begunstigden in een gesloten rekening</string>
+	<string name="unused_payees">Ongebruikte begunstigden</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

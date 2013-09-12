@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="search">Zoeken</string>
+    <string name="search_transactions">Zoek transacties</string>
+    <string name="no_matching_transactions">Geen overeenkomende transacties</string>
+</resources>

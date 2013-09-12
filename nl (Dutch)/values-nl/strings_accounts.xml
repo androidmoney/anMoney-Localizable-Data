@@ -138,85 +138,85 @@
 	<string name="show_closed">Laat gesloten zien</string> <!-- As in "Show closed accounts" -->
     
     <string name="no_accounts_yet">Nog geen rekeningen</string>
-<!-- New --> 	<string-array name="account_count_format_plurals">
+	<string-array name="account_count_format_plurals">
         <item/> <!-- Not used -->
-        <item>^1 accounts</item>
+        <item>^1 rekening</item>
         <item/> <!-- Not used -->
     </string-array>
 
-<!-- New --> 	<string-array name="pending_count_plurals">
-        <item>^1 new transaction</item>
-        <item>^1 new transactions</item>
+	<string-array name="pending_count_plurals">
+        <item>^1 nieuwe transactien</item>
+        <item>^1 nieuwe transacties</item>
         <item/> <!-- Not used -->
 	</string-array>
 
-<!-- New --> 	<string-array name="account_group_labels">
-		<item>Bank accounts</item>
-		<item>Cash</item>
-		<item>Credit accounts</item>
-		<item>Investment cash accounts</item>
+	<string-array name="account_group_labels">
+		<item>Bank rekening</item>
+		<item>Contanth</item>
+		<item>Credit card rekening</item>
+		<item>Contante investeringsrekening</item>
 		<!-- <item>Loans and liabilities</item> -->
-		<item>Other liabilities</item>
-		<item>Other assets</item>
+		<item>Andere investeringen</item>
+		<item>Andere eigendommen</item>
 	</string-array>
 
-<!-- New --> 	<string-array name="total_for_account_group_labels">
-		<item>Total for bank accounts</item>
-		<item>Total for cash</item>
-		<item>Total for credit accounts</item>
-		<item>Total for investment cash accounts</item>
+	<string-array name="total_for_account_group_labels">
+		<item>Totaal bankrekeningen</item>
+		<item>Totaal aan contant</item>
+		<item>Totaal aan credit rekeningen</item>
+		<item>Totaal aan contante investeringsrekeningen</item>
 		<!-- <item>Total for loans and liabilities</item> -->
-		<item>Total for other liabilities</item>
-		<item>Total for other assets</item>
+		<item>Totaal andere investeringen</item>
+		<item>Totaal andere eigendommen</item>
 	</string-array>
 
-<!-- New --> 	<string-array name="opening_balance_new_labels">
-	    <item>Account balance</item>
-		<item>Purchase price</item>
-		<item>Amount owed on this account</item>
-		<item>Amount owed on this card</item>
+	<string-array name="opening_balance_new_labels">
+	    <item>Rekening balans</item>
+		<item>Aankoop bedrage</item>
+		<item>Totaal tegoed van deze rekening</item>
+		<item>Totaal tegoed van deze credit card</item>
 	</string-array>
 
 <!-- New --> 	<string name="opening">Opening</string> <!-- As in "Opening balance" -->
-<!-- New --> 	<string-array name="opening_balance_edit_labels">
-	    <item>Opening balance</item>
-		<item>Original purchase price</item> <!-- of an asset -->
-		<item>Amount owed on this account originally</item>
-		<item>Amount owed on this card originally</item>
+	<string-array name="opening_balance_edit_labels">
+	    <item>Begin balans</item>
+		<item>Originele aankoop bedrag</item> <!-- of an asset -->
+		<item>Echt totaal tegoed van deze rekening</item>
+		<item>Echt totaal tegoed van deze credit card</item>
 	</string-array>
 
-<!-- New --> 	<string-array name="current_balance_edit_labels">
-	    <item>Current balance</item>
-		<item>Current value</item> <!-- of an asset -->
-		<item>Amount owed on this account currently</item>
-		<item>Amount owed on this card currently</item>
+	<string-array name="current_balance_edit_labels">
+	    <item>Huidige balans</item>
+		<item>Huidige waarde</item> <!-- of an asset -->
+		<item>Huidig totaal tegoed voor deze rekening</item>
+		<item>Huidig totaal tegoed voor deze credit card</item>
 	</string-array>
 
-<!-- New --> 	<string-array name="account_type_names">
+	<string-array name="account_type_names">
 	    <item>Bank</item>
-		<item>Cash / Other</item>
-		<item>Credit / Charge card</item>
-		<item>Line of credit</item>
-		<item>Loan</item>
+		<item>Contant / Anders</item>
+		<item>Credit card</item>
+		<item>Totaal tegoed</item>
+		<item>Lening</item>
 <!-- 		<item>Other liability</item> Loan Loans -->
-		<item>Other liability</item>
+		<item>Andere imvesteringen</item>
 		<item>@string/property</item>
 		<item>@string/vehicle</item>
-		<item>Other asset</item>
-		<item>Investment cash account</item>
+		<item>Andere eigendommen</item>
+		<item>Contant investering tegoed</item>
 	</string-array>
 
-<!-- New --> 	<string-array name="default_account_names">
+	<string-array name="default_account_names">
 	    <item>Bank</item>
-		<item>Cash</item>
+		<item>Contant</item>
 		<item>Credit card</item>
-		<item>Line of credit</item>
-		<item>Loan</item>
+		<item>Totaal tegoed</item>
+		<item>Lening</item>
 		<item>@string/liability</item>
 		<item>@string/property</item>
 		<item>@string/vehicle</item>
 		<item>@string/asset</item>
-		<item>Investment</item>
+		<item>Investering</item>
 	</string-array>
 
     <string name="show_account_numbers">Laat rekeningnummers zien</string>
@@ -253,8 +253,8 @@
     	<item>@string/not_exported_transaction2</item>
 	</string-array>
     
-<!-- New -->     <string name="display_order">Volgorde van weergave</string>
-<!-- New -->     <string name="entry_date">Invoer datum</string>
+	<string name="display_order">Volgorde van weergave</string>
+	<string name="entry_date">Invoer datum</string>
     <string-array name="transaction_list_sort_order_title_bar">
     	<item>@string/date</item>
 		<item>@string/number</item>
@@ -287,27 +287,27 @@
 	<string name="previous_two_weeks">Vorige twee weken</string>
 	<string name="next_two_weeks">Volgende twee weken</string>
 	<string name="all_dates">Alle datums</string>
-<!-- New --> 	<string-array name="date_range_items">
+	<string-array name="date_range_items">
 		<item>@string/all_dates</item>
-		<item>All to date</item>
+		<item>Alles tot datum</item>
 		<item>@string/current_month</item>
 		<item>@string/current_year</item>
-		<item>Month to date</item>
-		<item>Year to date</item>
+		<item>Maand tot datum</item>
+		<item>Jaar tot datum</item>
 		<item>@string/previous_month</item>
 		<item>@string/previous_year</item>
-		<item>Last 30 days</item>
-		<item>Last 3 months</item>
-		<item>Last 6 months</item>
-		<item>Last 12 months</item>
-		<item>Next 30 days</item>
-		<item>Next 3 months</item>
-		<item>Next 6 months</item>
-		<item>Next 12 months</item>
+		<item>Laatste 30 dagen</item>
+    	<item>Laatste 3 maanden</item>
+    	<item>Laatste 6 maanden</item>
+    	<item>Laatste 12 maanden</item>
+    	<item>Volgende 30 dagen</item>
+    	<item>Volgende 3 maanden</item>
+    	<item>Volgende 6 maanden</item>
+	    <item>Volgende 12 maanden</item>
 		<item>@string/custom_dates</item>
 	</string-array>
-<!-- New --> 	<string-array name="transaction_list_date_range_title_bar">
-		<item>all dates</item>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>alle datums</item>
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
@@ -315,10 +315,10 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
-		<item>the last 30 days</item>
-		<item>the last 3 months</item>
-		<item>the last 6 months</item>
-		<item>the last 12 months</item>
+		<item>de laatste 30 dagen</item>
+		<item>de laatste 3 maanden</item>
+		<item>de laatste 6 maanden</item>
+		<item>de laatste 12 maanden</item>
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
@@ -340,5 +340,5 @@
 		<item/> <!-- Intentionally left empty -->
 	</string-array>
 	
-<!-- New --> <string name="display_grouping">Display grouping</string> <!-- Allows the user to select a way to group their transactions -->
+	<string name="display_grouping">Laat groepen zien</string> <!-- Allows the user to select a way to group their transactions -->
 </resources>

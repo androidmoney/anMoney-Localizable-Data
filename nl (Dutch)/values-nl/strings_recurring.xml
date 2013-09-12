@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+	<string name="estimated_indicator">~</string>
+    <string name="recurring_bills_and_deposits">Terugkomende rekeningen &amp; stortingen</string>
+	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
+    <string name="recurring_bills_and_deposits_by_direction_order_format">Rekeningen &amp; stortingen door ^1 ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="view_recurring">Bekijk terugkomende</string>
+	<string name="new_recurring">Nieuwe terugkomende</string>
+	<string name="enter">Invoeren</string>
+	<string name="entered">Ingevoerd</string>
+	<string name="enter_canceled">Invoeren stoppen</string>
+	<string name="enter_into_register">Invoeren in register</string>
+	<string name="enter_into_register_warning">Bevestig dat je dit nu in het register wil invoeren</string>
+	<string name="enter_now">Nu invoeren</string>
+	<string name="enter_after_editing">Invoeren na bewerken</string>
+	<string name="enter_partially_after_editing">Gedeeltelijk invoeren na bewerken</string>
+	<string name="move_to_next_occurrence">Verplaatsen naar de volgende mogelijkheid</string>
+	<string name="remain_on_this_occurrence_format">Blijf op deze mogelijkheid, als het ingevoerde bedrag minder is dan ^1</string>	    	    	
+	<string name="edit_recurring">Bewerk terugkomende</string>
+	<string name="entire_series">Complete serie</string>
+	<string name="edit_template_warning">Er zijn aangepaste toekomstige mogelijkheden.\n\nHet bewerken van deze serie verwijdert deze mogelijkheden</string>
+	<string name="delete_recurring">Verwijder terugkomende</string>
+	<string name="delete_question_format">Verwijder ^1</string> <!-- This is a question (Delete this?), but the question mark will be added progrmatically -->
+	<string name="all_future_occurrences_will_be_deleted">Alle toekomstige mogelijkheden zullen worden verwijderd</string>
+	<string name="change_recurring_amount_format">Verander het terugkomend bedrag van ^1 in ^2</string> <!-- This is a question -->
+	<string name="skip">Sla over</string>
+	<string name="skip_occurrence">Toekomstige overslaan</string>
+	<string name="skipped">Overgeslaan</string>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item/> <!-- Not used -->
+		<item>Toekomstige ^1 overgeslagen</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="skip_canceled">Sla geannuleerde over</string>
+	<string name="skip_which">Welke overslaan</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="skip_one_occurrence_warning">Sla de aanstaande mogelijkheid over</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="no_recurrings_format">Je hebt geen terugkerende rekeningen of stortingen.\n\nOm er een te maken:\n\n<li>^1</li>\n\n<li>Houd een transactie lang ingedrukt en druk op ^2</li></string>
+    <string name="create_recurring_instructions_format">Toets ^i bovenaan in het scherm</string> <!-- ^i will be replaced by an image -->
+	<string name="recurring_no_accounts_yet">Maak eerst een rekening en een begunstigde voor je terugkomende betalingen toevoegd</string>
+	<string name="specify_account">Specificeer eerst de rekening</string>
+	<string name="account_and_amount">Rekening &amp; Bedrag</string>
+	<string name="payee_and_category">Begunstigde &amp; Categorie</string>
+	<string name="auto_enter">Automatisch toevoegen</string>
+	<string name="auto_enter_and_reminder">Automatische toevoeging &amp; Herrinnering</string>
+	<string name="pay_by_check">Ik betaal dit per cheque</string>
+	<string name="amount_is">Bedrag is</string>
+	<string name="fixed">Vast</string>
+	<string name="estimated">Begroot</string>
+	<string name="estimated_amount_format">^1^2</string>
+	<string name="upcoming">Aanstaande</string>
+	<string name="no_upcoming">Geen aanstaande rekeningen of betalingen</string>
+	<string name="no_upcoming_bills">Geen aanstaande rekeningen</string>
+	<string name="no_upcoming_deposits">Geen aanstaande betalingen</string>
+	<string name="enter_automatically">Automatisch invoeren in het register</string>
+	<string name="notify_me">Geef me bericht</string>
+	<string name="cannot_auto_enter">Door de mogelijke schommeling van de wisselkoers, kunnen terugkerende rekeningen of betalingen tussen rekeningen met verschillende valuta niet automatisch ingevoerd worden in het register.\n\nJe zal deze zelf moeten invoeren en de wisselkoers specificeren die dan geld</string>
+	<string name="entered_recurring_bill">Terugkomende rekening ingevoerd</string>
+	<string name="entered_recurring_deposit">Terugkerende storting ingevoerd</string>
+	<string name="notify_me_when_entered">Verwittig me via de systeembalk wanneer ingevoerd</string>
+	<string name="the_last_day_of_the_month">De laatste dag van de maand</string>
+	<string name="include_in_budget">Betrekken in budget</string>
+	<string name="include_recurrings">Inclusief terugkomende items</string> <!-- as in "Include recurring items on report" -->
+	<string name="make_recurring_budget_question_part1">Wil je dat deze serie deel uitmaakt van je budget</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part2_format">Zelfs als je toetst ^1, kan je dit later doen door de serie te bewerken</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+		
+	<!-- These three below form a sentence -->
+	<string name="based_part1">Gebaseerd op de laatste</string>
+	<string name="based_part2_singular">laatste</string>
+	<string-array name="based_part2_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>laatste ^1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>toekomstige</item>
+		<item>toekomstigen</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="upcoming_date">Aanstaande datum</string> <!-- As in the "the date of the upcoming recurring instance" --> 
+    <string name="series_start_date">Start datum serie</string> <!-- As in the "the starting date of the entire recurring series" -->
+	<string name="end_date_if_any">Inclusief eind datum, als er een is</string>
+	<string name="invalid_date">Ongeldige datum</string>
+	<string name="repeat">Herhaal</string>
+	<string name="every_1">Elke</string>
+	<string name="every_2"/> <!-- Intentionally left empty -->
+	<string name="every_3"/> <!-- Intentionally left empty -->
+	<string-array name="every_day_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_week_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_month_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="every_year_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="never">Nooit</string>
+	<string name="day_upper">Dag</string>
+	<string name="day_lower">dag</string>
+	<string name="days_upper">Dagen</string>
+	<string name="daily">Dagelijks</string>
+	<string name="week_upper">Week</string>
+	<string name="weeks_upper">Weken</string>
+	<string name="weekly">Wekelijks</string>
+	<string name="biweekly">Tweewekelijks</string>
+	<string name="two_weeks">Twee weken</string>
+	<string name="month_upper">Maand</string>
+	<string name="month_lower">maand</string>
+	<string name="months_upper">Maanden</string>
+	<string name="monthly">Maandelijks</string>
+	<string name="twice_a_month">Twee keer per maand</string>
+	<string name="quarter_upper">Kwartaal</string>
+	<string name="quarters_upper">Kwartalen</string>
+	<string name="quarterly">Kwartaalijks</string>
+	<string name="half_year">Half jaar</string>
+	<string name="half_yearly">Half jaarlijks</string>
+	<string name="year_upper">Jaar</string>
+	<string name="year_lower">jaar</string>
+	<string name="years_upper">Jaren</string>
+	<string name="yearly">Jaarlijks</string>
+	<string-array name="day_plurals">
+		<item>@string/day_lower</item>
+		<item>dagen</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="week_plurals">
+		<item>week</item>
+		<item>weken</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="month_plurals">
+		<item>@string/month_lower</item>
+		<item>maanden</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="year_plurals">
+		<item>@string/year_lower</item>
+		<item>jaren</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
+	<string name="if_it_falls_on_a_weekend">Als de datum in het weekeind valt</string>
+	<string name="skip_weekends">Sla weekeinden over</string>
+	
+	<string name="overdue_count_format">^1/^2</string>
+	<string-array name="overdue_plurals">
+		<item>^1 te laat</item>
+		<item>^1 te laat</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="overdue_count_plurals">
+		<item>^1 rekening of storting overtijd</item>
+		<item>^1 rekeningen of stortingen overtijd</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="enter_into_register_fixed_amount_items">
+		<item>@string/enter_now</item>
+		<item>Bewerk transactie eerst</item>
+	</string-array>
+	<string name="use_todays_date_for_transaction_date">Gebruik de datum van vandaag voor de transactie</string>
+	<string-array name="enter_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 geselecteerde terugkomende item word ingevoerd</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+	<string-array name="skip_which_items">
+		<item>Aankomende gebeurtenis</item>
+		<item>Alle achterstallige gebeurtenissen</item>
+	</string-array>
+
+	<string-array name="workday_adjustment_methods">
+		<item>Niets doen</item>
+		<item>Verplaats naar de vorige dag</item>
+		<item>Verplaats naar de volgende dag</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month">
+		<item>Op de 1ste</item>
+		<item>Op de 2de</item>
+		<item>Op de 3de</item>
+		<item>Op de 4de</item>
+		<item>Op de 5de</item>
+		<item>Op de 6de</item>
+		<item>Op de 7de</item>
+		<item>Op de 8ste</item>
+		<item>Op de 9de</item>
+		<item>Op de 10de</item>
+		<item>Op de 11de</item>
+		<item>Op de 12de</item>
+		<item>Op de 13de</item>
+		<item>Op de 14de</item>
+		<item>Op de 15de</item>
+		<item>Op de 16de</item>
+		<item>Op de 17de</item>
+		<item>Op de 18de</item>
+		<item>Op de 19de</item>
+		<item>Op de 20ste</item>
+		<item>Op de 21ste</item>
+		<item>Op de 22ste</item>
+		<item>Op de 23ste</item>
+		<item>Op de 24ste</item>
+		<item>Op de 25ste</item>
+		<item>Op de 26ste</item>
+		<item>Op de 27ste</item>
+		<item>Op de 28ste</item>
+		<item>Op de 29ste</item>
+		<item>Op de 30ste</item>
+		<item>Op de 31ste</item>
+	</string-array>
+
+	<string-array name="on_the_nth_day_of_the_month_and_on_the">
+		<item>Op de 1ste en op de</item>
+		<item>Op de 2de en op de</item>
+		<item>Op de 3de en op de</item>
+		<item>Op de 4de en op de</item>
+		<item>Op de 5de en op de</item>
+		<item>Op de 6de en op de</item>
+		<item>Op de 7de en op de</item>
+		<item>Op de 8ste en op de</item>
+		<item>Op de 9de en op de</item>
+		<item>Op de 10de en op de</item>
+		<item>Op de 11de en op de</item>
+		<item>Op de 12de en op de</item>
+		<item>Op de 13de en op de</item>
+		<item>Op de 14de en op de</item>
+		<item>Op de 15de en op de</item>
+		<item>Op de 16de en op de</item>
+		<item>Op de 17de en op de</item>
+		<item>Op de 18de en op de</item>
+		<item>Op de 19de en op de</item>
+		<item>Op de 20ste en op de</item>
+		<item>Op de 21ste en op de</item>
+		<item>Op de 22ste en op de</item>
+		<item>Op de 23ste en op de</item>
+		<item>Op de 24ste en op de</item>
+		<item>Op de 25ste en op de</item>
+		<item>Op de 26ste en op de</item>
+		<item>Op de 27ste en op de</item>
+		<item>Op de 28ste en op de</item>
+		<item>Op de 29ste en op de</item>
+		<item>Op de 30ste en op de</item>
+		<item>Op de 31ste en op de</item>
+	</string-array>
+	<string name="on_the_last_day_of_the_month">Op de laatste dag van de maand</string>
+	<string-array name="on_the_nth_day_of_the_week_format">
+		<item>Op de eerste ^1</item>
+		<item>Op de tweede ^1</item>
+		<item>Op de derde ^1</item>
+		<item>Op de vierde ^1</item>
+	</string-array>
+	<string-array name="on_the_nth_day_of_the_week_days">
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+	</string-array>
+	<string name="on_the_last_day_of_the_week_format">Op de laatste ^1</string>
+
+	<string name="work_week">Werk week</string>
+<!-- New --> <string name="period_end_day_of_the_month">Period end day of the month</string>
+	<string name="fiscal_year">Fiscaal jaar</string>
+	
+	<string name="time_of_reminder">Tijd van herrinnering</string>
+	<string name="reminder_hour_of_day_change_warning">Houd er rekening mee dat de bestaande herinneringen, indien van toepassing, zal <b>niet</b> gewijzigd. Om dat te doen, ga dan naar de agenda op uw toestel en de herinneringen daar bewerken.\n\nDe nieuwe tijd zal worden gebruikt voor alle nieuwe herinneringen en de toekomstige gevallen van bestaande terugkerende rekeningen of deposito’s</string>
+
+	<string-array name="auto_enter_days_before">
+		<item>Niet automatisch invoeren</item>
+		<item>Op de uiterste datum</item>
+		<item>De dag voor de uiterste datum</item>
+		<item>Twee dagen voor de uiterste datum</item>
+		<item>Dries dagen voor de uiterste datum</item>
+		<item>Een week voor de uiterste datum</item>
+		<item>Twee weken voor de uiterste datum</item>
+		<item>Drie weken voor de uiterste datum</item>
+		<item>Een maand voor de uiterste datum</item>
+	</string-array>	
+	
+	<string-array name="days_before_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 dagen voor</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+	<string-array name="days_before_due_date_plurals">
+		<item/> <!-- Intenionally left empty -->
+		<item>^1 dagen voor de uiterste datum</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	
+	<string name="specify_custom_number_of_days">Geef aangepaste aantal dagen</string>
+</resources>

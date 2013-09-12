@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="currency">Valuta</string>
+    <string name="currencies">Valuta’s</string>
+    <string name="edit_currency">Bewerk valuta</string>
+    <string name="set_as_base_currency">Stel in als basis valuta</string>
+    <string name="base_currency_set">Basis valuta ingesteld</string>
+    <string name="exchange_rate">Wisselkoers</string>
+    <string name="exchange_rates">Wisselkoersen</string>
+    <string name="country">Land</string>
+    <string name="region">Regio</string>
+    <string name="currency_name">Valuta naam</string>
+    <string name="symbol">Symbool</string>
+    <string name="symbol_required">Symbool verplicht</string>
+    <string name="exchange_rate_required">Wisselkoers verplicht</string>
+    <string name="view_currencies">Bekijk valuta</string>
+    <string name="tap_to_modify_converted_amounts">Raak aan om omgezette valuta toe te passen</string>
+    <string name="currency_converter">Wisselkoers berekener</string>
+    <string name="invert">Omkeren</string>
+    <string name="save_exchange_rate">Sla deze wisselkoers op</string>
+    <string name="all_currencies">Alle valuta</string>
+    <string name="used_currencies">Gebruikte wisselkoersen</string>
+    <string name="and_prior_format">^1 en eerder</string> <!-- As in "January 1 and prior" -->
+    
+	<string-array name="currency_list_status_filter_title_bar">
+		<item>@string/all_currencies</item>
+		<item>@string/used_currencies</item>
+	</string-array>
+
+	<string-array name="currency_list_sort_order_title_bar">
+		<item>@string/name</item>
+		<item>@string/region</item>
+	</string-array>
+</resources>

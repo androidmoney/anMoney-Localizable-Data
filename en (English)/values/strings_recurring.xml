@@ -46,7 +46,7 @@
 	<string name="auto_enter_and_reminder">Automatic entry &amp; Reminder</string>
 	<string name="pay_by_check">I pay this by cheque</string>
 	<string name="amount_is">Amount is</string>
-	<string name="fixed">Fixed</string>
+	<string name="fixed">Fixed</string> <!--  As in "fixed amount", NOT "fixed a problem" -->
 	<string name="estimated">Estimated</string>
 	<string name="estimated_amount_format">^1^2</string>
 	<string name="upcoming">Upcoming</string>
