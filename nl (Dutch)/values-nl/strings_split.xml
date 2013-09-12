@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="splits">Delen</string> <!-- This is a noun -->
+    <string name="split_canceled">Delen geannullerd</string> <!-- "Split" is a verb -->
+    <string name="new_split">Nieuwe deling</string> <!-- "Split" here and below are nouns -->
+    <string name="edit_split">Bewerk deling</string>
+    <string name="edit_splits">Bewerk delingen</string>
+    <string name="delete_split">Verwijder deling</string>
+	<string name="sum_of_splits">Som van de delingen</string>
+	<string name="unassigned">Unassigned</string>
+	<string name="transaction_total">Transactie totaal</string>
+    <string name="go_back_to_edit">Ga terug naar het bewerken van de deling</string>
+    <string name="unassigned_split_message_format">De som van de deling is ^1, Terwijl het transactie totaal ^2 is. Dit geeft ^3 niet toegewezen, wat niet word aangeraden</string>
+    <string name="what_would_you_like_to_do">Wat wil je doen</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="set_the_total_format">Zet het totaal op ^1</string>
+    <string name="distribute_format">Verdeel het ^1 gelijk</string>
+    <string name="leave_unassigned_format">Laat het ^1 niet toegewezen</string>
+    <string name="distributed">Verdeeld</string>
+</resources>

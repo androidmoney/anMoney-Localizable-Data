@@ -32,7 +32,7 @@
 	</record>
 	<record>
 		<region>Vereinigtes Königreich</region>
-		<name>Pfund Sterling</name>
+		<name>Britisches Pfund Sterling</name>
 		<iso4217>GBP</iso4217>
 	</record>
 	<record>
@@ -42,7 +42,7 @@
 	</record>
 	<record>
 		<region>Kamerun</region>
-		<name>CFA Franc (Äquatorial)</name>
+		<name>CFA-Franc (BEAC)</name>
 		<iso4217>XAF</iso4217>
 	</record>
 	<record>
@@ -82,7 +82,7 @@
 	</record>
 	<record>
 		<region>Vereinigte Arabische Emirate</region>
-		<name>UAE Dirham</name>
+		<name>VAE-Dirham</name>
 		<iso4217>AED</iso4217>
 	</record>
 	<record>
@@ -147,7 +147,7 @@
 	</record>
 	<record>
 		<region>Kuwait</region>
-		<name>Kuwait Dinar</name>
+		<name>Kuwait-Dinar</name>
 		<iso4217>KWD</iso4217>
 	</record>
 	<record>
@@ -202,12 +202,12 @@
 	</record>
 	<record>
 		<region>Niger</region>
-		<name>CFA Franc (West)</name>
+		<name>CFA-Franc (BCEAO)</name>
 		<iso4217>XOF</iso4217>
 	</record>
 	<record>
 		<region>Nigeria</region>
-		<name>Naira</name>
+		<name>Nigerianischer Naira</name>
 		<iso4217>NGN</iso4217>
 	</record>
 	<record>
@@ -217,7 +217,7 @@
 	</record>
 	<record>
 		<region>Oman</region>
-		<name>Rial Omani</name>
+		<name>Omanischer Rial</name>
 		<iso4217>OMR</iso4217>
 	</record>
 	<record>
@@ -227,12 +227,12 @@
 	</record>
 	<record>
 		<region>Panama</region>
-		<name>Balboa</name>
+		<name>Panamaischer Balboa</name>
 		<iso4217>PAB</iso4217>
 	</record>
 	<record>
 		<region>Peru</region>
-		<name>Neuer Sol</name>
+		<name>Peruanischer Neuer Sol</name>
 		<iso4217>PEN</iso4217>
 	</record>
 	<record>
@@ -242,12 +242,12 @@
 	</record>
 	<record>
 		<region>Polen</region>
-		<name>Zloty</name>
+		<name>Polnischer Złoty</name>
 		<iso4217>PLN</iso4217>
 	</record>
 	<record>
 		<region>Katar</region>
-		<name>Katar Riyal</name>
+		<name>Katar-Riyal</name>
 		<iso4217>QAR</iso4217>
 	</record>
 	<record>
@@ -262,7 +262,7 @@
 	</record>
 	<record>
 		<region>Saudi-Arabien</region>
-		<name>Saudi Riyal</name>
+		<name>Saudi-Rial</name>
 		<iso4217>SAR</iso4217>
 	</record>
 	<record>
@@ -277,7 +277,7 @@
 	</record>
 	<record>
 		<region>Sri Lanka</region>
-		<name>Sri Lanka Rupie</name>
+		<name>Sri-Lanka-Rupie</name>
 		<iso4217>LKR</iso4217>
 	</record>
 	<record>
@@ -297,12 +297,12 @@
 	</record>
 	<record>
 		<region>Thailand</region>
-		<name>Baht</name>
+		<name>Thailändischer Baht</name>
 		<iso4217>THB</iso4217>
 	</record>
 	<record>
 		<region>Ukraine</region>
-		<name>Hryvnia</name>
+		<name>Ukrainische Hrywnja</name>
 		<iso4217>UAH</iso4217>
 	</record>
 	<record>
@@ -317,18 +317,18 @@
 	</record>
 	<record>
 		<region>Venezuela</region>
-		<name>Bolívar Fuerte</name>
+		<name>Venezolanischer Bolívar</name>
 		<iso4217>VEF</iso4217>
 	</record>
 	<record>
 		<region>Vietnam</region>
-		<name>Dong</name>
+		<name>Vietnamesischer Dong</name>
 		<iso4217>VND</iso4217>
 	</record>
 
 	<record>
 		<region>Aruba</region>
-		<name>Aruba Florin</name>
+		<name>Aruba-Florin</name>
 		<iso4217>AWG</iso4217>
 	</record>
 	<record>
@@ -373,7 +373,7 @@
 	</record>
 	<record>
 		<region>Guatemala</region>
-		<name>Quetzal</name>
+		<name>Guatemaltekischer Quetzal</name>
 		<iso4217>GTQ</iso4217>
 	</record>
 	<record>
@@ -383,27 +383,27 @@
 	</record>
 	<record>
 		<region>Kambodscha</region>
-		<name>Riel</name>
+		<name>Kambodschanischer Riel</name>
 		<iso4217>KHR</iso4217>
 	</record>
 	<record>
 		<region>Laos</region>
-		<name>Kip</name>
+		<name>Laotischer Kip</name>
 		<iso4217>LAK</iso4217>
 	</record>
 	<record>
 		<region>Republik Moldau</region>
-		<name>Moldau Leu</name>
+		<name>Moldau-Leu</name>
 		<iso4217>MDL</iso4217>
 	</record>
 	<record>
 		<region>Madagaskar</region>
-		<name>Madagaskar Ariary</name>
+		<name>Madagaskar-Ariary</name>
 		<iso4217>MGA</iso4217>
 	</record>
 	<record>
 		<region>Mazedonien</region>
-		<name>Denar</name>
+		<name>Mazedonischer Denar</name>
 		<iso4217>MKD</iso4217>
 	</record>
 	<record>
@@ -413,12 +413,12 @@
 	</record>
 	<record>
 		<region>Malediven</region>
-		<name>Rufiyaa</name>
+		<name>Malediven-Rupie</name>
 		<iso4217>MVR</iso4217>
 	</record>
 	<record>
 		<region>Paraguay</region>
-		<name>Guarani</name>
+		<name>Paraguayischer Guarani</name>
 		<iso4217>PYG</iso4217>
 	</record>
 	<record>

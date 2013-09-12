@@ -121,38 +121,38 @@ New        <string name="decline">Decline</string>
 	<string name="light">Licht</string> <!-- As in "opposite of dark" -->
 	<string name="preview">Voorbeeld</string>
 	
-<!-- New -->    	<string-array name="book_new_source">
-	    <item>Create from scratch</item>
-	    <item>Create from backup</item>
-	    <item>Copy from existing book</item>
+	<string-array name="book_new_source">
+	    <item>Begin van voor</item>
+	    <item>Begin vanuit een backup</item>
+	    <item>Kopieren uit bestaand boek</item>
     </string-array>
 
-<!-- New -->    	<string-array name="book_new_source_descriptions">
+	<string-array name="book_new_source_descriptions">
 	    <item/> <!-- Intentionally left empty -->
 	    <item/> <!-- Intentionally left empty -->
-	    <item>and optionally truncate at a given date</item>
+	    <item>en mogelijk afknotten op een bepaalde datum</item>
     </string-array>
 	
-<!-- New -->    	<string-array name="import_mode">
-        <item>Statements downloaded from banks</item>
-        <item>Data exported by another software</item>
+	<string-array name="import_mode">
+        <item>Afschriften gedownload van bank</item>
+        <item>Data geexporteerd door een ander programma</item>
     </string-array>
 
-<!-- New -->    	<string-array name="import_mode_description">
-        <item>Used for statements downloaded from various financial institutions, such as a month-end statement from American Express. Both <b>QIF</b> and <b>OFX/QFX/OFS</b> formats are supported. The import file(s) must not contain transfers between accounts</item>
-        <item>Used for transferring data from another personal finance software, such as Microsoft® Money or Quicken®. Only the <b>QIF</b> format is supported</item>
+	<string-array name="import_mode_description">
+		<item>Gebruikt om afschriften te downloaden van verschillende financiele instellingen, zoals einde maan afschrift van American Express. Beide <b>QIF</b> en <b>OFX/QFX/OFS</b> formaten zijn geaccepteerd. De geimporteerde bestand(en) mogen geen betalingen tussen rekekingen hebben</item>
+		<item>Gebruikt om transfer data van een ander financieel programma, zoals Microsoft® Money of Quicken®. Alleen het <b>QIF</b> formaat word ondersteund</item>
     </string-array>
 
-<!-- New -->    	<string-array name="book_export_file_type_description">
-        <item>Depending on the classifications and categories you use, may only be readable by Microsoft® Money</item>
-        <item>Readable by all applications supporting the <b>QIF</b> format</item>
-        <item>Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
+	<string-array name="book_export_file_type_description">
+        <item>Afhankelijk van de classificaties en categorien die je gebruikt, kan het alleen leesbaar zijn door Microsoft® Money</item>
+        <item>Leesbaar door alle aplicaties die <b>QIF</b> formaat ondersteunen</item>
+        <item>Leesbaar door spreadsheet aplicaties, zoals Microsoft® Excel of Google™ Docs. De eerste geexporteerde rij bevat de kolom met headers, gevolgd door een rij voor elke transactie. Elke splitsing krijgt zijn eigen rij</item>
     </string-array>
 
     <string name="import_file_confirm_format">Wil je importeren ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
-<!-- New -->    	<string-array name="import_files_confirm_format_plurals">
+	<string-array name="import_files_confirm_format_plurals">
         <item/> <!-- Not used -->
-        <item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item>Wil je de ^1 bestanden importeren</item> <!-- This is a question, but the question mark will be added progrmatically -->
         <item/> <!-- Not used -->
     </string-array>
 
@@ -161,31 +161,31 @@ New        <string name="decline">Decline</string>
     <string name="negative_amount_format">Negatief bedrag formaat</string>
     
     <string name="show_currency_symbol">Muntsoort symbool laten zien</string>
-<!-- New -->    	<string-array name="show_currency_symbol_items">
-		<item>According to the currency</item>
-		<item>Before the amount</item>
-		<item>After the amount</item>
+	<string-array name="show_currency_symbol_items">
+		<item>Volgens de muntsoort</item>
+		<item>Voor het bedrag</item>
+		<item>Na het bedragt</item>
 	</string-array>
 	
     <string name="base_currency">Standaard munteenheid</string>
     <string name="space_between_symbol_and_amount">Ruimte tussen het symbool en bedrag</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
     
     <string name="password_time_out_period">Wachtwoord time-out periode</string>
-<!-- New -->    	<string-array name="n_seconds_format_plurals">
+	<string-array name="n_seconds_format_plurals">
         <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
-        <item>^1 seconds</item>
+        <item>^1 seconde</item>
         <item/> <!-- Not used -->
 	</string-array>
-<!-- New -->    	<string-array name="n_minutes_format_plurals">
-        <item>^1 minute</item>
-        <item>^1 minutes</item>
+	<string-array name="n_minutes_format_plurals">
+        <item>^1 minuut</item>
+        <item>^1 minuten</item>
         <item/> <!-- Not used -->
 	</string-array>
     
     <string name="set_button_behavior_format">^1 knop gedrag</string>
-<!-- New -->    	<string-array name="set_button_behavior_items">
-		<item>Sets the currently displayed number</item>
-		<item>Completes calculation and sets its result</item>
+	<string-array name="set_button_behavior_items">
+		<item>Maakt het huidig getoonde nummer</item>
+		<item>Beeindigd berekening en plaatst het bedrag</item>
 	</string-array>
 
     <string name="confirmations_and_warnings">Gedrag &amp; waarschuwing</string>
@@ -197,10 +197,10 @@ New        <string name="decline">Decline</string>
     <string name="warn_if_incorrect_category_type_description">Indien geselecteerd, er word een waarschuwing gegeven indien er een verkeerde categorie word geselecteerd</string>
     
     <string name="modification_confirmation">Modificatie bevestiging</string>
-<!-- New -->    	<string-array name="modification_confirmation_items">
-		<item>None</item>
-		<item>Reconciled only</item>
-		<item>All</item>
+	<string-array name="modification_confirmation_items">
+		<item>Geen</item>
+		<item>Alleen bevestigd</item>
+		<item>Alles</item>
 	</string-array>
 	
     <string name="back_press_prompt">Terug toets opdracht</string>
@@ -243,16 +243,16 @@ New        <string name="decline">Decline</string>
     
     <string name="auto_backup_notify_description">Indien geselecteerd, een bericht word weergegeven na de backup</string>
     
-<!-- New -->    	<string name="backed_up_book_format">Backed up ^1</string>
-<!-- New -->        <string-array name="backed_up_books_format_plurals">
+	<string name="backed_up_book_format">Backed up ^1</string>
+	<string-array name="backed_up_books_format_plurals">
         <item/> <!-- Not used -->
-        <item>Backed up ^1 books</item>
+        <item>Backed up ^1 boeken</item>
         <item/> <!-- Not used -->
 	</string-array>
 
-<!-- New -->    	<string-array name="book_exported_format_plurals">
-        <item>Exported ^1 transaction</item>
-        <item>Exported ^1 transactions</item>
+	<string-array name="book_exported_format_plurals">
+        <item>^1 transactie geexporteerd</item>
+        <item>^1 transacties geexporteerd</item>
         <item/> <!-- Not used -->
     </string-array>
 
@@ -269,26 +269,26 @@ New        <string name="decline">Decline</string>
 
 	<string name="comma">Komma</string>	
     <string name="qif_csv_decimal_mark">QIF/CSV decimaal markering</string>
-<!-- New -->    	<string-array name="qif_csv_decimal_marks">
-        <item>Decimal point</item>
+	<string-array name="qif_csv_decimal_marks">
+        <item>Decimaal punt</item>
         <item>@string/comma</item>
     </string-array>
 
     <string name="csv_delimiter">CSV scheidingsteken</string>
-<!-- New -->    	<string-array name="csv_delimiters">
+	<string-array name="csv_delimiters">
         <item>@string/comma</item>
-        <item>Semicolon</item>
+        <item>Puntkomma</item>
     </string-array>
 
 	<string name="qif_csv_encoding">QIF/CSV codering</string>
     <string name="ofx_qfx_encoding">OFX/QFX/OFS codering</string>
-<!-- New -->    	<string-array name="encodings">
+	<string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
-        <item>GBK (Chinese national standard)</item>
+        <item>GBK (Chinese nationale standaard)</item>
         <item>Cyrillic (Windows)</item>
-        <item>Western European (Windows)</item>
-        <item>Central European (Windows)</item>
+        <item>West Europees (Windows)</item>
+        <item>Centraal Europees (Windows)</item>
         <item>UTF-16BE (Unicode)</item>
         <item>UTF-16LE (Unicode)</item>
 	</string-array>
@@ -298,11 +298,11 @@ New        <string name="decline">Decline</string>
     <string name="maintain_number_field_entries_description">Laat je invoeringen die niet meer gebruikt worden verwijderen</string>
 
     <string name="delete_entry_warning_format">Invoer ^1 zal worden verwijderd</string>
-<!-- New -->        <string-array name="delete_entries_warning_format_plurals">
+	<string-array name="delete_entries_warning_format_plurals">
         <item/> <!-- Not used -->
-        <item>^1 entries will be deleted</item>
+        <item>^1 invoeringen worden verwijderd</item>
         <item/> <!-- Not used -->
     </string-array>
 
-	<string name="internet_permission_warning"><b><u>IMPORTANT:</u></b>I am contemplating adding the <b>Internet</b> permission to the app to prepare for some new features which are currently not possible. If you are against this, please <a href="mailto:android.money@gmail.com">write</a> to us.</string>   
+	<string name="internet_permission_warning"><b><u>BELANGRIJK:</u></b> Ik heb de toestemming voor internettoegang erbij gedaan om de app voor te bereiden op nieuwe dingen die nu nog niet kunnen. Als je hier tegen bent kan je een mail sturen naar <a href="mailto:android.money@gmail.com"></a>.</string>   
 </resources>

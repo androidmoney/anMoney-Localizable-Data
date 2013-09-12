@@ -304,5 +304,5 @@
         <item/> <!-- Not used -->
     </string-array>
 
-    <string name="internet_permission_warning"><b><u>முக்கியமான:</u></b>நான் தற்போது சாத்தியம் இல்லாத சில புதிய அம்சங்களை தயார் பயன்பாட்டை <b>இணைய</b> அனுமதி சேர்த்து சிந்தனை. இந்த எதிரான என்றால், எங்களுக்கு <a href="mailto:android.money@gmail.com">எழுதுங்கள்</a>.</string>   
+    <string name="internet_permission_warning"><b><u>முக்கியமான:</u></b> நான் தற்போது சாத்தியம் இல்லாத சில புதிய அம்சங்களை தயார் பயன்பாட்டை <b>இணைய</b> அனுமதி சேர்த்து சிந்தனை. இந்த எதிரான என்றால், எங்களுக்கு <a href="mailto:android.money@gmail.com">எழுதுங்கள்</a>.</string>   
 </resources>

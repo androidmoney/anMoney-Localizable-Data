@@ -90,24 +90,24 @@
     <string name="no_categories">Geen categorieen</string>
 	<string name="no_categories_yet">Nog geen categorieen</string>
     <string name="no_classes_yet">Nog geen klassen</string>
-<!-- New -->    	<string-array name="category_count_format_plurals">
+	<string-array name="category_count_format_plurals">
         <item/> <!-- Not used -->
-        <item>^1 categories</item>
+        <item>^1 categorieen</item>
         <item/> <!-- Not used -->
 	</string-array>
-<!-- New -->    	<string-array name="uncategorized_count_plurals">
-        <item>^1 uncategorised transaction</item>
-        <item>^1 uncategorised transactions</item>
+	<string-array name="uncategorized_count_plurals">
+        <item>^1 ongecategoriseerde transactie</item>
+        <item>^1 ongecategoriseerde transacties</item>
         <item/> <!-- Not used -->
 	</string-array>
 
-<!-- New -->    	<string-array name="default_classifications">
-		<item>Family members</item>
-		<item>Properties</item>
-		<item>Projects</item>
-		<item>Hobbies</item>
-		<item>Vacations</item>
-		<item>Job expenses</item>
-		<item>Other</item>
+	<string-array name="default_classifications">
+		<item>Familie leden</item>
+	    <item>Eigendommen</item>
+	    <item>Projecten</item>
+	    <item>Hobby’s</item>
+	    <item>Vakantie’s</item>
+	    <item>Werk uitgave</item>
+	    <item>Anders</item>
 	</string-array>
 </resources>

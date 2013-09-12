@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+	<string name="report">Rapport</string>
+    <string name="reports">Rapporten</string>
+	<string name="view_report">Bekijk rapport</string>
+	<string name="view_reports">Bekijk rapporten</string>
+	<string name="report_canceled">Rapport geannuleerd</string>
+	<string name="export_report">Export report</string>
+	<string name="report_exported">Succesvol geexporteerd naar de SD kaart</string>
+	<string name="share_report">Rapport delen</string>
+	<string name="report_settings">Rapport instellingen</string>
+	<string name="custom_dates">Aangepaste datums</string>
+	<string name="other">Ander</string>
+	<string name="report_empty">Er is geen data om weer te geven</string>
+    <string name="report_settings_instructions_format">Als u de instellingen voor het rapport te wijzigen, tikt u ^i boven in het scherm</string> <!-- ^i will be replaced by an image -->
+	<string name="reset_report_settings">De instellingen worden terug gezet naar de standaardinstellingen</string>
+	<string name="settings_reset">Instellingen terug gezet</string>
+	<string name="reset_canceled">Herstellen geannulleerd</string>
+    <string name="report_settings_tip_format">Om de instellingen van een rapport te veranderen:\n\n<li>Lange tik op de naam van het rapport en tik ^1</li>\n\n<li>Tik op het pictogram in de rechterbovenhoek van het scherm, terwijl het rapport wordt weergegeven</li></string>
+	<string name="report_name">Rapport naam</string>
+	<string name="all_reports">Alle rapporten</string>
+	<string name="favorite_reports">Favoriete rapporten</string>
+	<string name="save_report_as">Sla rapport op als</string>
+	<string name="delete_report">Verwijder rapport</string>
+    <string name="rename_report">Hernoem rapport</string>
+    <string name="duplicate_report">Dupliceer rapport</string>
+    <string name="delete_report_warning_format">Rapport ^1 zal permanent worden verwijderd</string>
+	<string name="report_type">Rapport type</string>
+	<string name="group">Groep</string> <!-- This is a verb -->
+	<string name="do_not_group">Geen groep maken</string>
+	<string name="day_0">Vandaag</string>
+	<string name="day_p1">Morgen</string>
+	<string name="day_m1">Gisteren</string>
+	<string name="day_p2"></string> <!-- Intentionally left empty -->
+	<string name="day_m2"></string> <!-- Intentionally left empty -->
+	<string name="select_report">Selecteer rapport</string>
+    <string name="report_folder">Rapport folder</string>
+	<string name="language">Taal</string>
+	<string name="text_size">Text grote</string>
+	<string name="text_size_sample">Ab</string>
+		
+	<string name="chart_type">Kaart type</string>
+	<string name="text_report">Text rapport</string>
+	<string name="pie_chart">Taart diagram</string>
+	<string name="line_chart">Lijn kaart</string>
+	<string name="bar_chart">Staafdiagram</string>
+
+	<string name="page_format">Pagina ^1</string>
+
+	<string name="page_size">Pagina grootte</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Brief</item>
+		<item>Wettelijk</item>
+		<item>Tabloid</item>
+	</string-array>
+
+	<string name="page_orientation">Pagina orientatie</string>
+	<string name="portrait">Portret</string>
+	<string name="landscape">Landschap</string>
+
+	<string name="amounts_on_charts">Laat hoeveelheid zien op de kaart</string>
+	<string name="percentages_on_pie_charts">Laat percentages zien op de taart diagram</string>
+	<string name="create_settings_page">Maak een instellingen pagina</string>
+				
+	<string-array name="report_export_file_type">
+        <item>@string/csv</item>
+        <item>@string/pdf</item>
+        <item>Web pagina</item>
+    </string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Leesbaar dooe spreadsheet-toepassingen, zoals Microsoft® Excel of Google™ Docs</item>
+		<item>Geschikt voor het afdrukken of het maken van een papieren spoor. Vereist Adobe Reader of een ander PDF-viewer</item>
+		<item>Gechikt om te bekijken op een web-site of een web browser</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Specificeren formaat te delen als</string>
+</resources>
