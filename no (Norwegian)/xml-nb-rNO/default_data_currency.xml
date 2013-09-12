@@ -2,7 +2,7 @@
 <records>
 	<record>
 		<region>United Arab Emirates</region>
-		<name>United Arab Emirates dirham</name>
+		<name>Emiratatarabisk dirham</name>
 		<symbol>Dhs</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>AED</iso4217>
@@ -10,7 +10,7 @@
 	</record>
     	<record>
 		<region>Argentina</region>
-		<name>Argentine peso</name>
+		<name>Argentinsk peso</name>
 		<symbol>AR$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>ARS</iso4217>
@@ -18,7 +18,7 @@
 	</record>
 	<record>
 		<region>Australia</region>
-		<name>Australian dollar</name>
+		<name>Australsk dollar</name>
 		<symbol>A$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>AUD</iso4217>
@@ -26,7 +26,7 @@
 	</record>
 	<record>
 		<region>Aruba</region>
-		<name>Aruban florin</name>
+		<name>Arubansk florin</name>
 		<symbol>ƒ</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>AWG</iso4217>
@@ -34,7 +34,7 @@
 	</record>
 	<record>
 		<region>Bosnia and Herzegovina</region>
-		<name>Bosnia-Herzegovina convertible mark</name>
+		<name>Konvertibilna mark</name>
 		<symbol>KM</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>BAM</iso4217>
@@ -42,7 +42,7 @@
 	</record>
  	<record>
 		<region>Barbados</region>
-		<name>Barbadian dollar</name>
+		<name>Barbadisk dollar</name>
 		<symbol>Bds$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>BBD</iso4217>
@@ -50,7 +50,7 @@
 	</record>
 	<record>
 		<region>Bangladesh</region>
-		<name>Bangladeshi taka</name>
+		<name>Bangladeshisk taka</name>
 		<symbol>৳</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>BDT</iso4217>
@@ -58,7 +58,7 @@
 	</record>
 	<record>
 		<region>Bulgaria</region>
-		<name>Bulgarian lev</name>
+		<name>Bulgarsk lev</name>
 		<symbol>лв</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>BGN</iso4217>
@@ -66,7 +66,7 @@
 	</record>
  	<record>
 		<region>Bahrain</region>
-		<name>Bahraini dinar</name>
+		<name>Bahrainsk dinar</name>
 		<symbol>BD</symbol>
 		<iso4217>BHD</iso4217>
 		<symbolLeading>0</symbolLeading>
@@ -75,7 +75,7 @@
 	</record>
 	<record>
 		<region>Bermuda</region>
-		<name>Bermudan dollar</name>
+		<name>Bermudisk dollar</name>
 		<symbol>BD$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>BMD</iso4217>
@@ -83,7 +83,7 @@
 	</record>
  	<record>
 		<region>Bolivia</region>
-		<name>Bolivian boliviano</name>
+		<name>Boliviansk boliviano</name>
 		<symbol>Bs</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>BOB</iso4217>
@@ -91,7 +91,7 @@
 	</record>
 	<record>
 		<region>Brazil</region>
-		<name>Brazilian real</name>
+		<name>Brasiliansk real</name>
 		<symbol>R$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>BRL</iso4217>
@@ -99,7 +99,7 @@
 	</record>
 	<record>
 		<region>Bahamas</region>
-		<name>Bahamian dollar</name>
+		<name>Bahamsk dollar</name>
 		<symbol>B$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>BSD</iso4217>
@@ -107,7 +107,7 @@
 	</record>
  	<record>
 		<region>Canada</region>
-		<name>Canadian dollar</name>
+		<name>Kanadisk dollar</name>
 		<symbol>C$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>CAD</iso4217>
@@ -115,7 +115,7 @@
 	</record>
 	<record>
 		<region>Switzerland</region>
-		<name>Swiss franc</name>
+		<name>Sveitsisk franc</name>
 		<symbol>Fr.</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>CHF</iso4217>
@@ -123,7 +123,7 @@
 	</record>
 	<record>
 		<region>Chile</region>
-		<name>Chilean peso</name>
+		<name>Chiliensk peso</name>
 		<symbol>CL$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<decimalDigits>0</decimalDigits>
@@ -132,7 +132,7 @@
 	</record>
 	<record>
 		<region>China</region>
-		<name>Chinese yuan</name>
+		<name>Kinesisk renminbi</name>
 		<symbol>¥</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>CNY</iso4217>
@@ -140,7 +140,7 @@
 	</record>
 	<record>
 		<region>Colombia</region>
-		<name>Colombian peso</name>
+		<name>Colombiansk peso</name>
 		<symbol>COL$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>COP</iso4217>
@@ -148,7 +148,7 @@
 	</record>
 	<record>
 		<region>Czech Republic</region>
-		<name>Czech Republic koruna</name>
+		<name>Tsjekkisk koruna</name>
 		<symbol>Kč</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>CZK</iso4217>
@@ -156,7 +156,7 @@
 	</record>
 	<record>
 		<region>Denmark</region>
-		<name>Danish krone</name>
+		<name>Danske kroner</name>
 		<symbol>kr</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>DKK</iso4217>
@@ -164,7 +164,7 @@
 	</record>
 	<record>
 		<region>Egypt</region>
-		<name>Egyptian pound</name>
+		<name>Egyptisk pund</name>
 		<symbol>L.E.</symbol>
 		<symbolLeading>0</symbolLeading>
 		<decimalDigits>2</decimalDigits>
@@ -181,7 +181,7 @@
 	</record>
 	<record>
 		<region>Fiji</region>
-		<name>Fijian dollar</name>
+		<name>Fijiansk dollar</name>
 		<symbol>FJ$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>FJD</iso4217>
@@ -189,7 +189,7 @@
 	</record>
 	<record>
 		<region>Ghana</region>
-		<name>Ghanaian cedi</name>
+		<name>Ghansk cedi</name>
 		<symbol>₵</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>GHS</iso4217>
@@ -197,7 +197,7 @@
 	</record>
 	<record>
 		<region>Gambia</region>
-		<name>Gambian dalasi</name>
+		<name>Gambisk dalasi</name>
 		<symbol>D</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>GMD</iso4217>
@@ -205,7 +205,7 @@
 	</record>
 	<record>
 		<region>United Kingdom</region>
-		<name>British pound sterling</name>
+		<name>Britisk pund</name>
 		<symbol>£</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>GBP</iso4217>
@@ -213,7 +213,7 @@
 	</record>
 	<record>
 		<region>Guatemala</region>
-		<name>Guatemalan quetzal</name>
+		<name>Guatemalansk quetzal</name>
 		<symbol>Q</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>GTQ</iso4217>
@@ -221,7 +221,7 @@
 	</record>
  	<record>
 		<region>Hong Kong</region>
-		<name>Hong Kong dollar</name>
+		<name>Hong Kong-dollar</name>
 		<symbol>HK$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>HKD</iso4217>
@@ -229,7 +229,7 @@
 	</record>
 	<record>
 		<region>Croatia</region>
-		<name>Croatian kuna</name>
+		<name>Kroatisk kuna</name>
 		<symbol>kn</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>HRK</iso4217>
@@ -237,7 +237,7 @@
 	</record>
  	<record>
 		<region>Hungary</region>
-		<name>Hungarian forint</name>
+		<name>Ungarsk forint</name>
 		<symbol>Ft</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>HUF</iso4217>
@@ -246,7 +246,7 @@
 	</record>
 	<record>
 		<region>Indonesia</region>
-		<name>Indonesian rupiah</name>
+		<name>Indonesisk rupiah</name>
 		<symbol>Rp</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>IDR</iso4217>
@@ -255,7 +255,7 @@
 	</record>
 	<record>
 		<region>Israel</region>
-		<name>Israeli new sheqel</name>
+		<name>Israelsk shekel</name>
 		<symbol>₪</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>ILS</iso4217>
@@ -263,7 +263,7 @@
 	</record>
 	<record>
 		<region>India</region>
-		<name>Indian rupee</name>
+		<name>Indisk rupi</name>
 		<symbol>₹</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>INR</iso4217>
@@ -271,7 +271,7 @@
 	</record>
 	<record>
 		<region>Iceland</region>
-		<name>Icelandic króna</name>
+		<name>Islandisk krone</name>
 		<symbol>kr</symbol>
 		<symbolLeading>0</symbolLeading>
 		<decimalDigits>0</decimalDigits>
@@ -280,7 +280,7 @@
 	</record>
 	<record>
 		<region>Jamaica</region>
-		<name>Jamaican dollar</name>
+		<name>Jamaicansk dollar</name>
 		<symbol>J$</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>JMD</iso4217>
@@ -288,7 +288,7 @@
 	</record>
 	<record>
 		<region>Jordan</region>
-		<name>Jordanian dinar</name>
+		<name>Jordansk dollar</name>
 		<symbol>JD</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>JOD</iso4217>
@@ -297,7 +297,7 @@
 	</record>
 	<record>
 		<region>Japan</region>
-		<name>Japanese yen</name>
+		<name>Japansk yen</name>
 		<symbol>¥</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>JPY</iso4217>
@@ -306,7 +306,7 @@
 	</record>
 	<record>
 		<region>Kenya</region>
-		<name>Kenyan shilling</name>
+		<name>Kenyansk shilling</name>
 		<symbol>Ksh</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>KES</iso4217>
@@ -314,7 +314,7 @@
 	</record>
 	<record>
 		<region>Cambodia</region>
-		<name>Cambodian riel</name>
+		<name>Kambodsjansk riel</name>
 		<symbol>៛</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>KHR</iso4217>

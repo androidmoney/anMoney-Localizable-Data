@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <records>
 	<record>
-		<mainCategory>Alimony</mainCategory>
+		<mainCategory>Kontantstøtte</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -15,539 +15,534 @@
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Automobile</mainCategory>
+		<mainCategory>Kjøretøy</mainCategory>
 		<subcategory>Drivstoff</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Automobile</mainCategory>
+		<mainCategory>Kjøretøy</mainCategory>
 		<subcategory>Vedlikehold</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bank Charges</mainCategory>
+		<mainCategory>Bankgebyr</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bank Charges</mainCategory>
-		<subcategory>Interest Paid</subcategory>
+		<mainCategory>Bankgebyr</mainCategory>
+		<subcategory>Renteutgifter</subcategory>
 		<expense>1</expense>
 		<defaultForInterestPaid>1</defaultForInterestPaid>
 	</record>
 	<record>
-		<mainCategory>Bank Charges</mainCategory>
-		<subcategory>Service Charge</subcategory>
+		<mainCategory>Bankgebyr</mainCategory>
+		<subcategory>Tjenestegebyr</subcategory>
 		<expense>1</expense>
 		<defaultForServiceCharge>1</defaultForServiceCharge>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
+		<mainCategory>Regninger</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Cable / Satellite Television</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Kabel- / satelitt-TV</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Mobile</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Mobil</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Electricity</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Elektrisitet</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Refuse / Recycle</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Kommunale avgifter</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Health Club</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Trening</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Homeowner’s Dues</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Hjemmevedlikehold</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Membership Fees</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Medlemsavgift</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Mortgage Payment</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Nedbetaling på lån</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Natural Gas / Oil</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Naturlig gass / olje</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Newspaper</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Avis</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Online / Internet Service</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Nett-tjenester</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Other Loan Payment</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Andre nedbetalinger av lån</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Rent</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Husleie</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Student Loan Payment</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Studentlån</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Land-line Phone</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Fasttelefon</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bills</mainCategory>
-		<subcategory>Water / Sewer</subcategory>
+		<mainCategory>Regninger</mainCategory>
+		<subcategory>Vann / kloakk</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Cash Withdrawal</mainCategory>
-		<expense>1</expense>
-		<short>1</short>
-	</record>
-	<record>
-		<mainCategory>Charitable Donations</mainCategory>
+		<mainCategory>Kontantuttak</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Childcare</mainCategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Children / Toys</mainCategory>
+		<mainCategory>Veldedighet</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Children / Toys</mainCategory>
-		<subcategory>Child Support</subcategory>
+		<mainCategory>Barn</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Children / Toys</mainCategory>
-		<subcategory>Daycare</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Clothing</mainCategory>
+		<mainCategory>Barn / leker</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Credit Card Payments / Transfers</mainCategory>
+		<mainCategory>Barn / leker</mainCategory>
+		<subcategory>Barnetrygd</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Barn / leker</mainCategory>
+		<subcategory>Barnehage</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Klær</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Dining Out</mainCategory>
+		<mainCategory>Kredittbetalinger</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Education</mainCategory>
+		<mainCategory>Spise ute</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Education</mainCategory>
-		<subcategory>Books</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Education</mainCategory>
-		<subcategory>Fees</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Education</mainCategory>
-		<subcategory>Tuition</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Entertainment</mainCategory>
+		<mainCategory>Utdanning</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Fees</mainCategory>
+		<mainCategory>Utdanning</mainCategory>
+		<subcategory>Bøker</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Utdanning</mainCategory>
+		<subcategory>Utgifter</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Utdanning</mainCategory>
+		<subcategory>Semesteravgifter</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Underholdning</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Food</mainCategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Gifts</mainCategory>
+		<mainCategory>Gebyrer</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Groceries</mainCategory>
+		<mainCategory>Mat</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Gaver</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Healthcare</mainCategory>
+		<mainCategory>Dagligvarer</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Healthcare</mainCategory>
-		<subcategory>Dental</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Healthcare</mainCategory>
-		<subcategory>Eyecare</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Healthcare</mainCategory>
-		<subcategory>Hospital</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Healthcare</mainCategory>
-		<subcategory>Physician</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Healthcare</mainCategory>
-		<subcategory>Prescriptions</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
+		<mainCategory>Helse / medisin</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
-		<subcategory>Books / Magazines</subcategory>
+		<mainCategory>Helse / medisin</mainCategory>
+		<subcategory>Tannlege</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
-		<subcategory>Cultural Events</subcategory>
+		<mainCategory>Helse / medisin</mainCategory>
+		<subcategory>Lege</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
-		<subcategory>Entertaining</subcategory>
+		<mainCategory>Helse / medisin</mainCategory>
+		<subcategory>Sykehus</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
-		<subcategory>Movies / Video Rentals</subcategory>
+		<mainCategory>Helse / medisin</mainCategory>
+		<subcategory>Resepter</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
-		<subcategory>Sporting Events</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
-		<subcategory>Sporting Goods</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
-		<subcategory>Tapes / CDs</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Hobbies / Leisure</mainCategory>
-		<subcategory>Toys / Games</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Home Improvements</mainCategory>
+		<mainCategory>Hobby og fritid</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Household</mainCategory>
+		<mainCategory>Hobby og fritid</mainCategory>
+		<subcategory>Lesestoff</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby og fritid</mainCategory>
+		<subcategory>Kulturarrangement</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby og fritid</mainCategory>
+		<subcategory>Underholdning</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby og fritid</mainCategory>
+		<subcategory>Film</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby og fritid</mainCategory>
+		<subcategory>Sportsarrangement</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby og fritid</mainCategory>
+		<subcategory>Sportsutstyr</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby og fritid</mainCategory>
+		<subcategory>Kasett / CD-plater</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobby og fritid</mainCategory>
+		<subcategory>Leker / spill</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hjemmeforbedrelser</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Household</mainCategory>
-		<subcategory>Furnishings</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Household</mainCategory>
-		<subcategory>House Cleaning</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Household</mainCategory>
-		<subcategory>Yard Service</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Insurance</mainCategory>
+		<mainCategory>Husholdning</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Insurance</mainCategory>
-		<subcategory>Automobile</subcategory>
+		<mainCategory>Husholdning</mainCategory>
+		<subcategory>Møbler</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Insurance</mainCategory>
-		<subcategory>Health</subcategory>
+		<mainCategory>Husholdning</mainCategory>
+		<subcategory>Rengjøring</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Insurance</mainCategory>
-		<subcategory>Homeowner’s / Renter’s</subcategory>
+		<mainCategory>Husholdning</mainCategory>
+		<subcategory>Hage</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Insurance</mainCategory>
-		<subcategory>Life</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Job Expense</mainCategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Job Expense</mainCategory>
-		<subcategory>Non-Reimbursed</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Job Expense</mainCategory>
-		<subcategory>Reimbursed</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Loan</mainCategory>
+		<mainCategory>Forsikring</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Loan</mainCategory>
-		<subcategory>Loan Interest</subcategory>
+		<mainCategory>Forsikring</mainCategory>
+		<subcategory>Kjøretøy</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Loan</mainCategory>
-		<subcategory>Mortgage Interest</subcategory>
+		<mainCategory>Forsikring</mainCategory>
+		<subcategory>Helse</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Loan</mainCategory>
-		<subcategory>Student Loan Interest</subcategory>
+		<mainCategory>Forsikring</mainCategory>
+		<subcategory>Innbo- / husforsikring</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Miscellaneous</mainCategory>
+		<mainCategory>Forsikring</mainCategory>
+		<subcategory>Livsforsikring</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Arbeidsutgift</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Arbeidsutgift</mainCategory>
+		<subcategory>Ikke refundert</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Arbeidsutgift</mainCategory>
+		<subcategory>Refundert</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Lån</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Lån</mainCategory>
+		<subcategory>Rente</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Lån</mainCategory>
+		<subcategory>Rente for boliglån</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Lån</mainCategory>
+		<subcategory>Rente for studentlån</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Diverse</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
 	</record>
 	<record>
-		<mainCategory>Mortgage / Rent</mainCategory>
+		<mainCategory>Boliglån / husleie</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Personal Care</mainCategory>
+		<mainCategory>Personlig ivaretakelse</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Pet Care</mainCategory>
+		<mainCategory>Kjæledyr</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Pet Care</mainCategory>
-		<subcategory>Food</subcategory>
+		<mainCategory>Kjæledyr</mainCategory>
+		<subcategory>Mat</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Pet Care</mainCategory>
-		<subcategory>Supplies</subcategory>
+		<mainCategory>Kjæledyr</mainCategory>
+		<subcategory>Utstyr</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Pet Care</mainCategory>
-		<subcategory>Veterinarian</subcategory>
+		<mainCategory>Kjæledyr</mainCategory>
+		<subcategory>Veterinær</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Land-line Phone / Mobile</mainCategory>
-		<expense>1</expense>
-		<short>1</short>
-	</record>
-	<record>
-		<mainCategory>Services / Memberships</mainCategory>
+		<mainCategory>Fast- / mobiltelefon</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Taxes</mainCategory>
+		<mainCategory>Tjenester / medlemskap</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Taxes</mainCategory>
-		<subcategory>GST / VAT</subcategory>
+		<mainCategory>Skatt</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Travel / Vacation</mainCategory>
+		<mainCategory>Skatt</mainCategory>
+		<subcategory>Merverdiavgit</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Travel / Vacation</mainCategory>
-		<subcategory>Lodging</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Travel / Vacation</mainCategory>
-		<subcategory>Travel</subcategory>
-		<expense>1</expense>
-	</record>
-	<record>
-		<mainCategory>Utilities</mainCategory>
+		<mainCategory>Reise / ferie</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Investment Income</mainCategory>
+		<mainCategory>Reise / ferie</mainCategory>
+		<subcategory>Overnatting</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Reise / ferie</mainCategory>
+		<subcategory>Reise</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Redskaper</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Investeringsinntekt</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Investment Income</mainCategory>
-		<subcategory>Capital Gains</subcategory>
+		<mainCategory>Investeringsinntekt</mainCategory>
+		<subcategory>Kapitalgevinster</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Investment Income</mainCategory>
-		<subcategory>Dividends</subcategory>
+		<mainCategory>Investeringsinntekt</mainCategory>
+		<subcategory>Utbytte</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Investment Income</mainCategory>
-		<subcategory>Interest</subcategory>
+		<mainCategory>Investeringsinntekt</mainCategory>
+		<subcategory>Rente</subcategory>
 		<expense>0</expense>
 		<defaultForInterestEarned>1</defaultForInterestEarned>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Investment Income</mainCategory>
-		<subcategory>Tax-Exempt Interest</subcategory>
+		<mainCategory>Investeringsinntekt</mainCategory>
+		<subcategory>Skattefri rente</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Other Income</mainCategory>
+		<mainCategory>Annen inntekt</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Other Income</mainCategory>
-		<subcategory>Child Support Received</subcategory>
+		<mainCategory>Annen inntekt</mainCategory>
+		<subcategory>Barnetrygd mottatt</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Other Income</mainCategory>
-		<subcategory>Employee Stock Option</subcategory>
-		<expense>0</expense>
-		<short>1</short>
-	</record>
-	<record>
-		<mainCategory>Other Income</mainCategory>
-		<subcategory>Gifts Received</subcategory>
-		<expense>0</expense>
-	</record>
-	<record>
-		<mainCategory>Other Income</mainCategory>
-		<subcategory>Loan Principal Received</subcategory>
-		<expense>0</expense>
-	</record>
-	<record>
-		<mainCategory>Other Income</mainCategory>
-		<subcategory>Lotteries</subcategory>
-		<expense>0</expense>
-	</record>
-	<record>
-		<mainCategory>Other Income</mainCategory>
-		<subcategory>Unemployment Compensation</subcategory>
-		<expense>0</expense>
-	</record>
-	<record>
-		<mainCategory>Retirement Income</mainCategory>
-		<expense>0</expense>
-	</record>
-	<record>
-		<mainCategory>Wages / Salary</mainCategory>
+		<mainCategory>Annen inntekt</mainCategory>
+		<subcategory>Arbeidsaksjer</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Wages / Salary</mainCategory>
+		<mainCategory>Annen inntekt</mainCategory>
+		<subcategory>Gaver mottatt</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Annen inntekt</mainCategory>
+		<subcategory>Mottatt prinsipiellån</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Annen inntekt</mainCategory>
+		<subcategory>Lotterier</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Annen inntekt</mainCategory>
+		<subcategory>Dagpenger</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Pansjonsinntekter</mainCategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Lønn</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Lønn</mainCategory>
 		<subcategory>Bonus</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Wages / Salary</mainCategory>
-		<subcategory>Commission</subcategory>
+		<mainCategory>Lønn</mainCategory>
+		<subcategory>Kommisjon</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Wages / Salary</mainCategory>
-		<subcategory>Gross Pay</subcategory>
-		<expense>0</expense>
-		<short>1</short>
-	</record>
-	<record>
-		<mainCategory>Wages / Salary</mainCategory>
-		<subcategory>Net Pay</subcategory>
+		<mainCategory>Lønn</mainCategory>
+		<subcategory>Bruttoutbetaling</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Wages / Salary</mainCategory>
-		<subcategory>Overtime</subcategory>
+		<mainCategory>Lønn</mainCategory>
+		<subcategory>Nettoutbetaling</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Lønn</mainCategory>
+		<subcategory>Overtid</subcategory>
 		<expense>0</expense>
 	</record>
 </records>
