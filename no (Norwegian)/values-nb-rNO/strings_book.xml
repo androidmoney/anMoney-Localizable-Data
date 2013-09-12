@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="book">Bok</string>
+  <string name="new_book">Ny bok</string>
+  <string name="new_book_name">Bokens navn</string>
+  <string name="rename_book">Endre navn på boken</string>
+  <string name="delete_book">Fjern boken</string>
+  <string name="share_book">Del boken</string>
+  <string name="book_delete_warning_short_format">Boken ^1 vil bli fjernet</string>
+  <string name="all_data_will_be_lost">Hele boken vil bli fjernet permanent om du ikke har noen sikkerhetskopier</string>
+  <string name="import_into_book">Importér inn i boken</string>
+  <string name="export_from_book">Eksporter fra boken</string>
+  <string name="import_into_book_format">Importer inn i boken ^1 </string>
+  <string name="no_books">Du har ingen bøker</string>
+  <string name="upgrading_book">Oppgraderer bok</string>
+  <string name="upgrading_books">Oppgraderer bøker</string>
+  <string name="backup">Sikkerhetskopi</string>
+  <!--Verb-->
+  <string name="backup_canceled">Sikkerhetskopiering avbrutt</string>
+  <string name="backup_book">Sikkerhetskopier bok</string>
+  <string name="overwrite">Overskriv</string>
+  <string name="backup_name">Sikkerhetskopiens navn</string>
+  <string name="auto_backup_name_format">^1 (^2 automatisk)</string>
+  <string name="restore">Gjenopprett</string>
+  <string name="restored">Gjenopprettet</string>
+  <string name="restore_canceled">Gjenopprettelse avbrut</string>
+  <string name="restore_book">Gjenopprett bok</string>
+  <string name="restore_warning_format">Boken ^1 vil bli overskrevet og <b>all</b> dens data vil bli ugjenopprettelig fjernet</string>
+  <string name="select_backup_file_to_restore">Velg sikkerhetskopier du ønsker å gjenopprette</string>
+  <string name="select_backup_file_to_create_from">Velg sikkerhetskopien det skal opprettes i fra</string>
+  <string name="import_statement">Importér kontoutskrift</string>
+  <string name="no_sd_card_inserted">Finner ikke noe SD-kort</string>
+  <string name="select_files">Velg filer</string>
+  <string name="delete_file">Slett fil</string>
+  <string name="delete_file_warning_format">Filen ^1 vil bli slettet</string>
+  <string-array name="delete_files_warning_format_plurals">
+    <item></item>
+    <item>^1 markerte filer vil bli slettet</item>
+    <item></item>
+  </string-array>
+  <!--Intentionally left empty-->
+  <!--Not used-->
+  <string name="select_book">Velg bok</string>
+  <string name="select_book_to_import_into">Velg bok for importering av kontoutskrift</string>
+  <string name="select_import_file">Velg filen(e) for importering</string>
+  <string name="not_specified_brackets">&lt;Ikke spesifisert&gt;</string>
+  <string name="map_accounts">Knytt opp kontoer</string>
+  <string name="configure_account_mappings">Konfigurer oppknyttelse av kontoer</string>
+  <string name="account_required">Konto påkrevd</string>
+  <string name="duplicate_name">Navneduplikat</string>
+  <string name="options">Alternativer</string>
+  <string name="select_options">Velg importeringsalternativer</string>
+  <string name="remove_duplicates">Fjern duplikater</string>
+  <string name="remove_duplicates_notes">Selv om dette skal fungere i flesteparten av tilfellene, så kan det være problemer, spesielt hvis kontoene har beløp i forskjellige valuta. I disse tilfellene vil vi ikke kunne knytte dem opp. Sjekk at saldo stemmer etter importeringen.</string>
+  <string name="import_classes">Importér klasser</string>
+  <string name="ignore_memos">Ignorer notatfeltet</string>
+  <string name="create_payees_in_app_name_format">Opprett betalingsmottakere i ^1</string>
+  <string name="contact_account">Kontaktkonto for opprettelse av betalingsmottakere</string>
+  <!--This is NOT a bank account, but the kind of account you use with e-mail, like a Google Account-->
+  <string name="select_import_mode">Velg importeringsmodus</string>
+  <string name="select_accounts_to_export">Velg konto(er) for eksportering</string>
+  <string name="specify_export_file_format">Velg filformat for eksportering</string>
+  <string name="mark_transactions_exported">Merk transaksjoner som eksportert</string>
+  <string name="create_single_file">Opprett én fil</string>
+  <string name="no_transactions_matched_your_selection_criteria">Ingen transaksjoner stemte med dine kriteria.\n\nIngen eksportfiler har blitt opprettet</string>
+  <string name="import_folder">Importér mappe</string>
+  <string name="export_folder">Eksporter mappe</string>
+  <string name="ask_to_view_imported_transaction">Ønsker du å se de importerte transaksjonene</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="tip">Tips</string>
+  <string name="user_guide">Brukermanual</string>
+  <string name="user_guide_url">http://goo.gl/fvjiq</string>
+  <string name="whats_new">Hva er nytt</string>
+  <string name="license">Lisense</string>
+  <!--<string name="accept_license">Accept license</string>
+    <string name="decline">Decline</string>-->
+  <string name="thank_you">Takk!</string>
+  <string name="password">Passord</string>
+  <string name="old_password">Gammelt passord</string>
+  <string name="new_password">Nytt passord</string>
+  <string name="verify_password">Verifiser passord</string>
+  <string name="enter_password">Tast inn passord</string>
+  <string name="incorrect_password">Ugyldig passord. Prøv igjen</string>
+  <string name="set_password">Velg passord</string>
+  <string name="password_set">Passord valgt</string>
+  <string name="edit_password">Endre passord</string>
+  <string name="remove_password">Fjern passord</string>
+  <string name="password_removed">Passord fjernet</string>
+  <string name="remove_password_message">Passordet er fjernet.\n\nDine data kan nå leses om noen får fysisk tilgang til din enhet</string>
+  <string name="password_has_not_been_changed">Passordet ble ikke forandret</string>
+  <string name="passwords_dont_match">Passordene stemmer ikke overrens</string>
+  <string name="case_sensitive">skiller mellom små og store bokstaver</string>
+  <string name="disclaimer">Ansvarsfraskrivelse</string>
+  <string name="password_disclaimer">Les denne ansvarsfraskrivelsen og huk av boksen på slutten.\n\nMerk at passordfunksjonaliteten var utformet som en beskyttelse fra “snikende øyner“. Grunnet plattformens begrensninger er ikke kryptering av selve dataene en mulighet, og noen med de rette ferdighetene kan derfor få tilgang til dine data selv om du bruker et passord.\n\nDet anbefales derfor at du beskytter enheten din med en mønsterkode eller annet passord for høynet sikkerhet</string>
+  <string name="i_understand_the_limitations">Jeg forstår disse begrensningene</string>
+  <string name="set_password_now_part1">Velg et passord</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="set_password_now_part2_format">Selv om du velger ^1, så har du fortsatt muligheten til å velge et passord ved å velge ^2 fra menyen øverst på skjermen</string>
+  <string name="folder_name_format">Mappenavn (bruk ^1 for undermapper)</string>
+  <string name="no_backup_files">Ingen sikkerhetskopier funnet</string>
+  <string name="no_backup_files_new_instructions">Om du prøver å opprette en bok med én import, så må du opprette en bok først, deretter importere inn i den</string>
+  <string name="remove_transactions">Fjern transaksjoner eldre enn angitt dato</string>
+  <string name="book_to_make_copy_of">Bok som skal kopieres</string>
+  <string name="truncate_warning_format">Alle transaksjoner før ^1 vil bli slettet permanent</string>
+  <string name="information_and_help">Informasjon &amp; hjelp</string>
+  <string name="discussion_forum">Diskusjonsforum</string>
+  <string name="join_the_user_community_format">Bli med i ^1s brukersamfunn</string>
+  <string name="contact_us">Kontakt oss</string>
+  <string name="email_the_developers">Send en e-post til utviklerne</string>
+  <string name="tap_to_display_import_settings_format">Valg av ^1 vil vise innstillingene for importering</string>
+  <string name="verify_import_settings">Verifiser at standardinnstillingene er korrekte for filen du importerer. Hvis alt ser bra ut, velg <b>Tilbake</b>-pilen for å fortsette med importeringsprosessen</string>
+  <string name="change_settings_instructions_format">Denne meldingen vil ikke vises for etterfølgende importer, men du kan endre innstillingene ved å velge ^i på toppen av skjermen</string>
+  <!--^i will be replaced by an image-->
+  <string name="bad_import_settings">Følgende innstiling(er) ser ikke ut til å samsvare med filen du prøver å importere</string>
+  <string name="qif_csv_encoding_explanation_format">Normalt burde ^1 brukes for språkene i listen under, men noen finansinstitusjoner kan produsere filer hvor ^2 må velges for at importeringen skal bli vellykket.\n\nFor alle andre språk som IKKE er i listen burde alltid ^2 velges.</string>
+  <string name="credits_legal">Bidragsytere &amp; juridisk</string>
+  <string name="contact_and_social">Kontakt &amp; sosial</string>
+  <string name="follow_us">Følg oss</string>
+  <string name="add_us_to_circle">Legg oss til i din sirkel og +1 oss</string>
+  <string name="become_a_fan">Bli en fan av oss</string>
+  <string name="haptic_feedback">Vibrasjonsfeedback</string>
+  <string name="haptic_feedback_description">Ved knappetrykk vil telefonen vibrere</string>
+  <string name="default_book_name">Min bok</string>
+  <string name="color_theme">Fargetema</string>
+  <string name="dark">Mørkt</string>
+  <!--As in "dark color theme"-->
+  <string name="light">Lyst</string>
+  <!--As in "opposite of dark"-->
+  <string name="preview">Forhåndsvisning</string>
+  <string-array name="book_new_source">
+    <item>Opprett fra bunnen av</item>
+    <item>Opprett fra sikkerhetskopi</item>
+    <item>Kopiér fra eksisterende bok</item>
+  </string-array>
+  <string-array name="book_new_source_descriptions">
+    <item></item>
+    <item></item>
+    <item>og eventuelt avkorte på gitt dato</item>
+  </string-array>
+  <!--Intentionally left empty-->
+  <!--Intentionally left empty-->
+  <string-array name="import_mode">
+    <item>Nedlastede bankutskrifter</item>
+    <item>Data eksportert av annen programvare</item>
+  </string-array>
+  <string-array name="import_mode_description">
+    <item>Brukes for bankutskrifter lastet ned fra forskjellige finansinstitusjoner, som f.eks. en bankutskrift ved slutten av måneden fra DNB. Både <b>QIF</b> og <b>OFX/QFX/OFS</b>-formatene er støttet. Importéringsfilen(e) må ikke inneholde overføringer imellom konti.</item>
+    <item>Brukes for å overføre data fra personlige finansapplikasjoner, sånn som f.eks. Microsoft® Money eller Quicken®. Kun <b>QIF</b>-formatet er støttet.</item>
+  </string-array>
+  <string-array name="book_export_file_type_description">
+    <item>Avhengig av klassifiseringene og kategoriene som du bruker, er eksporten muligens kun lesbar for Microsoft® Money</item>
+    <item>Lesbar av alle applikasjoner som støtter QIF-formatet</item>
+    <item>Lesbar av regneark-applikasjoner, f.eks. Microsoft® Excel eller Google™ Dokumenter. Denne første eksporterte raden inneholder kolonneoverskriftene, etterfulgt av en rad for hver transaksjon. Hver oppdeling får én egen rad. </item>
+  </string-array>
+  <string name="import_file_confirm_format">Ønsker du å importere ^1</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string-array name="import_files_confirm_format_plurals">
+    <item></item>
+    <item>Ønsker du å importere ^1 filer</item>
+    <item></item>
+  </string-array>
+  <!--Not used-->
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <!--Not used-->
+  <string name="general">Generelt</string>
+  <string name="starting_screen">Oppstartsskjerm</string>
+  <string name="negative_amount_format">Format for negative transaksjonsbeløp</string>
+  <string name="show_currency_symbol">Vis valutasymbol</string>
+  <string-array name="show_currency_symbol_items">
+    <item>Etter valutaens standard</item>
+    <item>Før beløpet</item>
+    <item>Etter beløpet</item>
+  </string-array>
+  <string name="base_currency">Grunnvaluta</string>
+  <string name="space_between_symbol_and_amount">Mellomrom mellom symbolet og beløpet</string>
+  <!--This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount-->
+  <string name="password_time_out_period">Tidsavbrudd for passordspørring</string>
+  <string-array name="n_seconds_format_plurals">
+    <item></item>
+    <item>^1 sekunder</item>
+    <item></item>
+  </string-array>
+  <!--Intentionally left empty as the seconds are always > 1-->
+  <!--Not used-->
+  <string-array name="n_minutes_format_plurals">
+    <item>1 minutt</item>
+    <item>^1 minutter</item>
+    <item></item>
+  </string-array>
+  <!--Not used-->
+  <string name="set_button_behavior_format">^1 oppførsel for knapp</string>
+  <string-array name="set_button_behavior_items">
+    <item>Velger det nåværende nummeret</item>
+    <item>Fullfører kalkulasjonen og bruker resultatet</item>
+  </string-array>
+  <string name="confirmations_and_warnings">Bekreftelser &amp; advarsler</string>
+  <string name="warn_if_no_category">Advar når kategori mangler</string>
+  <string name="warn_if_no_category_description">Hvis valgt så vises en advarsel når ingen kategori er spesifisert</string>
+  <string name="warn_if_incorrect_category_type">Advar når kategoritypen ikke stemmer</string>
+  <string name="warn_if_incorrect_category_type_description">Hvis valgt så vises en advarsel om kategoriens type ikke stemmer med betalingen</string>
+  <string name="modification_confirmation">Endringsbekreftelse</string>
+  <string-array name="modification_confirmation_items">
+    <item>Aldri</item>
+    <item>Kun avstemte</item>
+    <item>Alle</item>
+  </string-array>
+  <string name="back_press_prompt">Dialog ved tilbake-trykk</string>
+  <string name="back_press_prompt_description">Du vil få spørsmål om lagring når tilbake-knappen brukes</string>
+  <string name="new_payee_confirmation">Bekreft ny betalingsmottaker</string>
+  <string name="new_payee_confirmation_description">Hvis valgt vil en bekreftelse vises før en ny betalingsmottaker opprettes</string>
+  <string name="duplicate_check_number">Duplikate sjekknummer</string>
+  <string name="duplicate_check_number_description">Hvis valgt vises en advarsel om sjekknummeret allerede har vært brukt</string>
+  <string name="field_with_initial_focus">Første felt med fokus</string>
+  <string name="show_keyboard_automatically">Vis automatisk tastaturet</string>
+  <string name="show_keyboard_automatically_description">Hvis valgt vil skjermtastaturet vises når en ny transaksjon opprettes</string>
+  <string name="notes_in_transaction_window">Notater i transaksjoner</string>
+  <string name="notes_in_transaction_window_description">Hvis valgt vil et notat, på en linje, kunne redigeres i transaksjonsvinduet</string>
+  <string name="new_category_in_transaction_window">Ny kategori i transaksjonsvinduet</string>
+  <string name="new_category_in_transaction_window_description">Hvis valgt kan en ny kategori opprettes fra transaksjonsvinduet</string>
+  <string name="hide_labels">Skjul etiketter</string>
+  <string name="hide_labels_description">Hvis valgt vil etiketter i transaksjonsvinduet bli skjult for å gi mer plass</string>
+  <string name="security">Sikkerhet</string>
+  <string name="quick_entry_password">Passord for hurtiginntasting</string>
+  <string name="quick_entry_password_description">Hvis valgt vil småprogrammet for hurtiginntasting spørre om passord, hvis et er satt</string>
+  <string name="backup_folder">Mappe for sikkerhetskopiering</string>
+  <string name="date_in_file_name">Dato i filnavnet</string>
+  <string name="date_in_file_name_description">Dagens dato vil bli lagt til filnavnet ved sending</string>
+  <string name="automatic_backup">Automatisk sikkerhetskopiering</string>
+  <string name="automatic_backup_description">Hvis valgt vil boken bli automatisk sikkerhetskopiert</string>
+  <string name="backup_how_often">Interval for sikkerhetskopiering</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="auto_backup_notify_description">Hvis valgt vil et varsel vises etter sikkerhetskopieringen</string>
+  <string name="backed_up_book_format">Sikkerhetskopierte ^1</string>
+  <string-array name="backed_up_books_format_plurals">
+    <item></item>
+    <item>Sikkerhetskopierte ^1 bøker</item>
+    <item></item>
+  </string-array>
+  <!--Not used-->
+  <!--Not used-->
+  <string-array name="book_exported_format_plurals">
+    <item>Eksporterte én transaksjon</item>
+    <item>Eksporterte ^1 transaksjoner</item>
+    <item></item>
+  </string-array>
+  <!--Not used-->
+  <string name="failed_to_back_up_book">Sikkerhetskopieringen feilet</string>
+  <string name="no_space_left_on_sd_card">SD-kortet har ikke ledig plass</string>
+  <string name="cannot_restore_newer_version">Sikkerhetskopien kan ikke gjenopprettes fordi den ble opprettet av en nyere versjon av ^1.\n\nInstallér den nyeste versjonen av ^1 og prøv igjen.</string>
+  <string name="file">Fil</string>
+  <string name="folder">Mappe</string>
+  <string name="external_storage">Ekstern lagring</string>
+  <string name="path">Sti</string>
+  <string name="qif_csv_date_order">QIF/CSV datoformat</string>
+  <string name="comma">Komma</string>
+  <string name="qif_csv_decimal_mark">QIF/CSV desimaltegn</string>
+  <string-array name="qif_csv_decimal_marks">
+    <item>Desimaltegn</item>
+    <item>@string/comma</item>
+  </string-array>
+  <string name="csv_delimiter">CSV-skilletegn</string>
+  <string-array name="csv_delimiters">
+    <item>@string/comma</item>
+    <item>Semikolon</item>
+  </string-array>
+  <string name="qif_csv_encoding">QIF/CSV-enkoding</string>
+  <string name="ofx_qfx_encoding">OFX/QFX/OFS-enkoding</string>
+  <string-array name="encodings">
+    <item>@string/iso_8859_1</item>
+    <item>@string/utf_8</item>
+    <item>GBK (Kinesisk nasjonalstandard)</item>
+    <item>Kyrillisk (Windows)</item>
+    <item>Vest-europeisk (Windows)</item>
+    <item>Sentral-europeisk (Windows)</item>
+    <item>UTF-16BE (Unicode)</item>
+    <item>UTF-16LE (Unicode)</item>
+  </string-array>
+  <string name="maintain_entries">Oppretthold oppføringer</string>
+  <string name="maintain_number_field_entries">Oppretthold nummerfelt-oppføringer</string>
+  <string name="maintain_number_field_entries_description">Lar deg slette nummerfelt som ikke lenger er i bruk i transaksjoner</string>
+  <string name="delete_entry_warning_format">Oppføringen ^1 vil bli slettet</string>
+  <string-array name="delete_entries_warning_format_plurals">
+    <item></item>
+    <item>^1 oppføringer vil bli slettet</item>
+    <item></item>
+  </string-array>
+  <!--Not used-->
+  <!--Not used-->
+  <string name="internet_permission_warning"></string>
+</resources>

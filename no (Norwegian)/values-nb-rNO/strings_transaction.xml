@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="transactions">Transaksjoner</string>
+  <string name="view_transactions">Vis transaksjoner</string>
+  <string name="new_transaction">Ny transaksjon</string>
+  <string name="edit_transaction">Rediger transaksjon</string>
+  <string name="split_transaction">Splitt transaksjon</string>
+  <string name="delete_transaction">Slett transaksjon</string>
+  <string name="accept_transaction">Godta transaksjon</string>
+  <!--Accept as in "Accept a new transaction"-->
+  <string name="select">Velg</string>
+  <string name="accept">Godta</string>
+  <string name="accepted">Godtatt</string>
+  <string name="accept_canceled">Godtakelse avbrutt</string>
+  <string name="accept_transaction_all"><b>Alle</b> transaksjoner vil bli godtatt</string>
+  <string name="mark">Marker</string>
+  <!--Mark as "Mark a transaction reconciled/cleared/etc"-->
+  <string name="marked">Markert</string>
+  <string name="mark_canceled">Markering avbrutt</string>
+  <string name="mark_transaction">Marker transaksjon</string>
+  <string-array name="mark_transactions_format_plurals">
+    <item></item>
+    <item>Velg ^1 transaksjoner</item>
+    <item></item>
+  </string-array>
+  <!--Intentionally left empty-->
+  <!--Not used-->
+  <string name="mark_transactions_all">Marker <b>alle</b> transaksjoner</string>
+  <string name="unreconciled1">Ikke avstemt</string>
+  <string name="unreconciled2">@string/unreconciled1</string>
+  <string name="cleared1">Klarert</string>
+  <string name="cleared2">@string/cleared1</string>
+  <string name="reconciled1">Avstemt</string>
+  <string name="reconciled2">@string/reconciled1</string>
+  <string name="_void_verb">Ugyldig</string>
+  <string name="_void1">@string/_void_verb</string>
+  <!--This is an adjective as in "Void transaction"-->
+  <string name="not_void1">Ikke ugyldig</string>
+  <!--This is an adjective as in "Not void transaction"-->
+  <string name="pending2">Avventer</string>
+  <!--- As in it is a new transaction, and I need to review and accept it-->
+  <string name="exported_transaction">Eksportert</string>
+  <string name="not_exported_transaction1">Ikke eksportert</string>
+  <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
+  <string name="edit_notes">Rediger notatet</string>
+  <string name="notes_created">Notat opprettet</string>
+  <string name="notes_edited">Notat redigert</string>
+  <string name="notes_deleted">Notat fjernet</string>
+  <string name="notes_creation_canceled">Avbrøt opprettelse av notat</string>
+  <string name="flag_for_follow_up">Merk for oppfølging</string>
+  <string name="edit_follow_up">Rediger oppfølging</string>
+  <string name="make_recurring">Gjør om til fast </string>
+  <string name="follow_up2">Oppfølging</string>
+  <string name="follow_up_by">Følg opp innen</string>
+  <string name="follow_up_created">Oppfølging opprettet</string>
+  <string name="follow_up_edited">Oppfølging redigert</string>
+  <string name="follow_up_deleted">Oppfølging fjernet</string>
+  <string name="follow_up_creation_canceled">Avbrøt opprettelse av oppfølging</string>
+  <string name="go_to">Gå til</string>
+  <!--Used on the menu to display a submenu where you can select an account/category to view-->
+  <string name="number">Nummer</string>
+  <string name="transfer">Overførin</string>
+  <string name="transfers">Overføringer</string>
+  <string name="transfer_account">Overføringskonto</string>
+  <string name="add">Legg til</string>
+  <string name="added">La til</string>
+  <string name="add_canceled">Avbrøt tillegging</string>
+  <string name="accept_and_edit">Godta &amp; rediger</string>
+  <string name="add_and_close">Legg til &amp; lukk</string>
+  <string name="duplicate_in_current_account">Dupliser i nåværende konto</string>
+  <string name="duplicate_copy_move">Dupliser, kopier eller flytt</string>
+  <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+  <string name="copy_to_another_account">Kopier til en annen konto</string>
+  <string name="move_to_another_account">Flytt til en annen konto</string>
+  <string name="copy_transaction">Kopier transaksjon</string>
+  <string name="move_transaction">Flytt transaksjon</string>
+  <string name="do_not_duplicate_notes">Ikke dupliser notatene</string>
+  <string name="account_not_found">Konto ikke funnet</string>
+  <string name="cannot_transfer_to_itself">Kan ikke overføre fra og til samme konto</string>
+  <string name="cannot_copy_to_itself">Kan ikke kopiere/flytte til seg selv</string>
+  <string name="copy_move_currency_warning">Mottakerkontoen er i en annen valuta. Det er mulig at du må justere transaksjonsbeløpet der</string>
+  <string name="all_transactions_hidden_by_filter">Samtlige transaksjoner er skjult av visningsfilteret</string>
+  <string name="show_number">Vis nummer</string>
+  <string name="show_number_description">Viser nummeret, om det eksisterer</string>
+  <string name="show_notes">Vis notater</string>
+  <string name="show_notes_description">Viser notater, om de eksisterer</string>
+  <string name="classification_cannot_fit_warning_part1">Du vil ikke se alle klassifikasjoner i transaksjonsvinduet uten å rulle ned, grunnet manglende skjermplass</string>
+  <string name="classification_cannot_fit_warning_part2">Ønsker du å skjule noen av etikettene for å frigjøre litt plass</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="classification_cannot_fit_warning_part3">Innstillingen kan endres på hvilket som helst tidspunkt</string>
+  <string name="ask_to_edit_related_transaction_message_part1">Siden den andre siden av transaksjonen er splittet, så må det endres der</string>
+  <string name="ask_to_edit_related_transaction_message_part2">Vil du redigere den andre transaksjonen nå</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="transaction_modified_message">Transaksjonen vil bli endret</string>
+  <string name="transaction_confirm_save_on_back_press_message_format">Transaksjonen har blitt endret.\n\nVelg ^1 for å lagre transaksjonen, ^2 for å gå tilbake til redigering av transaksjonen, eller ^3 for å forkaste endringene</string>
+  <string name="split_confirm_save_on_back_press_message_format">Splitten har blitt endret.\n\nVelg ^1 for å lagre splitten, ^2 for å gå tilbake til redigering av splitten, eller ^3 for å forkaste endringene</string>
+  <string name="transaction_modified_reconciled_message">En avstemt transaksjon vil bli endret</string>
+  <string name="transaction_modified_related_reconciled_message">Transaksjonens andre side, som er avstemt, vil bli endret</string>
+  <string name="records_may_differ">Dette kan skape avvik mellom regnskapet ditt og den finansielle institusjonen</string>
+  <string name="missing_category_warning_message_format">Kategorisering av transaksjoner anbefales på det sterkeste, ettersom utgiftsrapporter ellers kan bli unøyaktige.\n\nVelg ^1 for å lagre transaksjonen uten en kategori, eller ^2 for å gå tilbake til redigering av transaksjonen.</string>
+  <string name="expense_category_given_for_income_message_format">En utgiftskategori er valgt for ^1.\n\nVelg ^2 for å beholde kategorien, eller ^3 for å gå tilbake til redigering av transaksjonen.</string>
+  <!--the ^1 parameter comes from amount1_description array-->
+  <string name="income_category_given_for_expense_message_format">En inntektskategori er spesifisert for ^1.\n\nVelg ^2 for å beholde kategorien, eller ^3 for å gå tilbake til redigering av transaksjonen.</string>
+  <!--the ^2 parameter comes from amount2_description array-->
+  <string name="payee_not_found_format">Mottakeren ^1 ble ikke funnet</string>
+  <string name="payer_not_found_format">Betaler ^1 ble ikke funnet</string>
+  <string name="would_you_like_to_create_it">Ønsker du å opprette den</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="amount_zero_warning_message_format">Transaksjonsbeløpet er null.\n\nVelg ^1 for å la beløpet være null, eller ^2 for å ugyldiggjøre transaksjonen</string>
+  <string name="sum_of_splits_warning_message_format">Summen av delene stemmer ikke med transaksjonsummen.\n\nVelg ^1 for å redigere delene.</string>
+  <string name="duplicate_number_message_format">Sjekknummeret er allerede i bruk av en transaksjon datert ^1.\n\nVelg ^2 for å gjenbruke sjekknummeret, eller ^3 for å redigere transaksjonen.</string>
+  <string name="leave_zero">Behold 0</string>
+  <string name="credits">Kreditter</string>
+  <string name="no_credits">Ingen kreditter</string>
+  <string name="deposits">Innskudd</string>
+  <string name="no_deposits">Ingen innskudd</string>
+  <string name="checks">Sjekker</string>
+  <!--As in check book-->
+  <string name="no_checks">Ingen sjekker</string>
+  <!--As in check book-->
+  <string name="charges">Kostnader</string>
+  <string name="no_charges">Ingen kostnader</string>
+  <string name="payments">Betalinger</string>
+  <string name="no_payments">Ingen betalinger</string>
+  <string name="checks_payments">Sjekker &amp; betalinger</string>
+  <string name="no_checks_payments">Ingen sjekker eller betalinger</string>
+  <string name="deposits_payments">Innskudd &amp; betalinger</string>
+  <string name="no_deposits_payments">Ingen innskudd eller betalinger</string>
+  <string name="no_unreconciled_transactions">Ingen ikke-avstemte transaksjoner</string>
+  <string name="cleared_all_transactions">Klarerte alle transaksjoner</string>
+  <string name="next_check_number">Neste sjekknummer</string>
+  <string name="cleared_transactions_color">Farge for klarerte transaksjoner</string>
+  <!--As in "color of cleared transactions"-->
+  <string name="reconciled_transactions_color">Farge for avstemte transaksjoner</string>
+  <!--As in "color of teconciled transactions"-->
+  <string name="text_filter">Tekstfilter</string>
+  <string name="profit_and_loss_statement">Inntekt- &amp; tapsutskrift</string>
+  <string name="transaction_type">Transaksjonstype</string>
+  <string name="transaction_status">Transaksjonsstatus</string>
+  <string name="full_screen_mode">Fullskjermmodus</string>
+  <string name="full_screen_mode_description">Flere transaksjoner vil være synlig samtidig, om valgt</string>
+  <string-array name="amount1_labels">
+    <item>Betaling</item>
+    <item>Utgift</item>
+    <item>Kreditt</item>
+    <item>Betaling</item>
+    <item>Øk</item>
+    <item>Reduser</item>
+    <item>Uttak</item>
+  </string-array>
+  <string-array name="amount1_description">
+    <item>betalingen</item>
+    <item>bruket</item>
+    <item>kreditten</item>
+    <item>betaling</item>
+    <item>økningen</item>
+    <item>reduksjonen</item>
+    <item>uttaket</item>
+  </string-array>
+  <!--Used as ^1 in income_category_given_for_expense_message_format-->
+  <string-array name="amount2_labels">
+    <item>Innskudd</item>
+    <item>Motta</item>
+    <item>Kreditt</item>
+    <item>Prinsippkvittering</item>
+    <item>Reduksjon</item>
+    <item>Økning</item>
+    <item>Innskudd</item>
+  </string-array>
+  <string-array name="amount2_description">
+    <item>innskuddet</item>
+    <item>kvitteringen</item>
+    <item>kreditten</item>
+    <item>prinsippkvitteringen</item>
+    <item>reduksjonen</item>
+    <item>økningen</item>
+    <item>innskuddet</item>
+  </string-array>
+  <!--Used as ^1 in expense_category_given_for_expense_message_format-->
+  <string-array name="delete_transaction_warning_format_plurals">
+    <item></item>
+    <item>^1 valgte transaksjoner vil bli slettet</item>
+    <item></item>
+  </string-array>
+  <!--Intentionally left empty-->
+  <!--Not used-->
+  <string name="delete_transaction_warning_all"><b>Alle</b> transaksjoner vil bli slettet</string>
+  <string name="delete_transaction_warning_reconciled">En avstemt transaksjon vil bli slettet</string>
+  <string-array name="delete_transaction_warning_reconciled_format_plurals">
+    <item></item>
+    <item>^1 valgte transaksjoner vil bli slettet, hvorav minst en er avstemt</item>
+    <item></item>
+  </string-array>
+  <!--Intentionally left empty-->
+  <!--Not used-->
+  <string name="accept_transaction_confirm_singular">Transaksjonen vil bli godtatt</string>
+  <string-array name="accept_transaction_confirm_format_plurals">
+    <item></item>
+    <item>^1 valgte transaksjoner vil bli godtatt</item>
+    <item></item>
+  </string-array>
+  <!--Intentionally left empty-->
+  <!--Not used-->
+</resources>
