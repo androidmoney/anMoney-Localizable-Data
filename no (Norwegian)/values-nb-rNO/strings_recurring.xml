@@ -18,14 +18,12 @@
   <string name="move_to_next_occurrence">Flytt til neste forekomst</string>
   <string name="remain_on_this_occurrence_format">Bli på denne forekomsten hvis beløpet er mindre enn ^1</string>
   <string name="edit_recurring">Rediger gjentakelse</string>
-  <string name="edit_series">Rediger serien</string>
-  <string name="edit_occurrence">Rediger forekomst</string>
   <string name="entire_series">Hele serien</string>
   <string name="edit_template_warning">Det er fremtidige egendefinerte forekomster.\n\nRedigering av serien vil fjerne disse egendefineringene.</string>
   <string name="delete_recurring">Slett gjentakelse</string>
-  <string name="delete_recurring_warning_part1_format">Slett ^1</string>
+  <string name="delete_question_format">Slett ^1</string>
   <!--This is a question (Delete this?), but the question mark will be added progrmatically-->
-  <string name="delete_recurring_warning_part2">Alle fremtidige forekomster vil bli slettet</string>
+  <string name="all_future_occurrences_will_be_deleted">Alle fremtidige forekomster vil bli slettet</string>
   <string name="change_recurring_amount_format">Endre det gjentakende beløpet fra ^1 til ^2</string>
   <!--This is a question-->
   <string name="skip">Hopp over</string>
@@ -34,7 +32,9 @@
   <string-array name="skipped_occurrences_format_plurals">
     <item></item>
     <item>Hoppet over ^1 forekomster</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <!--Not used-->
   <string name="skip_canceled">Hoppet ikke over</string>
   <string name="skip_which">Hopp over hvilken</string>
@@ -48,6 +48,7 @@
   <string name="specify_account">Spesifiser kontoen først</string>
   <string name="account_and_amount">Konto &amp; beløp</string>
   <string name="payee_and_category">Betalingsmottaker &amp; kategori</string>
+  <string name="auto_enter">Automatisk registrering</string>
   <string name="auto_enter_and_reminder">Automatisk registrering &amp; påminning</string>
   <string name="pay_by_check">Jeg betaler med sjekk</string>
   <string name="amount_is">Beløpet er</string>
@@ -78,12 +79,20 @@
   <string-array name="based_part2_plurals">
     <item></item>
     <item>siste ^1</item>
+    <item></item>
   </string-array>
   <!--Intentionally left empty-->
+  <!--Not used-->
   <string-array name="based_part3_plurals">
     <item>forekomst</item>
     <item>forekomster</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
+  <string name="upcoming_date">Oppkommende dato</string>
+  <!--As in the "the date of the upcoming recurring instance"-->
+  <string name="series_start_date">Startdato for serie</string>
+  <!--As in the "the starting date of the entire recurring series"-->
   <string name="end_date_if_any">Inklusiv sluttdato, om valgt</string>
   <string name="invalid_date">Ugyldig dato</string>
   <string name="repeat">Gjenta</string>
@@ -95,19 +104,27 @@
   <string-array name="every_day_plurals">
     <item>@string/every_1</item>
     <item>@string/every_1</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string-array name="every_week_plurals">
     <item>@string/every_1</item>
     <item>@string/every_1</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string-array name="every_month_plurals">
     <item>@string/every_1</item>
     <item>@string/every_1</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string-array name="every_year_plurals">
     <item>@string/every_1</item>
     <item>@string/every_1</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string name="never">Aldri</string>
   <string name="day_upper">Dag</string>
   <string name="day_lower">dag</string>
@@ -123,7 +140,9 @@
   <string name="months_upper">Måneder</string>
   <string name="monthly">Månedlig</string>
   <string name="twice_a_month">To ganger i måneden</string>
+  <string name="quarter_upper">Kvarter</string>
   <string name="quarters_upper">Kvarter</string>
+  <string name="quarterly">Hvert kvarter</string>
   <string name="half_year">Halvt år</string>
   <string name="half_yearly">Hvert andre år</string>
   <string name="year_upper">År</string>
@@ -133,39 +152,56 @@
   <string-array name="day_plurals">
     <item>@string/day_lower</item>
     <item>dager</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string-array name="week_plurals">
     <item>uke</item>
     <item>uker</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string-array name="month_plurals">
     <item>@string/month_lower</item>
     <item>måneder</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string-array name="year_plurals">
     <item>@string/year_lower</item>
     <item>år</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string name="every_n_period_format">^1 ^2 ^3</string>
   <!--^1: Every ^2: number ^3: days/months/weeks/years-->
   <string name="if_it_falls_on_a_weekend">Hvis datoen faller på en helg</string>
   <string name="skip_weekends">Hopp over helger</string>
-  <string name="no_recurrings_yet">Ingen gjentakende regninger eller innskudd ennå</string>
-  <string-array name="recurrings_count_format_plurals">
-    <item>1 gjentakende regning eller innskudd</item>
-    <item>^1 gjentakende regninger eller innskudd</item>
-  </string-array>
   <string name="overdue_count_format">^1/^2</string>
-  <string name="overdue_format">^1 forfalte</string>
+  <string-array name="overdue_plurals">
+    <item>^1 forfalt</item>
+    <item>^1 forfalte</item>
+    <item></item>
+  </string-array>
+  <!--Not used-->
   <string-array name="overdue_count_plurals">
     <item>^1 forfalt regning eller innskudd</item>
     <item>^1 forfalte regninger eller innskudd</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string-array name="enter_into_register_fixed_amount_items">
     <item>@string/enter_now</item>
     <item>Rediger transaksjon først</item>
   </string-array>
   <string name="use_todays_date_for_transaction_date">Bruk dagens dato som transaksjonsdato</string>
+  <string-array name="enter_warning_format_plurals">
+    <item></item>
+    <item>^1 periodiske transaksjoner vil bli registrert</item>
+    <item></item>
+  </string-array>
+  <!--Intentionally left empty-->
+  <!--Not used-->
   <string-array name="skip_which_items">
     <item>Oppkommende forekomst</item>
     <item>Alle tidligere forekomster</item>
@@ -284,12 +320,16 @@
   <string-array name="days_before_plurals">
     <item></item>
     <item>^1 dager før</item>
+    <item></item>
   </string-array>
   <!--Intenionally left empty-->
+  <!--Not used-->
   <string-array name="days_before_due_date_plurals">
     <item></item>
     <item>^1 dager før forfall</item>
+    <item></item>
   </string-array>
   <!--Intenionally left empty-->
+  <!--Not used-->
   <string name="specify_custom_number_of_days">Spesifiser eget antall dager</string>
 </resources>

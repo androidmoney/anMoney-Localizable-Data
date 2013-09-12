@@ -1,40 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="book">Bok</string>
-  <string name="books">Bøker</string>
   <string name="new_book">Ny bok</string>
   <string name="new_book_name">Bokens navn</string>
-  <string name="open_book">Åpne bok</string>
-  <string name="close_book">Lukk bok</string>
   <string name="rename_book">Endre navn på boken</string>
   <string name="delete_book">Fjern boken</string>
   <string name="share_book">Del boken</string>
-  <string name="preparing_to_share">Forbereder deling</string>
   <string name="book_delete_warning_short_format">Boken ^1 vil bli fjernet</string>
   <string name="all_data_will_be_lost">Hele boken vil bli fjernet permanent om du ikke har noen sikkerhetskopier</string>
   <string name="import_into_book">Importér inn i boken</string>
   <string name="export_from_book">Eksporter fra boken</string>
   <string name="import_into_book_format">Importer inn i boken ^1 </string>
-  <string name="copying_book">Kopierer bok</string>
   <string name="no_books">Du har ingen bøker</string>
-  <string name="create_book_instructions_format">For å opprette en ny bok, velg ^i på toppen av skjermen</string>
-  <!--The ^i will be replaced by an image-->
-  <string name="book_list_favorites_empty">Ingen favorittbøker</string>
-  <string name="creating_book">Oppretter bok</string>
   <string name="upgrading_book">Oppgraderer bok</string>
   <string name="upgrading_books">Oppgraderer bøker</string>
   <string name="backup">Sikkerhetskopi</string>
+  <!--Verb-->
   <string name="backup_canceled">Sikkerhetskopiering avbrutt</string>
   <string name="backup_book">Sikkerhetskopier bok</string>
   <string name="overwrite">Overskriv</string>
   <string name="backup_name">Sikkerhetskopiens navn</string>
   <string name="auto_backup_name_format">^1 (^2 automatisk)</string>
-  <string name="backing_up_book">Sikkerhetskopierer bok</string>
   <string name="restore">Gjenopprett</string>
   <string name="restored">Gjenopprettet</string>
   <string name="restore_canceled">Gjenopprettelse avbrut</string>
   <string name="restore_book">Gjenopprett bok</string>
-  <string name="restoring_book">Gjenoppretter bok</string>
   <string name="restore_warning_format">Boken ^1 vil bli overskrevet og <b>all</b> dens data vil bli ugjenopprettelig fjernet</string>
   <string name="select_backup_file_to_restore">Velg sikkerhetskopier du ønsker å gjenopprette</string>
   <string name="select_backup_file_to_create_from">Velg sikkerhetskopien det skal opprettes i fra</string>
@@ -45,16 +35,14 @@
   <string name="delete_file_warning_format">Filen ^1 vil bli slettet</string>
   <string-array name="delete_files_warning_format_plurals">
     <item></item>
-    <item>^1 valgte filer vil bli slettet</item>
+    <item>^1 markerte filer vil bli slettet</item>
+    <item></item>
   </string-array>
   <!--Intentionally left empty-->
+  <!--Not used-->
   <string name="select_book">Velg bok</string>
   <string name="select_book_to_import_into">Velg bok for importering av kontoutskrift</string>
   <string name="select_import_file">Velg filen(e) for importering</string>
-  <string name="reading_format">Åpner ^1</string>
-  <string name="reading_file">Åpner fil</string>
-  <string name="reading_files">Åpner filer</string>
-  <string name="checking_for_duplicate_transactions">Sjekker etter transaksjons-duplikater</string>
   <string name="not_specified_brackets">&lt;Ikke spesifisert&gt;</string>
   <string name="map_accounts">Knytt opp kontoer</string>
   <string name="configure_account_mappings">Konfigurer oppknyttelse av kontoer</string>
@@ -68,6 +56,7 @@
   <string name="ignore_memos">Ignorer notatfeltet</string>
   <string name="create_payees_in_app_name_format">Opprett betalingsmottakere i ^1</string>
   <string name="contact_account">Kontaktkonto for opprettelse av betalingsmottakere</string>
+  <!--This is NOT a bank account, but the kind of account you use with e-mail, like a Google Account-->
   <string name="select_import_mode">Velg importeringsmodus</string>
   <string name="select_accounts_to_export">Velg konto(er) for eksportering</string>
   <string name="specify_export_file_format">Velg filformat for eksportering</string>
@@ -83,8 +72,8 @@
   <string name="user_guide_url">http://goo.gl/fvjiq</string>
   <string name="whats_new">Hva er nytt</string>
   <string name="license">Lisense</string>
-  <string name="accept_license">Godta lisensen</string>
-  <string name="decline">Avslå</string>
+  <!--<string name="accept_license">Accept license</string>
+    <string name="decline">Decline</string>-->
   <string name="thank_you">Takk!</string>
   <string name="password">Passord</string>
   <string name="old_password">Gammelt passord</string>
@@ -106,7 +95,7 @@
   <string name="i_understand_the_limitations">Jeg forstår disse begrensningene</string>
   <string name="set_password_now_part1">Velg et passord</string>
   <!--This is a question, but the question mark will be added progrmatically-->
-  <string name="set_password_now_part2_format">Selv om du velger ^1, så har du fortsatt muligheten til å velge et passord når som helst ved trykke lenge på bokens navn og velge ^2</string>
+  <string name="set_password_now_part2_format">Selv om du velger ^1, så har du fortsatt muligheten til å velge et passord ved å velge ^2 fra menyen øverst på skjermen</string>
   <string name="folder_name_format">Mappenavn (bruk ^1 for undermapper)</string>
   <string name="no_backup_files">Ingen sikkerhetskopier funnet</string>
   <string name="no_backup_files_new_instructions">Om du prøver å opprette en bok med én import, så må du opprette en bok først, deretter importere inn i den</string>
@@ -168,19 +157,13 @@
   <string-array name="import_files_confirm_format_plurals">
     <item></item>
     <item>Ønsker du å importere ^1 filer</item>
+    <item></item>
   </string-array>
-  <!--Unused-->
+  <!--Not used-->
   <!--This is a question, but the question mark will be added progrmatically-->
+  <!--Not used-->
   <string name="general">Generelt</string>
-  <string name="navigation">Navigering</string>
-  <string name="reopen_last_book">Gjenåpne forrige bok</string>
-  <string name="reopen_last_book_description">Forrige åpne bok blir gjenåpnet når du åpner applikasjonen</string>
   <string name="starting_screen">Oppstartsskjerm</string>
-  <string name="back_press_on_home_screen">Tilbake-trykk på hjemmeskjermen</string>
-  <string-array name="back_press_on_home_screen_items">
-    <item>Lukker ^1</item>
-    <item>Lukker nåværende bok og viser oversikten over bøkene</item>
-  </string-array>
   <string name="negative_amount_format">Format for negative transaksjonsbeløp</string>
   <string name="show_currency_symbol">Vis valutasymbol</string>
   <string-array name="show_currency_symbol_items">
@@ -195,12 +178,16 @@
   <string-array name="n_seconds_format_plurals">
     <item></item>
     <item>^1 sekunder</item>
+    <item></item>
   </string-array>
   <!--Intentionally left empty as the seconds are always > 1-->
+  <!--Not used-->
   <string-array name="n_minutes_format_plurals">
     <item>1 minutt</item>
     <item>^1 minutter</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string name="set_button_behavior_format">^1 oppførsel for knapp</string>
   <string-array name="set_button_behavior_items">
     <item>Velger det nåværende nummeret</item>
@@ -208,9 +195,9 @@
   </string-array>
   <string name="confirmations_and_warnings">Bekreftelser &amp; advarsler</string>
   <string name="warn_if_no_category">Advar når kategori mangler</string>
-  <string name="warn_if_no_category_description">En advarsel vises når ingen kategori er spesifisert</string>
+  <string name="warn_if_no_category_description">Hvis valgt så vises en advarsel når ingen kategori er spesifisert</string>
   <string name="warn_if_incorrect_category_type">Advar når kategoritypen ikke stemmer</string>
-  <string name="warn_if_incorrect_category_type_description">Om kategoritypen ikke stemmer med betalingen vil en advarsel vises</string>
+  <string name="warn_if_incorrect_category_type_description">Hvis valgt så vises en advarsel om kategoriens type ikke stemmer med betalingen</string>
   <string name="modification_confirmation">Endringsbekreftelse</string>
   <string-array name="modification_confirmation_items">
     <item>Aldri</item>
@@ -220,41 +207,45 @@
   <string name="back_press_prompt">Dialog ved tilbake-trykk</string>
   <string name="back_press_prompt_description">Du vil få spørsmål om lagring når tilbake-knappen brukes</string>
   <string name="new_payee_confirmation">Bekreft ny betalingsmottaker</string>
-  <string name="new_payee_confirmation_description">En bekreftelse vil vises før en ny betalingsmottaker opprettes</string>
+  <string name="new_payee_confirmation_description">Hvis valgt vil en bekreftelse vises før en ny betalingsmottaker opprettes</string>
   <string name="duplicate_check_number">Duplikate sjekknummer</string>
-  <string name="duplicate_check_number_description">Én advarsel om sjekknummeret allerede har vært brukt vil vises</string>
+  <string name="duplicate_check_number_description">Hvis valgt vises en advarsel om sjekknummeret allerede har vært brukt</string>
   <string name="field_with_initial_focus">Første felt med fokus</string>
   <string name="show_keyboard_automatically">Vis automatisk tastaturet</string>
-  <string name="show_keyboard_automatically_description">Skjermtastaturet vil vises når en ny transaksjon opprettes</string>
+  <string name="show_keyboard_automatically_description">Hvis valgt vil skjermtastaturet vises når en ny transaksjon opprettes</string>
   <string name="notes_in_transaction_window">Notater i transaksjoner</string>
-  <string name="notes_in_transaction_window_description">Et notat, på én linje, vil kunne redigeres i transaksjonsvinduet</string>
+  <string name="notes_in_transaction_window_description">Hvis valgt vil et notat, på en linje, kunne redigeres i transaksjonsvinduet</string>
   <string name="new_category_in_transaction_window">Ny kategori i transaksjonsvinduet</string>
-  <string name="new_category_in_transaction_window_description">Ny kategori kan opprettes fra transaksjonsvinduet</string>
+  <string name="new_category_in_transaction_window_description">Hvis valgt kan en ny kategori opprettes fra transaksjonsvinduet</string>
   <string name="hide_labels">Skjul etiketter</string>
-  <string name="hide_labels_description">Etiketter i transaksjonsvinduet vil bli skjult for å gi mer plass</string>
+  <string name="hide_labels_description">Hvis valgt vil etiketter i transaksjonsvinduet bli skjult for å gi mer plass</string>
   <string name="security">Sikkerhet</string>
   <string name="quick_entry_password">Passord for hurtiginntasting</string>
-  <string name="quick_entry_password_description">Småprogrammet for hurtiginntasting vil spørre om passord, hvis ett passord er valgt</string>
+  <string name="quick_entry_password_description">Hvis valgt vil småprogrammet for hurtiginntasting spørre om passord, hvis et er satt</string>
   <string name="backup_folder">Mappe for sikkerhetskopiering</string>
   <string name="date_in_file_name">Dato i filnavnet</string>
   <string name="date_in_file_name_description">Dagens dato vil bli lagt til filnavnet ved sending</string>
   <string name="automatic_backup">Automatisk sikkerhetskopiering</string>
-  <string name="automatic_backup_description">Boken vil bli automatisk sikkerhetskopiert</string>
+  <string name="automatic_backup_description">Hvis valgt vil boken bli automatisk sikkerhetskopiert</string>
   <string name="backup_how_often">Interval for sikkerhetskopiering</string>
   <!--This is a question, but the question mark will be added progrmatically-->
-  <string name="auto_backup_notify_description">En varsling vises etter sikkerhetskopiering</string>
+  <string name="auto_backup_notify_description">Hvis valgt vil et varsel vises etter sikkerhetskopieringen</string>
   <string name="backed_up_book_format">Sikkerhetskopierte ^1</string>
   <string-array name="backed_up_books_format_plurals">
     <item></item>
     <item>Sikkerhetskopierte ^1 bøker</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <!--Not used-->
   <string-array name="book_exported_format_plurals">
     <item>Eksporterte én transaksjon</item>
     <item>Eksporterte ^1 transaksjoner</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string name="failed_to_back_up_book">Sikkerhetskopieringen feilet</string>
-  <string name="no_space_left_on_sd_card">SD-kortet har ikke ledig plas</string>
+  <string name="no_space_left_on_sd_card">SD-kortet har ikke ledig plass</string>
   <string name="cannot_restore_newer_version">Sikkerhetskopien kan ikke gjenopprettes fordi den ble opprettet av en nyere versjon av ^1.\n\nInstallér den nyeste versjonen av ^1 og prøv igjen.</string>
   <string name="file">Fil</string>
   <string name="folder">Mappe</string>
@@ -281,6 +272,8 @@
     <item>Kyrillisk (Windows)</item>
     <item>Vest-europeisk (Windows)</item>
     <item>Sentral-europeisk (Windows)</item>
+    <item>UTF-16BE (Unicode)</item>
+    <item>UTF-16LE (Unicode)</item>
   </string-array>
   <string name="maintain_entries">Oppretthold oppføringer</string>
   <string name="maintain_number_field_entries">Oppretthold nummerfelt-oppføringer</string>
@@ -289,6 +282,9 @@
   <string-array name="delete_entries_warning_format_plurals">
     <item></item>
     <item>^1 oppføringer vil bli slettet</item>
+    <item></item>
   </string-array>
   <!--Not used-->
+  <!--Not used-->
+  <string name="internet_permission_warning"></string>
 </resources>

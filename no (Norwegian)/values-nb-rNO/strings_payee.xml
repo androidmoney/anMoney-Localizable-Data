@@ -15,12 +15,9 @@
   <string name="payee_required">Betalingsmottaker påkrevd</string>
   <string name="payer_required">Betaler påkrevd</string>
   <string name="call">Ring</string>
-  <string name="view_address">Vis postadresse</string>
   <string name="map_address">Vis kart for adressen</string>
   <!--Show the address on the map-->
   <string name="no_payees">Du har ingen betalingsmottakere</string>
-  <string name="create_payee_instructions_format">For å opprette en betalingsmottaker, trykk ^i øverst på skjermen</string>
-  <!--^1 will be replaced by an image-->
   <string name="payee_transaction_list_empty">Ingen transaksjoner registrert på denne betalingsmottakeren</string>
   <string name="payee_exists">Én betalingsmottaker med det navnet eksisterer allerede</string>
   <string name="combine_payees">Ønsker du å kombinere de to betalingsmottakerene</string>
@@ -46,7 +43,10 @@
   <string-array name="payee_count_format_plurals">
     <item>1 betalingsmottaker</item>
     <item>^1 betalingsmottakere</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
+  <!--Not used-->
   <string name="all_payees">Alle betalingsmottakere</string>
   <string name="payees_in_open_accounts">Betalingsmottakere i åpne kontoer</string>
   <string name="payees_in_closed_accounts_only">Kun betalingsmottakere i lukkede kontoer</string>

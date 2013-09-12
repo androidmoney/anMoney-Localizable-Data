@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="category_main_sub_separator">:</string>
+  <string name="category_main_sub_format">^1 ^2 ^3</string>
   <string name="category">Kategori</string>
   <string name="categories">Kategorier</string>
   <string name="subcategory">Underkategori</string>
@@ -36,10 +37,6 @@
   <string name="no_categories_expense">Du har ikke noen utgiftskategorier</string>
   <string name="no_categories_income">Du har ikke noen inntektskategorier</string>
   <string name="no_classes">Du har ingen klassifiseringer</string>
-  <string name="create_category_instructions_format">For å opprette en kategori, velg ^i øverst på skjermen</string>
-  <!--^1 will be replaced by an image-->
-  <string name="create_class_instructions_format">For å opprette en klasse, velg ^i øverst på skjermen</string>
-  <!--^1 will be replaced by an image-->
   <string name="uncategorized_transactions">Ukategoriserte transaksjoner</string>
   <string name="delete_category_no_subcategories_warning_format">Kategorien ^1 vil bli permanent fjernet</string>
   <string name="delete_class_no_subclass_warning_format">Klassen ^1 vil bli permanent fjernet</string>
@@ -48,11 +45,9 @@
   <string name="delete_subcategory_warning_format">Underkategorien ^1 vil bli permanent fjernet</string>
   <string name="delete_subclass_warning_format">Underklassen ^1 vil bli permanent fjernet</string>
   <string name="delete_classification_warning_format">Klassifiseringen ^1 vil bli permanent fjernet, og samtlige klassifiserte transaksjoner vil miste klassifiseringen</string>
-  <string name="deleting_classification">Fjerner klassifiseringen</string>
   <string name="default_categories_add_confirmation">Ønsker du å legge til standardkategoriene</string>
   <!--This is a question, but the question mark will be added progrmatically-->
   <string name="default_categories_added">Standardkategorier er nå lagt til</string>
-  <string name="adding_default_categories">Legger til standardkategorier</string>
   <string name="all_categories">Alle kategorier</string>
   <string name="expense">Utgift</string>
   <string name="expenses">Utgifter</string>
@@ -66,6 +61,7 @@
   <string name="class_name">Klassenavn</string>
   <string name="subclass_name_lower">navn på underklasse</string>
   <string name="without_subcategory">Uten underkategori</string>
+  <string name="without_subclass">Uten underklasse</string>
   <string name="cannot_be_zero">0 er ikke gyldig</string>
   <string name="change_expense_warning">Ønsker du å endre kategorien fra en utgifts- til inntektskategori, eller omvendt</string>
   <!--This is a question, but the question mark will be added progrmatically-->
@@ -88,24 +84,32 @@
   <string name="show_zero_balance_items">Vis elementer med en saldo på null</string>
   <!--"Items" refers to classification name-->
   <string name="recategorize_category">Omkategoriser alle transaksjoner med kategorien som</string>
-  <string name="recategorize_class">Omklassifiser alle transaksjoner med denne klassen som</string>
+  <string name="reclassify_class">Omklassifiser alle transaksjoner med denne klassen som</string>
   <string name="spending_by_category0">Bruk per kategori</string>
   <string name="spending_by_category1">Bruk per kategori eller ^1</string>
   <string name="spending_by_category2">Bruk per kategori, ^1 eller ^2</string>
   <string name="spending_by_category_over_time0">Bruk per kategori over tid</string>
   <string name="spending_by_category_over_time1">Bruk per kategori eller ^1 over tid</string>
   <string name="spending_by_category_over_time2">Bruk per kategori, ^1 eller ^2 over tid</string>
+  <string name="assign_to_accounts">Tilknytt til konto(ene) ved bruk av utsikter</string>
+  <!--As in "Assign the category to these accounts when Forecasting".  "Forecasting" should be the same word as the Net Worth/Forecasting report's name-->
+  <string name="last_account_used">Sist brukte konto</string>
   <string name="no_categories">Ingen kategorier</string>
   <string name="no_categories_yet">Ingen kategorier ennå</string>
   <string name="no_classes_yet">Ingen klasser ennå</string>
   <string-array name="category_count_format_plurals">
     <item>1 kategori</item>
     <item>^1 kategorier</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
+  <!--Not used-->
   <string-array name="uncategorized_count_plurals">
     <item>^1 ukategorisert transaksjon</item>
     <item>^1 ukategoriserte transaksjoner</item>
+    <item></item>
   </string-array>
+  <!--Not used-->
   <string-array name="default_classifications">
     <item>Familiemedlemmer</item>
     <item>Eiendommer</item>

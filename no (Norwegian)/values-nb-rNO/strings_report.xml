@@ -4,22 +4,20 @@
   <string name="reports">Rapporter</string>
   <string name="view_report">Vis rapport</string>
   <string name="view_reports">Vis rapporter</string>
-  <string name="report_canceled">Rapportéring avbrutt</string>
-  <string name="export_report">Eksportér rapport</string>
+  <string name="report_canceled">Rapportering avbrutt</string>
+  <string name="export_report">Eksporter rapport</string>
   <string name="report_exported">Eksporterte vellykket til minnekortet</string>
   <string name="share_report">Del rapport</string>
   <string name="report_settings">Rapportinnstillinger</string>
-  <string name="creating_report">Oppretter rapport</string>
-  <string name="updating_report">Oppdaterer rapport</string>
   <string name="custom_dates">Egendefinerte datoer</string>
   <string name="other">Annet</string>
   <string name="report_empty">Ingen data tilgjengelig for visning</string>
   <string name="report_settings_instructions_format">For å forandre rapportinnstillingene, trykk ^i øverst på skjermen</string>
-  <!--^1 will be replaced by an image-->
+  <!--^i will be replaced by an image-->
   <string name="reset_report_settings">Innstillingene vil bli tilbakestilt til standardverdiene</string>
   <string name="settings_reset">Innstillinger tilbakestilt</string>
   <string name="reset_canceled">Tilbakestillning avbrutt</string>
-  <string name="report_settings_tip">For å forandre innstillingene for en rapport:\n\n<li>Gjør et langt-trykk på rapportnavnet og velg <b>Rapportinnstillinger</b></li>\n\n<li>Trykk på ikonet oppe i høyre hjørne av skjermen mens rapporten vises</li></string>
+  <string name="report_settings_tip_format">For å forandre innstillingene for en rapport:\n\n<li>Gjør et langt-trykk på rapportnavnet og velg ^1</li>\n\n<li>Trykk på ikonet oppe i høyre hjørne av skjermen mens rapporten vises</li></string>
   <string name="report_name">Rapportnavn</string>
   <string name="all_reports">Alle rapporter</string>
   <string name="favorite_reports">Favorittrapporter</string>
@@ -32,14 +30,18 @@
   <string name="group">Gruppe</string>
   <!--This is a verb-->
   <string name="do_not_group">Ikke gruppér</string>
-  <string name="today">I dag</string>
-  <string name="tomorrow">I morgen</string>
-  <string name="yesterday">I går</string>
+  <string name="day_0">I dag</string>
+  <string name="day_p1">I morgen</string>
+  <string name="day_m1">I går</string>
+  <string name="day_p2"></string>
+  <!--Intentionally left empty-->
+  <string name="day_m2"></string>
+  <!--Intentionally left empty-->
   <string name="select_report">Velg rapport</string>
-  <string-array name="report_count_format_plurals">
-    <item>1 rapport</item>
-    <item>^1 rapporter</item>
-  </string-array>
+  <string name="report_folder">Rapporttype</string>
+  <string name="language">Språk</string>
+  <string name="text_size">Tekststørrelse</string>
+  <string name="text_size_sample">Ab</string>
   <string name="chart_type">Diagramtype</string>
   <string name="text_report">Tekstrapport</string>
   <string name="pie_chart">Kakediagram</string>
@@ -57,14 +59,11 @@
     <item>Tabloid</item>
   </string-array>
   <string name="page_orientation">Sideorientering</string>
-  <string-array name="page_orientation_items">
-    <item>Portrett</item>
-    <item>Landskap</item>
-  </string-array>
+  <string name="portrait">Portrett</string>
+  <string name="landscape">Liggende</string>
   <string name="amounts_on_charts">Vis beløp på diagram</string>
   <string name="percentages_on_pie_charts">Vis prosentandel på kakediagram</string>
-  <string name="create_settings_page">Generér innstillingsside</string>
-  <string name="create_settings_page_description">En side med rapportinnstillingene vil bli generért når du sender eller eksportérer et PDF-dokument</string>
+  <string name="create_settings_page">Generer innstillingsside</string>
   <string-array name="report_export_file_type">
     <item>@string/csv</item>
     <item>@string/pdf</item>
@@ -76,8 +75,4 @@
     <item>Passende for publisering på étt nettsted eller for visning i en nettleser</item>
   </string-array>
   <string name="specify_format_to_share_as">Velg formatet for deling</string>
-  <string-array name="report_list_status_filter_title_bar">
-    <item>@string/all_reports</item>
-    <item>@string/favorite_reports</item>
-  </string-array>
 </resources>

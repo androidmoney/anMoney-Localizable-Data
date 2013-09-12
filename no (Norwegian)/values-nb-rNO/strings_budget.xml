@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="budget">Budsjet</string>
-  <string name="view_budget">Vis budsjet</string>
+  <string name="budget">Budsjett</string>
+  <string name="view_budget">Vis budsjett</string>
   <string name="edit_budget_item">Rediger budsjett</string>
   <string name="new_budget_item">Nytt budsjett</string>
+  <string name="over_budget">Over budsjett</string>
   <string name="expenses_over_budget">Utgifter over budsjett</string>
+  <string name="within_budget">Innenfor budsjett</string>
   <string name="expenses_within_budget">Utgifter innenfor budsjett</string>
   <string name="budgeted_amount">Budsjettert</string>
   <string name="actual_amount">Faktisk</string>
@@ -15,20 +17,25 @@
   <!--This is a report name-->
   <string name="recurring_bill_or_deposit_from">Gjentakende regning eller innskudd fra</string>
   <string name="an_additional_amount_for_this_category">Et ekstrabeløp for denne kategorien</string>
+  <string name="an_additional_amount_for_this_class">Et ekstrabeløp for denne klassen</string>
   <string name="the_additional_amount_for_this_category">Ekstrabeløpet for denne kategorien</string>
+  <string name="the_additional_amount_for_this_class">Ekstrabeløpet for denne klassen</string>
+  <string name="currently_daily_format">for øyeblikket ^1 daglig</string>
+  <!--^1 is an numeric amount (same for the items below)-->
   <string name="currently_weekly_format">for øyeblikket ^1 ukentlig</string>
   <string name="currently_biweekly_format">for øyeblikket ^1 hver 14-dag</string>
   <string name="currently_monthly_format">for øyeblikket ^1 månedlig</string>
+  <string name="currently_quarterly_format">for øyeblikket ^1 hvert kvartal</string>
   <string name="currently_half_yearly_format">for øyeblikket ^1 hvert kvartal</string>
   <string name="currently_yearly_format">for øyeblikket ^1 årlig</string>
   <string name="currently_custom_format">for øyeblikket en egendefinert plan på totalt ^1 årlig</string>
   <string name="budget_no_categories_yet">Opprett kategorier før du oppretter budsjettet</string>
+  <string name="budget_no_accounts_yet">Opprett kontoer før du setter opp budsjettet</string>
   <string name="select_budget_period">Velg budsjettperioden som skal vises</string>
+  <string name="all_others">Alle andre</string>
   <string name="all_other_spending">All annen bruk</string>
   <string name="special_item">Spesialenheter</string>
   <string name="no_budget_items">Du har ikke opprettet noe budsjet</string>
-  <string name="create_budget_item_instructions_format">For å opprette budsjettelementer, velg ^i på toppen av skjermen</string>
-  <!--^i will be replaced by an image-->
   <string name="customized_schedule">Egendefinert plan</string>
   <!--As in "Customized monthly budget amounts"-->
   <string name="include_budget_items">Inkluder budsjettelementer</string>

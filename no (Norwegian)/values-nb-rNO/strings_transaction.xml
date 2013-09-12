@@ -12,7 +12,6 @@
   <string name="accept">Godta</string>
   <string name="accepted">Godtatt</string>
   <string name="accept_canceled">Godtakelse avbrutt</string>
-  <string name="accepting">Godtar</string>
   <string name="accept_transaction_all"><b>Alle</b> transaksjoner vil bli godtatt</string>
   <string name="mark">Marker</string>
   <!--Mark as "Mark a transaction reconciled/cleared/etc"-->
@@ -21,11 +20,12 @@
   <string name="mark_transaction">Marker transaksjon</string>
   <string-array name="mark_transactions_format_plurals">
     <item></item>
-    <item>Marker ^1 transaksjoner</item>
+    <item>Velg ^1 transaksjoner</item>
+    <item></item>
   </string-array>
   <!--Intentionally left empty-->
+  <!--Not used-->
   <string name="mark_transactions_all">Marker <b>alle</b> transaksjoner</string>
-  <string name="marking">Markerer</string>
   <string name="unreconciled1">Ikke avstemt</string>
   <string name="unreconciled2">@string/unreconciled1</string>
   <string name="cleared1">Klarert</string>
@@ -127,13 +127,12 @@
   <string name="deposits_payments">Innskudd &amp; betalinger</string>
   <string name="no_deposits_payments">Ingen innskudd eller betalinger</string>
   <string name="no_unreconciled_transactions">Ingen ikke-avstemte transaksjoner</string>
-  <string name="removing_transactions">Fjerner transaksjoner</string>
   <string name="cleared_all_transactions">Klarerte alle transaksjoner</string>
   <string name="next_check_number">Neste sjekknummer</string>
   <string name="cleared_transactions_color">Farge for klarerte transaksjoner</string>
+  <!--As in "color of cleared transactions"-->
   <string name="reconciled_transactions_color">Farge for avstemte transaksjoner</string>
-  <string name="create_transaction_instructions_format">For å opprette en transaksjon, velg ^i på toppen av skjermen</string>
-  <!--^i will be replaced by an icon-->
+  <!--As in "color of teconciled transactions"-->
   <string name="text_filter">Tekstfilter</string>
   <string name="profit_and_loss_statement">Inntekt- &amp; tapsutskrift</string>
   <string name="transaction_type">Transaksjonstype</string>
@@ -178,23 +177,28 @@
     <item>innskuddet</item>
   </string-array>
   <!--Used as ^1 in expense_category_given_for_expense_message_format-->
-  <string name="delete_transaction_warning">Transaksjonen vil bli fjernet.</string>
   <string-array name="delete_transaction_warning_format_plurals">
     <item></item>
-    <item>^1 transaksjoner vil bli fjernet</item>
+    <item>^1 valgte transaksjoner vil bli slettet</item>
+    <item></item>
   </string-array>
   <!--Intentionally left empty-->
+  <!--Not used-->
   <string name="delete_transaction_warning_all"><b>Alle</b> transaksjoner vil bli slettet</string>
   <string name="delete_transaction_warning_reconciled">En avstemt transaksjon vil bli slettet</string>
   <string-array name="delete_transaction_warning_reconciled_format_plurals">
     <item></item>
-    <item>^1 transaksjoner vil bli fjernet, hvorav minst en er avstemt</item>
+    <item>^1 valgte transaksjoner vil bli slettet, hvorav minst en er avstemt</item>
+    <item></item>
   </string-array>
   <!--Intentionally left empty-->
+  <!--Not used-->
   <string name="accept_transaction_confirm_singular">Transaksjonen vil bli godtatt</string>
   <string-array name="accept_transaction_confirm_format_plurals">
     <item></item>
-    <item>^1 transaksjon vil bli godtatt</item>
+    <item>^1 valgte transaksjoner vil bli godtatt</item>
+    <item></item>
   </string-array>
   <!--Intentionally left empty-->
+  <!--Not used-->
 </resources>

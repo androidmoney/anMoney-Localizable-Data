@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="splits">Oppdelinger</string>
-  <string name="split">Oppdeling</string>
+  <!--This is a noun-->
   <string name="split_canceled">Oppdeling avbrutt</string>
+  <!--"Split" is a verb-->
   <string name="new_split">Ny oppdeling</string>
+  <!--"Split" here and below are nouns-->
   <string name="edit_split">Redigér oppdeling</string>
   <string name="edit_splits">Redigér oppdelinger</string>
   <string name="delete_split">Slett oppdeling</string>
-  <string name="delete_split_warning">Oppdelingen vil bli slettet</string>
   <string name="sum_of_splits">Oppdelingssum</string>
   <string name="unassigned">Utilordnet</string>
   <string name="transaction_total">Transaksjonssum</string>
