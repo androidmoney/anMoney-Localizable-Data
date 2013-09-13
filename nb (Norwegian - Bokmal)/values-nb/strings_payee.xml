@@ -10,7 +10,7 @@
 	<string name="add_payee_as_a_contact">Legg til betalingsmottaker som kontakt</string>
 	<string name="payee">Betalingsmottaker</string>
 	<string name="payer">Betaler</string>
-	<string name="payees">Betalere</string>
+	<string name="payees">Betalingskontakter</string>
 	<string name="payee_required">Betalingsmottaker påkrevd</string>
 	<string name="payer_required">Betaler påkrevd</string>
 	<string name="call">Ring</string>

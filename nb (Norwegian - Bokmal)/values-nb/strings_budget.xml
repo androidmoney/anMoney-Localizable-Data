@@ -11,7 +11,7 @@
 	<string name="budgeted_amount">Budsjettert</string>
 	<string name="actual_amount">Faktisk</string>
 	<string name="remainder_amount">Gjenstående</string>
-	<string name="budget_vs_actual">Budsjett vs. faktisk</string>
+	<string name="budget_vs_actual">Budsjett mot reell bruk</string>
 	<string name="budget_over_time">Budsjett over tid</string>
 	<string name="recurring_bill_or_deposit_from">Gjentakende regning eller innskudd fra</string>
 	<string name="an_additional_amount_for_this_category">Et ekstrabeløp for denne kategorien</string>
@@ -32,7 +32,7 @@
 	<string name="all_others">Alle andre</string>
 	<string name="all_other_spending">All annen bruk</string>
 	<string name="special_item">Spesialenheter</string>
-	<string name="no_budget_items">Du har ikke opprettet noe budsjet</string>
+	<string name="no_budget_items">Du har ikke opprettet noe budsjett</string>
 	<string name="customized_schedule">Egendefinert plan</string>
 	<string name="include_budget_items">Inkluder budsjettelementer</string>
 </resources>

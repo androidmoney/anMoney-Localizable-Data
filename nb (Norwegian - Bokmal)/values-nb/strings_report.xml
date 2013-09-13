@@ -36,7 +36,7 @@
 	<string name="day_p2"/>
 	<string name="day_m2"/>
 	<string name="select_report">Velg rapport</string>
-	<string name="report_folder">Rapporttype</string>
+	<string name="report_folder">Eksportlokasjon</string>
 	<string name="language">Språk</string>
 	<string name="text_size">Tekststørrelse</string>
 	<string name="text_size_sample">Ab</string>
