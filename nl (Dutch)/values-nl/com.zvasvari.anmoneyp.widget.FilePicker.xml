@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="FilePicker_open_folder">Open map</string>
+	<string name="FilePicker_select_file">Selecteer map</string>
+	<string name="FilePicker_deselect_file">Deselecteer map</string>
+	<string name="FilePicker_delete_file">Verwijder map</string>
+	<string name="FilePicker_go_to_parent_folder">Ga naar de bovenligende map</string>
+</resources>

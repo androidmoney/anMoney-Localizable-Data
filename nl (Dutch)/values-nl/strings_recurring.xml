@@ -272,7 +272,7 @@
 	<string name="on_the_last_day_of_the_week_format">Op de laatste ^1</string>
 
 	<string name="work_week">Werk week</string>
-<!-- New --> <string name="period_end_day_of_the_month">Period end day of the month</string>
+	<string name="period_end_day_of_the_month">Laatste dag van de periode</string>
 	<string name="fiscal_year">Fiscaal jaar</string>
 	
 	<string name="time_of_reminder">Tijd van herrinnering</string>

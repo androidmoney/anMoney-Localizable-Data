@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>  
+    <string name="category_main_sub_separator">:</string>
+	<string name="category_main_sub_format">^1 ^2 ^3</string>
+	<string name="category">Kategori</string>
+	<string name="categories">Kategorier</string>
+	<string name="subcategory">Underkategori</string>
+	<string name="classification">Klassifisering</string>
+	<string name="_class">Klasse</string>
+	<string name="subclass">Underklasse</string>
+	<string name="parent_category">Overkategori</string>
+	<string name="parent_class">Overklasse</string>
+	<string name="edit_category">Rediger kategori</string>
+	<string name="edit_subcategory">Rediger underkategori</string>
+	<string name="edit_class">Rediger klasse</string>
+	<string name="edit_subclass">Rediger underklasse</string>
+	<string name="new_category">Ny kategori</string>
+	<string name="new_subcategory">Ny underkategori</string>
+	<string name="new_class">Ny klasse</string>
+	<string name="new_subclass">Ny underklasse</string>
+	<string name="delete_category">Fjern kategori</string>
+	<string name="delete_subcategory">Fjern underkategori</string>
+	<string name="delete_class">Fjern klasse</string>
+	<string name="delete_subclass">Fjern underklasse</string>
+	<string name="add_default_categories">Legg til standardkategorier</string>
+	<string name="add_classification">Legg til classification</string>
+	<string name="select_category">Velg kategori</string>
+	<string name="select_class">Velg klasse</string>
+	<string name="delete_classification">Fjern klassifiserin</string>
+	<string name="rename_classification">Endre klassifiseringens navn</string>
+	<string name="select_classification">Velg klassifisering</string>
+	<string name="enter_classification_name">Skriv inn klassifiseringen</string>
+	<string name="enter_new_classification_name">Skriv inn en ny klassifisering</string>
+	<string name="categories_and_classifications">Kategorier &amp; klassifiseringer</string>
+	<string name="no_categories_expense">Du har ikke noen utgiftskategorier</string>
+	<string name="no_categories_income">Du har ikke noen inntektskategorier</string>
+	<string name="no_classes">Du har ingen klassifiseringer</string>
+	<string name="uncategorized_transactions">Ukategoriserte transaksjoner</string>
+	<string name="delete_category_no_subcategories_warning_format">Kategorien ^1 vil bli permanent fjernet</string>
+	<string name="delete_class_no_subclass_warning_format">Klassen ^1 vil bli permanent fjernet</string>
+	<string name="delete_category_with_subcategories_warning_format">Kategorien ^1 og <b>alle underkategorier</b> vil bli permanent fjernet</string>
+	<string name="delete_class_with_subclass_warning_format">Klassen ^1 og <b>alle underklasser</b> vil bli permanent fjernet</string>
+	<string name="delete_subcategory_warning_format">Underkategorien ^1 vil bli permanent fjernet</string>
+	<string name="delete_subclass_warning_format">Underklassen ^1 vil bli permanent fjernet</string>
+	<string name="delete_classification_warning_format">Klassifiseringen ^1 vil bli permanent fjernet, og samtlige klassifiserte transaksjoner vil miste klassifiseringen</string>
+	<string name="default_categories_add_confirmation">Ønsker du å legge til standardkategoriene</string>
+	<string name="default_categories_added">Standardkategorier er nå lagt til</string>
+	<string name="all_categories">Alle kategorier</string>
+	<string name="expense">Utgift</string>
+	<string name="expenses">Utgifter</string>
+	<string name="expense_categories">Utgiftskategorier</string>
+	<string name="income">Inntekt</string>
+	<string name="income_categories">Inntektskategorier</string>
+	<string name="savings">Sparing</string>
+	<string name="category_name">Kategorinavn</string>
+	<string name="subcategory_name_lower">navn på underkategori</string>
+	<string name="class_name">Klassenavn</string>
+	<string name="subclass_name_lower">navn på underklasse</string>
+	<string name="without_subcategory">Uten underkategori</string>
+	<string name="without_subclass">Uten underklasse</string>
+	<string name="cannot_be_zero">0 er ikke gyldig</string>
+	<string name="change_expense_warning">Ønsker du å endre kategorien fra en utgifts- til inntektskategori, eller omvendt</string>
+	<string name="prepopulate">Fyll inn med standardkategorier</string>
+	<string name="short_categories">Last kun kort kategoriliste (du vil få muligheten til å laste den fulle listen senere)</string>
+	<string name="view_categories">Vis kategorier</string>
+	<string name="category_not_found">Fant ikke kategorien</string>
+	<string name="class_not_found">Fant ikke klassen</string>
+	<string name="total_income">Total inntekt</string>
+	<string name="total_expense">Total utgift</string>
+	<string name="net">Netto</string>
+	<string name="net_income">Nettoinntekt</string>
+	<string name="uncategorized">Ukategorisert</string>
+	<string name="income_uncategorized">Ukategorisert inntekt</string>
+	<string name="expense_uncategorized">Ukategorisert utgift</string>
+	<string name="show_uncategorized">Vis ukategoriserte</string>
+	<string name="move_subcategory_to_another_category_warning">Ønsker du å flytte underkategorien under en annen kategori</string>
+	<string name="show_zero_balance_categories">Vis kategorier med en saldo på null</string>
+	<string name="show_zero_balance_items">Vis elementer med en saldo på null</string>
+	<string name="recategorize_category">Omkategoriser alle transaksjoner med kategorien som</string>
+	<string name="reclassify_class">Omklassifiser alle transaksjoner med denne klassen som</string>
+	<string name="spending_by_category0">Bruk per kategori</string>
+	<string name="spending_by_category1">Bruk per kategori eller ^1</string>
+	<string name="spending_by_category2">Bruk per kategori, ^1 eller ^2</string>
+	<string name="spending_by_category_over_time0">Bruk per kategori over tid</string>
+	<string name="spending_by_category_over_time1">Bruk per kategori eller ^1 over tid</string>
+	<string name="spending_by_category_over_time2">Bruk per kategori, ^1 eller ^2 over tid</string>
+	<string name="assign_to_accounts">Tilknytt til konto(ene) ved bruk av utsikter</string>
+	<string name="last_account_used">Sist brukte konto</string>
+
+	<string name="no_categories">Ingen kategorier</string>
+	<string name="no_categories_yet">Ingen kategorier ennå</string>
+	<string name="no_classes_yet">Ingen klasser ennå</string>
+	<string-array name="category_count_format_plurals">
+		<item>1 kategori</item>
+		<item>^1 kategorier</item>
+		<item/>
+	</string-array>
+	<string-array name="uncategorized_count_plurals">
+		<item>^1 ukategorisert transaksjon</item>
+		<item>^1 ukategoriserte transaksjoner</item>
+		<item/>
+	</string-array>
+
+	<string-array name="default_classifications">
+		<item>Familiemedlemmer</item>
+		<item>Eiendommer</item>
+		<item>Prosjekter</item>
+		<item>Hobbier</item>
+		<item>Ferier</item>
+		<item>Jobbutgifter</item>
+		<item>Annet</item>
+	</string-array>
+</resources>

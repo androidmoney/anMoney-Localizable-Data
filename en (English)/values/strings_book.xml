@@ -29,7 +29,7 @@
     <string name="restore_warning_format">Book ^1 will be overwritten and <b>all</b> its data will unrecoverably be destroyed</string>
     <string name="select_backup_file_to_restore">Select backup file to restore</string>
     <string name="select_backup_file_to_create_from">Select backup file to create from</string>
-    <string name="import_statement">Import statement</string>
+    <string name="import_statement">Import statement</string> <!-- Import is a verb as in "import a statement" -->
     <string name="no_sd_card_inserted">There is no SD card inserted</string>
     <string name="select_files">Select files</string>
     <string name="delete_file">Delete file</string>

@@ -23,5 +23,5 @@
 
     <string name="app_name_report">anMoney — Bericht</string>
 
-<!-- New --> <string name="dash_clock_extension_description">Displays overdue bills or deposits, if any.</string>
+<!-- New --> <string name="dash_clock_extension_description">Zeigt überfällige Rechnungen oder Ablagerungen, wenn überhaupt.</string>
 </resources>

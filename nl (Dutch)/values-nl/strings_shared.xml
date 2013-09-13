@@ -108,7 +108,7 @@
 	<string name="please_rate_app_format">Neem aub een moment\nom te beoordelen ^1</string> <!-- ^1 is app name -->
 	<string name="later_rate_description">Je word er over een week aan herrinnerd</string>
 	<string name="no_rate_description_format">Je kan dit ten alle tijden doen vanaf het ^1 scherm</string> <!-- ^1 is "Settings" -->
-	<string name="task_killer_warning_format">Waarschuwing voor “task killer” apps:\n\nJe toestel zal een keer per dag “wakker” worden vanwege automatische processen. Omdat deze processen zeer kort duren zal dit geen invloed hebben op de batterij.\n\nTask killers kunnen en zullen deze processen verhinderen en kunnen niet gebruikte worden met ^1</string> <!-- ^1 is app name -->
+	<string name="task_killer_warning_format">Waarschuwing voor ‘task killer’ apps:\n\nJe toestel zal een keer per dag ‘wakker’ worden vanwege automatische processen. Omdat deze processen zeer kort duren zal dit geen invloed hebben op de batterij.\n\nTask killers kunnen en zullen deze processen verhinderen en kunnen niet gebruikte worden met ^1</string> <!-- ^1 is app name -->
 	<string name="no_thanks">Nee, bedankt</string>
 	<string name="maybe_later">Misschien later</string>
 	<string name="unexpected_error_warning">Een onverwachte fout zorgt ervoor dan Anmoney is gestopt.\n\nU kunt ons helpen dit op te lossen door een email te sturen een foutenrapport. Je kan de email bewerken voor hij word verstuurd.\n\nDank je voor je medewerking.</string>
@@ -171,7 +171,6 @@
 		<item>6de</item>
 		<item>7de</item>
 		<item>8ste</item>
-		<item>9de</item>
 		<item>9de</item>
 		<item>10de</item>
 		<item>11de</item>

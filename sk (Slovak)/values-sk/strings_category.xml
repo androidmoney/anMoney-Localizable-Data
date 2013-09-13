@@ -38,7 +38,7 @@
     <string name="uncategorized_transactions">Nezaradené transakcie</string>
     <string name="delete_category_no_subcategories_warning_format">Kategória ^1 bude navždy zmazaná</string>
     <string name="delete_class_no_subclass_warning_format">Trieda ^1 bude navždy zmazaná</string>
-    <string name="delete_category_with_subcategories_warning_format">Kategória ^ 1 a <b>všetky jej podkategórie</b> budú navždy zmazané</string>
+    <string name="delete_category_with_subcategories_warning_format">Kategória ^1 a <b>všetky jej podkategórie</b> budú navždy zmazané</string>
     <string name="delete_class_with_subclass_warning_format">Trieda ^1 a <b>všetky jej podtriedy</b> budú navždy zmazané</string>
     <string name="delete_subcategory_warning_format">Podkategória ^1 bude navždy zmazaná</string>
     <string name="delete_subclass_warning_format">Podtrieda ^1 bude navždy zmazaná</string>

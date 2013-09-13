@@ -34,8 +34,7 @@
 	<string name="postpone_balancing_warning">Uigesteld balanseren</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="account_balance_does_not_match_bank_warning_format">Het beginsaldo dat is ingevoerd, ^1, komt niet overeen met het totaal van alle vorige toegekende trasacties, ^2</string>  <!-- ^1 and ^2 are numbers -->
 	<string name="account_balance_does_not_match_credit_warning_format">Het totaal dat is ingevoerd, ^1, komt niet overeen met het totaal van alle vorige toegekende trasacties, ^2</string> <!-- ^1 and ^2 are numbers -->
-<!-- New --> 	<string name="account_balance_does_not_match_fix">Try fixing it by:\n\n<li>Double-checking the statement</li>\n<li>Transactie markeren als gecontroleerd</li>\n<li>Transactie markeren als niet gecontroleerd</li>\n<li>Beginsaldo aanpassen</li></string>
-	<string name="left_to_reconcile">Nog te controleren</string> <!-- Amount left to reconcile -->
+	<string name="account_balance_does_not_match_fix">Probeer het op te lossen door:\n\n<li>De verklaring te controleren</li>\n<li>Transactie markeren als gecontroleerd</li>\n<li>Transactie markeren als niet gecontroleerd</li>\n<li>Beginsaldo aanpassen</li></string>	<string name="left_to_reconcile">Nog te controleren</string> <!-- Amount left to reconcile -->
 	<string name="statement_balance">Afschrift balans</string> <!-- Statement as in "Bank statement" -->
     <string name="statement_date">Datum afschrift</string>
     <string name="statement_starting_balance">Beginsaldo afschrift</string>
@@ -177,7 +176,7 @@
 		<item>Totaal tegoed van deze credit card</item>
 	</string-array>
 
-<!-- New --> 	<string name="opening">Opening</string> <!-- As in "Opening balance" -->
+ 	<string name="opening">Opening</string> <!-- As in "Opening balance" -->
 	<string-array name="opening_balance_edit_labels">
 	    <item>Begin balans</item>
 		<item>Originele aankoop bedrag</item> <!-- of an asset -->

@@ -12,8 +12,8 @@
     <string name="export_from_book">Exporteer uit boek</string>
     <string name="import_into_book_format">Importeer in boek ^1</string>
     <string name="no_books">Je hebt geen boeken</string>
-<!-- New -->        <string name="upgrading_book">Upgrading boek</string>
-<!-- New -->        <string name="upgrading_books">Upgrading boeken</string>
+	<string name="upgrading_book">Upgrading boek</string>
+	<string name="upgrading_books">Upgrading boeken</string>
     <string name="backup">Backup</string> <!-- Verb -->
     <string name="backup_canceled">Backup gestopt</string>
     <string name="backup_book">Backup boek</string>
@@ -27,14 +27,14 @@
     <string name="restore_warning_format">Boek ^1 zal worden overschreven en <b>alle</b> data zal onherroepelijk worden verwijderd</string>
     <string name="select_backup_file_to_restore">Kies welk backup bestand moet worden hesteld</string>
     <string name="select_backup_file_to_create_from">Kies het backup bestand om van te maken</string>
-<!-- New -->        <string name="import_statement">Import statement</string>
-<!-- New -->        <string name="no_sd_card_inserted">TheEr is geen SD kaart aanwezig</string>
+	<string name="import_statement">Import statement</string>
+	<string name="no_sd_card_inserted">Er is geen SD kaart aanwezig</string>
     <string name="select_files">Kies bestanden</string>
     <string name="delete_file">Verwijder bestand</string>
     <string name="delete_file_warning_format">Bestand ^1 zal worden verwijderd</string>
-<!-- New -->    	<string-array name="delete_files_warning_format_plurals">
+	<string-array name="delete_files_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 selected files will be deleted</item>
+        <item>^1 gekozen bestanden zullen worden verwijderd</item>
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Kies boek</string>
@@ -265,7 +265,7 @@ New        <string name="decline">Decline</string>
 	<string name="external_storage">Externe opslage</string>	
 	<string name="path">Pad</string>	
 
-<!-- New -->        <string name="qif_csv_date_order">QIF/CSV date order</string>
+	<string name="qif_csv_date_order">QIF/CSV datumvolgorde</string>
 
 	<string name="comma">Komma</string>	
     <string name="qif_csv_decimal_mark">QIF/CSV decimaal markering</string>

@@ -83,8 +83,8 @@
 	<string name="spending_by_category_over_time0">Ausgaben nach Kategorie - Periodenaufstellung</string>
 	<string name="spending_by_category_over_time1">Ausgaben nach Kategorie oder ^1 - Periodenaufstellung</string>
 	<string name="spending_by_category_over_time2">Ausgaben nach Kategorie, ^1 oder ^2 - Periodenaufstellung</string>
-<!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
-<!-- New --> <string name="last_account_used">The last account used</string>
+<!-- New --> <string name="assign_to_accounts">Weisen Sie auf die diese Kont(en) bei der Prognose</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
+<!-- New --> <string name="last_account_used">Die letzte Konto verwendet</string>
 			
 	<string name="no_categories">Keine Kategorien</string>
 	<string name="no_categories_yet">Bisher keine Kategorien</string>

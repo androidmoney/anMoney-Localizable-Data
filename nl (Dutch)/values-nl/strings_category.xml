@@ -74,8 +74,8 @@
     <string name="expense_uncategorized">Ongecategoriseerde uitgaven</string>
     <string name="show_uncategorized">Laat ongecategoriseerd zien</string>
     <string name="move_subcategory_to_another_category_warning">Wil je deze subcategorie verplaatsen naar een andere subcategorie</string> <!-- This is a question, but the question mark will be added progrmatically -->
-<!-- New -->    <string name="show_zero_balance_categories">Show categories with a zero balance</string>
-<!-- New -->        <string name="show_zero_balance_items">Show items with a zero balance</string> <!-- "Items" refers to classification name -->
+	<string name="show_zero_balance_categories">Toon categorieën met een saldo van nul</string>
+	<string name="show_zero_balance_items">Toon items met een saldo van nul</string> <!-- "Items" refers to classification name -->
     <string name="recategorize_category">Hercategoriseer alle transacties binnen deze categorie als</string>
     <string name="reclassify_class">Herclasseficeer alle transacties binnen deze klasse als</string>
 	<string name="spending_by_category0">Uitgaven per categorie</string>
