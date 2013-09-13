@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="view_payee">Vis betalingsmottaker</string>
+  <string name="edit_payee">Rediger betalingsmottaker</string>
+  <string name="new_payee">Ny betalingsmottaker</string>
+  <string name="call_payee">Ring betalingsmottaker</string>
+  <string name="delete_payee">Slett betalingsmottaker</string>
+  <string name="delete_payee_warning_format">Betalingsmottaker ^1 vil bli slettet permanent</string>
+  <string name="delete_from_app_format">Slett også fra ^1</string>
+  <!--^1 is replaced by the name of the Contacts app-->
+  <string name="add_payee_as_a_contact">Legg til betalingsmottaker som kontakt</string>
+  <string name="payee">Betalingsmottaker</string>
+  <string name="payer">Betaler</string>
+  <string name="payees">Betalere</string>
+  <string name="payee_required">Betalingsmottaker påkrevd</string>
+  <string name="payer_required">Betaler påkrevd</string>
+  <string name="call">Ring</string>
+  <string name="map_address">Vis kart for adressen</string>
+  <!--Show the address on the map-->
+  <string name="no_payees">Du har ingen betalingsmottakere</string>
+  <string name="payee_transaction_list_empty">Ingen transaksjoner registrert på denne betalingsmottakeren</string>
+  <string name="payee_exists">Én betalingsmottaker med det navnet eksisterer allerede</string>
+  <string name="combine_payees">Ønsker du å kombinere de to betalingsmottakerene</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="payee_name">Betalingsmottakerens navn</string>
+  <string name="link_payee">Ønsker du å knytte denne betalingsmottakeren opp mot kontakten</string>
+  <!--This is a question, but the question mark will be added progrmatically-->
+  <string name="account_number">Kontonummer</string>
+  <string name="phone">Telefon</string>
+  <string name="phone_number">Telefonnummer</string>
+  <string name="email">E-post</string>
+  <string name="email_address">E-postadresse</string>
+  <string name="url">URL</string>
+  <string name="web_address">Nettadresse</string>
+  <string name="select_account">Velg konto</string>
+  <string name="open_web_page">Åpne nettside</string>
+  <string name="view_payees">Vis betalingsmottakere</string>
+  <string name="default_payee_name">Min betalingsmottaker</string>
+  <string name="spending_by_payee">Utgående per betalingsmottaker</string>
+  <string name="all_payees_hidden_by_filter">Alle betalingsmottakerene er skjult av visningsfilteret</string>
+  <string name="without_payee">Uten betalingsmottaker</string>
+  <string name="no_payees_yet">Ingen betalingsmottakere ennå</string>
+  <string-array name="payee_count_format_plurals">
+    <item>1 betalingsmottaker</item>
+    <item>^1 betalingsmottakere</item>
+    <item></item>
+  </string-array>
+  <!--Not used-->
+  <!--Not used-->
+  <string name="all_payees">Alle betalingsmottakere</string>
+  <string name="payees_in_open_accounts">Betalingsmottakere i åpne kontoer</string>
+  <string name="payees_in_closed_accounts_only">Kun betalingsmottakere i lukkede kontoer</string>
+  <string name="unused_payees">Ubrukte betalingsmottakere</string>
+  <string-array name="payee_list_filter_title_bar">
+    <item>@string/all_payees</item>
+    <item>@string/payees_in_open_accounts</item>
+    <item>@string/payees_in_closed_accounts_only</item>
+    <item>@string/unused_payees</item>
+  </string-array>
+  <string-array name="payee_list_order_title_bar">
+    <item>@string/date</item>
+    <item></item>
+    <item>@string/name</item>
+    <item>@string/amount</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+  </string-array>
+  <!--Not used-->
+  <!--Not used-->
+  <!--Not used-->
+  <!--Not used-->
+  <!--Not used-->
+  <!--Not used-->
+</resources>

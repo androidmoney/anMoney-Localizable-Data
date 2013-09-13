@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="appwidget_warning_format">Det ser ut til at du har ^1 for øyeblikket installert på minnekortet.\n\nDette kan forårsake at hjemmeskjerm-elementet forsvinner, derfor anbefales det at du flytter ^1 tilbake fra minnekortet til enheten, om du ønsker å bruke hjemmeskjerm-elementene.</string>
+  <!--^1 is the app name-->
+  <string name="no_books_warning">Opprett minst én bok før du plasserer småprogrammet</string>
+  <string name="no_books_and_accounts_warning">Opprett minst én bok og en konto før du plasserer småprogrammet</string>
+  <string name="no_accounts_warning">Opprett minst én konto før du plasserer småprogrammet</string>
+  <string name="book_no_longer_exists_format">Boken ^1 eksisterer ikke lengre</string>
+  <string name="account_no_longer_exists">Kontoen eksisterer ikke lengre</string>
+  <string name="report_no_longer_exists">Kontoen eksisterer ikke lengre</string>
+  <string name="budget_no_longer_exists_format">Boken ^1 eksisterer ikke lengre</string>
+  <string name="quick_entry">Rask oppføring</string>
+  <string name="app_name_quick_entry">anMoney — Rask oppføring</string>
+  <string name="app_name_quick_entry_large">anMoney — Rask oppføring (stor)</string>
+  <string name="app_name_quick_entry_small">anMoney — Rask oppføring (liten)</string>
+  <string name="show_total">Vis saldobalansen for kontoen</string>
+  <string name="opacity">Gjennomsiktighet</string>
+  <string name="app_name_upcoming">anMoney — Oppkommende</string>
+  <!--as in Upcoming Bills-->
+  <string name="app_name_budget">anMoney — Budsjett</string>
+  <string name="app_name_report">anMoney — Rapport</string>
+  <string name="dash_clock_extension_description">Viser forfalte regninger og innskudd, om det er noen.</string>
+</resources>
