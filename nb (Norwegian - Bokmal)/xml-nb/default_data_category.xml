@@ -480,7 +480,7 @@
 	</record>
 	<record>
 		<mainCategory>Annen inntekt</mainCategory>
-		<subcategory>Barnetrygd mottatt</subcategory>
+		<subcategory>Barnetrygd</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
@@ -510,7 +510,7 @@
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Pansjonsinntekter</mainCategory>
+		<mainCategory>Pensjonsinntekter</mainCategory>
 		<expense>0</expense>
 	</record>
 	<record>
