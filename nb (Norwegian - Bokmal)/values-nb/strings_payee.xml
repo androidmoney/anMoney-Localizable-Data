@@ -15,12 +15,12 @@
 	<string name="payer_required">Betaler påkrevd</string>
 	<string name="call">Ring</string>
 	<string name="map_address">Vis kart for adressen</string>
-	<string name="no_payees">Du har ingen betalingsmottakere</string>
-	<string name="payee_transaction_list_empty">Ingen transaksjoner registrert på denne betalingsmottakeren</string>
+	<string name="no_payees">Du har ingen betalingskontakter</string>
+	<string name="payee_transaction_list_empty">Ingen transaksjoner bokført på denne betalingskontakten</string>
 	<string name="payee_exists">Én betalingsmottaker med det navnet eksisterer allerede</string>
-	<string name="combine_payees">Ønsker du å kombinere de to betalingsmottakerene</string>
+	<string name="combine_payees">Ønsker du å kombinere de to betalingskontaktene</string>
 	<string name="payee_name">Betalingsmottakerens navn</string>
-	<string name="link_payee">Ønsker du å knytte denne betalingsmottakeren opp mot kontakten</string>
+	<string name="link_payee">Ønsker du å knytte denne betalingskontakten opp mot kontakten</string>
 	<string name="account_number">Kontonummer</string>
 	<string name="phone">Telefon</string>
 	<string name="phone_number">Telefonnummer</string>
@@ -30,23 +30,23 @@
 	<string name="web_address">Nettadresse</string>
 	<string name="select_account">Velg konto</string>
 	<string name="open_web_page">Åpne nettside</string>
-	<string name="view_payees">Vis betalingsmottakere</string>
-	<string name="default_payee_name">Min betalingsmottaker</string>
-	<string name="spending_by_payee">Utgående per betalingsmottaker</string>
-	<string name="all_payees_hidden_by_filter">Alle betalingsmottakerene er skjult av visningsfilteret</string>
+	<string name="view_payees">Vis betalingskontakter</string>
+	<string name="default_payee_name">Min betalingskontakt</string>
+	<string name="spending_by_payee">Utgående per betalingskontakt</string>
+	<string name="all_payees_hidden_by_filter">Alle betalingskontaktene er skjult av visningsfilteret</string>
 
-	<string name="without_payee">Uten betalingsmottaker</string>
-	<string name="no_payees_yet">Ingen betalingsmottakere ennå</string>
+	<string name="without_payee">Uten betalingskontakt</string>
+	<string name="no_payees_yet">Ingen betalingskontakter ennå</string>
 	<string-array name="payee_count_format_plurals">
         <item/>
-		<item>^1 betalingsmottakere</item>
+		<item>^1 betalingskontakter</item>
 		<item/>
 	</string-array>
 
-	<string name="all_payees">Alle betalingsmottakere</string>
-	<string name="payees_in_open_accounts">Betalingsmottakere i åpne kontoer</string>
-	<string name="payees_in_closed_accounts_only">Kun betalingsmottakere i lukkede kontoer</string>
-	<string name="unused_payees">Ubrukte betalingsmottakere</string>
+	<string name="all_payees">Alle betalingskontakter</string>
+	<string name="payees_in_open_accounts">Betalingskontakter i åpne kontoer</string>
+	<string name="payees_in_closed_accounts_only">Kun betalingskontakter i lukkede kontoer</string>
+	<string name="unused_payees">Ubrukte betalingskontakter</string>
 	<string-array name="payee_list_filter_title_bar">
 		<item>@string/all_payees</item>
 		<item>@string/payees_in_open_accounts</item>

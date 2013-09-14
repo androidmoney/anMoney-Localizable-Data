@@ -173,7 +173,7 @@
 	<string name="use_todays_date_for_transaction_date">Bruk dagens dato som transaksjonsdato</string>
 	<string-array name="enter_warning_format_plurals">
 		<item/>
-		<item>^1 faste transaksjoner vil bli registrert</item>
+		<item>^1 faste transaksjoner vil bli bokført</item>
 		<item/>
 	</string-array>
 
