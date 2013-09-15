@@ -48,14 +48,13 @@
     <string name="options">Nastavenie</string>
     <string name="select_options">Upresnite parametre importu</string>
     <string name="remove_duplicates">Odstrániť duplicity</string>
-    <string name="remove_duplicates_notes">Toto by mělo pracovať správne vo veľkej vačšine prípadov, problémy ale môžu nastať, zvlašť pokiaľ sú sumy v rôznych menách. V týchto prípadoch nieje porovnanie možné. Po dokončení importu prosím overte správnosť zostatkov.</string>
+    <string name="remove_duplicates_notes">Toto by mělo pracovať správne vo veľkej vačšine prípadov, problémy ale môžu nastať, zvlašť pokiaľ sú sumy v rôznych menách. V týchto prípadoch nieje porovnanie možné. Po dokončení importu prosím overte správnosť zostatkov</string>
     <string name="import_classes">Import tried</string>
     <string name="ignore_memos">Ignorovať polia poznámok</string>
     <string name="create_payees_in_app_name_format">Vytvoriť príjemcu v ^1</string>
     <string name="contact_account">Účet pre vytváranie príjemcov</string>
     <string name="select_import_mode">Zvoľte spôsob importu</string>
-    <string name="select_accounts_to_export">Zvoľte účty pre export</string>
-    <string name="specify_export_file_format">Zvoľte formát výstupného súboru</string>
+    <string name="export_file_format">Formát výstupného súboru</string>
     <string name="mark_transactions_exported">Označiť transakciu ako exportovanú</string>
     <string name="create_single_file">Vytvoriť jeden súbor</string>
     <string name="no_transactions_matched_your_selection_criteria">Žiadna transakcia nevyhovuje parametrom výberu.\nExportný súbor nebol vytvorený</string>
@@ -143,11 +142,9 @@
         <item>Používa sa pre spracovanie dát z inej účtovnej aplikácie, ako je Microsoft® Money alebo Quicken®. Podporovaný je iba formát <b>QIF</b></item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Závisí na klasifikácii a kategóriách, ktoré používate, môže byť čitateľné len v Microsoft® Money</item>
-        <item>Čitateľné vo všetkých aplikáciách, ktoré podporujú formát <b>QIF</b></item>
-        <item>Čitateľné pomocou tabuľkových kalkulátorov, napríklad aplikácia Microsoft® Excel alebo Google™ Docs. Prvý exportovaný riadok obsahuje záhlavie stĺpcov, nasledovaný riadkami jednotlivých transakcií. Každé rozdelenie bude na samostatnom riadku</item>
-    </string-array>
+    <string name="qif_ms_money_description">Závisí na klasifikácii a kategóriách, ktoré používate, môže byť čitateľné len v Microsoft Money</string>
+	<string name="qif_generic_description">Čitateľné vo všetkých aplikáciách, ktoré podporujú formát <b>QIF</b></string>
+    <string name="csv_description">Čitateľné pomocou tabuľkových kalkulátorov, napríklad aplikácia Microsoft® Excel alebo Google™ Docs. Prvý exportovaný riadok obsahuje záhlavie stĺpcov, nasledovaný riadkami jednotlivých transakcií</string>
 
     <string name="import_file_confirm_format">Chcete importovať súbor ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">

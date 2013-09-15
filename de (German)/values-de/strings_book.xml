@@ -54,8 +54,7 @@
 	<string name="create_payees_in_app_name_format">Empfänger anlegen in ^1</string>
 	<string name="contact_account">Empfänger aus Adressbuch anlegen</string>
 	<string name="select_import_mode">Import-Art auswählen</string>
-	<string name="select_accounts_to_export">Konten für Export auswählen</string>
-	<string name="specify_export_file_format">Export-Format festlegen</string>
+	<string name="export_file_format">Export-Format</string>
 	<string name="mark_transactions_exported">Transaktionen als exportiert markieren</string>
 	<string name="create_single_file">Eine einzelne Datei erstellen</string>
 	<string name="no_transactions_matched_your_selection_criteria">Keine Transaktion entspricht Ihren Auswahlkriterien.\n\nEs sind keine Export-Dateien erstellt worden</string>
@@ -143,11 +142,9 @@
 		<item>Für Transfers von anderer Finanz-Software, wie z.B. Microsoft® Money oder Quicken®. Nur das <b>QIF</b>-Format wird unterstützt</item>
 	</string-array>
 
-	<string-array name="book_export_file_type_description">
-		<item>Je nachdem, welche Klassen oder Kategorien sie verwenden, kann es u.U. nur von Microsoft® Money gelesen werden</item>
-		<item>Lesbar von allen Anwendungen, die das <b>QIF-Format</b> unterstützen</item>
-		<item>Lesbar durch Tabellenkalkulations-Programme, wie z.B. Microsoft® Excel or Google Docs. Die erste exportierte Zeile enthält den Header (Feldnamen), gefolgt von einer Zeile für jede Transaktion. Jede Splitbuchung hat eine eigene Zeile</item>
-	</string-array>
+    <string name="qif_ms_money_description">Je nachdem, welche Klassen oder Kategorien sie verwenden, kann es u.U. nur von Microsoft Money gelesen werden</string>
+	<string name="qif_generic_description">Lesbar von allen Anwendungen, die das <b>QIF-Format</b> unterstützen</string>
+    <string name="csv_description">Lesbar durch Tabellenkalkulations-Programme, wie z.B. Microsoft® Excel or Google Docs. Die erste exportierte Zeile enthält den Header (Feldnamen), gefolgt von einer Zeile für jede Transaktion</string>
 
     <string name="import_file_confirm_format">Möchten Sie importieren ^1</string>
 	<string-array name="import_files_confirm_format_plurals">

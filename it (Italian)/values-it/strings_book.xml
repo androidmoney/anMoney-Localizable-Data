@@ -54,8 +54,7 @@
     <string name="create_payees_in_app_name_format">Crea beneficiari in ^1</string>
     <string name="contact_account">Contatti conto per creare beneficiari in</string>
     <string name="select_import_mode">Seleziona il metodo di importazione</string>
-    <string name="select_accounts_to_export">Seleziona conto(i) da esportare</string>
-    <string name="specify_export_file_format">Specifica il formato da esportare</string>
+    <string name="export_file_format">Formato da esportare</string>
     <string name="mark_transactions_exported">Segna transazione come esportata</string>
     <string name="create_single_file">Crea un singolo file</string>
     <string name="no_transactions_matched_your_selection_criteria">Nessuna transazione corrisponde ai criteri da te selezionati.\n\nNessun file(s) esportato è stato creato</string>
@@ -143,11 +142,9 @@
         <item>Utilizzato per trasferire dati da un altro software di finanza personale, come ad esempio Microsoft® Money o Quicken®. Solo il formato <b>QIF</b> è supportato</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>A seconda delle classificazioni e le categorie utilizzate, possono essere leggibili da Microsoft® Money</item>
-        <item>Leggibile da tutte le applicazioni che supportano il formato <b>QIF</b></item>
-        <item>Leggibile da applicazioni di foglio elettronico, come Microsoft® Excel™ o Google Docs. La prima riga esportata contiene le intestazioni delle colonne, seguita da una riga per ogni transazione. Ogni divisa occupa una riga</item>
-    </string-array>
+    <string name="qif_ms_money_description">A seconda delle classificazioni e le categorie utilizzate, possono essere leggibili da Microsoft Money</string>
+	<string name="qif_generic_description">Leggibile da tutte le applicazioni che supportano il formato <b>QIF</b></string>
+    <string name="csv_description">Leggibile da applicazioni di foglio elettronico, come Microsoft® Excel™ o Google Docs. La prima riga esportata contiene le intestazioni delle colonne, seguita da una riga per ogni transazione</string>
 
     <string name="import_file_confirm_format">Vuoi importare ^1</string>
 	<string-array name="import_files_confirm_format_plurals">

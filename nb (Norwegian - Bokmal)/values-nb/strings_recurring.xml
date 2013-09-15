@@ -20,7 +20,7 @@
 	<string name="remain_on_this_occurrence_format">Bli på denne forekomsten hvis beløpet er mindre enn ^1</string>
 	<string name="edit_recurring">Rediger gjentakelse</string>
 	<string name="entire_series">Hele serien</string>
-	<string name="edit_template_warning">Det er fremtidige egendefinerte forekomster.\n\nRedigering av serien vil fjerne disse egendefineringene.</string>
+	<string name="edit_template_warning">Det er fremtidige egendefinerte forekomster.\n\nRedigering av serien vil fjerne disse egendefineringene</string>
 	<string name="delete_recurring">Slett gjentakelse</string>
 	<string name="delete_question_format">Slett ^1</string>
 	<string name="all_future_occurrences_will_be_deleted">Alle fremtidige forekomster vil bli slettet</string>

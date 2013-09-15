@@ -6,7 +6,8 @@
     <string name="edit_split">Osztás módosítása</string>
     <string name="edit_splits">Osztások módosítása</string>
     <string name="delete_split">Osztás törlése</string>
-	<string name="sum_of_splits">Osztások összege</string>
+	<string name="export_splits">Osztások exportálása</string>
+    <string name="sum_of_splits">Osztások összege</string>
 	<string name="unassigned">Hozzárendelés nélküli</string>
 	<string name="transaction_total">Tranzakció összege</string>
     <string name="go_back_to_edit">Menjen vissza a szerkesztéséhez</string>

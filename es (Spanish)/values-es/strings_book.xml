@@ -53,9 +53,8 @@
     <string name="ignore_memos">Ignorar el campo «notas»</string>
     <string name="create_payees_in_app_name_format">Crear los beneficiarios en ^1</string>
     <string name="contact_account">Cuenta donde se crearán los beneficiarios</string> <!-- RC Note. This text is valid only if "account" refers to accounts on the device (contacts, scheduler, tasks: gmail, hotmail, etc) -->
-    <string name="select_accounts_to_export">Seleccionar cuenta(s) a exportar</string>
     <string name="select_import_mode">Seleccionar el modo de importación</string>
-    <string name="specify_export_file_format">Especificar el formato del archivo de exportación</string>
+    <string name="export_file_format">Formato del archivo de exportación</string>
     <string name="mark_transactions_exported">Marcar transacciones como exportadas</string>
     <string name="create_single_file">Crear un único archivo</string>
     <string name="no_transactions_matched_your_selection_criteria">No hay transacciones que se correspondan con sus criterios de selección.\n\nNo se exportó ningún archivo</string>
@@ -143,11 +142,9 @@
         <item>Se utiliza para la transferencia de datos desde otro aplicativo de finanzas personales, como por ejemplo Microsoft® Money o Quicken®. La función sólo es compatible con el formato <b>QIF</b></item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Dependiendo de las clasificaciones y las categorías que uses, sólo puede ser leído por Microsoft® Money</item>
-        <item>Compatible con todas las aplicaciones que aceptan el formato <b>QIF</b></item>
-        <item>Compatible con las aplicaciones de hojas de cálculo, como Microsoft® Excel o Google Docs™. La primera fila contiene los títulos de columna, seguida por las transacciones (una fila por cada una). Para las transacciones divididas hay tantas filas como divisiones</item>
-    </string-array>
+    <string name="qif_ms_money_description">Dependiendo de las clasificaciones y las categorías que uses, sólo puede ser leído por Microsoft Money</string>
+	<string name="qif_generic_description">Compatible con todas las aplicaciones que aceptan el formato <b>QIF</b></string>
+    <string name="csv_description">Compatible con las aplicaciones de hojas de cálculo, como Microsoft® Excel o Google Docs™. La primera fila contiene los títulos de columna, seguida por las transacciones (una fila por cada una)</string>
 
     <string name="import_file_confirm_format">Quieres importar ^1</string>
 	<string-array name="import_files_confirm_format_plurals">

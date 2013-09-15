@@ -132,7 +132,7 @@
     <string name="no_network_message_format">^1 vyžaduje pravidelný prístup k sieti z dôvodu možnosti overiť licenciu.\n\nPovoľte prosím sieť, po sprístupnení siete zopakujte operácu. Následne môžete prístup k sieti opäť zakázať.\n\nPo kliknutí ^2 bude zobrazený dialóg ^3</string>
     <string name="calculator">Kalkulačka</string>
     <string name="only_in_full_version">Len vo verzii PRO</string>
-    <string name="will_not_effect_transactions">Žiadne existujúce transakcie <b>nebudou</b> změněny.</string>
+    <string name="will_not_effect_transactions">Žiadne existujúce transakcie <b>nebudou</b> změněny</string>
     
 	<string name="free_limitations">Kúpou verzie PRO odstráníte tieto obmedzenia:\n\n
 	<li>Bez možnosti zabezpečenia pomocou hesla</li>\n

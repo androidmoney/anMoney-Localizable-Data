@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
-    <string name="splits">Delen</string> <!-- This is a noun -->
+    <string name="splits">Delingen</string> <!-- This is a noun -->
     <string name="split_canceled">Delen geannullerd</string> <!-- "Split" is a verb -->
     <string name="new_split">Nieuwe deling</string> <!-- "Split" here and below are nouns -->
     <string name="edit_split">Bewerk deling</string>
     <string name="edit_splits">Bewerk delingen</string>
     <string name="delete_split">Verwijder deling</string>
-	<string name="sum_of_splits">Som van de delingen</string>
-	<string name="unassigned">Unassigned</string>
+<!-- New --> <string name="export_splits">Exporteren delingen</string>
+    <string name="sum_of_splits">Som van de delingen</string>
+	<string name="unassigned">Niet toegewezen</string>
 	<string name="transaction_total">Transactie totaal</string>
     <string name="go_back_to_edit">Ga terug naar het bewerken van de deling</string>
     <string name="unassigned_split_message_format">De som van de deling is ^1, Terwijl het transactie totaal ^2 is. Dit geeft ^3 niet toegewezen, wat niet word aangeraden</string>

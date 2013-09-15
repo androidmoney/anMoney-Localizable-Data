@@ -62,7 +62,7 @@
 	<string name="copy_account_number">Kopi kontonummer</string>
 	<string name="book_total">Total saldo for boken</string>
 	<string name="favorites_total">Total saldo for favoritter</string>
-	<string name="delete_account_warning_part1_format">Kontoen ^1 vil bli permanent slettet.\n\nGrunnet kontoens bruk i transaksjoner vil også samtlige relaterte transaksjoner bli slettet.</string>
+	<string name="delete_account_warning_part1_format">Kontoen ^1 vil bli permanent slettet.\n\nGrunnet kontoens bruk i transaksjoner vil også samtlige relaterte transaksjoner bli slettet</string>
 	<string name="delete_account_warning_part2_format">For å skjule kontoen, men likevel beholde transaksjonshistorien, velg ^1 og lukk kontoen i stedet</string>
 	<string name="no_accounts">Du har ingen kontoer</string>
 	<string name="no_transactions_for_account">Kontoen har ingen transaksjoner ennå</string>

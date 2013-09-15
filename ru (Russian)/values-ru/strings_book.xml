@@ -54,8 +54,7 @@
     <string name="create_payees_in_app_name_format">Создавать получателей в ^1</string>
     <string name="contact_account">Учетная запись для создания получателей</string>
     <string name="select_import_mode">Выберите режим импорта</string>
-    <string name="select_accounts_to_export">Выберите экспортируемый счет(а)</string>
-    <string name="specify_export_file_format">Выберите формат файла экспорта</string>
+    <string name="export_file_format">Формат файла экспорта</string>
     <string name="mark_transactions_exported">Пометить транзакции как выгруженные</string>
     <string name="create_single_file">Создать один файл</string>
     <string name="no_transactions_matched_your_selection_criteria">Нет подходящих под условия выборки транзакций.\n\nФайл(ы) экспорта не создан(ы)</string>
@@ -143,11 +142,9 @@
         <item>Для переноса данных из других программ финансового учёта, таких как Microsoft® Money или Quicken®. Поддерживается только формат <b>QIF</b></item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>В зависимости от используемых классификаций и категорий, может поддерживаться только Microsoft® Money</item>
-        <item>Поддерживается всеми приложениями, поддерживающими формат <b>QIF</b></item>
-        <item>Поддерживается табличными процессорами, такими как Microsoft® Excel или Google™ Docs. Первая строка содержит заголовки колонок, за ней следуют транзакции по одной на строку. Каждый сплит выводится отдельной строкой</item>
-    </string-array>
+    <string name="qif_ms_money_description">В зависимости от используемых классификаций и категорий, может поддерживаться только Microsoft Money</string>
+	<string name="qif_generic_description">Поддерживается всеми приложениями, поддерживающими формат <b>QIF</b></string>
+    <string name="csv_description">Поддерживается табличными процессорами, такими как Microsoft® Excel или Google™ Docs. Первая строка содержит заголовки колонок, за ней следуют транзакции по одной на строку</string>
 
     <string name="import_file_confirm_format">Импортировать файл ^1</string>
 	<string-array name="import_files_confirm_format_plurals">

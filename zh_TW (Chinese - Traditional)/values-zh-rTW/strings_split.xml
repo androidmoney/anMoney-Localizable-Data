@@ -6,7 +6,8 @@
     <string name="edit_split">編輯分割項目</string>
     <string name="edit_splits">編輯分割項目</string>
     <string name="delete_split">刪除分割項目</string>
-	<string name="sum_of_splits">分割項目總數</string>
+<!-- New --> <string name="export_splits">匯出分割項目</string>
+    <string name="sum_of_splits">分割項目總數</string>
 	<string name="unassigned">未分配</string>
 	<string name="transaction_total">交易項目合計總額</string>
     <string name="go_back_to_edit">返回以編輯分割項目</string>

@@ -54,8 +54,7 @@
     <string name="create_payees_in_app_name_format">^1に支払先を作成</string>
     <string name="contact_account">支払先を作成する口座に連絡</string>
     <string name="select_import_mode">データ種別の選択</string>
-    <string name="select_accounts_to_export">エクスポートする口座の選択</string>
-    <string name="specify_export_file_format">エクスポートフォーマットの指定</string>
+    <string name="export_file_format">エクスポートフォーマット</string>
     <string name="mark_transactions_exported">取り引きをエクスポート済みとしてマーク</string>
     <string name="create_single_file">単一のファイルを作成</string>
     <string name="no_transactions_matched_your_selection_criteria">選択基準にマッチした取り引きは見つかりません\n\nエクスポートファイルは作成されていません</string>
@@ -143,11 +142,9 @@
         <item><b>QIF</b>フォーマットのみサポートされています（Microsoft® MoneyやQuicken®などパーソナルファイナンスソフトウェアからデータを転送するために使用されます）</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>使用する分類やカテゴリーによってはMicrosoft® Moneyでしか読み込めない場合があります</item>
-        <item><b>QIF</b>形式をサポートするすべてのアプリケーションで読み込み可能です</item>
-        <item>スプレッドシートアプリケーション（Microsoft® ExcelやGoogle™ Docsなど）で読み込むことができます。先頭行はそれぞれの取り引きのヘッダーになります。分割された取り引きはそれぞれ別の行となります</item>
-    </string-array>
+    <string name="qif_ms_money_description">使用する分類やカテゴリーによってはMicrosoft Moneyでしか読み込めない場合があります</string>
+	<string name="qif_generic_description"><b>QIF</b>形式をサポートするすべてのアプリケーションで読み込み可能です</string>
+    <string name="csv_description">スプレッドシートアプリケーション（Microsoft® ExcelやGoogle™ Docsなど）で読み込むことができます。先頭行はそれぞれの取り引きのヘッダーになります</string>
 
     <string name="import_file_confirm_format">^1をインポートしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">

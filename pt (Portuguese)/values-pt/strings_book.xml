@@ -54,8 +54,7 @@
     <string name="create_payees_in_app_name_format">Criar beneficiários em ^1</string>
     <string name="contact_account">Contato da conta para criar beneficiários</string>
     <string name="select_import_mode">Selecione o modo de importação</string>
-    <string name="select_accounts_to_export">Selecione conta(s) para exportar</string>
-    <string name="specify_export_file_format">Especifique o formato do arquivo de exportação</string>
+    <string name="export_file_format">Formato do arquivo de exportação</string>
     <string name="mark_transactions_exported">Marque as transações como exportadas</string>
     <string name="create_single_file">Criar arquivo único</string>
     <string name="no_transactions_matched_your_selection_criteria">Nenhuma transação encontrada com os critérios de seleção informados.\n\nNenhum arquivo(s) de exportação foi criado</string>
@@ -143,11 +142,9 @@
         <item>Usado para transferir dados de outro programa de finanças pessoais, tais como Microsoft® Money ou Quicken®. Só o formato <b>QIF</b> é suportado</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Dependendo das classificações e categorias que você usa, pode somente ser lido pelo Microsoft Money</item>
-        <item>Lido por todas as applicações que suportam o formato <b>QIF</b></item>
-        <item>Lido por planilhas, tais como Microsoft® Excel ou Google™ Docs. A primeira linha exportada contêm o cabeçalho, seguida por uma linha para cada transação. Cada divisão contêm sua própria linha</item>
-    </string-array>
+    <string name="qif_ms_money_description">Dependendo das classificações e categorias que você usa, pode somente ser lido pelo Microsoft Money</string>
+	<string name="qif_generic_description">Lido por todas as applicações que suportam o formato <b>QIF</b></string>
+    <string name="csv_description">Lido por planilhas, tais como Microsoft® Excel ou Google™ Docs. A primeira linha exportada contêm o cabeçalho, seguida por uma linha para cada transação</string>
 
     <string name="import_file_confirm_format">Você quer importar ^1</string>
 	<string-array name="import_files_confirm_format_plurals">

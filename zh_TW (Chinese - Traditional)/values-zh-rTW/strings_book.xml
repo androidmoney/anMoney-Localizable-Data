@@ -54,8 +54,7 @@
     <string name="create_payees_in_app_name_format">在^1創建收款人</string>
     <string name="contact_account">聯繫帳戶創建受款人</string>
     <string name="select_import_mode">選擇匯入模式</string>
-    <string name="select_accounts_to_export">選擇帳戶以匯出</string>
-    <string name="specify_export_file_format">指定匯出文件格式</string>
+    <string name="export_file_format">匯出文件格式</string>
     <string name="mark_transactions_exported">標記交易為已匯出</string>
     <string name="create_single_file">建立一個單獨的檔案</string>
     <string name="no_transactions_matched_your_selection_criteria">無交易符合您的選擇標準。\n\n沒有匯出任何檔案</string>
@@ -143,11 +142,9 @@
         <item>用以讀入從其他個人理財軟體匯出的數據，如 Microsoft® Money或Quicken®。僅支援<b>QIF</b>格式</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>根據您所使用的分類和類別，可能只有Microsoft® Money能讀取</item>
-        <item>所有支持QIF格式的應用程式都能讀取</item>
-        <item>支援試算表應用程式，例如Microsoft® Excel或Google™文件。第一行匯出的內容包含了表頭，接下來一行代表一筆交易。每筆分割金額都是獨立一行</item>
-    </string-array>
+    <string name="qif_ms_money_description">根據您所使用的分類和類別，可能只有Microsoft Money能讀取</string>
+	<string name="qif_generic_description">所有支持<b>QIF</b>格式的應用程式都能讀取</string>
+    <string name="csv_description">支援試算表應用程式，例如Microsoft® Excel或Google™文件。第一行匯出的內容包含了表頭，接下來一行代表一筆交易</string>
 
     <string name="import_file_confirm_format">您是否想匯入^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">

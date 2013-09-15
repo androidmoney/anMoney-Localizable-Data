@@ -48,14 +48,13 @@
 	<string name="options">Alternativer</string>
 	<string name="select_options">Velg importeringsalternativer</string>
 	<string name="remove_duplicates">Fjern duplikater</string>
-	<string name="remove_duplicates_notes">Selv om dette skal fungere i flesteparten av tilfellene, så kan det være problemer, spesielt hvis kontoene har beløp i forskjellige valuta. I disse tilfellene vil vi ikke kunne knytte dem opp. Sjekk at saldo stemmer etter importeringen.</string>
+	<string name="remove_duplicates_notes">Selv om dette skal fungere i flesteparten av tilfellene, så kan det være problemer, spesielt hvis kontoene har beløp i forskjellige valuta. I disse tilfellene vil vi ikke kunne knytte dem opp. Sjekk at saldo stemmer etter importeringen</string>
 	<string name="import_classes">Importér klasser</string>
 	<string name="ignore_memos">Ignorer notatfeltet</string>
 	<string name="create_payees_in_app_name_format">Opprett betalingsmottakere i ^1</string>
 	<string name="contact_account">Kontaktkonto for opprettelse av betalingsmottakere</string>
 	<string name="select_import_mode">Velg importeringsmodus</string>
-	<string name="select_accounts_to_export">Velg konto(er) for eksportering</string>
-	<string name="specify_export_file_format">Velg filformat for eksportering</string>
+	<string name="export_file_format">Filformat for eksportering</string>
 	<string name="mark_transactions_exported">Merk transaksjoner som eksportert</string>
 	<string name="create_single_file">Opprett én fil</string>
 	<string name="no_transactions_matched_your_selection_criteria">Ingen transaksjoner stemte med dine kriteria.\n\nIngen eksportfiler har blitt opprettet</string>
@@ -107,7 +106,7 @@
 	<string name="verify_import_settings">Verifiser at standardinnstillingene er korrekte for filen du importerer. Hvis alt ser bra ut, velg <b>Tilbake</b>-pilen for å fortsette med importeringsprosessen</string>
 	<string name="change_settings_instructions_format">Denne meldingen vil ikke vises for etterfølgende importer, men du kan endre innstillingene ved å velge ^i på toppen av skjermen</string>
 	<string name="bad_import_settings">Følgende innstiling(er) ser ikke ut til å samsvare med filen du prøver å importere</string>
-	<string name="qif_csv_encoding_explanation_format">Normalt burde ^1 brukes for språkene i listen under, men noen finansinstitusjoner kan produsere filer hvor ^2 må velges for at importeringen skal bli vellykket.\n\nFor alle andre språk som IKKE er i listen burde alltid ^2 velges.</string>
+	<string name="qif_csv_encoding_explanation_format">Normalt burde ^1 brukes for språkene i listen under, men noen finansinstitusjoner kan produsere filer hvor ^2 må velges for at importeringen skal bli vellykket.\n\nFor alle andre språk som IKKE er i listen burde alltid ^2 velges</string>
 	<string name="credits_legal">Bidragsytere &amp; juridisk</string>
 	<string name="contact_and_social">Kontakt &amp; sosial</string>
 	<string name="follow_us">Følg oss</string>
@@ -139,15 +138,13 @@
 	</string-array>
 
 	<string-array name="import_mode_description">
-		<item>Brukes for bankutskrifter lastet ned fra forskjellige finansinstitusjoner, som f.eks. en bankutskrift ved slutten av måneden fra DNB. Både <b>QIF</b> og <b>OFX/QFX/OFS</b>-formatene er støttet. Importéringsfilen(e) må ikke inneholde overføringer imellom konti.</item>
-		<item>Brukes for å overføre data fra personlige finansapplikasjoner, sånn som f.eks. Microsoft® Money eller Quicken®. Kun <b>QIF</b>-formatet er støttet.</item>
+		<item>Brukes for bankutskrifter lastet ned fra forskjellige finansinstitusjoner, som f.eks. en bankutskrift ved slutten av måneden fra DNB. Både <b>QIF</b> og <b>OFX/QFX/OFS</b>-formatene er støttet. Importéringsfilen(e) må ikke inneholde overføringer imellom konti</item>
+		<item>Brukes for å overføre data fra personlige finansapplikasjoner, sånn som f.eks. Microsoft® Money eller Quicken®. Kun <b>QIF</b>-formatet er støttet</item>
 	</string-array>
 
-	<string-array name="book_export_file_type_description">
-		<item>Avhengig av klassifiseringene og kategoriene som du bruker, er eksporten muligens kun lesbar for Microsoft® Money</item>
-		<item>Lesbar av alle applikasjoner som støtter QIF-formatet</item>
-		<item>Lesbar av regneark-applikasjoner, f.eks. Microsoft® Excel eller Google™ Dokumenter. Denne første eksporterte raden inneholder kolonneoverskriftene, etterfulgt av en rad for hver transaksjon. Hver oppdeling får én egen rad. </item>
-	</string-array>
+    <string name="qif_ms_money_description">Avhengig av klassifiseringene og kategoriene som du bruker, er eksporten muligens kun lesbar for Microsoft Money</string>
+	<string name="qif_generic_description">Lesbar av alle applikasjoner som støtter <b>QIF</b>-formatet</string>
+    <string name="csv_description">Lesbar av regneark-applikasjoner, f.eks. Microsoft® Excel eller Google™ Dokumenter. Denne første eksporterte raden inneholder kolonneoverskriftene, etterfulgt av en rad for hver transaksjon</string>
 
 	<string name="import_file_confirm_format">Ønsker du å importere ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
@@ -258,7 +255,7 @@
 
 	<string name="failed_to_back_up_book">Sikkerhetskopieringen feilet</string>
 	<string name="no_space_left_on_sd_card">SD-kortet har ikke ledig plass</string>
-	<string name="cannot_restore_newer_version">Sikkerhetskopien kan ikke gjenopprettes fordi den ble opprettet av en nyere versjon av ^1.\n\nInstallér den nyeste versjonen av ^1 og prøv igjen.</string>
+	<string name="cannot_restore_newer_version">Sikkerhetskopien kan ikke gjenopprettes fordi den ble opprettet av en nyere versjon av ^1.\n\nInstallér den nyeste versjonen av ^1 og prøv igjen</string>
 
 	<string name="file">Fil</string>
 	<string name="folder">Mappe</string>

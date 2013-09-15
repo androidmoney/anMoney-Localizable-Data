@@ -54,8 +54,7 @@
     <string name="create_payees_in_app_name_format">Maak begunstigde in ^1</string>
     <string name="contact_account">Contacteer rekening om begunstigde aan te maken</string> <!-- This is NOT a bank account, but the kind of account you use with e-mail, like a Google Account -->
     <string name="select_import_mode">Selecteer importeer manier</string>
-    <string name="select_accounts_to_export">Selecteer rekening(en) om te exporteren</string>
-    <string name="specify_export_file_format">Specificeer exporteer bestand formaat</string>
+    <string name="export_file_format">Exporteer bestand formaat</string>
     <string name="mark_transactions_exported">Markeer transacties als geexporteerd</string>
     <string name="create_single_file">Creeer een enkel bestand</string>
     <string name="no_transactions_matched_your_selection_criteria">Eris geen transactie die overeenkomt met de selectie van criteria.\n\nEr is geen export bestand gemaakt</string>
@@ -143,11 +142,9 @@ New        <string name="decline">Decline</string>
 		<item>Gebruikt om transfer data van een ander financieel programma, zoals Microsoft® Money of Quicken®. Alleen het <b>QIF</b> formaat word ondersteund</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Afhankelijk van de classificaties en categorien die je gebruikt, kan het alleen leesbaar zijn door Microsoft® Money</item>
-        <item>Leesbaar door alle aplicaties die <b>QIF</b> formaat ondersteunen</item>
-        <item>Leesbaar door spreadsheet aplicaties, zoals Microsoft® Excel of Google™ Docs. De eerste geexporteerde rij bevat de kolom met headers, gevolgd door een rij voor elke transactie. Elke splitsing krijgt zijn eigen rij</item>
-    </string-array>
+    <string name="qif_ms_money_description">Afhankelijk van de classificaties en categorien die je gebruikt, kan het alleen leesbaar zijn door Microsoft Money</string>
+	<string name="qif_generic_description">Leesbaar door alle aplicaties die <b>QIF</b> formaat ondersteunen</string>
+    <string name="csv_description">Leesbaar door spreadsheet aplicaties, zoals Microsoft® Excel of Google™ Docs. De eerste geexporteerde rij bevat de kolom met headers, gevolgd door een rij voor elke transactie</string>
 
     <string name="import_file_confirm_format">Wil je importeren ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">

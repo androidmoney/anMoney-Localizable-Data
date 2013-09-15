@@ -54,8 +54,7 @@
     <string name="create_payees_in_app_name_format">Alkotja a kedvezményezetteket a ^1-ba</string>
     <string name="contact_account">Címtár fiók amibe a kedvezményezettek lesznek alkotva</string>
     <string name="select_import_mode">Válassza ki az importálási módot</string>
-    <string name="select_accounts_to_export">Válassza ki a számlát/-kat exportálásra</string>
-    <string name="specify_export_file_format">Válassza ki az exportálási fájlformátumot</string>
+    <string name="export_file_format">Exportálási fájlformátum</string>
     <string name="mark_transactions_exported">Jelölje meg a tranzakciókat exportáltaknak</string>
     <string name="create_single_file">Csináljon egy kombinált fájlt</string>
     <string name="no_transactions_matched_your_selection_criteria">Egy tranzakció sem felelt meg a kiválasztási kritériumoknak.\n\nExport fájl(ok) nem lettek létrehozva</string>
@@ -143,11 +142,9 @@
         <item>Válassza ezt ha át akarja telepíteni az adatokat egy másik pénzügyi szoftverból, mint például a Microsoft® Money-ból vagy a Quicken®-ből. Csak a <b>QIF</b> formátum van támogatva</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Attól függően, hogy milyen osztályozásokat és kategóriákat használ, csak a Microsoft® Money-val olvashatja</item>
-        <item>Olvasható az összes <b>QIF</b> formátumot támogató szoftverrel</item>
-        <item>Olvashatja egy táblázatkezelő szoftverrel, mint például a Microsoft® Excel vagy a Google™ Docs. Az első sor tartalmazza az oszlopfejléceket, és utána minden tranzakcióhoz kap egy sort. Minden egyes osztás kapja a saját sorát is</item>
-    </string-array>
+    <string name="qif_ms_money_description">Attól függően, hogy milyen osztályozásokat és kategóriákat használ, csak a Microsoft Money-val olvashatja</string>
+	<string name="qif_generic_description">Olvasható az összes <b>QIF</b> formátumot támogató szoftverrel</string>
+    <string name="csv_description">Olvashatja egy táblázatkezelő szoftverrel, mint például a Microsoft® Excel vagy a Google™ Docs. Az első sor tartalmazza az oszlopfejléceket, és utána minden tranzakcióhoz kap egy sort</string>
 
     <string name="import_file_confirm_format">Importálja ^1-t</string>
 	<string-array name="import_files_confirm_format_plurals">
@@ -263,7 +260,7 @@
 	
 	<string name="failed_to_back_up_book">A könyvet nem sikerült menteni</string>
 	<string name="no_space_left_on_sd_card">Nincs már hely az SD-kártyán</string>
-	<string name="cannot_restore_newer_version">Nem tudja visszaállítani a mentést amelyik az ^1 újabb verziójával volt létrehozva.\n\nKérjük, telepítse az ^1 legújabb verzióját, és próbálja újra.</string>
+	<string name="cannot_restore_newer_version">Nem tudja visszaállítani a mentést amelyik az ^1 újabb verziójával volt létrehozva.\n\nKérjük, telepítse az ^1 legújabb verzióját, és próbálja újra</string>
 	
 	<string name="file">Fájl</string>	
 	<string name="folder">Mappa</string>	

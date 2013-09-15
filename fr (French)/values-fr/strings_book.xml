@@ -54,8 +54,7 @@
 	<string name="create_payees_in_app_name_format">Créer les bénéficiaires dans ^1</string>
 	<string name="contact_account">Compte de contacts dans lequel créer les bénéficiaires</string>
 	<string name="select_import_mode">Sélectionner le mode d’importation</string>
-	<string name="select_accounts_to_export">Sélectionner le(s) compte(s) à exporter</string>
-	<string name="specify_export_file_format">Spécifier le format du fichier d’exportation</string>
+	<string name="export_file_format">Format du fichier d’exportation</string>
 	<string name="mark_transactions_exported">Marquer les transactions comme exportées</string>
 	<string name="create_single_file">Créer un fichier unique</string>
 	<string name="no_transactions_matched_your_selection_criteria">Aucune transaction ne correspond à vos critères de sélection.\n\nAucun fichier d’exportation n’a été créé</string>
@@ -143,11 +142,9 @@
 		<item>Utilisé pour transférer des données d’autres logiciels de finances personnelles, tels que Microsoft® Money ou Quicken®. Seul le format <b>QIF</b> est supporté</item>
 	</string-array>
 
-	<string-array name="book_export_file_type_description">
-		<item>Suivant les classifications et catégories que vous utilisez, seul Microsoft® Money sera peut-être capable de relire le fichier</item>
-		<item>Lisible par toutes les applications supportant le format <b>QIF</b></item>
-		<item>Lisible par les tableurs tels que Microsoft® Excel ou Google™ Docs. La première rangée exportée contient les en-têtes de colonnes, suivie d’une rangée pour chaque transaction. Chaque fractionnement se trouve consigné sur une rangée distincte.</item>
-	</string-array>
+    <string name="qif_ms_money_description">Suivant les classifications et catégories que vous utilisez, seul Microsoft Money sera peut-être capable de relire le fichier</string>
+	<string name="qif_generic_description">Lisible par toutes les applications supportant le format <b>QIF</b></string>
+    <string name="csv_description">Lisible par les tableurs tels que Microsoft® Excel ou Google™ Docs. La première rangée exportée contient les en-têtes de colonnes, suivie d’une rangée pour chaque transaction</string>
 
     <string name="import_file_confirm_format">Voulez-vous importer ^1</string>
 	<string-array name="import_files_confirm_format_plurals">

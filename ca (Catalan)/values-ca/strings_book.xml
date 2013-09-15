@@ -54,8 +54,7 @@
     <string name="create_payees_in_app_name_format">Crear beneficiaris a ^1</string>
     <string name="contact_account">Compte del contacte dins el que crear els beneficiaris</string>
     <string name="select_import_mode">Seleccionar mode d’importació</string>
-    <string name="select_accounts_to_export">Seleccionar compte(s) a exportar</string>
-    <string name="specify_export_file_format">Especificar format de l’arxiu d’exportació</string>
+    <string name="export_file_format">Format de l’arxiu d’exportació</string>
     <string name="mark_transactions_exported">Marcar les trasnaccions com exportades</string>
     <string name="create_single_file">Crear un arxiu únic</string>
     <string name="no_transactions_matched_your_selection_criteria">Cap transacció concorda amb el criteri de selecció.\n\nNo s’ha creat cap arxiu d’exportació</string>
@@ -143,11 +142,9 @@
         <item>Emprat per transferir dades des d’un altre programari de finances personals, com ara Microsoft® Money o Quicken®. Només el format <b>QIF</b> està suportat</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>En funció de les classificacions i categories emprades, només podria ser llegible per part de Microsoft® Money</item>
-        <item>Llegible per tots els programaris que suportin el format <b>QIF</b></item>
-        <item>Llegible pels programaris de full de càlcul, com ara Microsoft® Excel o Google™ Docs. La primera fila exportada conté les capçaleres de les columnes, seguit d’una fila per cada transacció. Cada divisió té la seva pròpia fila</item>
-    </string-array>
+    <string name="qif_ms_money_description">En funció de les classificacions i categories emprades, només podria ser llegible per part de Microsoft Money</string>
+	<string name="qif_generic_description">Llegible per tots els programaris que suportin el format <b>QIF</b></string>
+    <string name="csv_description">Llegible pels programaris de full de càlcul, com ara Microsoft® Excel o Google™ Docs. La primera fila exportada conté les capçaleres de les columnes, seguit d’una fila per cada transacció</string>
 
     <string name="import_file_confirm_format">Vol importar ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
