@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-    
 	<string name="transactions">Transaksjoner</string>
 	<string name="view_transactions">Vis transaksjoner</string>
 	<string name="new_transaction">Ny transaksjon</string>
@@ -45,7 +43,7 @@
 	<string name="flag_for_follow_up">Merk for oppfølging</string>
 	<string name="edit_follow_up">Rediger oppfølging</string>
 	<string name="make_recurring">Gjør om til fast </string>
-	<string name="follow_up2">Oppfølging</string>
+	<string name="follow_up2">For oppfølging</string>
 	<string name="follow_up_by">Følg opp innen</string>
 	<string name="follow_up_created">Oppfølging opprettet</string>
 	<string name="follow_up_edited">Oppfølging redigert</string>
@@ -53,7 +51,7 @@
 	<string name="follow_up_creation_canceled">Avbrøt opprettelse av oppfølging</string>
 	<string name="go_to">Gå til</string>
 	<string name="number">Nummer</string>
-	<string name="transfer">Overførin</string>
+	<string name="transfer">Overføring</string>
 	<string name="transfers">Overføringer</string>
 	<string name="transfer_account">Overføringskonto</string>
 	<string name="add">Legg til</string>
@@ -127,16 +125,16 @@
 	<string name="full_screen_mode_description">Flere transaksjoner vil være synlig samtidig, om valgt</string>
 
 	<string-array name="amount1_labels">
-		<item>Betaling</item>
+		<item>Kostnad</item>
 		<item>Utgift</item>
 		<item>Kreditt</item>
 		<item>Betaling</item>
-		<item>Øk</item>
-		<item>Reduser</item>
+		<item>Økning</item>
+		<item>Reduksjon</item>
 		<item>Uttak</item>
 	</string-array>
 	<string-array name="amount1_description">
-		<item>betalingen</item>
+		<item>kostnaden</item>
 		<item>bruket</item>
 		<item>kreditten</item>
 		<item>betaling</item>
@@ -145,18 +143,18 @@
 		<item>uttaket</item>
 	</string-array>
 	<string-array name="amount2_labels">
-		<item>Innskudd</item>
+		<item>Inntekt</item>
 		<item>Motta</item>
-		<item>Kreditt</item>
+		<item>Debet</item>
 		<item>Prinsippkvittering</item>
 		<item>Reduksjon</item>
 		<item>Økning</item>
 		<item>Innskudd</item>
 	</string-array>
 	<string-array name="amount2_description">
-		<item>innskuddet</item>
+		<item>inntekten</item>
 		<item>kvitteringen</item>
-		<item>kreditten</item>
+		<item>debet</item>
 		<item>prinsippkvitteringen</item>
 		<item>reduksjonen</item>
 		<item>økningen</item>

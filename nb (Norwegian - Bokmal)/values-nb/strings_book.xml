@@ -58,14 +58,14 @@
 	<string name="mark_transactions_exported">Merk transaksjoner som eksportert</string>
 	<string name="create_single_file">Opprett én fil</string>
 	<string name="no_transactions_matched_your_selection_criteria">Ingen transaksjoner stemte med dine kriteria.\n\nIngen eksportfiler har blitt opprettet</string>
-	<string name="import_folder">Importér mappe</string>
-	<string name="export_folder">Eksporter mappe</string>
+	<string name="import_folder">Import-mappe</string>
+	<string name="export_folder">Eksport-mappe</string>
 	<string name="ask_to_view_imported_transaction">Ønsker du å se de importerte transaksjonene</string>
 	<string name="tip">Tips</string>
 	<string name="user_guide">Brukermanual</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
 	<string name="whats_new">Hva er nytt</string>
-	<string name="license">Lisense</string>
+	<string name="license">Lisens</string>
 <!--     
     <string name="accept_license">Accept license</string>
 	<string name="decline">Decline</string>
@@ -74,7 +74,7 @@
 	<string name="password">Passord</string>
 	<string name="old_password">Gammelt passord</string>
 	<string name="new_password">Nytt passord</string>
-	<string name="verify_password">Verifiser passord</string>
+	<string name="verify_password">Bekreft passord</string>
 	<string name="enter_password">Tast inn passord</string>
 	<string name="incorrect_password">Ugyldig passord. Prøv igjen</string>
 	<string name="set_password">Velg passord</string>
@@ -112,7 +112,7 @@
 	<string name="follow_us">Følg oss</string>
 	<string name="add_us_to_circle">Legg oss til i din sirkel og +1 oss</string>
 	<string name="become_a_fan">Bli en fan av oss</string>
-	<string name="haptic_feedback">Vibrasjonsfeedback</string>
+	<string name="haptic_feedback">Vibrering</string>
 	<string name="haptic_feedback_description">Ved knappetrykk vil telefonen vibrere</string>
 	<string name="default_book_name">Min bok</string>
 	<string name="color_theme">Fargetema</string>

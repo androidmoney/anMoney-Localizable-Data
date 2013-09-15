@@ -1,27 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-    
     <string name="estimated_indicator">~</string>
-	<string name="recurring_bills_and_deposits">Gjentakende regninger &amp; innskudd</string>
+	<string name="recurring_bills_and_deposits">Faste regninger &amp; innskudd</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
-	<string name="recurring_bills_and_deposits_by_direction_order_format">Regninger &amp; innskudd av ^1 ^2</string>
-	<string name="view_recurring">Vis gjentakende</string>
-	<string name="new_recurring">Ny gjentakende transaksjon</string>
-	<string name="enter">Registrer</string>
-	<string name="entered">Registrert</string>
-	<string name="enter_canceled">Registrering avbrutt</string>
-	<string name="enter_into_register">Registrer transaksjon</string>
-	<string name="enter_into_register_warning">Bekreft at du ønsker å registrere denne transaksjonen nå</string>
-	<string name="enter_now">Registrer nå</string>
-	<string name="enter_after_editing">Registrer etter redigering</string>
-	<string name="enter_partially_after_editing">Registrer delvis etter redigering</string>
+	<string name="recurring_bills_and_deposits_by_direction_order_format">Regninger &amp; innskudd etter ^1 ^2</string>
+	<string name="view_recurring">Vis faste transaksjoner</string>
+	<string name="new_recurring">Ny fast transaksjon</string>
+	<string name="enter">Bokfør</string>
+	<string name="entered">Bokført</string>
+	<string name="enter_canceled">Bokføring avbrutt</string>
+	<string name="enter_into_register">Bokfør transaksjon</string>
+	<string name="enter_into_register_warning">Bekreft at du ønsker å bokføre denne transaksjonen nå</string>
+	<string name="enter_now">Bokfør nå</string>
+	<string name="enter_after_editing">Bokfør etter redigering</string>
+	<string name="enter_partially_after_editing">Bokfør delvis etter redigering</string>
 	<string name="move_to_next_occurrence">Flytt til neste forekomst</string>
 	<string name="remain_on_this_occurrence_format">Bli på denne forekomsten hvis beløpet er mindre enn ^1</string>
-	<string name="edit_recurring">Rediger gjentakelse</string>
+	<string name="edit_recurring">Rediger fast transaksjon</string>
 	<string name="entire_series">Hele serien</string>
 	<string name="edit_template_warning">Det er fremtidige egendefinerte forekomster.\n\nRedigering av serien vil fjerne disse egendefineringene</string>
-	<string name="delete_recurring">Slett gjentakelse</string>
+	<string name="delete_recurring">Slett fast transaksjon</string>
 	<string name="delete_question_format">Slett ^1</string>
 	<string name="all_future_occurrences_will_be_deleted">Alle fremtidige forekomster vil bli slettet</string>
 	<string name="change_recurring_amount_format">Endre det gjentakende beløpet fra ^1 til ^2</string>
@@ -36,14 +34,14 @@
 	<string name="skip_canceled">Hoppet ikke over</string>
 	<string name="skip_which">Hopp over hvilken</string>
 	<string name="skip_one_occurrence_warning">Hopp over oppkommende forekomst</string>
-	<string name="no_recurrings_format">Du har ingen gjentakende regninger eller innskudd.\n\nFor å opprette en:\n\n<li>^1</li>\n\n<li>Lang-trykk på hvilken som helst transaksjon og velg ^2</li></string>
+	<string name="no_recurrings_format">Du har ingen faste regninger eller innskudd.\n\nFor å opprette en:\n\n<li>^1</li>\n\n<li>Lang-trykk på hvilken som helst transaksjon og velg ^2</li></string>
 	<string name="create_recurring_instructions_format">Trykk ^i øverst på skjermen</string>
-	<string name="recurring_no_accounts_yet">Opprett kontoer og betalingsmottakere før du legger til gjentakende oppføringer</string>
+	<string name="recurring_no_accounts_yet">Opprett kontoer og betalingsmottakere før du legger til faste transaksjoner</string>
 	<string name="specify_account">Spesifiser kontoen først</string>
 	<string name="account_and_amount">Konto &amp; beløp</string>
 	<string name="payee_and_category">Betalingsmottaker &amp; kategori</string>
-	<string name="auto_enter">Automatisk registrering</string>
-	<string name="auto_enter_and_reminder">Automatisk registrering &amp; påminning</string>
+	<string name="auto_enter">Automatisk bokføring</string>
+	<string name="auto_enter_and_reminder">Automatisk bokføring &amp; påminning</string>
 	<string name="pay_by_check">Jeg betaler med sjekk</string>
 	<string name="amount_is">Beløpet er</string>
 	<string name="fixed">Statisk</string>
@@ -53,15 +51,15 @@
 	<string name="no_upcoming">Ingen oppkommende regninger eller innskudd</string>
 	<string name="no_upcoming_bills">Ingen oppkommende regninger</string>
 	<string name="no_upcoming_deposits">Ingen oppkommende innskudd</string>
-	<string name="enter_automatically">Automatisk registrer oppføringen</string>
+	<string name="enter_automatically">Automatisk bokfør oppføringen</string>
 	<string name="notify_me">Varsle meg</string>
-	<string name="cannot_auto_enter">Grunnet mulige variasjoner i valutakurser vil ikke gjentakende regninger eller innskudd som involverer overføringer mellom forskjellige valutaer bli registrert automatisk.\n\nDu må manuelt registrere transaksjonen og valutakursen når den tid kommer</string>
-	<string name="entered_recurring_bill">Registrerte gjentakende regning</string>
-	<string name="entered_recurring_deposit">Registrerte gjentakende innskudd</string>
-	<string name="notify_me_when_entered">Gi meg et varsel i varslingssenteret når oppføringen er registrert</string>
+	<string name="cannot_auto_enter">Grunnet mulige variasjoner i valutakurser vil ikke faste regninger eller innskudd som involverer overføringer mellom forskjellige valutaer bli bokført automatisk.\n\nDu må manuelt bokføre transaksjonen og valutakursen når den tid kommer</string>
+	<string name="entered_recurring_bill">Bokførte fast regning</string>
+	<string name="entered_recurring_deposit">Bokførte fast innskudd</string>
+	<string name="notify_me_when_entered">Gi meg et varsel i varslingssenteret når transaksjonen er bokført</string>
 	<string name="the_last_day_of_the_month">Den siste dagen i måneden</string>
 	<string name="include_in_budget">Inkluder i budsjettet</string>
-	<string name="include_recurrings">Inkluder gjentakende oppføringer</string>
+	<string name="include_recurrings">Inkluder faste transaksjoner</string>
 	<string name="make_recurring_budget_question_part1">Ønsker du at serien skal være en del av ditt budsjett</string>
 	<string name="make_recurring_budget_question_part2_format">Selv om du velger ^1, så kan du gjøre dette senere ved å redigere serien</string>
 	
@@ -173,7 +171,7 @@
 	<string name="use_todays_date_for_transaction_date">Bruk dagens dato som transaksjonsdato</string>
 	<string-array name="enter_warning_format_plurals">
 		<item/>
-		<item>^1 periodiske transaksjoner vil bli registrert</item>
+		<item>^1 faste transaksjoner vil bli bokført</item>
 		<item/>
 	</string-array>
 

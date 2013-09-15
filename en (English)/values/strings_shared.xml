@@ -77,7 +77,7 @@
     <string name="do_not_ask_again">Do not ask again</string>
     <string name="apply_to_all">Apply to all</string>
 	<string name="all_items">All items</string>
-    <string name="notes">Notes</string>
+    <string name="notes">Notes</string> <!-- This is noun as in "I added some notes/comments" -->
     <string name="no_notes">No notes yet</string>
     <string name="required">Required</string>
     <string name="name">Name</string>
