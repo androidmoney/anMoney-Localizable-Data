@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">புத்தகத்தை தெரிவுசெய்</string>
-    <string name="select_book_to_import_into">அறிக்கையை இறக்குமதி செய்வதற்கான புத்தகத்தை தெரிவுசெய்</string>
     <string name="select_import_file">இறக்குமதி செய்வதற்கான கோப்பு(கள்) தெரிவுசெய்</string>
     <string name="not_specified_brackets">&lt;குறிப்பிடப்படில்லை></string>
     <string name="map_accounts">கணக்குகள் ஒப்பீடு</string>

@@ -7,7 +7,7 @@
 	<string name="report_canceled">Bericht abgebrochen</string>
 	<string name="export_report">Bericht exportieren</string>
 	<string name="report_exported">Export auf SD Karte erfolgreich</string>
-<!-- New --> <string name="share_report">Bericht teilen</string>
+	<string name="share_report">Bericht teilen</string>
 	<string name="report_settings">Berichts-Einstellungen</string>
 	<string name="custom_dates">Eigene Datumsangaben</string>
 	<string name="other">Andere</string>
@@ -27,7 +27,7 @@
 	<string name="delete_report_warning_format">Bericht ^1 wird dauerhaft gelöscht</string>
 	<string name="report_type">Bericht-Typ</string>
 	<string name="group">Gruppieren</string>
-<!-- New --> <string name="do_not_group">Nicht gruppieren</string>
+	<string name="do_not_group">Nicht gruppieren</string>
 	<string name="day_0">Heute</string>
 	<string name="day_p1">Morgen</string>
 	<string name="day_m1">Gestern</string>
@@ -36,7 +36,7 @@
 	<string name="select_report">Wähle Bericht</string>
 	<string name="report_folder">Bericht-Ordner</string>
 	<string name="language">Sprache</string>
-<!-- New --> <string name="text_size">Textgröße</string>
+	<string name="text_size">Textgröße</string>
 	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Diagrammart</string>
@@ -78,5 +78,5 @@
 		<item>Geeignet für die Veröffentlichung auf einer Website oder für die Anzeige in einem Web-Browser</item>
 	</string-array>
 
-<!-- New --> <string name="specify_format_to_share_as">Definieren Sie das Teile-Format</string>
+	<string name="specify_format_to_share_as">Definieren Sie das Format zum Teilen</string>
 </resources>

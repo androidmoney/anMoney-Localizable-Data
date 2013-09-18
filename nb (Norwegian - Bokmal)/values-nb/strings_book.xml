@@ -38,7 +38,6 @@
 		<item/>
 	</string-array>
 	<string name="select_book">Velg bok</string>
-	<string name="select_book_to_import_into">Velg bok for importering av kontoutskrift</string>
 	<string name="select_import_file">Velg filen(e) for importering</string>
 	<string name="not_specified_brackets">&lt;Ikke spesifisert&gt;</string>
 	<string name="map_accounts">Knytt opp kontoer</string>

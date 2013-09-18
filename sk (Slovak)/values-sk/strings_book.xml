@@ -38,7 +38,6 @@
         <item>^1 vybraných súborov bude odstránených</item>
     </string-array>
     <string name="select_book">Vyberte knihu</string>
-    <string name="select_book_to_import_into">Vyberte knihu do ktorej importovať výpis</string>
     <string name="select_import_file">Vyberte súbor(y) pre import</string>
     <string name="not_specified_brackets">&lt;Neuvedené></string>
     <string name="map_accounts">Mapovanie účtov</string>

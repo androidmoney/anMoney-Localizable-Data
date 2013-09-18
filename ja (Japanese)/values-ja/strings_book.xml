@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">会計簿の選択</string>
-    <string name="select_book_to_import_into">明細をインポートする会計簿の選択</string>
     <string name="select_import_file">インポートするファイルの選択</string>
     <string name="not_specified_brackets">指定されていない></string>
     <string name="map_accounts">口座のマップ</string>

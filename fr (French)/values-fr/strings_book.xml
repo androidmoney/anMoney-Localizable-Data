@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
 	<string name="select_book">Sélectionner le livre</string>
-	<string name="select_book_to_import_into">Sélectionnez le livre dans lequel importer le relevé</string>
 	<string name="select_import_file">Sélectionner le(s) fichier(s) à importer</string>
 	<string name="not_specified_brackets">&lt;Non spécifié></string>
 	<string name="map_accounts">Correspondances de comptes</string>

@@ -38,7 +38,6 @@
         <item>^1 выбранных файлов будут удалены</item>
     </string-array>
     <string name="select_book">Выберите книгу</string>
-    <string name="select_book_to_import_into">Выберите книгу, в которую импортировать выписку</string>
     <string name="select_import_file">Выберите файл(ы) для импорта</string>
     <string name="not_specified_brackets">&lt;Не указано&gt;</string>
     <string name="map_accounts">Соответствие счетов</string>

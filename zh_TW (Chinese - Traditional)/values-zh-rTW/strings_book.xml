@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">選擇記帳本</string>
-    <string name="select_book_to_import_into">匯入對帳單到選擇的記帳本中</string>
     <string name="select_import_file">選擇檔案以匯入</string>
     <string name="not_specified_brackets">&lt;未指定></string>
     <string name="map_accounts">計劃帳戶</string>

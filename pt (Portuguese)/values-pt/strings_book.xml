@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Selecione o livro</string>
-    <string name="select_book_to_import_into">Selecione o livro onde será feita a importação</string>
     <string name="select_import_file">Selecione arquivo(s) para importação</string>
     <string name="not_specified_brackets">&lt;Não especificado&gt;</string>
     <string name="map_accounts">Mapa de contas</string>

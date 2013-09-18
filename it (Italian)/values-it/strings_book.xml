@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Seleziona libretto</string>
-    <string name="select_book_to_import_into">Seleziona libretto da importare nell’ estratto conto</string>
     <string name="select_import_file">Seleziona file(s) da importare</string>
     <string name="not_specified_brackets">&lt;Non specificato></string>
     <string name="map_accounts">Conti associati</string>

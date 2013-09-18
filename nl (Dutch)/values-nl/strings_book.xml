@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Kies boek</string>
-    <string name="select_book_to_import_into">Kies het boek om to import statement into</string>
     <string name="select_import_file">Kies bestand(en) om te importeren</string>
     <string name="not_specified_brackets">&lt;Niet gespecifieceerd></string>
     <string name="map_accounts">Map rekeningen</string>

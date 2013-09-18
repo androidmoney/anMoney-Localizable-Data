@@ -175,7 +175,7 @@
 		<item>Geschuldete Summe für diese Karte</item>
 	</string-array>
 
-<!-- New --> <string name="opening">Eröffnung</string>
+	<string name="opening">Eröffnung</string>
 	<string-array name="opening_balance_edit_labels">
 		<item>Eröffnungs-Saldo</item>
 		<item>Ursprünglicher Kaufpreis</item>

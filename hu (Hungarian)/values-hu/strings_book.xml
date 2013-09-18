@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Válassza ki a könyvet</string>
-    <string name="select_book_to_import_into">Válassza ki a könyvet, amelyikbe a kivonat importálva lesz</string>
     <string name="select_import_file">Válassza ki a fájlt/-okat importálásra</string>
     <string name="not_specified_brackets">&lt;Nincs megadva></string>
     <string name="map_accounts">Számlák térképezése</string>

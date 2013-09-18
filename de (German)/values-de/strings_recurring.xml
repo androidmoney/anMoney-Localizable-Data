@@ -22,7 +22,7 @@
 	<string name="delete_recurring">Wiederkehrende Buchung löschen</string>
 	<string name="delete_question_format">Löschen ^1</string>
 	<string name="all_future_occurrences_will_be_deleted">Alle Vorkommen in der Zukunft werden gelöscht</string>
-<!-- New --> <string name="change_recurring_amount_format">Ändern Sie den wiederkehrenden Betrag von ^1 bis ^2</string>
+	<string name="change_recurring_amount_format">Ändern Sie den wiederkehrenden Betrag von ^1 auf ^2</string>
 	<string name="skip">Überspringen</string>
 	<string name="skip_occurrence">Vorfall überspringen</string>
 	<string name="skipped">Übersprungen</string>
@@ -60,8 +60,8 @@
 	<string name="the_last_day_of_the_month">Der letzte Tag des Monats</string>
 	<string name="include_in_budget">In Budget einfügen</string>
 	<string name="include_recurrings">Einschließlich sich wiederkehrende Elemente</string>
-<!-- New  --> <string name="make_recurring_budget_question_part1">Möchten Sie diese Serie Teil Ihres Budgets zu machen</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
-<!-- New  --> <string name="make_recurring_budget_question_part2_format">Auch wenn Sie ^1 tippen, können Sie dies auch später tun, indem Sie die Serie</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part1">Möchten Sie diese Serie in das Budget aufnehmen?</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
+	<string name="make_recurring_budget_question_part2_format">Auch wenn Sie ^1 tippen, können Sie dies zu einem späteren Zeitpunkt noch tun, indem Sie die Serie</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 				
 	<!-- These three below form a sentence -->
 	<string name="based_part1">Basierend auf</string>
@@ -76,8 +76,8 @@
 		<item>Vorfälle</item>
         <item/> <!-- Not used -->
 	</string-array>
-<!-- New --> <string name="upcoming_date">Bevorstehende Datum</string>
-<!-- New --> <string name="series_start_date">Serie Startdatum</string>
+	<string name="upcoming_date">Datum nächste Buchung</string>
+	<string name="series_start_date">Startdatum der Serie</string>
 	<string name="end_date_if_any">Inlusive Enddatum, wenn vorhanden</string>
 	<string name="invalid_date">Ungültiges Datum</string>
 	<string name="repeat">Wiederhole</string>

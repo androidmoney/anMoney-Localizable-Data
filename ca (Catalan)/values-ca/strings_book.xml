@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Seleccionar llibre</string>
-    <string name="select_book_to_import_into">Seleccionar llibre al qual s’importarà l’extracte</string>
     <string name="select_import_file">Seleccionar arxiu(s) per importar</string>
     <string name="not_specified_brackets">&lt;No especificat></string>
     <string name="map_accounts">Mapar comptes</string>

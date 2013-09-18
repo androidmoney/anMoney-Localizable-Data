@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Označi knjižicu</string>
-    <string name="select_book_to_import_into">Označi knjižicu za uvoz tvrdnje</string>
     <string name="select_import_file">Označi datoteku(e) ua uvoz</string>
     <string name="not_specified_brackets">&lt;Nije određeno></string>
     <string name="map_accounts">Upari račune</string>

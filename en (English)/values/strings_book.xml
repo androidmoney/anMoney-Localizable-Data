@@ -40,7 +40,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Select book</string>
-    <string name="select_book_to_import_into">Select book to import statement into</string>
     <string name="select_import_file">Select file(s) to import</string>
     <string name="not_specified_brackets">&lt;Not specified></string>
     <string name="map_accounts">Map accounts</string>
