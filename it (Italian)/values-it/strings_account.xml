@@ -117,7 +117,8 @@
 	<string name="balance_as_of_today">Saldo di oggi</string>
 	<string name="cleared_total">Totale azzerato</string>
 	<string name="reconciled_total">Totale riconciliato</string>
-    <string name="default_cash_account_name">Il mio contante giornaliero</string>
+<!-- New --> <string name="filtered_total">Totale filtrato</string>
+	<string name="default_cash_account_name">Il mio contante giornaliero</string>
     <string name="default_checking_account_name">Il mio conto corrente</string>
     <string name="default_savings_account_name">Il mio conto risparmio</string>
     <string name="default_credit_account_name">La mia carta di credito</string>
@@ -304,6 +305,7 @@
 		<item>Prossimi 6 mesi</item>
 		<item>Prossimi 12 mesi</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>tutte le date</item>
@@ -323,6 +325,7 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>oggi</item>
 	</string-array>
 
     <string name="display_grouping">Visualizza raggruppamenti</string>

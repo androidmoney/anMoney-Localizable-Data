@@ -6,7 +6,7 @@
     <string name="edit_split">Изменить сплит</string>
     <string name="edit_splits">Изменить сплиты</string>
     <string name="delete_split">Удалить сплит</string>
-<!-- New --> <string name="export_splits">Экспорт сплиты</string>
+	<string name="export_splits">Экспортировать сплиты</string>
     <string name="sum_of_splits">Сумма сплитов</string>
 	<string name="unassigned">Неназначено</string>
 	<string name="transaction_total">Итог транзакции</string>

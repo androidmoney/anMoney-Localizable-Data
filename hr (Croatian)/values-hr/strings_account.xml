@@ -111,7 +111,8 @@
 	<string name="balance_as_of_today">Stanje danas</string>
 	<string name="cleared_total">Ukupno odobreno</string>
 	<string name="reconciled_total">Usklađeno stanje</string>
-    <string name="default_cash_account_name">Cash / Gotovina</string>
+<!-- New --> <string name="filtered_total">Filtered total</string>
+	<string name="default_cash_account_name">Cash / Gotovina</string>
     <string name="default_checking_account_name">Tekući račun</string>
     <string name="default_savings_account_name">Štednja</string>
     <string name="default_credit_account_name">Kreditna kartica</string>
@@ -271,6 +272,7 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>danas</item>
 	</string-array>
 
     <string name="display_grouping">Prikaz grupiranja</string>

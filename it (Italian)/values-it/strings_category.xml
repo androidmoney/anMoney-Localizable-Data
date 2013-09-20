@@ -42,7 +42,7 @@
     <string name="delete_subcategory_warning_format">La sottocategoria ^1 sarà definitivamente cancellata</string>
     <string name="delete_subclass_warning_format">La sottoclasse ^1 sarà definitivamente cancellata</string>
     <string name="delete_classification_warning_format">La classificazione ^1 sarà definitivamente cancellata. Tutte le classificazioni verranno eliminate dalle relative transazioni</string>
-    <string name="default_categories_add_confirmation">Vuoi inserire una categoria predefinita?</string>
+    <string name="default_categories_add_confirmation">Vuoi inserire una categoria predefinita</string>
     <string name="default_categories_added">Categoria predefinita inserita</string>
     <string name="all_categories">Tutte le categorie</string>
     <string name="expense">Spesa</string>
@@ -58,7 +58,7 @@
     <string name="without_subcategory">Senza sottocategoria</string>
     <string name="without_subclass">Senza sottoclasse</string>
     <string name="cannot_be_zero">Non può essere 0</string>
-    <string name="change_expense_warning">Trasformare questa categoria di spesa in entrata, o viceversa?</string>
+    <string name="change_expense_warning">Trasformare questa categoria di spesa in entrata, o viceversa</string>
     <string name="prepopulate">Compilare con categorie predefinite</string>
     <string name="short_categories">Caricare solo breve lista delle categorie (si avrà la possibilità di caricare l’elenco completo in seguito)</string>
     <string name="view_categories">Visualizza categorie</string>
@@ -72,7 +72,7 @@
     <string name="income_uncategorized">Entrata non categorizzata</string>
     <string name="expense_uncategorized">Spesa non categorizzata</string>
     <string name="show_uncategorized">Visualizza non categorizzata</string>
-    <string name="move_subcategory_to_another_category_warning">Vuoi spostare questa sottocategoria sotto un'altra categoria?</string>
+    <string name="move_subcategory_to_another_category_warning">Vuoi spostare questa sottocategoria sotto un’altra categoria</string>
     <string name="show_zero_balance_categories">Visualizza categorie con saldo pari a zero</string>
     <string name="show_zero_balance_items">Visualizza voci con saldo pari a zero</string>
     <string name="recategorize_category">Ricategorizzare tutte le transazioni con questa categoria</string>
@@ -83,8 +83,8 @@
 	<string name="spending_by_category_over_time0">Spese per categoria nel tempo</string>
 	<string name="spending_by_category_over_time1">Spese per categoria o ^1 nel tempo</string>
 	<string name="spending_by_category_over_time2">Spese per categoria, ^1 o ^2 nel tempo</string>
-<!-- New --> <string name="assign_to_accounts">Assegnare a questi conti con Previsione</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
-<!-- New --> <string name="last_account_used">L’ultimo conto utilizzato</string>
+	<string name="assign_to_accounts">Assegnare a questi conti con Previsione</string>
+	<string name="last_account_used">L’ultimo conto utilizzato</string>
 		
     <string name="no_categories">Nessuna categoria</string>
 	<string name="no_categories_yet">Non ci sono ancora categorie</string>

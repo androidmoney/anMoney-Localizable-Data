@@ -117,7 +117,8 @@
 	<string name="balance_as_of_today">இன்று வரையான மீதம்</string>
 	<string name="cleared_total">தெளிவான கூடுதல்</string>
 	<string name="reconciled_total">சமரச கூடுதல்</string>
-    <string name="default_cash_account_name">எனது தினசரி கணக்கு</string>
+<!-- New --> <string name="filtered_total">Filtered total</string>
+	<string name="default_cash_account_name">எனது தினசரி கணக்கு</string>
     <string name="default_checking_account_name">எனது நடப்பு கணக்கு</string>
     <string name="default_savings_account_name">எனது சேமிப்பு கணக்கு</string>
     <string name="default_credit_account_name">எனது கடன்அட்டை கணக்கு</string>
@@ -304,6 +305,7 @@
 		<item>அடுத்த 6 மாதங்கள்</item>
 		<item>அடுத்த 12 மாதங்கள்</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>எல்லா நாட்களும்</item>
@@ -323,6 +325,7 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

@@ -117,7 +117,8 @@
 	<string name="balance_as_of_today">Zostatok k dnešnému dňu</string>
 	<string name="cleared_total">Úplne skontrolované</string>
 	<string name="reconciled_total">Úplne odsúhlasené</string>
-    <string name="default_cash_account_name">Moja hotovosť</string>
+<!-- New --> <string name="filtered_total">Filtered total</string>
+	<string name="default_cash_account_name">Moja hotovosť</string>
     <string name="default_checking_account_name">Môj bežný účet</string>
     <string name="default_savings_account_name">Môj sporiaci účet</string>
     <string name="default_credit_account_name">Moja kreditná karta</string>
@@ -304,6 +305,7 @@
 		<item>Nasledujúcích 6 mesiacov</item>
 		<item>Nasledujúcích 12 mesiacov</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>všetky dátumy</item>
@@ -323,6 +325,7 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>dnes</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

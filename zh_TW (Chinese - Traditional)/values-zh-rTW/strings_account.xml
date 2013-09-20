@@ -117,7 +117,8 @@
 	<string name="balance_as_of_today">今日餘額</string>
 	<string name="cleared_total">已清除之合計額</string>
 	<string name="reconciled_total">已對帳之合計額</string>
-    <string name="default_cash_account_name">我的每日現金</string>
+<!-- New --> <string name="filtered_total">Filtered total</string>
+	<string name="default_cash_account_name">我的每日現金</string>
     <string name="default_checking_account_name">我的常用帳戶</string>
     <string name="default_savings_account_name">我的儲蓄帳戶</string>
     <string name="default_credit_account_name">我的信用卡</string>
@@ -304,6 +305,7 @@
 		<item>未來6個月</item>
 		<item>未來12個月</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>所有日期</item>
@@ -323,6 +325,7 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

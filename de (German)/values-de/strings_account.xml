@@ -116,6 +116,7 @@
 	<string name="balance_as_of_today">Heutiger Saldo</string>
 	<string name="cleared_total">Abgeglichene Endsumme</string>
 	<string name="reconciled_total">Mit der Bank abgeglichene Endsumme</string>
+<!-- New --> <string name="filtered_total">Filtered total</string>
 	<string name="default_cash_account_name">Meine täglichen Barmittel</string>
 	<string name="default_checking_account_name">Mein Girokonto</string>
 	<string name="default_savings_account_name">Mein Sparkonto</string>
@@ -303,6 +304,7 @@
 		<item>Nächste 6 Monate</item>
 		<item>Nächste 12 Monate</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>jedes Datum</item>
@@ -322,6 +324,7 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>heute</item>
 	</string-array>
 
 	<string name="display_grouping">Gruppierung anzeigen</string>
