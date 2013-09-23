@@ -6,17 +6,17 @@
 	<string name="view_reports">Visualizza reports</string>
 	<string name="report_canceled">Report annullato</string>
 	<string name="export_report">Esporta report</string>
-	<string name="report_exported">Esportato con successo nella memoria SD</string>
-	<string name="share_report">Spedisci report</string>
-	<string name="report_settings">Parametri report</string>
-	<string name="custom_dates">Personalizza date</string>
+	<string name="report_exported">Esportato con successo nella scheda di memoria SD</string>
+	<string name="share_report">Condividi report</string>
+	<string name="report_settings">Impostazioni report</string>
+	<string name="custom_dates">Date personalizzate</string>
 	<string name="other">Altro</string>
 	<string name="report_empty">Non vi sono dati da visualizzare</string>
-	<string name="report_settings_instructions_format">Per modificare i parametri del report, toccare ^i nella parte superiore dello schermo</string> <!-- ^1 will be replaced by an image -->
-	<string name="reset_report_settings">I parametri saranno cancellati e impostati quelli predefiniti</string>
-	<string name="settings_reset">Reset parametri</string>
+	<string name="report_settings_instructions_format">Per modificare le impostazioni del report, toccare ^i nella parte superiore dello schermo</string> <!-- ^1 will be replaced by an image -->
+	<string name="reset_report_settings">Le impostazioni verranno ripristinate ai valori predefiniti</string>
+	<string name="settings_reset">Reset impostazioni</string>
 	<string name="reset_canceled">Reset annullato</string>
-	<string name="report_settings_tip_format">Per cambiare i parametri di un report:\n\n<li>Tieni premuto sul nome del report e seleziona ^1</li>\n\n<li>Toccare l’icona nell’angolo in alto a destra dello schermo, mentre il report viene visualizzato</li></string>
+	<string name="report_settings_tip_format">Per modificare le impostazioni di un report:\n\n<li>Tenere premuto sul nome del report e selezionare ^1</li>\n\n<li>Toccare l’icona nell’angolo in alto a destra dello schermo mentre il report viene visualizzato</li></string>
 	<string name="report_name">Nome report</string>
 	<string name="all_reports">Tutti i reports</string>
 	<string name="favorite_reports">Reports favoriti</string>
@@ -24,7 +24,7 @@
 	<string name="delete_report">Elimina report</string>
     <string name="rename_report">Rinomina report</string>
     <string name="duplicate_report">Duplica report</string>
-    <string name="delete_report_warning_format">Report ^1 sarà definitivamente eliminato</string>
+    <string name="delete_report_warning_format">Report ^1 sarà eliminato definitivamente</string>
 	<string name="report_type">Tipo report</string>
 	<string name="group">Raggruppare</string>
 	<string name="do_not_group">Non raggruppare</string>
@@ -34,16 +34,16 @@
 	<string name="day_p2"></string>
 	<string name="day_m2"></string>
 	<string name="select_report">Selezionare report</string>	
-    <string name="report_folder">Report cartella</string>
+    <string name="report_folder">Cartella Report</string>
 	<string name="language">Lingua</string>
 <!-- New --> <string name="text_size">Dimensione testo</string>
 	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Tipo grafico</string>
-	<string name="text_report">Testo report</string>
-	<string name="pie_chart">Grafico torta</string>
-	<string name="line_chart">Grafico linea</string>
-	<string name="bar_chart">Grafico barre</string>
+	<string name="text_report">Report testuale</string>
+	<string name="pie_chart">Grafico a torta</string>
+	<string name="line_chart">Grafico lineare</string>
+	<string name="bar_chart">Grafico a barre</string>
 
 	<string name="page_format">Pagina ^1</string>
 
@@ -64,7 +64,7 @@
 
 	<string name="amounts_on_charts">Mostra gli importi sui grafici</string>
 	<string name="percentages_on_pie_charts">Mostra percentuali sui grafici a torta</string>
-	<string name="create_settings_page">Creare pagina parametri</string>
+	<string name="create_settings_page">Creare pagina impostazioni</string>
 		
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>
@@ -73,10 +73,10 @@
     </string-array>
 
    	<string-array name="report_export_file_type_description">
-		<item>Leggibile da applicazioni di foglio elettronico, come Microsoft® Excel™ o Google Docs</item>
-		<item>Adatto per la stampa o la creazione di un registro cartaceo. Richiede Adobe Reader o un altro visualizzatore di PDF</item>
-		<item>Adatto per la pubblicazione su un sito web o per la visualizzazione in un browser Web</item>
+		<item>Leggibile da applicazioni di foglio elettronico quali Microsoft® Excel™ o Google Docs</item>
+		<item>Adatto per la stampa o la creazione di un registro cartaceo. Richiede Adobe Reader o un altro visualizzatore di file PDF</item>
+		<item>Adatto per la pubblicazione su un sito web o per la visualizzazione tramite un browser Web</item>
 	</string-array>
 
-	<string name="specify_format_to_share_as">Specificare il formato da inviare</string>
+	<string name="specify_format_to_share_as">Specificare il formato da condividere come</string>
 </resources>
