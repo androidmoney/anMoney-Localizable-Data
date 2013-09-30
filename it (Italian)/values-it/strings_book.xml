@@ -10,7 +10,7 @@
     <string name="all_data_will_be_lost">Tutte le informazioni contenute in questo libretto saranno eliminate, se non fai un backup</string>
     <string name="import_into_book">Importa nel libretto</string>
     <string name="export_from_book">Esporta dal libretto</string>
-    <string name="import_into_book_format">Importa nell’ libretto ^1</string>
+    <string name="import_into_book_format">Importa nell’libretto ^1</string>
     <string name="no_books">Tu non hai nessun libretto</string>
     <string name="upgrading_book">Aggiornando libretto</string>
     <string name="upgrading_books">Aggiornando i libretti</string>

@@ -79,7 +79,7 @@
     <string name="classification_cannot_fit_warning_part1">Nella finestra di transazione, a causa della mancanza di spazio sullo schermo, non è possibile vedere tutte le classificazioni senza scorrimento</string>
     <string name="classification_cannot_fit_warning_part2">Rimuovere alcune delle etichette per liberare spazio</string>
     <string name="classification_cannot_fit_warning_part3">Potrai modificare questa impostazione successivamente in qualsiasi momento</string>
-    <string name="ask_to_edit_related_transaction_message_part1">Poichè l'altra parte di questa transazione è suddivisa, è necessario modificarla</string>
+    <string name="ask_to_edit_related_transaction_message_part1">Poiché l’altra parte di questa transazione è suddivisa, è necessario modificarla</string>
     <string name="ask_to_edit_related_transaction_message_part2">Si desidera modificare la transazione ora</string>
     <string name="transaction_modified_message">La transazione verrà modificata</string>
     <string name="transaction_confirm_save_on_back_press_message_format">La transazione verrà modificata.\n\nClicca ^1 per salvare la transazione, ^2 per ritornare alla modifica della transazione oppure ^3 per annullare i cambiamenti</string>
@@ -136,7 +136,7 @@
 	<string-array name="amount1_description">
         <item>il pagamento</item>
         <item>la spesa</item>
-        <item>l'addebito</item>
+        <item>l’addebito</item>
         <item>il pagamento</item>
         <item>l’aumento</item>
         <item>la diminuzione</item>
@@ -155,7 +155,7 @@
         <item>il deposito</item>
         <item>la riscossione</item>
         <item>il credito</item>
-        <item>l'entrata pricipale</item>
+        <item>l’entrata pricipale</item>
         <item>la diminuzione</item>
         <item>l’aumento</item>
         <item>il deposito</item>

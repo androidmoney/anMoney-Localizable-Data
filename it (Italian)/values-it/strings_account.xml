@@ -31,8 +31,8 @@
     <string name="balance_canceled">Bilancio cancellato</string>
 	<string name="started_balancing_already">Hai già iniziato a bilanciare questo conto</string>
 	<string name="postpone_balancing_warning">Rinviare bilancio</string>
-	<string name="account_balance_does_not_match_bank_warning_format">L’ importo di partenza inserito, ^1, non corrisponde al saldo di tutte le transazioni riconciliate in precedenza, ^2</string>
-	<string name="account_balance_does_not_match_credit_warning_format">L’ importo della fattura di partenza inserito, ^1, non corrisponde al saldo di tutte le transazioni riconciliate in precedenza, ^2</string>
+	<string name="account_balance_does_not_match_bank_warning_format">L’importo di partenza inserito, ^1, non corrisponde al saldo di tutte le transazioni riconciliate in precedenza, ^2</string>
+	<string name="account_balance_does_not_match_credit_warning_format">L’importo della fattura di partenza inserito, ^1, non corrisponde al saldo di tutte le transazioni riconciliate in precedenza, ^2</string>
 	<string name="account_balance_does_not_match_fix">Prova a risolvere:\n\n<li>Verifica il conto corrente</li>\n<li>Marca le transazioni come riconciliate</li>\n<li>Marca le transazioni come non-riconciliate</li>\n<li>Verifica e regola il saldo iniziale</li></string>
 	<string name="left_to_reconcile">A sinistra per riconciliare</string>
 	<string name="statement_balance">Bilancio del conto corrente</string>
