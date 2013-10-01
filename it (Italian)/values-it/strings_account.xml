@@ -117,7 +117,7 @@
 	<string name="balance_as_of_today">Saldo da oggi</string>
 	<string name="cleared_total">Totale azzerato</string>
 	<string name="reconciled_total">Totale riconciliato</string>
-<!-- New --> <string name="filtered_total">Totale filtrato</string>
+	<string name="filtered_total">Totale filtrato</string>
 	<string name="default_cash_account_name">Miei Contanti Giornalieri</string>
     <string name="default_checking_account_name">Mio Conto Corrente</string>
     <string name="default_savings_account_name">Mio Conto Risparmio</string>
@@ -325,7 +325,7 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
-<!-- New --> <item>oggi</item>
+		<item>oggi</item>
 	</string-array>
 
     <string name="display_grouping">Visualizza raggruppamento</string>
