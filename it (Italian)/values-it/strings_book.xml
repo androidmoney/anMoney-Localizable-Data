@@ -300,5 +300,5 @@
 		<item/> <!-- Not used -->
 	</string-array>
 
-	<string name="internet_permission_warning"><b><u>IMPORTANTE:</u></b>Sto pensando di aggiungere all'app l'autorizzazione per l'accesso ad <b>Internet</b> per preparare alcune nuove funzionalità che non sono attualmente supportate. Se non sei d’accordo, si prega di <a href="mailto:android.money@gmail.com">scriverci</a> una email.</string>
+	<string name="internet_permission_warning"><b><u>IMPORTANTE:</u></b> sto pensando di aggiungere all'app l'autorizzazione per l'accesso ad <b>Internet</b> per preparare alcune nuove funzionalità che non sono attualmente supportate. Se non sei d’accordo, si prega di <a href="mailto:android.money@gmail.com">scriverci</a> una email.</string>
 </resources>
