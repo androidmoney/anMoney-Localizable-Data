@@ -55,7 +55,7 @@
     <string name="transfers">Trasferimenti</string>
     <string name="transfer_account">Trasferimento conto</string>
     <string name="add">Inserisci</string>
-	<string name="added">Inserisci</string>
+	<string name="added">Inserito</string>
 	<string name="add_canceled">Inserimento annullato</string>
     <string name="accept_and_edit">Accetta &amp; Modifica</string>
     <string name="add_and_close">Inserisci &amp; Chiudi</string>
