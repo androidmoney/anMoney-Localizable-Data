@@ -108,7 +108,7 @@
 	<string name="please_rate_app_format">Per cortesia prenditi\nun attimo per votare ^1</string>
 	<string name="later_rate_description">Ti verrà ricordato fra una settimana circa</string>
 	<string name="no_rate_description_format">Potete farlo in qualsiasi momento dala schermata ^1</string>
-	<string name="task_killer_warning_format">Avvertenza circa le apps «task killer»:\n\nIl vostro dispositivo va attivato una volta al giorno per l'elaborazione automatica. Poichè questa elaborazione dura solo pochi secondi, non avrà alcun effetto dannoso sulla vita della batteria del tuo dispositivo.\n\nI task killer impediscono la corretta esecuzione di questo processo in background e pertanto non devono essere utilizzati con ^1</string>
+	<string name="task_killer_warning_format">Avvertenza circa le apps «task killer»:\n\nIl vostro dispositivo va attivato una volta al giorno per l’elaborazione automatica. Poiché questa elaborazione dura solo pochi secondi, non avrà alcun effetto dannoso sulla vita della batteria del tuo dispositivo.\n\nI task killer impediscono la corretta esecuzione di questo processo in background e pertanto non devono essere utilizzati con ^1</string>
 	<string name="no_thanks">No grazie</string>
 	<string name="maybe_later">Forse più tardi</string>
 	<string name="unexpected_error_warning">Si è verificato un errore imprevisto costringendo anMoney a smettere di funzionare correttamente.\n\nVi preghiamo di aiutarci a risolvere il problema inviandoci un report dell’errore che si è verificato. E’ possibile modificare l’indirizzo di posta elettronica prima di inviare la email.\n\nGrazie per la vostra collaborazione.</string>

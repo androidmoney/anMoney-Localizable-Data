@@ -165,7 +165,7 @@
 	<string name="use_todays_date_for_transaction_date">Benutze den heutigen Tag als Transaktions-Datum</string>
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-<!-- New --> <item>^1 wiederkehrenden Elemente werden eingegeben</item>
+		<item>^1 wiederkehrende Elemente werden eingegeben</item>
         <item/> <!-- Not used -->
 	</string-array>
 		
