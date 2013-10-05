@@ -101,9 +101,9 @@
     <string name="maximum_100">Massimo 100%</string>
     <string name="must_be_in_future">Deve essere nel futuro</string>
     <string name="must_be_in_past">Deve essere nel passato</string>
-    <string name="invalid_year">Invalido</string>
+    <string name="invalid_year">Non valido</string>
     <string name="invalid_vin_number">Devono essere 17 lettere e/o cifre</string>
-    <string name="invalid_url">URL invalido</string>
+    <string name="invalid_url">URL non valido</string>
     <string name="opening_balance_warning_message">Questo conto le transazioni riconciliate.\n\nCambiando il saldo di apertura possono verificarsi delle differenze con le informazioni inserite precedentemente nel vostro istituto finanziario</string>
     <string name="no_exchange_rate_warning_message_format">Non esiste alcun dato del tasso di cambio tra ^1 e ^2 e questo creerà una imprecisione nel saldo del registro</string>
     <string name="would_you_like_to_give_one_after_saving">Desideri impostarne uno dopo il salvataggio</string>
