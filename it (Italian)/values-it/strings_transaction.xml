@@ -146,7 +146,7 @@
     </string-array>
 	<string-array name="amount2_labels">
         <item>Deposito</item>
-        <item>Riscossione</item>
+        <item>Incasso</item>
         <item>Credito</item>
         <item>Entrata principale</item>
         <item>Diminuire</item>
@@ -155,7 +155,7 @@
     </string-array>
 	<string-array name="amount2_description">
         <item>il deposito</item>
-        <item>la riscossione</item>
+        <item>l’incasso</item>
         <item>il credito</item>
         <item>l’entrata pricipale</item>
         <item>la diminuzione</item>
