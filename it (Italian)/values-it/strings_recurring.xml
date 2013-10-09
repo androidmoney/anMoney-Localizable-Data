@@ -38,10 +38,10 @@
 	<string name="create_recurring_instructions_format">Toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Si prega di creare dei conti e dei beneficiari prima di aggiungere degli elementi ricorrenti</string>
 	<string name="specify_account">Si prega di specificare prima un conto</string>
-	<string name="account_and_amount">Conto &amp;amp; Importo</string>
-	<string name="payee_and_category">Beneficiario &amp;amp; Categoria</string>
+	<string name="account_and_amount">Conto &amp; Importo</string>
+	<string name="payee_and_category">Beneficiario &amp; Categoria</string>
 	<string name="auto_enter">Inserimento automatico</string>
-	<string name="auto_enter_and_reminder">Inserimento automatico &amp;amp; Promemoria</string>
+	<string name="auto_enter_and_reminder">Inserimento automatico &amp; Promemoria</string>
 	<string name="pay_by_check">Devo pagare questo assegno</string>
 	<string name="amount_is">L’importo è</string>
 	<string name="fixed">Fissato</string>
