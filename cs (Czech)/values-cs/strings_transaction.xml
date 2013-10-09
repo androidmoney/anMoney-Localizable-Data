@@ -59,13 +59,15 @@
     <string name="add_canceled">Přidání zrušeno</string>
     <string name="accept_and_edit">Přijmout a upravit</string>
     <string name="add_and_close">Přidat a zavřít</string>
-    <string name="duplicate_in_current_account">Duplikovat v tomto účtu</string>
     <string name="duplicate_copy_move">Duplikovat, kopírovat nebo převést</string>
-    <string name="duplicate_copy_move_short">Duplikovat, kopírovat, převést</string>
+    <string name="duplicate_copy_move_short">Duplikovat/kopírovat/převést</string>
+    <string name="duplicate_transaction">Duplikovat transakci</string>
+    <string name="duplicate_in_current_account">Duplikovat v tomto účtu</string>
     <string name="copy_to_another_account">Zkopírovat na jiný účet</string>
     <string name="move_to_another_account">Převést pod jiný účet</string>
     <string name="copy_transaction">Zkopírovat transakci</string>
     <string name="move_transaction">Převést transakci</string>
+    <string name="move_transactions">Převést transakce</string>
     <string name="do_not_duplicate_notes">Nekopírovat poznámky</string>
     <string name="account_not_found">Účet nenalezen</string>
     <string name="cannot_transfer_to_itself">Nemůžete převést pod stejný účet</string>

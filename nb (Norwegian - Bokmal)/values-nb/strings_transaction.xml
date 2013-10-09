@@ -59,13 +59,15 @@
 	<string name="add_canceled">Avbrøt tillegging</string>
 	<string name="accept_and_edit">Godta &amp; rediger</string>
 	<string name="add_and_close">Legg til &amp; lukk</string>
-	<string name="duplicate_in_current_account">Dupliser i nåværende konto</string>
 	<string name="duplicate_copy_move">Dupliser, kopier eller flytt</string>
-	<string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+
+	<string name="duplicate_transaction">Dupliser transaksjon</string>
+	<string name="duplicate_in_current_account">Dupliser i nåværende konto</string>
 	<string name="copy_to_another_account">Kopier til en annen konto</string>
 	<string name="move_to_another_account">Flytt til en annen konto</string>
 	<string name="copy_transaction">Kopier transaksjon</string>
 	<string name="move_transaction">Flytt transaksjon</string>
+	<string name="move_transactions">Flytt transaksjoner</string>
 	<string name="do_not_duplicate_notes">Ikke dupliser notatene</string>
 	<string name="account_not_found">Konto ikke funnet</string>
 	<string name="cannot_transfer_to_itself">Kan ikke overføre fra og til samme konto</string>

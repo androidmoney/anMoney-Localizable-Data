@@ -59,13 +59,15 @@
     <string name="add_canceled">加入已取消</string>
     <string name="accept_and_edit">接受並編輯</string>
     <string name="add_and_close">加入並關閉</string>
-    <string name="duplicate_in_current_account">在目前帳戶製作副本</string>
     <string name="duplicate_copy_move">製作副本，複製或移動</string>
-    <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+
+    <string name="duplicate_transaction">製作副本交易</string>
+    <string name="duplicate_in_current_account">在目前帳戶製作副本</string>
     <string name="copy_to_another_account">複製到另一個帳戶</string>
     <string name="move_to_another_account">移動到另一個帳戶</string>
     <string name="copy_transaction">複製交易</string>
     <string name="move_transaction">移動交易</string>
+    <string name="move_transactions">@string/move_transaction</string>
     <string name="do_not_duplicate_notes">不對備註製作副本</string>
     <string name="account_not_found">找不到帳戶</string>
     <string name="cannot_transfer_to_itself">無法轉移到自身</string>

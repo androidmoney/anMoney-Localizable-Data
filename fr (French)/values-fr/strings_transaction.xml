@@ -59,13 +59,15 @@
 	<string name="add_canceled">Ajout annulé</string>
 	<string name="accept_and_edit">Accepter et Modifier</string>
 	<string name="add_and_close">Ajouter et Fermer</string>
-	<string name="duplicate_in_current_account">Dupliquer dans ce compte</string>
 	<string name="duplicate_copy_move">Dupliquer, copier ou déplacer</string>
 
+	<string name="duplicate_transaction">Dupliquer la transaction</string>
+	<string name="duplicate_in_current_account">Dupliquer dans ce compte</string>
 	<string name="copy_to_another_account">Copier vers un autre compte</string>
 	<string name="move_to_another_account">Déplacer vers un autre compte</string>
 	<string name="copy_transaction">Copier la transaction</string>
 	<string name="move_transaction">Déplacer la transaction</string>
+	<string name="move_transactions">Déplacer les transactions</string>
 	<string name="do_not_duplicate_notes">Ne pas dupliquer les notes</string>
 	<string name="account_not_found">Le compte n’existe pas</string>
 	<string name="cannot_transfer_to_itself">Virement vers le même compte impossible</string>

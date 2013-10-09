@@ -59,13 +59,15 @@
     <string name="add_canceled">Afegir cancel·lat</string>
     <string name="accept_and_edit">Acceptar i Editar</string>
     <string name="add_and_close">Afegir i Tancar</string>
-    <string name="duplicate_in_current_account">Duplicar en el compte actual</string>
     <string name="duplicate_copy_move">Duplicar, copiar o moure</string>
     <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+    <string name="duplicate_transaction">Duplicar transacció</string>
+    <string name="duplicate_in_current_account">Duplicar en el compte actual</string>
     <string name="copy_to_another_account">Copiar a un altre compte</string>
     <string name="move_to_another_account">Moure a un altre compte</string>
     <string name="copy_transaction">Copiar transacció</string>
     <string name="move_transaction">Moure transacció</string>
+    <string name="move_transactions">Moure transaccions</string>
     <string name="do_not_duplicate_notes">No duplicar les notes</string>
     <string name="account_not_found">Compte no trobat</string>
     <string name="cannot_transfer_to_itself">No es pot transferir a si mateix</string>

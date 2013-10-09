@@ -59,13 +59,15 @@
 	<string name="add_canceled">Inserimento annullato</string>
     <string name="accept_and_edit">Accetta &amp; Modifica</string>
     <string name="add_and_close">Inserisci &amp; Chiudi</string>
-    <string name="duplicate_in_current_account">Duplica nel conto attuale</string>
     <string name="duplicate_copy_move">Duplica, copia o sposta</string>
 
+    <string name="duplicate_transaction">Duplica transazione</string>
+    <string name="duplicate_in_current_account">Duplica nel conto attuale</string>
     <string name="copy_to_another_account">Copia in un altro conto</string>
     <string name="move_to_another_account">Sposta in un altro conto</string>
     <string name="copy_transaction">Copia transazione</string>
     <string name="move_transaction">Sposta transazione</string>
+    <string name="move_transactions">Sposta transazioni</string>
     <string name="do_not_duplicate_notes">Non duplicare le note</string>
     <string name="account_not_found">Il conto non esiste</string>
     <string name="cannot_transfer_to_itself">Impossibile trasferire il conto su se stesso</string>

@@ -59,14 +59,16 @@
     <string name="add_canceled">Добавление отменено</string>
     <string name="accept_and_edit">Принять и изменть</string>
     <string name="add_and_close">Добавить и Закрыть</string>
-    <string name="duplicate_in_current_account">Дублировать в текущем счёте</string>
     <string name="duplicate_copy_move">Дублировать, скопировать, переместить</string>
     
+    <string name="duplicate_transaction">Дублировать транзакцию</string>
+    <string name="duplicate_in_current_account">Дублировать в текущем счёте</string>
     <string name="copy_to_another_account">Скопировать в другой счёт</string>
     <string name="move_to_another_account">Переместить в другой счёт</string>
     <string name="copy_transaction">Копировать транзакцию</string>
 	<string name="move_transaction">Переместить транзакцию</string>
-    <string name="do_not_duplicate_notes">Не копировать примечание</string>
+	<string name="move_transactions">Переместить транзакции</string>
+	<string name="do_not_duplicate_notes">Не копировать примечание</string>
     <string name="account_not_found">Счёт не существует</string>
     <string name="cannot_transfer_to_itself">Нельзя сделать перевод на этот же счёт</string>
     <string name="cannot_copy_to_itself">Нельзя скопировать/переместить на этот же счёт</string>
