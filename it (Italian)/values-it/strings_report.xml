@@ -63,7 +63,7 @@
 	<string name="landscape">Orizzontale</string>
 
 	<string name="amounts_on_charts">Visualizza importi sui grafici</string>
-	<string name="percentages_on_pie_charts">Mostra percentuali sui grafici a torta</string>
+	<string name="percentages_on_pie_charts">Visualizza percentuali sui grafici a torta</string>
 	<string name="create_settings_page">Crea pagina impostazioni</string>
 		
 	<string-array name="report_export_file_type">
