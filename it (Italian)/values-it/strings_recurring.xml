@@ -14,26 +14,26 @@
 	<string name="enter_now">Inserire adesso</string>
 	<string name="enter_after_editing">Inserire dopo le modifiche</string>
 	<string name="enter_partially_after_editing">Inserire parzialmente dopo le modifiche</string>
-	<string name="move_to_next_occurrence">Spostare alla prossima occorrenza</string>
-	<string name="remain_on_this_occurrence_format">Rimani in questa occorrenza se l’importo inserito è inferiore a ^1</string>
+	<string name="move_to_next_occurrence">Spostare al prossimo evento</string>
+	<string name="remain_on_this_occurrence_format">Resta in questo evento se l’importo inserito è inferiore a ^1</string>
 	<string name="edit_recurring">Modifica ricorrenza</string>
 	<string name="entire_series">Intera serie</string>
 	<string name="edit_template_warning">Ci sono occorrenze future personalizzate.\n\nModificando le serie queste personalizzazioni verranno eliminate</string>
 	<string name="delete_recurring">Elimina ricorrenza</string>
 	<string name="delete_question_format">Elimina ^1</string>
-	<string name="all_future_occurrences_will_be_deleted">Tutte le occorrenze future verranno eliminate</string>
+	<string name="all_future_occurrences_will_be_deleted">Tutti gli eventi futuri verranno eliminati</string>
 	<string name="change_recurring_amount_format">Cambia l’importo ricorrente da ^1 a ^2</string>
 	<string name="skip">Tralascia</string>
-	<string name="skip_occurrence">Tralascia occorrenza</string>
-	<string name="skipped">Tralasciata</string>
+	<string name="skip_occurrence">Tralascia evento</string>
+	<string name="skipped">Tralasciato</string>
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
-		<item>Tralascia ^1 occorrenze</item>
+		<item>Tralascia ^1 eventi</item>
 		<item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Cancella tralascia</string>
 	<string name="skip_which">Tralascia cosa</string>
-	<string name="skip_one_occurrence_warning">Tralascia la prossima occorrenza</string>
+	<string name="skip_one_occurrence_warning">Tralascia il prossimo evento</string>
 	<string name="no_recurrings_format">Non hai alcuna fattura o deposito ricorrenti.\n\nPer crearne uno:\n\n<li>^1</li>\n\n<li>Toccare a lungo una qualsiasi transazione e poi toccare ^2</li></string>
 	<string name="create_recurring_instructions_format">Toccare ^i nella parte superiore dello schermo</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Si prega di creare dei conti e dei beneficiari prima di aggiungere degli elementi ricorrenti</string>
