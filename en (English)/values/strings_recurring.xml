@@ -19,6 +19,7 @@
 	<string name="move_to_next_occurrence">Move to the next occurrence</string>
 	<string name="remain_on_this_occurrence_format">Remain on this occurrence, if entered amount is less than ^1</string>	    	    	
 	<string name="edit_recurring">Edit recurring</string>
+	<string name="edit_occurrence">Edit occurrence</string>
 	<string name="entire_series">Entire series</string>
 	<string name="edit_template_warning">There are customised future occurrences.\n\nEditing the series will remove these customisations</string>
 	<string name="delete_recurring">Delete recurring</string>
@@ -49,7 +50,8 @@
 	<string name="fixed">Fixed</string> <!--  As in "fixed amount", NOT "fixed a problem" -->
 	<string name="estimated">Estimated</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Upcoming</string>
+	<string name="upcoming_upper">Upcoming</string> <!-- As in "upcoming transaction". This is a noun. -->
+	<string name="upcoming_lower">upcoming</string>
 	<string name="no_upcoming">No upcoming bills or deposits</string>
 	<string name="no_upcoming_bills">No upcoming bills</string>
 	<string name="no_upcoming_deposits">No upcoming deposits</string>

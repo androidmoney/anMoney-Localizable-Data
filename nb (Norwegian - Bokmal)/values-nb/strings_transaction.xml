@@ -118,6 +118,7 @@
 	<string name="next_check_number">Neste sjekknummer</string>
 	<string name="cleared_transactions_color">Farge for klarerte transaksjoner</string>
 	<string name="reconciled_transactions_color">Farge for avstemte transaksjoner</string>
+<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
 	<string name="text_filter">Tekstfilter</string>
 	<string name="profit_and_loss_statement">Inntekt- &amp; tapsutskrift</string>
 	<string name="transaction_type">Transaksjonstype</string>

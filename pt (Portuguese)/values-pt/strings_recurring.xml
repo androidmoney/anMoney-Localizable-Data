@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">Mova para a próxima ocorrência</string>
 	<string name="remain_on_this_occurrence_format">Esta ocorrência permanece, se o valor registrado for menor que ^1</string>
 	<string name="edit_recurring">Alterar recorrência</string>
+	<string name="edit_occurrence">Alterar ocorrência</string>
 	<string name="entire_series">Série inteira</string>
 	<string name="edit_template_warning">Existe ocorrências futuras personalizadas.\n\nEditar a série eliminará estas personalizações</string>
 	<string name="delete_recurring">Excluir recorrência</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">Fixo</string>
 	<string name="estimated">Estimado</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Próximas</string>
+	<string name="upcoming_upper">Próximas</string>
+	<string name="upcoming_lower">próximas</string>
 	<string name="no_upcoming">Sem contas ou depósitos chegando</string>
 	<string name="no_upcoming_bills">Sem contas chegando</string>
 	<string name="no_upcoming_deposits">Sem depósitos chegando</string>

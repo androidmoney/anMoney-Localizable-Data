@@ -118,6 +118,7 @@
     <string name="next_check_number">下一個支票編號</string>
     <string name="cleared_transactions_color">已刪除交易的顏色</string> <!-- As in "color of cleared transactions" -->
     <string name="reconciled_transactions_color">已對帳交易的顏色</string> <!-- As in "color of teconciled transactions" -->
+<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
     <string name="text_filter">文字過濾器</string>
     <string name="profit_and_loss_statement">損益對帳單</string>
 	<string name="transaction_type">交易類型</string>

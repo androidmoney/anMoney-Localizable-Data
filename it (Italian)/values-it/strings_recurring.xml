@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">Spostare al prossimo evento</string>
 	<string name="remain_on_this_occurrence_format">Resta in questo evento se l’importo inserito è inferiore a ^1</string>
 	<string name="edit_recurring">Modifica ricorrenza</string>
+	<string name="edit_occurrence">Modifica evento</string>
 	<string name="entire_series">Intera serie</string>
 	<string name="edit_template_warning">Ci sono occorrenze future personalizzate.\n\nModificando le serie queste personalizzazioni verranno eliminate</string>
 	<string name="delete_recurring">Elimina ricorrenza</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">Fissato</string>
 	<string name="estimated">Stimato</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Prossimo</string>
+	<string name="upcoming_upper">Prossimo</string>
+	<string name="upcoming_lower">prossimo</string>
 	<string name="no_upcoming">Nessuna fattura o deposito imminenti</string>
 	<string name="no_upcoming_bills">Nessun fattura imminente</string>
 	<string name="no_upcoming_deposits">Nessun deposito imminente</string>

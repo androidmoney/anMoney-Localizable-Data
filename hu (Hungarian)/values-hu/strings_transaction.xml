@@ -118,6 +118,7 @@
     <string name="next_check_number">Következő csekkszám</string>
     <string name="cleared_transactions_color">Elszámolt tranzakciók színe</string>
     <string name="reconciled_transactions_color">Egyeztetett tranzakciók színe</string>
+	<string name="upcoming_transactions_color">Soron következő tranzakciók színe</string>
     <string name="text_filter">Szöveges szűrő</string>
     <string name="profit_and_loss_statement">Eredménykimutatás</string>
 	<string name="transaction_type">Tranzakciótípus</string>

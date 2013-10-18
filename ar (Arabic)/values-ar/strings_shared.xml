@@ -4,4 +4,5 @@
     <string name="two_items_dash_without_space_format">^2–^1</string>
     <string name="percent_sign">٪</string>
     <string name="percentage_format">^1٪</string>
+	<string name="plus_before_format">^1 +</string>
 </resources>

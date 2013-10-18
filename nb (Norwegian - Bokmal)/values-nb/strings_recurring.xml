@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">Flytt til neste forekomst</string>
 	<string name="remain_on_this_occurrence_format">Bli på denne forekomsten hvis beløpet er mindre enn ^1</string>
 	<string name="edit_recurring">Rediger fast transaksjon</string>
+	<string name="edit_occurrence">Rediger forekomst</string>
 	<string name="entire_series">Hele serien</string>
 	<string name="edit_template_warning">Det er fremtidige egendefinerte forekomster.\n\nRedigering av serien vil fjerne disse egendefineringene</string>
 	<string name="delete_recurring">Slett fast transaksjon</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">Statisk</string>
 	<string name="estimated">Estimert</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Oppkommende</string>
+	<string name="upcoming_upper">Oppkommende</string>
+	<string name="upcoming_lower">oppkommende</string>
 	<string name="no_upcoming">Ingen oppkommende regninger eller innskudd</string>
 	<string name="no_upcoming_bills">Ingen oppkommende regninger</string>
 	<string name="no_upcoming_deposits">Ingen oppkommende innskudd</string>

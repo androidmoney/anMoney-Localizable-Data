@@ -118,6 +118,7 @@
     <string name="next_check_number">Próximo número de cheque</string>
     <string name="cleared_transactions_color">Cor de transações apuradas</string>
     <string name="reconciled_transactions_color">Cor de transações reconciliadas</string>
+<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
     <string name="text_filter">Filtro de texto</string>
 	<string name="profit_and_loss_statement">Lucros &amp; Perdas</string>
 	<string name="transaction_type">Tipo da transação</string>

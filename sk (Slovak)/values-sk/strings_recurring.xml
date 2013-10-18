@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">Presunúť na ďalší termín opakovania</string>
 	<string name="remain_on_this_occurrence_format">Ponechať aktuálne zadanie, ak je zadaná suma menšia ako ^1</string>	    	    	
 	<string name="edit_recurring">Upraviť opakujúcu sa platbu</string>
+<!-- New --> <string name="edit_occurrence">Edit occurrence</string>
 	<string name="entire_series">Všetky výskyty</string>
 	<string name="edit_template_warning">Máte naplánované budúce upravené výskyty.\n\nZmenou opakujúcej sa platby budú tieto úpravy odstránené</string>
 	<string name="delete_recurring">Zmazať opakujúcu sa platbu</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">Pevná</string>
 	<string name="estimated">Približná</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Blíži sa</string>
+	<string name="upcoming_upper">Blíži sa</string>
+	<string name="upcoming_lower">blíži sa</string>
 	<string name="no_upcoming">Žiadne nadchádzajúce operácie</string>
 	<string name="no_upcoming_bills">Žiadne nadchádzajúce platby</string>
 	<string name="no_upcoming_deposits">Žiadne nadchádzajúce príjmy</string>

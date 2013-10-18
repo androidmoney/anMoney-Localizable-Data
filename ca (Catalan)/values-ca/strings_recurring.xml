@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">Moure cap a la propera ocurrència</string>
 	<string name="remain_on_this_occurrence_format">Romandre en aquesta ocurrència, si la quantitat inserida és inferior a ^1</string>	    	    	
 	<string name="edit_recurring">Editar recurrència</string>
+	<string name="edit_occurrence">Editar ocurrència</string>
 	<string name="entire_series">Sèrie sensera</string>
 	<string name="edit_template_warning">Hi ha ocurrències futures personalitzades.\n\nA l’editar la sèrie s’esborraran aquestes personalitzacions</string>
 	<string name="delete_recurring">Esborrar recurrència</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">Fix</string>
 	<string name="estimated">Aproximat</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Proper/a</string>
+	<string name="upcoming_upper">Proper/a</string>
+	<string name="upcoming_lower">proper/a</string>
 	<string name="no_upcoming">Cap factura o dipòsit propers</string>
 	<string name="no_upcoming_bills">Cap factura propera</string>
 	<string name="no_upcoming_deposits">Cap dipòsit proper</string>

@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">移動到下一個發生點</string>
 	<string name="remain_on_this_occurrence_format">若輸入金額少於^1就保持在此發生點</string>	    	    	
 	<string name="edit_recurring">編輯經常性項目</string>
+<!-- New --> <string name="edit_occurrence">編輯發生點</string>
 	<string name="entire_series">整個系列</string>
 	<string name="edit_template_warning">存在有計畫過的未來發生點。\n\n編輯此系列將移除這些計畫內容</string>
 	<string name="delete_recurring">刪除經常性項目</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">已修正</string>
 	<string name="estimated">估計</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">即將來臨</string>
+	<string name="upcoming_upper">即將來臨</string>
+	<string name="upcoming_lower">@string/upcoming_upper</string>
 	<string name="no_upcoming">沒有即將來臨的帳單或存款</string>
 	<string name="no_upcoming_bills">沒有即將來臨的帳單</string>
 	<string name="no_upcoming_deposits">沒有即將來臨的存款</string>

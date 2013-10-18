@@ -118,6 +118,7 @@
 	<string name="next_check_number">Nächste Scheck-Nummer</string>
 	<string name="cleared_transactions_color">Farbe für verrechnete Transaktionen</string>
 	<string name="reconciled_transactions_color">Farbe für abgeglichene Transaktionen</string>
+<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
 	<string name="text_filter">Text-Filter</string>
 	<string name="profit_and_loss_statement">Gewinn und Verlustrechnung</string>
 	<string name="transaction_type">Transaktions-Typ</string>

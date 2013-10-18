@@ -17,7 +17,8 @@
 	<string name="move_to_next_occurrence">Zum nächsten Vorkommen gehen</string>
 	<string name="remain_on_this_occurrence_format">Verbleiben, wenn eingegebene Summe kleiner ist als ^1</string>	    	    	
     <string name="edit_recurring">Wiederkehrende Buchung ändern</string>
-	<string name="entire_series">Ganze Serie</string>
+<!-- New -->	<string name="edit_occurrence">Vorfall ändern</string>
+    <string name="entire_series">Ganze Serie</string>
 	<string name="edit_template_warning">Es gibt eigens erstellte Häufigkeiten in der Zukunft.\n\nGBeim Ändern werden diese Anpassungen entfernt</string>
 	<string name="delete_recurring">Wiederkehrende Buchung löschen</string>
 	<string name="delete_question_format">Löschen ^1</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">Fest</string>
 	<string name="estimated">Geschätzt</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Bevorstehend</string>
+	<string name="upcoming_upper">Bevorstehend</string>
+	<string name="upcoming_lower">@string/upcoming_upper</string>
 	<string name="no_upcoming">Keine bevorstehenden Rechnungen oder Einzahlungen</string>
 	<string name="no_upcoming_bills">Keine bevorstehenden Rechnungen</string>
 	<string name="no_upcoming_deposits">Keine bevorstehenden Einzahlungen</string>
