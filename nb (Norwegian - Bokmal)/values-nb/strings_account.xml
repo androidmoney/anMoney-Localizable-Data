@@ -305,6 +305,10 @@
 		<item>Neste 3 måneder</item>
 		<item>Neste 6 måneder</item>
 		<item>Neste 12 måneder</item>
+<!-- New --> <item>Up to the next 30 days</item>
+<!-- New --> <item>Up to the next 3 months</item>
+<!-- New --> <item>Up to the next 6 months</item>
+<!-- New --> <item>Up to the next 12 months</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -321,10 +325,14 @@
 		<item>de siste 3 måneder</item>
 		<item>de siste 6 måneder</item>
 		<item>de siste 12 måneder</item>
-		<item/>
-		<item/>
-		<item/>
-		<item/>
+		<item>de neste 30 dager</item>
+		<item>de neste 3 måneder</item>
+		<item>de neste 6 måneder</item>
+		<item>de neste 12 måneder</item>
+<!-- New --> <item>up to the next 30 days</item>
+<!-- New --> <item>up to the next 3 months</item>
+<!-- New --> <item>up to the next 6 months</item>
+<!-- New --> <item>up to the next 12 months</item>
 		<item/>
 <!-- New --> <item>i dag</item>
 	</string-array>

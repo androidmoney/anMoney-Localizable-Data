@@ -303,6 +303,10 @@
 		<item>Propers 3 mesos</item>
 		<item>Propers 6 mesos</item>
 		<item>Propers 12 mesos</item>
+<!-- New --> <item>Up to the next 30 days</item>
+<!-- New --> <item>Up to the next 3 months</item>
+<!-- New --> <item>Up to the next 6 months</item>
+<!-- New --> <item>Up to the next 12 months</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -319,10 +323,14 @@
 		<item>els últims 3 mesos</item>
 		<item>els últims 6 mesos</item>
 		<item>els últims 12 mesos</item>
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+		<item>propers 30 dies</item>
+		<item>propers 3 mesos</item>
+		<item>propers 6 mesos</item>
+		<item>propers 12 mesos</item>
+<!-- New --> <item>up to the next 30 days</item>
+<!-- New --> <item>up to the next 3 months</item>
+<!-- New --> <item>up to the next 6 months</item>
+<!-- New --> <item>up to the next 12 months</item>
 		<item/> <!-- Intentionally left empty -->
 <!-- New --> <item>avui</item>
 	</string-array>

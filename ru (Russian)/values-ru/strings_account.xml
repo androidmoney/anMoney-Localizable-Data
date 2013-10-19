@@ -304,6 +304,10 @@
 		<item>Следующие 3 месяца</item>
 		<item>Следующие 6 месяцев</item>
 		<item>Следующие 12 месяцев</item>
+<!-- New --> <item>Up to the next 30 days</item>
+<!-- New --> <item>Up to the next 3 months</item>
+<!-- New --> <item>Up to the next 6 months</item>
+<!-- New --> <item>Up to the next 12 months</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -316,14 +320,18 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
-		<item>30 дней</item>
-		<item>3 месяца</item>
-		<item>6 месяцев</item>
-		<item>12 месяцев</item>
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>30 дней</item>
+<!-- New --> <item>3 месяца</item>
+<!-- New --> <item>6 месяцев</item>
+<!-- New --> <item>12 месяцев</item>
+<!-- New --> <item>propers 30 dies</item>
+<!-- New --> <item>propers 3 mesos</item>
+<!-- New --> <item>propers 6 mesos</item>
+<!-- New --> <item>propers 12 mesos</item>
+<!-- New --> <item>up to the next 30 days</item>
+<!-- New --> <item>up to the next 3 months</item>
+<!-- New --> <item>up to the next 6 months</item>
+<!-- New --> <item>up to the next 12 months</item>
 		<item/> <!-- Intentionally left empty -->
 		<item>сегодня</item>
 	</string-array>

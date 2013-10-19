@@ -304,7 +304,11 @@
     	<item>Volgende 3 maanden</item>
     	<item>Volgende 6 maanden</item>
 	    <item>Volgende 12 maanden</item>
-		<item>@string/custom_dates</item>
+<!-- New --> <item>Up to the next 30 days</item>
+<!-- New --> <item>Up to the next 3 months</item>
+<!-- New --> <item>Up to the next 6 months</item>
+<!-- New --> <item>Up to the next 12 months</item>
+	    <item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
@@ -320,10 +324,14 @@
 		<item>de laatste 3 maanden</item>
 		<item>de laatste 6 maanden</item>
 		<item>de laatste 12 maanden</item>
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+    	<item>de volgende 30 dagen</item>
+    	<item>de volgende 3 maanden</item>
+    	<item>de volgende 6 maanden</item>
+	    <item>de volgende 12 maanden</item>
+<!-- New --> <item>up to the next 30 days</item>
+<!-- New --> <item>up to the next 3 months</item>
+<!-- New --> <item>up to the next 6 months</item>
+<!-- New --> <item>up to the next 12 months</item>
 		<item/> <!-- Intentionally left empty -->
 <!-- New --> <item>vandaag</item>
 	</string-array>

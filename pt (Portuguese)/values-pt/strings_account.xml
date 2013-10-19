@@ -304,6 +304,10 @@
 		<item>Próximos 3 meses</item>
 		<item>Próximos 6 meses</item>
 		<item>Próximos 12 meses</item>
+<!-- New --> <item>Up to the next 30 days</item>
+<!-- New --> <item>Up to the next 3 months</item>
+<!-- New --> <item>Up to the next 6 months</item>
+<!-- New --> <item>Up to the next 12 months</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -320,10 +324,14 @@
 		<item>últimos 3 meses</item>
 		<item>últimos 6 meses</item>
 		<item>últimos 12 meses</item>
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+		<item>próximos 30 dias</item>
+		<item>próximos 3 meses</item>
+		<item>próximos 6 meses</item>
+		<item>próximos 12 meses</item>
+<!-- New --> <item>up to the next 30 days</item>
+<!-- New --> <item>up to the next 3 months</item>
+<!-- New --> <item>up to the next 6 months</item>
+<!-- New --> <item>up to the next 12 months</item>
 		<item/> <!-- Intentionally left empty -->
 		<item>hoje</item>
 	</string-array>

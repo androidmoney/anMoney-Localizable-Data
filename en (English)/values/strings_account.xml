@@ -307,6 +307,10 @@
 		<item>Next 3 months</item>
 		<item>Next 6 months</item>
 		<item>Next 12 months</item>
+		<item>Up to the next 30 days</item>
+		<item>Up to the next 3 months</item>
+		<item>Up to the next 6 months</item>
+		<item>Up to the next 12 months</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -319,14 +323,18 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
-		<item>the last 30 days</item>
-		<item>the last 3 months</item>
-		<item>the last 6 months</item>
-		<item>the last 12 months</item>
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+		<item>for the last 30 days</item>
+		<item>for the last 3 months</item>
+		<item>for the last 6 months</item>
+		<item>for the last 12 months</item>
+		<item>for the next 30 days</item>
+		<item>for the next 3 months</item>
+		<item>for the next 6 months</item>
+		<item>for the next 12 months</item>
+		<item>up to the next 30 days</item>
+		<item>up to the next 3 months</item>
+		<item>up to the next 6 months</item>
+		<item>up to the next 12 months</item>
 		<item/> <!-- Intentionally left empty -->
 		<item>today</item>
 	</string-array>
