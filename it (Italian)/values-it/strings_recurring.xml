@@ -83,7 +83,7 @@
 	<string name="end_date_if_any">Includi data finale, se esiste</string>
 	<string name="invalid_date">Data non valida</string>
 	<string name="repeat">Ripetere</string>
-	<string name="every_1">Tutto</string>
+	<string name="every_1">Ogni</string>
 	<string name="never">Mai</string>
 	<string name="day_upper">Giorno</string>
 	<string name="day_lower">giorno</string>
