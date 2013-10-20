@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>tutte le date</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>ultimi 30 giorni</item>
+		<item>ultimi 3 mesi</item>
+		<item>ultimi 6 mesi</item>
+		<item>ultimi 12 mesi</item>
+		<item>prossimi 30 giorni</item>
+		<item>prossimi 3 mesi</item>
+		<item>prossimi 6 mesi</item>
+		<item>prossimi 12 mesi</item>
+		<item>tutte fino ai prossimi 30 giorni</item>
+		<item>tutte fino ai prossimi 3 mesi</item>
+		<item>tutte fino ai prossimi 6 mesi</item>
+		<item>tutte fino ai prossimi 12 mesi</item>		
+		<item/> <!-- Intentionally left empty -->
+		<item>oggi</item>
+	</string-array>
+</resources>

@@ -19,7 +19,7 @@
     <string name="backup_book">バックアップ</string>
     <string name="overwrite">上書き</string>
     <string name="backup_name">バックアップ名</string>
-<!-- New --> <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+	<string name="auto_backup_name_format">^1 (^2 Auto)</string> <!-- Intentionally using the English wording -->
     <string name="restore">復元</string>
     <string name="restored">復元しました</string>
     <string name="restore_canceled">キャンセルしました</string>
@@ -108,9 +108,9 @@
     <string name="qif_csv_encoding_explanation_format">下記の言語では^1が使用されますが、金融機関によっては^2を選ぶ方が適切な場合もあります。\n\nリストにない言語では^2を選びます</string>
     <string name="credits_legal">クレジット&amp;法律</string>
     <string name="contact_and_social">問い合わせ&amp;ソーシャル</string>
-<!-- New --> <string name="follow_us">Follow us</string>
-<!-- New --> <string name="add_us_to_circle">Add us to your circles and +1 us</string>
-<!-- New --> <string name="become_a_fan">Become a fan</string>
+	<string name="follow_us">Follow us</string> <!-- Intentionally using the English wording -->
+	<string name="add_us_to_circle">Add us to your circles and +1 us</string> <!-- Intentionally using the English wording -->
+	<string name="become_a_fan">Become a fan</string> <!-- Intentionally using the English wording -->
     <string name="haptic_feedback">バイブレーション</string>
     <string name="haptic_feedback_description">選択した場合、タップ時に振動する</string>
 	<string name="default_book_name">私の会計簿</string>

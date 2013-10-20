@@ -118,7 +118,7 @@
 	<string name="next_check_number">Следующий номер чека</string>
 	<string name="cleared_transactions_color">Цвет чистой транзакции</string>
 	<string name="reconciled_transactions_color">Цвет согласованной транзакции</string>
-<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
+	<string name="upcoming_transactions_color">Цвет запланированных операций</string>	
 	<string name="text_filter">Текстовый фильтр</string>
 	<string name="profit_and_loss_statement">Доходы и расходы</string> 
     <string name="transaction_type">Тип транзакций</string>

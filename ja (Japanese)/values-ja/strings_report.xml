@@ -45,7 +45,7 @@
 	<string name="line_chart">折れ線グラフ</string>
 	<string name="bar_chart">棒グラフ</string>
 
-<!-- New -->	<string name="page_format">Page ^1</string>
+	<string name="page_format">^1</string>
 
 	<string name="page_size">用紙サイズ</string>
 	<string-array name="page_size_items">

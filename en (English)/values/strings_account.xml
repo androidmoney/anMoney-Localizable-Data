@@ -323,18 +323,18 @@
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
-		<item>for the last 30 days</item>
-		<item>for the last 3 months</item>
-		<item>for the last 6 months</item>
-		<item>for the last 12 months</item>
-		<item>for the next 30 days</item>
-		<item>for the next 3 months</item>
-		<item>for the next 6 months</item>
-		<item>for the next 12 months</item>
-		<item>up to the next 30 days</item>
-		<item>up to the next 3 months</item>
-		<item>up to the next 6 months</item>
-		<item>up to the next 12 months</item>
+		<item>the last 30 days</item>
+		<item>the last 3 months</item>
+		<item>the last 6 months</item>
+		<item>the last 12 months</item>
+		<item>the next 30 days</item>
+		<item>the next 3 months</item>
+		<item>the next 6 months</item>
+		<item>the next 12 months</item>
+		<item>+ 30 days</item>
+		<item>+ 3 months</item>
+		<item>+ 6 months</item>
+		<item>+ 12 months</item>
 		<item/> <!-- Intentionally left empty -->
 		<item>today</item>
 	</string-array>
