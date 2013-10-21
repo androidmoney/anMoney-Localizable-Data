@@ -67,7 +67,7 @@
     <string name="move_to_another_account">Mover a otra cuenta</string>
     <string name="copy_transaction">Copiar transacción</string>
     <string name="move_transaction">Mover transacción</string>
-<!-- New -->    <string name="move_transactions">Mover las transacciones</string>
+<!-- Verify -->    <string name="move_transactions">Mover las transacciones</string>
     <string name="do_not_duplicate_notes">No duplicar las notas</string>
     <string name="account_not_found">La cuenta no existe</string>
     <string name="cannot_transfer_to_itself">No se puede transferir a sí mismo</string>
@@ -118,7 +118,7 @@
     <string name="next_check_number">Número de cheque siguiente</string>
     <string name="cleared_transactions_color">Color de transacciones autorizadas</string>
     <string name="reconciled_transactions_color">Color de transacciones conciliadas</string>
-<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
+<!-- Verify --> <string name="upcoming_transactions_color">Color de transacciones futuras</string>
     <string name="text_filter">Filtro de texto</string>
     <string name="profit_and_loss_statement">Declaración de Ganancias &amp; Pérdidas</string>
 	<string name="transaction_type">Tipo de transacción</string>

@@ -95,9 +95,9 @@
     <string name="payee_not_found_format">Beneficiario ^1 inesistente</string>
     <string name="payer_not_found_format">Debitore ^1 inesistente</string>
     <string name="would_you_like_to_create_it">Desideri crearlo</string>
-    <string name="amount_zero_warning_message_format">L’importo della transazione è pari a zero.\n\nTocca ^1 per lasciare l'importo pari a zero oppure ^2 per inserire una transazione revocata</string>
+    <string name="amount_zero_warning_message_format">L’importo della transazione è pari a zero.\n\nTocca ^1 per lasciare l’importo pari a zero oppure ^2 per inserire una transazione revocata</string>
     <string name="sum_of_splits_warning_message_format">La somma della suddivisione non corrisponde all’importo della transazione.\n\nTocca ^1 per modificare la suddivisione</string>
-    <string name="duplicate_number_message_format">Una transazione datata ^1 sta già utilizzando questo numero di assegno.\n\nTocca ^2 per riutilizzare il numero dell'assegno oppure ^3 per ritornare alla modifica della transazione</string>
+    <string name="duplicate_number_message_format">Una transazione datata ^1 sta già utilizzando questo numero di assegno.\n\nTocca ^2 per riutilizzare il numero dell’assegno oppure ^3 per ritornare alla modifica della transazione</string>
     <string name="leave_zero">Autorizza 0</string>
     <string name="credits">Crediti</string>
     <string name="no_credits">Nessun credito</string>
