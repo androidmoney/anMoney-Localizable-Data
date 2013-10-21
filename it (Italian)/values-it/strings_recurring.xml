@@ -19,7 +19,7 @@
 	<string name="edit_recurring">Modifica ricorrenza</string>
 	<string name="edit_occurrence">Modifica evento</string>
 	<string name="entire_series">Intera serie</string>
-	<string name="edit_template_warning">Ci sono occorrenze future personalizzate.\n\nModificando le serie queste personalizzazioni verranno eliminate</string>
+	<string name="edit_template_warning">Ci sono eventi futuri personalizzati.\n\nModificando le serie queste personalizzazioni verranno eliminate</string>
 	<string name="delete_recurring">Elimina ricorrenza</string>
 	<string name="delete_question_format">Elimina ^1</string>
 	<string name="all_future_occurrences_will_be_deleted">Tutti gli eventi futuri verranno eliminati</string>
@@ -74,8 +74,8 @@
 		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
-		<item>occorrenza</item>
-		<item>occorrenze</item>
+		<item>evento</item>
+		<item>eventi</item>
 		<item/> <!-- Not used -->
 	</string-array>
 	<string name="upcoming_date">Prossima data</string>
@@ -154,8 +154,8 @@
 	</string-array>
 
 	<string-array name="skip_which_items">
-		<item>Prossima occorrenza</item>
-		<item>Tutte le occorrenze scadute</item>
+		<item>Prossimo evento</item>
+		<item>Tutti gli eventi scaduti</item>
 	</string-array>
 
 	<string-array name="workday_adjustment_methods">
@@ -165,71 +165,71 @@
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month">
-		<item>Al 1<sup><small>mo</small></sup></item>
-		<item>Al 2<sup><small>do</small></sup></item>
-		<item>Al 3<sup><small>zo</small></sup></item>
-		<item>Al 4<sup><small>to</small></sup></item>
-		<item>Al 5<sup><small>to</small></sup></item>
-		<item>Al 6<sup><small>to</small></sup></item>
-		<item>Al 7<sup><small>mo</small></sup></item>
-		<item>Al 8<sup><small>vo</small></sup></item>
-		<item>Al 9<sup><small>no</small></sup></item>
-		<item>Al 10<sup><small>mo</small></sup></item>
-		<item>Al 11<sup><small>mo</small></sup></item>
-		<item>Al 12<sup><small>mo</small></sup></item>
-		<item>Al 13<sup><small>mo</small></sup></item>
-		<item>Al 14<sup><small>mo</small></sup></item>
-		<item>Al 15<sup><small>mo</small></sup></item>
-		<item>Al 16<sup><small>mo</small></sup></item>
-		<item>Al 17<sup><small>mo</small></sup></item>
-		<item>Al 18<sup><small>mo</small></sup></item>
-		<item>Al 19<sup><small>mo</small></sup></item>
-		<item>Al 20<sup><small>mo</small></sup></item>
-		<item>Al 21<sup><small>mo</small></sup></item>
-		<item>Al 22<sup><small>mo</small></sup></item>
-		<item>Al 23<sup><small>mo</small></sup></item>
-		<item>Al 24<sup><small>mo</small></sup></item>
-		<item>Al 25<sup><small>mo</small></sup></item>
-		<item>Al 26<sup><small>mo</small></sup></item>
-		<item>Al 27<sup><small>mo</small></sup></item>
-		<item>Al 28<sup><small>mo</small></sup></item>
-		<item>Al 29<sup><small>mo</small></sup></item>
-		<item>Al 30<sup><small>mo</small></sup></item>
-		<item>Al 31<sup><small>mo</small></sup></item>
+		<item>Al 1<sup><small>o</small></sup></item>
+		<item>Al 2<sup><small>o</small></sup></item>
+		<item>Al 3<sup><small>o</small></sup></item>
+		<item>Al 4<sup><small>o</small></sup></item>
+		<item>Al 5<sup><small>o</small></sup></item>
+		<item>Al 6<sup><small>o</small></sup></item>
+		<item>Al 7<sup><small>o</small></sup></item>
+		<item>Al 8<sup><small>o</small></sup></item>
+		<item>Al 9<sup><small>o</small></sup></item>
+		<item>Al 10<sup><small>o</small></sup></item>
+		<item>Al 11<sup><small>o</small></sup></item>
+		<item>Al 12<sup><small>o</small></sup></item>
+		<item>Al 13<sup><small>o</small></sup></item>
+		<item>Al 14<sup><small>o</small></sup></item>
+		<item>Al 15<sup><small>o</small></sup></item>
+		<item>Al 16<sup><small>o</small></sup></item>
+		<item>Al 17<sup><small>o</small></sup></item>
+		<item>Al 18<sup><small>o</small></sup></item>
+		<item>Al 19<sup><small>o</small></sup></item>
+		<item>Al 20<sup><small>o</small></sup></item>
+		<item>Al 21<sup><small>o</small></sup></item>
+		<item>Al 22<sup><small>o</small></sup></item>
+		<item>Al 23<sup><small>o</small></sup></item>
+		<item>Al 24<sup><small>o</small></sup></item>
+		<item>Al 25<sup><small>o</small></sup></item>
+		<item>Al 26<sup><small>o</small></sup></item>
+		<item>Al 27<sup><small>o</small></sup></item>
+		<item>Al 28<sup><small>o</small></sup></item>
+		<item>Al 29<sup><small>o</small></sup></item>
+		<item>Al 30<sup><small>o</small></sup></item>
+		<item>Al 31<sup><small>o</small></sup></item>
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month_and_on_the">
-		<item>Al 1<sup><small>mo</small></sup> ed al</item>
-		<item>Al 2<sup><small>do</small></sup> ed al</item>
-		<item>Al 3<sup><small>zo</small></sup> ed al</item>
-		<item>Al 4<sup><small>to</small></sup> ed al</item>
-		<item>Al 5<sup><small>to</small></sup> ed al</item>
-		<item>Al 6<sup><small>to</small></sup> ed al</item>
-		<item>Al 7<sup><small>mo</small></sup> ed al</item>
-		<item>Al 8<sup><small>vo</small></sup> ed al</item>
-		<item>Al 9<sup><small>no</small></sup> ed al</item>
-		<item>Al 10<sup><small>mo</small></sup> ed al</item>
-		<item>Al 11<sup><small>mo</small></sup> ed al</item>
-		<item>Al 12<sup><small>mo</small></sup> ed al</item>
-		<item>Al 13<sup><small>mo</small></sup> ed al</item>
-		<item>Al 14<sup><small>mo</small></sup> ed al</item>
-		<item>Al 15<sup><small>mo</small></sup> ed al</item>
-		<item>Al 16<sup><small>mo</small></sup> ed al</item>
-		<item>Al 17<sup><small>mo</small></sup> ed al</item>
-		<item>Al 18<sup><small>mo</small></sup> ed al</item>
-		<item>Al 19<sup><small>mo</small></sup> ed al</item>
-		<item>Al 20<sup><small>mo</small></sup> ed al</item>
-		<item>Al 21<sup><small>mo</small></sup> ed al</item>
-		<item>Al 22<sup><small>mo</small></sup> ed al</item>
-		<item>Al 23<sup><small>mo</small></sup> ed al</item>
-		<item>Al 24<sup><small>mo</small></sup> ed al</item>
-		<item>Al 25<sup><small>mo</small></sup> ed al</item>
-		<item>Al 26<sup><small>mo</small></sup> ed al</item>
-		<item>Al 27<sup><small>mo</small></sup> ed al</item>
-		<item>Al 28<sup><small>mo</small></sup> ed al</item>
-		<item>Al 29<sup><small>mo</small></sup> ed al</item>
-		<item>Al 30<sup><small>mo</small></sup> ed al</item>
-		<item>Al 31<sup><small>mo</small></sup> ed al</item>
+		<item>Al 1<sup><small>o</small></sup> ed al</item>
+		<item>Al 2<sup><small>o</small></sup> ed al</item>
+		<item>Al 3<sup><small>o</small></sup> ed al</item>
+		<item>Al 4<sup><small>o</small></sup> ed al</item>
+		<item>Al 5<sup><small>o</small></sup> ed al</item>
+		<item>Al 6<sup><small>o</small></sup> ed al</item>
+		<item>Al 7<sup><small>o</small></sup> ed al</item>
+		<item>Al 8<sup><small>o</small></sup> ed al</item>
+		<item>Al 9<sup><small>o</small></sup> ed al</item>
+		<item>Al 10<sup><small>o</small></sup> ed al</item>
+		<item>Al 11<sup><small>o</small></sup> ed al</item>
+		<item>Al 12<sup><small>o</small></sup> ed al</item>
+		<item>Al 13<sup><small>o</small></sup> ed al</item>
+		<item>Al 14<sup><small>o</small></sup> ed al</item>
+		<item>Al 15<sup><small>o</small></sup> ed al</item>
+		<item>Al 16<sup><small>o</small></sup> ed al</item>
+		<item>Al 17<sup><small>o</small></sup> ed al</item>
+		<item>Al 18<sup><small>o</small></sup> ed al</item>
+		<item>Al 19<sup><small>o</small></sup> ed al</item>
+		<item>Al 20<sup><small>o</small></sup> ed al</item>
+		<item>Al 21<sup><small>o</small></sup> ed al</item>
+		<item>Al 22<sup><small>o</small></sup> ed al</item>
+		<item>Al 23<sup><small>o</small></sup> ed al</item>
+		<item>Al 24<sup><small>o</small></sup> ed al</item>
+		<item>Al 25<sup><small>o</small></sup> ed al</item>
+		<item>Al 26<sup><small>o</small></sup> ed al</item>
+		<item>Al 27<sup><small>o</small></sup> ed al</item>
+		<item>Al 28<sup><small>o</small></sup> ed al</item>
+		<item>Al 29<sup><small>o</small></sup> ed al</item>
+		<item>Al 30<sup><small>o</small></sup> ed al</item>
+		<item>Al 31<sup><small>o</small></sup> ed al</item>
 	</string-array>
 	<string name="on_the_last_day_of_the_month">L’ultimo giorno del mese</string>
 	<string-array name="on_the_nth_day_of_the_week_format">
