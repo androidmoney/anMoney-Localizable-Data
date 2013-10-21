@@ -21,7 +21,7 @@
     <string name="delete_subcategory">Elimina sottocategoria</string>
     <string name="delete_class">Elimina classe</string>
     <string name="delete_subclass">Elimina sottoclasse</string>
-    <string name="add_default_categories">Inserisci categorie predefinita</string>
+    <string name="add_default_categories">Inserisci categorie predefinite</string>
     <string name="add_classification">Inserisci classificazione</string>
     <string name="select_category">Seleziona categoria</string>
     <string name="select_class">Seleziona classe</string>
@@ -29,11 +29,11 @@
     <string name="rename_classification">Rinomina classificazione</string>
     <string name="select_classification">Seleziona classificazione</string>
     <string name="enter_classification_name">Inserisci nome classificazione</string>
-    <string name="enter_new_classification_name">Inserisci nuovo nome classificazione</string>
+    <string name="enter_new_classification_name">Inserisci nome nuova classificazione</string>
     <string name="categories_and_classifications">Categorie &amp; classificazioni</string>
-    <string name="no_categories_expense">Tu non hai nessuna categoria di spese</string>
-    <string name="no_categories_income">Tu non hai nessuna categoria di entrate</string>
-    <string name="no_classes">Tu non hai nesuna classe impostata</string>
+    <string name="no_categories_expense">Non avete alcuna categoria di spese</string>
+    <string name="no_categories_income">Non avete alcuna categoria di entrate</string>
+    <string name="no_classes">Non avete alcuna classe impostata</string>
     <string name="uncategorized_transactions">Transazioni non categorizzate</string>
     <string name="delete_category_no_subcategories_warning_format">La categoria ^1 sarà definitivamente cancellata</string>
     <string name="delete_class_no_subclass_warning_format">La classe ^1 sarà definitivamente cancellata</string>
@@ -41,7 +41,7 @@
     <string name="delete_class_with_subclass_warning_format">La classe ^1 e <b>tutte le sottoclassi</b> saranno definitivamente cancellate</string>
     <string name="delete_subcategory_warning_format">La sottocategoria ^1 sarà definitivamente cancellata</string>
     <string name="delete_subclass_warning_format">La sottoclasse ^1 sarà definitivamente cancellata</string>
-    <string name="delete_classification_warning_format">La classificazione ^1 sarà definitivamente cancellata. A tutte le transazioni verranno eliminate le loro classificazioni</string>
+    <string name="delete_classification_warning_format">La classificazione ^1 sarà definitivamente cancellata. Tutte le classificazioni verranno eliminate dalle relative transazioni</string>
     <string name="default_categories_add_confirmation">Vuoi inserire una categoria predefinita</string>
     <string name="default_categories_added">Categoria predefinita inserita</string>
     <string name="all_categories">Tutte le categorie</string>
@@ -58,12 +58,12 @@
     <string name="without_subcategory">Senza sottocategoria</string>
     <string name="without_subclass">Senza sottoclasse</string>
     <string name="cannot_be_zero">Non può essere 0</string>
-    <string name="change_expense_warning">Vuoi cambiare questa categoria di spesa in entrata, o vice versa</string>
+    <string name="change_expense_warning">Trasformare questa categoria di spesa in entrata, o viceversa</string>
     <string name="prepopulate">Compilare con categorie predefinite</string>
-    <string name="short_categories">Caricare breve lista delle categorie (si avrà la possibilità di caricare l’elenco completo dopo)</string>
+    <string name="short_categories">Caricare solo breve lista delle categorie (si avrà la possibilità di caricare l’elenco completo in seguito)</string>
     <string name="view_categories">Visualizza categorie</string>
-    <string name="category_not_found">Categoria non esistente</string>
-    <string name="class_not_found">Classe non esistente</string>
+    <string name="category_not_found">Categoria inesistente</string>
+    <string name="class_not_found">Classe inesistente</string>
 	<string name="total_income">Entrate totali</string>
 	<string name="total_expense">Uscite totali</string>
 	<string name="net">Netto</string>
@@ -72,9 +72,9 @@
     <string name="income_uncategorized">Entrata non categorizzata</string>
     <string name="expense_uncategorized">Spesa non categorizzata</string>
     <string name="show_uncategorized">Visualizza non categorizzata</string>
-    <string name="move_subcategory_to_another_category_warning">Vuoi spostare questa sottocategoria sotto una altra categoria</string>
-    <string name="show_zero_balance_categories">Visualizza categorie con bilancio a zero</string>
-    <string name="show_zero_balance_items">Visualizza voci con bilancio a zero</string>
+    <string name="move_subcategory_to_another_category_warning">Vuoi spostare questa sottocategoria sotto un’altra categoria</string>
+    <string name="show_zero_balance_categories">Visualizza categorie con saldo pari a zero</string>
+    <string name="show_zero_balance_items">Visualizza voci con saldo pari a zero</string>
     <string name="recategorize_category">Ricategorizzare tutte le transazioni con questa categoria</string>
     <string name="reclassify_class">Ricategorizzare tutte le transazioni con questa classe</string>
 	<string name="spending_by_category0">Spese per categoria</string>
@@ -83,12 +83,12 @@
 	<string name="spending_by_category_over_time0">Spese per categoria nel tempo</string>
 	<string name="spending_by_category_over_time1">Spese per categoria o ^1 nel tempo</string>
 	<string name="spending_by_category_over_time2">Spese per categoria, ^1 o ^2 nel tempo</string>
-<!-- New --> <string name="assign_to_accounts">Assegnare ai questi conti quando Previsione</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
-<!-- New --> <string name="last_account_used">L’ultimo conto utilizzata</string>
+	<string name="assign_to_accounts">Assegnare a questi conti con Previsione</string>
+	<string name="last_account_used">L’ultimo conto utilizzato</string>
 		
-    <string name="no_categories">No categorie</string>
-	<string name="no_categories_yet">No categorie ancora</string>
-    <string name="no_classes_yet">No classi ancora</string>
+    <string name="no_categories">Nessuna categoria</string>
+	<string name="no_categories_yet">Non ci sono ancora categorie</string>
+    <string name="no_classes_yet">Non ci sono ancora classi</string>
 	<string-array name="category_count_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 categorie</item>

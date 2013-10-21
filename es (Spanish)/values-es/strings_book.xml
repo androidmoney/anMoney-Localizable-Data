@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Seleccionar libro</string>
-    <string name="select_book_to_import_into">Selecciona el libro en el cual se importará el extracto</string>
     <string name="select_import_file">Seleccionar archivo(s) para importar</string>
     <string name="not_specified_brackets">&lt;No especificado></string>
     <string name="map_accounts">Mapear cuentas</string>
@@ -53,9 +52,8 @@
     <string name="ignore_memos">Ignorar el campo «notas»</string>
     <string name="create_payees_in_app_name_format">Crear los beneficiarios en ^1</string>
     <string name="contact_account">Cuenta donde se crearán los beneficiarios</string> <!-- RC Note. This text is valid only if "account" refers to accounts on the device (contacts, scheduler, tasks: gmail, hotmail, etc) -->
-    <string name="select_accounts_to_export">Seleccionar cuenta(s) a exportar</string>
     <string name="select_import_mode">Seleccionar el modo de importación</string>
-    <string name="specify_export_file_format">Especificar el formato del archivo de exportación</string>
+    <string name="export_file_format">Formato del archivo de exportación</string>
     <string name="mark_transactions_exported">Marcar transacciones como exportadas</string>
     <string name="create_single_file">Crear un único archivo</string>
     <string name="no_transactions_matched_your_selection_criteria">No hay transacciones que se correspondan con sus criterios de selección.\n\nNo se exportó ningún archivo</string>
@@ -91,7 +89,7 @@
     <string name="password_disclaimer">Por favor, lee este aviso legal y marca la casilla al final.\n\nTen en cuenta que la función de contraseña se diseñó como una manera de proporcionar privacidad contra “curiosos”. Debido a las limitaciones de la plataforma, no es posible una verdadera encriptación de los datos y alguien con conocimientos avanzados podría acceder a sus datos, incluso en presencia de una contraseña.\n\nEs muy recomendable que proteja su dispositivo con un patrón de bloqueo o un PIN para mayor seguridad</string>
     <string name="i_understand_the_limitations">Comprendo las limitaciones</string>
     <string name="set_password_now_part1">Establecer una contraseña ahora</string>
-<!-- Verify --> <string name="set_password_now_part2_format">Aún cuando tu respuesta sea ^1, tendrás la opción de establecer una contraseña en cualquier momento presionando en forma sostenida sobre el nombre del libro y tocando ^2</string>
+<!-- New --> <string name="set_password_now_part2_format">Aún cuando tu respuesta sea ^1, tendrás la opción de establecer una contraseña en cualquier momento presionando en forma sostenida sobre el nombre del libro y tocando ^2</string>
     <string name="folder_name_format">Nombre de la carpeta (usa ^1 para indicar subcarpetas)</string>
     <string name="no_backup_files">No se encontró ningún archivo de copia de seguridad</string>
     <string name="no_backup_files_new_instructions">Si estás tratando de crear un libro a partir de la importación de un archivo, por favor crea antes un libro desde cero para luego realizar la importación sobre él</string>
@@ -143,11 +141,9 @@
         <item>Se utiliza para la transferencia de datos desde otro aplicativo de finanzas personales, como por ejemplo Microsoft® Money o Quicken®. La función sólo es compatible con el formato <b>QIF</b></item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Dependiendo de las clasificaciones y las categorías que uses, sólo puede ser leído por Microsoft® Money</item>
-        <item>Compatible con todas las aplicaciones que aceptan el formato <b>QIF</b></item>
-        <item>Compatible con las aplicaciones de hojas de cálculo, como Microsoft® Excel o Google Docs™. La primera fila contiene los títulos de columna, seguida por las transacciones (una fila por cada una). Para las transacciones divididas hay tantas filas como divisiones</item>
-    </string-array>
+    <string name="qif_ms_money_description">Dependiendo de las clasificaciones y las categorías que uses, sólo puede ser leído por Microsoft Money</string>
+	<string name="qif_generic_description">Compatible con todas las aplicaciones que aceptan el formato <b>QIF</b></string>
+    <string name="csv_description">Compatible con las aplicaciones de hojas de cálculo, como Microsoft® Excel o Google Docs™. La primera fila contiene los títulos de columna, seguida por las transacciones (una fila por cada una)</string>
 
     <string name="import_file_confirm_format">Quieres importar ^1</string>
 	<string-array name="import_files_confirm_format_plurals">

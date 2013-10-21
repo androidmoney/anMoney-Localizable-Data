@@ -14,7 +14,8 @@
 	<string name="default_name_format">^1 #^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-	<string name="plus_format">^1+</string>
+	<string name="plus_after_format">^1+</string>
+	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
     <string name="quarter_format">N^1 ^2</string> <!-- As in "Q1 2013" -->
@@ -129,7 +130,7 @@
 	<string name="cannot_perform_sd_card_operation">Ez a művelet nem hajtható végre, mert talán nincs SD-kártya a készülékben, vagy a készülék jelenleg csatlakoztatva van a számítógéphez, ami az SD-kártyát elérhetetlenné teszi</string>
 	<string name="cannot_perform_file_system_operation_format">Ez a művelet nem hajtható végre, mert az út (^1) a fájlrendszeren nem érhető el</string>
 	<string name="please_correct_and_try_again">Kérjük, javítsa meg és próbálja újra</string>
-	<string name="no_network_message_format">^1 periodikus hálózati hozzáférési engedélyre van szüksége ellenőrzési célokból.\n\nKérjük, kapcsolja be a hálózatot, és amikor van adatkapcsolata, próbálja meg újra. Utána lekapcsolhatja a hálózatot.\n\nAz ^2 érintése a ^3 beállításokhoz fogja vinni.</string>
+	<string name="no_network_message_format">^1 periodikus hálózati hozzáférési engedélyre van szüksége ellenőrzési célokból.\n\nKérjük, kapcsolja be a hálózatot, és amikor van adatkapcsolata, próbálja meg újra. Utána lekapcsolhatja a hálózatot.\n\nAz ^2 érintése a ^3 beállításokhoz fogja vinni</string>
     <string name="calculator">Számológép</string>
     <string name="only_in_full_version">Csak a PRO verzióban elérhető</string>
     <string name="will_not_effect_transactions">Ez <b>nem</b> érinti a meglévő tranzakciókat</string>

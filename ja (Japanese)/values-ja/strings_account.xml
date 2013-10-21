@@ -117,10 +117,11 @@
 	<string name="balance_as_of_today">現時点での差引残高</string>
 	<string name="cleared_total">クリア済みの合計</string>
 	<string name="reconciled_total">調整済みの合計</string>
-<!-- New --> <string name="default_cash_account_name">My Daily Cash</string>
-<!-- New --> <string name="default_checking_account_name">My Current Account</string>
-<!-- New --> <string name="default_savings_account_name">My Savings Account</string>
-<!-- New --> <string name="default_credit_account_name">My Credit Card</string>
+	<string name="filtered_total">フィルター適用分の合計</string>
+	<string name="default_cash_account_name">現金口座</string>
+	<string name="default_checking_account_name">当座預金口座</string>
+	<string name="default_savings_account_name">普通預金口座</string>
+	<string name="default_credit_account_name">クレジットカード</string>
     <string name="color">カラー</string>
     <string name="projected_balance">予想</string>
     <string name="projected_balance_at_the_end_of_the_month">月末の予想差引残高</string>
@@ -303,7 +304,12 @@
 		<item>翌3ヶ月</item>
 		<item>翌6ヶ月</item>
 		<item>翌12ヶ月</item>
+		<item>30日後まで</item>
+		<item>3ヶ月後まで</item>
+		<item>6ヶ月後まで</item>
+		<item>12ヶ月後まで</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>全期間</item>
@@ -318,11 +324,16 @@
 		<item>過去3ヶ月</item>
 		<item>過去6ヶ月</item>
 		<item>過去12ヶ月</item>
+		<item>翌30日</item>
+		<item>翌3ヶ月</item>
+		<item>翌6ヶ月</item>
+		<item>翌12ヶ月</item>
+		<item>30日後まで</item>
+		<item>3ヶ月後まで</item>
+		<item>6ヶ月後まで</item>
+		<item>12ヶ月後まで</item>
 		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

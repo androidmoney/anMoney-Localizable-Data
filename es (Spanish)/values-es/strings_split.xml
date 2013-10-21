@@ -6,7 +6,8 @@
     <string name="edit_split">Editar división</string>
     <string name="edit_splits">Editar divisiones</string>
     <string name="delete_split">Eliminar división</string>
-	<string name="sum_of_splits">Suma de las divisiones</string>
+	<string name="export_splits">Exportar divisiones</string>
+    <string name="sum_of_splits">Suma de las divisiones</string>
 	<string name="unassigned">Sin asignar</string>
 	<string name="transaction_total">Importe total de la transacción</string>
     <string name="go_back_to_edit">Volver a la edición de las divisiones</string>

@@ -117,7 +117,8 @@
 	<string name="balance_as_of_today">Mai egyenleg</string>
 	<string name="cleared_total">Elszámolt összeg</string>
 	<string name="reconciled_total">Egyeztetett összeg</string>
-    <string name="default_cash_account_name">Készpénzem</string>
+	<string name="filtered_total">Szűrt összeg</string>
+	<string name="default_cash_account_name">Készpénzem</string>
     <string name="default_checking_account_name">Folyószámlám</string>
     <string name="default_savings_account_name">Takarékszámlám</string>
     <string name="default_credit_account_name">Hitelkártyám</string>
@@ -301,11 +302,16 @@
 		<item>Utolsó 3 hónap</item>
 		<item>Utolsó 6 hónap</item>
 		<item>Utolsó 12 hónap</item>
-		<item>Jövő 30 days</item>
+		<item>Jövő 30 nap</item>
 		<item>Jövő 3 hónap</item>
 		<item>Jövő 6 hónap</item>
 		<item>Jövő 12 hónap</item>
+		<item>Jövő 30 napig</item>
+		<item>Jövő 3 hónapig</item>
+		<item>Jövő 6 hónapig</item>
+		<item>Jövő 12 hónapig</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>minden dátumra</item>
@@ -320,11 +326,16 @@
 		<item>az utolsó 3 hónapra</item>
 		<item>az utolsó 6 hónapra</item>
 		<item>az utolsó 12 hónapra</item>
+		<item>a jövő 30 napra</item>
+		<item>a jövő 3 hónapra</item>
+		<item>a jövő 6 hónapra</item>
+		<item>a jövő 12 hónapra</item>
+		<item>a jövő 30 napig</item>
+		<item>a jövő 3 hónapig</item>
+		<item>a jövő 6 hónapig</item>
+		<item>a jövő 12 hónapig</item>
 		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+		<item>mára</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item>januárra</item>

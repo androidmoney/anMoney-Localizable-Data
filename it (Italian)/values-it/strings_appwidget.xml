@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="appwidget_warning_format">Sembra che hai ^1 attualmente installato sulla scheda SD.\n\nDal momento che questo potrebbe causare la chiusura del widget, è consigliabile spostare ^1 nel dispositivo dalla scheda SD, se pensate di utilizzare il widget</string>
+	<string name="appwidget_warning_format">Sembra che abbiate attualmente installato ^1 sulla scheda SD.\n\nPoiché questo potrebbe causare la scomparsa del widget, qualora si desideri utilizzare il widget stesso è consigliabile spostare ^1 dalla scheda di memoria SD al dispositivo</string>
 
-    <string name="no_books_warning">Si prega di creare almeno un libretto prima di creare il widget</string>
-    <string name="no_books_and_accounts_warning">Si prega di creare almeno un libretto e un conto prima di creare il widget</string>
-    <string name="no_accounts_warning">Si prega di creare almeno un conto prima di creare il widget</string>
-    <string name="book_no_longer_exists_format">Libretto ^1 non più esistente</string>
-    <string name="account_no_longer_exists">Conto non più esistente</string>
-    <string name="report_no_longer_exists">Report non più esistente</string>
-    <string name="budget_no_longer_exists_format">Budget ^1 non più esistente</string>
+    <string name="no_books_warning">Si prega di creare almeno un registro prima di caricare il widget</string>
+    <string name="no_books_and_accounts_warning">Si prega di creare almeno un registro ed un conto prima di caricare il widget</string>
+    <string name="no_accounts_warning">Si prega di creare almeno un conto prima di caricare il widget</string>
+    <string name="book_no_longer_exists_format">Registro ^1 non più disponibile</string>
+    <string name="account_no_longer_exists">Conto non più disponibile</string>
+    <string name="report_no_longer_exists">Resoconto non più disponibile</string>
+    <string name="budget_no_longer_exists_format">Bilancio ^1 non più disponibile</string>
     
     <string name="quick_entry">Inserimento rapido</string>
     <string name="app_name_quick_entry">anMoney — Inserimento rapido</string>
@@ -17,12 +17,12 @@
     <string name="show_total">Visualizza totale conto</string>
     <string name="opacity">Opacità</string>
 
-    <string name="app_name_upcoming">anMoney — Prossimo</string>
+    <string name="app_name_upcoming">anMoney — In scadenza</string>
 
-    <string name="app_name_budget">anMoney — Budget</string>
+    <string name="app_name_budget">anMoney — Bilancio</string>
 
-    <string name="app_name_report">anMoney — Report</string>
+    <string name="app_name_report">anMoney — Resoconto</string>
 
-	<string name="dash_clock_extension_description">Visualizza depositi e bollette scaduti, se esistenti.</string>
+	<string name="dash_clock_extension_description">Visualizza eventuali depositi o fatture scaduti.</string>
 </resources>
 

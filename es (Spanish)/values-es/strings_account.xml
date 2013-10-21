@@ -117,7 +117,8 @@
 	<string name="balance_as_of_today">Saldo de hoy</string>
 	<string name="cleared_total">Total compensado</string>
 	<string name="reconciled_total">Total conciliado</string>
-    <string name="default_cash_account_name">Mi caja diaria</string>
+	<string name="filtered_total">Total filtrado</string>
+	<string name="default_cash_account_name">Mi caja diaria</string>
     <string name="default_checking_account_name">Mi cuenta corriente</string>
     <string name="default_savings_account_name">Mi cuenta de ahorros</string>
     <string name="default_credit_account_name">Mi tarjeta de crédito</string>
@@ -303,7 +304,12 @@
 		<item>Próximos 3 meses</item>
 		<item>Próximos 6 meses</item>
 		<item>Próximos 12 meses</item>
+<!-- Verify --> <item>Hasta próximos 30 días</item>
+<!-- Verify --> <item>Hasta próximos 3 meses</item>
+<!-- Verify --> <item>Hasta próximos 6 meses</item>
+<!-- Verify --> <item>Hasta próximos 12 meses</item>		
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>todas las fechas</item>
@@ -318,11 +324,16 @@
 		<item>últimos 3 meses</item>
 		<item>últimos 6 meses</item>
 		<item>últimos 12 meses</item>
+		<item>próximos 30 días</item>
+		<item>próximos 3 meses</item>
+		<item>próximos 6 meses</item>
+		<item>próximos 12 meses</item>
+<!-- Verify --> <item>+ 30 días</item>
+<!-- Verify --> <item>+ 3 meses</item>
+<!-- Verify --> <item>+ 6 meses</item>
+<!-- Verify --> <item>+ 12 meses</item>		
 		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+		<item>hoy</item>
 	</string-array>
 
     <string name="display_grouping">Mostrar agrupamientos</string>

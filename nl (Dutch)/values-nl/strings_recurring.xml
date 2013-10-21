@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">Verplaatsen naar de volgende mogelijkheid</string>
 	<string name="remain_on_this_occurrence_format">Blijf op deze mogelijkheid, als het ingevoerde bedrag minder is dan ^1</string>	    	    	
 	<string name="edit_recurring">Bewerk terugkomende</string>
+<!-- New -->	<string name="edit_occurrence">Toekomstige bewerk</string>
 	<string name="entire_series">Complete serie</string>
 	<string name="edit_template_warning">Er zijn aangepaste toekomstige mogelijkheden.\n\nHet bewerken van deze serie verwijdert deze mogelijkheden</string>
 	<string name="delete_recurring">Verwijder terugkomende</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">Vast</string>
 	<string name="estimated">Begroot</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Aanstaande</string>
+	<string name="upcoming_upper">Aanstaande</string>
+	<string name="upcoming_lower">aanstaande</string>
 	<string name="no_upcoming">Geen aanstaande rekeningen of betalingen</string>
 	<string name="no_upcoming_bills">Geen aanstaande rekeningen</string>
 	<string name="no_upcoming_deposits">Geen aanstaande betalingen</string>

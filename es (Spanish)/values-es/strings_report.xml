@@ -7,7 +7,7 @@
 	<string name="report_canceled">Cancelado</string>
 	<string name="export_report">Exportar el reporte</string>
 	<string name="report_exported">Exportado con éxito a la tarjeta SD</string>
-<!-- Verify --> <string name="share_report">Compartir el reporte</string>
+<!-- New --> <string name="share_report">Compartir el reporte</string>
 	<string name="report_settings">Configuración del reporte</string>
 	<string name="custom_dates">Fechas personalizadas</string>
 	<string name="other">Otro</string>
@@ -27,16 +27,16 @@
     <string name="delete_report_warning_format">Reporte ^1 se eliminará permanentemente</string>
 	<string name="report_type">Tipo de reporte</string>
 	<string name="group">Agrupar</string>
-<!-- Verify -->	<string name="do_not_group">No agrupar</string>
+<!-- New -->	<string name="do_not_group">No agrupar</string>
 	<string name="day_0">Hoy</string>
 	<string name="day_p1">Mañana</string>
 	<string name="day_m1">Ayer</string>
 	<string name="day_p2"></string>
 	<string name="day_m2"></string>
 	<string name="select_report">Selecciona el reporte</string>
-<!-- Verify -->  <string name="report_folder">Carpeta de reporte</string>
+<!-- New -->  <string name="report_folder">Carpeta de reporte</string>
 	<string name="language">Idioma</string>
-<!-- Verify --> <string name="text_size">Tamaño del texto</string>
+<!-- New --> <string name="text_size">Tamaño del texto</string>
 	<string name="text_size_sample">Ab</string>
 
 	<string name="chart_type">Tipo de gráfico</string>
@@ -64,7 +64,7 @@
 
 	<string name="amounts_on_charts">Mostrar cantidades en los gráficos</string>
 	<string name="percentages_on_pie_charts">Mostrar porcentajes en gráficos circulares</string>
-<!-- Verify --> <string name="create_settings_page">Crear página de configuración</string>
+<!-- New --> <string name="create_settings_page">Crear página de configuración</string>
 			
 	<string-array name="report_export_file_type">
         <item>@string/csv</item>
@@ -78,5 +78,5 @@
 		<item>Adecuado para su publicación en un sitio web o para ver en un navegador web</item>
 	</string-array>
 
-<!-- Verify --> <string name="specify_format_to_share_as">Especifica el formato para compartir</string>
+<!-- New --> <string name="specify_format_to_share_as">Especifica el formato para compartir</string>
 </resources>

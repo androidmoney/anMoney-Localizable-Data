@@ -11,12 +11,12 @@
 	</record>
 	<record>
 		<mainCategory>Automobile</mainCategory>
-		<subcategory>Auto Pagamento</subcategory>
+		<subcategory>Pagamento Auto</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Automobile</mainCategory>
-		<subcategory>Benzina</subcategory>
+		<subcategory>Carburante</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -30,13 +30,13 @@
 	</record>
 	<record>
 		<mainCategory>Spese Bancarie</mainCategory>
-		<subcategory>Interessi Pagati</subcategory>
+		<subcategory>Pagamento Interessi</subcategory>
 		<expense>1</expense>
 		<defaultForInterestPaid>1</defaultForInterestPaid>
 	</record>
 	<record>
 		<mainCategory>Spese Bancarie</mainCategory>
-		<subcategory>Commissione di Servizio</subcategory>
+		<subcategory>Commissione del Servizio</subcategory>
 		<expense>1</expense>
 		<defaultForServiceCharge>1</defaultForServiceCharge>
 	</record>
@@ -61,12 +61,12 @@
 	</record>
 	<record>
 		<mainCategory>Bollette</mainCategory>
-		<subcategory>Rifiuti / Riciclaggio</subcategory>
+		<subcategory>Rifiuti</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Bollette</mainCategory>
-		<subcategory>Centro fitness</subcategory>
+		<subcategory>Centro Fitness</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -96,7 +96,7 @@
 	</record>
 	<record>
 		<mainCategory>Bollette</mainCategory>
-		<subcategory>Altro Prestito di Pagamento</subcategory>
+		<subcategory>Altro Pagamento di Prestito</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -106,7 +106,7 @@
 	</record>
 	<record>
 		<mainCategory>Bollette</mainCategory>
-		<subcategory>Studente Prestito di Pagamento</subcategory>
+		<subcategory>Pagamento Prestito Studentesco</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -116,7 +116,7 @@
 	</record>
 	<record>
 		<mainCategory>Bollette</mainCategory>
-		<subcategory>Acqua / Canalizzazione</subcategory>
+		<subcategory>Acqua / Fognatura</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -159,7 +159,7 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Cenare Fuori</mainCategory>
+		<mainCategory>Mangiare Fuori</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -175,12 +175,12 @@
 	</record>
 	<record>
 		<mainCategory>Educazione</mainCategory>
-		<subcategory>Tassa</subcategory>
+		<subcategory>Tasse</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Educazione</mainCategory>
-		<subcategory>Tassa di Insegnamento</subcategory>
+		<subcategory>Tassa Scolastica</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -189,12 +189,12 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Tassa</mainCategory>
+		<mainCategory>Tasse</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Alimento</mainCategory>
+		<mainCategory>Alimentazione</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -214,12 +214,12 @@
 	</record>
 	<record>
 		<mainCategory>Sanità</mainCategory>
-		<subcategory>Dentale</subcategory>
+		<subcategory>Dentista</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Sanità</mainCategory>
-		<subcategory>Cura degli Occhi</subcategory>
+		<subcategory>Oculista</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -254,7 +254,7 @@
 	</record>
 	<record>
 		<mainCategory>Hobby / Tempo Libero</mainCategory>
-		<subcategory>Ospitando</subcategory>
+		<subcategory>Intrattenimento</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -283,7 +283,7 @@
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Rimodellamento</mainCategory>
+		<mainCategory>Miglioramenti Domestici</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -319,12 +319,12 @@
 	</record>
 	<record>
 		<mainCategory>Assicurazione</mainCategory>
-		<subcategory>Aanitaria</subcategory>
+		<subcategory>Sanitaria</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Assicurazione</mainCategory>
-		<subcategory>Aasa</subcategory>
+		<subcategory>Casa</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -333,17 +333,17 @@
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Expense Lavoro</mainCategory>
+		<mainCategory>Spese Lavorative</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Expense Lavoro</mainCategory>
-		<subcategory>Non Rimborsati</subcategory>
+		<mainCategory>Spese Lavorative</mainCategory>
+		<subcategory>Non Rimborsate</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Expense Lavoro</mainCategory>
-		<subcategory>Rimborsato</subcategory>
+		<mainCategory>Spese Lavorative</mainCategory>
+		<subcategory>Rimborsate</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -368,7 +368,7 @@
 		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
 	</record>
 	<record>
-		<mainCategory>Ipoteca / Affitto</mainCategory>
+		<mainCategory>Mutuo / Affitto</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -384,12 +384,12 @@
 	</record>
 	<record>
 		<mainCategory>Cura Animali</mainCategory>
-		<subcategory>Alimento</subcategory>
+		<subcategory>Cibo</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Cura Animali</mainCategory>
-		<subcategory>Vettovaglie</subcategory>
+		<subcategory>Forniture</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -403,7 +403,7 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Servizi / Appartenenze</mainCategory>
+		<mainCategory>Servizi / Associazioni</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -414,7 +414,7 @@
 	</record>
 	<record>
 		<mainCategory>Tasse</mainCategory>
-		<subcategory>VAT</subcategory>
+		<subcategory>IVA</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -464,7 +464,7 @@
 	</record>
 	<record>
 		<mainCategory>Proventi da Investimenti</mainCategory>
-		<subcategory>Interessi di Esenzione Fiscale</subcategory>
+		<subcategory>Interessi Esentasse</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
@@ -475,7 +475,7 @@
 	</record>
 	<record>
 		<mainCategory>Altri Proventi</mainCategory>
-		<subcategory>Mantenimento dei Figli ha Ricevuto</subcategory>
+		<subcategory>Ricevimento Mantenimento dei Figli</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
@@ -491,7 +491,7 @@
 	</record>
 	<record>
 		<mainCategory>Altri Proventi</mainCategory>
-		<subcategory>Prestito Principale Ricevuto</subcategory>
+		<subcategory>Entità del Prestito Ricevuto</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
@@ -509,35 +509,35 @@
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Salari / Stipendio</mainCategory>
+		<mainCategory>Salario / Stipendio</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Salari / Stipendio</mainCategory>
+		<mainCategory>Salario / Stipendio</mainCategory>
 		<subcategory>Bonus</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Salari / Stipendio</mainCategory>
-		<subcategory>Commissione</subcategory>
+		<mainCategory>Salario / Stipendio</mainCategory>
+		<subcategory>Provvigione</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Salari / Stipendio</mainCategory>
-		<subcategory>Salario Lordo</subcategory>
-		<expense>0</expense>
-		<short>1</short>
-	</record>
-	<record>
-		<mainCategory>Salari / Stipendio</mainCategory>
-		<subcategory>Salario Netto</subcategory>
+		<mainCategory>Salario / Stipendio</mainCategory>
+		<subcategory>Retribuzione Lorda</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Salari / Stipendio</mainCategory>
-		<subcategory>Pagare gli Straordinari</subcategory>
+		<mainCategory>Salario / Stipendio</mainCategory>
+		<subcategory>Retribuzione Netta</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Salario / Stipendio</mainCategory>
+		<subcategory>Straordinari</subcategory>
 		<expense>0</expense>
 	</record>
 </records>

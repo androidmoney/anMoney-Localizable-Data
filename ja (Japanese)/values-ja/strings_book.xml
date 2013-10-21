@@ -19,7 +19,7 @@
     <string name="backup_book">バックアップ</string>
     <string name="overwrite">上書き</string>
     <string name="backup_name">バックアップ名</string>
-<!-- New --> <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+	<string name="auto_backup_name_format">^1 (^2 Auto)</string> <!-- Intentionally using the English wording -->
     <string name="restore">復元</string>
     <string name="restored">復元しました</string>
     <string name="restore_canceled">キャンセルしました</string>
@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">会計簿の選択</string>
-    <string name="select_book_to_import_into">明細をインポートする会計簿の選択</string>
     <string name="select_import_file">インポートするファイルの選択</string>
     <string name="not_specified_brackets">指定されていない></string>
     <string name="map_accounts">口座のマップ</string>
@@ -54,8 +53,7 @@
     <string name="create_payees_in_app_name_format">^1に支払先を作成</string>
     <string name="contact_account">支払先を作成する口座に連絡</string>
     <string name="select_import_mode">データ種別の選択</string>
-    <string name="select_accounts_to_export">エクスポートする口座の選択</string>
-    <string name="specify_export_file_format">エクスポートフォーマットの指定</string>
+    <string name="export_file_format">エクスポートフォーマット</string>
     <string name="mark_transactions_exported">取り引きをエクスポート済みとしてマーク</string>
     <string name="create_single_file">単一のファイルを作成</string>
     <string name="no_transactions_matched_your_selection_criteria">選択基準にマッチした取り引きは見つかりません\n\nエクスポートファイルは作成されていません</string>
@@ -110,9 +108,9 @@
     <string name="qif_csv_encoding_explanation_format">下記の言語では^1が使用されますが、金融機関によっては^2を選ぶ方が適切な場合もあります。\n\nリストにない言語では^2を選びます</string>
     <string name="credits_legal">クレジット&amp;法律</string>
     <string name="contact_and_social">問い合わせ&amp;ソーシャル</string>
-<!-- New --> <string name="follow_us">Follow us</string>
-<!-- New --> <string name="add_us_to_circle">Add us to your circles and +1 us</string>
-<!-- New --> <string name="become_a_fan">Become a fan</string>
+	<string name="follow_us">Follow us</string> <!-- Intentionally using the English wording -->
+	<string name="add_us_to_circle">Add us to your circles and +1 us</string> <!-- Intentionally using the English wording -->
+	<string name="become_a_fan">Become a fan</string> <!-- Intentionally using the English wording -->
     <string name="haptic_feedback">バイブレーション</string>
     <string name="haptic_feedback_description">選択した場合、タップ時に振動する</string>
 	<string name="default_book_name">私の会計簿</string>
@@ -143,11 +141,9 @@
         <item><b>QIF</b>フォーマットのみサポートされています（Microsoft® MoneyやQuicken®などパーソナルファイナンスソフトウェアからデータを転送するために使用されます）</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>使用する分類やカテゴリーによってはMicrosoft® Moneyでしか読み込めない場合があります</item>
-        <item><b>QIF</b>形式をサポートするすべてのアプリケーションで読み込み可能です</item>
-        <item>スプレッドシートアプリケーション（Microsoft® ExcelやGoogle™ Docsなど）で読み込むことができます。先頭行はそれぞれの取り引きのヘッダーになります。分割された取り引きはそれぞれ別の行となります</item>
-    </string-array>
+    <string name="qif_ms_money_description">使用する分類やカテゴリーによってはMicrosoft Moneyでしか読み込めない場合があります</string>
+	<string name="qif_generic_description"><b>QIF</b>形式をサポートするすべてのアプリケーションで読み込み可能です</string>
+    <string name="csv_description">スプレッドシートアプリケーション（Microsoft® ExcelやGoogle™ Docsなど）で読み込むことができます。先頭行はそれぞれの取り引きのヘッダーになります</string>
 
     <string name="import_file_confirm_format">^1をインポートしますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">

@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">次の取り引きに移動</string>
 	<string name="remain_on_this_occurrence_format">入力金額が^1より少なければ、現取り引きに留まる</string>	
 	<string name="edit_recurring">自動継続の編集</string>
+	<string name="edit_occurrence">取り引きの編集</string>
 	<string name="entire_series">シリーズ全体</string>
 	<string name="edit_template_warning">次回以降の取り引きで変更の加えられているものがあります。\n\nシリーズを編集するとこれらの変更は破棄されます</string>
 	<string name="delete_recurring">自動継続の削除</string>
@@ -47,7 +48,8 @@
 	<string name="fixed">固定</string>
 	<string name="estimated">予想</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">次回</string>
+	<string name="upcoming_upper">次回</string>
+	<string name="upcoming_lower">@string/upcoming_upper</string>
 	<string name="no_upcoming">次回の請求／入金はありません</string>
 	<string name="no_upcoming_bills">次回の請求はありません</string>
 	<string name="no_upcoming_deposits">次回の入金はありません</string>

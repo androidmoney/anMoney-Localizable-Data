@@ -4,9 +4,10 @@
     <string name="split_canceled">Rozdělení zrušeno</string>
     <string name="new_split">Nové rozdělení</string>
     <string name="edit_split">Upravit rozdělení</string>
-    <string name="edit_splits">Změna rozdělení</string>
+    <string name="edit_splits">Upravit rozdělí</string>
     <string name="delete_split">Odstranit rozdělení</string>
-	<string name="sum_of_splits">Součet rozdělení</string>
+<!-- New --> <string name="export_splits">Exportovat rozdělí</string>
+    <string name="sum_of_splits">Součet rozdělení</string>
 	<string name="unassigned">Nepřiřazeno</string>
 	<string name="transaction_total">Součet transakcí</string>
     <string name="go_back_to_edit">Návrat k editaci rozdělení</string>

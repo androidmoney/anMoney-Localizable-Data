@@ -17,6 +17,7 @@
 	<string name="move_to_next_occurrence">Перейти к следующему повтору</string>
 	<string name="remain_on_this_occurrence_format">Остаться в текущем повторе, если сумма менее ^1</string>	    	    	
 	<string name="edit_recurring">Изменить операцию</string>
+	<string name="edit_occurrence">@string/edit_recurring</string>
 	<string name="entire_series">Всю серию</string>
     <string name="edit_template_warning">В серии есть изменённые операции.\n\nИзменение серии приведет к отмене изменений операций</string>
 	<string name="delete_recurring">Удалить операцию</string>
@@ -47,8 +48,9 @@
 	<string name="fixed">Точная</string>
 	<string name="estimated">Приблизительная</string>
 	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming">Предстоящие</string>
-    <string name="no_upcoming">Нет предстоящих операций</string>
+	<string name="upcoming_upper">Предстоящие</string>
+	<string name="upcoming_lower">предстоящие</string>
+	<string name="no_upcoming">Нет предстоящих операций</string>
 	<string name="no_upcoming_bills">Нет предстоящих платежей</string>
 	<string name="no_upcoming_deposits">Нет предстоящих пополнений</string>
     <string name="enter_automatically">Записать в журнал автоматически</string>

@@ -14,7 +14,8 @@
 	<string name="default_name_format">^1 Nr. ^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-	<string name="plus_format">^1+</string>
+	<string name="plus_after_format">^1+</string>
+	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
@@ -68,8 +69,8 @@
 	<string name="combined">Kombiniert</string>
 	<string name="copy_to_clipboard">In die Zischenabkage kopieren</string>
 	<string name="set">OK</string>
-<!-- New --> <string name="share">Teilen</string>
-<!-- New --> <string name="share_canceled">Teilen abgebrochen</string>
+	<string name="share">Teilen</string>
+	<string name="share_canceled">Teilen abgebrochen</string>
 	<string name="create_in_app_name_format">Erstelle in ^1</string>
 	<string name="pick_from_app_name_format">Wähle von ^1</string>
 	<string name="do_not_ask_again">Bitte nicht mehr fragen</string>

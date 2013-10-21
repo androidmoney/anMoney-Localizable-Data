@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Označi knjižicu</string>
-    <string name="select_book_to_import_into">Označi knjižicu za uvoz tvrdnje</string>
     <string name="select_import_file">Označi datoteku(e) ua uvoz</string>
     <string name="not_specified_brackets">&lt;Nije određeno></string>
     <string name="map_accounts">Upari račune</string>
@@ -54,9 +53,9 @@
     <string name="create_payees_in_app_name_format">Stvori platitelja u ^1</string>
     <string name="contact_account">Kontaktiraj račun da stvoris platitelja u</string>
     <string name="select_import_mode">Označi mod za uvoz</string>
-    <string name="select_accounts_to_export">Označi račune za izvoz</string>
-    <string name="specify_export_file_format">Označi format datoteke za izvoz</string>
+    <string name="export_file_format">Format datoteke za izvoz</string>
     <string name="mark_transactions_exported">Označi traansakcije kao izvežene</string>
+<!-- New --> <string name="export_splits">Export splits</string>
     <string name="no_transactions_matched_your_selection_criteria">Nema transakcija koje odgovaraju označenim kriterijima.\n\nIzvozna datoteka nije kreirana</string>
 <!-- New --> <string name="import_folder">Import folder</string>
 	<string name="export_folder">Izvozni direktorij</string>
@@ -137,11 +136,9 @@
         <item>Upotrebljava se za prijenos podataka iz drugog softwera kao Microsoft® Money or Quicken®. Samo <b>QIF</b> format je podržan</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Ovisno o klasifikaciji i kategoriji koja se koristi može biti samo čitljivo sa Microsoft® Money</item>
-        <item>Čitljivo sa svim aplikacijama koje podržavaju <b>QIF</b></item>
-        <item>Čitljivo sa tabličnim aplikacijama kao Microsoft® Excel ili Google™ Docs. Prvi red sadrži imena kolona, a iza njih transakcija. Svaki odvojak je novi red</item>
-    </string-array>
+    <string name="qif_ms_money_description">Ovisno o klasifikaciji i kategoriji koja se koristi može biti samo čitljivo sa Microsoft Money</string>
+	<string name="qif_generic_description">Čitljivo sa svim aplikacijama koje podržavaju <b>QIF</b></string>
+    <string name="csv_description">Čitljivo sa tabličnim aplikacijama kao Microsoft® Excel ili Google™ Docs. Prvi red sadrži imena kolona, a iza njih transakcija. Svaki odvojak je novi red</string>
 
     <string name="import_file_confirm_format">Želite li uvesti ^1</string>
 	<string-array name="import_files_confirm_format_plurals">

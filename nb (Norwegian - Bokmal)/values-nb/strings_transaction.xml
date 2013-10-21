@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-
-    
 	<string name="transactions">Transaksjoner</string>
 	<string name="view_transactions">Vis transaksjoner</string>
 	<string name="new_transaction">Ny transaksjon</string>
@@ -61,13 +59,15 @@
 	<string name="add_canceled">Avbrøt tillegging</string>
 	<string name="accept_and_edit">Godta &amp; rediger</string>
 	<string name="add_and_close">Legg til &amp; lukk</string>
-	<string name="duplicate_in_current_account">Dupliser i nåværende konto</string>
 	<string name="duplicate_copy_move">Dupliser, kopier eller flytt</string>
-	<string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+
+	<string name="duplicate_transaction">Dupliser transaksjon</string>
+	<string name="duplicate_in_current_account">Dupliser i nåværende konto</string>
 	<string name="copy_to_another_account">Kopier til en annen konto</string>
 	<string name="move_to_another_account">Flytt til en annen konto</string>
 	<string name="copy_transaction">Kopier transaksjon</string>
 	<string name="move_transaction">Flytt transaksjon</string>
+	<string name="move_transactions">Flytt transaksjoner</string>
 	<string name="do_not_duplicate_notes">Ikke dupliser notatene</string>
 	<string name="account_not_found">Konto ikke funnet</string>
 	<string name="cannot_transfer_to_itself">Kan ikke overføre fra og til samme konto</string>
@@ -89,15 +89,15 @@
 	<string name="transaction_modified_reconciled_message">En avstemt transaksjon vil bli endret</string>
 	<string name="transaction_modified_related_reconciled_message">Transaksjonens andre side, som er avstemt, vil bli endret</string>
 	<string name="records_may_differ">Dette kan skape avvik mellom regnskapet ditt og den finansielle institusjonen</string>
-	<string name="missing_category_warning_message_format">Kategorisering av transaksjoner anbefales på det sterkeste, ettersom utgiftsrapporter ellers kan bli unøyaktige.\n\nVelg ^1 for å lagre transaksjonen uten en kategori, eller ^2 for å gå tilbake til redigering av transaksjonen.</string>
-	<string name="expense_category_given_for_income_message_format">En utgiftskategori er valgt for ^1.\n\nVelg ^2 for å beholde kategorien, eller ^3 for å gå tilbake til redigering av transaksjonen.</string>
-	<string name="income_category_given_for_expense_message_format">En inntektskategori er spesifisert for ^1.\n\nVelg ^2 for å beholde kategorien, eller ^3 for å gå tilbake til redigering av transaksjonen.</string>
+	<string name="missing_category_warning_message_format">Kategorisering av transaksjoner anbefales på det sterkeste, ettersom utgiftsrapporter ellers kan bli unøyaktige.\n\nVelg ^1 for å lagre transaksjonen uten en kategori, eller ^2 for å gå tilbake til redigering av transaksjonen</string>
+	<string name="expense_category_given_for_income_message_format">En utgiftskategori er valgt for ^1.\n\nVelg ^2 for å beholde kategorien, eller ^3 for å gå tilbake til redigering av transaksjonen</string>
+	<string name="income_category_given_for_expense_message_format">En inntektskategori er spesifisert for ^1.\n\nVelg ^2 for å beholde kategorien, eller ^3 for å gå tilbake til redigering av transaksjonen</string>
 	<string name="payee_not_found_format">Mottakeren ^1 ble ikke funnet</string>
 	<string name="payer_not_found_format">Betaler ^1 ble ikke funnet</string>
 	<string name="would_you_like_to_create_it">Ønsker du å opprette den</string>
 	<string name="amount_zero_warning_message_format">Transaksjonsbeløpet er null.\n\nVelg ^1 for å la beløpet være null, eller ^2 for å ugyldiggjøre transaksjonen</string>
-	<string name="sum_of_splits_warning_message_format">Summen av delene stemmer ikke med transaksjonsummen.\n\nVelg ^1 for å redigere delene.</string>
-	<string name="duplicate_number_message_format">Sjekknummeret er allerede i bruk av en transaksjon datert ^1.\n\nVelg ^2 for å gjenbruke sjekknummeret, eller ^3 for å redigere transaksjonen.</string>
+	<string name="sum_of_splits_warning_message_format">Summen av delene stemmer ikke med transaksjonsummen.\n\nVelg ^1 for å redigere delene</string>
+	<string name="duplicate_number_message_format">Sjekknummeret er allerede i bruk av en transaksjon datert ^1.\n\nVelg ^2 for å gjenbruke sjekknummeret, eller ^3 for å redigere transaksjonen</string>
 	<string name="leave_zero">Behold 0</string>
 	<string name="credits">Kreditter</string>
 	<string name="no_credits">Ingen kreditter</string>
@@ -118,6 +118,7 @@
 	<string name="next_check_number">Neste sjekknummer</string>
 	<string name="cleared_transactions_color">Farge for klarerte transaksjoner</string>
 	<string name="reconciled_transactions_color">Farge for avstemte transaksjoner</string>
+<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
 	<string name="text_filter">Tekstfilter</string>
 	<string name="profit_and_loss_statement">Inntekt- &amp; tapsutskrift</string>
 	<string name="transaction_type">Transaksjonstype</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<string name="appwidget_warning_format">Det ser ut til at du har ^1 for øyeblikket installert på minnekortet.\n\nDette kan forårsake at hjemmeskjerm-elementet forsvinner, derfor anbefales det at du flytter ^1 tilbake fra minnekortet til enheten, om du ønsker å bruke hjemmeskjerm-elementene.</string>
+	<string name="appwidget_warning_format">Det ser ut til at du har ^1 for øyeblikket installert på minnekortet.\n\nDette kan forårsake at hjemmeskjerm-elementet forsvinner, derfor anbefales det at du flytter ^1 tilbake fra minnekortet til enheten, om du ønsker å bruke hjemmeskjerm-elementene</string>
 
 	<string name="no_books_warning">Opprett minst én bok før du plasserer småprogrammet</string>
 	<string name="no_books_and_accounts_warning">Opprett minst én bok og en konto før du plasserer småprogrammet</string>

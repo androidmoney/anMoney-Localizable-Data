@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">புத்தகத்தை தெரிவுசெய்</string>
-    <string name="select_book_to_import_into">அறிக்கையை இறக்குமதி செய்வதற்கான புத்தகத்தை தெரிவுசெய்</string>
     <string name="select_import_file">இறக்குமதி செய்வதற்கான கோப்பு(கள்) தெரிவுசெய்</string>
     <string name="not_specified_brackets">&lt;குறிப்பிடப்படில்லை></string>
     <string name="map_accounts">கணக்குகள் ஒப்பீடு</string>
@@ -54,8 +53,7 @@
     <string name="create_payees_in_app_name_format">^1 ல் பெறுவோனை உருவாக்கு</string>
     <string name="contact_account">கணக்கில் பெறுவோனை உருவாக்குவதற்கு தொடர்புகொள்</string>
     <string name="select_import_mode">இறக்குமதி முறையை தேர்வுசெய்</string>
-    <string name="select_accounts_to_export">ஏற்றுமதிக்கு கணக்கு(கள்) தேர்வுசெய்</string>
-    <string name="specify_export_file_format">ஏற்றுமதி கோப்பின் அமைப்பை குறிப்பிடு</string>
+    <string name="export_file_format">ஏற்றுமதி கோப்பின் அமைப்பை</string>
     <string name="mark_transactions_exported">பரிவர்த்தனைகளை ஏற்றுமதியானதாக குறியிடு</string>
     <string name="create_single_file">ஒரு தனி கோப்பை உருவாக்கு</string>
     <string name="no_transactions_matched_your_selection_criteria">நீங்கள் தேர்ந்தெடுத்த திட்ட அளவையில் எந்த பரிவர்த்தனைகளும் பொருந்தவில்லை.\n\nஏற்றுமதி கோப்பு(கள்) உருவாக்கப்படவில்லை</string>
@@ -139,15 +137,13 @@
     </string-array>
 
 	<string-array name="import_mode_description">
-        <item>பல்வேறு நிதி நிறுவனங்களில் இருந்து பதிவிறக்க அறிக்கைகள் பயன்படுத்தப்படும்,அமெரிக்கன் எக்ஸ்பிரஸின் மாத இறுதி அறிக்கையை போல.<b>QIF</b> மேலும்<b>OFX/QFX/OFS</b> இரண்டு உருவமைப்புகள் ஆதரவளிக்கும். இறக்குமதி கோப்பு(களி)ல் கணக்குகளுக்கு இடையிலான பரிமாற்றங்கள் அடங்கியிருக்காது</item>
-        <item>மற்றொரு தனிப்பட்ட நிதி பயன்பாட்டு செயலியிலிருந்து தரவு பரிமாற்றத்திற்காக உபயோகப்படுவது, உதாரணமாக Microsoft® Money அல்லது Quicken®.<b>QIF</b> வடிவமைப்பு மட்டுமே ஆதரிக்கும்</item>
+        <item>பல்வேறு நிதி நிறுவனங்களில் இருந்து பதிவிறக்க அறிக்கைகள் பயன்படுத்தப்படும்,அமெரிக்கன் எக்ஸ்பிரஸின் மாத இறுதி அறிக்கையை போல. <b>QIF</b> மேலும்<b>OFX/QFX/OFS</b> இரண்டு உருவமைப்புகள் ஆதரவளிக்கும். இறக்குமதி கோப்பு(களி)ல் கணக்குகளுக்கு இடையிலான பரிமாற்றங்கள் அடங்கியிருக்காது</item>
+        <item>மற்றொரு தனிப்பட்ட நிதி பயன்பாட்டு செயலியிலிருந்து தரவு பரிமாற்றத்திற்காக உபயோகப்படுவது, உதாரணமாக Microsoft® Money அல்லது Quicken®. <b>QIF</b> வடிவமைப்பு மட்டுமே ஆதரிக்கும்</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>நீங்கள் உபயோகிக்கும் வகைபாடுகள் மற்றும் வகையாக்கத்தை சார்ந்து, Microsoft® Money ஆல் மட்டுமே படிக்கத்தக்கதாக இருக்கலாம்</item>
-        <item>QIF வடிவமைப்பை ஆதரிக்கும் எல்லா செயலிகளாலும் படிக்கக்கூடியது</item>
-        <item>வரிதாள் செயலிகளால் படிக்கத்தக்கது, உதாரணமாக Microsoft® Excel அல்லது Google™ Docs போன்றவை. வரிதாளின் முதல் கிடைவரி நெடுவரிசை தலைப்புகளை கொண்டிருக்கும், பின்தொடரும் கிடைவரி ஒவ்வொன்றும் ஒரு பரிவர்த்தனையை  பெற்றிருக்கும்.  ஒவ்வொரு பிளவும் தனக்கென கிடைவரியை பெற்றிருக்கும்</item>
-    </string-array>
+    <string name="qif_ms_money_description">நீங்கள் உபயோகிக்கும் வகைபாடுகள் மற்றும் வகையாக்கத்தை சார்ந்து, Microsoft Money ஆல் மட்டுமே படிக்கத்தக்கதாக இருக்கலாம்</string>
+	<string name="qif_generic_description"><b>QIF</b> வடிவமைப்பை ஆதரிக்கும் எல்லா செயலிகளாலும் படிக்கக்கூடியது</string>
+    <string name="csv_description">வரிதாள் செயலிகளால் படிக்கத்தக்கது, உதாரணமாக Microsoft® Excel அல்லது Google™ Docs போன்றவை. வரிதாளின் முதல் கிடைவரி நெடுவரிசை தலைப்புகளை கொண்டிருக்கும், பின்தொடரும் கிடைவரி ஒவ்வொன்றும் ஒரு பரிவர்த்தனையை  பெற்றிருக்கும்</string>
 
     <string name="import_file_confirm_format">^1 ஐ இறக்குமதியை நீங்கள் விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
@@ -193,7 +189,7 @@
     <string name="warn_if_no_category">எச்சரிக்கவும், வகைபாடு இல்லையென்றால்</string>
     <string name="warn_if_no_category_description">இது தேர்வானால், வகைபாடு குறிப்பிடப்படாதபோது ஒரு எச்சரிக்கை காட்சியாகும்</string>
     
-    <string name="warn_if_incorrect_category_type">எச்சரிக்கவும், தவறான வகைபாடு எனில்.</string>
+    <string name="warn_if_incorrect_category_type">எச்சரிக்கவும், தவறான வகைபாடு எனில்</string>
     <string name="warn_if_incorrect_category_type_description">இது தேர்வானால், தவறான வகைபாடு குறிப்பிடப்பட்டால் ஒரு எச்சரிக்கை காட்சியாகும்</string>
     
     <string name="modification_confirmation">மாற்றமைப்பு உறுதி செய்தல்</string>

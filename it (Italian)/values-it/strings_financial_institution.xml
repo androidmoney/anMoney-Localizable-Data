@@ -2,20 +2,20 @@
 <resources>
     <string name="financial_institution">Istituto finanziario</string>
     <string name="financial_institutions">Istituti finanziari</string>
-    <string name="financial_institution_bank_first">Prima istituti finanziari con conti bancari</string>
-    <string name="financial_institution_cash_first">Prima istituti finanziari con contanti</string>
+    <string name="financial_institution_bank_first">Istituti finanziari con conti bancari</string>
+    <string name="financial_institution_cash_first">Istituti finanziari con contanti</string>
     <string name="view_financial_institution">Visualizza istituto finanziario</string>
     <string name="edit_financial_institution">Modifica istituto finanziario</string>
-    <string name="call_financial_institution">Chiama istituto finanziario</string>
+    <string name="call_financial_institution">Contatta istituto finanziario</string>
     <string name="new_financial_institution">Nuovo istituto finanziario</string>
-    <string name="delete_financial_institution">ELimina istituto finanziario</string>
-    <string name="delete_financial_institution_warning_format">Istituto finanziario ^1 sarà eliminato e verranno rimossi tutti i conti correnti associati</string>
-    <string name="add_financial_institution_as_a_contact">Inserisci Ist. fin come contatto</string>
-    <string name="financial_institution_exists">Un istituto finanziario col lo stesso nome esiste già</string>
-    <string name="no_financial_institutions">Tu non hai nessun istituto finanziario</string>
+    <string name="delete_financial_institution">Elimina istituto finanziario</string>
+    <string name="delete_financial_institution_warning_format">Istituto finanziario ^1 verrà eliminato e rimosso definitivamente da tutti i conti</string>
+    <string name="add_financial_institution_as_a_contact">Aggiungi come contatto</string>
+    <string name="financial_institution_exists">Esiste già un istituto finanziario con lo stesso nome</string>
+    <string name="no_financial_institutions">Non hai alcun istituto finanziario</string>
     <string name="view_financial_institutions">Visualizza istituti finanziari</string>
     <string name="financial_institution_name">Nome istituto finanziario</string>
-    <string name="contact_exists">Un contatto con lo stesso nome esiste già</string>
+    <string name="contact_exists">Esiste già un contatto con lo stesso nome</string>
     <string name="link_financial_institution">Vuoi collegare questo istituto finanziario con un contatto esistente</string>    
-    <string name="no_financial_institutions_yet">Non hai ancora nessun istituto finanziario</string>
+    <string name="no_financial_institutions_yet">Non hai ancora alcun istituto finanziario</string>
 </resources>

@@ -59,13 +59,15 @@
     <string name="add_canceled">Adăugare anulată</string>
     <string name="accept_and_edit">Acceptă &amp; Editează</string>
     <string name="add_and_close">Adaugă &amp; Închide</string>
-    <string name="duplicate_in_current_account">Fă un duplicat în contul curent</string>
     <string name="duplicate_copy_move">Fă un duplicat, copiază sau mută</string>
-    <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+
+    <string name="duplicate_transaction">Fă un duplicat tranzacţia</string>
+    <string name="duplicate_in_current_account">Fă un duplicat în contul curent</string>
     <string name="copy_to_another_account">Copiază în alt cont</string>
     <string name="move_to_another_account">Mută în alt cont</string>
     <string name="copy_transaction">Copiază tranzacţia</string>
     <string name="move_transaction">Mută tranzacţia</string>
+<!-- New --> <string name="move_transactions">Mută tranzacţiile</string>
     <string name="do_not_duplicate_notes">Nu duplica notele</string>
     <string name="account_not_found">Contul nu a fost găsit</string>
     <string name="cannot_transfer_to_itself">Nu poate fi transferat în el însuşi</string>
@@ -116,6 +118,7 @@
     <string name="next_check_number">Următorul număr de cec</string>
     <string name="cleared_transactions_color">Culoare tranzacţii soldate</string>
     <string name="reconciled_transactions_color">Culoare tranzacţii reconciliate</string>
+<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
     <string name="text_filter">Filtru text</string>
     <string name="profit_and_loss_statement">Extras de cont Profit &amp; Pierdere</string>
 	<string name="transaction_type">Tip tranzacţie</string>

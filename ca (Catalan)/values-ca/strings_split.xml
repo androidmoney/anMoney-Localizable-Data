@@ -6,7 +6,8 @@
     <string name="edit_split">Editar divisió</string>
     <string name="edit_splits">Editar divisions</string>
     <string name="delete_split">Esborrar divisió</string>
-	<string name="sum_of_splits">Suma de les divisions</string>
+<!-- New --> <string name="export_splits">Exportar divisions</string>
+    <string name="sum_of_splits">Suma de les divisions</string>
 	<string name="unassigned">No assignat</string>
 	<string name="transaction_total">Total de la transacció</string>
     <string name="go_back_to_edit">Tornar a l’edició de les divisions</string>

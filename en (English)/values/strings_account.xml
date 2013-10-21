@@ -120,7 +120,8 @@
 	<string name="balance_as_of_today">Balance as of today</string>
 	<string name="cleared_total">Cleared total</string>
 	<string name="reconciled_total">Reconciled total</string>
-    <string name="default_cash_account_name">My Daily Cash</string>
+	<string name="filtered_total">Filtered total</string>
+	<string name="default_cash_account_name">My Daily Cash</string>
     <string name="default_checking_account_name">My Current Account</string>
     <string name="default_savings_account_name">My Savings Account</string>
     <string name="default_credit_account_name">My Credit Card</string>
@@ -306,7 +307,12 @@
 		<item>Next 3 months</item>
 		<item>Next 6 months</item>
 		<item>Next 12 months</item>
+		<item>Up to the next 30 days</item>
+		<item>Up to the next 3 months</item>
+		<item>Up to the next 6 months</item>
+		<item>Up to the next 12 months</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>all dates</item>
@@ -321,11 +327,16 @@
 		<item>the last 3 months</item>
 		<item>the last 6 months</item>
 		<item>the last 12 months</item>
+		<item>the next 30 days</item>
+		<item>the next 3 months</item>
+		<item>the next 6 months</item>
+		<item>the next 12 months</item>
+		<item>+ 30 days</item>
+		<item>+ 3 months</item>
+		<item>+ 6 months</item>
+		<item>+ 12 months</item>
 		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+		<item>today</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

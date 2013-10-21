@@ -117,7 +117,8 @@
 	<string name="balance_as_of_today">Balanţa pentru azi</string>
 	<string name="cleared_total">Total soldat</string>
 	<string name="reconciled_total">Total reconciliat</string>
-    <string name="default_cash_account_name">Cash-ul meu zilnic</string>
+<!-- New --> <string name="filtered_total">Total filtrat</string>
+	<string name="default_cash_account_name">Cash-ul meu zilnic</string>
     <string name="default_checking_account_name">Contul meu curent</string>
     <string name="default_savings_account_name">Contul meu de economii</string>
     <string name="default_credit_account_name">Cardul meu de credit</string>
@@ -303,7 +304,12 @@
 		<item>Viitoarele 3 luni</item>
 		<item>Viitoarele 6 luni</item>
 		<item>Viitoarele 12 luni</item>
+<!-- New --> <item>Up to the next 30 days</item>
+<!-- New --> <item>Up to the next 3 months</item>
+<!-- New --> <item>Up to the next 6 months</item>
+<!-- New --> <item>Up to the next 12 months</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>toate datele</item>
@@ -318,11 +324,16 @@
 		<item>ultimile 3 luni</item>
 		<item>ultimile 6 luni</item>
 		<item>ultimile 12 luni</item>
+		<item>viitoarele 30 zile</item>
+		<item>viitoarele 3 luni</item>
+		<item>viitoarele 6 luni</item>
+		<item>viitoarele 12 luni</item>
+<!-- New --> <item>up to the next 30 days</item>
+<!-- New --> <item>up to the next 3 months</item>
+<!-- New --> <item>up to the next 6 months</item>
+<!-- New --> <item>up to the next 12 months</item>
 		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>today</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

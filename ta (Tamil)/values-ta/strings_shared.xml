@@ -14,7 +14,8 @@
 	<string name="default_name_format">^1 #^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-	<string name="plus_format">^1+</string>
+	<string name="plus_after_format">^1+</string>
+	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol">*</string>
     <string name="quarter_format">காலாண்டு^1 ^2</string> <!-- "Q1 2013" -->

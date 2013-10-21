@@ -40,7 +40,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Select book</string>
-    <string name="select_book_to_import_into">Select book to import statement into</string>
     <string name="select_import_file">Select file(s) to import</string>
     <string name="not_specified_brackets">&lt;Not specified></string>
     <string name="map_accounts">Map accounts</string>
@@ -56,8 +55,7 @@
     <string name="create_payees_in_app_name_format">Create payees in ^1</string>
     <string name="contact_account">Contact account to create payees in</string> <!-- This is NOT a bank account, but the kind of account you use with e-mail, like a Google Account -->
     <string name="select_import_mode">Select import mode</string>
-    <string name="select_accounts_to_export">Select account(s) to export</string>
-    <string name="specify_export_file_format">Specify export file format</string>
+    <string name="export_file_format">Export file format</string>
     <string name="mark_transactions_exported">Mark transactions as exported</string>
     <string name="create_single_file">Create a single file</string>
     <string name="no_transactions_matched_your_selection_criteria">No transactions matched your selection criteria.\n\nNo export file(s) have been created</string>
@@ -145,11 +143,9 @@
         <item>Used for transferring data from another personal finance software, such as Microsoft® Money or Quicken®. Only the <b>QIF</b> format is supported</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Depending on the classifications and categories you use, may only be readable by Microsoft® Money</item>
-        <item>Readable by all applications supporting the <b>QIF</b> format</item>
-        <item>Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction. Each split gets its own row</item>
-    </string-array>
+    <string name="qif_ms_money_description">Depending on the classifications and categories you use, may only be readable by Microsoft Money</string>
+	<string name="qif_generic_description">Readable by all applications supporting the <b>QIF</b> format</string>
+    <string name="csv_description">Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction</string>
 
     <string name="import_file_confirm_format">Do you want to import ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">

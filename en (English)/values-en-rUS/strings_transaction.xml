@@ -12,4 +12,5 @@
     <string name="next_check_number">Next check number</string>
 	<string name="cleared_transactions_color">Cleared transactions color</string>
 	<string name="reconciled_transactions_color">Reconciled transactions color</string>
+	<string name="upcoming_transactions_color">Upcoming transactions color</string>
 </resources>

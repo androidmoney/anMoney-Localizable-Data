@@ -59,13 +59,15 @@
     <string name="add_canceled">சேர்த்தல் இரத்துசெய்யப்பட்டது</string>
     <string name="accept_and_edit">ஏற்க &amp; திருத்த</string>
     <string name="add_and_close">சேர்க்க &amp; முடிக்க</string>
-    <string name="duplicate_in_current_account">நடப்பு கணக்கில் மறுநகலெடு</string>
     <string name="duplicate_copy_move">மறுநகலெடு, நகல் அல்லது நகர்த்து</string>
-    <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+
+    <string name="duplicate_transaction">பரிவர்த்தனையை மறுநகலெடு</string>
+    <string name="duplicate_in_current_account">நடப்பு கணக்கில் மறுநகலெடு</string>
     <string name="copy_to_another_account">மற்றொரு கணக்கிற்கு நகலெடு</string>
     <string name="move_to_another_account">மற்றொரு கணக்கிற்கு நகர்த்து</string>
     <string name="copy_transaction">பரிவர்த்தனையை நகலெடு</string>
     <string name="move_transaction">பரிவர்த்தனையை நகர்த்து</string>
+    <string name="move_transactions">பரிவர்த்தனைகள் நகர்த்து</string>
     <string name="do_not_duplicate_notes">குறிப்புகளை மறுநகலெடுக்க வேண்டாம்</string>
     <string name="account_not_found">கணக்கு தென்படவில்லை</string>
     <string name="cannot_transfer_to_itself">தானே பரிமாறிக்கொள்ள முடியாது</string>
@@ -116,6 +118,7 @@
     <string name="next_check_number">அடுத்த காசோலை எண்</string>
     <string name="cleared_transactions_color">தெளிவாக்கப்பட்ட பரிவர்த்தனைகளின் நிறம்</string> <!-- As in "color of cleared transactions" -->
     <string name="reconciled_transactions_color">சமரசமாக்கப்பட்ட பரிவர்த்தனைகளின் நிறம்</string> <!-- As in "color of teconciled transactions" -->
+<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
     <string name="text_filter">உரை வடிகட்டி</string>
     <string name="profit_and_loss_statement">லாபம் &amp; நஷ்டம் அறிக்கை</string>
 	<string name="transaction_type">பரிவர்த்தனை வகை</string>

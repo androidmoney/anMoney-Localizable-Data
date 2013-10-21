@@ -23,5 +23,5 @@
 
     <string name="app_name_report">anMoney — Bericht</string>
 
-<!-- New --> <string name="dash_clock_extension_description">Zeigt überfällige Rechnungen oder Ablagerungen, wenn überhaupt.</string>
+	<string name="dash_clock_extension_description">Zeigt überfällige Rechnungen oder Einlagen, wenn vorhanden.</string>
 </resources>

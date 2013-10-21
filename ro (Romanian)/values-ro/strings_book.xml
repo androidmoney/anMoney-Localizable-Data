@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Selectează registrul</string>
-    <string name="select_book_to_import_into">Selectează registrul în care va fi importată declaraţia</string>
     <string name="select_import_file">Selectează fişierul (ele) de importat</string>
 <!-- New --> <string name="not_specified_brackets">&lt;Not specified></string>
     <string name="map_accounts">Harta conturilor</string>
@@ -54,8 +53,7 @@
     <string name="create_payees_in_app_name_format">Creează plăţi în ^1</string>
     <string name="contact_account">Contul contactului pentru care se creează plata</string>
     <string name="select_import_mode">Selectează modul de import</string>
-    <string name="select_accounts_to_export">Selectează contul(rile) pentru export</string>
-    <string name="specify_export_file_format">Specifică formatul fişierului exportat</string>
+    <string name="export_file_format">Formatul fişierului exportat</string>
     <string name="mark_transactions_exported">Marchează tranzacţiile ca exportate</string>
     <string name="create_single_file">Creează un singur fişier</string>
     <string name="no_transactions_matched_your_selection_criteria">Nicio tranzacţie nu se potriveşte criteriului dumneavoastră de selecşie.\n\nNiciun fişier(e) exportat nu a fost creat</string>
@@ -143,11 +141,9 @@
         <item>Folosit pentru transferul datelor din alt program financiar, cum ar fi Microsoft® Money sau Quicken®. Doar formatul <b>QIF</b> este suportat</item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Funcţie de clasificarea şi categoriile pe care le folosiţi, pot fi citite doar de Microsoft® Money</item>
-        <item>Pot fi citite de toate aplicațiile care suportă formatul <b>QIF</b></item>
-        <item>Pot fi citite de aplicații tip calcul tabelar, cum ar fi Microsoft® Excel sau Google™ Docs. Primul rînd exportat conţine titlul coloanelor, urmat de un rînd pentru fiecare tranzacţie. Fiecare împărţire primeşte propriul rînd</item>
-    </string-array>
+    <string name="qif_ms_money_description">Funcţie de clasificarea şi categoriile pe care le folosiţi, pot fi citite doar de Microsoft Money</string>
+	<string name="qif_generic_description">Pot fi citite de toate aplicațiile care suportă formatul <b>QIF</b></string>
+    <string name="csv_description">Pot fi citite de aplicații tip calcul tabelar, cum ar fi Microsoft® Excel sau Google™ Docs. Primul rînd exportat conţine titlul coloanelor, urmat de un rînd pentru fiecare tranzacţie</string>
 
     <string name="import_file_confirm_format">Vreţi să importaţi ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">

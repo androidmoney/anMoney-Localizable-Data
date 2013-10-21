@@ -14,7 +14,8 @@
 	<string name="default_name_format">^1 No. ^2</string>
 	<string name="percent_sign">%</string>
 	<string name="percentage_format">^1%</string>
-	<string name="plus_format">^1+</string>
+	<string name="plus_after_format">^1+</string>
+	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
 	<string name="quarter_format">Q^1 ^2</string>
@@ -113,7 +114,7 @@
 	<string name="maybe_later">Kanskje senere</string>
 	<string name="unexpected_error_warning">En uforventet feil har oppstått og tvunget anMoney til å stoppe.\n\nHjelp oss løse dette ved å sende en failrapport via e-post til oss. Du vil få muligheten til å redigere e-posten før den sendes. \n\nTakk for hjelpen din!</string>
 	<string name="unexpected_error_notification_ticker">Uforventet feil. Send en feilmeldingsrapport.</string>
-	<string name="unexpected_error_notification_title">anMoney har stoppet</string>
+	<string name="unexpected_error_notification_title">anMoney har stoppet.</string>
 	<string name="unexpected_error_notification_text">Trykk her for å sende en feilrapport.</string>
 	<string name="unexpected_error_comment">Hvis du ønsker kan du beskrive hva du holdte på med når problemet oppstod</string>
 	<string name="archiving">Arkivering</string>

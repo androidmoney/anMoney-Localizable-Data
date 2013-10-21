@@ -5,7 +5,7 @@
 	<string name="new_book_name">Name der neuen Mappe</string>
 	<string name="rename_book">Mappe umbenennen</string>
 	<string name="delete_book">Mappe löschen</string>
-<!-- New --> <string name="share_book">Mappe teilen</string>
+	<string name="share_book">Mappe teilen</string>
     <string name="book_delete_warning_short_format">Mappe ^1 wird gelöscht</string>
     <string name="all_data_will_be_lost">Alle Daten in der Mappe gehen unwiderbringlich verloren, falls kein Backup angelegt wurde</string>
 	<string name="import_into_book">Import in die Mappe</string>
@@ -38,7 +38,6 @@
         <item/> <!-- Not used -->
 	</string-array>
 	<string name="select_book">Mappe auswählen</string>
-	<string name="select_book_to_import_into">Mappe für den Import der Auszüge auswählen</string>
 	<string name="select_import_file">Datei(en) für den Import auswählen</string>
 	<string name="not_specified_brackets">&lt;Nicht festgelegt></string>
 	<string name="map_accounts">Konten zuordnen</string>
@@ -54,8 +53,7 @@
 	<string name="create_payees_in_app_name_format">Empfänger anlegen in ^1</string>
 	<string name="contact_account">Empfänger aus Adressbuch anlegen</string>
 	<string name="select_import_mode">Import-Art auswählen</string>
-	<string name="select_accounts_to_export">Konten für Export auswählen</string>
-	<string name="specify_export_file_format">Export-Format festlegen</string>
+	<string name="export_file_format">Export-Format</string>
 	<string name="mark_transactions_exported">Transaktionen als exportiert markieren</string>
 	<string name="create_single_file">Eine einzelne Datei erstellen</string>
 	<string name="no_transactions_matched_your_selection_criteria">Keine Transaktion entspricht Ihren Auswahlkriterien.\n\nEs sind keine Export-Dateien erstellt worden</string>
@@ -91,7 +89,7 @@
 	<string name="password_disclaimer">Bitte lesen Sie den Haftungsausschluss und aktivieren Sie die Check-Box am Ende.\n\nBeachten Sie, dass der Passwortschutz als Gegenmaßnahme für „neugierige Augen“ gedacht ist. Wegen technischer Beschränkungen Ihres Gerätes kann kein absoluter Schutz gewährleistet werden. Jemand ist fortgeschrittenen Kenntnissen könnte in der Lage sein, sich  trotz Passworts Zutritt zu Ihren Daten zu verschaffen.\n\nEs wird ausdrücklich empfohlen, Ihr Gerät zusätzlich mit einem Zugangscode oder einer PIN abzusichern</string>
 	<string name="i_understand_the_limitations">Ich habe diese Einschränkungen verstanden</string>
 	<string name="set_password_now_part1">Passwort jetzt setzen</string>
-<!-- New --> <string name="set_password_now_part2_format">Sogar wenn Sie mit ^1 antworten, haben Sie jederzeit die Möglichkeit, ein Passwort zu vergeben. Drücken Sie dazu lange auf den Namen der Mappe und drücken Sie erneut ^2</string>
+	<string name="set_password_now_part2_format">Auch wenn Sie mit ^1 antworten, haben Sie jederzeit die Möglichkeit, ein Passwort zu vergeben. Drücken Sie dazu lange auf den Namen der Mappe und anschließend auf ^2</string>
 	<string name="folder_name_format">Ordnername (^1 für Unterordner benutzen)</string>
 	<string name="no_backup_files">Keine Backup-Dateien gefunden</string>
 	<string name="no_backup_files_new_instructions">Eine neue Mappe kann nicht durch Importieren angelegt werden. Bitte legen Sie zuerst eine neue Mappe selbst an und importieren danach</string>
@@ -143,11 +141,9 @@
 		<item>Für Transfers von anderer Finanz-Software, wie z.B. Microsoft® Money oder Quicken®. Nur das <b>QIF</b>-Format wird unterstützt</item>
 	</string-array>
 
-	<string-array name="book_export_file_type_description">
-		<item>Je nachdem, welche Klassen oder Kategorien sie verwenden, kann es u.U. nur von Microsoft® Money gelesen werden</item>
-		<item>Lesbar von allen Anwendungen, die das <b>QIF-Format</b> unterstützen</item>
-		<item>Lesbar durch Tabellenkalkulations-Programme, wie z.B. Microsoft® Excel or Google Docs. Die erste exportierte Zeile enthält den Header (Feldnamen), gefolgt von einer Zeile für jede Transaktion. Jede Splitbuchung hat eine eigene Zeile</item>
-	</string-array>
+    <string name="qif_ms_money_description">Je nachdem, welche Klassen oder Kategorien sie verwenden, kann es u.U. nur von Microsoft Money gelesen werden</string>
+	<string name="qif_generic_description">Lesbar von allen Anwendungen, die das <b>QIF-Format</b> unterstützen</string>
+    <string name="csv_description">Lesbar durch Tabellenkalkulations-Programme, wie z.B. Microsoft® Excel or Google Docs. Die erste exportierte Zeile enthält den Header (Feldnamen), gefolgt von einer Zeile für jede Transaktion</string>
 
     <string name="import_file_confirm_format">Möchten Sie importieren ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
@@ -168,7 +164,7 @@
 	</string-array>
 
 	<string name="base_currency">Grundwährung</string>
-<!-- New --> <string name="space_between_symbol_and_amount">Raum zwischen dem Symbol und dem Betrag</string>
+	<string name="space_between_symbol_and_amount">Abstand zwischen Währungssymbol und Betrag</string>
 	
 	<string name="password_time_out_period">Passwort wird aktiv nach</string>
 	<string-array name="n_seconds_format_plurals">
@@ -274,10 +270,10 @@
         <item>@string/comma</item>
     </string-array>
 
-<!-- New --> <string name="csv_delimiter">CSV delimiter</string>
+	<string name="csv_delimiter">CSV Trennzeichen</string>
 	<string-array name="csv_delimiters">
 		<item>@string/comma</item>
-<!-- New -->  <item>Semikolon</item>
+		<item>Strichpunkt</item>
     </string-array>
 
 	<string name="qif_csv_encoding">QIF/CSV Kodierung</string>
@@ -304,5 +300,5 @@
         <item/> <!-- Not used -->
 	</string-array>
 
-    <string name="internet_permission_warning"><b><u>WICHTIGE:</u></b> Ich überlege Zugabe des <b>Internet</b> die Erlaubnis, die App für einige neue Features, die derzeit nicht möglich vorzubereiten. Wenn Sie gegen diese sind, bitte <a href="mailto:android.money@gmail.com">schreiben</a> Sie uns.</string>   
+    <string name="internet_permission_warning"><b><u>WICHTIGE:</u></b> Ich überlege eine Erweiterung der Berechtigungen auf den <b>Internetzugriff</b> um einige neue Features vorbereiten zu können. Sollten Sie gegen eine derartige Erweiterung sein, <a href="mailto:android.money@gmail.com">schreiben</a> Sie uns bitte.</string>   
 </resources>

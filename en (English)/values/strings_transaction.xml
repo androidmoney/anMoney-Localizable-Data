@@ -61,13 +61,15 @@
     <string name="add_canceled">Add cancelled</string>
     <string name="accept_and_edit">Accept &amp; Edit</string>
     <string name="add_and_close">Add &amp; Close</string>
-    <string name="duplicate_in_current_account">Duplicate in current account</string>
     <string name="duplicate_copy_move">Duplicate, copy or move</string>
     <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+    <string name="duplicate_transaction">Duplicate transaction</string>
+    <string name="duplicate_in_current_account">Duplicate in current account</string>
     <string name="copy_to_another_account">Copy to another account</string>
     <string name="move_to_another_account">Move to another account</string>
     <string name="copy_transaction">Copy transaction</string>
     <string name="move_transaction">Move transaction</string>
+    <string name="move_transactions">Move transactions</string>
     <string name="do_not_duplicate_notes">Do not duplicate the notes</string>
     <string name="account_not_found">Account not found</string>
     <string name="cannot_transfer_to_itself">Cannot transfer to itself</string>
@@ -118,6 +120,7 @@
     <string name="next_check_number">Next cheque number</string>
     <string name="cleared_transactions_color">Cleared transactions colour</string> <!-- As in "color of cleared transactions" -->
     <string name="reconciled_transactions_color">Reconciled transactions colour</string> <!-- As in "color of teconciled transactions" -->
+    <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
     <string name="text_filter">Text filter</string>
     <string name="profit_and_loss_statement">Profit &amp; Loss statement</string>
 	<string name="transaction_type">Transaction type</string>

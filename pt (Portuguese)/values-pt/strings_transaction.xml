@@ -59,13 +59,15 @@
     <string name="add_canceled">Registro cancelada</string>
     <string name="accept_and_edit">Aceitar &amp; Editar</string>
     <string name="add_and_close">Registrar &amp; Fechar</string>
-    <string name="duplicate_in_current_account">Duplicar na conta atual</string>
     <string name="duplicate_copy_move">Duplicar, copiar ou mover</string>
 
+    <string name="duplicate_transaction">Duplicar transação</string>
+    <string name="duplicate_in_current_account">Duplicar na conta atual</string>
     <string name="copy_to_another_account">Copiar para outra conta</string>
     <string name="move_to_another_account">Mover para outra conta</string>
     <string name="copy_transaction">Copiar transação</string>
     <string name="move_transaction">Mover transação</string>
+    <string name="move_transactions">Mover transações</string>
     <string name="do_not_duplicate_notes">Não duplique as notas</string>
     <string name="account_not_found">Conta inexistente</string>
     <string name="cannot_transfer_to_itself">Não é possível transferir a si mesma</string>
@@ -116,6 +118,7 @@
     <string name="next_check_number">Próximo número de cheque</string>
     <string name="cleared_transactions_color">Cor de transações apuradas</string>
     <string name="reconciled_transactions_color">Cor de transações reconciliadas</string>
+	<string name="upcoming_transactions_color">Cor de transações futuras</string>
     <string name="text_filter">Filtro de texto</string>
 	<string name="profit_and_loss_statement">Lucros &amp; Perdas</string>
 	<string name="transaction_type">Tipo da transação</string>

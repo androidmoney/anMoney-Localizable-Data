@@ -14,7 +14,8 @@
 	<string name="default_name_format">^1 #^2</string>
     <string name="percent_sign">%</string>
     <string name="percentage_format">^1%</string>
-	<string name="plus_format">^1+</string>
+	<string name="plus_after_format">^1+</string>
+	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
     <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
@@ -27,18 +28,18 @@
 	<string name="home_screen">@string/home</string>
 	<string name="previous">Indietro</string>
 	<string name="next">Avanti</string>
-	<string name="_import">Importare</string>
+	<string name="_import">Importa</string>
 	<string name="imported">Importato</string>
    	<string name="import_canceled">Importazione annullata</string>
 	<string name="export">Esporta</string>
 	<string name="export_canceled">Esportazione annullata</string>
    	<string name="import_export">Importa/esporta</string>
 	<string name="display_options">Opzioni visualizzazione</string>
-	<string name="add_favorite">Inserisci favoriti</string>
-	<string name="added_to_favorites">Inserito nei favoriti</string>
+	<string name="add_favorite">Aggiungi ai preferiti</string>
+	<string name="added_to_favorites">Aggiunto ai preferiti</string>
 	<string name="remove">Rimuovi</string>
-	<string name="remove_favorite">Rimuovi dai favoriti</string>
-	<string name="removed_from_favorites">Rimosso dai favoriti</string>
+	<string name="remove_favorite">Rimuovi dai preferiti</string>
+	<string name="removed_from_favorites">Rimosso dai preferiti</string>
 	<string name="save">Salva</string>
 	<string name="saved">Salvato</string>
 	<string name="save_canceled">Salvataggio annullato</string>
@@ -68,32 +69,32 @@
 	<string name="combined">Combinato</string>
 	<string name="copy_to_clipboard">Copia negli appunti</string>
 	<string name="set">Imposta</string>
-	<string name="share">Spedisci</string>
-	<string name="share_canceled">Spedizione annullata</string>
+	<string name="share">Condividi</string>
+	<string name="share_canceled">Condivisione annullata</string>
 	<string name="create_in_app_name_format">Crea in ^1</string>
-	<string name="pick_from_app_name_format">Scegli ^1</string>
+	<string name="pick_from_app_name_format">Prendi da ^1</string>
 	<string name="do_not_ask_again">Non chiedere più</string>
     <string name="apply_to_all">Applica a tutto</string>
 	<string name="all_items">Tutti gli elementi</string>
 	<string name="notes">Note</string>
-	<string name="no_notes">Nessun altra nota</string>
-	<string name="required">Richiesto</string>
+	<string name="no_notes">Ancora nessuna nota</string>
+	<string name="required">Necessario</string>
 	<string name="name">Nome</string>
-	<string name="invalid_name">Nome invalido</string>
+	<string name="invalid_name">Nome non valido</string>
 	<string name="name_exists">Nome esistente</string>
-    <string name="amount">Somma</string>
-	<string name="start_date">Data di inizio</string>
-	<string name="end_date">Data di fine</string>
+    <string name="amount">Importo</string>
+	<string name="start_date">Data iniziale</string>
+	<string name="end_date">Data finale</string>
 	<string name="must_be_less_than_format">Più piccolo del formato &lt; «^1»</string>
 	<string name="must_be_greater_than_format">Più grande del formato &gt; «^1»</string>
-	<string name="reset">Reset</string>
+	<string name="reset">Resetta</string>
 	<string name="total">Totale</string>
-	<string name="grand_total">Total generale</string>
+	<string name="grand_total">Totale generale</string>
     <string name="average">Media</string>
-	<string name="export_file_name">Esporta file</string>
-	<string name="specify_export_file_name">Specifica file da esportare</string>
-    <string name="file_exists">File esistente</string>
-    <string name="folder_exists">Cartella esistente</string>
+	<string name="export_file_name">Nome file di esportazione</string>
+	<string name="specify_export_file_name">Specifica nome file da esportare</string>
+    <string name="file_exists">Esiste già un file con questo nome</string>
+    <string name="folder_exists">Esiste già una cartella con questo nome</string>
 	<string name="choose_another_name">Seleziona un altro nome</string>
 	<string name="will_be_overwritten">Verrà sovrascritto</string>
 	<string name="calendar">Calendario</string>
@@ -103,103 +104,103 @@
     <string name="to">A</string>
     <string name="from">Da</string>
 	<string name="send_email">Invia email</string>
-	<string name="please_read">Per favore leggere</string>
+	<string name="please_read">Si prega di leggere</string>
 	<string name="rate_app_format">Vota ^1</string>
 	<string name="please_rate_app_format">Per cortesia prenditi\nun attimo per votare ^1</string>
-	<string name="later_rate_description">Ti verrà ricordato fra una settimana</string>
-	<string name="no_rate_description_format">Lo puoi fare in un altro momento dal ^1 schermo</string>
-	<string name="task_killer_warning_format">Avvertimento a proposito del «killer del lavoro» apps:\n\nIl vostro dispositivo va attivato una volta al giorno per eseguire le operazioni automatiche. Questa attività durera solo pochi secondi, nessun impatto negativo sul consumo della batteria.\n\n Il compito del killer può e non mancherà di tenere lo sfondo per funzionare correttamente e non devono essere usati con ^1</string>
+	<string name="later_rate_description">Ti verrà ricordato fra una settimana circa</string>
+	<string name="no_rate_description_format">Potete farlo in qualsiasi momento dala schermata ^1</string>
+	<string name="task_killer_warning_format">Avvertenza circa le apps «task killer»:\n\nIl vostro dispositivo va attivato una volta al giorno per l’elaborazione automatica. Poiché questa elaborazione dura solo pochi secondi, non avrà alcun effetto dannoso sulla vita della batteria del tuo dispositivo.\n\nI task killer impediscono la corretta esecuzione di questo processo in background e pertanto non devono essere utilizzati con ^1</string>
 	<string name="no_thanks">No grazie</string>
 	<string name="maybe_later">Forse più tardi</string>
-	<string name="unexpected_error_warning">Si è verificato un errore imprevisto costringendo anMoney a smettere di funzionare correttamente.\n\nVi preghiamo di aiutarci a risolvere il problema inviandoci un report dell’errore che si è presentato. E’ possibile modificare l’indirizzo di posta elettronica prima di inviare la email.\n\nGrazie per il vostro supporto.</string>
-    <string name="unexpected_error_notification_ticker">Errore inaspettato. Per favore inviaci un report.</string>
+	<string name="unexpected_error_warning">Si è verificato un errore imprevisto costringendo anMoney a smettere di funzionare correttamente.\n\nVi preghiamo di aiutarci a risolvere il problema inviandoci un report dell’errore che si è verificato. E’ possibile modificare l’indirizzo di posta elettronica prima di inviare la email.\n\nGrazie per la vostra collaborazione.</string>
+    <string name="unexpected_error_notification_ticker">Errore imprevisto. Per favore inviaci un report.</string>
     <string name="unexpected_error_notification_title">anMoney si è interrotto</string>
-    <string name="unexpected_error_notification_text">Clicca qui per inviare un report.</string>
-    <string name="unexpected_error_comment">Se vuoi descrivici il quello che hai fatto prima che ricevessi l’errore</string>
-	<string name="archiving">Archiviare</string>
+    <string name="unexpected_error_notification_text">Tocca qui per inviare un report.</string>
+    <string name="unexpected_error_comment">Se vuoi, si prega di descrivere le operazioni che stavi facendo quando si è verificato il problema</string>
+	<string name="archiving">In archiviazione</string>
 	<string name="archiving_settings">Parametri per l’archiviazione</string>
-	<string name="more">Più</string>
+	<string name="more">Altro</string>
 	<string name="specify_options">Specifica le opzioni</string>
-	<string name="expand_all">Esporta tutto</string>
-	<string name="all_expanded">Espandi tutto</string>
+	<string name="expand_all">Espandi tutto</string>
+	<string name="all_expanded">Tutto espanso</string>
 	<string name="collapse_all">Comprimi tutto</string>
 	<string name="all_collapsed">Tutto compresso</string>
 	<string name="postal_address">Indirizzo di posta</string>
-	<string name="postal_address_hint">Via\Comune\Città/Regione, Codice postale</string>
-	<string name="cannot_perform_sd_card_operation">Questa operazione non può essere effettuata ora è perché non è inserita una scheda SD nel dispositivo, o perché il dispositivo è connesso al computer, rendendo la scheda SD inaccessibile</string>
-	<string name="cannot_perform_file_system_operation_format">Questa operazione non può essere effettuata in questo momento perché il percorso del file system (^1) n\non è accessibile</string>
-    <string name="please_correct_and_try_again">Verificare e riprovare</string>
-	<string name="no_network_message_format">^1 E’ necessario connettersi periodicamente alla rete per verificare le informazioni corrette della licenza.\n\nSi prega di collegarsi alla rete, e non appena la connessione è attiva, riprovare. Ci si può scollegare dalla rete dopo verificata la licenza.\n\nCliccare qui ^2 aprire le impostazioni ^3</string>
+	<string name="postal_address_hint">Indirizzo\nCAP\nCittà\nProvincia</string>
+	<string name="cannot_perform_sd_card_operation">Questa operazione non può essere effettuata in questo momento perché non è inserita alcuna scheda di memoria SD nel dispositivo oppure perché il dispositivo è attualmente connesso al computer, rendendo inaccessibile la scheda di memoria SD</string>
+	<string name="cannot_perform_file_system_operation_format">Questa operazione non può essere effettuata in questo momento perché il percorso della memoria interna (^1) n\non è accessibile</string>
+    <string name="please_correct_and_try_again">Correggere e riprovare nuovamente</string>
+	<string name="no_network_message_format">^1 richiede una connessione periodica alla rete per verificare la validità della licenza.\n\nSi prega di abilitare la rete per ottenere la connessione dati, quindi provare nuovamente. La rete può essere disabilitata successivamente.\n\nToccare ^2 per visualizzare le impostazioni ^3</string>
 	<string name="calculator">Calcolatrice</string>
-	<string name="only_in_full_version">Disponibile solo nella versione PRO</string>
-    <string name="will_not_effect_transactions">Questo <b>non</b> non avrà effetto sulle nessuna transazione attuale</string>
+	<string name="only_in_full_version">Solo nella versione PRO</string>
+    <string name="will_not_effect_transactions">Questo <b>non</b> avrà effetto su alcuna transazione esistente</string>
     	    	
-	<string name="free_limitations">Compra la versione PRO per togliere le seguenti limitazioni:\n\n
-	<li>No Sicurezza con password</li>\n
-	<li>No Auto backup dei dati</li>\n
-	<li>No Report personalizzati</li>\n
+	<string name="free_limitations">Acquista la versione PRO per rimuovere le seguenti limitazioni:\n\n
+	<li>Nessuna password di sicurezza</li>\n
+	<li>Nessun backup automatico dei dati</li>\n
+	<li>Nessun report personalizzato</li>\n
 	<li>Importazione solo del formato QIF</li>\n
-	<li>No Integrazione con i contatti</li>\n
-	<li>Al massimo 2 banche, 1 carta di credito e 1 conto contante</li>\n
-	<li>Al massimo 5 budget</li>\n
-	<li>Al massimo 3 bollette o depositi ricorrenti</li> 
+	<li>Nessuna integrazione con i contatti</li>\n
+	<li>Massimo 2 banche, 1 carta di credito e 1 conto contanti</li>\n
+	<li>Massimo 5 voci di bilancio</li>\n
+	<li>Massimo 3 bollette o depositi ricorrenti</li> 
 	</string>
     
 	<string name="no_items">Nessun elemento</string>
-	<string name="no_items_yet">Nessun altro elemento</string>
+	<string name="no_items_yet">Ancora nessun elemento</string>
     <string-array name="items_format_plurals">
         <item/> <!-- Not used -->
-        <item>^1 elemento</item>
+        <item>^1 elementi</item>
         <item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="reminder_leads">
 		<item>Non ricordarmi</item>
 		<item>Lo stesso giorno</item>
-		<item>Un giorno avanti</item>
-		<item>Due giorni avanti</item>
-		<item>1 settimana avanti</item>
-		<item>2 settimane avanti</item>
+		<item>Giorno precedente</item>
+		<item>Due giorni prima</item>
+		<item>1 settimana prima</item>
+		<item>2 settimane prima</item>
 	</string-array>
 
 	<string-array name="nth_day_of_the_month">
-		 <item>1imo</item>
-		 <item>2ndo</item>
-		 <item>3rzo</item>
-		 <item>4rto</item>
-		 <item>5nto</item>
-		 <item>6sto</item>
-		 <item>7imo</item>
-		 <item>8avo</item>
-		 <item>9ono</item>
-		 <item>10imo</item>
-		 <item>11imo</item>
-		 <item>12imo</item>
-		 <item>13imo</item>
-		 <item>14imo</item>
-		 <item>15imo</item>
-		 <item>16imo</item>
-		 <item>17imo</item>
-		 <item>18imo</item>
-		 <item>19imo</item>
-		 <item>20imo</item>
-		 <item>21imo</item>
-		 <item>22imo</item>
-		 <item>23imo</item>
-		 <item>24imo</item>
-		 <item>25imo</item>
-		 <item>26imo</item>
-		 <item>27imo</item>
-		 <item>28imo</item>
-		 <item>29imo</item>
-		 <item>30imo</item>
-		 <item>31imo</item>
+		 <item>1mo</item>
+		 <item>2do</item>
+		 <item>3zo</item>
+		 <item>4to</item>
+		 <item>5to</item>
+		 <item>6to</item>
+		 <item>7mo</item>
+		 <item>8vo</item>
+		 <item>9no</item>
+		 <item>10mo</item>
+		 <item>11mo</item>
+		 <item>12mo</item>
+		 <item>13mo</item>
+		 <item>14mo</item>
+		 <item>15mo</item>
+		 <item>16mo</item>
+		 <item>17mo</item>
+		 <item>18mo</item>
+		 <item>19mo</item>
+		 <item>20mo</item>
+		 <item>21mo</item>
+		 <item>22mo</item>
+		 <item>23mo</item>
+		 <item>24mo</item>
+		 <item>25mo</item>
+		 <item>26mo</item>
+		 <item>27mo</item>
+		 <item>28mo</item>
+		 <item>29mo</item>
+		 <item>30mo</item>
+		 <item>31mo</item>
 	</string-array>
 
 	<string name="display_direction">Specificare il tipo di ordinamento</string>
 	<string-array name="sort_direction_items">
-		<item>Ordina in modo crescente</item>
-		<item>Ordina in modo decrescente</item>
+		<item>Ordine crescente</item>
+		<item>Ordine decrescente</item>
 	</string-array>
 	<string-array name="sort_direction_title_bar">
 		<item>crescente</item>

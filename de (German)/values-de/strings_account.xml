@@ -6,9 +6,9 @@
 	<string name="open_accounts">Offene Konten</string>
     <string name="liability">Verbindlichkeit</string>
     <string name="asset">Guthaben</string>
-<!-- <string name="associated_loan">Der zugehöriger Kredit</string> -->
+<!-- <string name="associated_loan">Der zugehörige Kredit</string> -->
 <!-- <string name="associated_loan_if_any">Dazugehöriger Kredit, wenn vorhanden</string> -->
-<!-- <string name="associated_reward_program">Das zugehöriges Vergütungsprogramm</string> -->
+<!-- <string name="associated_reward_program">Das zugehörige Vergütungsprogramm</string> -->
 <!-- <string name="associated_reward_program_if_any">Dazugehöriges Vergütungsprogramm, wenn vorhanden</string> -->
     <string name="vehicle">KfZ</string>
     <string name="property">Grund und Boden</string>
@@ -23,14 +23,14 @@
 	<string name="balance_adjustment_note">Saldoabgleich</string>
 	<string name="category_for_adjustment_transaction">Kategorie für Saldoabgleich</string>
 	<string name="postpone">Verschieben</string>
-	<string name="balance_verb">Abgeglichen</string>
-	<string name="balance_account">Konto abgeglichen</string>
+	<string name="balance_verb">Abgleichen</string>
+	<string name="balance_account">Konto abgleichen</string>
 	<string name="balanced">Abgeglichen</string>
 	<string name="balance_postponed">Abgleichen verschoben</string>
 	<string name="balance_canceled">Abgleichen abgebrochen</string>
 	<string name="started_balancing_already">Sie haben bereits begonnen, dieses Konto abzugleichen</string>
 	<string name="postpone_balancing_warning">Abgleichen verschieben</string>
-	<string name="account_balance_does_not_match_bank_warning_format">Det Start-Saldo, den Sie eingegeben haben ^1 weicht von dem der vorher abgeglichenen Transaktionen ab, ^2</string>
+	<string name="account_balance_does_not_match_bank_warning_format">Der Start-Saldo, den Sie eingegeben haben ^1 weicht von dem der vorher abgeglichenen Transaktionen ab, ^2</string>
 	<string name="account_balance_does_not_match_credit_warning_format">Der geschuldete Betrag, den Sie eingegeben haben ^1 weicht vom Saldo aller vorher eingebenen Transaktionen ab, ^2</string>
 	<string name="account_balance_does_not_match_fix">Versuche, es zu reparieren durch:\n\n<li>Doppel-Check des Bank-Statements</li>\n<li>markiere Transaktionen als abgeglichen</li>\n<li>Markiere Transaktionen als nicht abgeglichen</li>\n<li>Passe Eröffnungs-Saldo an</li></string>
 	<string name="left_to_reconcile">Übrig um abzugleichen</string>
@@ -42,13 +42,13 @@
 	<string name="amount_owed_this_month">Summe des geschuldeten Betrags in diesem Monat</string>
 	<string name="service_charge_amount">Summe der Bankgebühren</string>
 	<string name="service_charge_category">Kategorie der Bankgebühren</string>
-	<string name="service_charge_notes_format">Bankgebühren für Periode des Statements, endend am ^1</string>
+	<string name="service_charge_notes_format">Bankgebühren für Periode des Statements, enden am ^1</string>
 	<string name="interest_earned_amount">Summe der eingenommenen Zinsen</string>
 	<string name="interest_earned_category">Kategorie der eingenommenen Zinsen</string>
-	<string name="interest_earned_notes_format">Eingenommen Zinsen für Statement-Periode endend am ^1</string>
+	<string name="interest_earned_notes_format">Eingenommene Zinsen für Statement-Periode enden am ^1</string>
 	<string name="interest_paid_amount">Summe der gezahlten Zinsen</string>
 	<string name="interest_paid_category">Kategorie der gezahlten Zinsen</string>
-	<string name="interest_paid_notes_format">Gezahlte Zinsen für Statement-Periode endend am ^1</string>
+	<string name="interest_paid_notes_format">Gezahlte Zinsen für Statement-Periode enden am ^1</string>
 	<string name="clear_all_transactions">Alle Transaktionen löschen</string>
 	<string name="clear_all_transactions_on_all_pages">Alle Transaktionen auf den Seiten löschen</string>
 	<string name="export_account">Export Konto</string>
@@ -103,7 +103,7 @@
 	<string name="invalid_year">Ungültig</string>
 	<string name="invalid_vin_number">Muss aus 17 Zeichen bestehen (Buchstaben/Zahlen)</string>
 	<string name="invalid_url">Ungültige URL</string>
-	<string name="opening_balance_warning_message">Dieses Konto at abgelglichene Transaktionen.\n\nWenn Sie den Eröffnungs-Saldo ändern, könnte sich eine Differenz zu den Transaktionen Ihres Finanz-Institutes ergeben</string>
+	<string name="opening_balance_warning_message">Dieses Konto hat abgeglichene Transaktionen.\n\nWenn Sie den Eröffnungs-Saldo ändern, könnte sich eine Differenz zu den Transaktionen Ihres Finanz-Institutes ergeben</string>
 	<string name="no_exchange_rate_warning_message_format">Kein Umrechnungskurs angegeben zwischen ^1 und ^2. Das führt zu einem falschen Saldo</string>
     <string name="would_you_like_to_give_one_after_saving">Möchten Sie einen Saldo nach dem Speichern angeben</string>
 	<string name="net_worth">Nettobetrag</string>
@@ -116,6 +116,7 @@
 	<string name="balance_as_of_today">Heutiger Saldo</string>
 	<string name="cleared_total">Abgeglichene Endsumme</string>
 	<string name="reconciled_total">Mit der Bank abgeglichene Endsumme</string>
+	<string name="filtered_total">Gefiltert total</string>
 	<string name="default_cash_account_name">Meine täglichen Barmittel</string>
 	<string name="default_checking_account_name">Mein Girokonto</string>
 	<string name="default_savings_account_name">Mein Sparkonto</string>
@@ -130,7 +131,7 @@
 	<string name="period">Zeitraum</string>
 	<string name="total_for_period">Zeitraum total</string>
 	<string name="total_for_unassigned">Nicht zugeordnete Gesamt-Summe</string>
-	<string name="make_account_budget_question_part1">Möchten Sie diese Konto in Ihr Budget einbeziehen</string>
+	<string name="make_account_budget_question_part1">Möchten Sie dieses Konto in Ihr Budget einbeziehen</string>
 	<string name="make_account_budget_question_part2_format">Selbst, wenn Sie ^1 drücken. können Sie das später nachholen</string>
 	<string name="show_option_format">Zeige die ^1 Option</string>
 	<string name="show_closed">Geschlossene anzeigen</string>
@@ -175,7 +176,7 @@
 		<item>Geschuldete Summe für diese Karte</item>
 	</string-array>
 
-<!-- New --> <string name="opening">Eröffnung</string>
+	<string name="opening">Eröffnung</string>
 	<string-array name="opening_balance_edit_labels">
 		<item>Eröffnungs-Saldo</item>
 		<item>Ursprünglicher Kaufpreis</item>
@@ -217,11 +218,11 @@
 		<item>Investition</item>
 	</string-array>
 
-	<string name="show_account_numbers">Zeige Kontennummern</string>
-	<string name="show_account_numbers_description">Zeigt Kontennummern, wenn vorhanden</string>
+	<string name="show_account_numbers">Zeige Kontonummern</string>
+	<string name="show_account_numbers_description">Zeigt Kontonummern, wenn vorhanden</string>
 
 	<string name="use_abbreviations">Verwende Abkürzungen</string>
-	<string name="use_abbreviations_description">Zeigt Kontenabkürzungen anstelle des Namens, wenn vorhanden</string>
+	<string name="use_abbreviations_description">Zeigt Kontoabkürzungen anstelle des Namens, wenn vorhanden</string>
 
 	<string name="show_group_totals">Zeige Gesamtsumme der Gruppe</string>
 	<string name="show_group_totals_description">Zeigt die Summe für jede Gruppe</string>
@@ -302,7 +303,12 @@
 		<item>Nächste 3 Monate</item>
 		<item>Nächste 6 Monate</item>
 		<item>Nächste 12 Monate</item>
+<!-- New --> <item>Up to the next 30 days</item>
+<!-- New --> <item>Up to the next 3 months</item>
+<!-- New --> <item>Up to the next 6 months</item>
+<!-- New --> <item>Up to the next 12 months</item>
 		<item>@string/custom_dates</item>
+		<item>@string/day_0</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar">
 		<item>jedes Datum</item>
@@ -317,11 +323,16 @@
 		<item>die letzten 3 Monate</item>
 		<item>die letzten 6 Monate</item>
 		<item>die letzten 12 Monate</item>
+		<item>die nächste 30 Tage</item>
+		<item>die nächste 3 Monate</item>
+		<item>die nächste 6 Monate</item>
+		<item>die nächste 12 Monate</item>
+<!-- New --> <item>up to the next 30 days</item>
+<!-- New --> <item>up to the next 3 months</item>
+<!-- New --> <item>up to the next 6 months</item>
+<!-- New --> <item>up to the next 12 months</item>
 		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
+		<item>heute</item>
 	</string-array>
 
 	<string name="display_grouping">Gruppierung anzeigen</string>

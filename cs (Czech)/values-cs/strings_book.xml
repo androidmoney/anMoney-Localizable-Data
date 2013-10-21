@@ -38,7 +38,6 @@
         <item>^1 vybraných souborů bude odstraněno</item>
     </string-array>
     <string name="select_book">Vyberte knihu</string>
-    <string name="select_book_to_import_into">Vyberte knihu do které importovat výpis</string>
     <string name="select_import_file">Vyberte soubor(y) pro import</string>
     <string name="not_specified_brackets">&lt;Neuvedeno></string>
     <string name="map_accounts">Mapování účtů</string>
@@ -48,14 +47,13 @@
     <string name="options">Nastavení</string>
     <string name="select_options">Upřesněte parametry importu</string>
     <string name="remove_duplicates">Odstranit duplicity</string>
-    <string name="remove_duplicates_notes">Toto by mělo pracovat správně ve velké většině případů, problémy ale mohou nastat, zvláště pokud jsou částky v různých měnách. V těchto případech není porovnání možné. Po dokončení importu prosím ověřte správnost zůstatků.</string>
+    <string name="remove_duplicates_notes">Toto by mělo pracovat správně ve velké většině případů, problémy ale mohou nastat, zvláště pokud jsou částky v různých měnách. V těchto případech není porovnání možné. Po dokončení importu prosím ověřte správnost zůstatků</string>
     <string name="import_classes">Import tříd</string>
     <string name="ignore_memos">Ignorovat pole poznámek</string>
     <string name="create_payees_in_app_name_format">Vytvořit příjemce v ^1</string>
     <string name="contact_account">Účet pro vytváření příjemců</string>
     <string name="select_import_mode">Zvolte způsob importu</string>
-    <string name="select_accounts_to_export">Zvolte účty pro export</string>
-    <string name="specify_export_file_format">Zvolte formát výstupního souboru</string>
+    <string name="export_file_format">Formát výstupního souboru</string>
     <string name="mark_transactions_exported">Označit transakci jako exportovanou</string>
     <string name="create_single_file">Vytvořit jeeden soubor</string>
     <string name="no_transactions_matched_your_selection_criteria">Žádná transakce nevyhovuje parametrům výběru.\nExportní soubor nebyl vytvořen</string>
@@ -143,11 +141,9 @@
         <item>Používá se pro zpracování dat z jiné účetní aplikace, jako je Microsoft® Money nebo Quicken®. Podporován je pouze formát <b>QIF</b></item>
     </string-array>
 
-	<string-array name="book_export_file_type_description">
-        <item>Závisí na klasifikacích a kategoriích, které používáte, může být čitelné pouze v Microsoft® Money</item>
-        <item>Čitelné ve všech aplikacích, které podporují formát <b>QIF</b></item>
-        <item>Čitelné pomocí tabulkových kalkulátorů, například aplikace Microsoft® Excel nebo Google™ Docs. První exportovaný řádek obsahuje záhlaví sloupců, následovaný řádky jednotlivých transakcí. Každé rozdělení bude na samostatném řádku</item>
-    </string-array>
+    <string name="qif_ms_money_description">Závisí na klasifikacích a kategoriích, které používáte, může být čitelné pouze v Microsoft Money</string>
+	<string name="qif_generic_description">Čitelné ve všech aplikacích, které podporují formát <b>QIF</b></string>
+    <string name="csv_description">Čitelné pomocí tabulkových kalkulátorů, například aplikace Microsoft® Excel nebo Google™ Docs. První exportovaný řádek obsahuje záhlaví sloupců, následovaný řádky jednotlivých transakcí</string>
 
     <string name="import_file_confirm_format">Chcete importovat soubor ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">

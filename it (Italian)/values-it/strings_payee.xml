@@ -5,20 +5,20 @@
     <string name="new_payee">Nuovo beneficiario</string>
     <string name="call_payee">Chiama beneficiario</string>
     <string name="delete_payee">Elimina beneficiario</string>
-    <string name="delete_payee_warning_format">Beneficiario ^1 sarà definitivamente cancellato</string>
+    <string name="delete_payee_warning_format">Beneficiario ^1 verrà definitivamente cancellato</string>
     <string name="delete_from_app_format">Elimina anche da ^1</string>
     <string name="add_payee_as_a_contact">Inserisci beneficiario come contatto</string>
     <string name="payee">Beneficiario</string>
     <string name="payer">Debitore</string>
     <string name="payees">Beneficiari</string>
-    <string name="payee_required">Beneficiario richiesto</string>
-    <string name="payer_required">Debitote richiesto</string>
+    <string name="payee_required">Beneficiario necessario</string>
+    <string name="payer_required">Debitore necessario</string>
     <string name="call">Chiama</string>
-    <string name="map_address">Mappa dell’indirizzo</string>
-    <string name="no_payees">Tu non hai nessun beneficiario</string>
-    <string name="payee_transaction_list_empty">Tu non hai nessuna transazione con questo beneficiario</string>
-    <string name="payee_exists">Un beneficiario con questo nome esiste già</string>
-    <string name="combine_payees">Ti piacerebbe unificare due beneficiari</string>
+    <string name="map_address">Indirizzo mappa</string>
+    <string name="no_payees">Non hai alcun beneficiario</string>
+    <string name="payee_transaction_list_empty">Non hai alcuna transazione per questo beneficiario</string>
+    <string name="payee_exists">Esiste già un beneficiario con questo nome</string>
+    <string name="combine_payees">Desideri aggregare i due beneficiari</string>
     <string name="payee_name">Nome beneficiario</string>
     <string name="link_payee">Vuoi collegare questo beneficiario ad un contatto già esistente</string>
     <string name="account_number">Numero conto</string>
@@ -27,16 +27,16 @@
     <string name="email">Email</string>
     <string name="email_address">Indirizzo email</string>
     <string name="url">URL</string>
-    <string name="web_address">Indirizziona conto</string>
+    <string name="web_address">Indirizzo web</string>
 	<string name="select_account">Seleziona un conto</string>
     <string name="open_web_page">Apri pagina web</string>
     <string name="view_payees">Visualizza beneficiario</string>
-    <string name="default_payee_name">Mio beneficiario</string>
+    <string name="default_payee_name">Me stesso</string>
 	<string name="spending_by_payee">Spese per beneficiario</string>
-    <string name="all_payees_hidden_by_filter">Tutti i beneficiari sono nascosti dai filtri di vializzazione</string>
+    <string name="all_payees_hidden_by_filter">Tutti i beneficiari sono nascosti dai filtri di visualizzazione</string>
         
     <string name="without_payee">Senza beneficiario</string>
-    <string name="no_payees_yet">Non hai ancora nessun beneficiario</string>
+    <string name="no_payees_yet">Ancora nessun beneficiario</string>
 	<string-array name="payee_count_format_plurals">
         <item/> <!-- Not used -->
         <item>^1 beneficiari</item>
@@ -44,8 +44,8 @@
 	</string-array>
 
     <string name="all_payees">Tutti i beneficiari</string>
-	<string name="payees_in_open_accounts">Beneficiari per conti aperti</string>
-	<string name="payees_in_closed_accounts_only">Solo beneficiari in conti chiusi</string>
+	<string name="payees_in_open_accounts">Beneficiari in conti aperti</string>
+	<string name="payees_in_closed_accounts_only">Beneficiari solo in conti chiusi</string>
 	<string name="unused_payees">Beneficiari inutilizzati</string>
 	<string-array name="payee_list_filter_title_bar">
 		<item>@string/all_payees</item>
