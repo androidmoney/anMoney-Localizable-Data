@@ -42,7 +42,7 @@
 	<string name="not_specified_brackets">&lt;Non specificato&gt;</string>
 	<string name="map_accounts">Mappa conti</string>
 	<string name="configure_account_mappings">Configura la mappature dei conti</string>
-	<string name="account_required">Conto richiesto</string>
+	<string name="account_required">Conto necessario</string>
 	<string name="duplicate_name">Nome duplicato</string>
 	<string name="options">Opzioni</string>
 	<string name="select_options">Seleziona opzioni di importazione</string>
