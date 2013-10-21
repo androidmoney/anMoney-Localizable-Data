@@ -143,7 +143,7 @@
 	<li>Ingen kontaktintegrasjon</li>\n
 	<li>Maksimalt 2 bank-, 1 kreditt- og 1 kontantkonto</li>\n
 	<li>Maksimalt 5 budsjettelementer</li>\n
-	<li>Maksimalt 3 periodiske regninger eller innskudd</li>
+	<li>Maksimalt 3 faste regninger eller innskudd</li>
 	</string>
 
 	<string name="no_items">Ingen elementer</string>

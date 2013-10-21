@@ -6,14 +6,14 @@
 	<string name="edit_split">Redigér oppdeling</string>
 	<string name="edit_splits">Redigér oppdelinger</string>
 	<string name="delete_split">Slett oppdeling</string>
-<!-- New --> <string name="export_splits">Eksporter oppdelinger</string>
+	<string name="export_splits">Eksporter oppdeling</string>
 	<string name="sum_of_splits">Oppdelingssum</string>
 	<string name="unassigned">Utilordnet</string>
 	<string name="transaction_total">Transaksjonssum</string>
 	<string name="go_back_to_edit">Gå tilbake til redigering av oppdelingen</string>
-	<string name="unassigned_split_message_format">Summen av oppdelingene er ^1, mens transaksjonssummen er ^2. Dette gir en utilordnet sum på ^3, noe som ikke anbefales</string>
+	<string name="unassigned_split_message_format">Summen av oppdelingene er ^1, mens summen av transaksjonen er ^2. Dette gir en utilordnet sum på ^3, noe som ikke anbefales</string>
 	<string name="what_would_you_like_to_do">Hva ønsker du å gjøre</string>
-	<string name="set_the_total_format">Éndre totalen til ^1</string>
+	<string name="set_the_total_format">Endre totalen til ^1</string>
 	<string name="distribute_format">Jevnt fordel restsummen på ^1</string>
 	<string name="leave_unassigned_format">La ^1 være utilordnet</string>
 	<string name="distributed">Distribuert</string>

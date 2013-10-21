@@ -118,7 +118,7 @@
 	<string name="balance_as_of_today">Innestående saldo</string>
 	<string name="cleared_total">Klarert saldo</string>
 	<string name="reconciled_total">Avstemt saldo</string>
-<!-- New --> <string name="filtered_total">Filtrert saldo</string>
+	<string name="filtered_total">Filtrert saldo</string>
 	<string name="default_cash_account_name">Kontanter</string>
 	<string name="default_checking_account_name">Brukskonto</string>
 	<string name="default_savings_account_name">Sparekonto</string>
@@ -305,10 +305,10 @@
 		<item>Neste 3 måneder</item>
 		<item>Neste 6 måneder</item>
 		<item>Neste 12 måneder</item>
-<!-- New --> <item>Up to the next 30 days</item>
-<!-- New --> <item>Up to the next 3 months</item>
-<!-- New --> <item>Up to the next 6 months</item>
-<!-- New --> <item>Up to the next 12 months</item>
+		<item>Frem til </item>
+		<item>Opp til de neste 3 måneder</item>
+		<item>Opp til de neste 6 måneder</item>
+		<item>Opp til de neste 12 måneder</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -329,12 +329,12 @@
 		<item>de neste 3 måneder</item>
 		<item>de neste 6 måneder</item>
 		<item>de neste 12 måneder</item>
-<!-- New --> <item>up to the next 30 days</item>
-<!-- New --> <item>up to the next 3 months</item>
-<!-- New --> <item>up to the next 6 months</item>
-<!-- New --> <item>up to the next 12 months</item>
+		<item>opp til de neste 30 dager</item>
+		<item>opp til de neste 3 måneder</item>
+		<item>opp til de neste 6 måneder</item>
+		<item>opp til de neste 12 måneder</item>
 		<item/>
-<!-- New --> <item>i dag</item>
+		<item>i dag</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/>
