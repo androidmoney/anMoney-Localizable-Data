@@ -32,7 +32,7 @@
 		<item>Tralascia ^1 eventi</item>
 		<item/> <!-- Not used -->
 	</string-array>
-	<string name="skip_canceled">Cancella tralascia</string>
+	<string name="skip_canceled">Tralascia cancellato</string>
 	<string name="skip_which">Tralascia cosa</string>
 	<string name="skip_one_occurrence_warning">Tralascia il prossimo evento</string>
 	<string name="no_recurrings_format">Non hai alcuna fattura o deposito ricorrenti.\n\nPer crearne uno:\n\n<li>^1</li>\n\n<li>Toccare a lungo una qualsiasi transazione e poi toccare ^2</li></string>
@@ -55,10 +55,10 @@
 	<string name="no_upcoming_deposits">Nessun deposito imminente</string>
 	<string name="enter_automatically">Inserimento automatico nel registro</string>
 	<string name="notify_me">Promemoria</string>
-	<string name="cannot_auto_enter">A causa delle possibili fluttuazioni dei tassi di cambio, le fatture ricorrenti o i depositi che coinvolgono i trasferimenti tra conti con valute diverse non verranno inserite nel registro automaticamente.\n\nSarà necessario inserire manualmente questa transazione e specificare il tasso di cambio in vigore in quel momento</string>
+	<string name="cannot_auto_enter">A causa delle possibili fluttuazioni dei tassi di cambio, le fatture ricorrenti o i depositi che coinvolgono i trasferimenti tra conti con valute diverse, non verranno inserite automaticamente nel registro.\n\nSarà necessario inserire manualmente questa transazione e specificare il tasso di cambio in vigore in quel momento</string>
 	<string name="entered_recurring_bill">Inserisci fatture ricorrenti</string>
 	<string name="entered_recurring_deposit">Inserisci depositi ricorrenti</string>
-	<string name="notify_me_when_entered">Inviami una notifica nella barra di notifica dopo l’inserimento</string>
+	<string name="notify_me_when_entered">Invia un avvertimento nella barra di notifica dopo l’inserimento</string>
 	<string name="the_last_day_of_the_month">L’ultimo giorno del mese</string>
 	<string name="include_in_budget">Includi nel bilancio</string>
 	<string name="include_recurrings">Includi voci ricorrenti</string> <!-- as in "Include recurring items on report" -->
@@ -67,10 +67,10 @@
 
 	<!-- These three below form a sentence -->
 	<string name="based_part1">Basato</string>
-	<string name="based_part2_singular">sull’ultima</string>
+	<string name="based_part2_singular">sull’ultimo</string>
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
-		<item>sulle ultime ^1</item>
+		<item>sugli ultimi ^1</item>
 		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
@@ -144,7 +144,7 @@
 
 	<string-array name="enter_into_register_fixed_amount_items">
 		<item>@string/enter_now</item>
-		<item>Prima modifica transazione</item>
+		<item>Prima modificare transazione</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Usa la data odierna come data della transazione</string>
 	<string-array name="enter_warning_format_plurals">
@@ -254,7 +254,7 @@
 	<string name="fiscal_year">Anno fiscale</string>
 
 	<string name="time_of_reminder">Orario per il promemoria</string>
-	<string name="reminder_hour_of_day_change_warning">Si prega di notare che i promemoria esistenti, se esistono, <b>non</b> verranno modificati. Per modificarli, vai al calendario del dispositivo e modifica il promemoria.\n\nIl nuovo orario verrà utilizzato per qualsiasi nuovo promemoria e per le istanze imminenti ed esistenti di fatture o depositi ricorrenti</string>
+	<string name="reminder_hour_of_day_change_warning">Si prega di notare che i promemoria esistenti <b>non</b> verranno modificati. Per modificarli, aprire il calendario del dispositivo e modificare il promemoria.\n\nIl nuovo orario verrà utilizzato per qualsiasi nuovo promemoria e per le prossime istanze esistenti di fatture o depositi ricorrenti</string>
 
 	<string-array name="auto_enter_days_before">
 		<item>Non inserire automaticamente</item>
