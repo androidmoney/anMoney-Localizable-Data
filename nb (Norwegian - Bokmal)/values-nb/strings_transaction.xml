@@ -42,7 +42,7 @@
 	<string name="notes_creation_canceled">Avbrøt opprettelse av notat</string>
 	<string name="flag_for_follow_up">Merk for oppfølging</string>
 	<string name="edit_follow_up">Rediger oppfølging</string>
-	<string name="make_recurring">Gjør om til fast </string>
+	<string name="make_recurring">Opprett fast transaksjon</string>
 	<string name="follow_up2">For oppfølging</string>
 	<string name="follow_up_by">Følg opp innen</string>
 	<string name="follow_up_created">Oppfølging opprettet</string>
@@ -118,7 +118,7 @@
 	<string name="next_check_number">Neste sjekknummer</string>
 	<string name="cleared_transactions_color">Farge for klarerte transaksjoner</string>
 	<string name="reconciled_transactions_color">Farge for avstemte transaksjoner</string>
-<!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
+	<string name="upcoming_transactions_color">Farge for gjentakende transaksjoner</string>
 	<string name="text_filter">Tekstfilter</string>
 	<string name="profit_and_loss_statement">Inntekt- &amp; tapsutskrift</string>
 	<string name="transaction_type">Transaksjonstype</string>

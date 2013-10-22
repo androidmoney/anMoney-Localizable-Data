@@ -13,7 +13,7 @@
 	<string name="remainder_amount">Gjenstående</string>
 	<string name="budget_vs_actual">Budsjett mot reell bruk</string>
 	<string name="budget_over_time">Budsjett over tid</string>
-	<string name="recurring_bill_or_deposit_from">Gjentakende regning eller innskudd fra</string>
+	<string name="recurring_bill_or_deposit_from">Fast regning eller innskudd fra</string>
 	<string name="an_additional_amount_for_this_category">Et ekstrabeløp for denne kategorien</string>
 	<string name="an_additional_amount_for_this_class">Et ekstrabeløp for denne klassen</string>
 	<string name="the_additional_amount_for_this_category">Ekstrabeløpet for denne kategorien</string>
