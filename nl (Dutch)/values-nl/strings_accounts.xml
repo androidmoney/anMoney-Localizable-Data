@@ -117,7 +117,7 @@
 	<string name="balance_as_of_today">Balans vandaag</string>
 	<string name="cleared_total">Toegekend totaal</string>
 	<string name="reconciled_total">Gecontroleerde totaal</string>
-<!-- New --> <string name="filtered_total">Gefilterd totaal</string>
+	<string name="filtered_total">Gefilterd totaal</string>
 	<string name="default_cash_account_name">Mijn dagelijks kontant</string>
     <string name="default_checking_account_name">Mijn huidige rekening</string>
     <string name="default_savings_account_name">Mijn spaarrekening</string>
@@ -304,10 +304,10 @@
     	<item>Volgende 3 maanden</item>
     	<item>Volgende 6 maanden</item>
 	    <item>Volgende 12 maanden</item>
-<!-- New --> <item>Up to the next 30 days</item>
-<!-- New --> <item>Up to the next 3 months</item>
-<!-- New --> <item>Up to the next 6 months</item>
-<!-- New --> <item>Up to the next 12 months</item>
+		<item>Tot de volgende 30 dagen</item>
+		<item>Tot de volgende 3 maanden</item>
+		<item>Tot de volgende 6 maanden</item>
+		<item>Tot de volgende 12 maanden</item>
 	    <item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -328,12 +328,12 @@
     	<item>de volgende 3 maanden</item>
     	<item>de volgende 6 maanden</item>
 	    <item>de volgende 12 maanden</item>
-<!-- New --> <item>up to the next 30 days</item>
-<!-- New --> <item>up to the next 3 months</item>
-<!-- New --> <item>up to the next 6 months</item>
-<!-- New --> <item>up to the next 12 months</item>
+		<item>+ 30 dagen</item>
+		<item>+ 3 maanden</item>
+		<item>+ 6 maanden</item>
+		<item>+ 12 maanden</item>
 		<item/> <!-- Intentionally left empty -->
-<!-- New --> <item>vandaag</item>
+		<item>vandaag</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

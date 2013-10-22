@@ -6,7 +6,7 @@
     <string name="edit_split">Bewerk deling</string>
     <string name="edit_splits">Bewerk delingen</string>
     <string name="delete_split">Verwijder deling</string>
-<!-- New --> <string name="export_splits">Exporteren delingen</string>
+	<string name="export_splits">Delingen exporteren</string>
     <string name="sum_of_splits">Som van de delingen</string>
 	<string name="unassigned">Niet toegewezen</string>
 	<string name="transaction_total">Transactie totaal</string>

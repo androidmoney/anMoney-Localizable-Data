@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
 	<string-array name="transaction_list_date_range_title_bar">
-		<item>all tider</item>
-		<item/>
-		<item/>
-		<item/>
-		<item/>
-		<item/>
-		<item/>
-		<item/>
-		<item>de siste 30 dager</item>
-		<item>de siste 3 måneder</item>
-		<item>de siste 6 måneder</item>
-		<item>de siste 12 måneder</item>
-		<item>de neste 30 dager</item>
-		<item>de neste 3 måneder</item>
-		<item>de neste 6 måneder</item>
-		<item>de neste 12 måneder</item>
+		<item>for all tider</item>
+		<item>for ^1</item>
+		<item>for ^1</item>
+		<item>for ^1</item>
+		<item>for ^1</item>
+		<item>for ^1</item>
+		<item>for ^1</item>
+		<item>for ^1</item>
+		<item>for de siste 30 dager</item>
+		<item>for de siste 3 måneder</item>
+		<item>for de siste 6 måneder</item>
+		<item>for de siste 12 måneder</item>
+		<item>for de neste 30 dager</item>
+		<item>for de neste 3 måneder</item>
+		<item>for de neste 6 måneder</item>
+		<item>for de neste 12 måneder</item>
 		<item>opp til de neste 30 dager</item>
 		<item>opp til de neste 3 måneder</item>
 		<item>opp til de neste 6 måneder</item>
 		<item>opp til de neste 12 måneder</item>
-		<item/>
-		<item>i dag</item>
+		<item>for ^1</item>
+		<item>for i dag</item>
 	</string-array>
 </resources>
