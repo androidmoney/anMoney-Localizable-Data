@@ -116,7 +116,7 @@
 	<string name="balance_as_of_today">Saldo a dia d’avui</string>
 	<string name="cleared_total">Total autoritzat</string>
 	<string name="reconciled_total">Total conciliat</string>
-<!-- New --> <string name="filtered_total">Total filtrat</string>
+	<string name="filtered_total">Total filtrat</string>
 	<string name="default_cash_account_name">La meva caixa diaria</string>
     <string name="default_checking_account_name">El meu compte actual</string>
     <string name="default_savings_account_name">El meu compte d’estalvis</string>
@@ -303,10 +303,10 @@
 		<item>Propers 3 mesos</item>
 		<item>Propers 6 mesos</item>
 		<item>Propers 12 mesos</item>
-<!-- New --> <item>Up to the next 30 days</item>
-<!-- New --> <item>Up to the next 3 months</item>
-<!-- New --> <item>Up to the next 6 months</item>
-<!-- New --> <item>Up to the next 12 months</item>
+		<item>Fins als propers 30 dies</item>
+		<item>Fins als propers 3 mesos</item>
+		<item>Fins als propers 6 mesos</item>
+		<item>Fins als propers 12 mesos</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -327,12 +327,12 @@
 		<item>propers 3 mesos</item>
 		<item>propers 6 mesos</item>
 		<item>propers 12 mesos</item>
-<!-- New --> <item>up to the next 30 days</item>
-<!-- New --> <item>up to the next 3 months</item>
-<!-- New --> <item>up to the next 6 months</item>
-<!-- New --> <item>up to the next 12 months</item>
+		<item>+ 30 dies</item>
+		<item>+ 3 mesos</item>
+		<item>+ 6 mesos</item>
+		<item>+ 12 mesos</item>
 		<item/> <!-- Intentionally left empty -->
-<!-- New --> <item>avui</item>
+		<item>avui</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

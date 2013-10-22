@@ -84,8 +84,8 @@
 	<string name="spending_by_category_over_time0">Gastos por categoría en el tiempo</string>
 	<string name="spending_by_category_over_time1">Gastos por categoría o ^1 en el tiempo</string>
 	<string name="spending_by_category_over_time2">Gastos por categoría, ^1 or ^2 en el tiempo</string>
-<!-- New --> <string name="assign_to_accounts">Asigne a esta(s) cuenta(s) en la Estimación</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
-<!-- New --> <string name="last_account_used">La última cuenta usada</string>
+<!-- Verify --> <string name="assign_to_accounts">Asigne a esta(s) cuenta(s) en la Estimación</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
+<!-- Verify --> <string name="last_account_used">La última cuenta usada</string>
 		
     <string name="no_categories">No hay categorías</string>
 	<string name="no_categories_yet">Aún no hay categorías</string>

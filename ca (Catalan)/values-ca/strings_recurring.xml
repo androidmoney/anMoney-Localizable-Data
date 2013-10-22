@@ -172,7 +172,7 @@
 	<string name="use_todays_date_for_transaction_date">Fer servir la data d’avui a la transacció</string>
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-<!-- New --> <item>^1 selected recurring items will be entered</item>
+		<item>^1 elements recurrents seleccionats seran inserits</item>
         <item/> <!-- Not used -->
 	</string-array>
 	

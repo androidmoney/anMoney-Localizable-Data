@@ -89,7 +89,7 @@
     <string name="password_disclaimer">Si us plau, llegeixi aquest descàrrec i marqui la casella que trobarà al final.\n\nNoti que la característica de contrasenya ha estat dissenyada per facilitar la privacitat debant “mirades indiscretes”.  Degut a les limitacions de la plataforma, el xifrat real de les dades no és factible i algú amb habilitats avançades podria accedir a les dades encara que hi hagi una contrasenya.\n\nÉs altament recomanable protegir el dispositiu amb un patró de bloqueig o bé un PIN com a mesura de seguretat addicional</string>
     <string name="i_understand_the_limitations">Entenc aquestes limitacions</string>
     <string name="set_password_now_part1">Vol establir una contrasenya ara</string> <!-- This is a question, but the question mark will be added progrmatically -->
-<!-- New --> <string name="set_password_now_part2_format">Encara que respongui ^1, tindrà l’opció d’establir una contrasenya en qualsevol moment fent un toc prolongat a sobre del nom del llibre i tocant ^2</string>
+	<string name="set_password_now_part2_format">Encara que respongui ^1, tindrà l’opció d’establir una contrasenya en qualsevol moment fent un toc prolongat a sobre del nom del llibre i tocant ^2</string>
     <string name="folder_name_format">Nom de la carpeta (utilitzi ^1 per a subcarpetes)</string>
     <string name="no_backup_files">No s’han trobat arxius de còpia de seguretat</string>
     <string name="no_backup_files_new_instructions">Si està intentant crear un llibre a partir d’un arxiu d’importació, si us plau, creeu un llibre des de zero en primer lloc, i després feu-hi l’importació</string>

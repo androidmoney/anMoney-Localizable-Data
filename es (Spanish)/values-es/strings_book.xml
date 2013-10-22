@@ -89,7 +89,7 @@
     <string name="password_disclaimer">Por favor, lee este aviso legal y marca la casilla al final.\n\nTen en cuenta que la función de contraseña se diseñó como una manera de proporcionar privacidad contra “curiosos”. Debido a las limitaciones de la plataforma, no es posible una verdadera encriptación de los datos y alguien con conocimientos avanzados podría acceder a sus datos, incluso en presencia de una contraseña.\n\nEs muy recomendable que proteja su dispositivo con un patrón de bloqueo o un PIN para mayor seguridad</string>
     <string name="i_understand_the_limitations">Comprendo las limitaciones</string>
     <string name="set_password_now_part1">Establecer una contraseña ahora</string>
-<!-- New --> <string name="set_password_now_part2_format">Aún cuando tu respuesta sea ^1, tendrás la opción de establecer una contraseña en cualquier momento presionando en forma sostenida sobre el nombre del libro y tocando ^2</string>
+<!-- Verify --> <string name="set_password_now_part2_format">Aún cuando tu respuesta sea ^1, tendrás la opción de establecer una contraseña en cualquier momento presionando en forma sostenida sobre el nombre del libro y tocando ^2</string>
     <string name="folder_name_format">Nombre de la carpeta (usa ^1 para indicar subcarpetas)</string>
     <string name="no_backup_files">No se encontró ningún archivo de copia de seguridad</string>
     <string name="no_backup_files_new_instructions">Si estás tratando de crear un libro a partir de la importación de un archivo, por favor crea antes un libro desde cero para luego realizar la importación sobre él</string>

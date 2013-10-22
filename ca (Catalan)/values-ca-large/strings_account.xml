@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>totes les dates</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>els últims 30 dies</item>
+		<item>els últims 3 mesos</item>
+		<item>els últims 6 mesos</item>
+		<item>els últims 12 mesos</item>
+		<item>propers 30 dies</item>
+		<item>propers 3 mesos</item>
+		<item>propers 6 mesos</item>
+		<item>propers 12 mesos</item>
+		<item>fins als propers 30 dies</item>
+		<item>fins als propers 3 mesos</item>
+		<item>fins als propers 6 mesos</item>
+		<item>fins als propers 12 mesos</item>
+		<item/> <!-- Intentionally left empty -->
+		<item>avui</item>
+	</string-array>
+</resources>
