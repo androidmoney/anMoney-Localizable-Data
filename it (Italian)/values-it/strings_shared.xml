@@ -18,7 +18,7 @@
 	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
+    <string name="quarter_format">Trim.^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 per ^2</string>
     <string name="filter_by_direction_order_format">^1 per ^3 ^2</string>
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 per ^3 ^2 per ^4</string>
@@ -112,7 +112,7 @@
 	<string name="task_killer_warning_format">Avvertenza circa le apps «task killer»:\n\nIl vostro dispositivo va attivato una volta al giorno per l’elaborazione automatica. Poiché questa elaborazione dura solo pochi secondi, non avrà alcun effetto dannoso sulla vita della batteria del tuo dispositivo.\n\nI task killer impediscono la corretta esecuzione di questo processo in background e pertanto non devono essere utilizzati con ^1</string>
 	<string name="no_thanks">No grazie</string>
 	<string name="maybe_later">Forse più tardi</string>
-	<string name="unexpected_error_warning">Si è verificato un errore imprevisto costringendo anMoney a smettere di funzionare correttamente.\n\nVi preghiamo di aiutarci a risolvere il problema inviandoci un report dell’errore che si è verificato. E’ possibile modificare l’indirizzo di posta elettronica prima di inviare la email.\n\nGrazie per la vostra collaborazione.</string>
+	<string name="unexpected_error_warning">Si è verificato un errore imprevisto che ha causato un malfunzionamento di anMoney.\n\nVi preghiamo di aiutarci a risolvere il problema inviandoci un report dell’errore che si è verificato. E’ possibile modificare l’indirizzo di posta elettronica prima di inviare la email.\n\nGrazie per la vostra collaborazione.</string>
     <string name="unexpected_error_notification_ticker">Errore imprevisto. Per favore inviaci un report.</string>
     <string name="unexpected_error_notification_title">anMoney si è interrotto</string>
     <string name="unexpected_error_notification_text">Tocca qui per inviare un report.</string>
