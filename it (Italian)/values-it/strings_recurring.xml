@@ -165,71 +165,71 @@
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month">
-		<item>Al 1<sup><small>o</small></sup></item>
-		<item>Al 2<sup><small>o</small></sup></item>
-		<item>Al 3<sup><small>o</small></sup></item>
-		<item>Al 4<sup><small>o</small></sup></item>
-		<item>Al 5<sup><small>o</small></sup></item>
-		<item>Al 6<sup><small>o</small></sup></item>
-		<item>Al 7<sup><small>o</small></sup></item>
-		<item>Al 8<sup><small>o</small></sup></item>
-		<item>Al 9<sup><small>o</small></sup></item>
-		<item>Al 10<sup><small>o</small></sup></item>
-		<item>Al 11<sup><small>o</small></sup></item>
-		<item>Al 12<sup><small>o</small></sup></item>
-		<item>Al 13<sup><small>o</small></sup></item>
-		<item>Al 14<sup><small>o</small></sup></item>
-		<item>Al 15<sup><small>o</small></sup></item>
-		<item>Al 16<sup><small>o</small></sup></item>
-		<item>Al 17<sup><small>o</small></sup></item>
-		<item>Al 18<sup><small>o</small></sup></item>
-		<item>Al 19<sup><small>o</small></sup></item>
-		<item>Al 20<sup><small>o</small></sup></item>
-		<item>Al 21<sup><small>o</small></sup></item>
-		<item>Al 22<sup><small>o</small></sup></item>
-		<item>Al 23<sup><small>o</small></sup></item>
-		<item>Al 24<sup><small>o</small></sup></item>
-		<item>Al 25<sup><small>o</small></sup></item>
-		<item>Al 26<sup><small>o</small></sup></item>
-		<item>Al 27<sup><small>o</small></sup></item>
-		<item>Al 28<sup><small>o</small></sup></item>
-		<item>Al 29<sup><small>o</small></sup></item>
-		<item>Al 30<sup><small>o</small></sup></item>
-		<item>Al 31<sup><small>o</small></sup></item>
+		<item>Al 1º</item>
+		<item>Al 2º</item>
+		<item>Al 3º</item>
+		<item>Al 4º</item>
+		<item>Al 5º</item>
+		<item>Al 6º</item>
+		<item>Al 7º</item>
+		<item>Al 8º</item>
+		<item>Al 9º</item>
+		<item>Al 10º</item>
+		<item>Al 11º</item>
+		<item>Al 12º</item>
+		<item>Al 13º</item>
+		<item>Al 14º</item>
+		<item>Al 15º</item>
+		<item>Al 16º</item>
+		<item>Al 17º</item>
+		<item>Al 18º</item>
+		<item>Al 19º</item>
+		<item>Al 20º</item>
+		<item>Al 21º</item>
+		<item>Al 22º</item>
+		<item>Al 23º</item>
+		<item>Al 24º</item>
+		<item>Al 25º</item>
+		<item>Al 26º</item>
+		<item>Al 27º</item>
+		<item>Al 28º</item>
+		<item>Al 29º</item>
+		<item>Al 30º</item>
+		<item>Al 31º</item>
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month_and_on_the">
-		<item>Al 1<sup><small>o</small></sup> ed al</item>
-		<item>Al 2<sup><small>o</small></sup> ed al</item>
-		<item>Al 3<sup><small>o</small></sup> ed al</item>
-		<item>Al 4<sup><small>o</small></sup> ed al</item>
-		<item>Al 5<sup><small>o</small></sup> ed al</item>
-		<item>Al 6<sup><small>o</small></sup> ed al</item>
-		<item>Al 7<sup><small>o</small></sup> ed al</item>
-		<item>Al 8<sup><small>o</small></sup> ed al</item>
-		<item>Al 9<sup><small>o</small></sup> ed al</item>
-		<item>Al 10<sup><small>o</small></sup> ed al</item>
-		<item>Al 11<sup><small>o</small></sup> ed al</item>
-		<item>Al 12<sup><small>o</small></sup> ed al</item>
-		<item>Al 13<sup><small>o</small></sup> ed al</item>
-		<item>Al 14<sup><small>o</small></sup> ed al</item>
-		<item>Al 15<sup><small>o</small></sup> ed al</item>
-		<item>Al 16<sup><small>o</small></sup> ed al</item>
-		<item>Al 17<sup><small>o</small></sup> ed al</item>
-		<item>Al 18<sup><small>o</small></sup> ed al</item>
-		<item>Al 19<sup><small>o</small></sup> ed al</item>
-		<item>Al 20<sup><small>o</small></sup> ed al</item>
-		<item>Al 21<sup><small>o</small></sup> ed al</item>
-		<item>Al 22<sup><small>o</small></sup> ed al</item>
-		<item>Al 23<sup><small>o</small></sup> ed al</item>
-		<item>Al 24<sup><small>o</small></sup> ed al</item>
-		<item>Al 25<sup><small>o</small></sup> ed al</item>
-		<item>Al 26<sup><small>o</small></sup> ed al</item>
-		<item>Al 27<sup><small>o</small></sup> ed al</item>
-		<item>Al 28<sup><small>o</small></sup> ed al</item>
-		<item>Al 29<sup><small>o</small></sup> ed al</item>
-		<item>Al 30<sup><small>o</small></sup> ed al</item>
-		<item>Al 31<sup><small>o</small></sup> ed al</item>
+		<item>Al 1º ed al</item>
+		<item>Al 2º ed al</item>
+		<item>Al 3º ed al</item>
+		<item>Al 4º ed al</item>
+		<item>Al 5º ed al</item>
+		<item>Al 6º ed al</item>
+		<item>Al 7º ed al</item>
+		<item>Al 8º ed al</item>
+		<item>Al 9º ed al</item>
+		<item>Al 10º ed al</item>
+		<item>Al 11º ed al</item>
+		<item>Al 12º ed al</item>
+		<item>Al 13º ed al</item>
+		<item>Al 14º ed al</item>
+		<item>Al 15º ed al</item>
+		<item>Al 16º ed al</item>
+		<item>Al 17º ed al</item>
+		<item>Al 18º ed al</item>
+		<item>Al 19º ed al</item>
+		<item>Al 20º ed al</item>
+		<item>Al 21º ed al</item>
+		<item>Al 22º ed al</item>
+		<item>Al 23º ed al</item>
+		<item>Al 24º ed al</item>
+		<item>Al 25º ed al</item>
+		<item>Al 26º ed al</item>
+		<item>Al 27º ed al</item>
+		<item>Al 28º ed al</item>
+		<item>Al 29º ed al</item>
+		<item>Al 30º ed al</item>
+		<item>Al 31º ed al</item>
 	</string-array>
 	<string name="on_the_last_day_of_the_month">L’ultimo giorno del mese</string>
 	<string-array name="on_the_nth_day_of_the_week_format">
