@@ -230,7 +230,7 @@
 	<string name="backup_folder">Backup cartella</string>
 
 	<string name="date_in_file_name">Data nel nome del file</string>
-	<string name="date_in_file_name_description">Se selezionato, verrà aggiunta la data odierna al nome del file quando si invia</string>
+	<string name="date_in_file_name_description">Se selezionato, in fase di creazione del resoconto verrà aggiunta la data odierna alla stringa di testo del nome del file</string>
 
 	<string name="automatic_backup">Backup automatico</string>
 	<string name="automatic_backup_description">Se selezionato, verrà eseguito il backup automatico del registro</string>
