@@ -305,7 +305,7 @@
 		<item>Neste 3 måneder</item>
 		<item>Neste 6 måneder</item>
 		<item>Neste 12 måneder</item>
-		<item>Frem til </item>
+		<item>Opp til de neste 30 dager</item>
 		<item>Opp til de neste 3 måneder</item>
 		<item>Opp til de neste 6 måneder</item>
 		<item>Opp til de neste 12 måneder</item>
@@ -329,10 +329,10 @@
 		<item>de neste 3 måneder</item>
 		<item>de neste 6 måneder</item>
 		<item>de neste 12 måneder</item>
-		<item>opp til de neste 30 dager</item>
-		<item>opp til de neste 3 måneder</item>
-		<item>opp til de neste 6 måneder</item>
-		<item>opp til de neste 12 måneder</item>
+		<item>+ 30 dager</item>
+		<item>+ 3 måneder</item>
+		<item>+ 6 måneder</item>
+		<item>+ 12 måneder</item>
 		<item/>
 		<item>i dag</item>
 	</string-array>
