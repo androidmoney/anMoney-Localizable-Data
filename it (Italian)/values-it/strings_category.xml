@@ -35,19 +35,19 @@
     <string name="no_categories_income">Non avete alcuna categoria di entrate</string>
     <string name="no_classes">Non avete alcuna classe impostata</string>
     <string name="uncategorized_transactions">Transazioni non categorizzate</string>
-    <string name="delete_category_no_subcategories_warning_format">La categoria ^1 sarà definitivamente cancellata</string>
-    <string name="delete_class_no_subclass_warning_format">La classe ^1 sarà definitivamente cancellata</string>
-    <string name="delete_category_with_subcategories_warning_format">La categoria ^1 e <b>tutte le sottocategorie</b> saranno definitivamente cancellate</string>
-    <string name="delete_class_with_subclass_warning_format">La classe ^1 e <b>tutte le sottoclassi</b> saranno definitivamente cancellate</string>
-    <string name="delete_subcategory_warning_format">La sottocategoria ^1 sarà definitivamente cancellata</string>
-    <string name="delete_subclass_warning_format">La sottoclasse ^1 sarà definitivamente cancellata</string>
-    <string name="delete_classification_warning_format">La classificazione ^1 sarà definitivamente cancellata. Tutte le classificazioni verranno eliminate dalle relative transazioni</string>
-    <string name="default_categories_add_confirmation">Vuoi inserire una categoria predefinita</string>
-    <string name="default_categories_added">Categoria predefinita inserita</string>
+    <string name="delete_category_no_subcategories_warning_format">La categoria ^1 verrà definitivamente cancellata</string>
+    <string name="delete_class_no_subclass_warning_format">La classe ^1 verrà definitivamente cancellata</string>
+    <string name="delete_category_with_subcategories_warning_format">La categoria ^1 e <b>tutte le relative sottocategorie</b> verranno definitivamente cancellate</string>
+    <string name="delete_class_with_subclass_warning_format">La classe ^1 e <b>tutte le relative sottoclassi</b> verranno definitivamente cancellate</string>
+    <string name="delete_subcategory_warning_format">La sottocategoria ^1 verrà definitivamente cancellata</string>
+    <string name="delete_subclass_warning_format">La sottoclasse ^1 verrà definitivamente cancellata</string>
+    <string name="delete_classification_warning_format">La classificazione ^1 verrà definitivamente cancellata. Tutte le classificazioni verranno eliminate dalle relative transazioni</string>
+    <string name="default_categories_add_confirmation">Vuoi inserire le categorie predefinite</string>
+    <string name="default_categories_added">Categorie predefinite inserite</string>
     <string name="all_categories">Tutte le categorie</string>
     <string name="expense">Spesa</string>
     <string name="expenses">Spese</string>
-    <string name="expense_categories">Categorie di spese</string>
+    <string name="expense_categories">Categorie di spesa</string>
     <string name="income">Entrate</string>
     <string name="income_categories">Categorie di entrata</string>
 	<string name="savings">Risparmio</string>
@@ -60,18 +60,18 @@
     <string name="cannot_be_zero">Non può essere 0</string>
     <string name="change_expense_warning">Trasformare questa categoria di spesa in entrata, o viceversa</string>
     <string name="prepopulate">Compilare con categorie predefinite</string>
-    <string name="short_categories">Caricare solo breve lista delle categorie (si avrà la possibilità di caricare l’elenco completo in seguito)</string>
+    <string name="short_categories">Caricare solo la lista breve delle categorie (si avrà la possibilità di caricare l’elenco completo in seguito)</string>
     <string name="view_categories">Visualizza categorie</string>
     <string name="category_not_found">Categoria inesistente</string>
     <string name="class_not_found">Classe inesistente</string>
 	<string name="total_income">Entrate totali</string>
-	<string name="total_expense">Uscite totali</string>
+	<string name="total_expense">Spese totali</string>
 	<string name="net">Netto</string>
 	<string name="net_income">Entrate nette</string>
 	<string name="uncategorized">Non categorizzata</string>
     <string name="income_uncategorized">Entrata non categorizzata</string>
     <string name="expense_uncategorized">Spesa non categorizzata</string>
-    <string name="show_uncategorized">Visualizza non categorizzata</string>
+    <string name="show_uncategorized">Visualizza non categorizzate</string>
     <string name="move_subcategory_to_another_category_warning">Vuoi spostare questa sottocategoria sotto un’altra categoria</string>
     <string name="show_zero_balance_categories">Visualizza categorie con saldo pari a zero</string>
     <string name="show_zero_balance_items">Visualizza voci con saldo pari a zero</string>
@@ -102,7 +102,7 @@
 
 	<string-array name="default_classifications">
 		<item>Membri della famiglia</item>
-		<item>Proprietà</item>
+		<item>Beni immobili</item>
 		<item>Progetti</item>
 		<item>Hobbies</item>
 		<item>Vacanze</item>
