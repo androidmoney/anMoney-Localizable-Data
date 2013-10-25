@@ -87,7 +87,7 @@
 	<string name="end_date">Data finale</string>
 	<string name="must_be_less_than_format">Più piccolo del formato &lt; «^1»</string>
 	<string name="must_be_greater_than_format">Più grande del formato &gt; «^1»</string>
-	<string name="reset">Resetta</string>
+	<string name="reset">Ripristina</string>
 	<string name="total">Totale</string>
 	<string name="grand_total">Totale generale</string>
     <string name="average">Media</string>
@@ -98,7 +98,7 @@
 	<string name="choose_another_name">Seleziona un altro nome</string>
 	<string name="will_be_overwritten">Verrà sovrascritto</string>
 	<string name="calendar">Calendario</string>
-	<string name="remind_me">Ricordami</string>
+	<string name="remind_me">Promemoria</string>
 	<string name="add_as_a_contact">Inserisci come contatto</string>
     <string name="to_from_format">^1 ^2</string>
     <string name="to">A</string>
@@ -109,7 +109,7 @@
 	<string name="please_rate_app_format">Per cortesia prenditi\nun attimo per votare ^1</string>
 	<string name="later_rate_description">Ti verrà ricordato fra una settimana circa</string>
 	<string name="no_rate_description_format">Potete farlo in qualsiasi momento dala schermata ^1</string>
-	<string name="task_killer_warning_format">Avvertenza circa le apps «task killer»:\n\nIl vostro dispositivo va attivato una volta al giorno per l’elaborazione automatica. Poiché questa elaborazione dura solo pochi secondi, non avrà alcun effetto dannoso sulla vita della batteria del tuo dispositivo.\n\nI task killer impediscono la corretta esecuzione di questo processo in background e pertanto non devono essere utilizzati con ^1</string>
+	<string name="task_killer_warning_format">Avvertenza in merito alle applicazioni «task killer»:\n\nIl vostro dispositivo va attivato una volta al giorno per l’elaborazione automatica. Poiché questa elaborazione dura solo pochi secondi, non avrà alcun effetto dannoso sulla vita della batteria del tuo dispositivo.\n\nI task killer impediscono la corretta esecuzione di questo processo in background e pertanto non devono essere utilizzati con ^1</string>
 	<string name="no_thanks">No grazie</string>
 	<string name="maybe_later">Forse più tardi</string>
 	<string name="unexpected_error_warning">Si è verificato un errore imprevisto che ha causato un malfunzionamento di anMoney.\n\nVi preghiamo di aiutarci a risolvere il problema inviandoci un report dell’errore che si è verificato. E’ possibile modificare l’indirizzo di posta elettronica prima di inviare la email.\n\nGrazie per la vostra collaborazione.</string>
