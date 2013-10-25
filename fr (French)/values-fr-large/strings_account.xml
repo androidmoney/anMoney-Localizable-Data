@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>pour toutes dates</item>
+		<item>pour ^1</item>
+		<item>pour ^1</item>
+		<item>pour ^1</item>
+		<item>pour ^1</item>
+		<item>pour ^1</item>
+		<item>pour ^1</item>
+		<item>pour ^1</item>
+		<item>pour les 30 derniers jours</item>
+		<item>pour les 3 derniers mois</item>
+		<item>pour les 6 derniers mois</item>
+		<item>pour les 12 derniers mois</item>
+		<item>pour les 30 prochains jours</item>
+		<item>pour les 3 prochains mois</item>
+		<item>pour les 6 prochains mois</item>
+		<item>pour les 12 prochains mois</item>
+		<item>jusqu’aux 30 prochains jours</item>
+		<item>jusqu’aux 3 prochains mois</item>
+		<item>jusqu’aux 6 prochains mois</item>
+		<item>jusqu’aux 12 prochains mois</item>
+		<item>pour ^1</item>
+		<item>pour aujourd’hui</item>
+	</string-array>
+</resources>

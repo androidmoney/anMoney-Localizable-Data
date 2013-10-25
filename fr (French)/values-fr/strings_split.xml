@@ -6,7 +6,7 @@
 	<string name="edit_split">Modifier le fractionnement</string>
 	<string name="edit_splits">Modifier les fractionnements</string>
 	<string name="delete_split">Supprimer le fractionnement</string>
-<!-- New --> <string name="export_splits">Exporter les fractionnements</string>
+	<string name="export_splits">Exporter les fractionnements</string>
 	<string name="sum_of_splits">Somme des fractionnements</string>
 	<string name="unassigned">Sans assignation</string>
 	<string name="transaction_total">Total de la transaction</string>

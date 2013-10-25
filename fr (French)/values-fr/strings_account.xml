@@ -117,7 +117,7 @@
 	<string name="balance_as_of_today">Solde à la date d’aujourd’hui</string>
 	<string name="cleared_total">Total pointé</string>
 	<string name="reconciled_total">Total rapproché</string>
-<!-- New --> <string name="filtered_total">Total filtré</string>
+	<string name="filtered_total">Total filtré</string>
 	<string name="default_cash_account_name">Ma trésorerie quotidienne</string>
 	<string name="default_checking_account_name">Mon compte courant</string>
 	<string name="default_savings_account_name">Mon compte d’épargne</string>
@@ -304,10 +304,10 @@
 		<item>Les 3 prochains mois</item>
 		<item>Les 6 prochains mois</item>
 		<item>Les 12 prochains mois</item>
-<!-- New --> <item>Up to the next 30 days</item>
-<!-- New --> <item>Up to the next 3 months</item>
-<!-- New --> <item>Up to the next 6 months</item>
-<!-- New --> <item>Up to the next 12 months</item>
+		<item>Jusqu’aux 30 prochains jours</item>
+		<item>Jusqu’aux 3 prochains mois</item>
+		<item>Jusqu’aux 6 prochains mois</item>
+		<item>Jusqu’aux 12 prochains mois</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -328,12 +328,12 @@
 		<item>les 3 prochains mois</item>
 		<item>les 6 prochains mois</item>
 		<item>les 12 prochains mois</item>
-<!-- New --> <item>up to the next 30 days</item>
-<!-- New --> <item>up to the next 3 months</item>
-<!-- New --> <item>up to the next 6 months</item>
-<!-- New --> <item>up to the next 12 months</item>
+		<item>+ 30 jours</item>
+		<item>+ 3 mois</item>
+		<item>+ 6 mois</item>
+		<item>+ 12 mois</item>
 		<item/> <!-- Intentionally left empty -->
-<!-- New --> <item>aujourd’hui</item>
+		<item>aujourd’hui</item>
 	</string-array>
 
 	<string name="display_grouping">Affichage des groupes</string>
