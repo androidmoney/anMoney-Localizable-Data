@@ -180,7 +180,7 @@
 	<string name="opening">Iniziale</string>
 	<string-array name="opening_balance_edit_labels">
 	    <item>Saldo iniziale</item>
-		<item>Prezzo acquisto originale </item>
+		<item>Prezzo acquisto originale</item>
 		<item>Importo in origine del debito per questo conto</item>
 		<item>Importo in origine del debito per questa carta</item>
 	</string-array>

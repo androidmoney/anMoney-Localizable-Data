@@ -299,6 +299,4 @@
         <item/> <!-- Not used -->
         <item/> <!-- Not used -->
     </string-array>
-
-    <string name="internet_permission_warning"><b><u>重要:</u></b>私は現在可能ではありませんいくつかの新機能を準備するためのアプリに<b>インターネット</b>アクセス許可を追加して検討しています。この反対している場合は、私たちに<a href="mailto:android.money@gmail.com">書い</a>てください。</string>   
 </resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="transaction_list_date_range_title_bar">
+		<item>všechna data</item>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>posledních 30 dnů</item>
+		<item>poslední 3 měsíce</item>
+		<item>posledních 6 měsíců</item>
+		<item>posledních 12 měsíců</item>
+		<item>následujících 30 dnů</item>
+		<item>následující 3 měsíce</item>
+		<item>následujících 6 měsíců</item>
+		<item>následujících 12 měsíců</item>
+<!-- New --> <item>všechna data včetně následujících 30 dnů</item>
+<!-- New --> <item>všechna data včetně následující 3 měsíce</item>
+<!-- New --> <item>všechna data včetně následujících 6 měsíců</item>
+<!-- New --> <item>všechna data včetně následujících 12 měsíců</item>
+		<item/> <!-- Intentionally left empty -->
+<!-- New --> <item>dnes</item>
+	</string-array>
+</resources>

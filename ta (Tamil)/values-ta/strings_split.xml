@@ -6,7 +6,7 @@
     <string name="edit_split">பிளவை திருத்து</string>
     <string name="edit_splits">பிளவுகளை திருத்து</string>
     <string name="delete_split">பிளவை அழி</string>
-<!-- New --> <string name="export_splits">பிளவுகளை ஏற்றுமதி செய்</string>
+	<string name="export_splits">பிளவுகளை ஏற்றுமதி செய்</string>
     <string name="sum_of_splits">பிளவுகளின் தொகை</string>
 	<string name="unassigned">ஒதுக்கப்படாதது</string>
 	<string name="transaction_total">மொத்த பரிவர்த்தனை</string>

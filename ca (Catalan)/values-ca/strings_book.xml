@@ -299,6 +299,4 @@
         <item>^1 entrades seran esborrades</item>
         <item/> <!-- Not used -->
 	</string-array>
-
-    <string name="internet_permission_warning"><b><u>IMPORTANT:</u></b> Estic contemplant afegir el permís <b>d’Internet</b> a l’aplicació per preparar-se per algunes noves característiques que actualment no són possibles. Si estàs en contra d’això, si us plau <a href="mailto:android.money@gmail.com">escriu-nos</a> o truqueu-nos.</string>   
 </resources>

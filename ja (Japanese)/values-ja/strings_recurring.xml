@@ -44,7 +44,7 @@
 	<string name="auto_enter">自動入力</string>
 	<string name="auto_enter_and_reminder">自動入力と事前通知</string>
 	<string name="pay_by_check">小切手で支払う</string>
-	<string name="amount_is">金額: </string>
+	<string name="amount_is">金額</string>
 	<string name="fixed">固定</string>
 	<string name="estimated">予想</string>
 	<string name="estimated_amount_format">^1^2</string>

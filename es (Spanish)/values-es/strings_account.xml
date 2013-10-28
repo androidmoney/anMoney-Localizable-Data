@@ -134,7 +134,7 @@
 	<string name="total_for_unassigned">Total sin categoriza</string>
 	<string name="make_account_budget_question_part1">Te gustaría incluir esta cuenta en tu presupuesto</string>
 	<string name="make_account_budget_question_part2_format">Aún si presionas ^1, puedes hacer esto luego mediante la edición de la cuenta</string>
-	<string name="show_option_format">Mostrar la opción ^1 </string>
+	<string name="show_option_format">Mostrar la opción ^1</string>
 	<string name="show_closed">Mostrar cerradas</string>
 	
     <string name="no_accounts_yet">No hay cuentas todavía</string>

@@ -10,7 +10,7 @@
 	<string name="all_data_will_be_lost">Hele boken vil bli fjernet permanent om du ikke har noen sikkerhetskopier</string>
 	<string name="import_into_book">Importér inn i boken</string>
 	<string name="export_from_book">Eksporter fra boken</string>
-	<string name="import_into_book_format">Importer inn i boken ^1 </string>
+	<string name="import_into_book_format">Importer inn i boken ^1</string>
 	<string name="no_books">Du har ingen bøker</string>
 	<string name="upgrading_book">Oppgraderer bok</string>
 	<string name="upgrading_books">Oppgraderer bøker</string>
@@ -297,6 +297,4 @@
 		<item>^1 oppføringer vil bli slettet</item>
 		<item/>
 	</string-array>
-
-	<string name="internet_permission_warning"></string>
 </resources>

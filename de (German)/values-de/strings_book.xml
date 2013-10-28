@@ -299,6 +299,4 @@
 		<item>^1 Einträge werden gelöscht</item>
         <item/> <!-- Not used -->
 	</string-array>
-
-    <string name="internet_permission_warning"><b><u>WICHTIGE:</u></b> Ich überlege eine Erweiterung der Berechtigungen auf den <b>Internetzugriff</b> um einige neue Features vorbereiten zu können. Sollten Sie gegen eine derartige Erweiterung sein, <a href="mailto:android.money@gmail.com">schreiben</a> Sie uns bitte.</string>   
 </resources>

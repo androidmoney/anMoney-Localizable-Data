@@ -301,6 +301,4 @@
         <item>^1 entries will be deleted</item>
         <item/> <!-- Not used -->
     </string-array>
-
-	<string name="internet_permission_warning"><b><u>IMPORTANT:</u></b> I am contemplating adding the <b>Internet</b> permission to the app to prepare for some new features which are currently not possible. If you are against this, please <a href="mailto:android.money@gmail.com">write</a> to us.</string>   
 </resources>

@@ -98,7 +98,7 @@
     <string name="truncate_warning_format">Todas las transacciones anteriores al ^1 serán eliminadas de forma irreversible</string>
     <string name="information_and_help">Información &amp; ayuda</string>
     <string name="discussion_forum">Foro de discusión</string>
-    <string name="join_the_user_community_format">Únete a la comunidad de usuarios de ^1 </string> <!-- correct English file (posessive case: users's) -->
+    <string name="join_the_user_community_format">Únete a la comunidad de usuarios de ^1</string> <!-- correct English file (posessive case: users's) -->
     <string name="contact_us">Contáctanos</string>
     <string name="email_the_developers">Envíale un email directamente a los desarrolladores</string>
     <string name="tap_to_display_import_settings_format">Tocando ^1 se mostrará la pantalla de configuración de importación</string>
@@ -299,6 +299,4 @@
         <item>Se eliminará(n) ^1 registro(s)</item>
         <item/> <!-- Not used -->
 	</string-array>
-
-    <string name="internet_permission_warning"><b><u>IMPORTANTE:</u></b> Estoy contemplando añadir el permiso de <b>Internet</b> a la aplicación para prepararse para algunas nuevas características que actualmente no son posibles. Si estás en contra de esto, por favor <a href="mailto:android.money@gmail.com">escríbanos</a> o llámenos.</string>   
 </resources>

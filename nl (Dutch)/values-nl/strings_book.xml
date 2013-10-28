@@ -299,6 +299,4 @@ New        <string name="decline">Decline</string>
         <item>^1 invoeringen worden verwijderd</item>
         <item/> <!-- Not used -->
     </string-array>
-
-	<string name="internet_permission_warning"><b><u>BELANGRIJK:</u></b> Ik heb de toestemming voor internettoegang erbij gedaan om de app voor te bereiden op nieuwe dingen die nu nog niet kunnen. Als je hier tegen bent kan je een mail sturen naar <a href="mailto:android.money@gmail.com"></a>.</string>   
 </resources>

@@ -303,10 +303,10 @@
 		<item>Následující 3 měsíce</item>
 		<item>Následujících 6 měsíců</item>
 		<item>Následujících 12 měsíců</item>
-<!-- New --> <item>Up to the next 30 days</item>
-<!-- New --> <item>Up to the next 3 months</item>
-<!-- New --> <item>Up to the next 6 months</item>
-<!-- New --> <item>Up to the next 12 months</item>
+<!-- New --> <item>Všechna data včetně následujících 30 dnů</item>
+<!-- New --> <item>Všechna data včetně následující 3 měsíce</item>
+<!-- New --> <item>Všechna data včetně následujících 6 měsíců</item>
+<!-- New --> <item>Všechna data včetně následujících 12 měsíců</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -327,10 +327,10 @@
 		<item>následující 3 měsíce</item>
 		<item>následujících 6 měsíců</item>
 		<item>následujících 12 měsíců</item>
-<!-- New --> <item>up to the next 30 days</item>
-<!-- New --> <item>up to the next 3 months</item>
-<!-- New --> <item>up to the next 6 months</item>
-<!-- New --> <item>up to the next 12 months</item>
+<!-- New --> <item>+ 30 dnů</item>
+<!-- New --> <item>+ 3 měsíce</item>
+<!-- New --> <item>+ 6 měsíců</item>
+<!-- New --> <item>+ 12 měsíců</item>
 		<item/> <!-- Intentionally left empty -->
 <!-- New --> <item>dnes</item>
 	</string-array>

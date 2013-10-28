@@ -299,6 +299,4 @@
         <item>^1 záznamy budú zmazané</item>
         <item>^1 záznamov bude zmazaných</item>
     </string-array>
-
-    <string name="internet_permission_warning"><b><u>DÔLEŽITÝ:</u></b> Ja som premýšľať pridaním <b>Internet</b> oprávnenie k aplikácii pripraviť sa na niektoré nové prvky, ktoré sú v súčasnej dobe nie je možné. Ak ste proti tomu, <a href="mailto:android.money@gmail.com">napíšte</a> nám.</string>   
 </resources>

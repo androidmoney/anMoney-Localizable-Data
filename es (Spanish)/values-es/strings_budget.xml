@@ -23,8 +23,8 @@
 
     <string name="currently_monthly_format">total corriente menasual de ^1</string>
 	<string name="currently_quarterly_format">total corriente trimestral de ^1 trimestral</string>
-	<string name="currently_half_yearly_format">total corriente semestral de ^1 </string>
-    <string name="currently_yearly_format">total corriente anual ^1 </string>
+	<string name="currently_half_yearly_format">total corriente semestral de ^1</string>
+    <string name="currently_yearly_format">total corriente anual ^1</string>
     <string name="currently_custom_format">total corriente anual de ^1 para programación personalizada</string>
     <string name="budget_no_categories_yet">Por favor, crea categorías antes de configurar el presupuesto</string>
     <string name="budget_no_accounts_yet">Por favor, crea cuentas antes de configurar el presupuesto</string>

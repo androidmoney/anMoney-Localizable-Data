@@ -84,8 +84,8 @@
 	<string name="spending_by_category_over_time0">காலப்போக்கில் வகைபாட்டின் வழி செலவுகள்</string>
 	<string name="spending_by_category_over_time1">காலப்போக்கில் வகைபாட்டின் வழி செலவுகள் அல்லது காலப்போக்கில் ^1</string>
 	<string name="spending_by_category_over_time2">வகைபாட்டின் வழி செலவுகள், காலப்போக்கில் ^1 அல்லது ^2</string>
-<!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
-<!-- New --> <string name="last_account_used">The last account used</string>
+	<string name="assign_to_accounts">முன் கனிப்பின்போது இந்த கணக்கு(களை) அடிப்படையாக நியமி</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
+	<string name="last_account_used">கடைசியாக  பயன்படுத்திய  கணக்கு</string>
 		
     <string name="no_categories">வகைபாடுகள் இல்லை</string>
 	<string name="no_categories_yet">இன்னும் வகைபாடுகள் இல்லை</string>

@@ -44,7 +44,7 @@
 	<string name="auto_enter">Ingreso automatico</string>
 	<string name="auto_enter_and_reminder">Ingreso automatico &amp; Recordatorio</string>
 	<string name="pay_by_check">Lo pago con cheque</string>
-	<string name="amount_is">El importe es </string>
+	<string name="amount_is">El importe es</string>
 	<string name="fixed">Fijo</string>
 	<string name="estimated">Estimado</string>
 	<string name="estimated_amount_format">^1^2</string>

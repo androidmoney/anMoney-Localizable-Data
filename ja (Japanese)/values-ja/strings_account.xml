@@ -135,7 +135,7 @@
 	<string name="make_account_budget_question_part1">この口座を予算の一部に当てますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="make_account_budget_question_part2_format">ここで^1を選んでも、あとで口座の編集時にできます</string> <!-- Tap is "No" -->
 	<string name="show_option_format">^1オプションの表示</string> <!-- This will say "Show the Next Check Number option" -->
-	<string name="show_closed">閉じました</string> <!-- As in "show closed accounts" -->
+	<string name="show_closed">閉鎖済み口座の表示</string> <!-- As in "show closed accounts" -->
     
     <string name="no_accounts_yet">口座がありません</string>
 	<string-array name="account_count_format_plurals">

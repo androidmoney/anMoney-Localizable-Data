@@ -17,7 +17,7 @@
 	<string name="move_to_next_occurrence">அடுத்த நிகழ்விற்கு நகர்த்தவும்</string>
 	<string name="remain_on_this_occurrence_format">^1 ஐ விட குறைவான தொகை உள்ளிடப்பட்டால் இந்த நிகழ்விலேயே தங்கியிரு</string>	    	    	
 	<string name="edit_recurring">மறுநிகழ்வை திருத்த</string>
-<!-- New --> <string name="edit_occurrence">நிகழ்வை திருத்த</string>
+	<string name="edit_occurrence">கிடைக்கும் விதத்தை  திருத்த</string>
 	<string name="entire_series">ஒட்டுமொத்த தொடர்கள்</string>
 	<string name="edit_template_warning">தனிப்பயன் எதிர்கால நிகழ்வுகள் உள்ளன.\n\nதொடரை திருத்துவதன் மூலம் இந்த தனிப்பயன் தகவுகளை நீக்கலாம்</string>
 	<string name="delete_recurring">தொடர்நிகழ்வை அழி</string>
