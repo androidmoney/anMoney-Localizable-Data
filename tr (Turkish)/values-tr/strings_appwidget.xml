@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="appwidget_warning_format">Görünüşe göre ^1 şuan hafıza kartına kurulu.\n\nBu widgetin kaybolmasına neden olabilir, eğer widget kullanmayı planlıyorsanız ^1 i hafıza kartından cihaz hafızasına taşımanız öncelikle önerilir</string> <!-- ^1 is the app name -->
+
+    <string name="no_books_warning">Lütfen widgeti düşürmeden önce en az bir kitap oluşturun</string>
+    <string name="no_books_and_accounts_warning">Lütfen widgeti düşürmeden önce en az bir kitap ve bir hesap oluşturun</string>
+    <string name="no_accounts_warning">Lütfen widgeti düşürmeden önce en az bir hesap oluşturun</string>
+    <string name="book_no_longer_exists_format">^1 kitabı artık yok</string>
+    <string name="account_no_longer_exists">Hesap artık yok</string>
+    <string name="report_no_longer_exists">Rapor artık yok</string>
+    <string name="budget_no_longer_exists_format">^1 bütçesi artık yok</string>
+    
+    <string name="quick_entry">Hızlı girdi</string>
+    <string name="app_name_quick_entry">anMoney — Hızlı girdi</string>
+    <string name="app_name_quick_entry_large">anMoney — Hızlı girdi (büyük)</string>
+    <string name="app_name_quick_entry_small">anMoney — Hızlı girdi (küçük)</string>
+    <string name="show_total">Hesap toplamını göster</string>
+    <string name="opacity">Saydamlık</string>
+
+    <string name="app_name_upcoming">anMoney — Yaklaşan</string> <!-- as in Upcoming Bills -->
+
+    <string name="app_name_budget">anMoney — Bütçe</string>
+
+    <string name="app_name_report">anMoney — Rapor</string>
+
+	<string name="dash_clock_extension_description">Varsa, günü geçmiş fatura ve ödemeleri göster</string>
+</resources>

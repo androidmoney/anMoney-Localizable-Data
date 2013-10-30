@@ -10,6 +10,7 @@
 <!-- <string name="associated_loan_if_any">Dazugehöriger Kredit, wenn vorhanden</string> -->
 <!-- <string name="associated_reward_program">Das zugehörige Vergütungsprogramm</string> -->
 <!-- <string name="associated_reward_program_if_any">Dazugehöriges Vergütungsprogramm, wenn vorhanden</string> -->
+    <string name="account_balances">Kontostände</string>
     <string name="vehicle">KfZ</string>
     <string name="property">Grund und Boden</string>
 	<string name="view_accounts">Konten ansehen</string>

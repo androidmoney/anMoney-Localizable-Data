@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    	   
+	<string name="FilePicker_open_folder">Klasör aç</string>
+	<string name="FilePicker_select_file">Dosya seç</string>
+	<string name="FilePicker_deselect_file">Seçimi geri al</string>
+	<string name="FilePicker_delete_file">Dosya sil</string>
+	<string name="FilePicker_go_to_parent_folder">Ana dizine dön</string>
+</resources>

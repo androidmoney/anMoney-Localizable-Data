@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<region>Arjantin</region>
+		<name>Arjantin pesosu</name>
+		<iso4217>ARS</iso4217>
+	</record>
+	<record>
+		<region>Avustralya</region>
+		<name>Avustralya doları</name>
+		<iso4217>AUD</iso4217>
+	</record>
+	<record>
+		<region>Bahreyn</region>
+		<name>Bahreyn dinarı</name>
+		<iso4217>BHD</iso4217>
+	</record>
+	<record>
+		<region>Barbados</region>
+		<name>Barbados doları</name>
+		<iso4217>BBD</iso4217>
+	</record>
+	<record>
+		<region>Bolivya</region>
+		<name>Bolivya bolivyanosu</name>
+		<iso4217>BOB</iso4217>
+	</record>
+	<record>
+		<region>Brezilya</region>
+		<name>Brezilya reali</name>
+		<iso4217>BRL</iso4217>
+	</record>
+	<record>
+		<region>Birleşik Krallık</region>
+		<name>İngiliz sterlini</name>
+		<iso4217>GBP</iso4217>
+	</record>
+	<record>
+		<region>Kanada</region>
+		<name>Kanada doları</name>
+		<iso4217>CAD</iso4217>
+	</record>
+	<record>
+		<region>Kamerun</region>
+		<name>CFA frangı BEAC</name>
+		<iso4217>XAF</iso4217>
+	</record>
+	<record>
+		<region>Şili</region>
+		<name>Şili pesosu</name>
+		<iso4217>CLP</iso4217>
+	</record>
+	<record>
+		<region>Çin</region>
+		<name>Çin yuanı</name>
+		<iso4217>CNY</iso4217>
+	</record>
+	<record>
+		<region>Kolombiya</region>
+		<name>Kolombiya pesosu</name>
+		<iso4217>COP</iso4217>
+	</record>
+	<record>
+		<region>Çek Cumhuriyeti</region>
+		<name>Çek Cumhuriyeti korunası</name>
+		<iso4217>CZK</iso4217>
+	</record>
+	<record>
+		<region>Danimarka</region>
+		<name>Danimarka kronu</name>
+		<iso4217>DKK</iso4217>
+	</record>
+	<record>
+		<region>Antigua ve Barbuda</region>
+		<name>Doğu Karayip doları</name>
+		<iso4217>XCD</iso4217>
+	</record>
+	<record>
+		<region>Mısır</region>
+		<name>Mısır lirası</name>
+		<iso4217>EGP</iso4217>
+	</record>
+	<record>
+		<region>Birleşik Arap Emirlikleri</region>
+		<name>Birleşik Arap Emirlikleri dirhemi</name>
+		<iso4217>AED</iso4217>
+	</record>
+	<record>
+		<region>Euro bölgesi</region>
+		<name>Euro</name>
+		<iso4217>EUR</iso4217>
+	</record>
+	<record>
+		<region>Hong Kong</region>
+		<name>Hong Kong doları</name>
+		<iso4217>HKD</iso4217>
+	</record>
+	<record>
+		<region>Macaristan</region>
+		<name>Macar forinti</name>
+		<iso4217>HUF</iso4217>
+	</record>
+	<record>
+		<region>İzlanda</region>
+		<name>İzlanda kronu</name>
+		<iso4217>ISK</iso4217>
+	</record>
+	<record>
+		<region>Hindistan</region>
+		<name>Hindistan rupisi</name>
+		<iso4217>INR</iso4217>
+	</record>
+	<record>
+		<region>Endonezya</region>
+		<name>Endonezya rupiahı</name>
+		<iso4217>IDR</iso4217>
+	</record>
+	<record>
+		<region>İsrail</region>
+		<name>Yeni İsrail şekeli</name>
+		<iso4217>ILS</iso4217>
+	</record>
+	<record>
+		<region>Jamaika</region>
+		<name>Jamaika doları</name>
+		<iso4217>JMD</iso4217>
+	</record>
+	<record>
+		<region>Japonya</region>
+		<name>Japon yeni</name>
+		<iso4217>JPY</iso4217>
+	</record>
+	<record>
+		<region>Ürdün</region>
+		<name>Ürdün dinarı</name>
+		<iso4217>JOD</iso4217>
+	</record>
+	<record>
+		<region>Kenya</region>
+		<name>Kenya şilini</name>
+		<iso4217>KES</iso4217>
+	</record>
+	<record>
+		<region>Güney Kore</region>
+		<name>Güney Kore wonu</name>
+		<iso4217>KRW</iso4217>
+	</record>
+	<record>
+		<region>Kuveyt</region>
+		<name>Kuveyt dinarı</name>
+		<iso4217>KWD</iso4217>
+	</record>
+	<record>
+		<region>Letonya</region>
+		<name>Letonya latı</name>
+		<iso4217>LVL</iso4217>
+	</record>
+	<record>
+		<region>Lübnan</region>
+		<name>Lübnan lirası</name>
+		<iso4217>LBP</iso4217>
+	</record>
+	<record>
+		<region>Litvanya</region>
+		<name>Litvanya litası</name>
+		<iso4217>LTL</iso4217>
+	</record>
+	<record>
+		<region>Malezya</region>
+		<name>Malezya ringgiti</name>
+		<iso4217>MYR</iso4217>
+	</record>
+	<record>
+		<region>Meksika</region>
+		<name>Meksika pesosu</name>
+		<iso4217>MXN</iso4217>
+	</record>
+	<record>
+		<region>Fas</region>
+		<name>Fas dirhemi</name>
+		<iso4217>MAD</iso4217>
+	</record>
+	<record>
+		<region>Namibya</region>
+		<name>Namibya doları</name>
+		<iso4217>NAD</iso4217>
+	</record>
+	<record>
+		<region>Nepal</region>
+		<name>Nepal rupisi</name>
+		<iso4217>NPR</iso4217>
+	</record>
+	<record>
+		<region>Türkiye</region>
+		<name>Türk lirası</name>
+		<iso4217>TRY</iso4217>
+	</record>
+	<record>
+		<region>Yeni Zelanda</region>
+		<name>Yeni Zelanda doları</name>
+		<iso4217>NZD</iso4217>
+	</record>
+	<record>
+		<region>Nijer</region>
+		<name>CFA frangı BCEAO</name>
+		<iso4217>XOF</iso4217>
+	</record>
+	<record>
+		<region>Nijerya</region>
+		<name>Nijerya nairası</name>
+		<iso4217>NGN</iso4217>
+	</record>
+	<record>
+		<region>Norveç</region>
+		<name>Norveç kronu</name>
+		<iso4217>NOK</iso4217>
+	</record>
+	<record>
+		<region>Umman</region>
+		<name>Umman riyali</name>
+		<iso4217>OMR</iso4217>
+	</record>
+	<record>
+		<region>Pakistan</region>
+		<name>Pakistan rupisi</name>
+		<iso4217>PKR</iso4217>
+	</record>
+	<record>
+		<region>Panama</region>
+		<name>Panama balboası</name>
+		<iso4217>PAB</iso4217>
+	</record>
+	<record>
+		<region>Peru</region>
+		<name>Peru nuevo solü</name>
+		<iso4217>PEN</iso4217>
+	</record>
+	<record>
+		<region>Filipinler</region>
+		<name>Filipinler pesosu</name>
+		<iso4217>PHP</iso4217>
+	</record>
+	<record>
+		<region>Polonya</region>
+		<name>Polonya zlotisi</name>
+		<iso4217>PLN</iso4217>
+	</record>
+	<record>
+		<region>Katar</region>
+		<name>Katar riyali</name>
+		<iso4217>QAR</iso4217>
+	</record>
+	<record>
+		<region>Romanya</region>
+		<name>Romen leyi</name>
+		<iso4217>RON</iso4217>
+	</record>
+	<record>
+		<region>Rusya</region>
+		<name>Rus rublesi</name>
+		<iso4217>RUB</iso4217>
+	</record>
+	<record>
+		<region>Suudi Arabistan</region>
+		<name>Suudi Arabistan riyali</name>
+		<iso4217>SAR</iso4217>
+	</record>
+	<record>
+		<region>Singapur</region>
+		<name>Singapur doları</name>
+		<iso4217>SGD</iso4217>
+	</record>
+	<record>
+		<region>Güney Afrika</region>
+		<name>Güney Afrika randı</name>
+		<iso4217>ZAR</iso4217>
+	</record>
+	<record>
+		<region>Sri Lanka</region>
+		<name>Sri Lanka rupisi</name>
+		<iso4217>LKR</iso4217>
+	</record>
+	<record>
+		<region>İsveç</region>
+		<name>İsveç kronu</name>
+		<iso4217>SEK</iso4217>
+	</record>
+	<record>
+		<region>İsviçre</region>
+		<name>İsviçre frangı</name>
+		<iso4217>CHF</iso4217>
+	</record>
+	<record>
+		<region>Tayvan</region>
+		<name>Yeni Tayvan doları</name>
+		<iso4217>TWD</iso4217>
+	</record>
+	<record>
+		<region>Tayland</region>
+		<name>Tayland bahtı</name>
+		<iso4217>THB</iso4217>
+	</record>
+	<record>
+		<region>Ukrayna</region>
+		<name>Ukrayna grivnası</name>
+		<iso4217>UAH</iso4217>
+	</record>
+	<record>
+		<region>Uruguay</region>
+		<name>Uruguay pesosu</name>
+		<iso4217>UYU</iso4217>
+	</record>
+	<record>
+		<region>ABD</region>
+		<name>ABD doları</name>
+		<iso4217>USD</iso4217>
+	</record>
+	<record>
+		<region>Venezuela</region>
+		<name>Venezuela bolivarı</name>
+		<iso4217>VEF</iso4217>
+	</record>
+	<record>
+		<region>Vietnam</region>
+		<name>Vietnam dongu</name>
+		<iso4217>VND</iso4217>
+	</record>
+
+	<record>
+		<region>Aruba</region>
+		<name>Aruba florini</name>
+		<iso4217>AWG</iso4217>
+	</record>
+	<record>
+		<region>Bosna Hersek</region>
+		<name>Konvertibl Bosna Hersek markı</name>
+		<iso4217>BAM</iso4217>
+	</record>
+	<record>
+		<region>Bangladeş</region>
+		<name>Bangladeş takası</name>
+		<iso4217>BDT</iso4217>
+	</record>
+	<record>
+		<region>Bulgaristan</region>
+		<name>Bulgar levası</name>
+		<iso4217>BGN</iso4217>
+	</record>
+	<record>
+		<region>Bermuda</region>
+		<name>Bermuda doları</name>
+		<iso4217>BMD</iso4217>
+	</record>
+	<record>
+		<region>Bahamalar</region>
+		<name>Bahama doları</name>
+		<iso4217>BSD</iso4217>
+	</record>
+	<record>
+		<region>Fiji</region>
+		<name>Fiji doları</name>
+		<iso4217>FJD</iso4217>
+	</record>
+	<record>
+		<region>Gana</region>
+		<name>Gana sedisi</name>
+		<iso4217>GHS</iso4217>
+	</record>
+	<record>
+		<region>Gambiya</region>
+		<name>Gambiya dalasisi</name>
+		<iso4217>GMD</iso4217>
+	</record>
+	<record>
+		<region>Guatemala</region>
+		<name>Guatemala quetzalı</name>
+		<iso4217>GTQ</iso4217>
+	</record>
+	<record>
+		<region>Hırvatistan</region>
+		<name>Hırvatistan kunası</name>
+		<iso4217>HRK</iso4217>
+	</record>
+	<record>
+		<region>Kamboçya</region>
+		<name>Kamboçya rieli</name>
+		<iso4217>KHR</iso4217>
+	</record>
+	<record>
+		<region>Laos</region>
+		<name>Laos kipi</name>
+		<iso4217>LAK</iso4217>
+	</record>
+	<record>
+		<region>Moldova</region>
+		<name>Moldova leyi</name>
+		<iso4217>MDL</iso4217>
+	</record>
+	<record>
+		<region>Madagaskar</region>
+		<name>Madagaskar ariarisi</name>
+		<iso4217>MGA</iso4217>
+	</record>
+	<record>
+		<region>Makedonya</region>
+		<name>Makedonya dinarı</name>
+		<iso4217>MKD</iso4217>
+	</record>
+	<record>
+		<region>Mauritius</region>
+		<name>Mauritius rupisi</name>
+		<iso4217>MUR</iso4217>
+	</record>
+	<record>
+		<region>Maldivler</region>
+		<name>Maldiv rufiyaası</name>
+		<iso4217>MVR</iso4217>
+	</record>
+	<record>
+		<region>Paraguay</region>
+		<name>Paraguay guaranisi</name>
+		<iso4217>PYG</iso4217>
+	</record>
+	<record>
+		<region>Sırbistan</region>
+		<name>Sırp dinarı</name>
+		<iso4217>RSD</iso4217>
+	</record>
+	<record>
+		<region>Seyşeller</region>
+		<name>Seyşeller rupisi</name>
+		<iso4217>SCR</iso4217>
+	</record>
+	<record>
+		<region>Suriye</region>
+		<name>Suriye lirası</name>
+		<iso4217>SYP</iso4217>
+	</record>
+	<record>
+		<region>Tunus</region>
+		<name>Tunus dinarı</name>
+		<iso4217>TND</iso4217>
+	</record>
+	<record>
+		<region>Uganda</region>
+		<name>Uganda şilini</name>
+		<iso4217>UGX</iso4217>
+	</record>
+	<record>
+		<region>Fransız Polinezyası</region>
+		<name>CFP frangı</name>
+		<iso4217>XPF</iso4217>
+	</record>
+</records>	
