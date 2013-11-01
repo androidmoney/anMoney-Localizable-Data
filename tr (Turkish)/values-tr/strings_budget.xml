@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="budget">Bütçe</string>
+    <string name="view_budget">Bütçe görüntüle</string>
+    <string name="edit_budget_item">Bütçe öğesini düzenle</string>
+    <string name="new_budget_item">Yeni bütçe öğesi</string>
+    <string name="over_budget">Bütçe sonu</string>
+    <string name="expenses_over_budget">Bütçe sonu harcamalar</string>
+    <string name="within_budget">Bütçe içeriği</string>
+    <string name="expenses_within_budget">Bütçe içeriği harcamalar</string>
+    <string name="budgeted_amount">Bütçelendi</string>
+    <string name="actual_amount">Aktüel</string>
+    <string name="remainder_amount">Hatırlatıcı</string>
+	<string name="budget_vs_actual">Bütçe aktüel karşılaştırma</string> <!-- This is a report name -->
+	<string name="budget_over_time">Süre sonu bütçe</string> <!-- This is a report name -->
+    <string name="recurring_bill_or_deposit_from">den tekrarlayan gelir ya da gider</string>
+    <string name="an_additional_amount_for_this_category">Bu kategori için ek miktar</string>
+    <string name="an_additional_amount_for_this_class">Bu sınıf için ek miktar</string>
+    <string name="the_additional_amount_for_this_category">Bu kategori için eklenen miktar</string>
+    <string name="the_additional_amount_for_this_class">Bu sınıf için eklenen miktar</string>
+    <string name="currently_daily_format">Güncel ^1 günlük</string> <!-- ^1 is an numeric amount (same for the items below) -->
+    <string name="currently_weekly_format">Güncel ^1 haftalık</string>
+    <string name="currently_biweekly_format">Güncel ^1 onbeş günlük</string>
+    <string name="currently_monthly_format">Güncel ^1 aylık</string>
+    <string name="currently_quarterly_format">Güncel ^1 çeyrek yıllık</string>
+    <string name="currently_half_yearly_format">Güncel ^1 yarı yıllık</string>
+    <string name="currently_yearly_format">Güncel ^1 yıllık</string>
+    <string name="currently_custom_format">Güncel özel takvim toplamı ^1 yıllık</string>
+    <string name="budget_no_categories_yet">Lütfen bütçe kurmadan önce kategoriler oluşturunun</string>
+    <string name="budget_no_accounts_yet">Lütfen bütçe kurmadan önce hesaplar oluşturun</string>
+    <string name="select_budget_period">Görüntülemek için bütçe döngüsü seçin</string>
+    <string name="all_others">Tüm diğerleri</string>
+    <string name="all_other_spending">Tüm diğer harcamalar</string>
+    <string name="special_item">Özel öğe</string>
+    <string name="no_budget_items">Hiçbir bütçe öğeniz yok</string>
+    <string name="customized_schedule">Özelleştirilmiş takvim</string> <!-- As in "Customized monthly budget amounts" -->
+	<string name="include_budget_items">Bütçe öğelerini içer</string> <!-- as in "Include budget items on report" -->
+</resources>
