@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string name="view_payee">Alacaklı görüntüle</string>
+    <string name="edit_payee">Alacaklı düzenle</string>
+    <string name="new_payee">Yeni alacaklı</string>
+    <string name="call_payee">Alacaklı ara</string>
+    <string name="delete_payee">Alacaklı sil</string>
+    <string name="delete_payee_warning_format">Alacaklı ^1 tamamen silinecek</string>
+    <string name="delete_from_app_format">Buradan da sil ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
+    <string name="add_payee_as_a_contact">Alacaklıyı rehbere kaydet</string>
+    <string name="payee">Alacaklı</string>
+    <string name="payer">Borçlu</string>
+    <string name="payees">Alacaklılar</string>
+    <string name="payee_required">Alacaklı gerekiyor</string>
+    <string name="payer_required">Borçlu gerekiyor</string>
+    <string name="call">Ara</string>
+    <string name="map_address">Adresi haritada göster</string> <!-- Show the address on the map -->
+    <string name="no_payees">Hiçbir alacaklı yok</string>
+    <string name="payee_transaction_list_empty">Bu alacaklıya kayıtlı hiç bir işlem yok</string>
+    <string name="payee_exists">Bu isimle kayıtlı bir alacaklı zaten mevcut</string>
+    <string name="combine_payees">İki alacaklıyı birleştirmek istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="payee_name">Alacaklı adı</string>
+    <string name="link_payee">Bu alacaklıyı varolan bir rehber öğesi ile ilişkilendirmek istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="account_number">Hesap numarası</string>
+    <string name="phone">Telefon</string>
+    <string name="phone_number">Telefon numarası</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email adresi</string>
+    <string name="url">URL</string>
+    <string name="web_address">Web adresi</string>
+    <string name="select_account">Hesap seç</string>
+    <string name="open_web_page">Web sayfasını aç</string>
+    <string name="view_payees">Alacaklı görüntüle</string>
+    <string name="default_payee_name">Benim alacaklım</string>
+	<string name="spending_by_payee">Alacaklıya göre harcamalar</string>
+    <string name="all_payees_hidden_by_filter">Tüm alacaklılar görüntüleme filtresi tarafından gizleniyor</string>
+        
+    <string name="without_payee">Alacaklısız</string>
+    <string name="no_payees_yet">Henüz alacaklı yok</string>
+	<string-array name="payee_count_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 alacaklılar</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+    <string name="all_payees">Tüm alacaklılar</string>
+	<string name="payees_in_open_accounts">Açık hesaplardaki alacaklılar</string>
+	<string name="payees_in_closed_accounts_only">Sadece kapalı hesaplardaki alacaklılar</string>
+	<string name="unused_payees">Kullanılmayan alacaklı</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+        <item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

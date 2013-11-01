@@ -8,6 +8,7 @@
 		<mainCategory>Automobile</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
+		<defaultForSample>2</defaultForSample>
 	</record>
 	<record>
 		<mainCategory>Automobile</mainCategory>
@@ -211,6 +212,7 @@
 		<mainCategory>Groceries</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
+		<defaultForSample>1</defaultForSample>
 	</record>
 	<record>
 		<mainCategory>Healthcare</mainCategory>
@@ -522,6 +524,7 @@
 		<mainCategory>Wages / Salary</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
+		<defaultForSample>3</defaultForSample>
 	</record>
 	<record>
 		<mainCategory>Wages / Salary</mainCategory>

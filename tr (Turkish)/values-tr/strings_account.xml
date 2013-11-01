@@ -103,13 +103,13 @@
     <string name="must_be_in_future">Gelecekte olmalı</string> <!-- As in "The date supplied must be a future date" -->
     <string name="must_be_in_past">Geçmişte olmalı</string> <!-- As in "The date supplied must be a past date" -->
     <string name="invalid_year">Geçersiz</string>
-    <string name="invalid_vin_number" tools:ignore="typos">17 harf yada sayı olmalı</string>
+<!-- Spelling --> <string name="invalid_vin_number" tools:ignore="typos">17 harf yada sayı olmalı</string>
     <string name="invalid_url">Geçersiz URL</string>
     <string name="opening_balance_warning_message">Bu hesaba ait vadelendirilmiş işlemler var.\n\nAçılış dengesini değiştirmek, kayıtlarınızın finansal tesis ile farklılaşmasına neden olabilir.</string>
     <string name="no_exchange_rate_warning_message_format">^1 ve ^2 arasında verilmiş bir kur oranı bulunmamakta, Bu durum kitap dengesinin tutarlı olmamasına neden olur</string> <!-- ^1 and ^2 are currency names -->
     <string name="would_you_like_to_give_one_after_saving">Kayıttan sonra bir değer vermek ister misiniz</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Öz varlık</string> <!-- Net worth is an accounting term -->
-    <string name="net_worth_over_time" tools:ignore="typos">Süre sonu yada tahmini öz varlık</string> <!--  This is the report name -->
+<!-- Spelling --> <string name="net_worth_over_time" tools:ignore="typos">Süre sonu yada tahmini öz varlık</string> <!--  This is the report name -->
     <string name="forecast">Tahmin</string>
     <string name="set_total_to_show">Görüntülemek için toplam girin</string>
 	<string name="total_to_show">Görüntülemek için toplam</string>

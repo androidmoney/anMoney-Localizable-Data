@@ -26,132 +26,132 @@
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bankové poplatky</mainCategory>
+		<mainCategory>Bankovní poplatky</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Bankové poplatky</mainCategory>
+		<mainCategory>Bankovní poplatky</mainCategory>
 		<subcategory>Úroky</subcategory>
 		<expense>1</expense>
 		<defaultForInterestPaid>1</defaultForInterestPaid>
 	</record>
 	<record>
-		<mainCategory>Bankové poplatky</mainCategory>
-		<subcategory>Poplatky na účte</subcategory>
+		<mainCategory>Bankovní poplatky</mainCategory>
+		<subcategory>Poplatky na účtu</subcategory>
 		<expense>1</expense>
 		<defaultForServiceCharge>1</defaultForServiceCharge>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
+		<mainCategory>Faktury</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Káblová / Satelitná TV</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Kabelová / Satelitní TV</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
+		<mainCategory>Faktury</mainCategory>
 		<subcategory>Mobil</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Elektrina</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Elektřina</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
+		<mainCategory>Faktury</mainCategory>
 		<subcategory>Odpady</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Zdravie</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Zdraví</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Poplatky z domov</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Poplatky z domů</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
+		<mainCategory>Faktury</mainCategory>
 		<subcategory>Členské poplatky</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
+		<mainCategory>Faktury</mainCategory>
 		<subcategory>Hypotéky</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Zemný plyn / olej</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Zemní plyn / olej</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Predplatné novín</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Předplatné novin</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
+		<mainCategory>Faktury</mainCategory>
 		<subcategory>Online / Internetové služby</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Platby za ostatné úvery</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Platby za ostatní úvěry</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Nájomné</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Nájemné</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Platby za študentskú pôžičku</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Platby za studentskou půjčku</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
-		<subcategory>Telefón</subcategory>
+		<mainCategory>Faktury</mainCategory>
+		<subcategory>Telefon</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Faktúry</mainCategory>
+		<mainCategory>Faktury</mainCategory>
 		<subcategory>Vodné a stočné</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Výber hotovosti</mainCategory>
+		<mainCategory>Výběr hotovosti</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Charitatívne dary</mainCategory>
+		<mainCategory>Charitativní dary</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o deti</mainCategory>
+		<mainCategory>Péče o děti</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Deti / Hračky</mainCategory>
+		<mainCategory>Děti / Hračky</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Deti / Hračky</mainCategory>
-		<subcategory>Podpora dieťaťa</subcategory>
+		<mainCategory>Děti / Hračky</mainCategory>
+		<subcategory>Podpora dítěte</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Deti / Hračky</mainCategory>
-		<subcategory>Denná starostlivosť</subcategory>
+		<mainCategory>Děti / Hračky</mainCategory>
+		<subcategory>Denní péče</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -160,32 +160,32 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Platby / prevody kreditnou kartou</mainCategory>
+		<mainCategory>Platby / převody kreditní kartou</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Jedenie vonku</mainCategory>
+		<mainCategory>Pojídání venku</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Vzdelanie</mainCategory>
+		<mainCategory>Vzdělání</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Vzdelanie</mainCategory>
+		<mainCategory>Vzdělání</mainCategory>
 		<subcategory>Knihy</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Vzdelanie</mainCategory>
+		<mainCategory>Vzdělání</mainCategory>
 		<subcategory>Poplatky</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Vzdelanie</mainCategory>
+		<mainCategory>Vzdělání</mainCategory>
 		<subcategory>Školné</subcategory>
 		<expense>1</expense>
 	</record>
@@ -200,11 +200,11 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Jedlo</mainCategory>
+		<mainCategory>Jídlo</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Darčeky</mainCategory>
+		<mainCategory>Dárečky</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -215,234 +215,234 @@
 		<defaultForSample>1</defaultForSample>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o zdravie</mainCategory>
+		<mainCategory>Péče o zdraví</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o zdravie</mainCategory>
-		<subcategory>Starostlivosť o zuby</subcategory>
+		<mainCategory>Péče o zdraví</mainCategory>
+		<subcategory>Péče o zuby</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o zdravie</mainCategory>
-		<subcategory>Starostlivosť o oči</subcategory>
+		<mainCategory>Péče o zdraví</mainCategory>
+		<subcategory>Péče o oči</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o zdravie</mainCategory>
-		<subcategory>Nemocnica</subcategory>
+		<mainCategory>Péče o zdraví</mainCategory>
+		<subcategory>Nemocnice</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o zdravie</mainCategory>
-		<subcategory>Lekár</subcategory>
+		<mainCategory>Péče o zdraví</mainCategory>
+		<subcategory>Lékař</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o zdravie</mainCategory>
+		<mainCategory>Péče o zdraví</mainCategory>
 		<subcategory>Recepty</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
 		<subcategory>Knihy / Časopisy</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
-		<subcategory>Kultúrne podujatia</subcategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
+		<subcategory>Kulturní akce</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
 		<subcategory>Zábavné</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
-		<subcategory>Filmy / Požičovne filmov</subcategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
+		<subcategory>Filmy / Půjčovny filmů</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
-		<subcategory>Športové podujatia</subcategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
+		<subcategory>Sportovní akce</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
-		<subcategory>Športové potreby</subcategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
+		<subcategory>Sportovní potřeby</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
 		<subcategory>Kazety / CDčka</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Koníčky / oddych</mainCategory>
+		<mainCategory>Koníčky / odpočinek</mainCategory>
 		<subcategory>Hračky / Hry</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Vylepšenia domu</mainCategory>
+		<mainCategory>Vylepšení domu</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Domácnosť</mainCategory>
+		<mainCategory>Domácnost</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Domácnosť</mainCategory>
-		<subcategory>Bytové zariadenie (nábytok, doplnky)</subcategory>
+		<mainCategory>Domácnost</mainCategory>
+		<subcategory>Bytové zařízení (nábytek, doplňky)</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Domácnosť</mainCategory>
-		<subcategory>Upratovanie domácnosti</subcategory>
+		<mainCategory>Domácnost</mainCategory>
+		<subcategory>Úklid domácnosti</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Domácnosť</mainCategory>
-		<subcategory>Služby záhradníka (architekta)</subcategory>
+		<mainCategory>Domácnost</mainCategory>
+		<subcategory>Služby zahradníka (architekta)</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Poistenie</mainCategory>
+		<mainCategory>Pojištění</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Poistenie</mainCategory>
+		<mainCategory>Pojištění</mainCategory>
 		<subcategory>Automobil</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Poistenie</mainCategory>
-		<subcategory>Zdravie</subcategory>
+		<mainCategory>Pojištění</mainCategory>
+		<subcategory>Zdraví</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Poistenie</mainCategory>
-		<subcategory>Domu (domácnosti) / Prenájmu</subcategory>
+		<mainCategory>Pojištění</mainCategory>
+		<subcategory>Domu (domácnosti) / Pronájmu</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Poistenie</mainCategory>
+		<mainCategory>Pojištění</mainCategory>
 		<subcategory>Život</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Pracovné výdavky</mainCategory>
+		<mainCategory>Pracovní výdaje</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Pracovné výdavky</mainCategory>
-		<subcategory>Nepreplatené</subcategory>
+		<mainCategory>Pracovní výdaje</mainCategory>
+		<subcategory>Neproplaceny</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Pracovné výdavky</mainCategory>
-		<subcategory>Preplatené</subcategory>
+		<mainCategory>Pracovní výdaje</mainCategory>
+		<subcategory>Proplaceny</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Pôžička</mainCategory>
+		<mainCategory>Půjčka</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Pôžička</mainCategory>
-		<subcategory>Úroky z úveru</subcategory>
+		<mainCategory>Půjčka</mainCategory>
+		<subcategory>Úroky z úvěru</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Pôžička</mainCategory>
-		<subcategory>Úroky na hypotéke</subcategory>
+		<mainCategory>Půjčka</mainCategory>
+		<subcategory>Úroky na hypotéce</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Pôžička</mainCategory>
-		<subcategory>Úroky na študentskej pôžičke</subcategory>
+		<mainCategory>Půjčka</mainCategory>
+		<subcategory>Úroky na studentské půjčce</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Rôzne</mainCategory>
+		<mainCategory>Různé</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
 	</record>
 	<record>
-		<mainCategory>Hypotéka / Prenájom</mainCategory>
+		<mainCategory>Hypotéka / Pronájem</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Osobná starostlivosť</mainCategory>
+		<mainCategory>Osobní péče</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o domáce zvieratko</mainCategory>
+		<mainCategory>Péče o domácí zvířátko</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o domáce zvieratko</mainCategory>
-		<subcategory>Jedlo</subcategory>
+		<mainCategory>Péče o domácí zvířátko</mainCategory>
+		<subcategory>Jídlo</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o domáce zvieratko</mainCategory>
+		<mainCategory>Péče o domácí zvířátko</mainCategory>
 		<subcategory>Náhrady</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Starostlivosť o domáce zvieratko</mainCategory>
-		<subcategory>Veterinár</subcategory>
+		<mainCategory>Péče o domácí zvířátko</mainCategory>
+		<subcategory>Veterinář</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Telefón / Mobil</mainCategory>
-		<expense>1</expense>
-		<short>1</short>
-	</record>
-	<record>
-		<mainCategory>Služby / Členstvá</mainCategory>
+		<mainCategory>Telefon / Mobil</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Dane</mainCategory>
+		<mainCategory>Služby / Členství</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Dane</mainCategory>
+		<mainCategory>Daně</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Daně</mainCategory>
 		<subcategory>DPH</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Cestovanie / Dovolenky</mainCategory>
+		<mainCategory>Cestování / Dovolené</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Cestovanie / Dovolenky</mainCategory>
-		<subcategory>Ubytovanie</subcategory>
+		<mainCategory>Cestování / Dovolené</mainCategory>
+		<subcategory>Ubytování</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Cestovanie / Dovolenky</mainCategory>
-		<subcategory>Cestovné</subcategory>
+		<mainCategory>Cestování / Dovolené</mainCategory>
+		<subcategory>Cestovní</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -451,106 +451,106 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Výnosy z investícií</mainCategory>
+		<mainCategory>Výnosy z investic</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Výnosy z investícií</mainCategory>
+		<mainCategory>Výnosy z investic</mainCategory>
 		<subcategory>Kapitálové výnosy</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Výnosy z investícií</mainCategory>
+		<mainCategory>Výnosy z investic</mainCategory>
 		<subcategory>Dividendy</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Výnosy z investícií</mainCategory>
+		<mainCategory>Výnosy z investic</mainCategory>
 		<subcategory>Úroky</subcategory>
 		<expense>0</expense>
 		<defaultForInterestEarned>1</defaultForInterestEarned>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Výnosy z investícií</mainCategory>
-		<subcategory>Oslobodené od dane</subcategory>
+		<mainCategory>Výnosy z investic</mainCategory>
+		<subcategory>Osvobozeny od daně</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Iný príjem</mainCategory>
+		<mainCategory>Jiný příjem</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Iný príjem</mainCategory>
-		<subcategory>Podpora na deti</subcategory>
+		<mainCategory>Jiný příjem</mainCategory>
+		<subcategory>Podpora na děti</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Iný príjem</mainCategory>
-		<subcategory>Zamestnanecké akcie</subcategory>
+		<mainCategory>Jiný příjem</mainCategory>
+		<subcategory>Zaměstnanecké akcie</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Iný príjem</mainCategory>
-		<subcategory>Prijaté dary</subcategory>
+		<mainCategory>Jiný příjem</mainCategory>
+		<subcategory>Přijaté dary</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Iný príjem</mainCategory>
-		<subcategory>Prijatá istina úveru</subcategory>
+		<mainCategory>Jiný příjem</mainCategory>
+		<subcategory>Přijatá jistina úvěru</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Iný príjem</mainCategory>
-		<subcategory>Lotérie</subcategory>
+		<mainCategory>Jiný příjem</mainCategory>
+		<subcategory>Loterie</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Iný príjem</mainCategory>
-		<subcategory>Podpora v nezamestnanosti</subcategory>
+		<mainCategory>Jiný příjem</mainCategory>
+		<subcategory>Podpora v nezaměstnanosti</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Dôchodok</mainCategory>
+		<mainCategory>Důchod</mainCategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Odmeny / Výplaty</mainCategory>
+		<mainCategory>Odměny / Výplaty</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
 		<defaultForSample>3</defaultForSample>
 	</record>
 	<record>
-		<mainCategory>Odmeny / Výplaty</mainCategory>
-		<subcategory>Prémia</subcategory>
+		<mainCategory>Odměny / Výplaty</mainCategory>
+		<subcategory>Prémie</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Odmeny / Výplaty</mainCategory>
-		<subcategory>Provízia</subcategory>
+		<mainCategory>Odměny / Výplaty</mainCategory>
+		<subcategory>Provize</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Odmeny / Výplaty</mainCategory>
+		<mainCategory>Odměny / Výplaty</mainCategory>
 		<subcategory>Hrubá mzda</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Odmeny / Výplaty</mainCategory>
+		<mainCategory>Odměny / Výplaty</mainCategory>
 		<subcategory>Čistá mzda</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Odmeny / Výplaty</mainCategory>
-		<subcategory>Nadčas</subcategory>
+		<mainCategory>Odměny / Výplaty</mainCategory>
+		<subcategory>Přesčas</subcategory>
 		<expense>0</expense>
 	</record>
 </records>

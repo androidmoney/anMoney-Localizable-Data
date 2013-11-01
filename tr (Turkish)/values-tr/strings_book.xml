@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="book">Kitap</string>
+    <string name="new_book">Yeni kitap</string>
+    <string name="new_book_name">Yeni kitap adı</string>
+    <string name="rename_book">Kitabı yeniden adlandır</string>
+    <string name="delete_book">Kitabı sil</string>
+    <string name="share_book">Kitabı paylaş</string>
+    <string name="book_delete_warning_short_format">^1 kitabı silinecek</string>
+    <string name="all_data_will_be_lost">Bu kitaptaki tüm veriler, eğer yedeklenmediyse kaybolacak</string>
+    <string name="import_into_book">Kitaba aktar</string>
+    <string name="export_from_book">Kitaptan aktar</string>
+    <string name="import_into_book_format">^1 kitabına aktar</string>
+    <string name="no_books">Hiç bir kitabınız yok</string>
+    <string name="upgrading_book">Kitap güncelleniyor</string>
+    <string name="upgrading_books">Kitaplar güncelleniyor</string>
+    <string name="backup">Yedekle</string> <!-- Verb -->
+    <string name="backup_canceled">Yedekleme iptal edildi</string>
+    <string name="backup_book">Kitabı yedekle</string>
+    <string name="overwrite">Üzerine yaz</string>
+    <string name="backup_name">Yedekleme adı</string>
+    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
+    <string name="restore">Kurtar</string>
+    <string name="restored">Kurtarıldı</string>
+    <string name="restore_canceled">Kurtarma iptal edildi</string>
+    <string name="restore_book">Kitabı kurtar</string>
+    <string name="restore_warning_format">^1 kitabının üzerine yazılacak ve <b>tüm</b> verileri geri dönülmeksizin yok edilecek</string>
+    <string name="select_backup_file_to_restore">Kurtarma için yedekleme dosyası seç</string>
+    <string name="select_backup_file_to_create_from">Yedekleme dosyasından oluşturmak için seçim yap</string>
+    <string name="import_statement">Beyan içe aktar</string> <!-- Import is a verb as in "import a statement" -->
+    <string name="no_sd_card_inserted">Yerleştirilmiş bir hafıza kartı yok</string>
+    <string name="select_files">Dosyaları seç</string>
+    <string name="delete_file">Dosyayı sil</string>
+    <string name="delete_file_warning_format">^1 dosyası silinecek</string>
+	<string-array name="delete_files_warning_format_plurals">
+        <item/> <!-- Intentionally left empty -->
+        <item>^1 seçili dosya silinecek</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    <string name="select_book">Kitap seç</string>
+    <string name="select_import_file">İçe aktarma için dosya(lar) seç</string>
+<!-- New --> <string name="not_specified_brackets">&lt;Not specified></string>
+    <string name="map_accounts">Hesapları haritala</string>
+    <string name="configure_account_mappings">Hesap haritalama yapılandır</string>
+    <string name="account_required">Hesap gerekiyor</string>
+    <string name="duplicate_name">Daha önce kullanılmış isim</string>
+    <string name="options">Seçenekler</string>
+    <string name="select_options">İçe aktarma seçeneklerini seç</string>
+    <string name="remove_duplicates">Daha önce kullanılmışları kaldır</string>
+    <string name="remove_duplicates_notes">Pek çok durumda işe yaraması gerekse de, hesapların farklı kurlar içermesi durumunda, sorunlar oluşabilir. Bu durumlarda, larşılaştırma mümkün olmaz. İçe aktardıktan sonra, lütfen dengelerin doğruluğunu kontrol edin</string>
+    <string name="import_classes">Sınıfları içe aktar</string>
+    <string name="ignore_memos">Hatırlatıcı alanını görmezden gel</string>
+    <string name="create_payees_in_app_name_format">^1 de alacaklı oluştur</string>
+    <string name="contact_account">Alacaklı oluşturmak için hesap ilişkilendir</string> <!-- This is NOT a bank account, but the kind of account you use with e-mail, like a Google Account -->
+    <string name="select_import_mode">İçe aktarma modunu seç</string>
+    <string name="export_file_format">Dosya dışa aktarma biçimi</string>
+    <string name="mark_transactions_exported">İşlemleri ihraç olarak etiketle</string>
+    <string name="create_single_file">Tek bir dosya oluştur</string>
+    <string name="no_transactions_matched_your_selection_criteria">Seçtiğiniz kriterde işlem bulunamadı.\n\nHiç bir dışa aktarma dosyası oluşturulmadı</string>
+	<string name="import_folder">Klasör içe aktar</string>
+	<string name="export_folder">Klasör dışa aktar</string>
+    <string name="ask_to_view_imported_transaction">İçe alınan işlemleri görmek istermisiniz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="tip">İpucu</string>
+    <string name="user_guide">Kullanıcı kılavuzu</string>
+	<string name="user_guide_url">http://goo.gl/fvjiq</string>
+    <string name="whats_new">Neler yeni</string>
+    <string name="license">Lisans</string>
+<!--     
+    <string name="accept_license">Accept license</string>
+    <string name="decline">Decline</string>
+ -->    
+    <string name="thank_you">Teşekkürler!</string>
+    <string name="password">Şifre</string>
+    <string name="old_password">Eski şifre</string>
+    <string name="new_password">Yeni şifre</string>
+    <string name="verify_password">Şifre doğrula</string>
+    <string name="enter_password">Şifre gir</string>
+    <string name="incorrect_password">Hatalı şifre. Lütfen tekrar gir</string>
+    <string name="set_password">Şifre oluştur</string>
+    <string name="password_set">Şifre oluşturuldu</string>
+    <string name="edit_password">Şifre düzelt</string>
+    <string name="remove_password">Şifre kaldır</string>
+    <string name="password_removed">Şifre kaldırıldı</string>
+    <string name="remove_password_message">Şifre kaldırılacak.\n\nVerileriniz cihaza erişimi olan herkesce görülebilecek</string>
+    <string name="password_has_not_been_changed">Şifre değiştirilmemiş</string>
+    <string name="passwords_dont_match">Şifre karşılaşmıyor</string>
+    <string name="case_sensitive">Büyük / küçük harf duyarlı</string>
+    <string name="disclaimer">Sorumluluk reddi</string>
+    <string name="password_disclaimer">Lütfen sondaki sorumluluk reddini okuyun.\n\nŞifre özelliği yetkisiz gözlere karşı bir önlem olarak sağlanmaktadır. Platform sınırlılığı nedeniye, gerçek kriptolama yapılamıyor ve şifreleme olsada gelişkin yeteneklere sahip biri tarafından verilerinize erişilebilir.\n\nCihazınızın kilit özelliğini aktif etmeniz ya da PIN gibi ek önlemler almanız öncelikle önerilir</string>
+    <string name="i_understand_the_limitations">Bu sınırlılığın farkındayım</string>
+    <string name="set_password_now_part1">Şimdi bir şifre oluştur</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="set_password_now_part2_format">Cevabınız ^1 olsada, ekranın üstündeki ^2 seçerek istediğiniz zaman şifre oluşturma seçeneğiniz var</string>
+    <string name="folder_name_format">Klasör (alt klasörler için ^1 kullanın)</string>
+    <string name="no_backup_files">Hiç bir yedekleme dosyası bulunamadı</string>
+    <string name="no_backup_files_new_instructions">Eğer bir dosyadan içe aktararak kitap oluşturmaya çalışıyorsanız, lütfen önce bir taslak oluşturun, sonra onun içine aktarın</string>
+    <string name="remove_transactions">Aşağıdaki tarihten eski işlemleri kaldır</string>
+    <string name="book_to_make_copy_of">Bir kopya oluşturmak için kitap</string>
+    <string name="truncate_warning_format">^1 den önceki tüm işlemler, geri döndürülmeksizin yok edilecek</string>
+    <string name="information_and_help">Enformasyon &amp; yardım</string>
+    <string name="discussion_forum">Tartışma forumu</string>
+    <string name="join_the_user_community_format">^1 kullanıcı topluluğuna katılın</string>
+    <string name="contact_us">Bize ulaşın</string>
+    <string name="email_the_developers">Doğrudan geliştiriciye mail atın</string>
+    <string name="tap_to_display_import_settings_format">^1 a tıklamak içe aktarma ayarları ekranını gösterir</string>
+<!-- Spelling --> <string name="verify_import_settings" tools:ignore="typos">Lütfen seçili tercihlerin, gerçekten, içe aktaracağınız dosya için doğruluğunu doğrulayın. Herşey yolunda görünüyorsa, içe aktarma sürecine devam etmek için<b>Geri</b> okuna basın</string>
+    <string name="change_settings_instructions_format">Bu mesaj müteakip içe aktarmalar için görünmeyecek, fakat bu ayarı istediğiniz zaman, ekranın üstündeki ^i ya tıklayarak değiştirebilirsiniz</string> <!-- ^i will be replaced by an image -->
+    <string name="bad_import_settings">Takip eden ayarlar içe aktarmak istediğiniz dosya için doğru görünmüyor</string>
+    <string name="qif_csv_encoding_explanation_format">Tipik olarak, aşağıda listelenen diller için ^1 kullanılması gerekiyor, fakat bazı finansal danışmanlıkların oluşturduğu düzgünce içe aktarmak için ^2 seçmeniz gerekiyor.\n\nlistede olmayan tüm diğer diller için, her zaman ^2 seçilmelidir.</string>
+    <string name="credits_legal">Son bilgileri &amp; hukuksal</string>
+    <string name="contact_and_social">İletişim &amp; sosyal</string>
+    <string name="follow_us">Bizi takip edin</string>
+    <string name="add_us_to_circle">Bizi çevrenize ekleyin ve +1 leyin</string>
+    <string name="become_a_fan">Fan olun</string>
+    <string name="haptic_feedback">Dokunsal geri bildirim</string>
+    <string name="haptic_feedback_description">Eğer seçiliyse, tuşlara tıklandığında titretir</string>
+	<string name="default_book_name">Kitabım</string>
+	<string name="color_theme">Tema rengi</string>
+	<string name="dark">Koyu</string>  <!-- As in "dark color theme" -->
+	<string name="light">Açık</string> <!-- As in "opposite of dark" -->
+	<string name="preview">Önizleme</string>
+	
+	<string-array name="book_new_source">
+	    <item>Taslaktan oluştur</item>
+	    <item>Yedekten oluştur</item>
+	    <item>Mevcut kitaptan kopyala</item>
+	</string-array>
+
+	<string-array name="book_new_source_descriptions">
+	    <item/> <!-- Intentionally left empty -->
+	    <item/> <!-- Intentionally left empty -->
+	    <item>ve tercihen verilen tarihte kısalt</item>
+	</string-array>
+	
+	<string-array name="import_mode">
+        <item>Bankalardan indirilen ekstreler</item>
+        <item>Bir başka yazılımdan alınan veriler</item>
+	</string-array>
+
+	<string-array name="import_mode_description">
+        <item>Çeşitli yatırım danışmanlıklarından indirilen ekstreler için, örneğin American Express ay sonu ekstresi için kullanılır. Hem <b>QIF</b> hem de <b>OFX/QFX/OFS</b> formatlarını destekler. İçe aktarılan dosyalar hesaplar arası transferler içermemelidir</item>
+        <item>Bir başka kişisel finans yazılımı, örneğin Microsoft® Money ya da Quicken® için kullanılır. Sadece <b>QIF</b> formatı desteklenir</item>
+	</string-array>
+
+    <string name="qif_ms_money_description">Kullandığınız sınıflandırmalara ve kategorilere bağlı olarak, sadece Microsoft Money tarafından okunabilir.</string>
+	<string name="qif_generic_description">Tüm <b>QIF</b> formatını destekleyen uygulamalar tarafından kullanılabilir</string>
+    <string name="csv_description">Microsoft® Excel ya da Google™ Docs gibi tablolama yazılımları tarafından okunabilir. Aktarılan satır sütun başlıkları, her işlem satırı tarafından takip edilen satırlar içerir</string>
+
+    <string name="import_file_confirm_format">^1 içe aktarmak istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string-array name="import_files_confirm_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 dosyalarını içe aktarmak istiyor musunuz</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item/> <!-- Not used -->
+	</string-array>
+
+    <string name="general">Genel</string>
+    <string name="starting_screen">Açılış ekranı</string>
+    <string name="negative_amount_format">Eksi bakiye formatı</string>
+    
+    <string name="show_currency_symbol">Kur simgesini göster</string>
+	<string-array name="show_currency_symbol_items">
+		<item>Kura göre</item>
+		<item>Miktardan önce</item>
+		<item>Miktardan sonra</item>
+	</string-array>
+	
+    <string name="base_currency">Temel kur</string>
+    <string name="space_between_symbol_and_amount">Simge ile miktar arasında boşluk</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+    
+    <string name="password_time_out_period">Şifre süresi sonlandırma döngüsü</string>
+	<string-array name="n_seconds_format_plurals">
+        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+        <item>^1 saniye</item>
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="n_minutes_format_plurals">
+        <item>^1 dakika</item>
+        <item>^1 dakika</item>
+        <item/> <!-- Not used -->
+	</string-array>
+    
+    <string name="set_button_behavior_format">^1 tuşu davranışı</string>
+	<string-array name="set_button_behavior_items">
+		<item>Mevcut görünen rakamı ayarlar</item>
+		<item>Hesaplamayı bitirir ve sonucunu ayarlar</item>
+	</string-array>
+
+    <string name="confirmations_and_warnings">Onaylar &amp; uyarılar</string>
+
+    <string name="warn_if_no_category">Kategori yoksa uyar</string>
+    <string name="warn_if_no_category_description">Seçiliyse, belirtilen kategori yoksa uyarı görüntüler</string>
+    
+    <string name="warn_if_incorrect_category_type">Doğru olmayan kategori tipiyse uyar</string>
+    <string name="warn_if_incorrect_category_type_description">Seçiliyse, yanlış kategori tipi belirtildiyse uyarı görüntüler</string>
+    
+    <string name="modification_confirmation">Modifiye onayı</string>
+	<string-array name="modification_confirmation_items">
+		<item>Hiç</item>
+		<item>Sadece bağdaşıklar</item>
+		<item>Tümü</item>
+	</string-array>
+	
+    <string name="back_press_prompt">Geri tuşu uyarısı</string>
+    <string name="back_press_prompt_description">Seçiliyse, geri tuşuna basıldığında kaydedilsin mi uyarısı görüntüler</string>
+    
+    <string name="new_payee_confirmation">Yeni alacaklı onayı</string>
+    <string name="new_payee_confirmation_description">Seçiliyse, yeni alacaklı oluşturmadan onay penceresi görüntüler</string>
+    
+    <string name="duplicate_check_number">Önceden kullanılmış çek numarası</string>
+    <string name="duplicate_check_number_description">Seçiliyse, önceden kullanılmış çek numarası girildiğinde uyarı verir.</string>
+    
+    <string name="field_with_initial_focus">Başlangıç odaklı alan</string>
+    
+    <string name="show_keyboard_automatically">Klavyeyi otomatik olarak görüntüler</string>
+	<string name="show_keyboard_automatically_description">Seçiliyse, işlem eklerken açılır pencere klavyesi görüntülenir</string>
+	    
+    <string name="notes_in_transaction_window">İşlem penceresinde notlar</string>
+    <string name="notes_in_transaction_window_description">Seçiliyse, işlem penceresinde tek satırlık bir not düzenlenebilir.</string>
+    
+    <string name="new_category_in_transaction_window">İşlem penceresinde yeni kategori</string>
+    <string name="new_category_in_transaction_window_description">Seçiliyse, işlem penceresinde yeni kategori oluşturulabilir</string>
+    
+    <string name="hide_labels">Etiketleri gizle</string>
+    <string name="hide_labels_description">Seçiliyse, daha fazla yer için işlem penceresindeki etiketleri gizler</string>
+    
+    <string name="security">Güvenlik</string>
+    
+    <string name="quick_entry_password">Hızlı girdi şifresi</string>
+    <string name="quick_entry_password_description">Seçildiğinde, hızlı girdi widgeti varsa şifre sorar</string>
+    
+    <string name="backup_folder">Yedekleme klasörü</string>
+    
+    <string name="date_in_file_name">Dosya isminde tarih bilgisi</string>
+    <string name="date_in_file_name_description">Seçiliyse, gönderilirken dosya ismine bugünün tarihi eklenir</string>
+    
+    <string name="automatic_backup">Otomatik yedekleme</string>
+    <string name="automatic_backup_description">Seçiliyse, bu kitap otomatik olarak yedeklenir</string>
+    
+    <string name="backup_how_often">Yedekleme sıklığı</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    
+    <string name="auto_backup_notify_description">Seçiliyse, yedekleme işleminden sonra bildirim görüntülenir</string>
+    
+	<string name="backed_up_book_format">^1 yedeklendi</string>
+    <string-array name="backed_up_books_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 kitapları yedeklendi</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="book_exported_format_plurals">
+        <item>^1 işlemi dışa aktarıldı</item>
+        <item>^1 işlemler dışa aktarıldı</item>
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string name="failed_to_back_up_book">Yedekleme başarısız</string>
+	<string name="no_space_left_on_sd_card">Hafıza kartında hiç yer kalmamış</string>
+	<string name="cannot_restore_newer_version">Yedeklemeden kurtarılamıyor çünkü yeni bir ^1 sürümüyle oluşturulmuş.\n\nLütfen en son sürüm ^1 yükleyin ve tekrar deneyin</string>
+		
+	<string name="file">Dosya</string>	
+	<string name="folder">Klasör</string>	
+	<string name="external_storage">Harici hafıza</string>	
+	<string name="path">Yol</string>	
+
+    <string name="qif_csv_date_order">QIF/CSV tarih sırası</string>
+
+	<string name="comma">Virgül</string>	
+    <string name="qif_csv_decimal_mark">QIF/CSV küsürat simgesi</string>
+	<string-array name="qif_csv_decimal_marks">
+        <item>Küsürat noktası</item>
+        <item>@string/comma</item>
+	</string-array>
+
+    <string name="csv_delimiter">CSV sınırsızlandırıcı</string>
+	<string-array name="csv_delimiters">
+        <item>@string/comma</item>
+        <item>Noktalı virgül</item>
+	</string-array>
+
+	<string name="qif_csv_encoding">QIF/CSV kodlama</string>
+    <string name="ofx_qfx_encoding">OFX/QFX/OFS kodlama</string>
+<!-- New -->	<string-array name="encodings">
+        <item>@string/iso_8859_1</item>
+        <item>@string/utf_8</item>
+        <item>GBK (Chinese national standard)</item>
+        <item>Cyrillic (Windows)</item>
+        <item>Western European (Windows)</item>
+        <item>Central European (Windows)</item>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+	</string-array>
+
+    <string name="maintain_entries">Girdilerin sürdürülmesi</string>
+    <string name="maintain_number_field_entries">Alan girdilerinin sürdürülme numarası</string>
+    <string name="maintain_number_field_entries_description">Artık kullanılmayan alan girdi numaralarını silmenize izin verir</string>
+
+    <string name="delete_entry_warning_format">^1 girdisi silinecek</string>
+    <string-array name="delete_entries_warning_format_plurals">
+        <item/> <!-- Not used -->
+        <item>^1 girdileri silinecek</item>
+        <item/> <!-- Not used -->
+	</string-array>
+</resources>

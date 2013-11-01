@@ -8,6 +8,7 @@
 		<mainCategory>ஊர்தித்துறை</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
+		<defaultForSample>2</defaultForSample>
 	</record>
 	<record>
 		<mainCategory>ஊர்தித்துறை</mainCategory>
@@ -212,6 +213,7 @@
 		<mainCategory>மளிகைப்பொருட்கள்</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
+		<defaultForSample>1</defaultForSample>
 	</record>
 	<record>
 		<mainCategory>ஆரோக்கிய பராமரிப்பு</mainCategory>
@@ -520,34 +522,35 @@
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<mainCategory>சம்பளம் / கூலி</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
+		<defaultForSample>3</defaultForSample>
 	</record>
 	<record>
-		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<mainCategory>சம்பளம் / கூலி</mainCategory>
 		<subcategory>சம்பளம்</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<mainCategory>சம்பளம் / கூலி</mainCategory>
 		<subcategory>தரகு</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<mainCategory>சம்பளம் / கூலி</mainCategory>
 		<subcategory>கூலி</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<mainCategory>சம்பளம் / கூலி</mainCategory>
 		<subcategory>பேட்டா</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>சம்பளம் /  கூலி</mainCategory>
+		<mainCategory>சம்பளம் / கூலி</mainCategory>
 		<subcategory>மிகுதிநேர கூலி</subcategory>
 		<expense>0</expense>
 	</record>

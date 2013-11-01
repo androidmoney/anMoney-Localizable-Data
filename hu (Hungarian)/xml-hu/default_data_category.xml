@@ -8,6 +8,7 @@
 		<mainCategory>Gépkocsi</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
+		<defaultForSample>2</defaultForSample>
 	</record>
 	<record>
 		<mainCategory>Gépkocsi</mainCategory>
@@ -201,6 +202,7 @@
 	<record>
 		<mainCategory>Élelmiszer</mainCategory>
 		<expense>1</expense>
+		<defaultForSample>1</defaultForSample>
 	</record>
 	<record>
 		<mainCategory>Ajándék</mainCategory>
@@ -512,6 +514,7 @@
 		<mainCategory>Munkabér / Fizetés</mainCategory>
 		<expense>0</expense>
 		<short>1</short>
+		<defaultForSample>3</defaultForSample>
 	</record>
 	<record>
 		<mainCategory>Munkabér / Fizetés</mainCategory>
