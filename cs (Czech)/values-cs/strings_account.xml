@@ -107,8 +107,8 @@
     <string name="no_exchange_rate_warning_message_format">Není k dispozici kurs pro období od ^1 do ^2. Zůstatek knihy nemusí být přesný</string>
     <string name="would_you_like_to_give_one_after_saving">Chcete zadat kurs po uložení</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Čistý zůstatek</string>
-    <string name="net_worth_over_time">Výhled zůstatku / Prognóza</string>
-	<string name="forecast">Prognóza</string>
+    <string name="net_worth_over_time">Výhled zůstatku / Předpověď</string>
+    <string name="forecast">Předpověď</string>
     <string name="set_total_to_show">Vyberte, který součet zobrazit</string>
 	<string name="total_to_show">Zobrazit součet</string>
     <string name="selected_total">Vybraný součet</string>
@@ -116,7 +116,7 @@
 	<string name="balance_as_of_today">Zůstatek k dnešnímu dni</string>
 	<string name="cleared_total">Celkem zkontrolováno</string>
 	<string name="reconciled_total">Celkem odsouhlaseno</string>
-<!-- New --> <string name="filtered_total">Filtered total</string>
+        <string name="filtered_total">Celkem vyhovuje</string>
 	<string name="default_cash_account_name">Má hotovost</string>
     <string name="default_checking_account_name">Můj běžný účet</string>
     <string name="default_savings_account_name">Můj spořící účet</string>
@@ -303,10 +303,10 @@
 		<item>Následující 3 měsíce</item>
 		<item>Následujících 6 měsíců</item>
 		<item>Následujících 12 měsíců</item>
-<!-- New --> <item>Všechna data včetně následujících 30 dnů</item>
-<!-- New --> <item>Všechna data včetně následující 3 měsíce</item>
-<!-- New --> <item>Všechna data včetně následujících 6 měsíců</item>
-<!-- New --> <item>Všechna data včetně následujících 12 měsíců</item>
+		<item>Historická data a následujících 30 dnů</item>
+		<item>Historická data a následující 3 měsíce</item>
+		<item>Historická data a následujících 6 měsíců</item>
+		<item>Historická data a následujících 12 měsíců</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>
@@ -327,12 +327,12 @@
 		<item>následující 3 měsíce</item>
 		<item>následujících 6 měsíců</item>
 		<item>následujících 12 měsíců</item>
-<!-- New --> <item>+ 30 dnů</item>
-<!-- New --> <item>+ 3 měsíce</item>
-<!-- New --> <item>+ 6 měsíců</item>
-<!-- New --> <item>+ 12 měsíců</item>
+		<item>+ 30 dnů</item>
+		<item>+ 3 měsíce</item>
+		<item>+ 6 měsíců</item>
+		<item>+ 12 měsíců</item>
 		<item/> <!-- Intentionally left empty -->
-<!-- New --> <item>dnes</item>
+		<item>dnes</item>
 	</string-array>
 	<string-array name="transaction_list_date_range_title_bar_months">
 		<item/> <!-- Intentionally left empty -->

@@ -83,8 +83,8 @@
 	<string name="spending_by_category_over_time0">Výdaje podle kategorie za čas</string>
 	<string name="spending_by_category_over_time1">Výdaje podle kategorie nebo ^1 za čas</string>
 	<string name="spending_by_category_over_time2">Výdaje podle kategorie, ^1 nebo ^2 za čas</string>
-<!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
-<!-- New --> <string name="last_account_used">The last account used</string>
+	<string name="assign_to_accounts">Přiřadit k těmto účtům při tvorbě předpovědi</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
+    <string name="last_account_used">Naposledy použitý účet</string>
 		
     <string name="no_categories">Žádné kategorie</string>
 	<string name="no_categories_yet">Zatím žádné kategorie</string>

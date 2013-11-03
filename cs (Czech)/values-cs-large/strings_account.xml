@@ -17,11 +17,11 @@
 		<item>následující 3 měsíce</item>
 		<item>následujících 6 měsíců</item>
 		<item>následujících 12 měsíců</item>
-<!-- New --> <item>všechna data včetně následujících 30 dnů</item>
-<!-- New --> <item>všechna data včetně následující 3 měsíce</item>
-<!-- New --> <item>všechna data včetně následujících 6 měsíců</item>
-<!-- New --> <item>všechna data včetně následujících 12 měsíců</item>
+		<item>historická data a následujících 30 dnů</item>
+		<item>historická data a následující 3 měsíce</item>
+		<item>historická data a následujících 6 měsíců</item>
+		<item>historická data a následujících 12 měsíců</item>
 		<item/> <!-- Intentionally left empty -->
-<!-- New --> <item>dnes</item>
+		<item>dnes</item>
 	</string-array>
 </resources>
