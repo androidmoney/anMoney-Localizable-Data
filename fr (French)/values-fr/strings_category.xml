@@ -86,7 +86,6 @@
 	<string name="assign_to_accounts">Affecter à ce/ces compte(s) lors d’une Prévision</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
 	<string name="last_account_used">Dernier compte utilisé</string>
 		
-	<string name="no_categories">Pas de catégories</string>
 	<string name="no_categories_yet">Pas encore de catégories</string>
 	<string name="no_classes_yet">Pas encore de classes</string>
 	<string-array name="category_count_format_plurals">

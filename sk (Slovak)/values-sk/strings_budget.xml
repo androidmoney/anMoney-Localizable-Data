@@ -4,7 +4,7 @@
     <string name="view_budget">Zobraziť rozpočet</string>
     <string name="edit_budget_item">Upraviť položku rozpočtu</string>
     <string name="new_budget_item">Nová položka rozpočtu</string>
-	<string name="over_budget">Cez rozpočet</string>
+	<string name="over_budget">Prekročenie rozpočtu</string>
     <string name="expenses_over_budget">Výdavky cez rozpočet</string>
 	<string name="within_budget">V rámci rozpočtu</string>
     <string name="expenses_within_budget">Výdavky v vrámci rozpočtu</string>

@@ -86,7 +86,6 @@
 	<string name="assign_to_accounts">Přiřadit k těmto účtům při tvorbě předpovědi</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
     <string name="last_account_used">Naposledy použitý účet</string>
 		
-    <string name="no_categories">Žádné kategorie</string>
 	<string name="no_categories_yet">Zatím žádné kategorie</string>
     <string name="no_classes_yet">Zatím žádné třídy</string>
 	<string-array name="category_count_format_plurals">

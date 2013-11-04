@@ -86,7 +86,6 @@
 	<string name="assign_to_accounts">Rendelje hozzá ezekhez a számlá(k)hoz, amikor készíti a Prognózist</string>
 	<string name="last_account_used">Az utoljára használt számláhóz</string>
 		
-    <string name="no_categories">Nincsenek kategóriák</string>
 	<string name="no_categories_yet">Nincsenek még kategóriák</string>
     <string name="no_classes_yet">Nincsenek még osztályok</string>
 	<string-array name="category_count_format_plurals">

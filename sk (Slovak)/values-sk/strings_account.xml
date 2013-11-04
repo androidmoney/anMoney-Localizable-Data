@@ -108,8 +108,8 @@
     <string name="no_exchange_rate_warning_message_format">Nieje k dispozícii kurz pre obdobie od ^1 do ^2. Zostatok knihy nemusí byť presný</string>
     <string name="would_you_like_to_give_one_after_saving">Chcete zadať kurz po uložení</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Čistý zostatok</string>
-    <string name="net_worth_over_time">Výhľad zostatku / Prognóza</string>
-	<string name="forecast">Prognóza</string>
+    <string name="net_worth_over_time">Výhľad zostatku / Predpoveď</string>
+    <string name="forecast">Predpoveď</string>
     <string name="set_total_to_show">Vyberte, ktorý súčet zobraziť</string>
 	<string name="total_to_show">Zobraziť súčet</string>
     <string name="selected_total">Označený súčet</string>
@@ -117,7 +117,7 @@
 	<string name="balance_as_of_today">Zostatok k dnešnému dňu</string>
 	<string name="cleared_total">Úplne skontrolované</string>
 	<string name="reconciled_total">Úplne odsúhlasené</string>
-<!-- New --> <string name="filtered_total">Filtered total</string>
+<!-- New --> <string name="filtered_total">Celkom vyhovuje</string>
 	<string name="default_cash_account_name">Moja hotovosť</string>
     <string name="default_checking_account_name">Môj bežný účet</string>
     <string name="default_savings_account_name">Môj sporiaci účet</string>
@@ -304,10 +304,10 @@
 		<item>Nasledujúce 3 mesiace</item>
 		<item>Nasledujúcích 6 mesiacov</item>
 		<item>Nasledujúcích 12 mesiacov</item>
-<!-- New --> <item>Všetky dátumy vrátane nasledujúcich 30 dní</item>
-<!-- New --> <item>Všetky dátumy vrátane nasledujúce 3 mesiace</item>
-<!-- New --> <item>Všetky dátumy vrátane nasledujúcich 6 mesiacov</item>
-<!-- New --> <item>Všetky dátumy vrátane nasledujúcich 12 mesiacov</item>
+<!-- New --> <item>Historické dáta a nasledujúcich 30 dní</item>
+<!-- New --> <item>Historické dáta a nasledujúce 3 mesiace</item>
+<!-- New --> <item>Historické dáta a nasledujúcich 6 mesiacov</item>
+<!-- New --> <item>Historické dáta a nasledujúcich 12 mesiacov</item>
 		<item>@string/custom_dates</item>
 		<item>@string/day_0</item>
 	</string-array>

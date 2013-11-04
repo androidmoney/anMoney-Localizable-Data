@@ -105,7 +105,7 @@
     <string name="invalid_year">Geçersiz</string>
 <!-- Spelling --> <string name="invalid_vin_number" tools:ignore="typos">17 harf yada sayı olmalı</string>
     <string name="invalid_url">Geçersiz URL</string>
-    <string name="opening_balance_warning_message">Bu hesaba ait vadelendirilmiş işlemler var.\n\nAçılış dengesini değiştirmek, kayıtlarınızın finansal tesis ile farklılaşmasına neden olabilir.</string>
+    <string name="opening_balance_warning_message">Bu hesaba ait vadelendirilmiş işlemler var.\n\nAçılış dengesini değiştirmek, kayıtlarınızın finansal tesis ile farklılaşmasına neden olabilir</string>
     <string name="no_exchange_rate_warning_message_format">^1 ve ^2 arasında verilmiş bir kur oranı bulunmamakta, Bu durum kitap dengesinin tutarlı olmamasına neden olur</string> <!-- ^1 and ^2 are currency names -->
     <string name="would_you_like_to_give_one_after_saving">Kayıttan sonra bir değer vermek ister misiniz</string>  <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="net_worth">Öz varlık</string> <!-- Net worth is an accounting term -->

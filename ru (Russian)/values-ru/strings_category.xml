@@ -86,7 +86,6 @@
 	<string name="assign_to_accounts">Счета для отнесения при Прогнозе</string>
 	<string name="last_account_used">Последний использованный счёт</string>
 	
-    <string name="no_categories">Нет категорий</string>
     <string name="no_categories_yet">Нет категорий</string>
     <string name="no_classes_yet">Нет классов</string>
 	<string-array name="category_count_format_plurals">

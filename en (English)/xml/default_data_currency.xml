@@ -116,7 +116,7 @@
 	<record>
 		<region>Switzerland</region>
 		<name>Swiss franc</name>
-		<symbol>Fr.</symbol>
+		<symbol>Fr</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>CHF</iso4217>
 		<iso3166>CH</iso3166>
@@ -165,7 +165,7 @@
 	<record>
 		<region>Egypt</region>
 		<name>Egyptian pound</name>
-		<symbol>L.E.</symbol>
+		<symbol>LE</symbol>
 		<symbolLeading>0</symbolLeading>
 		<decimalDigits>2</decimalDigits>
 		<iso4217>EGP</iso4217>
@@ -332,7 +332,7 @@
 	<record>
 		<region>Kuwait</region>
 		<name>Kuwaiti dinar</name>
-		<symbol>K.D.</symbol>
+		<symbol>KD</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>KWD</iso4217>
 		<decimalDigits>3</decimalDigits>
@@ -565,7 +565,7 @@
  	<record>
 		<region>Russia</region>
 		<name>Russian ruble</name>
-		<symbol>rub.</symbol>
+		<symbol>rub</symbol>
 		<symbolLeading>0</symbolLeading>
 		<iso4217>RUB</iso4217>
 		<iso3166>RU</iso3166>
@@ -678,7 +678,7 @@
 	<record>
 		<region>Venezuela</region>
 		<name>Venezuelan bolívar</name>
-		<symbol>Bs.F.</symbol>
+		<symbol>BsF</symbol>
 		<symbolLeading>1</symbolLeading>
 		<iso4217>VEF</iso4217>
 		<iso3166>VE</iso3166>

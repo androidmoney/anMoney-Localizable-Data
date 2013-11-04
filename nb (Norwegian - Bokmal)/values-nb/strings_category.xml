@@ -87,7 +87,6 @@
 	<string name="assign_to_accounts">Tilknytt til konto(ene) ved bruk av utsikter</string>
 	<string name="last_account_used">Sist brukte konto</string>
 
-	<string name="no_categories">Ingen kategorier</string>
 	<string name="no_categories_yet">Ingen kategorier ennå</string>
 	<string name="no_classes_yet">Ingen klasser ennå</string>
 	<string-array name="category_count_format_plurals">

@@ -118,7 +118,7 @@
     <string name="next_check_number">Číslo ďalšieho šeku</string>
     <string name="cleared_transactions_color">Farba skontrolovaných transakcií</string>
     <string name="reconciled_transactions_color">Fraba odsúhlasených transakcií</string>
-<!-- New --> <string name="upcoming_transactions_color">Fraba nadchádzajúci transakcií</string> <!-- As in "color of an upcoming recurring transactions" -->
+<!-- New --> <string name="upcoming_transactions_color">Farba nadchádzajúcich transakcií</string> <!-- As in "color of an upcoming recurring transactions" -->
     <string name="text_filter">Textový filter</string>
     <string name="profit_and_loss_statement">Prehľad príjmov a výdavkov</string>
 	<string name="transaction_type">Typ transakcie</string>

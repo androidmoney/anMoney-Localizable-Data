@@ -89,7 +89,6 @@
 	<string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- As in "Assign the category to these accounts when Forecasting".  "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
 	<string name="last_account_used">The last account used</string>
 			
-    <string name="no_categories">No categories</string>
 	<string name="no_categories_yet">No categories yet</string>
     <string name="no_classes_yet">No classes yet</string>
 	<string-array name="category_count_format_plurals">

@@ -87,7 +87,6 @@
 	<string name="assign_to_accounts">予測時に割り当てる口座</string>
 	<string name="last_account_used">最後に利用した口座</string>
 	
-    <string name="no_categories">カテゴリーがありません</string>
 	<string name="no_categories_yet">カテゴリーがありません</string>
     <string name="no_classes_yet">クラスがありません</string>
 	<string-array name="category_count_format_plurals">

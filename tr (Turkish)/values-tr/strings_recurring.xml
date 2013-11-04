@@ -15,7 +15,7 @@
 	<string name="enter_after_editing">Düzenledikten sonra gir</string>
 	<string name="enter_partially_after_editing">Düzenledikten sonra parçalı gir</string>
 	<string name="move_to_next_occurrence">Bir sonraki tekrara git</string>
-	<string name="remain_on_this_occurrence_format">eğer miktar ^1 den az ise, bu tekrardan devam et.</string>	    	    	
+	<string name="remain_on_this_occurrence_format">eğer miktar ^1 den az ise, bu tekrardan devam et</string>	    	    	
 	<string name="edit_recurring">Tekrarlayanı düzenle</string>
 	<string name="edit_occurrence">Tekrarı düzenle</string>
 	<string name="entire_series">Seriler gir</string>
@@ -58,7 +58,7 @@
 	<string name="cannot_auto_enter">Kurdaki dalgalanmalar nedeniyle, farklı kurlara ait hesaplar arasındaki transferler içeren, tekrarlayan fatura ve gelir işlemleri, kayıt defterine otomatik işlenmeyecek.\n\nO anki kur farkı oranını kendiniz belirleyerek işlem girişini elle tamamlamanız gerekiyor</string>
 	<string name="entered_recurring_bill">Girilmiş tekrarlayan fatura</string>
 	<string name="entered_recurring_deposit">Girilmiş tekrarlayan gelir</string>
-	<string name="notify_me_when_entered">Girildiğinde Bildirim Çubuğu üzerinden beni bilgilendir.</string>
+	<string name="notify_me_when_entered">Girildiğinde Bildirim Çubuğu üzerinden beni bilgilendir</string>
 	<string name="the_last_day_of_the_month">Ayın son günü</string>
 	<string name="include_in_budget">Bütçede içer</string>
 	<string name="include_recurrings">Tekrarlayan öğelerde içer</string> <!-- as in "Include recurring items on report" -->

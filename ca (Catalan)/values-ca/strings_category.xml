@@ -86,7 +86,6 @@
 	<string name="assign_to_accounts">Assignar a aquests comptes quan es fa previsió</string>
 	<string name="last_account_used">L’últim compte emprat</string>
 	
-    <string name="no_categories">Cap categoria</string>
 	<string name="no_categories_yet">Cap categoria encara</string>
     <string name="no_classes_yet">Cap classe encara</string>
 	<string-array name="category_count_format_plurals">

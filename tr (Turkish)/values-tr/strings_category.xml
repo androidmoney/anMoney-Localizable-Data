@@ -87,7 +87,6 @@
 	<string name="assign_to_accounts">Tahmin oluştururken bu hesapları da devret</string> <!-- As in "Assign the category to these accounts when Forecasting".  "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
 	<string name="last_account_used">Son kullanılan hesap</string>
 			
-    <string name="no_categories">Kategori yok</string>
 	<string name="no_categories_yet">Henüz kategoriler yok</string>
     <string name="no_classes_yet">Henüz sınıflar yok</string>
 	<string-array name="category_count_format_plurals">

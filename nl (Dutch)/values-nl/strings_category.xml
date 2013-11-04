@@ -87,7 +87,6 @@
 	<string name="assign_to_accounts">Koppel al deze rekening(en) bij voorspellen</string> <!-- As in "Assign the category to these accounts when Forecasting".  "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
 	<string name="last_account_used">De laatste rekening gebruikt</string>
 
-    <string name="no_categories">Geen categorieen</string>
 	<string name="no_categories_yet">Nog geen categorieen</string>
     <string name="no_classes_yet">Nog geen klassen</string>
 	<string-array name="category_count_format_plurals">

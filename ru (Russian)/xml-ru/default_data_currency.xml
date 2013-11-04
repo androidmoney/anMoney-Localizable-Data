@@ -258,7 +258,7 @@
 	<record>
 		<region>Россия</region>
 		<name>Российский рубль</name>
-		<symbol>руб.</symbol>
+		<symbol>руб</symbol>
 		<iso4217>RUB</iso4217>
 	</record>
 	<record>

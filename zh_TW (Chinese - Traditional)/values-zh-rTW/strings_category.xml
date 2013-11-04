@@ -87,7 +87,6 @@
 <!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
 <!-- New --> <string name="last_account_used">The last account used</string>
 		
-    <string name="no_categories">沒有類型</string>
 	<string name="no_categories_yet">尚無類型</string>
     <string name="no_classes_yet">尚無分類</string>
 	<string-array name="category_count_format_plurals">

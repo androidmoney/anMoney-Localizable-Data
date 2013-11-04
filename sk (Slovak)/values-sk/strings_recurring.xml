@@ -17,7 +17,7 @@
 	<string name="move_to_next_occurrence">Presunúť na ďalší termín opakovania</string>
 	<string name="remain_on_this_occurrence_format">Ponechať aktuálne zadanie, ak je zadaná suma menšia ako ^1</string>	    	    	
 	<string name="edit_recurring">Upraviť opakujúcu sa platbu</string>
-<!-- New --> <string name="edit_occurrence">Edit occurrence</string>
+<!-- New --> <string name="edit_occurrence">Upraviť výskyt</string>
 	<string name="entire_series">Všetky výskyty</string>
 	<string name="edit_template_warning">Máte naplánované budúce upravené výskyty.\n\nZmenou opakujúcej sa platby budú tieto úpravy odstránené</string>
 	<string name="delete_recurring">Zmazať opakujúcu sa platbu</string>
@@ -172,9 +172,9 @@
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Použiť dnešný dátum pre dátum transakcie</string>
 	<string-array name="enter_warning_format_plurals">
-<!-- New --> <item>^1 označená opakujúca sa platba bude zadaná</item>
-<!-- New --> <item>^1 označené opakujúce sa platby budú zadané</item>
-<!-- New --> <item>^1 označených opakujúcich sa platieb bude zadaných</item>
+<!-- New --> <item>^1 vybraný trvalý príkaz bude vykonaný</item>
+<!-- New --> <item>^1 vybrané trvalé príkazy budú vykonané</item>
+<!-- New --> <item>^1 vybraných trvalých přízkazů bude vykonané</item>
     </string-array>
 	
 	<string-array name="skip_which_items">

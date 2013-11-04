@@ -17,10 +17,10 @@
 		<item>nasledujúce 3 mesiace</item>
 		<item>nasledujúcích 6 mesiacov</item>
 		<item>nasledujúcích 12 mesiacov</item>
-<!-- New --> <item>všetky dátumy vrátane nasledujúcich 30 dní</item>
-<!-- New --> <item>všetky dátumy vrátane nasledujúce 3 mesiace</item>
-<!-- New --> <item>všetky dátumy vrátane nasledujúcich 6 mesiacov</item>
-<!-- New --> <item>všetky dátumy vrátane nasledujúcich 12 mesiacov</item>
+<!-- New --> <item>historické dáta a nasledujúcich 30 dní</item>
+<!-- New --> <item>historické dáta a nasledujúce 3 mesiace</item>
+<!-- New --> <item>historické dáta a nasledujúcich 6 mesiacov</item>
+<!-- New --> <item>historické dáta a nasledujúcich 12 mesiacov</item>
 		<item/> <!-- Intentionally left empty -->
 <!-- New --> <item>dnes</item>
 	</string-array>

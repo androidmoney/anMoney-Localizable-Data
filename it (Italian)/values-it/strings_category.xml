@@ -86,7 +86,6 @@
 	<string name="assign_to_accounts">Assegnare a questi conti con Previsione</string>
 	<string name="last_account_used">L’ultimo conto utilizzato</string>
 		
-    <string name="no_categories">Nessuna categoria</string>
 	<string name="no_categories_yet">Non ci sono ancora categorie</string>
     <string name="no_classes_yet">Non ci sono ancora classi</string>
 	<string-array name="category_count_format_plurals">

@@ -105,7 +105,7 @@
 <!-- Spelling --> <string name="verify_import_settings" tools:ignore="typos">Lütfen seçili tercihlerin, gerçekten, içe aktaracağınız dosya için doğruluğunu doğrulayın. Herşey yolunda görünüyorsa, içe aktarma sürecine devam etmek için<b>Geri</b> okuna basın</string>
     <string name="change_settings_instructions_format">Bu mesaj müteakip içe aktarmalar için görünmeyecek, fakat bu ayarı istediğiniz zaman, ekranın üstündeki ^i ya tıklayarak değiştirebilirsiniz</string> <!-- ^i will be replaced by an image -->
     <string name="bad_import_settings">Takip eden ayarlar içe aktarmak istediğiniz dosya için doğru görünmüyor</string>
-    <string name="qif_csv_encoding_explanation_format">Tipik olarak, aşağıda listelenen diller için ^1 kullanılması gerekiyor, fakat bazı finansal danışmanlıkların oluşturduğu düzgünce içe aktarmak için ^2 seçmeniz gerekiyor.\n\nlistede olmayan tüm diğer diller için, her zaman ^2 seçilmelidir.</string>
+    <string name="qif_csv_encoding_explanation_format">Tipik olarak, aşağıda listelenen diller için ^1 kullanılması gerekiyor, fakat bazı finansal danışmanlıkların oluşturduğu düzgünce içe aktarmak için ^2 seçmeniz gerekiyor.\n\nlistede olmayan tüm diğer diller için, her zaman ^2 seçilmelidir</string>
     <string name="credits_legal">Son bilgileri &amp; hukuksal</string>
     <string name="contact_and_social">İletişim &amp; sosyal</string>
     <string name="follow_us">Bizi takip edin</string>
@@ -141,7 +141,7 @@
         <item>Bir başka kişisel finans yazılımı, örneğin Microsoft® Money ya da Quicken® için kullanılır. Sadece <b>QIF</b> formatı desteklenir</item>
 	</string-array>
 
-    <string name="qif_ms_money_description">Kullandığınız sınıflandırmalara ve kategorilere bağlı olarak, sadece Microsoft Money tarafından okunabilir.</string>
+    <string name="qif_ms_money_description">Kullandığınız sınıflandırmalara ve kategorilere bağlı olarak, sadece Microsoft Money tarafından okunabilir</string>
 	<string name="qif_generic_description">Tüm <b>QIF</b> formatını destekleyen uygulamalar tarafından kullanılabilir</string>
     <string name="csv_description">Microsoft® Excel ya da Google™ Docs gibi tablolama yazılımları tarafından okunabilir. Aktarılan satır sütun başlıkları, her işlem satırı tarafından takip edilen satırlar içerir</string>
 
@@ -206,7 +206,7 @@
     <string name="new_payee_confirmation_description">Seçiliyse, yeni alacaklı oluşturmadan onay penceresi görüntüler</string>
     
     <string name="duplicate_check_number">Önceden kullanılmış çek numarası</string>
-    <string name="duplicate_check_number_description">Seçiliyse, önceden kullanılmış çek numarası girildiğinde uyarı verir.</string>
+    <string name="duplicate_check_number_description">Seçiliyse, önceden kullanılmış çek numarası girildiğinde uyarı verir</string>
     
     <string name="field_with_initial_focus">Başlangıç odaklı alan</string>
     
@@ -214,7 +214,7 @@
 	<string name="show_keyboard_automatically_description">Seçiliyse, işlem eklerken açılır pencere klavyesi görüntülenir</string>
 	    
     <string name="notes_in_transaction_window">İşlem penceresinde notlar</string>
-    <string name="notes_in_transaction_window_description">Seçiliyse, işlem penceresinde tek satırlık bir not düzenlenebilir.</string>
+    <string name="notes_in_transaction_window_description">Seçiliyse, işlem penceresinde tek satırlık bir not düzenlenebilir</string>
     
     <string name="new_category_in_transaction_window">İşlem penceresinde yeni kategori</string>
     <string name="new_category_in_transaction_window_description">Seçiliyse, işlem penceresinde yeni kategori oluşturulabilir</string>
