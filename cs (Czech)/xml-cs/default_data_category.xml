@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <records>
 	<record>
-		<mainCategory>Alimenty</mainCategory>
+		<mainCategory>Výživné</mainCategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -155,7 +155,7 @@
 		<expense>1</expense>
 	</record>
 	<record>
-		<mainCategory>Oblečenie</mainCategory>
+		<mainCategory>Oblečení</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -165,7 +165,7 @@
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Pojídání venku</mainCategory>
+		<mainCategory>Stravování venku</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -345,12 +345,12 @@
 	</record>
 	<record>
 		<mainCategory>Pracovní výdaje</mainCategory>
-		<subcategory>Neproplaceny</subcategory>
+		<subcategory>Neproplacené</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Pracovní výdaje</mainCategory>
-		<subcategory>Proplaceny</subcategory>
+		<subcategory>Proplacené</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>

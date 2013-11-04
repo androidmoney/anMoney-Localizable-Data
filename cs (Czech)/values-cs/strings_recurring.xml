@@ -17,7 +17,7 @@
 	<string name="move_to_next_occurrence">Posunout na příští provedení</string>
 	<string name="remain_on_this_occurrence_format">Ponechat aktuální provedení, je-li zadaná částka menší než ^1</string>	    	    	
 	<string name="edit_recurring">Upravit trvalý příkaz</string>
-<!-- New -->	<string name="edit_occurrence">Edir occurrence</string>
+	<string name="edit_occurrence">Edit výskyt</string>
 	<string name="entire_series">Všechny výskyty</string>
 	<string name="edit_template_warning">Máte naplánované budoucí upravené výskyty.\n\nZměnou trvalého příkazu budou tyto úpravy odstraněny</string>
 	<string name="delete_recurring">Smazat trvalý příkaz</string>
@@ -155,10 +155,10 @@
 	<string name="skip_weekends">Vynechat výkendy</string>
 	
 	<string name="overdue_count_format">^1/^2</string>
-<!-- New -->	<string-array name="overdue_plurals">
-		<item>^1 zpoždění</item>
-		<item>^1 zpoždění</item>
-		<item>^1 zpoždění</item>
+	<string-array name="overdue_plurals">
+		<item>^1 opoždění</item>
+		<item>^1 opoždění</item>
+		<item>^1 opoždění</item>
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 opožděný trvalý příkaz</item>
@@ -170,12 +170,12 @@
 		<item>@string/enter_now</item>
 		<item>Nejprve upravit transakci</item>
 	</string-array>
-	<string name="use_todays_date_for_transaction_date">Use today’s date for the transaction date</string>
+	<string name="use_todays_date_for_transaction_date">Použít dnešní datum pro čas transakce</string>
 	<string-array name="enter_warning_format_plurals">
-<!-- New --> <item>^1 selected recurring item will be entered</item>
-<!-- New --> <item>^1 selected recurring items will be entered</item>
-<!-- New --> <item>^1 selected recurring items will be entered</item>
-    </string-array>
+		<item>^1 vybraný trvalý příkaz bude proveden</item>
+		<item>^1 vybrané trvalé příkazy budoy provedeny</item>
+		<item>^1 vybraných trvalých přízkazů bude provedeno</item>
+	</string-array>
 	
 	<string-array name="skip_which_items">
 		<item>Příští provedení</item>
