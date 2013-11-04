@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="financial_institution">Finansal danışmanlık</string>
+    <string name="financial_institutions">Finansal danışmanlık hizmetleri</string>
+    <string name="financial_institution_bank_first">Banka hesapları öncelikli finansal danışmanlık</string>
+    <string name="financial_institution_cash_first">Nakit öncelikli finansal danışmanlık</string>
+    <string name="view_financial_institution">Finansal danışmanlık görüntüle</string>
+    <string name="edit_financial_institution">Finansal danışmanlık düzenle</string>
+    <string name="call_financial_institution">Finansal danışmalık ara</string>
+    <string name="new_financial_institution">Yeni finansal danışmanlık</string>
+    <string name="delete_financial_institution">Finansal danışmanlık sil</string>
+    <string name="delete_financial_institution_warning_format">Finansal danışmanlık ^1 tümüyle silinecek ve tüm hesaplardan kaldırılacak</string>
+    <string name="add_financial_institution_as_a_contact">Fin. danş. rehber ögesi olarak ekle</string>
+    <string name="financial_institution_exists">Bu isimle bir finansal danışmanlık zaten mevcut</string>
+    <string name="no_financial_institutions">Hiç bir fianasal danışmanlık bilgisi yok</string>
+    <string name="view_financial_institutions">Finansal danışmanlık görüntüle</string>
+    <string name="financial_institution_name">Finansal danışmanlık adı</string>
+    <string name="contact_exists">Bu isimle bir rehber öğesi zaten mevcut</string>
+    <string name="link_financial_institution">Bu finansal danışmanlığı mevcut rehber öğesi ile ilişkilendirmek istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="no_financial_institutions_yet">Henüz finansal danışmanlık mevcut değil</string>
+</resources>

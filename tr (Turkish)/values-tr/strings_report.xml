@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    
+
+	<string name="report">Rapor</string>
+	<string name="reports">Raporlar</string>
+	<string name="view_report">Rapor görüntüle</string>
+	<string name="view_reports">Raporları görüntüle</string>
+	<string name="report_canceled">Rapor iptal edildi</string>
+	<string name="export_report">Rapor dışa aktar</string>
+	<string name="report_exported">Hafıza Kartına başarıyla aktarıldı</string>
+	<string name="share_report">Raporu paylaş</string>
+	<string name="report_settings">Rapor ayarları</string>
+	<string name="custom_dates">Kişisel tarihler</string>
+	<string name="other">Diğer</string>
+	<string name="report_empty">Görüntülenecek veri yok</string>
+	<string name="report_settings_instructions_format">Rapor ayarlarını değiştirmek için, ekranın üstündeki ^i a tıklayın</string> <!-- ^i will be replaced by an image -->
+	<string name="reset_report_settings">Ayarlar varsayılanlarına döndürülecek</string>
+	<string name="settings_reset">Ayarlar varsayılanlarına döndü</string>
+	<string name="reset_canceled">Varsayılanlarına döndürme iptal edildi</string>
+	<string name="report_settings_tip_format">Bir raporun ayarlarını değiştirmek için:\n\n<li>Raporun adına uzun basın ve ^1 tıklayın</li>\n\n<li>Rapor görüntülenirken ekranın sağ üst köşesindeki simgeye tıklayın</li></string>
+	<string name="report_name">Rapor adı</string>
+	<string name="all_reports">Tüm raporlar</string>
+	<string name="favorite_reports">Favori raporlar</string>
+	<string name="save_report_as">Raporu farklı kaydet</string>
+	<string name="delete_report">Raporu sil</string>
+	<string name="rename_report">Raporu yeniden adlandır</string>
+	<string name="duplicate_report">Raporu klonla</string>
+	<string name="delete_report_warning_format">^1 raporu tümüyle silinecektir</string>
+	<string name="report_type">Rapor tipi</string>
+	<string name="group">Grupla</string> <!-- This is a verb -->
+	<string name="do_not_group">Gruplama</string>
+	<string name="day_0">Bugün</string>
+	<string name="day_p1">Yarın</string>
+	<string name="day_m1">Dün</string>
+	<string name="day_p2"></string> <!-- Intentionally left empty -->
+	<string name="day_m2"></string> <!-- Intentionally left empty -->
+	<string name="select_report">Rapor seç</string>
+	<string name="report_folder">Rapor klasörü</string>
+	<string name="language">Dil</string>
+	<string name="text_size">Yazı puntosu</string>
+	<string name="text_size_sample">Anmoney</string>
+
+	<string name="chart_type">Yazı tipi</string>
+	<string name="text_report">Yazılı rapor</string>
+	<string name="pie_chart">Pasta dilimi</string>
+	<string name="line_chart">Grafik rapor</string>
+	<string name="bar_chart">Çubuk tablosu</string>
+
+	<string name="page_format">Sayfa ^1</string>
+
+	<string name="page_size">Sayfa boyutu</string>
+<!-- New --> <string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+		<item>Letter</item>
+		<item>Legal</item>
+		<item>Tabloid</item>
+	</string-array>
+
+	<string name="page_orientation">Sayfa yönü</string>
+	<string name="portrait">Dikey</string>
+	<string name="landscape">Yatay</string>
+
+	<string name="amounts_on_charts">Grafiklerde miktarları göster</string>
+	<string name="percentages_on_pie_charts">Pasta diliminde yüzdeleri göster</string>
+	<string name="create_settings_page">Ayarlar sayfası oluştur</string>
+
+	<string-array name="report_export_file_type">
+		<item>@string/csv</item>
+		<item>@string/pdf</item>
+		<item>Web sayfası</item>
+	</string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Microsoft® Excel ya da Google™ Docs tarafından okunabilir tablolamalar</item>
+		<item>Yazdırmaya yada kağıt sürgüsüne uygun. Adobe Reader ya da başka PDF görüntüleyici gerektirir</item>
+		<item>Bir web sitesinde yayınlamaya ya da web tarayıcı ile görüntülemeye uygun</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Farklı kaydet formatı belirleyin</string>
+</resources>

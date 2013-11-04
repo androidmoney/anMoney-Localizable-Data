@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="currency">Para birimi</string>
+	<string name="currencies">Para birimleri</string>
+	<string name="edit_currency">Para birimi düzenle</string>
+	<string name="set_as_base_currency">Baz para birimi olarak ayarla</string>
+	<string name="base_currency_set">Baz para birimi ayarlandı</string>
+	<string name="exchange_rate">Kur farkı</string>
+	<string name="exchange_rates">Kur farkları</string>
+	<string name="country">Ülke</string>
+	<string name="region">Bölge</string>
+	<string name="currency_name">Para birimi adı</string>
+	<string name="symbol">Simge</string>
+	<string name="symbol_required">Simge gerekiyor</string>
+	<string name="exchange_rate_required">Kur farkı gerekiyor</string>
+	<string name="view_currencies">Para birimleri görüntüle</string>
+	<string name="tap_to_modify_converted_amounts">Çevrilen miktarları düzenlemek için tıkla</string>
+	<string name="currency_converter">Para birimi çevirici</string>
+	<string name="invert">Ters çevir</string>
+	<string name="save_exchange_rate">Bu kur farkını kaydet</string>
+	<string name="all_currencies">Tüm para birimleri</string>
+	<string name="used_currencies">Kullanılmış para birimleri</string>
+	<string name="and_prior_format">^1 ve öncesi</string> <!-- As in "January 1 and prior" -->
+	
+	<string-array name="currency_list_status_filter_title_bar">
+		<item>@string/all_currencies</item>
+		<item>@string/used_currencies</item>
+	</string-array>
+
+	<string-array name="currency_list_sort_order_title_bar">
+		<item>@string/name</item>
+		<item>@string/region</item>
+	</string-array>
+</resources>
