@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="view_payee">Ver beneficiario</string>
-    <string name="edit_payee">Editar beneficiario</string>
-    <string name="new_payee">Nuevo beneficiario</string>
-    <string name="call_payee">Telefonear al beneficiario</string>
-    <string name="delete_payee">Eliminar beneficiario</string>
-    <string name="delete_payee_warning_format">Se eliminará el beneficiario ^1 de forma irreversible</string>
-    <string name="delete_from_app_format">Eliminar también de ^1</string>
-    <string name="add_payee_as_a_contact">Añadir beneficiario a los contactos</string>
-    <string name="payee">Beneficiario</string>
-    <string name="payer">Pagador</string>
-    <string name="payees">Beneficiarios</string>
-    <string name="payee_required">Se requiere un beneficiario</string>
-    <string name="payer_required">Se requiere un pagador</string>
-    <string name="call">Llamar</string>
-    <string name="map_address">Mostrar en el mapa</string>
-    <string name="no_payees">No tienes ningún beneficiario</string>
-    <string name="payee_transaction_list_empty">No tienes ninguna transacción para este beneficiario</string>
-    <string name="payee_exists">Ya hay un beneficiario con ese nombre</string>
-    <string name="combine_payees">Te gustaría combinar los dos beneficiarios</string>
-    <string name="payee_name">Nombre del beneficiario</string>
-    <string name="link_payee">Quieres vincular este beneficiario al contacto existente</string>
-    <string name="account_number">Número de cuenta</string>
-    <string name="phone">Teléfono</string>
-    <string name="phone_number">Número de teléfono</string>
-    <string name="email">E-mail</string>
-    <string name="email_address">Dirección de correo electrónico</string>
-    <string name="url">URL</string>
-    <string name="web_address">Sítio web</string>
-    <string name="select_account">Seleccionar la cuenta</string>
-    <string name="open_web_page">Abrir página web</string>
-    <string name="view_payees">Ver los beneficiarios</string>
-    <string name="default_payee_name">Mi beneficiario</string>
+	<string name="view_payee">Ver beneficiario</string>
+	<string name="edit_payee">Editar beneficiario</string>
+	<string name="new_payee">Nuevo beneficiario</string>
+	<string name="call_payee">Telefonear al beneficiario</string>
+	<string name="delete_payee">Eliminar beneficiario</string>
+	<string name="delete_payee_warning_format">Se eliminará el beneficiario ^1 de forma irreversible</string>
+	<string name="delete_from_app_format">Eliminar también de ^1</string>
+	<string name="add_payee_as_a_contact">Añadir beneficiario a los contactos</string>
+	<string name="payee">Beneficiario</string>
+	<string name="payer">Pagador</string>
+	<string name="payees">Beneficiarios</string>
+	<string name="payee_required">Se requiere un beneficiario</string>
+	<string name="payer_required">Se requiere un pagador</string>
+	<string name="call">Llamar</string>
+	<string name="map_address">Mostrar en el mapa</string>
+	<string name="no_payees">No tienes ningún beneficiario</string>
+	<string name="payee_transaction_list_empty">No tienes ninguna transacción para este beneficiario</string>
+	<string name="payee_exists">Ya hay un beneficiario con ese nombre</string>
+	<string name="combine_payees">Te gustaría combinar los dos beneficiarios</string>
+	<string name="payee_name">Nombre del beneficiario</string>
+	<string name="link_payee">Quieres vincular este beneficiario al contacto existente</string>
+	<string name="account_number">Número de cuenta</string>
+	<string name="phone">Teléfono</string>
+	<string name="phone_number">Número de teléfono</string>
+	<string name="email">E-mail</string>
+	<string name="email_address">Dirección de correo electrónico</string>
+	<string name="url">URL</string>
+	<string name="web_address">Sítio web</string>
+	<string name="select_account">Seleccionar la cuenta</string>
+	<string name="open_web_page">Abrir página web</string>
+	<string name="view_payees">Ver los beneficiarios</string>
+	<string name="default_payee_name">Mi beneficiario</string>
 	<string name="spending_by_payee">Gastos por beneficiario</string>
-    <string name="all_payees_hidden_by_filter">Todos los beneficiarios están ocultos por el filtro de visualización</string>
-        
-    <string name="without_payee">Sin beneficiario</string>
-    <string name="no_payees_yet">Aún no hay beneficiarios</string>
+	<string name="all_payees_hidden_by_filter">Todos los beneficiarios están ocultos por el filtro de visualización</string>
+
+	<string name="without_payee">Sin beneficiario</string>
+	<string name="no_payees_yet">Aún no hay beneficiarios</string>
 	<string-array name="payee_count_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 beneficiarios</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item>^1 beneficiarios</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
-    <string name="all_payees">Todos los beneficiarios</string>
+	<string name="all_payees">Todos los beneficiarios</string>
 	<string name="payees_in_open_accounts">Beneficiarios de cuentas abiertas</string>
 	<string name="payees_in_closed_accounts_only">Sólo beneficiarios de cuentas cerradas</string>
 	<string name="unused_payees">Beneficiarios no utilizados</string>
@@ -56,10 +56,10 @@
 
 	<string-array name="payee_list_order_title_bar">
 		<item>@string/date</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 		<item>@string/name</item>
 		<item>@string/amount</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->

@@ -17,9 +17,9 @@
 	<string name="mark_canceled">Markierung abgebrochen</string>
 	<string name="mark_transaction">Transaktion markieren</string>
 	<string-array name="mark_transactions_format_plurals">
-        <item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 Transaktionen markiert</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="mark_transactions_all"><b>Alle</b> Transaktionen markieren</string>
 	<string name="unreconciled1">Nicht abgeglichen</string>
@@ -28,7 +28,7 @@
 
 	<string name="reconciled1">M.d.Bank abgeglichen</string>
 
-    <string name="_void_verb">Ungültig</string> <!-- This is an adjective as in "Void transaction" -->
+	<string name="_void_verb">Ungültig</string> <!-- This is an adjective as in "Void transaction" -->
 
 	<string name="not_void1">Nicht ungültig</string>
 	<string name="pending2">Unerledigt</string>
@@ -53,14 +53,14 @@
 	<string name="number">Nummer</string>
 	<string name="transfer">Transfer</string>
 	<string name="transfers">Transfers</string>
-    <string name="transfer_account">Konto-Transfer</string>
+	<string name="transfer_account">Konto-Transfer</string>
 	<string name="add">Hinzufügen</string>
 	<string name="added">Hinzugefügt</string>
 	<string name="add_canceled">Hinzufügen abgebrochen</string>
 	<string name="accept_and_edit">Annehmen &amp; Editieren</string>
 	<string name="add_and_close">Hinzufügen &amp; Schließen</string>
 	<string name="duplicate_copy_move">Duplizieren, kopieren oder verschieben</string>
-    <string name="duplicate_copy_move_short">Duplizieren oder verschieben</string>
+	<string name="duplicate_copy_move_short">Duplizieren oder verschieben</string>
 	<string name="duplicate_transaction">Transaktion duplizieren</string>
 	<string name="duplicate_in_current_account">Duplikate in laufendem Konto</string>
 	<string name="copy_to_another_account">In ein anderes Konto kopieren</string>
@@ -82,19 +82,19 @@
 	<string name="classification_cannot_fit_warning_part2">Möchten Sie einigte Labels entfernen, um mehr Platz zu schaffen</string>
 	<string name="classification_cannot_fit_warning_part3">Sie können diese Einstellungen später jederzeit wieder ändern</string>
 	<string name="ask_to_edit_related_transaction_message_part1">Da die andere Hälfte dieser Transaktion gesplittet wurde, müssen Sie sie auch dort ändern</string>
-    <string name="ask_to_edit_related_transaction_message_part2">Möchten Sie die andere Transaktion nun ändern</string>
+	<string name="ask_to_edit_related_transaction_message_part2">Möchten Sie die andere Transaktion nun ändern</string>
 	<string name="transaction_modified_message">Transaktion wird geändert</string>
 	<string name="transaction_confirm_save_on_back_press_message_format">Die Transaktion wurde geändert.\n\nDrücken Sie ^1 um die Transaktion zu sichern, ^2 Zurück zur Änderung der Transaktion, oder ^3 um die Änderungen zu verwerfen</string>
 	<string name="split_confirm_save_on_back_press_message_format">Die Split-Buchung ist geändert worden.\n\nDrücken Sie ^1 um die Split-Buchung zu sichern, ^2 um die Split-Buchung zu ändern, oder ^3 um die Änderungen zu verwerfen</string>
-    <string name="transaction_modified_reconciled_message">Eine abgeglichene Buchung wird geändert</string>
+	<string name="transaction_modified_reconciled_message">Eine abgeglichene Buchung wird geändert</string>
 	<string name="transaction_modified_related_reconciled_message">Die andere Hälfte der Buchung, die bereits abgeglichen ist, wird auch geändert</string>
-    <string name="records_may_differ">Das kann dazu führen, dass Ihre Salden sich von denen Ihrer Bank unterscheiden können</string>
+	<string name="records_may_differ">Das kann dazu führen, dass Ihre Salden sich von denen Ihrer Bank unterscheiden können</string>
 	<string name="missing_category_warning_message_format">Wir empfehlen dringend, dass Sie eine Kategorie festlegen! Ohne Kategorie könnten Ausgaben-Berichte nicht korrekt sein.\n\nDrücken Sie ^1 um die Buchung zu sichern und ihr keine Kategorie zuzuweisen, oder ^2 um zurückzugehen, um die Buchung zu ändern</string>
 	<string name="expense_category_given_for_income_message_format">Eine Ausgaben-Kategorie für ^1 ist festgelegt worden. \n\nDrücken Sie ^2 um die Kategorie so zu lassen, wie sie ist, oder ^3 um zurückzugehen, um die Buchung zu ändern</string>
 	<string name="income_category_given_for_expense_message_format">Eine Einnahmen-Kategorie für ^1 ist festgelegt worden. \n\nDrücken Sie ^2 um die Kategorie so zu lassen, wie sie ist, oder ^3 um zurückzugehen, um die Buchung zu ändern</string>
 	<string name="payee_not_found_format">Empfänger ^1 existiert nicht</string>
 	<string name="payer_not_found_format">Zahler (Bezogener) ^1 existiert nicht</string>
-    <string name="would_you_like_to_create_it">Möchten Sie ihn anlegen</string>
+	<string name="would_you_like_to_create_it">Möchten Sie ihn anlegen</string>
 	<string name="amount_zero_warning_message_format">Der Transaktionsbetrag ist NULL.\n\nDrücken Sie ^1 um den Betrag bei NULL zu belassen, oder ^2 um eine gültige Transaktion anzulegen</string>
 	<string name="sum_of_splits_warning_message_format">Die Summe der Splitbuchungen ist ungleich dem Gesamtbetrag.\n\nDrücken Sie ^1 um die Splitbuchungen zu ändern</string>
 	<string name="duplicate_number_message_format">Eine Buchung datiert auf ^1 benutzt die gleiche Scheck-Nummer.\n\nDrücken Sie ^2 um die gleiche Scheck-Nummer noch einmal zu benutzen, oder ^3 um zur Buchung zurückzugehen</string>
@@ -123,7 +123,7 @@
 	<string name="profit_and_loss_statement">Gewinn und Verlustrechnung</string>
 	<string name="transaction_type">Transaktions-Typ</string>
 	<string name="transaction_status">Transaktions-Status</string>
-			
+
 	<string name="full_screen_mode">Vollbild-Modus</string>
 	<string name="full_screen_mode_description">Wenn ausgewählt, sind mehr Buchungen sichtbar</string>
 
@@ -165,21 +165,21 @@
 	</string-array>
 
 	<string-array name="delete_transaction_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 ausgewählte Transaktionen werden gelöscht</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="delete_transaction_warning_all"><b>Alle</b> Transaktionen werden gelöscht</string>
 	<string name="delete_transaction_warning_reconciled">Eine abgeglichene Buchung wird gelöscht</string>
-    <string-array name="delete_transaction_warning_reconciled_format_plurals">
-        <item/> <!-- Intentionally left empty -->
+	<string-array name="delete_transaction_warning_reconciled_format_plurals">
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 ausgewählte Transaktionen werden gelöscht, wovon zumindest eine schon abgeglichen ist</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="accept_transaction_confirm_singular">Transaktion wird akzeptiert</string>
-    <string-array name="accept_transaction_confirm_format_plurals">
-        <item/> <!-- Intentionally left empty -->
+	<string-array name="accept_transaction_confirm_format_plurals">
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 gewählte Transaktionen werden akzeptiert</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 </resources>

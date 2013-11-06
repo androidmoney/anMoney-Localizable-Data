@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="currency">Měna</string>
-    <string name="currencies">Číselník měn</string>
-    <string name="edit_currency">Upravit měnu</string>
-    <string name="set_as_base_currency">Zvolit základní měnu</string>
-    <string name="base_currency_set">Základní měna vybrána</string>
-    <string name="exchange_rate">Směnný kurs</string>
-    <string name="exchange_rates">Směnné kurzy</string>
-    <string name="country">Země</string>
-    <string name="region">Oblast</string>
-    <string name="currency_name">Název měny</string>
-    <string name="symbol">Symbol</string>
-    <string name="symbol_required">Symbol je povinný</string>
-    <string name="exchange_rate_required">Směnný kurs je povinný</string>
-    <string name="view_currencies">Zobrazit měny</string>
-    <string name="tap_to_modify_converted_amounts">Zvolte pro změnu převedených částek</string>
-    <string name="currency_converter">Převod měn</string>
-    <string name="invert">Obrátit</string>
-    <string name="save_exchange_rate">Uložit tento kurs</string>
-    <string name="all_currencies">Všechny měny</string>
-    <string name="used_currencies">Použité měny</string>
-    <string name="and_prior_format">do ^1 včetně</string> <!-- As in "January 1 and prior" -->
-    
+	<string name="currency">Měna</string>
+	<string name="currencies">Číselník měn</string>
+	<string name="edit_currency">Upravit měnu</string>
+	<string name="set_as_base_currency">Zvolit základní měnu</string>
+	<string name="base_currency_set">Základní měna vybrána</string>
+	<string name="exchange_rate">Směnný kurs</string>
+	<string name="exchange_rates">Směnné kurzy</string>
+	<string name="country">Země</string>
+	<string name="region">Oblast</string>
+	<string name="currency_name">Název měny</string>
+	<string name="symbol">Symbol</string>
+	<string name="symbol_required">Symbol je povinný</string>
+	<string name="exchange_rate_required">Směnný kurs je povinný</string>
+	<string name="view_currencies">Zobrazit měny</string>
+	<string name="tap_to_modify_converted_amounts">Zvolte pro změnu převedených částek</string>
+	<string name="currency_converter">Převod měn</string>
+	<string name="invert">Obrátit</string>
+	<string name="save_exchange_rate">Uložit tento kurs</string>
+	<string name="all_currencies">Všechny měny</string>
+	<string name="used_currencies">Použité měny</string>
+	<string name="and_prior_format">do ^1 včetně</string> <!-- As in "January 1 and prior" -->
+
 	<string-array name="currency_list_status_filter_title_bar">
 		<item>@string/all_currencies</item>
 		<item>@string/used_currencies</item>

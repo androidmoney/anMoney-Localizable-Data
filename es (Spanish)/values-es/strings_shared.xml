@@ -1,108 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="two_part_format_normal_width">^1 ^2</string>
-    <string name="two_part_format_full_width">^1 ^2</string>
-    <string name="sentence_end_period_format">^1.</string>
-    <string name="sentence_end_question_mark_format">¿^1?</string>
-    <string name="parantheses_format_normal_width">(^1)</string>
-    <string name="parantheses_format_full_width">(^1)</string>
-    <string name="two_items_dash_with_space_format">^1 – ^2</string>
-    <string name="two_items_dash_without_space_format">^1–^2</string>
-    <string name="colon_format">^1:</string>
-    <string name="two_part_slash_format">^1 / ^2</string>
-    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="two_part_format_normal_width">^1 ^2</string>
+	<string name="two_part_format_full_width">^1 ^2</string>
+	<string name="sentence_end_period_format">^1.</string>
+	<string name="sentence_end_question_mark_format">¿^1?</string>
+	<string name="parantheses_format_normal_width">(^1)</string>
+	<string name="parantheses_format_full_width">(^1)</string>
+	<string name="two_items_dash_with_space_format">^1 – ^2</string>
+	<string name="two_items_dash_without_space_format">^1–^2</string>
+	<string name="colon_format">^1:</string>
+	<string name="two_part_slash_format">^1 / ^2</string>
+	<string name="two_part_comma_format">^1, ^2</string>
 	<string name="default_name_format">^1 No. ^2</string>
-    <string name="percent_sign">%</string>
-    <string name="percentage_format">^1%</string>
+	<string name="percent_sign">%</string>
+	<string name="percentage_format">^1%</string>
 	<string name="plus_after_format">^1+</string>
 	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
-    <string name="filter_by_order_format">^1 por ^2</string> <!-- Example: "All accounts by name" -->
-    <string name="filter_by_direction_order_format">^1 por ^3 en orden ^2</string> <!-- Example: "All payees by decreasing date" -->
-    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 por ^3 en orden ^2 para ^4</string>
-    <string name="_continue">Continuar</string>
+	<string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
+	<string name="filter_by_order_format">^1 por ^2</string> <!-- Example: "All accounts by name" -->
+	<string name="filter_by_direction_order_format">^1 por ^3 en orden ^2</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 por ^3 en orden ^2 para ^4</string>
+	<string name="_continue">Continuar</string>
 	<string name="continue_question">Continuar</string>
-    <string name="home">Página de inicio</string>
+	<string name="home">Página de inicio</string>
 	<string name="home_screen">Página de inicio</string>
-    <string name="previous">Anterior</string>
-    <string name="next">Siguiente</string>
-    <string name="_import">Importar</string>
-    <string name="imported">Importado</string>
-    <string name="import_canceled">Se canceló la importación</string>
-    <string name="export">Exportar</string>
-    <string name="export_canceled">Se canceló la exportación</string>
+	<string name="previous">Anterior</string>
+	<string name="next">Siguiente</string>
+	<string name="_import">Importar</string>
+	<string name="imported">Importado</string>
+	<string name="import_canceled">Se canceló la importación</string>
+	<string name="export">Exportar</string>
+	<string name="export_canceled">Se canceló la exportación</string>
 	<string name="import_export">Importar / exportar</string>
-    <string name="display_options">Opciones de visualización</string>
-    <string name="add_favorite">Agregar a favoritos</string>
-    <string name="added_to_favorites">Se agregó a favoritos</string>
-    <string name="remove">Eliminar</string>
-    <string name="remove_favorite">Eliminar de los favoritos</string>
-    <string name="removed_from_favorites">Eliminado de los favoritos</string>
-    <string name="save">Guardar</string>
-    <string name="saved">Guardado</string>
-    <string name="save_canceled">No se guardó</string>
-    <string name="canceled">Cancelado</string>
-    <string name="delete">Eliminar</string>
-    <string name="deleted">Eliminado</string>
-    <string name="delete_canceled">Se canceló la eliminación</string>
-    <string name="create">Crear</string>
-    <string name="created">Creado</string>
-    <string name="create_canceled">No se creó</string>
+	<string name="display_options">Opciones de visualización</string>
+	<string name="add_favorite">Agregar a favoritos</string>
+	<string name="added_to_favorites">Se agregó a favoritos</string>
+	<string name="remove">Eliminar</string>
+	<string name="remove_favorite">Eliminar de los favoritos</string>
+	<string name="removed_from_favorites">Eliminado de los favoritos</string>
+	<string name="save">Guardar</string>
+	<string name="saved">Guardado</string>
+	<string name="save_canceled">No se guardó</string>
+	<string name="canceled">Cancelado</string>
+	<string name="delete">Eliminar</string>
+	<string name="deleted">Eliminado</string>
+	<string name="delete_canceled">Se canceló la eliminación</string>
+	<string name="create">Crear</string>
+	<string name="created">Creado</string>
+	<string name="create_canceled">No se creó</string>
 	<string name="create_what">Qué crear</string>
-    <string name="edit">Editar</string>
-    <string name="edit_canceled">Se canceló la edición</string>
+	<string name="edit">Editar</string>
+	<string name="edit_canceled">Se canceló la edición</string>
 	<string name="edit_which">Qué editar</string>
-    <string name="copy">Copiar</string>
-    <string name="copied">Copiado</string>
-    <string name="move">Mover</string>
-    <string name="moved">Movido</string>
-    <string name="duplicate">Duplicar</string>
-    <string name="duplicated">Duplicado</string>
-    <string name="rename">Renombrar</string>
-    <string name="renamed">Renombrado</string>
-    <string name="rename_canceled">Se canceló el cambio de nombre</string>
-    <string name="link">Vincular</string> <!-- is it an action? -->
-    <string name="linked">Vinculado</string>
-    <string name="combine">Combinar</string>
-    <string name="combined">Combinado</string>
-    <string name="copy_to_clipboard">Copiar al portapapeles</string>
-    <string name="set">Establecer</string>
-    <string name="share">Compartir</string>
-    <string name="share_canceled">No se compartió</string>
-    <string name="create_in_app_name_format">Crear en ^1</string>
-    <string name="pick_from_app_name_format">Elegir de ^1</string>
-    <string name="do_not_ask_again">No volver a preguntar</string>
-    <string name="apply_to_all">Aplicar a todos</string>
+	<string name="copy">Copiar</string>
+	<string name="copied">Copiado</string>
+	<string name="move">Mover</string>
+	<string name="moved">Movido</string>
+	<string name="duplicate">Duplicar</string>
+	<string name="duplicated">Duplicado</string>
+	<string name="rename">Renombrar</string>
+	<string name="renamed">Renombrado</string>
+	<string name="rename_canceled">Se canceló el cambio de nombre</string>
+	<string name="link">Vincular</string> <!-- is it an action? -->
+	<string name="linked">Vinculado</string>
+	<string name="combine">Combinar</string>
+	<string name="combined">Combinado</string>
+	<string name="copy_to_clipboard">Copiar al portapapeles</string>
+	<string name="set">Establecer</string>
+	<string name="share">Compartir</string>
+	<string name="share_canceled">No se compartió</string>
+	<string name="create_in_app_name_format">Crear en ^1</string>
+	<string name="pick_from_app_name_format">Elegir de ^1</string>
+	<string name="do_not_ask_again">No volver a preguntar</string>
+	<string name="apply_to_all">Aplicar a todos</string>
 	<string name="all_items">Todas los items</string>
-    <string name="notes">Notas</string>
-    <string name="no_notes">No hay notas</string>
-    <string name="required">Se requiere</string>
-    <string name="name">Nombre</string>
-    <string name="invalid_name">Nombre inválido</string>
-    <string name="name_exists">El nombre ya existe</string>
-    <string name="amount">Importe</string>
-    <string name="start_date">Fecha inicial</string>
-    <string name="end_date">Fecha final</string>
-    <string name="must_be_less_than_format">Debe ser &lt; ^1</string>
-    <string name="must_be_greater_than_format">Debe ser &gt; ^1</string>
-    <string name="reset">Restablecer</string>
-    <string name="total">Total</string>
-    <string name="grand_total">Total general</string>
-    <string name="average">Promedio</string>
-    <string name="export_file_name">Nombre del archivo de salida</string>
-    <string name="specify_export_file_name">Especifica el nombre del archivo en el que se guardará la exportación</string>
-    <string name="file_exists">Ya hay un archivo con ese nombre</string>
-    <string name="folder_exists">Ya hay una carpeta con ese nombre</string>
-    <string name="choose_another_name">Elije otro nombre</string>
-    <string name="will_be_overwritten">Se sobrescribirá</string>
-    <string name="calendar">Calendario</string>
-    <string name="remind_me">Recuérdame</string>
-    <string name="add_as_a_contact">Añadir a contactos</string>
-    <string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
-    <string name="to">Para</string> <!-- To <account> -->
-    <string name="from">De</string> <!-- From <account> -->
+	<string name="notes">Notas</string>
+	<string name="no_notes">No hay notas</string>
+	<string name="required">Se requiere</string>
+	<string name="name">Nombre</string>
+	<string name="invalid_name">Nombre inválido</string>
+	<string name="name_exists">El nombre ya existe</string>
+	<string name="amount">Importe</string>
+	<string name="start_date">Fecha inicial</string>
+	<string name="end_date">Fecha final</string>
+	<string name="must_be_less_than_format">Debe ser &lt; ^1</string>
+	<string name="must_be_greater_than_format">Debe ser &gt; ^1</string>
+	<string name="reset">Restablecer</string>
+	<string name="total">Total</string>
+	<string name="grand_total">Total general</string>
+	<string name="average">Promedio</string>
+	<string name="export_file_name">Nombre del archivo de salida</string>
+	<string name="specify_export_file_name">Especifica el nombre del archivo en el que se guardará la exportación</string>
+	<string name="file_exists">Ya hay un archivo con ese nombre</string>
+	<string name="folder_exists">Ya hay una carpeta con ese nombre</string>
+	<string name="choose_another_name">Elije otro nombre</string>
+	<string name="will_be_overwritten">Se sobrescribirá</string>
+	<string name="calendar">Calendario</string>
+	<string name="remind_me">Recuérdame</string>
+	<string name="add_as_a_contact">Añadir a contactos</string>
+	<string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
+	<string name="to">Para</string> <!-- To <account> -->
+	<string name="from">De</string> <!-- From <account> -->
 	<string name="send_email">Enviar correo electrónico</string>
 	<string name="please_read">Por favor, lee</string>
 	<string name="rate_app_format">Califica ^1</string>
@@ -113,28 +113,28 @@
 	<string name="no_thanks">No, gracias</string>
 	<string name="maybe_later">Tal vez en otro momento</string>
 	<string name="unexpected_error_warning">Ocurrió un error inesperado que obliga anMoney a detenerse.\n\nPor favor ayúdanos a solucionar este problema enviando un e-mail con el reporte de error. Tendrás la oportunidad de editar el correo electrónico antes de enviarlo.\n\nGracias por tu cooperación.</string>
-    <string name="unexpected_error_notification_ticker">Error inesperado. Por favor, envía un reporte.</string>
-    <string name="unexpected_error_notification_title">anMoney se ha detenido</string>
-    <string name="unexpected_error_notification_text">Pulsa aquí para enviar un reporte.</string>
-    <string name="unexpected_error_comment">Si lo deseas, por favor, describe lo que estabas haciendo cuando se produjo el problema</string>
+	<string name="unexpected_error_notification_ticker">Error inesperado. Por favor, envía un reporte.</string>
+	<string name="unexpected_error_notification_title">anMoney se ha detenido</string>
+	<string name="unexpected_error_notification_text">Pulsa aquí para enviar un reporte.</string>
+	<string name="unexpected_error_comment">Si lo deseas, por favor, describe lo que estabas haciendo cuando se produjo el problema</string>
 	<string name="archiving">Registro histórico</string>
 	<string name="archiving_settings">Configuración del registro histórico</string>
-    <string name="more">Más</string>
-    <string name="specify_options">Especificar las opciones</string>
+	<string name="more">Más</string>
+	<string name="specify_options">Especificar las opciones</string>
 	<string name="expand_all">Expandir todo</string>
 	<string name="all_expanded">Todo expandido</string>
 	<string name="collapse_all">Contraer todo</string>
 	<string name="all_collapsed">Todo contraido</string>
-    <string name="postal_address">Dirección postal</string>
-    <string name="postal_address_hint">Calle\nCiudad\nCódigo postal</string>
-    <string name="cannot_perform_sd_card_operation">Esta operación no puede llevarse a cabo en este momento, pues no hay una tarjeta SD en el dispositivo o el dispositivo está conectado a su ordenador, haciendo que la tarjeta SD sea inaccesible</string>
-    <string name="cannot_perform_file_system_operation_format">Esta operación no puede llevarse a cabo en este momento pues el acceso a la memoria interna (^1) no está accesible</string>
-    <string name="please_correct_and_try_again">Por favor, corrige y vuelve a intentarlo</string>
-    <string name="no_network_message_format">^1 necesita acceder periódicamente a internet con el fin de verificar la licencia.\n\nPor favor activa la red y, una vez que tengas conexión, vuelve a intentarlo. Puedes desactivar la red después.\n\nSi pulsas ^2 se te llevará a las configuraciones de ^3</string>
-    <string name="calculator">Calculadora</string>
-    <string name="only_in_full_version">Sólo en la versión PRO</string>
-    <string name="will_not_effect_transactions">Esto <b>no</b> afectará a las transacciones existentes</string>
-    
+	<string name="postal_address">Dirección postal</string>
+	<string name="postal_address_hint">Calle\nCiudad\nCódigo postal</string>
+	<string name="cannot_perform_sd_card_operation">Esta operación no puede llevarse a cabo en este momento, pues no hay una tarjeta SD en el dispositivo o el dispositivo está conectado a su ordenador, haciendo que la tarjeta SD sea inaccesible</string>
+	<string name="cannot_perform_file_system_operation_format">Esta operación no puede llevarse a cabo en este momento pues el acceso a la memoria interna (^1) no está accesible</string>
+	<string name="please_correct_and_try_again">Por favor, corrige y vuelve a intentarlo</string>
+	<string name="no_network_message_format">^1 necesita acceder periódicamente a internet con el fin de verificar la licencia.\n\nPor favor activa la red y, una vez que tengas conexión, vuelve a intentarlo. Puedes desactivar la red después.\n\nSi pulsas ^2 se te llevará a las configuraciones de ^3</string>
+	<string name="calculator">Calculadora</string>
+	<string name="only_in_full_version">Sólo en la versión PRO</string>
+	<string name="will_not_effect_transactions">Esto <b>no</b> afectará a las transacciones existentes</string>
+
 	<string name="free_limitations">Compra la versión PRO para eliminar las limitaciones siguientes:\n\n
 	<li>Sin contraseña de seguridad</li>\n
 	<li>Sin copia de seguridad automatica de sus datos</li>\n
@@ -147,21 +147,21 @@
 	</string>
 
 	<string name="no_items">No hay elementos</string>
-    <string name="no_items_yet">No hay elementos todavía</string>
+	<string name="no_items_yet">No hay elementos todavía</string>
 	<string-array name="items_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 elementos</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item>^1 elementos</item>
+		<item/> <!-- Not used -->
 	</string-array>
-    
+
 	<string-array name="reminder_leads">
-        <item>No me lo recuerdes</item>
-        <item>Ese día</item>
-        <item>El día anterior</item>
-        <item>Dos días antes</item>
-        <item>Una semana antes</item>
-        <item>Dos semanas antes</item>
-    </string-array>
+		<item>No me lo recuerdes</item>
+		<item>Ese día</item>
+		<item>El día anterior</item>
+		<item>Dos días antes</item>
+		<item>Una semana antes</item>
+		<item>Dos semanas antes</item>
+	</string-array>
 
 	<string-array name="nth_day_of_the_month">
 		<item>1º</item>

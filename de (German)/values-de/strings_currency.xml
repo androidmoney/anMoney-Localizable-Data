@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="currency">Währung</string>
-    <string name="currencies">Währungen</string>
+	<string name="currencies">Währungen</string>
 	<string name="edit_currency">Währungen ändern</string>
 	<string name="set_as_base_currency">Als Basis-Währung festlegen</string>
 	<string name="base_currency_set">Basis Währung festgelegt</string>
@@ -18,10 +18,10 @@
 	<string name="currency_converter">Währungsrechner</string>
 	<string name="invert">Umkehren</string>
 	<string name="save_exchange_rate">Wechselkurs speichern</string>
-    <string name="all_currencies">Alle Währungen</string>
-    <string name="used_currencies">Benutzte Währungen</string>
-    <string name="and_prior_format">^1 und vor</string>
-    	
+	<string name="all_currencies">Alle Währungen</string>
+	<string name="used_currencies">Benutzte Währungen</string>
+	<string name="and_prior_format">^1 und vor</string>
+
 	<string-array name="currency_list_status_filter_title_bar">
 		<item>@string/all_currencies</item>
 		<item>@string/used_currencies</item>

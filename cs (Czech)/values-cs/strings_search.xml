@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="search">Hledat</string>
-    <string name="search_transactions">Hledat transakce</string>
-    <string name="no_matching_transactions">Žádné vyhovující transakce</string>
+	<string name="search">Hledat</string>
+	<string name="search_transactions">Hledat transakce</string>
+	<string name="no_matching_transactions">Žádné vyhovující transakce</string>
 </resources>

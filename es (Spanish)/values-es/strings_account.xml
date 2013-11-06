@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account">Cuenta</string>
-    <string name="accounts">Cuentas</string>
-    <string name="all_accounts">Todas las cuentas</string>
-    <string name="open_accounts">Cuentas abiertas</string>
-    <string name="liability">Pasivo</string>
-    <string name="asset">Activo</string>
+	<string name="account">Cuenta</string>
+	<string name="accounts">Cuentas</string>
+	<string name="all_accounts">Todas las cuentas</string>
+	<string name="open_accounts">Cuentas abiertas</string>
+	<string name="liability">Pasivo</string>
+	<string name="asset">Activo</string>
 <!-- <string name="associated_loan">Associated loan</string> -->
 <!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
 <!-- <string name="associated_reward_program">Associated reward program</string> -->
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
-    <string name="account_balances">Saldos de cuentas</string>
-    <string name="vehicle">Vehículo</string>
-    <string name="property">Inmueble</string>
-    <string name="view_accounts">Ver cuentas</string>
-    <string name="new_account">Nueva cuenta</string>
-    <string name="edit_account">Editar cuenta</string>
-    <string name="balance_noun">Saldo</string>
-    <string name="balances_noun">Saldos</string>
-    <string name="adjust">Ajustar</string>
+	<string name="account_balances">Saldos de cuentas</string>
+	<string name="vehicle">Vehículo</string>
+	<string name="property">Inmueble</string>
+	<string name="view_accounts">Ver cuentas</string>
+	<string name="new_account">Nueva cuenta</string>
+	<string name="edit_account">Editar cuenta</string>
+	<string name="balance_noun">Saldo</string>
+	<string name="balances_noun">Saldos</string>
+	<string name="adjust">Ajustar</string>
 	<string name="adjust_balance">Ajustar saldo</string>
 	<string name="balance_adjusted">Saldo ajustado</string>
 	<string name="balance_adjustment_note">Ajuste del saldo</string>
 	<string name="category_for_adjustment_transaction">Categoría para la transacción de ajuste</string>
-    <string name="postpone">Postergar</string>
+	<string name="postpone">Postergar</string>
 	<string name="balance_verb">Saldar</string>
-    <string name="balance_account">Saldar la cuenta</string>
-    <string name="balanced">Conciliado</string>
-    <string name="balance_postponed">Conciliación postergada</string>
-    <string name="balance_canceled">Conciliación cancelada</string>
+	<string name="balance_account">Saldar la cuenta</string>
+	<string name="balanced">Conciliado</string>
+	<string name="balance_postponed">Conciliación postergada</string>
+	<string name="balance_canceled">Conciliación cancelada</string>
 	<string name="started_balancing_already">Ya iniciaste la conciliación de esta cuenta</string>
 	<string name="postpone_balancing_warning">Postergar la conciliación</string>
 	<string name="account_balance_does_not_match_bank_warning_format">El saldo inicial de la cuenta que ha introducido, ^1, no coincide con el saldo de todas las transacciones previamente conciliadas, ^2</string>
@@ -36,96 +36,96 @@
 	<string name="account_balance_does_not_match_fix">Intente fijarlo mediante:\n\n<li>Doble control de la declaración</li>\n<li>Marcar las transacciones como conciliadas</li>\n<li>Marcar las transacciones como no conciliadas</li>\n<li>Ajustar el saldo inicial</li></string>
 	<string name="left_to_reconcile">Lo que resta conciliar</string>
 	<string name="statement_balance">Saldo del asiento</string>
-    <string name="statement_date">Fecha del asiento</string>
-    <string name="statement_starting_balance">Asiento de saldo inicial</string>
-    <string name="statement_ending_balance">Asiento de saldo final</string>
-    <string name="amount_owed_last_month">Importe total adeudado del mes pasado</string>
-    <string name="amount_owed_this_month">Importe total adeudado de este mes</string>
+	<string name="statement_date">Fecha del asiento</string>
+	<string name="statement_starting_balance">Asiento de saldo inicial</string>
+	<string name="statement_ending_balance">Asiento de saldo final</string>
+	<string name="amount_owed_last_month">Importe total adeudado del mes pasado</string>
+	<string name="amount_owed_this_month">Importe total adeudado de este mes</string>
 	<string name="service_charge_amount">Importe del cargo de mantenimiento</string>
-    <string name="service_charge_category">Categoría del cargo de mantenimiento</string>
-    <string name="service_charge_notes_format">Cargo de mantenimiento para el período que finaliza el ^1</string>
-    <string name="interest_earned_amount">Importe del interés ganado</string>
-    <string name="interest_earned_category">Categoría del interés ganado</string>
-    <string name="interest_earned_notes_format">Interés ganado en el período que finaliza el ^1</string>
-    <string name="interest_paid_amount">Importe del interés pagado</string>
-    <string name="interest_paid_category">Categoría del interés pagado</string>
-    <string name="interest_paid_notes_format">Interés pagado en el período que finaliza el ^1</string>
-    <string name="clear_all_transactions">Marcar como saldadas todas las transacciones</string>  <!-- "Clear" as in Mark the transactions cleared -->
-	<string name="clear_all_transactions_on_all_pages">Marcar como saldadas todas las transacciones, en todas las páginas</string>  <!-- "Clear" as in Mark the transactions cleared -->
-    <string name="export_account">Exportar cuenta</string>
-    <string name="delete_account">Eliminar cuenta</string>
-    <string name="close_account">Cerrar cuenta</string>
-    <string name="reopen_account">Reabrir cuenta</string>
-    <string name="repair_account">Reparar cuenta</string>
-    <string name="repaired">Reparada</string>
-    <string name="copy_account_number">Copiar el número de cuenta</string>
-    <string name="book_total">Total del libro</string>
-    <string name="favorites_total">Total de los favoritos</string>
+	<string name="service_charge_category">Categoría del cargo de mantenimiento</string>
+	<string name="service_charge_notes_format">Cargo de mantenimiento para el período que finaliza el ^1</string>
+	<string name="interest_earned_amount">Importe del interés ganado</string>
+	<string name="interest_earned_category">Categoría del interés ganado</string>
+	<string name="interest_earned_notes_format">Interés ganado en el período que finaliza el ^1</string>
+	<string name="interest_paid_amount">Importe del interés pagado</string>
+	<string name="interest_paid_category">Categoría del interés pagado</string>
+	<string name="interest_paid_notes_format">Interés pagado en el período que finaliza el ^1</string>
+	<string name="clear_all_transactions">Marcar como saldadas todas las transacciones</string> <!-- "Clear" as in Mark the transactions cleared -->
+	<string name="clear_all_transactions_on_all_pages">Marcar como saldadas todas las transacciones, en todas las páginas</string> <!-- "Clear" as in Mark the transactions cleared -->
+	<string name="export_account">Exportar cuenta</string>
+	<string name="delete_account">Eliminar cuenta</string>
+	<string name="close_account">Cerrar cuenta</string>
+	<string name="reopen_account">Reabrir cuenta</string>
+	<string name="repair_account">Reparar cuenta</string>
+	<string name="repaired">Reparada</string>
+	<string name="copy_account_number">Copiar el número de cuenta</string>
+	<string name="book_total">Total del libro</string>
+	<string name="favorites_total">Total de los favoritos</string>
 	<string name="delete_account_warning_part1_format">La eliminación de la cuenta ^1 será irreversible.\n\nHay otras transacciones (en otras cuentas) que involucran a esta cuenta y por lo tanto se eliminarán también</string>
 	<string name="delete_account_warning_part2_format">Para ocultar la cuenta, pero guardar el historial de transacciones, en su lugar pulse ^1 y cierre la cuenta</string>
 	<string name="no_accounts">No tienes ninguna cuenta</string>
-    <string name="no_transactions_for_account">No tienes ninguna transacción para esta cuenta</string>
-    <string name="account_type">Tipo de cuenta</string>
-    <string name="account_type_bank_first">Tipo de cuenta con cuentas bancarias primero</string>
-    <string name="account_type_cash_first">Tipo de cuenta con cuentas en efectivo primero</string>
-    <string name="account_name">Nombre de la cuenta</string>
-    <string name="abbreviation">Abreviatura</string>
-    <string name="abbr">Abrev.</string>
-    <string name="type">Tipo</string>
-    <string name="favorite_account">Cuenta favorita</string>
-    <string name="favorite_accounts">Cuentas favoritas</string>
-    <string name="account_has_been_closed">Esta cuenta ha sido cerrada</string>
-    <string name="acquisition_date">Fecha de adquisición</string>
-    <string name="credit_limit">Límite de crédito</string>
-    <string name="interest_rate">Tasa de interés</string>
-    <string name="minimum_balance">Saldo mínimo</string>
-    <string name="date">Fecha</string>
-    <string name="make">Marca</string>
-    <string name="vehicle_make">Marca del vehículo</string>
-    <string name="year">Año</string>
-    <string name="model">Modelo</string>
-    <string name="vehicle_model">Modelo del vehículo</string>
-    <string name="vehicle_identification_number">Número de Identificación Vehicular (VIN)</string>
-    <string name="vin">VIN</string>
-    <string name="purchase_location">Lugar de compra</string>
-    <string name="location">Lugar</string>
-    <string name="warranty_information">Información de la garantía</string>
-    <string name="type_details_about_warranty_information">Detalles del tipo de garantía</string>
-    <string name="warranty_expiration_date">Fecha de caducidad de la garantía</string>
-    <string name="manufacturer_web_address">Dirección web del fabricante</string>
-    <string name="property_address">Dirección de la inmueble</string>
-    <string name="closed">Cerrada</string>
-    <string name="reopened">Reabierta</string>
-    <string name="reopen_canceled">Reapertura cancelada</string>
-    <string name="no_financial_institution_assigned">No se asignó ninguna institución financiera</string>
-    <string name="maximum_100">Máximo 100%</string>
-    <string name="must_be_in_future">Debe ser una fecha futura</string>
-    <string name="must_be_in_past">Debe ser una fecha pasada</string>
-    <string name="invalid_year">Inválido</string>
-    <string name="invalid_vin_number">Debe tener 17 letras y/o dígitos</string>
-    <string name="invalid_url">URL inválida</string>
-    <string name="opening_balance_warning_message">Esta cuenta tiene transacciones conciliadas.\n\nCambiar el saldo inicial puede hacer que sus registros y los de la institución financiera difieran</string>
-    <string name="no_exchange_rate_warning_message_format">No hay ninguna tasa de cambio determinada entre ^1 y el ^2, lo que hará que el saldo del libro sea incorrecto</string>
-    <string name="would_you_like_to_give_one_after_saving">Te gustaría establecer una después de guardar</string>
-    <string name="net_worth">Patrimonio neto</string>
-    <string name="net_worth_over_time">Patrimonio neto a través del tiempo / Estimación</string>
+	<string name="no_transactions_for_account">No tienes ninguna transacción para esta cuenta</string>
+	<string name="account_type">Tipo de cuenta</string>
+	<string name="account_type_bank_first">Tipo de cuenta con cuentas bancarias primero</string>
+	<string name="account_type_cash_first">Tipo de cuenta con cuentas en efectivo primero</string>
+	<string name="account_name">Nombre de la cuenta</string>
+	<string name="abbreviation">Abreviatura</string>
+	<string name="abbr">Abrev.</string>
+	<string name="type">Tipo</string>
+	<string name="favorite_account">Cuenta favorita</string>
+	<string name="favorite_accounts">Cuentas favoritas</string>
+	<string name="account_has_been_closed">Esta cuenta ha sido cerrada</string>
+	<string name="acquisition_date">Fecha de adquisición</string>
+	<string name="credit_limit">Límite de crédito</string>
+	<string name="interest_rate">Tasa de interés</string>
+	<string name="minimum_balance">Saldo mínimo</string>
+	<string name="date">Fecha</string>
+	<string name="make">Marca</string>
+	<string name="vehicle_make">Marca del vehículo</string>
+	<string name="year">Año</string>
+	<string name="model">Modelo</string>
+	<string name="vehicle_model">Modelo del vehículo</string>
+	<string name="vehicle_identification_number">Número de Identificación Vehicular (VIN)</string>
+	<string name="vin">VIN</string>
+	<string name="purchase_location">Lugar de compra</string>
+	<string name="location">Lugar</string>
+	<string name="warranty_information">Información de la garantía</string>
+	<string name="type_details_about_warranty_information">Detalles del tipo de garantía</string>
+	<string name="warranty_expiration_date">Fecha de caducidad de la garantía</string>
+	<string name="manufacturer_web_address">Dirección web del fabricante</string>
+	<string name="property_address">Dirección de la inmueble</string>
+	<string name="closed">Cerrada</string>
+	<string name="reopened">Reabierta</string>
+	<string name="reopen_canceled">Reapertura cancelada</string>
+	<string name="no_financial_institution_assigned">No se asignó ninguna institución financiera</string>
+	<string name="maximum_100">Máximo 100%</string>
+	<string name="must_be_in_future">Debe ser una fecha futura</string>
+	<string name="must_be_in_past">Debe ser una fecha pasada</string>
+	<string name="invalid_year">Inválido</string>
+	<string name="invalid_vin_number">Debe tener 17 letras y/o dígitos</string>
+	<string name="invalid_url">URL inválida</string>
+	<string name="opening_balance_warning_message">Esta cuenta tiene transacciones conciliadas.\n\nCambiar el saldo inicial puede hacer que sus registros y los de la institución financiera difieran</string>
+	<string name="no_exchange_rate_warning_message_format">No hay ninguna tasa de cambio determinada entre ^1 y el ^2, lo que hará que el saldo del libro sea incorrecto</string>
+	<string name="would_you_like_to_give_one_after_saving">Te gustaría establecer una después de guardar</string>
+	<string name="net_worth">Patrimonio neto</string>
+	<string name="net_worth_over_time">Patrimonio neto a través del tiempo / Estimación</string>
 	<string name="forecast">Estimación</string>
-    <string name="set_total_to_show">Establecer el total a exhibir</string>
+	<string name="set_total_to_show">Establecer el total a exhibir</string>
 	<string name="total_to_show">Total a exhibir</string>
-    <string name="selected_total">Total seleccionado</string>
+	<string name="selected_total">Total seleccionado</string>
 	<string name="entered_total">Total registrado</string>
 	<string name="balance_as_of_today">Saldo de hoy</string>
 	<string name="cleared_total">Total compensado</string>
 	<string name="reconciled_total">Total conciliado</string>
 	<string name="filtered_total">Total filtrado</string>
 	<string name="default_cash_account_name">Mi caja diaria</string>
-    <string name="default_checking_account_name">Mi cuenta corriente</string>
-    <string name="default_savings_account_name">Mi cuenta de ahorros</string>
-    <string name="default_credit_account_name">Mi tarjeta de crédito</string>
-    <string name="color">Color</string>
-    <string name="projected_balance">Previsto</string>
-    <string name="projected_balance_at_the_end_of_the_month">Saldo previsto a fin de mes</string>
-    <string name="at_months_end">A fin de mes</string>
+	<string name="default_checking_account_name">Mi cuenta corriente</string>
+	<string name="default_savings_account_name">Mi cuenta de ahorros</string>
+	<string name="default_credit_account_name">Mi tarjeta de crédito</string>
+	<string name="color">Color</string>
+	<string name="projected_balance">Previsto</string>
+	<string name="projected_balance_at_the_end_of_the_month">Saldo previsto a fin de mes</string>
+	<string name="at_months_end">A fin de mes</string>
 	<string name="projected_balance_on_the_nth_day_of_the_month_format">Saldo previsto al ^1</string>
 	<string name="total_for_format">Total para ^1</string>
 	<string name="total_for_month">Total por mes</string>
@@ -136,18 +136,18 @@
 	<string name="make_account_budget_question_part2_format">Aún si presionas ^1, puedes hacer esto luego mediante la edición de la cuenta</string>
 	<string name="show_option_format">Mostrar la opción ^1</string>
 	<string name="show_closed">Mostrar cerradas</string>
-	
-    <string name="no_accounts_yet">No hay cuentas todavía</string>
+
+	<string name="no_accounts_yet">No hay cuentas todavía</string>
 	<string-array name="account_count_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 cuentas</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item>^1 cuentas</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="pending_count_plurals">
-        <item>^1 nueva transacción</item>
-        <item>^1 nuevas transacciones</item>
-        <item/> <!-- Not used -->
+		<item>^1 nueva transacción</item>
+		<item>^1 nuevas transacciones</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="account_group_labels">
@@ -171,7 +171,7 @@
 	</string-array>
 
 	<string-array name="opening_balance_new_labels">
-	    <item>Saldo de la cuenta</item>
+		<item>Saldo de la cuenta</item>
 		<item>Precio de compra</item>
 		<item>Monto adeudado en esta cuenta</item>
 		<item>Monto adeudado en esta tarjeta</item>
@@ -179,21 +179,21 @@
 
 	<string name="opening">Apertura</string>
 	<string-array name="opening_balance_edit_labels">
-	    <item>Saldo inicial</item>
+		<item>Saldo inicial</item>
 		<item>Precio de compra original</item>
 		<item>Monto adeudado originalmente en la cuenta</item>
 		<item>Monto adeudado originalmente en la tarjeta</item>
 	</string-array>
 
 	<string-array name="current_balance_edit_labels">
-	    <item>Saldo corriente</item>
+		<item>Saldo corriente</item>
 		<item>Valor corriente</item> <!-- of an asset -->
 		<item>Monto adeudado a hoy en esta cuenta</item>
 		<item>Monto adeudado a hoy en esta tarjeta</item>
 	</string-array>
-	
+
 	<string-array name="account_type_names">
-	    <item>Banco</item>
+		<item>Banco</item>
 		<item>Efectivo / Otro</item>
 		<item>Tarjeta de Crédito / Compra</item>
 		<item>Línea de crédito</item>
@@ -207,7 +207,7 @@
 	</string-array>
 
 	<string-array name="default_account_names">
-	    <item>Banco</item>
+		<item>Banco</item>
 		<item>Efectivo</item>
 		<item>Tarjeta de Crédito</item>
 		<item>Línea de crédito</item>
@@ -219,14 +219,14 @@
 		<item>Inversión</item>
 	</string-array>
 
-    <string name="show_account_numbers">Mostrar los números de cuenta</string>
-    <string name="show_account_numbers_description">Si hay un número de cuenta, se muestra debajo del nombre de la cuenta</string>
+	<string name="show_account_numbers">Mostrar los números de cuenta</string>
+	<string name="show_account_numbers_description">Si hay un número de cuenta, se muestra debajo del nombre de la cuenta</string>
 
-    <string name="use_abbreviations">Utilizar las abreviaturas</string>
-    <string name="use_abbreviations_description">Si hay una abreviatura, se muestra en lugar del nombre de cuenta</string>
+	<string name="use_abbreviations">Utilizar las abreviaturas</string>
+	<string name="use_abbreviations_description">Si hay una abreviatura, se muestra en lugar del nombre de cuenta</string>
 
-    <string name="show_group_totals">Mostrar totales de grupo</string>
-    <string name="show_group_totals_description">Muestra el total de cada grupo</string>
+	<string name="show_group_totals">Mostrar totales de grupo</string>
+	<string name="show_group_totals_description">Muestra el total de cada grupo</string>
 
 	<string-array name="account_list_status_filter_title_bar">
 		<item>@string/all_accounts</item>
@@ -242,21 +242,21 @@
 		<item/> <!-- Intentionally left empty -->
 	</string-array>
 
-    <string name="all_transactions">Todas las transacciones</string>
+	<string name="all_transactions">Todas las transacciones</string>
 	<string-array name="transaction_list_filter_title_bar">
-    	<item>@string/all_transactions</item>
+		<item>@string/all_transactions</item>
 		<item>@string/unreconciled2</item>
 		<item>@string/reconciled2</item>
 		<item>@string/cleared2</item>
 		<item>@string/pending2</item>
 		<item>@string/follow_up2</item>
-    	<item>@string/not_exported_transaction2</item>
+		<item>@string/not_exported_transaction2</item>
 	</string-array>
-    
-    <string name="display_order">Orden de visualización</string>
-    <string name="entry_date">Fecha de entrada</string>
-    <string-array name="transaction_list_sort_order_title_bar">
-    	<item>@string/date</item>
+
+	<string name="display_order">Orden de visualización</string>
+	<string name="entry_date">Fecha de entrada</string>
+	<string-array name="transaction_list_sort_order_title_bar">
+		<item>@string/date</item>
 		<item>@string/number</item>
 		<item>@string/payee</item>
 		<item>@string/amount</item>
@@ -266,8 +266,8 @@
 		<item/> <!-- Not unused -->
 		<item>@string/account</item>
 	</string-array>
-    
-    <string name="date_range">Intervalo de fechas</string>
+
+	<string name="date_range">Intervalo de fechas</string>
 	<string name="current_month">Mes en curso</string>
 	<string name="previous_month">Mes anterior</string>
 	<string name="next_month">Próximo mes</string>
@@ -284,8 +284,8 @@
 	<string name="previous_week">Semana anterior</string>
 	<string name="next_week">Próxima semana</string>
 
-	
-	
+
+
 	<string name="all_dates">Todas las fechas</string>
 	<string-array name="date_range_items">
 		<item>@string/all_dates</item>
@@ -336,5 +336,5 @@
 		<item>hoy</item>
 	</string-array>
 
-    <string name="display_grouping">Mostrar agrupamientos</string>
+	<string name="display_grouping">Mostrar agrupamientos</string>
 </resources>

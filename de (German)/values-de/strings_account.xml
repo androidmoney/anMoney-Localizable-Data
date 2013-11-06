@@ -4,15 +4,15 @@
 	<string name="accounts">Konten</string>
 	<string name="all_accounts">Alle Konten</string>
 	<string name="open_accounts">Offene Konten</string>
-    <string name="liability">Verbindlichkeit</string>
-    <string name="asset">Guthaben</string>
+	<string name="liability">Verbindlichkeit</string>
+	<string name="asset">Guthaben</string>
 <!-- <string name="associated_loan">Der zugehörige Kredit</string> -->
 <!-- <string name="associated_loan_if_any">Dazugehöriger Kredit, wenn vorhanden</string> -->
 <!-- <string name="associated_reward_program">Das zugehörige Vergütungsprogramm</string> -->
 <!-- <string name="associated_reward_program_if_any">Dazugehöriges Vergütungsprogramm, wenn vorhanden</string> -->
-    <string name="account_balances">Kontostände</string>
-    <string name="vehicle">KfZ</string>
-    <string name="property">Grund und Boden</string>
+	<string name="account_balances">Kontostände</string>
+	<string name="vehicle">KfZ</string>
+	<string name="property">Grund und Boden</string>
 	<string name="view_accounts">Konten ansehen</string>
 	<string name="new_account">Neues Konto</string>
 	<string name="edit_account">Konto ändern</string>
@@ -106,7 +106,7 @@
 	<string name="invalid_url">Ungültige URL</string>
 	<string name="opening_balance_warning_message">Dieses Konto hat abgeglichene Transaktionen.\n\nWenn Sie den Eröffnungs-Saldo ändern, könnte sich eine Differenz zu den Transaktionen Ihres Finanz-Institutes ergeben</string>
 	<string name="no_exchange_rate_warning_message_format">Kein Umrechnungskurs angegeben zwischen ^1 und ^2. Das führt zu einem falschen Saldo</string>
-    <string name="would_you_like_to_give_one_after_saving">Möchten Sie einen Saldo nach dem Speichern angeben</string>
+	<string name="would_you_like_to_give_one_after_saving">Möchten Sie einen Saldo nach dem Speichern angeben</string>
 	<string name="net_worth">Nettobetrag</string>
 	<string name="net_worth_over_time">Prognose / Reinvermögen – Periodenaufstellung</string>
 	<string name="forecast">Prognose</string>
@@ -123,9 +123,9 @@
 	<string name="default_savings_account_name">Mein Sparkonto</string>
 	<string name="default_credit_account_name">Mein Kreditkarten-Konto</string>
 	<string name="color">Farbe</string>
-    <string name="projected_balance">Geplanter</string>
+	<string name="projected_balance">Geplanter</string>
 	<string name="projected_balance_at_the_end_of_the_month">Geplanter Saldo am Monatsende</string>
-    <string name="at_months_end">Am Monatsende</string>
+	<string name="at_months_end">Am Monatsende</string>
 	<string name="projected_balance_on_the_nth_day_of_the_month_format">Geplanter Saldo am ^1</string>
 	<string name="total_for_format">Endsumme für ^1</string>
 	<string name="total_for_month">Monat total</string>
@@ -136,18 +136,18 @@
 	<string name="make_account_budget_question_part2_format">Selbst, wenn Sie ^1 drücken. können Sie das später nachholen</string>
 	<string name="show_option_format">Zeige die ^1 Option</string>
 	<string name="show_closed">Geschlossene anzeigen</string>
-		
+
 	<string name="no_accounts_yet">Bis jetzt keine Konten</string>
 	<string-array name="account_count_format_plurals">
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 		<item>^1 Konten</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="pending_count_plurals">
 		<item>^1 neue Transaktion</item>
 		<item>^1 neue Transaktionen</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="account_group_labels">
@@ -186,7 +186,7 @@
 	</string-array>
 
 	<string-array name="current_balance_edit_labels">
-	    <item>Aktueller Saldo</item>
+		<item>Aktueller Saldo</item>
 		<item>Aktueller Wert</item>
 		<item>Aktueller geschuldeter Betrag für dieses Konto</item>
 		<item>Aktueller geschuldeter Betrag für diese Karte</item>
@@ -205,7 +205,7 @@
 		<item>Andere Guthaben</item>
 		<item>Investitionen</item>
 	</string-array>
-	
+
 	<string-array name="default_account_names">
 		<item>Bank</item>
 		<item>Bargeld</item>
@@ -252,7 +252,7 @@
 		<item>@string/follow_up2</item>
 		<item>@string/not_exported_transaction2</item>
 	</string-array>
-	
+
 	<string name="display_order">Anzeige Anordnung</string>
 	<string name="entry_date">Eingabe-Datum</string>
 	<string-array name="transaction_list_sort_order_title_bar">
@@ -304,7 +304,7 @@
 		<item>Nächste 3 Monate</item>
 		<item>Nächste 6 Monate</item>
 		<item>Nächste 12 Monate</item>
-		<item>Innerhalb der nächsten 30 Tage</item>  
+		<item>Innerhalb der nächsten 30 Tage</item>
 		<item>Innerhalb der nächsten 3 Monate</item>
 		<item>Innerhalb der nächsten 6 Monate</item>
 		<item>Innerhalb der nächsten 12 Monate</item>
@@ -328,7 +328,7 @@
 		<item>die nächste 3 Monate</item>
 		<item>die nächste 6 Monate</item>
 		<item>die nächste 12 Monate</item>
-		<item>+ 30 Tage</item>  
+		<item>+ 30 Tage</item>
 		<item>+ 3 Monate</item>
 		<item>+ 6 Monate</item>
 		<item>+ 12 Monate</item>

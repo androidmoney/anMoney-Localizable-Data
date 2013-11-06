@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="report">Bericht</string>
-    <string name="reports">Berichte</string>
+	<string name="reports">Berichte</string>
 	<string name="view_report">Berichte ansehen</string>
 	<string name="view_reports">Berichte ansehen</string>
 	<string name="report_canceled">Bericht abgebrochen</string>
@@ -12,7 +12,7 @@
 	<string name="custom_dates">Eigene Datumsangaben</string>
 	<string name="other">Andere</string>
 	<string name="report_empty">Keine Daten zum Anzeigen vorhanden</string>
-    <string name="report_settings_instructions_format">Um die Berichtseinstellungen zu ändern, drücken Sie ^i oben auf den Bildschirm</string>
+	<string name="report_settings_instructions_format">Um die Berichtseinstellungen zu ändern, drücken Sie ^i oben auf den Bildschirm</string>
 	<string name="reset_report_settings">Die Einstellungen werden auf die Grundeinstellungen zurückgesetzt</string>
 	<string name="settings_reset">Seinstellungen zurückgesetzt</string>
 	<string name="reset_canceled">Zurücksetzung abgebrochen</string>
@@ -23,7 +23,7 @@
 	<string name="save_report_as">Bericht sichern als</string>
 	<string name="delete_report">Bericht löschen</string>
 	<string name="rename_report">Bericht umbenennen</string>
-    <string name="duplicate_report">Bericht duplizieren</string>
+	<string name="duplicate_report">Bericht duplizieren</string>
 	<string name="delete_report_warning_format">Bericht ^1 wird dauerhaft gelöscht</string>
 	<string name="report_type">Bericht-Typ</string>
 	<string name="group">Gruppieren</string>
@@ -65,12 +65,12 @@
 	<string name="amounts_on_charts">Zeigt Beträge auf den Grafiken an</string>
 	<string name="percentages_on_pie_charts">Zeigt Prozenangeben auf Tortengrafiken an</string>
 	<string name="create_settings_page">Seite mit Werten erstellen</string>
-			
+
 	<string-array name="report_export_file_type">
-        <item>@string/csv</item>
-        <item>@string/pdf</item>
+		<item>@string/csv</item>
+		<item>@string/pdf</item>
 		<item>Web-Seite</item>
-    </string-array>
+	</string-array>
 
 	<string-array name="report_export_file_type_description">
 		<item>Lesbar durch Tabellenkalulationen, wie z.B. Microsoft® Excel oder Google-Docs</item>

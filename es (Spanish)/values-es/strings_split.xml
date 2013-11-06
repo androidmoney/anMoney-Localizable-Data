@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="splits">Divisiones</string>
-    <string name="split_canceled">Se canceló la división</string>
-    <string name="new_split">Nueva división</string>
-    <string name="edit_split">Editar división</string>
-    <string name="edit_splits">Editar divisiones</string>
-    <string name="delete_split">Eliminar división</string>
+	<string name="splits">Divisiones</string>
+	<string name="split_canceled">Se canceló la división</string>
+	<string name="new_split">Nueva división</string>
+	<string name="edit_split">Editar división</string>
+	<string name="edit_splits">Editar divisiones</string>
+	<string name="delete_split">Eliminar división</string>
 	<string name="export_splits">Exportar divisiones</string>
-    <string name="sum_of_splits">Suma de las divisiones</string>
+	<string name="sum_of_splits">Suma de las divisiones</string>
 	<string name="unassigned">Sin asignar</string>
 	<string name="transaction_total">Importe total de la transacción</string>
-    <string name="go_back_to_edit">Volver a la edición de las divisiones</string>
-    <string name="unassigned_split_message_format">La suma de las divisiones es ^1, mientras que el total de la transacción es ^2. Esto deja ^3 sin asignar (no recomendable)</string>
-    <string name="what_would_you_like_to_do">Qué te gustaría hacer</string>
-    <string name="set_the_total_format">Ajustar el total a ^1</string>
-    <string name="distribute_format">Distribuir los ^1 en partes iguales</string>
-    <string name="leave_unassigned_format">Dejar sin asignar los ^1</string>
-    <string name="distributed">Distribuido</string>
+	<string name="go_back_to_edit">Volver a la edición de las divisiones</string>
+	<string name="unassigned_split_message_format">La suma de las divisiones es ^1, mientras que el total de la transacción es ^2. Esto deja ^3 sin asignar (no recomendable)</string>
+	<string name="what_would_you_like_to_do">Qué te gustaría hacer</string>
+	<string name="set_the_total_format">Ajustar el total a ^1</string>
+	<string name="distribute_format">Distribuir los ^1 en partes iguales</string>
+	<string name="leave_unassigned_format">Dejar sin asignar los ^1</string>
+	<string name="distributed">Distribuido</string>
 </resources>

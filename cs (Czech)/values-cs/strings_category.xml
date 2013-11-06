@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="category_main_sub_separator">:</string>
-    <string name="category">Kategorie</string>
-    <string name="categories">Kategorie</string>
-    <string name="subcategory">Podkategorie</string>
-    <string name="classification">Zařazení</string>
-    <string name="_class">Třída</string>
-    <string name="subclass">Podtřída</string>
-    <string name="parent_category">Nadřazená kategorie</string>  <!-- This is the main category that a subcategory belongs to -->
-    <string name="parent_class">Nadřazená třída</string>  <!-- This is the main class that a subclass belongs to -->
-    <string name="edit_category">Upravit kategorii</string>
-    <string name="edit_subcategory">Upravit podkategorii</string>
-    <string name="edit_class">Upravit třídu</string>
-    <string name="edit_subclass">Upravit podtřídy</string>
-    <string name="new_category">Nová kategorie</string>
-    <string name="new_subcategory">Nová podkategorie</string>
-    <string name="new_class">Nová třída</string>
-    <string name="new_subclass">Nová podtřída</string>
-    <string name="delete_category">Smazat kategorii</string>
-    <string name="delete_subcategory">Smazat podkategorii</string>
-    <string name="delete_class">Odstranit třídu</string>
-    <string name="delete_subclass">Odstranit podtřídu</string>
-    <string name="add_default_categories">Přidat výchozí kategorie</string>
-    <string name="add_classification">Přidat zařazení</string>
-    <string name="select_category">Vyberte kategorii</string>
-    <string name="select_class">Vybrat třídu</string>
-    <string name="delete_classification">Odstranit zařazení</string>
-    <string name="rename_classification">Přejmenovat zařazení</string>
-    <string name="select_classification">Vyberte zařazení</string>
-    <string name="enter_classification_name">Zadejte název zařazení</string>
-    <string name="enter_new_classification_name">Zadejte nový název zařazení</string>
-    <string name="categories_and_classifications">Kategorie a zařazení</string>
-    <string name="no_categories_expense">Nemáte žádné kategorie výdajů</string>
-    <string name="no_categories_income">Nemáte žádné kategorie příjmů</string>
-    <string name="no_classes">Nemáte žádné třídy</string>
-    <string name="uncategorized_transactions">Nazařazené transakce</string>
-    <string name="delete_category_no_subcategories_warning_format">Kategorie ^1 bude trvale smazána</string>
-    <string name="delete_class_no_subclass_warning_format">Třída ^1 bude trvale smazána</string>
-    <string name="delete_category_with_subcategories_warning_format">Kategorie ^1 a <b>všechny její podkategorie</b> budou trvale smazány</string>
-    <string name="delete_class_with_subclass_warning_format">Třída ^1 a <b>všechny její podtřídy</b> budou trvale smazány</string>
-    <string name="delete_subcategory_warning_format">Podkategorie ^1 bude trvale smazána</string>
-    <string name="delete_subclass_warning_format">Podtřída ^1 bude trvale smazána</string>
-    <string name="delete_classification_warning_format">Zařazení ^1 bude trvale smazáno. Všechny transakce budou nezařazené</string>
-    <string name="default_categories_add_confirmation">Chcete přidat výchozí kategorie</string>
-    <string name="default_categories_added">Přidány výchozí kategorie</string>
-    <string name="all_categories">Všechny kategorie</string>
-    <string name="expense">Výdaj</string>
-    <string name="expenses">Výdaje</string>
-    <string name="expense_categories">Výdaje</string>
-    <string name="income">Příjem</string>
-    <string name="income_categories">Příjmy</string>
-    <string name="savings">Úspory</string> <!-- As in "amount saved by budgeting" -->
-    <string name="category_name">Název kategorie</string>
-    <string name="subcategory_name_lower">název podkategorie</string>
-    <string name="class_name">Název třídy</string>
-    <string name="subclass_name_lower">název podtřídy</string>
-    <string name="without_subcategory">Bez podkategorie</string>
-    <string name="without_subclass">Bez podtřídy</string>
-    <string name="cannot_be_zero">Nemůže být 0</string>
-    <string name="change_expense_warning">Chcete změnit typ kategorie z výdajové na příjmovou, nebo naopak</string>
-    <string name="prepopulate">Přidat výchozí kategorie</string>
-    <string name="short_categories">Nahrát jen krátký seznam kategorií (budete mít možnost nahrát úplný seznam později)</string>
-    <string name="view_categories">Zobrazit kategorie</string>
-    <string name="category_not_found">Kategorie nenalezena</string>
-    <string name="class_not_found">Třída nenalezena</string>
-    <string name="total_income">Příjmy celkem</string>
-    <string name="total_expense">Výdaje celkem</string>
+	<string name="category_main_sub_separator">:</string>
+	<string name="category">Kategorie</string>
+	<string name="categories">Kategorie</string>
+	<string name="subcategory">Podkategorie</string>
+	<string name="classification">Zařazení</string>
+	<string name="_class">Třída</string>
+	<string name="subclass">Podtřída</string>
+	<string name="parent_category">Nadřazená kategorie</string> <!-- This is the main category that a subcategory belongs to -->
+	<string name="parent_class">Nadřazená třída</string> <!-- This is the main class that a subclass belongs to -->
+	<string name="edit_category">Upravit kategorii</string>
+	<string name="edit_subcategory">Upravit podkategorii</string>
+	<string name="edit_class">Upravit třídu</string>
+	<string name="edit_subclass">Upravit podtřídy</string>
+	<string name="new_category">Nová kategorie</string>
+	<string name="new_subcategory">Nová podkategorie</string>
+	<string name="new_class">Nová třída</string>
+	<string name="new_subclass">Nová podtřída</string>
+	<string name="delete_category">Smazat kategorii</string>
+	<string name="delete_subcategory">Smazat podkategorii</string>
+	<string name="delete_class">Odstranit třídu</string>
+	<string name="delete_subclass">Odstranit podtřídu</string>
+	<string name="add_default_categories">Přidat výchozí kategorie</string>
+	<string name="add_classification">Přidat zařazení</string>
+	<string name="select_category">Vyberte kategorii</string>
+	<string name="select_class">Vybrat třídu</string>
+	<string name="delete_classification">Odstranit zařazení</string>
+	<string name="rename_classification">Přejmenovat zařazení</string>
+	<string name="select_classification">Vyberte zařazení</string>
+	<string name="enter_classification_name">Zadejte název zařazení</string>
+	<string name="enter_new_classification_name">Zadejte nový název zařazení</string>
+	<string name="categories_and_classifications">Kategorie a zařazení</string>
+	<string name="no_categories_expense">Nemáte žádné kategorie výdajů</string>
+	<string name="no_categories_income">Nemáte žádné kategorie příjmů</string>
+	<string name="no_classes">Nemáte žádné třídy</string>
+	<string name="uncategorized_transactions">Nazařazené transakce</string>
+	<string name="delete_category_no_subcategories_warning_format">Kategorie ^1 bude trvale smazána</string>
+	<string name="delete_class_no_subclass_warning_format">Třída ^1 bude trvale smazána</string>
+	<string name="delete_category_with_subcategories_warning_format">Kategorie ^1 a <b>všechny její podkategorie</b> budou trvale smazány</string>
+	<string name="delete_class_with_subclass_warning_format">Třída ^1 a <b>všechny její podtřídy</b> budou trvale smazány</string>
+	<string name="delete_subcategory_warning_format">Podkategorie ^1 bude trvale smazána</string>
+	<string name="delete_subclass_warning_format">Podtřída ^1 bude trvale smazána</string>
+	<string name="delete_classification_warning_format">Zařazení ^1 bude trvale smazáno. Všechny transakce budou nezařazené</string>
+	<string name="default_categories_add_confirmation">Chcete přidat výchozí kategorie</string>
+	<string name="default_categories_added">Přidány výchozí kategorie</string>
+	<string name="all_categories">Všechny kategorie</string>
+	<string name="expense">Výdaj</string>
+	<string name="expenses">Výdaje</string>
+	<string name="expense_categories">Výdaje</string>
+	<string name="income">Příjem</string>
+	<string name="income_categories">Příjmy</string>
+	<string name="savings">Úspory</string> <!-- As in "amount saved by budgeting" -->
+	<string name="category_name">Název kategorie</string>
+	<string name="subcategory_name_lower">název podkategorie</string>
+	<string name="class_name">Název třídy</string>
+	<string name="subclass_name_lower">název podtřídy</string>
+	<string name="without_subcategory">Bez podkategorie</string>
+	<string name="without_subclass">Bez podtřídy</string>
+	<string name="cannot_be_zero">Nemůže být 0</string>
+	<string name="change_expense_warning">Chcete změnit typ kategorie z výdajové na příjmovou, nebo naopak</string>
+	<string name="prepopulate">Přidat výchozí kategorie</string>
+	<string name="short_categories">Nahrát jen krátký seznam kategorií (budete mít možnost nahrát úplný seznam později)</string>
+	<string name="view_categories">Zobrazit kategorie</string>
+	<string name="category_not_found">Kategorie nenalezena</string>
+	<string name="class_not_found">Třída nenalezena</string>
+	<string name="total_income">Příjmy celkem</string>
+	<string name="total_expense">Výdaje celkem</string>
 	<string name="net">Čistý</string>
-    <string name="net_income">Čistý příjem</string>
-    <string name="uncategorized">Nezařazeno</string>
-    <string name="income_uncategorized">Nezařazené příjmy</string>
-    <string name="expense_uncategorized">Nezařazené výdaje</string>
-    <string name="show_uncategorized">Zobrazit nezařazené</string>
-    <string name="move_subcategory_to_another_category_warning">Chcete přesunout podkategorii do jiné kategorie</string>
-    <string name="show_zero_balance_categories">Zobrazit kategorie s nulovou bilancí</string>
-    <string name="show_zero_balance_items">Zobrazit položky s nulovou bilancí</string>
-    <string name="recategorize_category">Změnit kategorii všech položek s touto kategorií na</string>
-    <string name="reclassify_class">Změnit kategorii všech položek s touto třídou na</string>
+	<string name="net_income">Čistý příjem</string>
+	<string name="uncategorized">Nezařazeno</string>
+	<string name="income_uncategorized">Nezařazené příjmy</string>
+	<string name="expense_uncategorized">Nezařazené výdaje</string>
+	<string name="show_uncategorized">Zobrazit nezařazené</string>
+	<string name="move_subcategory_to_another_category_warning">Chcete přesunout podkategorii do jiné kategorie</string>
+	<string name="show_zero_balance_categories">Zobrazit kategorie s nulovou bilancí</string>
+	<string name="show_zero_balance_items">Zobrazit položky s nulovou bilancí</string>
+	<string name="recategorize_category">Změnit kategorii všech položek s touto kategorií na</string>
+	<string name="reclassify_class">Změnit kategorii všech položek s touto třídou na</string>
 	<string name="spending_by_category0">Výdaje podle kategorie</string>
 	<string name="spending_by_category1">Výdaje podle kategorie nebo ^1</string>
 	<string name="spending_by_category2">Výdaje podle kategorie, ^1 nebo ^2</string>
@@ -84,20 +84,20 @@
 	<string name="spending_by_category_over_time1">Výdaje podle kategorie nebo ^1 za čas</string>
 	<string name="spending_by_category_over_time2">Výdaje podle kategorie, ^1 nebo ^2 za čas</string>
 	<string name="assign_to_accounts">Přiřadit k těmto účtům při tvorbě předpovědi</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
-    <string name="last_account_used">Naposledy použitý účet</string>
-		
+	<string name="last_account_used">Naposledy použitý účet</string>
+
 	<string name="no_categories_yet">Zatím žádné kategorie</string>
-    <string name="no_classes_yet">Zatím žádné třídy</string>
+	<string name="no_classes_yet">Zatím žádné třídy</string>
 	<string-array name="category_count_format_plurals">
-        <item>^1 kategorie</item>
-        <item>^1 kategorie</item>
-        <item>^1 kategorií</item>
-    </string-array>
+		<item>^1 kategorie</item>
+		<item>^1 kategorie</item>
+		<item>^1 kategorií</item>
+	</string-array>
 	<string-array name="uncategorized_count_plurals">
-        <item>^1 nezařazená transakce</item>
-        <item>^1 nezařazené transakce</item>
-        <item>^1 nezařazených transakcí</item>
-    </string-array>
+		<item>^1 nezařazená transakce</item>
+		<item>^1 nezařazené transakce</item>
+		<item>^1 nezařazených transakcí</item>
+	</string-array>
 
 	<string-array name="default_classifications">
 		<item>Členové rodiny</item>

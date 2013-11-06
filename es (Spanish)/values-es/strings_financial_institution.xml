@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="financial_institution">Entidad financiera</string>
-    <string name="financial_institutions">Entidades financieras</string>
-    <string name="financial_institution_bank_first">Entidad financiera con las cuentas bancarias primero</string>
-    <string name="financial_institution_cash_first">Entidad financiera con las cuentas en efectivo primero</string>
-    <string name="view_financial_institution">Visualizar entidad financiera</string>
-    <string name="edit_financial_institution">Editar entidad financiera</string>
-    <string name="call_financial_institution">Llamar entidad financiera</string>
-    <string name="new_financial_institution">Nueva entidad financiera</string>
-    <string name="delete_financial_institution">Eliminar entidad financiera</string>
-    <string name="delete_financial_institution_warning_format">La entidad financiera ^1 se eliminará irreversiblemente y se quitará de todas las cuentas</string>
-    <string name="add_financial_institution_as_a_contact">Añadir entidad fin. como contacto</string>
-    <string name="financial_institution_exists">Ya existe una entidad con ese nombre</string>
-    <string name="no_financial_institutions">No tienes ninguna entidad financiera</string>
-    <string name="view_financial_institutions">Visualizar entidades financieras</string>
-    <string name="financial_institution_name">Nombre de la entidad financiera</string>
-    <string name="contact_exists">Ya esiste un contacto con ese nombre</string>
-    <string name="link_financial_institution">Quieres vincular esta entidad financiera al contacto existente</string>    
-    <string name="no_financial_institutions_yet">No hay entidades financieras</string>
+	<string name="financial_institution">Entidad financiera</string>
+	<string name="financial_institutions">Entidades financieras</string>
+	<string name="financial_institution_bank_first">Entidad financiera con las cuentas bancarias primero</string>
+	<string name="financial_institution_cash_first">Entidad financiera con las cuentas en efectivo primero</string>
+	<string name="view_financial_institution">Visualizar entidad financiera</string>
+	<string name="edit_financial_institution">Editar entidad financiera</string>
+	<string name="call_financial_institution">Llamar entidad financiera</string>
+	<string name="new_financial_institution">Nueva entidad financiera</string>
+	<string name="delete_financial_institution">Eliminar entidad financiera</string>
+	<string name="delete_financial_institution_warning_format">La entidad financiera ^1 se eliminará irreversiblemente y se quitará de todas las cuentas</string>
+	<string name="add_financial_institution_as_a_contact">Añadir entidad fin. como contacto</string>
+	<string name="financial_institution_exists">Ya existe una entidad con ese nombre</string>
+	<string name="no_financial_institutions">No tienes ninguna entidad financiera</string>
+	<string name="view_financial_institutions">Visualizar entidades financieras</string>
+	<string name="financial_institution_name">Nombre de la entidad financiera</string>
+	<string name="contact_exists">Ya esiste un contacto con ese nombre</string>
+	<string name="link_financial_institution">Quieres vincular esta entidad financiera al contacto existente</string>
+	<string name="no_financial_institutions_yet">No hay entidades financieras</string>
 </resources>

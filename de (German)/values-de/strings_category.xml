@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="category_main_sub_separator">:</string>
-    <string name="category">Kategorie</string>
-    <string name="categories">Kategorien</string>
+	<string name="category_main_sub_separator">:</string>
+	<string name="category">Kategorie</string>
+	<string name="categories">Kategorien</string>
 	<string name="subcategory">Unter-Kategorie</string>
-    <string name="classification">Klassifikation</string>
+	<string name="classification">Klassifikation</string>
 	<string name="_class">Klasse</string>
 	<string name="subclass">Unter-Klasse</string>
 	<string name="parent_category">Übergeordnete Kategorie</string>
@@ -31,9 +31,9 @@
 	<string name="enter_classification_name">Namen der Klassifikations eingeben</string>
 	<string name="enter_new_classification_name">Neuen Namen der Klassifikation eingeben</string>
 	<string name="categories_and_classifications">Kategorien &amp; Klassifikationen</string>
-    <string name="no_categories_expense">Sie haben keine Ausgabe-Kategorien</string>
-    <string name="no_categories_income">Sie haben keine Einnahme-Kategorien</string>
-    <string name="no_classes">Sie haben keine Klassen</string>
+	<string name="no_categories_expense">Sie haben keine Ausgabe-Kategorien</string>
+	<string name="no_categories_income">Sie haben keine Einnahme-Kategorien</string>
+	<string name="no_classes">Sie haben keine Klassen</string>
 	<string name="uncategorized_transactions">Transaktionen ohne Kategorie</string>
 	<string name="delete_category_no_subcategories_warning_format">Kategorie ^1 wird dauerhaft gelöscht</string>
 	<string name="delete_class_no_subclass_warning_format">Klasse ^1 wird dauerhaft gelöscht</string>
@@ -44,7 +44,7 @@
 	<string name="delete_classification_warning_format">Klassifikation ^1 wird dauerhaft gelöscht. Von allen Transaktionen wird die Klassifikation entfernt</string>
 	<string name="default_categories_add_confirmation">Möcheten Sie die Standard-Kategorien hinzufügen</string>
 	<string name="default_categories_added">Standard-Kategorien hinzugefügt</string>
-    <string name="all_categories">Alle Kategorien</string>
+	<string name="all_categories">Alle Kategorien</string>
 	<string name="expense">Ausgabe</string>
 	<string name="expenses">Ausgaben</string>
 	<string name="expense_categories">Ausgaben-Kategorien</string>
@@ -56,7 +56,7 @@
 	<string name="class_name">Name der Klasse</string>
 	<string name="subclass_name_lower">Name der Unter-Klasse</string>
 	<string name="without_subcategory">Ohne Unter-Kategorie</string>
-    <string name="without_subclass">Ohne Unter-Klasse</string>
+	<string name="without_subclass">Ohne Unter-Klasse</string>
 	<string name="cannot_be_zero">Darf nicht 0 sein</string>
 	<string name="change_expense_warning">Möchten Sie diese Kategorie von Ausgabe in Einnahme oder vice versa ändern</string>
 	<string name="prepopulate">Mit Standard-Kategorien bestücken</string>
@@ -85,20 +85,20 @@
 	<string name="spending_by_category_over_time2">Ausgaben nach Kategorie, ^1 oder ^2 - Periodenaufstellung</string>
 	<string name="assign_to_accounts">Verweisen Sie auf die diese(s) Kont(en) bei der Prognose</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
 	<string name="last_account_used">Das zuletzt verwendete Konto</string>
-			
+
 	<string name="no_categories_yet">Bisher keine Kategorien</string>
 	<string name="no_classes_yet">Bisher keine Klassen</string>
 	<string-array name="category_count_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 Kategorien</item>
-        <item/> <!-- Not used -->
-    </string-array>
+		<item/> <!-- Not used -->
+		<item>^1 Kategorien</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string-array name="uncategorized_count_plurals">
 		<item>^1 nicht-kategorisierte Transaktion</item>
 		<item>^1 nicht-kategorisierte Transaktionen</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-	
+
 	<string-array name="default_classifications">
 		<item>Familienmitglieder</item>
 		<item>Eigenschaften</item>

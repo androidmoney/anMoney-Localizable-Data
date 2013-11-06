@@ -1,185 +1,185 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="transactions">Transakce</string>
-    <string name="view_transactions">Zobrazit transakce</string>
-    <string name="new_transaction">Nová transakce</string>
-    <string name="edit_transaction">Upravit transakci</string>
-    <string name="split_transaction">Rozdělit transakci</string>
-    <string name="delete_transaction">Smazat transakci</string>
-    <string name="accept_transaction">Přijmout transakci</string>
-    <string name="select">Zvolit</string>
-    <string name="accept">Přijmout</string>
-    <string name="accepted">Přijato</string>
-    <string name="accept_canceled">Odmítnuto</string>
-    <string name="accept_transaction_all"><b>Všechny</b> transakce budou přijaty</string>
-    <string name="mark">Označit</string>
-    <string name="marked">Označeno</string>
-    <string name="mark_canceled">Označní zrušeno</string>
-    <string name="mark_transaction">Označit transakci</string>
+	<string name="transactions">Transakce</string>
+	<string name="view_transactions">Zobrazit transakce</string>
+	<string name="new_transaction">Nová transakce</string>
+	<string name="edit_transaction">Upravit transakci</string>
+	<string name="split_transaction">Rozdělit transakci</string>
+	<string name="delete_transaction">Smazat transakci</string>
+	<string name="accept_transaction">Přijmout transakci</string>
+	<string name="select">Zvolit</string>
+	<string name="accept">Přijmout</string>
+	<string name="accepted">Přijato</string>
+	<string name="accept_canceled">Odmítnuto</string>
+	<string name="accept_transaction_all"><b>Všechny</b> transakce budou přijaty</string>
+	<string name="mark">Označit</string>
+	<string name="marked">Označeno</string>
+	<string name="mark_canceled">Označní zrušeno</string>
+	<string name="mark_transaction">Označit transakci</string>
 	<string-array name="mark_transactions_format_plurals">
-        <item>Označit ^1 transakci</item>
-        <item>Označit ^1 transakce</item>
-        <item>Označit ^1 transakcí</item>
-    </string-array>
-    <string name="mark_transactions_all">Označit <b>všechny</b> transakce</string>
-    <string name="unreconciled1">Neověřená</string>
-    <string name="unreconciled2">Neodsouhlasené</string>
-    <string name="cleared1">Zkontrolovaná</string>
-    <string name="cleared2">Zkontrolované</string>
-    <string name="reconciled1">Odsouhlasená</string>
-    <string name="reconciled2">Odsouhlasené</string>
-    <string name="_void_verb">Zneplatnit</string>
-    <string name="_void1">Neplatná</string>
+		<item>Označit ^1 transakci</item>
+		<item>Označit ^1 transakce</item>
+		<item>Označit ^1 transakcí</item>
+	</string-array>
+	<string name="mark_transactions_all">Označit <b>všechny</b> transakce</string>
+	<string name="unreconciled1">Neověřená</string>
+	<string name="unreconciled2">Neodsouhlasené</string>
+	<string name="cleared1">Zkontrolovaná</string>
+	<string name="cleared2">Zkontrolované</string>
+	<string name="reconciled1">Odsouhlasená</string>
+	<string name="reconciled2">Odsouhlasené</string>
+	<string name="_void_verb">Zneplatnit</string>
+	<string name="_void1">Neplatná</string>
 	<string name="not_void1">Platná</string>
-    <string name="pending2">Čekající</string>
+	<string name="pending2">Čekající</string>
 	<string name="exported_transaction">Exportovaná</string>
-    <string name="not_exported_transaction1">Neexportovaná</string>
-    <string name="not_exported_transaction2">Neexportované</string>
-    <string name="edit_notes">Upravit poznámky</string>
-    <string name="notes_created">Poznámky vytvořeny</string>
-    <string name="notes_edited">Poznámky změněny</string>
-    <string name="notes_deleted">Poznámky smazány</string>
-    <string name="notes_creation_canceled">Vytvoření poznámek zrušeno</string>
-    <string name="flag_for_follow_up">Vytvořit připomenutí</string>
-    <string name="edit_follow_up">Upravit událost</string>
-    <string name="make_recurring">Uložit jako trvalý příkaz</string>
-    <string name="follow_up2">Událost</string>
-    <string name="follow_up_by">Datum události</string>
-    <string name="follow_up_created">Událost vytvořena</string>
-    <string name="follow_up_edited">Událost změněna</string>
-    <string name="follow_up_deleted">Událost smazána</string>
-    <string name="follow_up_creation_canceled">Vytvoření události zrušeno</string>
-    <string name="go_to">Přejít</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
-    <string name="number">Číslo</string>
-    <string name="transfer">Převod</string>
-    <string name="transfers">Převody</string>
-    <string name="transfer_account">Druhý účet</string>
-    <string name="add">Přidat</string>
-    <string name="added">Přidáno</string>
-    <string name="add_canceled">Přidání zrušeno</string>
-    <string name="accept_and_edit">Přijmout a upravit</string>
-    <string name="add_and_close">Přidat a zavřít</string>
-    <string name="duplicate_copy_move">Duplikovat, kopírovat nebo převést</string>
-    <string name="duplicate_copy_move_short">Duplikovat/kopírovat/převést</string>
-    <string name="duplicate_transaction">Duplikovat transakci</string>
-    <string name="duplicate_in_current_account">Duplikovat v tomto účtu</string>
-    <string name="copy_to_another_account">Zkopírovat na jiný účet</string>
-    <string name="move_to_another_account">Převést pod jiný účet</string>
-    <string name="copy_transaction">Zkopírovat transakci</string>
-    <string name="move_transaction">Převést transakci</string>
-    <string name="move_transactions">Převést transakce</string>
-    <string name="do_not_duplicate_notes">Nekopírovat poznámky</string>
-    <string name="account_not_found">Účet nenalezen</string>
-    <string name="cannot_transfer_to_itself">Nemůžete převést pod stejný účet</string>
-    <string name="cannot_copy_to_itself">Nemůžete zkopírovat/přesunout pod stejný účet</string>
-    <string name="copy_move_currency_warning">Cílový účet je v jiné měně. Možná bude nutné opravit částku na cílovém účtu</string>
-    <string name="all_transactions_hidden_by_filter">Nastavenému filtru nevyhovuje žádná transakce</string>
-    <string name="show_number">Zobrazit číslo transakce</string>
-    <string name="show_number_description">Je-li zapnuto, budou zobrazena čísla transakcí (jsou-li uvedena)</string>
-    <string name="show_notes">Zobrazit poznámky</string>
-    <string name="show_notes_description">Je-li zapnuto, budou zobrazeny poznámky (jsou-li vyplněné)</string>
-    <string name="classification_cannot_fit_warning_part1">Vzhledem k omezené velikosti obrazovky nebude možné v okně transakce zobrazit všechny klasifikace bez posouvání</string>
-    <string name="classification_cannot_fit_warning_part2">Chcete skrýt některé popisky pro uvolnění více místa</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="classification_cannot_fit_warning_part3">Toto nastavení můžete kdykoli později změnit</string>
-    <string name="ask_to_edit_related_transaction_message_part1">Transakce je na druhé straně rozdělena, není možné ji upravit zde</string>
-    <string name="ask_to_edit_related_transaction_message_part2">Chcete upravit celou transakci</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="transaction_modified_message">Transakce bude změněna</string>
-    <string name="transaction_confirm_save_on_back_press_message_format">Transakce byla změněna.\n\nStiskněte ^1 pro uložení, ^2 pro pokračování úprav, ^3 pro zrušení změn</string>
-    <string name="split_confirm_save_on_back_press_message_format">Rozdělení bylo změněno.\n\nStiskněte ^1 pro uložení rozdělení, ^2 pro pokračování úprav, ^3 pro zrušení změn</string>
-    <string name="transaction_modified_reconciled_message">Bude změněna odsouhlasená transakce</string>
-    <string name="transaction_modified_related_reconciled_message">Bude změněna druhá, odsouhlasená, strana transakce</string>
-    <string name="records_may_differ">Může vzniknout rozdíl mezi vašimi záznamy a údaji finančních institucí</string>
-    <string name="missing_category_warning_message_format">Doporučujeme uvést kategorii, protože bez ní nebude vyúčtování přesné.\n\nStiskněte ^1 pro uložení transakce bez určení kategorie nebo ^2 pro návrat k úpravě transakce</string>
-    <string name="expense_category_given_for_income_message_format">Je zvolena kategorie výdajů a zadáváte ^1.\n\nStiskem ^2 ponechte kategorii jak je, stiskem ^3 se vrátíte zpět k editaci transakce</string> <!-- the ^1 parameter comes from amount1_description array -->
-    <string name="income_category_given_for_expense_message_format">Je zvolena kategorie příjmů a zadáváte ^1.\n\nStiskem ^2 ponechte kategorii jak je, stiskem ^3 se vrátíte zpět k editaci transakce</string> <!-- the ^2 parameter comes from amount2_description array -->
-    <string name="payee_not_found_format">Nenalezen příjemce ^1</string>
-    <string name="payer_not_found_format">Nenalezen plátce ^1</string>
-    <string name="would_you_like_to_create_it">Chcete jej vytvořit</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="amount_zero_warning_message_format">Částka transakce je nula.\n\nStiskněte ^1 pro ponechání nulové částky, nebo ^2 pro vložení neplatné transakce</string>
-    <string name="sum_of_splits_warning_message_format">Součet dílčích částek neodpovídá částce transakce.\n\nStiskněte ^1 pro změnu rozdělení</string>
-    <string name="duplicate_number_message_format">Číslo šeku je již použito v transakci z ^1.\n\nStiskněte ^2 pro ponechání čísla šeku, nebo ^3 pro úpravu transakce</string>
-    <string name="leave_zero">Ponechat 0</string>
-    <string name="credits">Příjmy</string>
-    <string name="no_credits">Žádné příjmy</string>
-    <string name="deposits">Vklady</string>
-    <string name="no_deposits">Žádné vklady</string>
-    <string name="checks">Šeky</string> <!-- As in check book -->
-    <string name="no_checks">Žádné šeky</string> <!-- As in check book -->
-    <string name="charges">Poplatky</string>
-    <string name="no_charges">Žádné poplatky</string>
-    <string name="payments">Platby</string>
-    <string name="no_payments">Žádné platby</string>
-    <string name="checks_payments">Šeky a platby</string>
-    <string name="no_checks_payments">Žádné šeky ani platby</string>
-    <string name="deposits_payments">Vklady a platby</string>
-    <string name="no_deposits_payments">Žádné Vklady ani platby</string>
-    <string name="no_unreconciled_transactions">Žádné neodsouhlasené transakce</string>
-    <string name="cleared_all_transactions">Všechny transakce zkontrolované</string>
-    <string name="next_check_number">Číslo příštího šeku</string>
-    <string name="cleared_transactions_color">Barva zkontrolovaných transakcí</string>
-    <string name="reconciled_transactions_color">Brava odsouhlasených transakcí</string>
-    <string name="upcoming_transactions_color">Barva nadcházejících transakcí</string> <!-- As in "color of an upcoming recurring transactions" -->
-    <string name="text_filter">Textový filtr</string>
-    <string name="profit_and_loss_statement">Přehled příjmů a výdajů</string>
+	<string name="not_exported_transaction1">Neexportovaná</string>
+	<string name="not_exported_transaction2">Neexportované</string>
+	<string name="edit_notes">Upravit poznámky</string>
+	<string name="notes_created">Poznámky vytvořeny</string>
+	<string name="notes_edited">Poznámky změněny</string>
+	<string name="notes_deleted">Poznámky smazány</string>
+	<string name="notes_creation_canceled">Vytvoření poznámek zrušeno</string>
+	<string name="flag_for_follow_up">Vytvořit připomenutí</string>
+	<string name="edit_follow_up">Upravit událost</string>
+	<string name="make_recurring">Uložit jako trvalý příkaz</string>
+	<string name="follow_up2">Událost</string>
+	<string name="follow_up_by">Datum události</string>
+	<string name="follow_up_created">Událost vytvořena</string>
+	<string name="follow_up_edited">Událost změněna</string>
+	<string name="follow_up_deleted">Událost smazána</string>
+	<string name="follow_up_creation_canceled">Vytvoření události zrušeno</string>
+	<string name="go_to">Přejít</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
+	<string name="number">Číslo</string>
+	<string name="transfer">Převod</string>
+	<string name="transfers">Převody</string>
+	<string name="transfer_account">Druhý účet</string>
+	<string name="add">Přidat</string>
+	<string name="added">Přidáno</string>
+	<string name="add_canceled">Přidání zrušeno</string>
+	<string name="accept_and_edit">Přijmout a upravit</string>
+	<string name="add_and_close">Přidat a zavřít</string>
+	<string name="duplicate_copy_move">Duplikovat, kopírovat nebo převést</string>
+	<string name="duplicate_copy_move_short">Duplikovat/kopírovat/převést</string>
+	<string name="duplicate_transaction">Duplikovat transakci</string>
+	<string name="duplicate_in_current_account">Duplikovat v tomto účtu</string>
+	<string name="copy_to_another_account">Zkopírovat na jiný účet</string>
+	<string name="move_to_another_account">Převést pod jiný účet</string>
+	<string name="copy_transaction">Zkopírovat transakci</string>
+	<string name="move_transaction">Převést transakci</string>
+	<string name="move_transactions">Převést transakce</string>
+	<string name="do_not_duplicate_notes">Nekopírovat poznámky</string>
+	<string name="account_not_found">Účet nenalezen</string>
+	<string name="cannot_transfer_to_itself">Nemůžete převést pod stejný účet</string>
+	<string name="cannot_copy_to_itself">Nemůžete zkopírovat/přesunout pod stejný účet</string>
+	<string name="copy_move_currency_warning">Cílový účet je v jiné měně. Možná bude nutné opravit částku na cílovém účtu</string>
+	<string name="all_transactions_hidden_by_filter">Nastavenému filtru nevyhovuje žádná transakce</string>
+	<string name="show_number">Zobrazit číslo transakce</string>
+	<string name="show_number_description">Je-li zapnuto, budou zobrazena čísla transakcí (jsou-li uvedena)</string>
+	<string name="show_notes">Zobrazit poznámky</string>
+	<string name="show_notes_description">Je-li zapnuto, budou zobrazeny poznámky (jsou-li vyplněné)</string>
+	<string name="classification_cannot_fit_warning_part1">Vzhledem k omezené velikosti obrazovky nebude možné v okně transakce zobrazit všechny klasifikace bez posouvání</string>
+	<string name="classification_cannot_fit_warning_part2">Chcete skrýt některé popisky pro uvolnění více místa</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="classification_cannot_fit_warning_part3">Toto nastavení můžete kdykoli později změnit</string>
+	<string name="ask_to_edit_related_transaction_message_part1">Transakce je na druhé straně rozdělena, není možné ji upravit zde</string>
+	<string name="ask_to_edit_related_transaction_message_part2">Chcete upravit celou transakci</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="transaction_modified_message">Transakce bude změněna</string>
+	<string name="transaction_confirm_save_on_back_press_message_format">Transakce byla změněna.\n\nStiskněte ^1 pro uložení, ^2 pro pokračování úprav, ^3 pro zrušení změn</string>
+	<string name="split_confirm_save_on_back_press_message_format">Rozdělení bylo změněno.\n\nStiskněte ^1 pro uložení rozdělení, ^2 pro pokračování úprav, ^3 pro zrušení změn</string>
+	<string name="transaction_modified_reconciled_message">Bude změněna odsouhlasená transakce</string>
+	<string name="transaction_modified_related_reconciled_message">Bude změněna druhá, odsouhlasená, strana transakce</string>
+	<string name="records_may_differ">Může vzniknout rozdíl mezi vašimi záznamy a údaji finančních institucí</string>
+	<string name="missing_category_warning_message_format">Doporučujeme uvést kategorii, protože bez ní nebude vyúčtování přesné.\n\nStiskněte ^1 pro uložení transakce bez určení kategorie nebo ^2 pro návrat k úpravě transakce</string>
+	<string name="expense_category_given_for_income_message_format">Je zvolena kategorie výdajů a zadáváte ^1.\n\nStiskem ^2 ponechte kategorii jak je, stiskem ^3 se vrátíte zpět k editaci transakce</string> <!-- the ^1 parameter comes from amount1_description array -->
+	<string name="income_category_given_for_expense_message_format">Je zvolena kategorie příjmů a zadáváte ^1.\n\nStiskem ^2 ponechte kategorii jak je, stiskem ^3 se vrátíte zpět k editaci transakce</string> <!-- the ^2 parameter comes from amount2_description array -->
+	<string name="payee_not_found_format">Nenalezen příjemce ^1</string>
+	<string name="payer_not_found_format">Nenalezen plátce ^1</string>
+	<string name="would_you_like_to_create_it">Chcete jej vytvořit</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="amount_zero_warning_message_format">Částka transakce je nula.\n\nStiskněte ^1 pro ponechání nulové částky, nebo ^2 pro vložení neplatné transakce</string>
+	<string name="sum_of_splits_warning_message_format">Součet dílčích částek neodpovídá částce transakce.\n\nStiskněte ^1 pro změnu rozdělení</string>
+	<string name="duplicate_number_message_format">Číslo šeku je již použito v transakci z ^1.\n\nStiskněte ^2 pro ponechání čísla šeku, nebo ^3 pro úpravu transakce</string>
+	<string name="leave_zero">Ponechat 0</string>
+	<string name="credits">Příjmy</string>
+	<string name="no_credits">Žádné příjmy</string>
+	<string name="deposits">Vklady</string>
+	<string name="no_deposits">Žádné vklady</string>
+	<string name="checks">Šeky</string> <!-- As in check book -->
+	<string name="no_checks">Žádné šeky</string> <!-- As in check book -->
+	<string name="charges">Poplatky</string>
+	<string name="no_charges">Žádné poplatky</string>
+	<string name="payments">Platby</string>
+	<string name="no_payments">Žádné platby</string>
+	<string name="checks_payments">Šeky a platby</string>
+	<string name="no_checks_payments">Žádné šeky ani platby</string>
+	<string name="deposits_payments">Vklady a platby</string>
+	<string name="no_deposits_payments">Žádné Vklady ani platby</string>
+	<string name="no_unreconciled_transactions">Žádné neodsouhlasené transakce</string>
+	<string name="cleared_all_transactions">Všechny transakce zkontrolované</string>
+	<string name="next_check_number">Číslo příštího šeku</string>
+	<string name="cleared_transactions_color">Barva zkontrolovaných transakcí</string>
+	<string name="reconciled_transactions_color">Brava odsouhlasených transakcí</string>
+	<string name="upcoming_transactions_color">Barva nadcházejících transakcí</string> <!-- As in "color of an upcoming recurring transactions" -->
+	<string name="text_filter">Textový filtr</string>
+	<string name="profit_and_loss_statement">Přehled příjmů a výdajů</string>
 	<string name="transaction_type">Typ transakce</string>
 	<string name="transaction_status">Stav transakce</string>
 
-    <string name="full_screen_mode">Režim celé obrazovky</string>
-    <string name="full_screen_mode_description">Je-li zapnuto, bude možné zobrazit více transakcí</string>
+	<string name="full_screen_mode">Režim celé obrazovky</string>
+	<string name="full_screen_mode_description">Je-li zapnuto, bude možné zobrazit více transakcí</string>
 
 	<string-array name="amount1_labels">
-        <item>Platba</item>
-        <item>Útrata</item>
-        <item>Výběr</item>
-        <item>Splátka</item>
-        <item>Zvýšení</item>
-        <item>Snížení</item>
-        <item>Výběr</item>
-    </string-array>
+		<item>Platba</item>
+		<item>Útrata</item>
+		<item>Výběr</item>
+		<item>Splátka</item>
+		<item>Zvýšení</item>
+		<item>Snížení</item>
+		<item>Výběr</item>
+	</string-array>
 	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
-        <item>platbu</item>
-        <item>útratu</item>
-        <item>výběr</item>
-        <item>splátku</item>
-        <item>zvýšení</item>
-        <item>snížení</item>
-        <item>výběr</item>
-    </string-array>
+		<item>platbu</item>
+		<item>útratu</item>
+		<item>výběr</item>
+		<item>splátku</item>
+		<item>zvýšení</item>
+		<item>snížení</item>
+		<item>výběr</item>
+	</string-array>
 	<string-array name="amount2_labels">
-        <item>Příjem</item>
-        <item>Příjem</item>
-        <item>Vklad</item>
-        <item>Jistina</item>
-        <item>Snížení</item>
-        <item>Zvýšení</item>
-        <item>Vklad</item>
-    </string-array>
+		<item>Příjem</item>
+		<item>Příjem</item>
+		<item>Vklad</item>
+		<item>Jistina</item>
+		<item>Snížení</item>
+		<item>Zvýšení</item>
+		<item>Vklad</item>
+	</string-array>
 	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
-        <item>příjem</item>
-        <item>příjem</item>
-        <item>vklad</item>
-        <item>jistinu</item>
-        <item>snížení</item>
-        <item>zvýšení</item>
-        <item>vklad</item>
-    </string-array>
+		<item>příjem</item>
+		<item>příjem</item>
+		<item>vklad</item>
+		<item>jistinu</item>
+		<item>snížení</item>
+		<item>zvýšení</item>
+		<item>vklad</item>
+	</string-array>
 
 	<string-array name="delete_transaction_warning_format_plurals">
-        <item>^1 vybraná transakce bude smazána</item>
-        <item>^1 vybrané transakce budou smazány</item>
-        <item>^1 vybraných transakcí bude smazáno</item>
-    </string-array>
-    <string name="delete_transaction_warning_all"><b>Všechny</b> transakce budou smazány</string>
+		<item>^1 vybraná transakce bude smazána</item>
+		<item>^1 vybrané transakce budou smazány</item>
+		<item>^1 vybraných transakcí bude smazáno</item>
+	</string-array>
+	<string name="delete_transaction_warning_all"><b>Všechny</b> transakce budou smazány</string>
 	<string name="delete_transaction_warning_reconciled">Odsouhlasená transakce bude smazána</string>
-    <string-array name="delete_transaction_warning_reconciled_format_plurals">
-        <item>^1 vybraná transakce bude smazána, nejméně jedna z nich je odsouhlasená</item>
-        <item>^1 vybrané transakce budou smazány, nejméně jedna z nich je odsouhlasená</item>
-        <item>^1 vybraných transakcí bude smazáno, nejméně jedna z nich je odsouhlasená</item>
-    </string-array>
+	<string-array name="delete_transaction_warning_reconciled_format_plurals">
+		<item>^1 vybraná transakce bude smazána, nejméně jedna z nich je odsouhlasená</item>
+		<item>^1 vybrané transakce budou smazány, nejméně jedna z nich je odsouhlasená</item>
+		<item>^1 vybraných transakcí bude smazáno, nejméně jedna z nich je odsouhlasená</item>
+	</string-array>
 	<string name="accept_transaction_confirm_singular">Transakce bude přijata</string>
-    <string-array name="accept_transaction_confirm_format_plurals">
-        <item>^1 vybraná transakce bude přijata</item>
-        <item>^1 vybrané transakce budou přijaty</item>
-        <item>^1 vybraných transakcí bude přijato</item>
-    </string-array>
+	<string-array name="accept_transaction_confirm_format_plurals">
+		<item>^1 vybraná transakce bude přijata</item>
+		<item>^1 vybrané transakce budou přijaty</item>
+		<item>^1 vybraných transakcí bude přijato</item>
+	</string-array>
 </resources>

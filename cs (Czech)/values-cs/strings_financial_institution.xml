@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="financial_institution">Finanční instituce</string>
-    <string name="financial_institutions">Finanční instituce</string>
-    <string name="financial_institution_bank_first">Finanční instituce, bankovní účty první</string>
-    <string name="financial_institution_cash_first">Finanční instituce, hotovost první</string>
-    <string name="view_financial_institution">Zobrazit finanční instituci</string>
-    <string name="edit_financial_institution">Upravit finanční instituci</string>
-    <string name="call_financial_institution">Volat finanční instituci</string>
-    <string name="new_financial_institution">Nová finanční instituce</string>
-    <string name="delete_financial_institution">Smazat finanční instituci</string>
-    <string name="delete_financial_institution_warning_format">Finanční instituce ^1 bude trvale smazána a odstraněna ze všech účtů</string>
-    <string name="add_financial_institution_as_a_contact">Uložit instituci jako kontakt</string>
-    <string name="financial_institution_exists">Finanční instituce s tímto názvem již existuje</string>
-    <string name="no_financial_institutions">Nemáté žádné finanční instituci</string>
-    <string name="view_financial_institutions">Zobrazit finanční instituce</string>
-    <string name="financial_institution_name">Název finanční instituci</string>
-    <string name="contact_exists">Kontakt s tímto názvem již existuje</string>
-    <string name="link_financial_institution">Chcete propojit tuto finanční instituci s existujícím kontaktem</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="no_financial_institutions_yet">Zatím žádná finanční instituce</string>
+	<string name="financial_institution">Finanční instituce</string>
+	<string name="financial_institutions">Finanční instituce</string>
+	<string name="financial_institution_bank_first">Finanční instituce, bankovní účty první</string>
+	<string name="financial_institution_cash_first">Finanční instituce, hotovost první</string>
+	<string name="view_financial_institution">Zobrazit finanční instituci</string>
+	<string name="edit_financial_institution">Upravit finanční instituci</string>
+	<string name="call_financial_institution">Volat finanční instituci</string>
+	<string name="new_financial_institution">Nová finanční instituce</string>
+	<string name="delete_financial_institution">Smazat finanční instituci</string>
+	<string name="delete_financial_institution_warning_format">Finanční instituce ^1 bude trvale smazána a odstraněna ze všech účtů</string>
+	<string name="add_financial_institution_as_a_contact">Uložit instituci jako kontakt</string>
+	<string name="financial_institution_exists">Finanční instituce s tímto názvem již existuje</string>
+	<string name="no_financial_institutions">Nemáté žádné finanční instituci</string>
+	<string name="view_financial_institutions">Zobrazit finanční instituce</string>
+	<string name="financial_institution_name">Název finanční instituci</string>
+	<string name="contact_exists">Kontakt s tímto názvem již existuje</string>
+	<string name="link_financial_institution">Chcete propojit tuto finanční instituci s existujícím kontaktem</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="no_financial_institutions_yet">Zatím žádná finanční instituce</string>
 </resources>

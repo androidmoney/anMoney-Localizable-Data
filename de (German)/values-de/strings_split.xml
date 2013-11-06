@@ -12,7 +12,7 @@
 	<string name="transaction_total">Transaktion</string>
 	<string name="go_back_to_edit">Zurück um Splitbuchungen zu ändern</string>
 	<string name="unassigned_split_message_format">Die Summe der Splitbuchungen ist ^1m die Summe der Transationen ist aber ^2. ^3 sind nicht zugewiesen. Das ist nicht zu empfehlen</string>
-    <string name="what_would_you_like_to_do">Was möchten Sie jetzt tun</string>
+	<string name="what_would_you_like_to_do">Was möchten Sie jetzt tun</string>
 	<string name="set_the_total_format">Setzt die Summe auf ^1</string>
 	<string name="distribute_format">^1 gleichmäßig aufteilen</string>
 	<string name="leave_unassigned_format">^1 nicht zugewiesen lassen</string>

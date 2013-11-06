@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="estimated_indicator">~</string>
-    <string name="recurring_bills_and_deposits">Facturas &amp; depósitos recurrentes</string>
+	<string name="recurring_bills_and_deposits">Facturas &amp; depósitos recurrentes</string>
 
-    <string name="recurring_bills_and_deposits_by_direction_order_format">Cargos y depósitos por ^2 en orden ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="recurring_bills_and_deposits_by_direction_order_format">Cargos y depósitos por ^2 en orden ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
 	<string name="view_recurring">Ver elementos recurrentes</string>
 	<string name="new_recurring">Nuevo elemento recurrente</string>
 	<string name="enter">Registrar</string>
@@ -15,7 +15,7 @@
 	<string name="enter_after_editing">Registrar después de editar</string>
 	<string name="enter_partially_after_editing">Registrar parcialmente después de editar</string>
 	<string name="move_to_next_occurrence">Mover a la siguiente ocurrencia</string>
-	<string name="remain_on_this_occurrence_format">Permanecer en esta ocurrencia, si el monto registrado es menor que ^1</string>	    	    	
+	<string name="remain_on_this_occurrence_format">Permanecer en esta ocurrencia, si el monto registrado es menor que ^1</string>
 	<string name="edit_recurring">Editar elemento recurrente</string>
 	<string name="edit_occurrence">Editar ocurrencia</string>
 	<string name="entire_series">La serie completa</string>
@@ -30,13 +30,13 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>Se omitieron ^1 ocurrencias</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Se canceló la omisión</string>
 	<string name="skip_which">Cuales omitir</string>
 	<string name="skip_one_occurrence_warning">Omitir la próxima ocurrencia</string>
 	<string name="no_recurrings_format">No tienes cuentas o depósitos recurrentes.\n\nPara crear uno\n\n<li>^1</li>\n\n<li>presiona en forma sostenida sobre cualquier transacción y luego pulsa ^2</li></string>
-    <string name="create_recurring_instructions_format">Pulsa el botón ^i en la parte superior de la pantalla</string>
+	<string name="create_recurring_instructions_format">Pulsa el botón ^i en la parte superior de la pantalla</string>
 	<string name="recurring_no_accounts_yet">Por favor, crea cuentas y beneficiarios antes de añadir transacciones recurrentes</string>
 	<string name="specify_account">Por favor, especifica primero la cuenta</string>
 	<string name="account_and_amount">Cuenta &amp; Importe</string>
@@ -64,19 +64,19 @@
 	<string name="include_recurrings">Incluir elementos recurrentes</string>
 	<string name="make_recurring_budget_question_part1">Te gustaría que esta serie forme parte de tu presupuesto</string>
 	<string name="make_recurring_budget_question_part2_format">Aún si presionas ^1, puedes hacer esto luego mediante la edición de la serie</string>
-			
+
 	<!-- These three below form a sentence -->
 	<string name="based_part1">Con base en</string>
 	<string name="based_part2_singular">occurrencia anterior</string>
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>^1 occurrencias anteriores</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item/> <!-- Intentionally left empty -->
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="upcoming_date">Fecha futura</string>
 	<string name="series_start_date">Fecha inicial</string>
@@ -84,22 +84,22 @@
 	<string name="invalid_date">Fecha inválida</string>
 	<string name="repeat">Repetir</string>
 	<string name="every_1">Cada</string>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<string name="never">Nunca</string>
 	<string name="day_upper">Día</string>
 	<string name="day_lower">día</string>
@@ -109,7 +109,7 @@
 	<string name="weeks_upper">Semanas</string>
 	<string name="weekly">Semanalmente</string>
 
-	
+
 	<string name="month_upper">Mes</string>
 	<string name="month_lower">mes</string>
 	<string name="months_upper">Meses</string>
@@ -127,22 +127,22 @@
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
 		<item>días</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>semana</item>
 		<item>semanas</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
 		<item>meses</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_lower</item>
 		<item>años</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">Si la fecha cae en fin de semana</string>
@@ -152,12 +152,12 @@
 	<string-array name="overdue_plurals">
 		<item>^1 atrasada</item>
 		<item>^1 atrasadas</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 factura o depósito atrasado</item>
 		<item>^1 facturas o depósitos atrasados</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -166,11 +166,11 @@
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Utilizar la fecha del día como fecha de la transacción</string>
 	<string-array name="enter_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
 		<item>Se registrarán ^1 elementos recurrentes</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-	
+
 	<string-array name="skip_which_items">
 		<item>Próxima ocurrencia</item>
 		<item>Todas las ocurrencias atrasadas</item>
@@ -293,14 +293,14 @@
 		<item>El cuarto ^1</item>
 	</string-array>
 
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
 	<string name="on_the_last_day_of_the_week_format">El último ^1</string>
 
 	<string name="work_week">Semana laboral</string>
@@ -321,18 +321,18 @@
 		<item>Tres semanas antes de su vencimiento</item>
 		<item>Un mes antes de su vencimiento</item>
 	</string-array>	
-	
+
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 días antes</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 días antes de su vencimiento</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-	
+
 	<string name="specify_custom_number_of_days">Especifica el número de días</string>
 </resources>

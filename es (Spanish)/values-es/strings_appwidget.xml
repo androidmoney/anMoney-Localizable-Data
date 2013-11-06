@@ -2,22 +2,22 @@
 <resources>
 	<string name="appwidget_warning_format">Parece que tienes ^1 actualmente instalado en la tarjeta SD.\n\nEsto puede hacer que los widgets desaparezcan. Si planeas usar los widgets es muy recomendable que muevas ^1 de vuelta al dispositivo desde la tarjeta SD</string>
 
-    <string name="no_books_warning">Por favor, crea al menos un libro antes de colocar el widget</string>
-    <string name="no_books_and_accounts_warning">Por favor, crea al menos un libro y una cuenta antes de colocar el widget</string>
-    <string name="no_accounts_warning">Por favor, crea al menos una cuenta antes de colocar el widget</string>
-    <string name="book_no_longer_exists_format">El libro ^1 ya no existe</string>
-    <string name="account_no_longer_exists">La cuenta ya no existe</string>
-    <string name="report_no_longer_exists">El reporte ya no existe</string>
-    <string name="budget_no_longer_exists_format">La partida de presupuesto ^1 ya no existe</string>
-    
-    <string name="quick_entry">Ingreso rápido de datos</string>
-    <string name="app_name_quick_entry">anMoney — Ingreso rápido de datos</string>
-    <string name="app_name_quick_entry_large">anMoney — Ingreso rápido de datos (grande)</string>
-    <string name="app_name_quick_entry_small">anMoney — Ingreso rápido de datos (pequeño)</string>
-    <string name="show_total">Mostrar el total de la cuenta</string>
-    <string name="opacity">Opacidad</string>
+	<string name="no_books_warning">Por favor, crea al menos un libro antes de colocar el widget</string>
+	<string name="no_books_and_accounts_warning">Por favor, crea al menos un libro y una cuenta antes de colocar el widget</string>
+	<string name="no_accounts_warning">Por favor, crea al menos una cuenta antes de colocar el widget</string>
+	<string name="book_no_longer_exists_format">El libro ^1 ya no existe</string>
+	<string name="account_no_longer_exists">La cuenta ya no existe</string>
+	<string name="report_no_longer_exists">El reporte ya no existe</string>
+	<string name="budget_no_longer_exists_format">La partida de presupuesto ^1 ya no existe</string>
 
-    <string name="app_name_upcoming">anMoney — Próximos</string>
+	<string name="quick_entry">Ingreso rápido de datos</string>
+	<string name="app_name_quick_entry">anMoney — Ingreso rápido de datos</string>
+	<string name="app_name_quick_entry_large">anMoney — Ingreso rápido de datos (grande)</string>
+	<string name="app_name_quick_entry_small">anMoney — Ingreso rápido de datos (pequeño)</string>
+	<string name="show_total">Mostrar el total de la cuenta</string>
+	<string name="opacity">Opacidad</string>
+
+	<string name="app_name_upcoming">anMoney — Próximos</string>
 
 	<string name="app_name_budget">anMoney — Presupuesto</string>
 

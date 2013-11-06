@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="report">Reporte</string>
-    <string name="reports">Reportes</string>
+	<string name="reports">Reportes</string>
 	<string name="view_report">Ver reporte</string>
 	<string name="view_reports">Ver reportes</string>
 	<string name="report_canceled">Cancelado</string>
@@ -12,7 +12,7 @@
 	<string name="custom_dates">Fechas personalizadas</string>
 	<string name="other">Otro</string>
 	<string name="report_empty">No hay datos para mostrar</string>
-    <string name="report_settings_instructions_format">Para cambiar la configuración del reporte, pulsa el ^i botón en la parte inferior de la pantalla</string>
+	<string name="report_settings_instructions_format">Para cambiar la configuración del reporte, pulsa el ^i botón en la parte inferior de la pantalla</string>
 	<string name="reset_report_settings">Los ajustes se establecen a sus valores por defecto</string>
 	<string name="settings_reset">Restablecer configuración</string>
 	<string name="reset_canceled">Restablecer cancelado</string>
@@ -22,9 +22,9 @@
 	<string name="favorite_reports">Reportes favoritos</string>
 	<string name="save_report_as">Guardar reporte como</string>
 	<string name="delete_report">Eliminar reporte</string>
-    <string name="rename_report">Cambiar el nombre del reporte</string>
-    <string name="duplicate_report">Duplicar reporte</string>
-    <string name="delete_report_warning_format">Reporte ^1 se eliminará permanentemente</string>
+	<string name="rename_report">Cambiar el nombre del reporte</string>
+	<string name="duplicate_report">Duplicar reporte</string>
+	<string name="delete_report_warning_format">Reporte ^1 se eliminará permanentemente</string>
 	<string name="report_type">Tipo de reporte</string>
 	<string name="group">Agrupar</string>
 <!-- Verify -->	<string name="do_not_group">No agrupar</string>
@@ -34,7 +34,7 @@
 	<string name="day_p2"></string>
 	<string name="day_m2"></string>
 	<string name="select_report">Selecciona el reporte</string>
-<!-- Verify -->  <string name="report_folder">Carpeta de reporte</string>
+<!-- Verify --> <string name="report_folder">Carpeta de reporte</string>
 	<string name="language">Idioma</string>
 <!-- Verify --> <string name="text_size">Tamaño del texto</string>
 	<string name="text_size_sample">Ab</string>
@@ -65,12 +65,12 @@
 	<string name="amounts_on_charts">Mostrar cantidades en los gráficos</string>
 	<string name="percentages_on_pie_charts">Mostrar porcentajes en gráficos circulares</string>
 <!-- Verify --> <string name="create_settings_page">Crear página de configuración</string>
-			
+
 	<string-array name="report_export_file_type">
-        <item>@string/csv</item>
-        <item>@string/pdf</item>
-        <item>Sitio</item>
-    </string-array>
+		<item>@string/csv</item>
+		<item>@string/pdf</item>
+		<item>Sitio</item>
+	</string-array>
 
 	<string-array name="report_export_file_type_description">
 		<item>Legible por las aplicaciones de hojas de cálculo, como Microsoft ® Excel o Google Docs ™</item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="estimated_indicator">~</string>
-    <string name="recurring_bills_and_deposits">Wiederkehrende Rechnungen &amp; Einzahlungen</string>
+	<string name="recurring_bills_and_deposits">Wiederkehrende Rechnungen &amp; Einzahlungen</string>
 
-    <string name="recurring_bills_and_deposits_by_direction_order_format">Buchungs-Serien nach ^1 und ^2</string>	
+	<string name="recurring_bills_and_deposits_by_direction_order_format">Buchungs-Serien nach ^1 und ^2</string>	
 	<string name="view_recurring">Wiederkehrende Posten ansehen</string>
 	<string name="new_recurring">Neuanlage von wiederkehrenden Posten</string>
 	<string name="enter">Eingabe</string>
@@ -15,10 +15,10 @@
 	<string name="enter_after_editing">Eingeben nach Editieren</string>
 	<string name="enter_partially_after_editing">Teilweise Eingeben nach Editieren</string>
 	<string name="move_to_next_occurrence">Zum nächsten Vorkommen gehen</string>
-	<string name="remain_on_this_occurrence_format">Verbleiben, wenn eingegebene Summe kleiner ist als ^1</string>	    	    	
-    <string name="edit_recurring">Wiederkehrende Buchung ändern</string>
+	<string name="remain_on_this_occurrence_format">Verbleiben, wenn eingegebene Summe kleiner ist als ^1</string>
+	<string name="edit_recurring">Wiederkehrende Buchung ändern</string>
 	<string name="edit_occurrence">Vorfall ändern</string>
-    <string name="entire_series">Ganze Serie</string>
+	<string name="entire_series">Ganze Serie</string>
 	<string name="edit_template_warning">Es gibt eigens erstellte Häufigkeiten in der Zukunft.\n\nGBeim Ändern werden diese Anpassungen entfernt</string>
 	<string name="delete_recurring">Wiederkehrende Buchung löschen</string>
 	<string name="delete_question_format">Löschen ^1</string>
@@ -30,13 +30,13 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>^1 vorkommen übersprungen</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Gelöschte überspringen</string>
 	<string name="skip_which">Was überspringen</string>
 	<string name="skip_one_occurrence_warning">Die kommenden Vorfälle überspringen</string>
 	<string name="no_recurrings_format">Sie haben keine wiederkehrenden Zahlungen oder Einlagen.\n\nMöchten Sie welche erstellen:\n\n<li>^1</li>\n\n<li>Um eine beliebige Transaktion wiederkehrend zu machen (Serie), drücken und halten Sie (long-tapping) auf irgendeine Transaktion und drücken Sie ^2</li></string>
-    <string name="create_recurring_instructions_format">Drücken Sie ^i oben auf den Bildschirm</string>
+	<string name="create_recurring_instructions_format">Drücken Sie ^i oben auf den Bildschirm</string>
 	<string name="recurring_no_accounts_yet">Bitte erstellen Sie Konten und Empfänger bevor Sie wiederkehrende Buchungen eingeben</string>
 	<string name="specify_account">Bitte geben Sie zuerst ein Konto an</string>
 	<string name="account_and_amount">Konto &amp; Betrag</string>
@@ -64,19 +64,19 @@
 	<string name="include_recurrings">Einschließlich sich wiederkehrende Elemente</string>
 	<string name="make_recurring_budget_question_part1">Möchten Sie diese Serie in das Budget aufnehmen?</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
 	<string name="make_recurring_budget_question_part2_format">Auch wenn Sie ^1 tippen, können Sie dies zu einem späteren Zeitpunkt noch tun, indem Sie die Serie</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
-				
+
 	<!-- These three below form a sentence -->
 	<string name="based_part1">Basierend auf</string>
 	<string name="based_part2_singular">letzter</string>
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>letzter ^1</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>Vorfall</item>
 		<item>Vorfälle</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="upcoming_date">Datum nächste Buchung</string>
 	<string name="series_start_date">Startdatum der Serie</string>
@@ -86,20 +86,20 @@
 	<string name="every_1">Jeden</string>
 
 
-	
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<string name="never">Nie</string>
 	<string name="day_upper">Tag</string>
 	<string name="day_lower">@string/day_upper</string>
@@ -107,13 +107,13 @@
 	<string name="daily">Täglich</string>
 	<string name="week_upper">Woche</string>
 	<string name="weeks_upper">Wochen</string>
-   	<string name="weekly">Wöchentlich</string>
+	<string name="weekly">Wöchentlich</string>
 
 
-   	<string name="month_upper">Monat</string>
+	<string name="month_upper">Monat</string>
 	<string name="month_lower">@string/month_upper</string>
-   	<string name="months_upper">Monate</string>
-   	<string name="monthly">Monatlich</string>
+	<string name="months_upper">Monate</string>
+	<string name="monthly">Monatlich</string>
 	<string name="twice_a_month">2x im Monat</string>
 	<string name="quarter_upper">Vierteljahr</string>
 	<string name="quarters_upper">Vierteljahren</string>
@@ -123,65 +123,65 @@
 	<string name="year_upper">Jahr</string>
 	<string name="year_lower">@string/year_upper</string>
 	<string name="years_upper">Jahre</string>
-  	<string name="yearly">Jährlich</string>
+	<string name="yearly">Jährlich</string>
 	<string-array name="day_plurals">
 		<item>@string/day_upper</item>
 		<item>@string/days_upper</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>@string/week_upper</item>
 		<item>@string/weeks_upper</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_upper</item>
 		<item>@string/months_upper</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_upper</item>
 		<item>@string/years_upper</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string>
 	<string name="if_it_falls_on_a_weekend">Wenn der Tag auf ein Wochenende fällt</string>
 	<string name="skip_weekends">Überspringe Wochenenden</string>
-	
+
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
 		<item>^1 überfällig</item>
 		<item>^1 überfällig</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 überfällige Rechnung/Einzahlung</item>
 		<item>^1 überfällige Rechnungen/Einzahlungen</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-	
+
 	<string-array name="enter_into_register_fixed_amount_items">
 		<item>@string/enter_now</item>
 		<item>Zuerst Transaktion ändern</item>
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Benutze den heutigen Tag als Transaktions-Datum</string>
 	<string-array name="enter_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 wiederkehrende Elemente werden eingegeben</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-		
+
 	<string-array name="skip_which_items">
 		<item>Anstehende Posten</item>
 		<item>Alle fälligen Posten aus der Vergangenheit</item>
 	</string-array>
-	
+
 	<string-array name="workday_adjustment_methods">
 		<item>Nichts tun</item>
 		<item>Verschiebe es auf den Wochentag davor</item>
 		<item>Verschiebe es auf den nächsten Wochentag</item>
 	</string-array>
-	
+
 	<string-array name="on_the_nth_day_of_the_month">
 		<item>Auf den 1.</item>
 		<item>Auf den 2.</item>
@@ -257,14 +257,14 @@
 		<item>Am vierten ^1</item>
 	</string-array>
 
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
 	<string name="on_the_last_day_of_the_week_format">Am letzten ^1</string>
 
 	<string name="work_week">Werktag</string>
@@ -285,18 +285,18 @@
 		<item>Drei Wochen vor Fälligkeit</item>
 		<item>Ein Monat vor Fälligkeit</item>
 	</string-array>
-	
+
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 days before</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-	
+
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 Tage vor</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-	
+
 	<string name="specify_custom_number_of_days">Eigene Anzahl der Tage eingeben</string>
 </resources>

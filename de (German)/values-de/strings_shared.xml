@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="two_part_format_normal_width">^1 ^2</string>
-    <string name="two_part_format_full_width">^1 ^2</string>
-    <string name="sentence_end_period_format">^1.</string>
-    <string name="sentence_end_question_mark_format">^1?</string>
-    <string name="parantheses_format_normal_width">(^1)</string>
-    <string name="parantheses_format_full_width">(^1)</string>
-    <string name="two_items_dash_with_space_format">^1 – ^2</string>
-    <string name="two_items_dash_without_space_format">^1–^2</string>
-    <string name="colon_format">^1:</string>
-    <string name="two_part_slash_format">^1 / ^2</string>
-    <string name="two_part_comma_format">^1, ^2</string>
+	<string name="two_part_format_normal_width">^1 ^2</string>
+	<string name="two_part_format_full_width">^1 ^2</string>
+	<string name="sentence_end_period_format">^1.</string>
+	<string name="sentence_end_question_mark_format">^1?</string>
+	<string name="parantheses_format_normal_width">(^1)</string>
+	<string name="parantheses_format_full_width">(^1)</string>
+	<string name="two_items_dash_with_space_format">^1 – ^2</string>
+	<string name="two_items_dash_without_space_format">^1–^2</string>
+	<string name="colon_format">^1:</string>
+	<string name="two_part_slash_format">^1 / ^2</string>
+	<string name="two_part_comma_format">^1, ^2</string>
 	<string name="default_name_format">^1 Nr. ^2</string>
-    <string name="percent_sign">%</string>
-    <string name="percentage_format">^1%</string>
+	<string name="percent_sign">%</string>
+	<string name="percentage_format">^1%</string>
 	<string name="plus_after_format">^1+</string>
 	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
-    <string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
-   	<string name="filter_by_order_format">^1 nach ^2</string>
-    <string name="filter_by_direction_order_format">^1 und ^2 nach ^3</string>
-    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 und ^2 nach ^3 für ^4</string>
+	<string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
+	<string name="filter_by_order_format">^1 nach ^2</string>
+	<string name="filter_by_direction_order_format">^1 und ^2 nach ^3</string>
+	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 und ^2 nach ^3 für ^4</string>
 	<string name="_continue">Weiter</string>
 	<string name="continue_question">Weiter</string>
 	<string name="home">Startbildschirm</string>
@@ -42,7 +42,7 @@
 	<string name="removed_from_favorites">Von Favoriten entfernt</string>
 	<string name="save">Speichern</string>
 	<string name="saved">Gespeichert</string>
-    <string name="save_canceled">Speichern abgebrochen</string>	
+	<string name="save_canceled">Speichern abgebrochen</string>	
 	<string name="canceled">Abgebrochen</string>
 	<string name="delete">Löschen</string>
 	<string name="deleted">Gelöscht</string>
@@ -89,19 +89,19 @@
 	<string name="reset">Zurücksetzen</string>
 	<string name="total">Total</string>
 	<string name="grand_total">Endbetrag</string>
-    <string name="average">Mittelwert</string>
+	<string name="average">Mittelwert</string>
 	<string name="export_file_name">Export Dateiname</string>
 	<string name="specify_export_file_name">Bitte Dateiname für den Export angeben</string>
-    <string name="file_exists">Dateiname schon vorhanden</string>
-    <string name="folder_exists">Order-Name schon vorhanden</string>
-    <string name="choose_another_name">Bitte anderen Namen wählen</string>
-    <string name="will_be_overwritten">It wird überschrieben</string>
+	<string name="file_exists">Dateiname schon vorhanden</string>
+	<string name="folder_exists">Order-Name schon vorhanden</string>
+	<string name="choose_another_name">Bitte anderen Namen wählen</string>
+	<string name="will_be_overwritten">It wird überschrieben</string>
 	<string name="calendar">Kalender</string>
 	<string name="remind_me">Erinnerung</string>
 	<string name="add_as_a_contact">Als Kontakt hinzufügen</string>
-    <string name="to_from_format">^1 ^2</string>
-    <string name="to">Nach</string>
-    <string name="from">Von</string>
+	<string name="to_from_format">^1 ^2</string>
+	<string name="to">Nach</string>
+	<string name="from">Von</string>
 	<string name="send_email">Email senden</string>
 	<string name="please_read">Bitte lesen!</string>
 	<string name="rate_app_format">Rate ^1</string>
@@ -119,27 +119,27 @@
 	<string name="archiving">Archivierung</string>
 	<string name="archiving_settings">Archivierung - Einstellungen</string>
 	<string name="more">Mehr</string>
-    <string name="specify_options">Optionen festlegen</string>
+	<string name="specify_options">Optionen festlegen</string>
 	<string name="expand_all">Alle expandieren</string>
 	<string name="all_expanded">Alle expandiert</string>
 	<string name="collapse_all">Alle zuklappen</string>
 	<string name="all_collapsed">Alle zugeklappt</string>
-    <string name="postal_address">Postadresse</string>
-    <string name="postal_address_hint">Straße\nOrt\nPLZ</string>
+	<string name="postal_address">Postadresse</string>
+	<string name="postal_address_hint">Straße\nOrt\nPLZ</string>
 	<string name="cannot_perform_sd_card_operation">Diese Operation kann nicht ausgeführt werden. Entweder ist keine SD-Karte eingelegt oder Ihr Gerät ist mit einem Computer verbunden und blockert die SD-Karte</string>
 	<string name="cannot_perform_file_system_operation_format">Diese Operation kann nicht ausgeführt werden; auf das Datei-System (^1) kann nicht zugegriffen werden</string>
-    <string name="please_correct_and_try_again">Bitte korrigieren sie das und versuchen sie es dann erneut</string>
+	<string name="please_correct_and_try_again">Bitte korrigieren sie das und versuchen sie es dann erneut</string>
 	<string name="no_network_message_format">^1 benötigt einen zeitweisen Netzzugriff, um die Lizenz zu verifizieren.\n\Bitte schalten Sie das Netzwerk ein und versuchen Sie es dann erneut. Danach können Sie die Netzwerkverbindung abschalten.\n\nnWenn Sie auf ^2 drücken, kommen Sie direkt zu ^3</string>
-    <string name="calculator">Rechner</string>
-    <string name="only_in_full_version">Nur in der werbefreien Version PRO</string>
-    <string name="will_not_effect_transactions">Das hat <b>keine</b> Auswirkung auf bestehende Transaktionen</string>
-    
+	<string name="calculator">Rechner</string>
+	<string name="only_in_full_version">Nur in der werbefreien Version PRO</string>
+	<string name="will_not_effect_transactions">Das hat <b>keine</b> Auswirkung auf bestehende Transaktionen</string>
+
 	<string name="no_items">Keine Posten</string>
-    <string name="no_items_yet">Bisher keine Posten</string>
-    	<string-array name="items_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 Posten</item>
-        <item/> <!-- Not used -->
+	<string name="no_items_yet">Bisher keine Posten</string>
+	<string-array name="items_format_plurals">
+		<item/> <!-- Not used -->
+		<item>^1 Posten</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="reminder_leads">

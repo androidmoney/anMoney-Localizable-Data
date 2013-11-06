@@ -6,21 +6,21 @@
 	<string name="rename_book">Mappe umbenennen</string>
 	<string name="delete_book">Mappe löschen</string>
 	<string name="share_book">Mappe teilen</string>
-    <string name="book_delete_warning_short_format">Mappe ^1 wird gelöscht</string>
-    <string name="all_data_will_be_lost">Alle Daten in der Mappe gehen unwiderbringlich verloren, falls kein Backup angelegt wurde</string>
+	<string name="book_delete_warning_short_format">Mappe ^1 wird gelöscht</string>
+	<string name="all_data_will_be_lost">Alle Daten in der Mappe gehen unwiderbringlich verloren, falls kein Backup angelegt wurde</string>
 	<string name="import_into_book">Import in die Mappe</string>
 	<string name="export_from_book">Export von der Mappe</string>
 	<string name="import_into_book_format">Import in die Mappe ^1</string>
-    <string name="no_books">Sie haben keine Mappen</string>
-    <string name="upgrading_book">Bereite Mappe auf</string>
-    <string name="upgrading_books">Bereite Mappen auf</string>
+	<string name="no_books">Sie haben keine Mappen</string>
+	<string name="upgrading_book">Bereite Mappe auf</string>
+	<string name="upgrading_books">Bereite Mappen auf</string>
 	<string name="backup">Backup</string>
 	<string name="backup_canceled">Backup abgebrochen</string>
 	<string name="backup_book">Backup von Mappe</string>
 	<string name="overwrite">Überschreibe</string>
 	<string name="backup_name">Backup Name</string>
 	<string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="restore">Wiederherstellen</string>
+	<string name="restore">Wiederherstellen</string>
 	<string name="restored">Wiederhergestellt</string>
 	<string name="restore_canceled">Wiederherstellung abgebrochen</string>
 	<string name="restore_book">Wiederherstellung von Mappe</string>
@@ -33,9 +33,9 @@
 	<string name="delete_file">Datei löschen</string>
 	<string name="delete_file_warning_format">Datei ^1 wird gelöscht</string>
 	<string-array name="delete_files_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
-        <item>^1 ausgewählten Dateien werden gelöscht</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 ausgewählten Dateien werden gelöscht</item>
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="select_book">Mappe auswählen</string>
 	<string name="select_import_file">Datei(en) für den Import auswählen</string>
@@ -63,11 +63,11 @@
 <!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
 	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
 		<string name="tip">Tipp</string>
-    <string name="user_guide">Bedienungsanleitung (englisch)</string>
+	<string name="user_guide">Bedienungsanleitung (englisch)</string>
 
 	<string name="whats_new">Was ist neu</string>
 	<string name="license">Lizenz</string>
-<!--     
+<!--
 	<string name="accept_license">Lizenz akzeptieren</string>
 	<string name="decline">Ablehnen</string>
 -->	
@@ -86,9 +86,9 @@
 	<string name="remove_password_message">Das Passwort wird gelöscht.\n\nIhre Daten sind für Jedermann sichtbar</string>
 	<string name="password_has_not_been_changed">Passwort ist nicht geändert worden</string>
 	<string name="passwords_dont_match">Passwörter sind ncht identisch</string>
-    <string name="case_sensitive">Groß-Kleinschreibung beachten</string>
+	<string name="case_sensitive">Groß-Kleinschreibung beachten</string>
 	<string name="disclaimer">Haftungsausschluss</string>
-	<string name="password_disclaimer">Bitte lesen Sie den Haftungsausschluss und aktivieren Sie die Check-Box am Ende.\n\nBeachten Sie, dass der Passwortschutz als Gegenmaßnahme für „neugierige Augen“ gedacht ist. Wegen technischer Beschränkungen Ihres Gerätes kann kein absoluter Schutz gewährleistet werden. Jemand ist fortgeschrittenen Kenntnissen könnte in der Lage sein, sich  trotz Passworts Zutritt zu Ihren Daten zu verschaffen.\n\nEs wird ausdrücklich empfohlen, Ihr Gerät zusätzlich mit einem Zugangscode oder einer PIN abzusichern</string>
+	<string name="password_disclaimer">Bitte lesen Sie den Haftungsausschluss und aktivieren Sie die Check-Box am Ende.\n\nBeachten Sie, dass der Passwortschutz als Gegenmaßnahme für „neugierige Augen“ gedacht ist. Wegen technischer Beschränkungen Ihres Gerätes kann kein absoluter Schutz gewährleistet werden. Jemand ist fortgeschrittenen Kenntnissen könnte in der Lage sein, sich trotz Passworts Zutritt zu Ihren Daten zu verschaffen.\n\nEs wird ausdrücklich empfohlen, Ihr Gerät zusätzlich mit einem Zugangscode oder einer PIN abzusichern</string>
 	<string name="i_understand_the_limitations">Ich habe diese Einschränkungen verstanden</string>
 	<string name="set_password_now_part1">Passwort jetzt setzen</string>
 	<string name="set_password_now_part2_format">Auch wenn Sie mit ^1 antworten, haben Sie jederzeit die Möglichkeit, ein Passwort zu vergeben. Drücken Sie dazu lange auf den Namen der Mappe und anschließend auf ^2</string>
@@ -103,24 +103,24 @@
 	<string name="join_the_user_community_format">Der ^1 User’s Community beitreten</string>
 	<string name="contact_us">Kontaktieren Sie uns</string>
 	<string name="email_the_developers">Email an die Entwickler</string>
-    <string name="tap_to_display_import_settings_format">Drücken ^1 zeigt Einstellungen für den Import-Bildschirm</string>
-    <string name="verify_import_settings">Stellen Sie sicher, dass die Grundeinstellungen für die zu importierende Datei richtig sind. Wenn alles OK ist, drücken Sie <b>Zurück</b> Pfeiltaste, um mit dem Import fortzufahren</string>
+	<string name="tap_to_display_import_settings_format">Drücken ^1 zeigt Einstellungen für den Import-Bildschirm</string>
+	<string name="verify_import_settings">Stellen Sie sicher, dass die Grundeinstellungen für die zu importierende Datei richtig sind. Wenn alles OK ist, drücken Sie <b>Zurück</b> Pfeiltaste, um mit dem Import fortzufahren</string>
 	<string name="change_settings_instructions_format">Diese Meldung erscheint nicht mehr für nachfolgende Importe. Sie können aber die Einstellungen jederzeit ändern. Drücken Sie ^i oben auf den Bildschirm</string>
-    <string name="bad_import_settings">Die folgenden Einstellungen sind für die zu importierende Datei nicht korrekt</string>
+	<string name="bad_import_settings">Die folgenden Einstellungen sind für die zu importierende Datei nicht korrekt</string>
 	<string name="qif_csv_encoding_explanation_format">Typischerweise wird über ^1 die Sprache aus nachfolgender Liste ausgewählt, aber manche Finanzinstitue können Dateien erstellen, wobei ^2für den korrekten Import ausgewählt werden muss.\n\nFür alle anderen Sprachen, die NICHT in der Liste sind, sollte immer ^2 gewählt werden</string>
 	<string name="credits_legal">Danksagung &amp; juristisches</string>
 	<string name="contact_and_social">Kontakt &amp; soziales</string>
 	<string name="add_us_to_circle">Zu den Kreisen hinzufügen und +1 uns</string>
 	<string name="follow_us">„Follow us“ (Soziale Kontakte)</string>
 	<string name="become_a_fan">Werden Sie ein Fan</string>
-    <string name="haptic_feedback">Haptisches Feedback</string>
+	<string name="haptic_feedback">Haptisches Feedback</string>
 	<string name="haptic_feedback_description">Wenn ausgewählt, vibrieren die Tasten</string>
 	<string name="default_book_name">Meine Mappe</string>
 	<string name="color_theme">Thema</string>
 	<string name="dark">Dunkel</string>
 	<string name="light">Hell</string>
 	<string name="preview">Vorschau</string>
-		
+
 	<string-array name="book_new_source">
 		<item>Erstellung von Anfang an</item>
 		<item>Erstellung von einem Backup</item>
@@ -143,15 +143,15 @@
 		<item>Für Transfers von anderer Finanz-Software, wie z.B. Microsoft® Money oder Quicken®. Nur das <b>QIF</b>-Format wird unterstützt</item>
 	</string-array>
 
-    <string name="qif_ms_money_description">Je nachdem, welche Klassen oder Kategorien sie verwenden, kann es u.U. nur von Microsoft Money gelesen werden</string>
+	<string name="qif_ms_money_description">Je nachdem, welche Klassen oder Kategorien sie verwenden, kann es u.U. nur von Microsoft Money gelesen werden</string>
 	<string name="qif_generic_description">Lesbar von allen Anwendungen, die das <b>QIF-Format</b> unterstützen</string>
-    <string name="csv_description">Lesbar durch Tabellenkalkulations-Programme, wie z.B. Microsoft® Excel or Google Docs. Die erste exportierte Zeile enthält den Header (Feldnamen), gefolgt von einer Zeile für jede Transaktion</string>
+	<string name="csv_description">Lesbar durch Tabellenkalkulations-Programme, wie z.B. Microsoft® Excel or Google Docs. Die erste exportierte Zeile enthält den Header (Feldnamen), gefolgt von einer Zeile für jede Transaktion</string>
 
-    <string name="import_file_confirm_format">Möchten Sie importieren ^1</string>
+	<string name="import_file_confirm_format">Möchten Sie importieren ^1</string>
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 		<item>Möchten Sie die ^1 Dateien importieren</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string name="general">Allgemein</string>
@@ -170,14 +170,14 @@
 	
 	<string name="password_time_out_period">Passwort wird aktiv nach</string>
 	<string-array name="n_seconds_format_plurals">
-        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
-        <item>^1 Sekunden</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+		<item>^1 Sekunden</item>
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
 		<item>^1 Minute</item>
 		<item>^1 Minuten</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string name="set_button_behavior_format">Rechner ^1 Verhalten</string>
@@ -211,7 +211,7 @@
 	<string name="duplicate_check_number_description">Wenn ausgewählt, wird eine Warnung ausgegeben, wenn die Scheck-Nummer bereits existiert</string>
 
 	<string name="field_with_initial_focus">Feld mit Anfangs anfänglicher-Markierung</string>
-    
+
 	<string name="show_keyboard_automatically">Zeigt die Tatstatur automatisch</string>
 	<string name="show_keyboard_automatically_description">Wenn ausgewählt, erscheint das Pop-Up-Keyboard automatisch, wenn etwas eingegeben werden soll</string>
 
@@ -233,7 +233,7 @@
 
 	<string name="date_in_file_name">Datum im Dateinamen</string>
 	<string name="date_in_file_name_description">Wenn ausgewählt, wird das aktuelle Datum in den Dateinamen hinzugefügt</string>
-    
+
 	<string name="automatic_backup">Automatisches Backup</string>
 	<string name="automatic_backup_description">Wenn ausgewählt, wird die Mappe automatisch gespeichert</string>
 
@@ -242,22 +242,22 @@
 	<string name="auto_backup_notify_description">Wenn ausgewählt, wird eine Benachrichtigung nach dem Backup angezeigt</string>
 
 	<string name="backed_up_book_format">Backup ^1</string>
-    <string-array name="backed_up_books_format_plurals">
-        <item/> <!-- Not used -->
-        <item>Backup von ^1 Mappen</item>
-        <item/> <!-- Not used -->
+	<string-array name="backed_up_books_format_plurals">
+		<item/> <!-- Not used -->
+		<item>Backup von ^1 Mappen</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
 		<item>Export von ^1 Transaktion</item>
 		<item>Export von ^1 Transaktionen</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string name="failed_to_back_up_book">Backup der Mappe fehlgeschlagen</string>
 	<string name="no_space_left_on_sd_card">Kein Platz mehr auf der SD-Karte</string>
 	<string name="cannot_restore_newer_version">Wiederherstellung eines Backups von ^1 unmöglich.\n\nBitte installieren Sie die neueste Version von ^1 und versuchen Sie es noch einmal</string>
-		
+
 	<string name="file">Datei</string>	
 	<string name="folder">Ordner</string>	
 	<string name="external_storage">Externen Speicher</string>	
@@ -266,39 +266,39 @@
 	<string name="qif_csv_date_order">QIF/CSV Datums-Anordnung</string>
 
 	<string name="comma">Komma</string>	
-		<string name="qif_csv_decimal_mark">QIF/CSV Dezimalpunkt</string>
+	<string name="qif_csv_decimal_mark">QIF/CSV Dezimalpunkt</string>
 	<string-array name="qif_csv_decimal_marks">
 		<item>Dezimalpunkt</item>
-        <item>@string/comma</item>
-    </string-array>
+		<item>@string/comma</item>
+	</string-array>
 
 	<string name="csv_delimiter">CSV Trennzeichen</string>
 	<string-array name="csv_delimiters">
 		<item>@string/comma</item>
 		<item>Strichpunkt</item>
-    </string-array>
+	</string-array>
 
 	<string name="qif_csv_encoding">QIF/CSV Kodierung</string>
-    <string name="ofx_qfx_encoding">OFX/QFX/OFS Kodierung</string>
+	<string name="ofx_qfx_encoding">OFX/QFX/OFS Kodierung</string>
 	<string-array name="encodings">
-        <item>@string/iso_8859_1</item>
-        <item>@string/utf_8</item>
+		<item>@string/iso_8859_1</item>
+		<item>@string/utf_8</item>
 		<item>GBK (Chinesischer National Standard)</item>
 		<item>Kyrillisch (Windows)</item>
-        <item>Westeuropäischen (Windows)</item>
-        <item>Mitteleuropäischen (Windows)</item>
-        <item>UTF-16BE (Unicode)</item>
-        <item>UTF-16LE (Unicode)</item>
+		<item>Westeuropäischen (Windows)</item>
+		<item>Mitteleuropäischen (Windows)</item>
+		<item>UTF-16BE (Unicode)</item>
+		<item>UTF-16LE (Unicode)</item>
 	</string-array>
 
 	<string name="maintain_entries">Einträge behalten</string>
 	<string name="maintain_number_field_entries"> Anzahl der Feldeinträge behalten</string>
 	<string name="maintain_number_field_entries_description">Erlaubt Ihnen, nicht mehr benötigte Nummern von Transaktionen zu löschen</string>
 
-    <string name="delete_entry_warning_format">Eintrag ^1 wird gelöscht</string>
-    <string-array name="delete_entries_warning_format_plurals">
-        <item/> <!-- Not used -->
+	<string name="delete_entry_warning_format">Eintrag ^1 wird gelöscht</string>
+	<string-array name="delete_entries_warning_format_plurals">
+		<item/> <!-- Not used -->
 		<item>^1 Einträge werden gelöscht</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 </resources>

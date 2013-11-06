@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="estimated_indicator">~</string>
-    <string name="recurring_bills_and_deposits">Trvalé platební a inkasní příkazy</string>
+	<string name="recurring_bills_and_deposits">Trvalé platební a inkasní příkazy</string>
 
-    <string name="recurring_bills_and_deposits_by_direction_order_format">Trvalé příkazy ^1 podle ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="recurring_bills_and_deposits_by_direction_order_format">Trvalé příkazy ^1 podle ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
 	<string name="view_recurring">Zobrazit trvalé příkazy</string>
 	<string name="new_recurring">Nový trvalý příkaz</string>
 	<string name="enter">Provést</string>
@@ -15,7 +15,7 @@
 	<string name="enter_after_editing">Provést po úpravě</string>
 	<string name="enter_partially_after_editing">Částečně provést po změně</string>
 	<string name="move_to_next_occurrence">Posunout na příští provedení</string>
-	<string name="remain_on_this_occurrence_format">Ponechat aktuální provedení, je-li zadaná částka menší než ^1</string>	    	    	
+	<string name="remain_on_this_occurrence_format">Ponechat aktuální provedení, je-li zadaná částka menší než ^1</string>
 	<string name="edit_recurring">Upravit trvalý příkaz</string>
 	<string name="edit_occurrence">Upravit výskyt</string>
 	<string name="entire_series">Všechny výskyty</string>
@@ -36,7 +36,7 @@
 	<string name="skip_which">Co vynechat</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="skip_one_occurrence_warning">Vynechat příští provedení</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="no_recurrings_format">Nemáte žádné trvalé příkazy.\n\nPro vytvoření:\n\n<li>^1</li>\n\n<li>Dlouze podržte libovolnou transakci a zvolte ^2</li></string>
-    <string name="create_recurring_instructions_format">Zvolte ^i v horní části obrazovky</string> <!-- ^i will be replaced by an image -->
+	<string name="create_recurring_instructions_format">Zvolte ^i v horní části obrazovky</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Prosím vytvořte účty a příjemce před zadáním trvalých příkazů</string>
 	<string name="specify_account">Nejprve prosím vyberte účet</string>
 	<string name="account_and_amount">Účet a částka</string>
@@ -64,7 +64,7 @@
 	<string name="include_recurrings">Zahrnout trvalé příkazy</string> <!-- as in "Include recurring items on report" -->
 	<string name="make_recurring_budget_question_part1">Chcete tento trvalý příkaz přidat do vašeho rozpočtu</string> <!-- see "make_account_budget_question_part1" in accounts.xml for the wording -->
 	<string name="make_recurring_budget_question_part2_format">I když zvolíte ^1, můžet nastavení kdykoli změnit úpravou trvalého příkazu</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
-		
+
 	<!-- These three below form a sentence -->
 	<string name="based_part1">Závisí na</string>
 	<string name="based_part2_singular">poslední</string>
@@ -153,7 +153,7 @@
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">Pokud datum připadne na víkend</string>
 	<string name="skip_weekends">Vynechat výkendy</string>
-	
+
 	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
 		<item>^1 opoždění</item>
@@ -176,7 +176,7 @@
 		<item>^1 vybrané trvalé příkazy budoy provedeny</item>
 		<item>^1 vybraných trvalých přízkazů bude provedeno</item>
 	</string-array>
-	
+
 	<string-array name="skip_which_items">
 		<item>Příští provedení</item>
 		<item>Všechna zpožděná provedení</item>
@@ -291,13 +291,13 @@
 		<item>Tři týdny před dnem splatnosti</item>
 		<item>Měsíc před dnem splatnosti</item>
 	</string-array>	
-	
+
 	<string-array name="days_before_plurals">
 		<item>^1 den předem</item>
 		<item>^1 dny předem</item>
 		<item>^1 dnů předem</item>
 	</string-array>
-	
+
 	<string-array name="days_before_due_date_plurals">
 		<item>^1 den před dnem splatnosti</item>
 		<item>^1 dny před dnem splatnosti</item>
