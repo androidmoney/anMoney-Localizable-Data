@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string-array name="amount2_labels">
-        <item>Vklad</item>
-        <item>Příjem</item>
-        <item>Vklad</item>
-        <item>Hlavní příjem</item>
-        <item>Snížení</item>
-        <item>Zvýšení</item>
-        <item>Vklad</item>
-    </string-array>
+		<item>Vklad</item>
+		<item>Příjem</item>
+		<item>Vklad</item>
+		<item>Hlavní příjem</item>
+		<item>Snížení</item>
+		<item>Zvýšení</item>
+		<item>Vklad</item>
+	</string-array>
 </resources>

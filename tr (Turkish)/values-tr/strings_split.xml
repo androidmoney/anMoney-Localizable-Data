@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="splits">Taksitler</string> <!-- This is a noun -->
+	<string name="split_canceled">Taksitlendirme iptal</string> <!-- "Split" is a verb -->
+	<string name="new_split">Yeni taksit</string> <!-- "Split" here and below are nouns -->
+	<string name="edit_split">Taksit düzenle</string>
+	<string name="edit_splits">Taksitleri düzenle</string>
+	<string name="delete_split">Taksit sil</string>
+	<string name="export_splits">Taksitleri dışa aktar</string>
+	<string name="sum_of_splits">Taksit toplamı</string>
+	<string name="unassigned">Belirtilmemiş</string>
+	<string name="transaction_total">İşlem toplamı</string>
+	<string name="go_back_to_edit">Taksit düzenlemeye geri dön</string>
+	<string name="unassigned_split_message_format">İşlem toplamı ^2 iken taksitlerin toplamı ^1. ^3 belirtilmiş kalıyor ki bu önerilmez</string>
+	<string name="what_would_you_like_to_do">Ne yapmak istersiniz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="set_the_total_format">Toplamı ^1 ayarla</string>
+	<string name="distribute_format">^1 eşit olarak dağıt</string>
+	<string name="leave_unassigned_format">^1 belirtilmiş olarak bırak</string>
+	<string name="distributed">Dağıtıldı</string>
+</resources>

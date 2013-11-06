@@ -1,51 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
-    <string name="view_payee">View payee</string>
-    <string name="edit_payee">Edit payee</string>
-    <string name="new_payee">New payee</string>
-    <string name="call_payee">Call payee</string>
-    <string name="delete_payee">Delete payee</string>
-    <string name="delete_payee_warning_format">Payee ^1 will be permanently deleted</string>
-    <string name="delete_from_app_format">Also delete from ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
-    <string name="add_payee_as_a_contact">Add payee as a contact</string>
-    <string name="payee">Payee</string>
-    <string name="payer">Payer</string>
-    <string name="payees">Payees</string>
-    <string name="payee_required">Payee required</string>
-    <string name="payer_required">Payer required</string>
-    <string name="call">Call</string>
-    <string name="map_address">Map address</string> <!-- Show the address on the map -->
-    <string name="no_payees">You don’t have any payees</string>
-    <string name="payee_transaction_list_empty">You don’t have any transactions for this payee</string>
-    <string name="payee_exists">A payee with that name already exists</string>
-    <string name="combine_payees">Would like to combine the two payees</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="payee_name">Payee name</string>
-    <string name="link_payee">Do you want to link this payee to the existing contact</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="account_number">Account number</string>
-    <string name="phone">Phone</string>
-    <string name="phone_number">Phone number</string>
-    <string name="email">Email</string>
-    <string name="email_address">Email address</string>
-    <string name="url">URL</string>
-    <string name="web_address">Web address</string>
-    <string name="select_account">Select account</string>
-    <string name="open_web_page">Open web page</string>
-    <string name="view_payees">View payees</string>
-    <string name="default_payee_name">My payee</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+	<string name="view_payee">View payee</string>
+	<string name="edit_payee">Edit payee</string>
+	<string name="new_payee">New payee</string>
+	<string name="call_payee">Call payee</string>
+	<string name="delete_payee">Delete payee</string>
+	<string name="delete_payee_warning_format">Payee ^1 will be permanently deleted</string>
+	<string name="delete_from_app_format">Also delete from ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
+	<string name="add_payee_as_a_contact">Add payee as a contact</string>
+	<string name="payee">Payee</string>
+	<string name="payer">Payer</string>
+	<string name="payees">Payees</string>
+	<string name="payee_required">Payee required</string>
+	<string name="payer_required">Payer required</string>
+	<string name="call">Call</string>
+	<string name="map_address">Map address</string> <!-- Show the address on the map -->
+	<string name="no_payees">You don’t have any payees</string>
+	<string name="payee_transaction_list_empty">You don’t have any transactions for this payee</string>
+	<string name="payee_exists">A payee with that name already exists</string>
+	<string name="combine_payees">Would like to combine the two payees</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="payee_name">Payee name</string>
+	<string name="link_payee">Do you want to link this payee to the existing contact</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="account_number">Account number</string>
+	<string name="phone">Phone</string>
+	<string name="phone_number">Phone number</string>
+	<string name="email">Email</string>
+	<string name="email_address">Email address</string>
+	<string name="url">URL</string>
+	<string name="web_address">Web address</string>
+	<string name="select_account">Select account</string>
+	<string name="open_web_page">Open web page</string>
+	<string name="view_payees">View payees</string>
+	<string name="default_payee_name">My payee</string>
 	<string name="spending_by_payee">Spending by payee</string>
-    <string name="all_payees_hidden_by_filter">All payees are hidden by the display filter</string>
-        
-    <string name="without_payee">Without payee</string>
-    <string name="no_payees_yet">No payees yet</string>
+	<string name="all_payees_hidden_by_filter">All payees are hidden by the display filter</string>
+
+	<string name="without_payee">Without payee</string>
+	<string name="no_payees_yet">No payees yet</string>
 	<string-array name="payee_count_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 payees</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item>^1 payees</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
-    <string name="all_payees">All payees</string>
+	<string name="all_payees">All payees</string>
 	<string name="payees_in_open_accounts">Payees in open accounts</string>
 	<string name="payees_in_closed_accounts_only">Payees in closed accounts only</string>
 	<string name="unused_payees">Unused payees</string>
@@ -58,10 +56,10 @@
 
 	<string-array name="payee_list_order_title_bar">
 		<item>@string/date</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 		<item>@string/name</item>
 		<item>@string/amount</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->

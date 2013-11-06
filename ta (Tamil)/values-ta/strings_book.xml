@@ -60,6 +60,8 @@
 	<string name="import_folder">இறக்குமதி கோப்புறை</string>
 	<string name="export_folder">ஏற்றுமதி கோப்புறை</string>
     <string name="ask_to_view_imported_transaction">இறக்குமதி செய்யப்பட்ட பரிவர்த்தனைகளை பார்க்க விரும்புகிறீர்களா</string> <!-- This is a question, but the question mark will be added progrmatically -->
+<!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
+	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
     <string name="tip">சிறு உதவி</string>
     <string name="user_guide">உபயோகிப்பாளர் கையேடு</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>

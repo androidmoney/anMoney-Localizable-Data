@@ -84,7 +84,7 @@
 	<string name="ask_to_edit_related_transaction_message_part1">Da die andere Hälfte dieser Transaktion gesplittet wurde, müssen Sie sie auch dort ändern</string>
     <string name="ask_to_edit_related_transaction_message_part2">Möchten Sie die andere Transaktion nun ändern</string>
 	<string name="transaction_modified_message">Transaktion wird geändert</string>
-	<string name="transaction_confirm_save_on_back_press_message_format">Die Transaktion wurde geändert.\n\n Drücken Sie ^1 um die Transaktion zu sichern, ^2 Zurück zur Änderung der Transaktion, oder ^3 um die Änderungen zu verwerfen</string>
+	<string name="transaction_confirm_save_on_back_press_message_format">Die Transaktion wurde geändert.\n\nDrücken Sie ^1 um die Transaktion zu sichern, ^2 Zurück zur Änderung der Transaktion, oder ^3 um die Änderungen zu verwerfen</string>
 	<string name="split_confirm_save_on_back_press_message_format">Die Split-Buchung ist geändert worden.\n\nDrücken Sie ^1 um die Split-Buchung zu sichern, ^2 um die Split-Buchung zu ändern, oder ^3 um die Änderungen zu verwerfen</string>
     <string name="transaction_modified_reconciled_message">Eine abgeglichene Buchung wird geändert</string>
 	<string name="transaction_modified_related_reconciled_message">Die andere Hälfte der Buchung, die bereits abgeglichen ist, wird auch geändert</string>

@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="view_payee">Mostrar beneficiari</string>
-    <string name="edit_payee">Editar beneficiari</string>
-    <string name="new_payee">Nou beneficiari</string>
-    <string name="call_payee">Trucar al beneficiari</string>
-    <string name="delete_payee">Esborrar beneficiari</string>
-    <string name="delete_payee_warning_format">El beneficiari ^1 serà esborrat de forma permanent</string>
-    <string name="delete_from_app_format">Esborrar també de ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
-    <string name="add_payee_as_a_contact">Afegir beneficiari com a contacte</string>
-    <string name="payee">Beneficiari</string>
-    <string name="payer">Pagador</string>
-    <string name="payees">Beneficiaris</string>
-    <string name="payee_required">Beneficiari requerit</string>
-    <string name="payer_required">Pagador requerit</string>
-    <string name="call">Trucar</string>
-    <string name="map_address">Adreça en mapa</string> <!-- Show the address on the map -->
-    <string name="no_payees">No teniu cap beneficiari</string>
-    <string name="payee_transaction_list_empty">Cap transacció d’aquest beneficiari</string>
-    <string name="payee_exists">Ja existeix un beneficiari amb aquest nom</string>
-    <string name="combine_payees">Vol combinar els dos beneficiaris</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="payee_name">Nom del beneficiari</string>
-    <string name="link_payee">Vol enllaçar aquest beneficiari al contacte existent</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="account_number">Número de compte</string>
-    <string name="phone">Telèfon</string>
-    <string name="phone_number">Número de telèfon</string>
-    <string name="email">Correu electrònic</string>
-    <string name="email_address">Adreça de correu electrònic</string>
-    <string name="url">Web</string>
-    <string name="web_address">Adreça web</string>
-    <string name="select_account">Seleccionar compte</string>
-    <string name="open_web_page">Obrir pàgina web</string>
-    <string name="view_payees">Mostrar beneficiaris</string>
-    <string name="default_payee_name">El meu beneficiari</string>
+	<string name="view_payee">Mostrar beneficiari</string>
+	<string name="edit_payee">Editar beneficiari</string>
+	<string name="new_payee">Nou beneficiari</string>
+	<string name="call_payee">Trucar al beneficiari</string>
+	<string name="delete_payee">Esborrar beneficiari</string>
+	<string name="delete_payee_warning_format">El beneficiari ^1 serà esborrat de forma permanent</string>
+	<string name="delete_from_app_format">Esborrar també de ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
+	<string name="add_payee_as_a_contact">Afegir beneficiari com a contacte</string>
+	<string name="payee">Beneficiari</string>
+	<string name="payer">Pagador</string>
+	<string name="payees">Beneficiaris</string>
+	<string name="payee_required">Beneficiari requerit</string>
+	<string name="payer_required">Pagador requerit</string>
+	<string name="call">Trucar</string>
+	<string name="map_address">Adreça en mapa</string> <!-- Show the address on the map -->
+	<string name="no_payees">No teniu cap beneficiari</string>
+	<string name="payee_transaction_list_empty">Cap transacció d’aquest beneficiari</string>
+	<string name="payee_exists">Ja existeix un beneficiari amb aquest nom</string>
+	<string name="combine_payees">Vol combinar els dos beneficiaris</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="payee_name">Nom del beneficiari</string>
+	<string name="link_payee">Vol enllaçar aquest beneficiari al contacte existent</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="account_number">Número de compte</string>
+	<string name="phone">Telèfon</string>
+	<string name="phone_number">Número de telèfon</string>
+	<string name="email">Correu electrònic</string>
+	<string name="email_address">Adreça de correu electrònic</string>
+	<string name="url">Web</string>
+	<string name="web_address">Adreça web</string>
+	<string name="select_account">Seleccionar compte</string>
+	<string name="open_web_page">Obrir pàgina web</string>
+	<string name="view_payees">Mostrar beneficiaris</string>
+	<string name="default_payee_name">El meu beneficiari</string>
 	<string name="spending_by_payee">Despesa per beneficiari</string>
-    <string name="all_payees_hidden_by_filter">Tots els beneficiaris han estat amagats pel filtre de visualització</string>
-        
-    <string name="without_payee">Sense beneficiari</string>
-    <string name="no_payees_yet">Cap beneficiari encara</string>
+	<string name="all_payees_hidden_by_filter">Tots els beneficiaris han estat amagats pel filtre de visualització</string>
+
+	<string name="without_payee">Sense beneficiari</string>
+	<string name="no_payees_yet">Cap beneficiari encara</string>
 	<string-array name="payee_count_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 beneficiaris</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item>^1 beneficiaris</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
-    <string name="all_payees">Tots els beneficiaris</string>
+	<string name="all_payees">Tots els beneficiaris</string>
 	<string name="payees_in_open_accounts">Beneficiaris als comptes oberts</string>
 	<string name="payees_in_closed_accounts_only">Beneficiaris només als comptes tancats</string>
 	<string name="unused_payees">Beneficiaris no utilitzats</string>
@@ -56,10 +56,10 @@
 
 	<string-array name="payee_list_order_title_bar">
 		<item>@string/date</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 		<item>@string/name</item>
 		<item>@string/amount</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->

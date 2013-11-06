@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="filter_for_item_by_direction_order_for_date_range_format">^1 und ^2 nach ^3 ^4</string>
+	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 und ^2 nach ^3 ^4</string>
 </resources>

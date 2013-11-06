@@ -60,6 +60,7 @@
 	<string name="import_folder">Каталог для импортта</string>
 	<string name="export_folder">Каталог для экспорта</string>
     <string name="ask_to_view_imported_transaction">Показать импортированные транзакции</string>
+	<string name="import_same_time_warning">Если вы собираетесь импортировать более одного счёта, импортируйте их одновременно. Воздержитесь от импорта по отдельности, поскольку при этом возможно возникновение дублирующихся транзакций</string> 
     <string name="tip">Совет</string>
 	<string name="user_guide">Руководство пользователя</string>
 	<string name="user_guide_url">http://goo.gl/2zugn</string>

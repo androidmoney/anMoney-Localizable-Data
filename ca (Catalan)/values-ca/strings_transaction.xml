@@ -1,185 +1,185 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="transactions">Transaccions</string>
-    <string name="view_transactions">Mostrar transaccions</string>
-    <string name="new_transaction">Nova transacció</string>
-    <string name="edit_transaction">Editar transacció</string>
-    <string name="split_transaction">Dividir transacció</string>
-    <string name="delete_transaction">Esborrar transacció</string>
-    <string name="accept_transaction">Acceptar transacció</string> <!-- Accept as in "Accept a new transaction" -->
-    <string name="select">Seleccionar</string>
-    <string name="accept">Acceptar</string>
-    <string name="accepted">Acceptada</string>
-    <string name="accept_canceled">Acceptar cancel·lat</string>
-    <string name="accept_transaction_all"><b>Totes</b> les transaccions seran acceptades</string>
-    <string name="mark">Marcar</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
-    <string name="marked">Marcada</string>
-    <string name="mark_canceled">Marcar cancel·lat</string>
-    <string name="mark_transaction">Marcar transacció</string>
+	<string name="transactions">Transaccions</string>
+	<string name="view_transactions">Mostrar transaccions</string>
+	<string name="new_transaction">Nova transacció</string>
+	<string name="edit_transaction">Editar transacció</string>
+	<string name="split_transaction">Dividir transacció</string>
+	<string name="delete_transaction">Esborrar transacció</string>
+	<string name="accept_transaction">Acceptar transacció</string> <!-- Accept as in "Accept a new transaction" -->
+	<string name="select">Seleccionar</string>
+	<string name="accept">Acceptar</string>
+	<string name="accepted">Acceptada</string>
+	<string name="accept_canceled">Acceptar cancel·lat</string>
+	<string name="accept_transaction_all"><b>Totes</b> les transaccions seran acceptades</string>
+	<string name="mark">Marcar</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
+	<string name="marked">Marcada</string>
+	<string name="mark_canceled">Marcar cancel·lat</string>
+	<string name="mark_transaction">Marcar transacció</string>
 	<string-array name="mark_transactions_format_plurals">
-        <item/> <!-- Intentionally left empty -->
-        <item>Marcar ^1 transaccions</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
+		<item>Marcar ^1 transaccions</item>
+		<item/> <!-- Not used -->
 	</string-array>
-    <string name="mark_transactions_all">Marcar <b>totes</b> les transaccions</string>
-    <string name="unreconciled1">Sense conciliar</string>
-    <string name="unreconciled2">@string/unreconciled1</string>
-    <string name="cleared1">Autoritzada</string>
-    <string name="cleared2">@string/cleared1</string>
-    <string name="reconciled1">Conciliada</string>
-    <string name="reconciled2">@string/reconciled1</string>
-    <string name="_void_verb">Anul·lar</string>
-    <string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" -->
+	<string name="mark_transactions_all">Marcar <b>totes</b> les transaccions</string>
+	<string name="unreconciled1">Sense conciliar</string>
+	<string name="unreconciled2">@string/unreconciled1</string>
+	<string name="cleared1">Autoritzada</string>
+	<string name="cleared2">@string/cleared1</string>
+	<string name="reconciled1">Conciliada</string>
+	<string name="reconciled2">@string/reconciled1</string>
+	<string name="_void_verb">Anul·lar</string>
+	<string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" -->
 	<string name="not_void1">No anul·lada</string> <!-- This is an adjective as in "Not void transaction" -->
-    <string name="pending2">Pendent</string> <!--- As in it is a new transaction, and I need to review and accept it -->
+	<string name="pending2">Pendent</string> <!--- As in it is a new transaction, and I need to review and accept it -->
 	<string name="exported_transaction">Exportada</string>
-    <string name="not_exported_transaction1">No exportada</string>
-    <string name="not_exported_transaction2">@string/not_exported_transaction1</string>
-    <string name="edit_notes">Editar notes</string>
-    <string name="notes_created">Notes creades</string>
-    <string name="notes_edited">Notes editades</string>
-    <string name="notes_deleted">Notes esborrades</string>
-    <string name="notes_creation_canceled">Creació de notes cancel·lada</string>
-    <string name="flag_for_follow_up">Indicador per a seguiment</string>
-    <string name="edit_follow_up">Editar seguiment</string>
-    <string name="make_recurring">Fer recurrent</string>
-    <string name="follow_up2">Seguiment</string>
-    <string name="follow_up_by">Seguiment per</string>
-    <string name="follow_up_created">Seguiment creat</string>
-    <string name="follow_up_edited">Seguiment editat</string>
-    <string name="follow_up_deleted">Seguiment esborrat</string>
-    <string name="follow_up_creation_canceled">Creació del seguiment cancel·lat</string>
-    <string name="go_to">Anar a</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
-    <string name="number">Número</string>
-    <string name="transfer">Transferència</string>
-    <string name="transfers">Transferències</string>
-    <string name="transfer_account">Compte de transferència</string>
-    <string name="add">Afegir</string>
-    <string name="added">Afegida</string>
-    <string name="add_canceled">Afegir cancel·lat</string>
-    <string name="accept_and_edit">Acceptar i Editar</string>
-    <string name="add_and_close">Afegir i Tancar</string>
-    <string name="duplicate_copy_move">Duplicar, copiar o moure</string>
-    <string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
-    <string name="duplicate_transaction">Duplicar transacció</string>
-    <string name="duplicate_in_current_account">Duplicar en el compte actual</string>
-    <string name="copy_to_another_account">Copiar a un altre compte</string>
-    <string name="move_to_another_account">Moure a un altre compte</string>
-    <string name="copy_transaction">Copiar transacció</string>
-    <string name="move_transaction">Moure transacció</string>
-    <string name="move_transactions">Moure transaccions</string>
-    <string name="do_not_duplicate_notes">No duplicar les notes</string>
-    <string name="account_not_found">Compte no trobat</string>
-    <string name="cannot_transfer_to_itself">No es pot transferir a si mateix</string>
-    <string name="cannot_copy_to_itself">No es pot copiar/moure a si mateix</string>
-    <string name="copy_move_currency_warning">El compte de destí té una divisa diferent. Podria ser necessari ajustar la quantitat de la transacció en el compte de destí</string>
-    <string name="all_transactions_hidden_by_filter">Totes les transaccions estan ocultes pel filtre de visualització</string>
-    <string name="show_number">Mostrar número</string>
-    <string name="show_number_description">Mostar el número, en cas d’haver-hi</string>
-    <string name="show_notes">Mostrar notes</string>
-    <string name="show_notes_description">Mostrar notes, en cas d’haver-hi</string>
-    <string name="classification_cannot_fit_warning_part1">A la finestra de transacció, degut a la manca d’espai a la pantalla, no es podran veure totes les classificacions sense haver-se de desplaçar</string>
-    <string name="classification_cannot_fit_warning_part2">Voleu amagar algunes de les etiquetes per a alliberar espai</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="classification_cannot_fit_warning_part3">Es podrà canviar aquest paràmetre més tard</string>
-    <string name="ask_to_edit_related_transaction_message_part1">Degut a que l’altre part de la transacció és una divisió, haurà d’editar-la allà</string>
-    <string name="ask_to_edit_related_transaction_message_part2">Vol editar l’altra transacció ara</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="transaction_modified_message">La transacció serà modificada</string>
-    <string name="transaction_confirm_save_on_back_press_message_format">La transacció s’ha modificat.\n\nToqui ^1 per a desar la transacció, ^2 per a tornar a l’edició de la transacció, o ^3 per a descartar els canvis</string>
-    <string name="split_confirm_save_on_back_press_message_format">La divisió s’ha modificat.\n\nToqui ^1 per a desar la divisió, ^2 per a tornar a l’edició de la divisió, o ^3 per a descartar els canvis</string>
-    <string name="transaction_modified_reconciled_message">Una transacció conciliada serà modificada</string>
-    <string name="transaction_modified_related_reconciled_message">L’altra part d’aquesta transacció, que està conciliada, serà modificada</string>
-    <string name="records_may_differ">Això podria provocar que els seus registres variïn dels de l’institució financera</string>
-    <string name="missing_category_warning_message_format">És altament recomanable especificar una categoria ja que, sense ella, els informes de despeses podrien ser inexactes.\n\nToqui ^1 per a desar la transacció i deixar-la sense assignar-hi una categoria, o ^2 per a tornar a l’edició de la transacció</string>
-    <string name="expense_category_given_for_income_message_format">S’ha especificat una categoria de despesa per ^1.\n\nToqui ^2 per a deixar la categoria tal i com està, o ^3 per a tornar a la pantalla d’edició de la transacció</string> <!-- the ^1 parameter comes from amount1_description array -->
-    <string name="income_category_given_for_expense_message_format">S’ha especificat una categoria d’ingrés per ^1.\n\nToqui ^2 per a deixar la categoria tal i com està, o ^3 per a tornar a la pantalla d’edició de la transacció</string> <!-- the ^2 parameter comes from amount2_description array -->
-    <string name="payee_not_found_format">Beneficiari ^1 no trobat</string>
-    <string name="payer_not_found_format">Pagador ^1 no trobat</string>
-    <string name="would_you_like_to_create_it">Vol crear-lo</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="amount_zero_warning_message_format">L’import de la transacció és zero.\n\nToqui ^1 per a deixar-la a zero, o ^2 per a introduir una transacció anul·lada</string>
-    <string name="sum_of_splits_warning_message_format">La suma de les divisions no correspon a l’import de la transacció.\n\nToqui ^1 per a editar les divisions</string>
-    <string name="duplicate_number_message_format">Una transacció amb data ^1 ja està fent servir aquest número de xec.\n\nToqui ^2 per a reutilitzar el número de xec, o ^3 per a tornar a la pantalla d’edició de la transacció</string>
-    <string name="leave_zero">Deixar a 0</string>
-    <string name="credits">Crèdits</string>
-    <string name="no_credits">Cap crèdit</string>
-    <string name="deposits">Dipòsits</string>
-    <string name="no_deposits">Cap dipòsit</string>
-    <string name="checks">Xecs</string> <!-- As in check book -->
-    <string name="no_checks">Cap xec</string> <!-- As in check book -->
-    <string name="charges">Càrrecs</string>
-    <string name="no_charges">Cap càrrec</string>
-    <string name="payments">Pagaments</string>
-    <string name="no_payments">Cap pagament</string>
-    <string name="checks_payments">Xecs i Pagaments</string>
-    <string name="no_checks_payments">Cap xec o pagament</string>
-    <string name="deposits_payments">Dipòsits i Pagaments</string>
-    <string name="no_deposits_payments">Cap dipòsit o pagament</string>
-    <string name="no_unreconciled_transactions">Cap transacció sense conciliar</string>
-    <string name="cleared_all_transactions">Totes les transaccions autoritzades</string>
-    <string name="next_check_number">Següent número de xec</string>
+	<string name="not_exported_transaction1">No exportada</string>
+	<string name="not_exported_transaction2">@string/not_exported_transaction1</string>
+	<string name="edit_notes">Editar notes</string>
+	<string name="notes_created">Notes creades</string>
+	<string name="notes_edited">Notes editades</string>
+	<string name="notes_deleted">Notes esborrades</string>
+	<string name="notes_creation_canceled">Creació de notes cancel·lada</string>
+	<string name="flag_for_follow_up">Indicador per a seguiment</string>
+	<string name="edit_follow_up">Editar seguiment</string>
+	<string name="make_recurring">Fer recurrent</string>
+	<string name="follow_up2">Seguiment</string>
+	<string name="follow_up_by">Seguiment per</string>
+	<string name="follow_up_created">Seguiment creat</string>
+	<string name="follow_up_edited">Seguiment editat</string>
+	<string name="follow_up_deleted">Seguiment esborrat</string>
+	<string name="follow_up_creation_canceled">Creació del seguiment cancel·lat</string>
+	<string name="go_to">Anar a</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
+	<string name="number">Número</string>
+	<string name="transfer">Transferència</string>
+	<string name="transfers">Transferències</string>
+	<string name="transfer_account">Compte de transferència</string>
+	<string name="add">Afegir</string>
+	<string name="added">Afegida</string>
+	<string name="add_canceled">Afegir cancel·lat</string>
+	<string name="accept_and_edit">Acceptar i Editar</string>
+	<string name="add_and_close">Afegir i Tancar</string>
+	<string name="duplicate_copy_move">Duplicar, copiar o moure</string>
+	<string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+	<string name="duplicate_transaction">Duplicar transacció</string>
+	<string name="duplicate_in_current_account">Duplicar en el compte actual</string>
+	<string name="copy_to_another_account">Copiar a un altre compte</string>
+	<string name="move_to_another_account">Moure a un altre compte</string>
+	<string name="copy_transaction">Copiar transacció</string>
+	<string name="move_transaction">Moure transacció</string>
+	<string name="move_transactions">Moure transaccions</string>
+	<string name="do_not_duplicate_notes">No duplicar les notes</string>
+	<string name="account_not_found">Compte no trobat</string>
+	<string name="cannot_transfer_to_itself">No es pot transferir a si mateix</string>
+	<string name="cannot_copy_to_itself">No es pot copiar/moure a si mateix</string>
+	<string name="copy_move_currency_warning">El compte de destí té una divisa diferent. Podria ser necessari ajustar la quantitat de la transacció en el compte de destí</string>
+	<string name="all_transactions_hidden_by_filter">Totes les transaccions estan ocultes pel filtre de visualització</string>
+	<string name="show_number">Mostrar número</string>
+	<string name="show_number_description">Mostar el número, en cas d’haver-hi</string>
+	<string name="show_notes">Mostrar notes</string>
+	<string name="show_notes_description">Mostrar notes, en cas d’haver-hi</string>
+	<string name="classification_cannot_fit_warning_part1">A la finestra de transacció, degut a la manca d’espai a la pantalla, no es podran veure totes les classificacions sense haver-se de desplaçar</string>
+	<string name="classification_cannot_fit_warning_part2">Voleu amagar algunes de les etiquetes per a alliberar espai</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="classification_cannot_fit_warning_part3">Es podrà canviar aquest paràmetre més tard</string>
+	<string name="ask_to_edit_related_transaction_message_part1">Degut a que l’altre part de la transacció és una divisió, haurà d’editar-la allà</string>
+	<string name="ask_to_edit_related_transaction_message_part2">Vol editar l’altra transacció ara</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="transaction_modified_message">La transacció serà modificada</string>
+	<string name="transaction_confirm_save_on_back_press_message_format">La transacció s’ha modificat.\n\nToqui ^1 per a desar la transacció, ^2 per a tornar a l’edició de la transacció, o ^3 per a descartar els canvis</string>
+	<string name="split_confirm_save_on_back_press_message_format">La divisió s’ha modificat.\n\nToqui ^1 per a desar la divisió, ^2 per a tornar a l’edició de la divisió, o ^3 per a descartar els canvis</string>
+	<string name="transaction_modified_reconciled_message">Una transacció conciliada serà modificada</string>
+	<string name="transaction_modified_related_reconciled_message">L’altra part d’aquesta transacció, que està conciliada, serà modificada</string>
+	<string name="records_may_differ">Això podria provocar que els seus registres variïn dels de l’institució financera</string>
+	<string name="missing_category_warning_message_format">És altament recomanable especificar una categoria ja que, sense ella, els informes de despeses podrien ser inexactes.\n\nToqui ^1 per a desar la transacció i deixar-la sense assignar-hi una categoria, o ^2 per a tornar a l’edició de la transacció</string>
+	<string name="expense_category_given_for_income_message_format">S’ha especificat una categoria de despesa per ^1.\n\nToqui ^2 per a deixar la categoria tal i com està, o ^3 per a tornar a la pantalla d’edició de la transacció</string> <!-- the ^1 parameter comes from amount1_description array -->
+	<string name="income_category_given_for_expense_message_format">S’ha especificat una categoria d’ingrés per ^1.\n\nToqui ^2 per a deixar la categoria tal i com està, o ^3 per a tornar a la pantalla d’edició de la transacció</string> <!-- the ^2 parameter comes from amount2_description array -->
+	<string name="payee_not_found_format">Beneficiari ^1 no trobat</string>
+	<string name="payer_not_found_format">Pagador ^1 no trobat</string>
+	<string name="would_you_like_to_create_it">Vol crear-lo</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="amount_zero_warning_message_format">L’import de la transacció és zero.\n\nToqui ^1 per a deixar-la a zero, o ^2 per a introduir una transacció anul·lada</string>
+	<string name="sum_of_splits_warning_message_format">La suma de les divisions no correspon a l’import de la transacció.\n\nToqui ^1 per a editar les divisions</string>
+	<string name="duplicate_number_message_format">Una transacció amb data ^1 ja està fent servir aquest número de xec.\n\nToqui ^2 per a reutilitzar el número de xec, o ^3 per a tornar a la pantalla d’edició de la transacció</string>
+	<string name="leave_zero">Deixar a 0</string>
+	<string name="credits">Crèdits</string>
+	<string name="no_credits">Cap crèdit</string>
+	<string name="deposits">Dipòsits</string>
+	<string name="no_deposits">Cap dipòsit</string>
+	<string name="checks">Xecs</string> <!-- As in check book -->
+	<string name="no_checks">Cap xec</string> <!-- As in check book -->
+	<string name="charges">Càrrecs</string>
+	<string name="no_charges">Cap càrrec</string>
+	<string name="payments">Pagaments</string>
+	<string name="no_payments">Cap pagament</string>
+	<string name="checks_payments">Xecs i Pagaments</string>
+	<string name="no_checks_payments">Cap xec o pagament</string>
+	<string name="deposits_payments">Dipòsits i Pagaments</string>
+	<string name="no_deposits_payments">Cap dipòsit o pagament</string>
+	<string name="no_unreconciled_transactions">Cap transacció sense conciliar</string>
+	<string name="cleared_all_transactions">Totes les transaccions autoritzades</string>
+	<string name="next_check_number">Següent número de xec</string>
 	<string name="cleared_transactions_color">Color de les transaccions autoritzades</string>
-    <string name="reconciled_transactions_color">Color de les transaccions conciliades</string>
+	<string name="reconciled_transactions_color">Color de les transaccions conciliades</string>
 	<string name="upcoming_transactions_color">Color de les transaccions properes</string>
-    <string name="text_filter">Filtre de text</string>
-    <string name="profit_and_loss_statement">Situació de Pèrdues i Guanys</string>
+	<string name="text_filter">Filtre de text</string>
+	<string name="profit_and_loss_statement">Situació de Pèrdues i Guanys</string>
 	<string name="transaction_type">Tipus de transacció</string>
 	<string name="transaction_status">Estat de la transacció</string>
 
-    <string name="full_screen_mode">Mode de pantalla completa</string>
-    <string name="full_screen_mode_description">Es mostraran més transaccions, quan està marcat</string>
+	<string name="full_screen_mode">Mode de pantalla completa</string>
+	<string name="full_screen_mode_description">Es mostraran més transaccions, quan està marcat</string>
 
 	<string-array name="amount1_labels">
-        <item>Pagament</item>
-        <item>Despesa</item>
-        <item>Càrrec</item>
-        <item>Pagament</item>
-        <item>Increment</item>
-        <item>Decrement</item>
-        <item>Retirada</item>
-    </string-array>
+		<item>Pagament</item>
+		<item>Despesa</item>
+		<item>Càrrec</item>
+		<item>Pagament</item>
+		<item>Increment</item>
+		<item>Decrement</item>
+		<item>Retirada</item>
+	</string-array>
 	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
-        <item>el pagament</item>
-        <item>la despesa</item>
-        <item>el càrrec</item>
-        <item>el pagament</item>
-        <item>l’increment</item>
-        <item>el decrement</item>
-        <item>la retirada</item>
-    </string-array>
+		<item>el pagament</item>
+		<item>la despesa</item>
+		<item>el càrrec</item>
+		<item>el pagament</item>
+		<item>l’increment</item>
+		<item>el decrement</item>
+		<item>la retirada</item>
+	</string-array>
 	<string-array name="amount2_labels">
-        <item>Dipòsit</item>
-        <item>Rebut</item>
-        <item>Crèdit</item>
-        <item>Principal ingrés</item>
-        <item>Decrement</item>
-        <item>Increment</item>
-        <item>Dipòsit</item>
-    </string-array>
+		<item>Dipòsit</item>
+		<item>Rebut</item>
+		<item>Crèdit</item>
+		<item>Principal ingrés</item>
+		<item>Decrement</item>
+		<item>Increment</item>
+		<item>Dipòsit</item>
+	</string-array>
 	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
-        <item>el dipòsit</item>
-        <item>el rebut</item>
-        <item>el crèdit</item>
-        <item>l’ingrés principal</item>
-        <item>el decrement</item>
-        <item>l’increment</item>
-        <item>el dipòsit</item>
-    </string-array>
+		<item>el dipòsit</item>
+		<item>el rebut</item>
+		<item>el crèdit</item>
+		<item>l’ingrés principal</item>
+		<item>el decrement</item>
+		<item>l’increment</item>
+		<item>el dipòsit</item>
+	</string-array>
 
 	<string-array name="delete_transaction_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
-        <item>^1 transaccions seleccionades seran esborrades</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 transaccions seleccionades seran esborrades</item>
+		<item/> <!-- Not used -->
 	</string-array>
-    <string name="delete_transaction_warning_all"><b>Totes</b> les transaccions seran esborrades</string>
+	<string name="delete_transaction_warning_all"><b>Totes</b> les transaccions seran esborrades</string>
 	<string name="delete_transaction_warning_reconciled">Una transacció conciliada serà esborrada</string>
-    <string-array name="delete_transaction_warning_reconciled_format_plurals">
-        <item/> <!-- Intentionally left empty -->
-        <item>^1 transaccions seleccionades seran esborrades, de les quals almenys una està conciliada</item>
-        <item/> <!-- Not used -->
+	<string-array name="delete_transaction_warning_reconciled_format_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 transaccions seleccionades seran esborrades, de les quals almenys una està conciliada</item>
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="accept_transaction_confirm_singular">Transaction will be accepted</string>
-    <string-array name="accept_transaction_confirm_format_plurals">
-        <item/> <!-- Intentionally left empty -->
-        <item>^1 transaccions seleccionades seran acceptades</item>
-        <item/> <!-- Not used -->
+	<string-array name="accept_transaction_confirm_format_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 transaccions seleccionades seran acceptades</item>
+		<item/> <!-- Not used -->
 	</string-array>
 </resources>

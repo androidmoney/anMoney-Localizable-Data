@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="default_name_format">^1 #^2</string>
-    <string name="canceled">Canceled</string>
-    <string name="add_favorite">Add to favorites</string>
-    <string name="added_to_favorites">Added to favorites</string>
-    <string name="remove_favorite">Remove from favorites</string>
-    <string name="removed_from_favorites">Removed from favorites</string>
-    <string name="save_canceled">Save canceled</string>
-    <string name="delete_canceled">Delete canceled</string>
-    <string name="create_canceled">Create canceled</string>
-    <string name="edit_canceled">Edit canceled</string>
-    <string name="add_canceled">Add canceled</string>
-    <string name="import_canceled">Import canceled</string>
-    <string name="export_canceled">Export canceled</string>
-    <string name="rename_canceled">Rename canceled</string>
-    <string name="share_canceled">Share canceled</string>
-    <string name="postal_address_hint">Street\nTown/State/ZIP</string>
+	<string name="canceled">Canceled</string>
+	<string name="add_favorite">Add to favorites</string>
+	<string name="added_to_favorites">Added to favorites</string>
+	<string name="remove_favorite">Remove from favorites</string>
+	<string name="removed_from_favorites">Removed from favorites</string>
+	<string name="save_canceled">Save canceled</string>
+	<string name="delete_canceled">Delete canceled</string>
+	<string name="create_canceled">Create canceled</string>
+	<string name="edit_canceled">Edit canceled</string>
+	<string name="add_canceled">Add canceled</string>
+	<string name="import_canceled">Import canceled</string>
+	<string name="export_canceled">Export canceled</string>
+	<string name="rename_canceled">Rename canceled</string>
+	<string name="share_canceled">Share canceled</string>
+	<string name="postal_address_hint">Street\nTown/State/ZIP</string>
 </resources>

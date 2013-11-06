@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="two_part_format_normal_width">^1 ^2</string>
+	<string name="two_part_format_full_width">^1 ^2</string>
+	<string name="sentence_end_period_format">^1.</string>
+	<string name="sentence_end_question_mark_format">^1?</string>
+	<string name="parantheses_format_normal_width">(^1)</string>
+	<string name="parantheses_format_full_width">(^1)</string>
+	<string name="two_items_dash_with_space_format">^1 – ^2</string>
+	<string name="two_items_dash_without_space_format">^1–^2</string>
+	<string name="colon_format">^1:</string>
+	<string name="two_part_slash_format">^1 / ^2</string>
+	<string name="two_part_comma_format">^1, ^2</string>
+<!-- New --> <string name="default_name_format">^1 No. ^2</string> <!-- "Book No. 2" -->
+	<string name="percent_sign">%</string>
+	<string name="percentage_format">^1%</string>
+	<string name="plus_after_format">^1+</string>
+	<string name="plus_before_format">+ ^1</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+	<string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
+	<string name="filter_by_order_format">^2 göre ^1</string> <!-- Example: "All accounts by name" -->
+	<string name="filter_by_direction_order_format">^1 göre ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 göre ^2 ^3 için ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+	<string name="_continue">Devam</string>
+	<string name="continue_question">Devam edilsin mi</string><!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="home">Ana</string> <!-- Home screen -->
+	<string name="home_screen">Ana ekran</string>
+	<string name="previous">Önceki</string>
+	<string name="next">Sonraki</string>
+	<string name="_import">İçe aktar</string> <!-- This is a verb -->
+	<string name="imported">İçe aktarıldı</string>
+	<string name="import_canceled">İçe aktarma iptal edildi</string>
+	<string name="export">Dışa aktar</string> <!-- This is a verb -->
+	<string name="export_canceled">Dışa aktarma iptal edildi</string>
+	<string name="import_export">İçe / dışa aktar</string>
+	<string name="display_options">Görüntüleme seçenekleri</string>
+	<string name="add_favorite">Favorilere ekle</string>
+	<string name="added_to_favorites">Favorilere eklendi</string>
+	<string name="remove">Kaldır</string>
+	<string name="remove_favorite">Favorilerden kaldır</string>
+	<string name="removed_from_favorites">Favorilerden kaldırıldı</string>
+	<string name="save">Kaydet</string> <!-- This is a verb -->
+	<string name="saved">Kaydedildi</string>
+	<string name="save_canceled">Kaydetme iptal edildi</string>
+	<string name="canceled">İptal edildi</string>
+	<string name="delete">Sil</string>
+	<string name="deleted">Silindi</string>
+	<string name="delete_canceled">Silme iptal edildi</string>
+	<string name="create">Oluştur</string>
+	<string name="created">Oluşturuldu</string>
+	<string name="create_canceled">Oluşturma iptal edildi</string>
+	<string name="create_what">Ne oluşturulsun</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="edit">Düzenle</string>
+	<string name="edit_canceled">Düzenleme iptal edildi</string>
+	<string name="edit_which">Hangisi düzenlensin</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="copy">Kopyala</string>
+	<string name="copied">Kopyalandı</string>
+	<string name="move">Taşı</string> <!-- Move an item -->
+	<string name="moved">Taşındı</string>
+	<string name="duplicate">Klonla</string>
+	<string name="duplicated">Klonlandı</string>
+	<string name="rename">Yeniden adlandır</string>
+	<string name="renamed">Yeniden adlandırıldı</string>
+	<string name="rename_canceled">Yeniden adlandırma iptal edildi</string>
+	<string name="link">İliştir</string>
+	<string name="linked">İliştirildi</string>
+	<string name="combine">Birleştir</string>
+	<string name="combined">Birleştirildi</string>
+	<string name="copy_to_clipboard">Panoya kopyala</string>
+	<string name="set">Ayarla</string> <!-- Set a value -->
+	<string name="share">Paylaş</string>
+	<string name="share_canceled">Paylaşma iptal edildi</string>
+	<string name="create_in_app_name_format">^1 de oluştur</string> <!-- Create in Contacts -->
+	<string name="pick_from_app_name_format">^1 den çek</string> <!-- Pick from Contacts -->
+	<string name="do_not_ask_again">Bir daha sorma</string>
+	<string name="apply_to_all">Hepsine uygula</string>
+	<string name="all_items">Tüm öğeler</string>
+	<string name="notes">Notlar</string> <!-- This is noun as in "I added some notes/comments" -->
+	<string name="no_notes">Henüz not yok</string>
+	<string name="required">Gerekiyor</string>
+	<string name="name">Adı</string>
+	<string name="invalid_name">Geçersiz isim</string>
+	<string name="name_exists">İsim var</string>
+	<string name="amount">Miktar</string>
+	<string name="start_date">Başlangıç tarihi</string>
+	<string name="end_date">Bitiş tarihi</string>
+	<string name="must_be_less_than_format">Olmalı ^1</string>
+	<string name="must_be_greater_than_format">^1 büyük olmalı</string>
+	<string name="reset">Sıfırla</string>
+	<string name="total">Toplam</string>
+	<string name="grand_total">Genel toplam</string> <!-- Grand total amount -->
+	<string name="average">Ortalama</string> <!-- Average amount -->
+	<string name="export_file_name">Dışa aktarma dosya adı</string>
+	<string name="specify_export_file_name">Dışa aktarma dosya adı belirle</string>
+	<string name="file_exists">Bu isimde bir dosya zaten var</string>
+	<string name="folder_exists">Bu isimde bir klasör zaten var</string>
+	<string name="choose_another_name">Başka bir isim seç</string>
+	<string name="will_be_overwritten">Üzerine yazılacak</string>
+	<string name="calendar">Takvim</string>
+	<string name="remind_me">Bana hatırlat</string>
+	<string name="add_as_a_contact">Rehber öğesi ekle</string>
+	<string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
+	<string name="to">e</string> <!-- To <account> -->
+	<string name="from">den</string> <!-- From <account> -->
+	<string name="send_email">Eposta gönder</string>
+	<string name="please_read">Lütfen okuyunuz</string>
+	<string name="rate_app_format">^1 oyla</string> <!-- ^1 is app name -->
+	<string name="please_rate_app_format">Lütfen ^1 oylamak için\nbir dakika ayırın</string> <!-- ^1 is app name -->
+	<string name="later_rate_description">Yaklaşık bir hafta içinde tekrar hatırlatılacak</string>
+	<string name="no_rate_description_format">Bunu istediğiniz zaman ^1 ekranından yapabilirsiniz</string> <!-- ^1 is "Settings" -->
+	<string name="task_killer_warning_format">Uygulama sonlandırıcı “task killer” uyarısı:\n\nCihazınız önceden belirlenmiş işlemleri yerine getirmek için günde bir kere uyandırılacak. Bu işlem birkaç saniye sürer ve bataryanız üzerinde olumsuz bir etkisi yoktur.\n\n Uygulama sonlandırıcılar bu işlemin yerine getirilmesini engelleyeceği icin ^1 ile birlikte kullanılmamalıdır ya da ayrıcalıklı olması sağlanmalıdır</string> <!-- ^1 is app name -->
+	<string name="no_thanks">Hayır, Teşekkürler</string>
+	<string name="maybe_later">Belki daha sonra</string>
+	<string name="unexpected_error_warning">anMoney bilinmeyen bir hata nedeniyle durduruldu.\n\n Lütfen bu sorunu düzeltebilmemiz için hata raporu e-postasını gönderin. Göndermeden e-postayı düzenleyebilirsiniz.\n\nİşbirliğiniz için teşekkürler</string>
+	<string name="unexpected_error_notification_ticker">Bilinmeyen hata.  Lütfen rapor gönderin</string>
+	<string name="unexpected_error_notification_title">anMoney durduruldu</string>
+	<string name="unexpected_error_notification_text">Rapor göndermek için buraya tıklayın</string>
+	<string name="unexpected_error_comment">Sakıncası yoksa, lütfen uygulama durduğunda ne yapıyor olduğunuzu belirtin</string>
+	<string name="archiving">Arşivleniyor</string>
+	<string name="archiving_settings">Arşivleme ayarları</string>
+	<string name="more">Daha fazla</string>
+	<string name="specify_options">Seçenekleri belirleyin</string>
+	<string name="expand_all">Tümünü genişlet</string>
+	<string name="all_expanded">Tumu genişletildi</string>
+	<string name="collapse_all">Tümünü daralt</string>
+	<string name="all_collapsed">Tümü daraltıldı</string>
+	<string name="postal_address">Posta Adresi</string>
+	<string name="postal_address_hint">Sokak\nMahalle\nPosta kodu</string> <!-- Replace this with locale specific fields -->
+	<string name="cannot_perform_sd_card_operation">Bu işlem gerçekleştirilemiyor. Ya cihazına takılı bir hafıza kartı yok ya da cihaz bilgisayara bağlı olduğu için hafıza kartına erişim engellenmiş durumda</string>
+	<string name="cannot_perform_file_system_operation_format">Dahili hafıza veri yolu (^1) erişimi mümkün olmadığı için bu işlem gerçekleştirilemiyor</string>
+	<string name="please_correct_and_try_again">Lütfen doğrulayın ve tekrar deneyin</string>
+	<string name="no_network_message_format">^1 lisans doğrulaması amacıyla periyodik ağ bağlantısı gerektirir.\n\n Lütfen ağ bağlantısını etkinleştirin ve tekrar deneyin. Sonrasında ag erişimini kapatabilirsiniz.\n\n ^2 tıklamak sizi ^3 ayarlarına götürerektir</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
+	<string name="calculator">Hesap makinesi</string>
+	<string name="only_in_full_version">Sadece PRO sürümde</string>
+	<string name="will_not_effect_transactions">Bu <b>mevcut</b> işlemlerin hiçbirini etkilemeyecektir</string>
+
+	<string name="free_limitations">Takip eden sınırlamaları kaldırmak için PRO sürümü satın alabilirsiniz:\n\n
+	<li>Sifre ile güvenlik yok</li>\n
+	<li>Otomatik yedekleme yapamıyorsunuz</li>\n
+	<li>Rapor özelleştirilmesi yok</li>\n
+	<li>Sadece QIF içe aktarma mevcut</li>\n
+	<li>Rehber öğesi ilişkilendirme yok</li>\n
+	<li>En fazla 2 banka, 1 kredi kartı ve 1 nakit hesap eklenebilir</li>\n
+	<li>En fazla 5 bütçe öğesi</li>\n
+	<li>En fazla 3 tekrarlayan işlem</li>
+	</string>
+
+	<string name="no_items">Herhangi bir öğe yok</string>
+	<string name="no_items_yet">Henüz herhangi bir öğe yok</string>
+	<string-array name="items_format_plurals">
+		<item/> <!-- Not used -->
+		<item>^1 öğe</item>
+		<item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="reminder_leads">
+		<item>Bana hatırlatma</item>
+		<item>Gününde</item>
+		<item>Bir gün önce</item>
+		<item>İki gün önce</item>
+		<item>Bir hafta önce</item>
+		<item>İki hafta önce</item>
+	</string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1.</item>
+		<item>2.</item>
+		<item>3.</item>
+		<item>4.</item>
+		<item>5.</item>
+		<item>6.</item>
+		<item>7.</item>
+		<item>8.</item>
+		<item>9.</item>
+		<item>10.</item>
+		<item>11.</item>
+		<item>12.</item>
+		<item>13.</item>
+		<item>14.</item>
+		<item>15.</item>
+		<item>16.</item>
+		<item>17.</item>
+		<item>18.</item>
+		<item>19.</item>
+		<item>20.</item>
+		<item>21.</item>
+		<item>22.</item>
+		<item>23.</item>
+		<item>24.</item>
+		<item>25.</item>
+		<item>26.</item>
+		<item>27.</item>
+		<item>28.</item>
+		<item>29.</item>
+		<item>30.</item>
+		<item>31.</item>
+	</string-array>
+
+	<string name="display_direction">Gösterge yönü</string>
+	<string-array name="sort_direction_items">
+		<item>Artan</item>
+		<item>Azalan</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>artan</item>
+		<item>azalan</item>
+	</string-array>
+</resources>

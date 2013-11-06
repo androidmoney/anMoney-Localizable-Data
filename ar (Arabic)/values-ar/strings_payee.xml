@@ -38,9 +38,9 @@
 	<string name="without_payee">بدون مستفيد</string>
 	<string name="no_payees_yet">لامستفيدين حاليا</string>	
 <!-- TODO --> <string-array name="payee_count_format_plurals">
-        <item/> <!-- Not used -->
-	    <item>^1 payees</item>
-	    <item>^1 payees</item>
+		<item/> <!-- Not used -->
+		<item>^1 payees</item>
+		<item>^1 payees</item>
 	</string-array>
 	
 	<string name="all_payees">جميع المستفيدين</string>
@@ -55,14 +55,14 @@
 	</string-array>
 	
 	<string-array name="payee_list_order_title_bar">
-	    <item>@string/date</item>
-        <item/> <!-- Not used -->
-	    <item>@string/name</item>
-	    <item>@string/amount</item>
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
-        <item/> <!-- Not used -->
+		<item>@string/date</item>
+		<item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 </resources>

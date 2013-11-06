@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="enter_canceled">Enter canceled</string>
+	<string name="enter_canceled">Enter canceled</string>
 	<string name="skip_canceled">Skip canceled</string>
 	<string name="pay_by_check">I pay this by check</string>
-    <string name="edit_template_warning">There are customized future occurrences.\n\nEditing the series will remove these customizations</string>
+	<string name="edit_template_warning">There are customized future occurrences.\n\nEditing the series will remove these customizations</string>
 	<string name="biweekly">Biweekly</string>
 </resources>

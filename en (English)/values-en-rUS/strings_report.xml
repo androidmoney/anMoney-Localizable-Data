@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="favorite_reports">Favorite reports</string>
-    <string name="report_canceled">Report canceled</string>
-    <string name="reset_canceled">Reset canceled</string>
+	<string name="report_canceled">Report canceled</string>
+	<string name="reset_canceled">Reset canceled</string>
 </resources>

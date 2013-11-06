@@ -60,6 +60,7 @@
 	<string name="import_folder">Import mappa</string>
 	<string name="export_folder">Export mappa</string>
     <string name="ask_to_view_imported_transaction">Meg szeretné nézni az importált tranzakciókat</string>
+	<string name="import_same_time_warning">Ha több mint egy számlát probál importálni, győződjön meg arra, hogy egyszerre importálja őket. Egyenkéti importálás ismétlődő tranzakciókat hozhat létre, és emiatt ezt el kell kerülni</string> 
     <string name="tip">Ötlet</string>
     <string name="user_guide">Kézikönyv (angolul)</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>

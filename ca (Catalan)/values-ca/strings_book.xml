@@ -1,257 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>    
-    <string name="book">Llibre</string>
-    <string name="new_book">Nou llibre</string>
-    <string name="new_book_name">Nom del nou llibre</string>
-    <string name="rename_book">Canviar nom al llibre</string>
-    <string name="delete_book">Esborrar llibre</string>
-    <string name="share_book">Compartir llibre</string>
-    <string name="book_delete_warning_short_format">El llibre ^1 serà esborrat</string>
-    <string name="all_data_will_be_lost">Totes les dades en aquest llibre es perdran de forma permanent, si no s’han fet còpies de seguretat</string>
-    <string name="import_into_book">Importar al llibre</string>
-    <string name="export_from_book">Exportar des del llibre</string>
-    <string name="import_into_book_format">Importar al llibre ^1</string>
-    <string name="no_books">No teniu cap llibre</string>
-    <string name="upgrading_book">Actualitzant llibre</string>
-    <string name="upgrading_books">Actualitzant llibres</string>
-    <string name="backup">Còpia de seguretat</string>
-    <string name="backup_canceled">Còpia de seguretat cancel·lada</string>
-    <string name="backup_book">Còpia de seguretat del llibre</string>
-    <string name="overwrite">Sobreescriure</string>
-    <string name="backup_name">Nom de la còpia de seguretat</string>
-    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="restore">Restaurar</string>
-    <string name="restored">Restaurat</string>
-    <string name="restore_canceled">Restauració cancel·lada</string>
-    <string name="restore_book">Restaurar llibre</string>
-    <string name="restore_warning_format">El llibre ^1 es sobreescriurà i <b>totes</b> les seves dades seran destruides de forma permanent</string>
-    <string name="select_backup_file_to_restore">Seleccionar arxiu de còpia de seguretat a restaurar</string>
-    <string name="select_backup_file_to_create_from">Seleccionar arxiu de còpia de seguretat a partir del qual es crearà</string>
-    <string name="import_statement">Importar extracte</string>
-    <string name="no_sd_card_inserted">No hi ha cap targeta SD inserida</string>
-    <string name="select_files">Arxius seleccionats</string>
-    <string name="delete_file">Esborrar arxiu</string>
-    <string name="delete_file_warning_format">L’arxiu ^1 serà esborrat</string>
+<resources>
+	<string name="book">Llibre</string>
+	<string name="new_book">Nou llibre</string>
+	<string name="new_book_name">Nom del nou llibre</string>
+	<string name="rename_book">Canviar nom al llibre</string>
+	<string name="delete_book">Esborrar llibre</string>
+	<string name="share_book">Compartir llibre</string>
+	<string name="book_delete_warning_short_format">El llibre ^1 serà esborrat</string>
+	<string name="all_data_will_be_lost">Totes les dades en aquest llibre es perdran de forma permanent, si no s’han fet còpies de seguretat</string>
+	<string name="import_into_book">Importar al llibre</string>
+	<string name="export_from_book">Exportar des del llibre</string>
+	<string name="import_into_book_format">Importar al llibre ^1</string>
+	<string name="no_books">No teniu cap llibre</string>
+	<string name="upgrading_book">Actualitzant llibre</string>
+	<string name="upgrading_books">Actualitzant llibres</string>
+	<string name="backup">Còpia de seguretat</string>
+	<string name="backup_canceled">Còpia de seguretat cancel·lada</string>
+	<string name="backup_book">Còpia de seguretat del llibre</string>
+	<string name="overwrite">Sobreescriure</string>
+	<string name="backup_name">Nom de la còpia de seguretat</string>
+	<string name="auto_backup_name_format">^1 (^2 Auto)</string>
+	<string name="restore">Restaurar</string>
+	<string name="restored">Restaurat</string>
+	<string name="restore_canceled">Restauració cancel·lada</string>
+	<string name="restore_book">Restaurar llibre</string>
+	<string name="restore_warning_format">El llibre ^1 es sobreescriurà i <b>totes</b> les seves dades seran destruides de forma permanent</string>
+	<string name="select_backup_file_to_restore">Seleccionar arxiu de còpia de seguretat a restaurar</string>
+	<string name="select_backup_file_to_create_from">Seleccionar arxiu de còpia de seguretat a partir del qual es crearà</string>
+	<string name="import_statement">Importar extracte</string>
+	<string name="no_sd_card_inserted">No hi ha cap targeta SD inserida</string>
+	<string name="select_files">Arxius seleccionats</string>
+	<string name="delete_file">Esborrar arxiu</string>
+	<string name="delete_file_warning_format">L’arxiu ^1 serà esborrat</string>
 	<string-array name="delete_files_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
-        <item>^1 arxius seleccionades seran esborrades</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 arxius seleccionades seran esborrades</item>
+		<item/> <!-- Not used -->
 	</string-array>
-    <string name="select_book">Seleccionar llibre</string>
-    <string name="select_import_file">Seleccionar arxiu(s) per importar</string>
-    <string name="not_specified_brackets">&lt;No especificat></string>
-    <string name="map_accounts">Mapar comptes</string>
-    <string name="configure_account_mappings">Configurar mapatge de comptes</string>
-    <string name="account_required">Compte requerit</string>
-    <string name="duplicate_name">Duplicar nom</string>
-    <string name="options">Opcions</string>
-    <string name="select_options">Seleccionar opcions d’importació</string>
-    <string name="remove_duplicates">Esborrar duplicats</string>
-    <string name="remove_duplicates_notes">Encara que això hauria de funcionar correctament en la gran majoria de casos, podrien haver-hi problemes, especialment si els cmptes tenen quantitats en divises diferents. En aquests casos, la concordança no és possible. Després de la importació, si us plau, comprovi que els saldos són correctes</string>
-    <string name="import_classes">Importar classes</string>
-    <string name="ignore_memos">Ignorar el camp memo</string>
-    <string name="create_payees_in_app_name_format">Crear beneficiaris a ^1</string>
-    <string name="contact_account">Compte del contacte dins el que crear els beneficiaris</string>
-    <string name="select_import_mode">Seleccionar mode d’importació</string>
-    <string name="export_file_format">Format de l’arxiu d’exportació</string>
-    <string name="mark_transactions_exported">Marcar les trasnaccions com exportades</string>
-    <string name="create_single_file">Crear un arxiu únic</string>
-    <string name="no_transactions_matched_your_selection_criteria">Cap transacció concorda amb el criteri de selecció.\n\nNo s’ha creat cap arxiu d’exportació</string>
+	<string name="select_book">Seleccionar llibre</string>
+	<string name="select_import_file">Seleccionar arxiu(s) per importar</string>
+	<string name="not_specified_brackets">&lt;No especificat></string>
+	<string name="map_accounts">Mapar comptes</string>
+	<string name="configure_account_mappings">Configurar mapatge de comptes</string>
+	<string name="account_required">Compte requerit</string>
+	<string name="duplicate_name">Duplicar nom</string>
+	<string name="options">Opcions</string>
+	<string name="select_options">Seleccionar opcions d’importació</string>
+	<string name="remove_duplicates">Esborrar duplicats</string>
+	<string name="remove_duplicates_notes">Encara que això hauria de funcionar correctament en la gran majoria de casos, podrien haver-hi problemes, especialment si els cmptes tenen quantitats en divises diferents. En aquests casos, la concordança no és possible. Després de la importació, si us plau, comprovi que els saldos són correctes</string>
+	<string name="import_classes">Importar classes</string>
+	<string name="ignore_memos">Ignorar el camp memo</string>
+	<string name="create_payees_in_app_name_format">Crear beneficiaris a ^1</string>
+	<string name="contact_account">Compte del contacte dins el que crear els beneficiaris</string>
+	<string name="select_import_mode">Seleccionar mode d’importació</string>
+	<string name="export_file_format">Format de l’arxiu d’exportació</string>
+	<string name="mark_transactions_exported">Marcar les trasnaccions com exportades</string>
+	<string name="create_single_file">Crear un arxiu únic</string>
+	<string name="no_transactions_matched_your_selection_criteria">Cap transacció concorda amb el criteri de selecció.\n\nNo s’ha creat cap arxiu d’exportació</string>
 	<string name="import_folder">Carpeta d’importació</string>
 	<string name="export_folder">Carpeta d’exportació</string>
-    <string name="ask_to_view_imported_transaction">Vol veure les transaccions importades</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="tip">Consell</string>
-    <string name="user_guide">Manual de l’usuari</string>
+	<string name="ask_to_view_imported_transaction">Vol veure les transaccions importades</string> <!-- This is a question, but the question mark will be added progrmatically -->
+<!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
+	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
+	<string name="tip">Consell</string>
+	<string name="user_guide">Manual de l’usuari</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
-    <string name="whats_new">Novetats</string>
-    <string name="license">Llicència</string>
-<!--     
-    <string name="accept_license">Acceptar llicència</string>
-    <string name="decline">Rebutjar</string>
--->    
-    <string name="thank_you">Gràcies!</string>
-    <string name="password">Contrasenya</string>
-    <string name="old_password">Antiga contrasenya</string>
-    <string name="new_password">Nova contrasenya</string>
-    <string name="verify_password">Verificació de contrasenya</string>
-    <string name="enter_password">Introduir contrasenya</string>
-    <string name="incorrect_password">Contrasenya incorrecte. Si us plau, torneu-la a entrar</string>
-    <string name="set_password">Establir contrasenya</string>
-    <string name="password_set">Contrasenya establerta</string>
-    <string name="edit_password">Editar contrasenya</string>
-    <string name="remove_password">Esborrar contrasenya</string>
-    <string name="password_removed">Contrasenya esborrada</string>
-    <string name="remove_password_message">La contrasenya serà esborrada.\n\nLes dades seran visibles per a tota persona que tingui accés al seu dispositiu</string>
-    <string name="password_has_not_been_changed">No s’ha canviat la contrasenya</string>
-    <string name="passwords_dont_match">Les contrasenyes no són iguals</string>
-    <string name="case_sensitive">distingeix entre majúscules i minúscules</string>
-    <string name="disclaimer">Descàrrec</string>
-    <string name="password_disclaimer">Si us plau, llegeixi aquest descàrrec i marqui la casella que trobarà al final.\n\nNoti que la característica de contrasenya ha estat dissenyada per facilitar la privacitat debant “mirades indiscretes”.  Degut a les limitacions de la plataforma, el xifrat real de les dades no és factible i algú amb habilitats avançades podria accedir a les dades encara que hi hagi una contrasenya.\n\nÉs altament recomanable protegir el dispositiu amb un patró de bloqueig o bé un PIN com a mesura de seguretat addicional</string>
-    <string name="i_understand_the_limitations">Entenc aquestes limitacions</string>
-    <string name="set_password_now_part1">Vol establir una contrasenya ara</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="whats_new">Novetats</string>
+	<string name="license">Llicència</string>
+<!--
+	<string name="accept_license">Acceptar llicència</string>
+	<string name="decline">Rebutjar</string>
+-->
+	<string name="thank_you">Gràcies!</string>
+	<string name="password">Contrasenya</string>
+	<string name="old_password">Antiga contrasenya</string>
+	<string name="new_password">Nova contrasenya</string>
+	<string name="verify_password">Verificació de contrasenya</string>
+	<string name="enter_password">Introduir contrasenya</string>
+	<string name="incorrect_password">Contrasenya incorrecte. Si us plau, torneu-la a entrar</string>
+	<string name="set_password">Establir contrasenya</string>
+	<string name="password_set">Contrasenya establerta</string>
+	<string name="edit_password">Editar contrasenya</string>
+	<string name="remove_password">Esborrar contrasenya</string>
+	<string name="password_removed">Contrasenya esborrada</string>
+	<string name="remove_password_message">La contrasenya serà esborrada.\n\nLes dades seran visibles per a tota persona que tingui accés al seu dispositiu</string>
+	<string name="password_has_not_been_changed">No s’ha canviat la contrasenya</string>
+	<string name="passwords_dont_match">Les contrasenyes no són iguals</string>
+	<string name="case_sensitive">distingeix entre majúscules i minúscules</string>
+	<string name="disclaimer">Descàrrec</string>
+	<string name="password_disclaimer">Si us plau, llegeixi aquest descàrrec i marqui la casella que trobarà al final.\n\nNoti que la característica de contrasenya ha estat dissenyada per facilitar la privacitat debant “mirades indiscretes”. Degut a les limitacions de la plataforma, el xifrat real de les dades no és factible i algú amb habilitats avançades podria accedir a les dades encara que hi hagi una contrasenya.\n\nÉs altament recomanable protegir el dispositiu amb un patró de bloqueig o bé un PIN com a mesura de seguretat addicional</string>
+	<string name="i_understand_the_limitations">Entenc aquestes limitacions</string>
+	<string name="set_password_now_part1">Vol establir una contrasenya ara</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="set_password_now_part2_format">Encara que respongui ^1, tindrà l’opció d’establir una contrasenya en qualsevol moment fent un toc prolongat a sobre del nom del llibre i tocant ^2</string>
-    <string name="folder_name_format">Nom de la carpeta (utilitzi ^1 per a subcarpetes)</string>
-    <string name="no_backup_files">No s’han trobat arxius de còpia de seguretat</string>
-    <string name="no_backup_files_new_instructions">Si està intentant crear un llibre a partir d’un arxiu d’importació, si us plau, creeu un llibre des de zero en primer lloc, i després feu-hi l’importació</string>
-    <string name="remove_transactions">Esborrar transaccions més antigues que la data especificada més avall</string>
-    <string name="book_to_make_copy_of">Llibre del qual s’en farà còpia</string>
-    <string name="truncate_warning_format">Totes les transaccions abans del ^1 seran destruides de forma irrecuperable</string>
-    <string name="information_and_help">Informació i ajuda</string>
-    <string name="discussion_forum">Fòrum de discussió</string>
-    <string name="join_the_user_community_format">Unir-se a la comunitat d’usuaris de ^1</string>
-    <string name="contact_us">Contacteu-nos</string>
-    <string name="email_the_developers">Envieu un correu als desenvolupadors directament</string>
-    <string name="tap_to_display_import_settings_format">Tocant ^1 es mostrarà la pantalla de configuració de la importació</string>
-    <string name="verify_import_settings">Si us plau, verifiqueu que els paràmetres per defecte escollits són, realment, correctes per a l’arxiu que esteu important. Si tot es veu bé, premeu la fletxa <b>Enrere</b> per a continuar amb el procés d’importació</string>
-    <string name="change_settings_instructions_format">Aquest missatge no apareixerà en posteriors importacions, però es podran canviar els paràmetres en qualsevol moment fent un toc a ^i en la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
-    <string name="bad_import_settings">El(s) següent(s) paràmetre(s) sembla(en) incorrecte(s) per a l’arxiu que s’està intentant importar</string>
-    <string name="qif_csv_encoding_explanation_format">Normalment ^1 ha de ser emprat pels idiomes a la llista de més avall, però algunes institucions financeres podrien produir arxius en els que se’ls ha de seleccionar ^2 per a una importació correcte.\n\nPer a tots aquells idiomes que NO estiguin a la llista, ^2 ha de ser seleccionat sempre</string>
-    <string name="credits_legal">Crèdits i avís legal</string>
-    <string name="contact_and_social">Contacte i xarxes socials</string>
-    <string name="follow_us">Seguiu-nos</string>
-    <string name="add_us_to_circle">Afegiu-nos als vostres cercles i doneu-nos un +1</string>
-    <string name="become_a_fan">Feu-vos fan</string>
-    <string name="haptic_feedback">Resposta hàptica</string>
-    <string name="haptic_feedback_description">Si seleccionat, vibrar quan es toquen els botons</string>
+	<string name="folder_name_format">Nom de la carpeta (utilitzi ^1 per a subcarpetes)</string>
+	<string name="no_backup_files">No s’han trobat arxius de còpia de seguretat</string>
+	<string name="no_backup_files_new_instructions">Si està intentant crear un llibre a partir d’un arxiu d’importació, si us plau, creeu un llibre des de zero en primer lloc, i després feu-hi l’importació</string>
+	<string name="remove_transactions">Esborrar transaccions més antigues que la data especificada més avall</string>
+	<string name="book_to_make_copy_of">Llibre del qual s’en farà còpia</string>
+	<string name="truncate_warning_format">Totes les transaccions abans del ^1 seran destruides de forma irrecuperable</string>
+	<string name="information_and_help">Informació i ajuda</string>
+	<string name="discussion_forum">Fòrum de discussió</string>
+	<string name="join_the_user_community_format">Unir-se a la comunitat d’usuaris de ^1</string>
+	<string name="contact_us">Contacteu-nos</string>
+	<string name="email_the_developers">Envieu un correu als desenvolupadors directament</string>
+	<string name="tap_to_display_import_settings_format">Tocant ^1 es mostrarà la pantalla de configuració de la importació</string>
+	<string name="verify_import_settings">Si us plau, verifiqueu que els paràmetres per defecte escollits són, realment, correctes per a l’arxiu que esteu important. Si tot es veu bé, premeu la fletxa <b>Enrere</b> per a continuar amb el procés d’importació</string>
+	<string name="change_settings_instructions_format">Aquest missatge no apareixerà en posteriors importacions, però es podran canviar els paràmetres en qualsevol moment fent un toc a ^i en la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
+	<string name="bad_import_settings">El(s) següent(s) paràmetre(s) sembla(en) incorrecte(s) per a l’arxiu que s’està intentant importar</string>
+	<string name="qif_csv_encoding_explanation_format">Normalment ^1 ha de ser emprat pels idiomes a la llista de més avall, però algunes institucions financeres podrien produir arxius en els que se’ls ha de seleccionar ^2 per a una importació correcte.\n\nPer a tots aquells idiomes que NO estiguin a la llista, ^2 ha de ser seleccionat sempre</string>
+	<string name="credits_legal">Crèdits i avís legal</string>
+	<string name="contact_and_social">Contacte i xarxes socials</string>
+	<string name="follow_us">Seguiu-nos</string>
+	<string name="add_us_to_circle">Afegiu-nos als vostres cercles i doneu-nos un +1</string>
+	<string name="become_a_fan">Feu-vos fan</string>
+	<string name="haptic_feedback">Resposta hàptica</string>
+	<string name="haptic_feedback_description">Si seleccionat, vibrar quan es toquen els botons</string>
 	<string name="default_book_name">El meu llibre</string>
 	<string name="color_theme">Tema de color</string>
-	<string name="dark">Fosc</string>  <!-- As in "dark color theme" -->
+	<string name="dark">Fosc</string> <!-- As in "dark color theme" -->
 	<string name="light">Lluminós</string> <!-- As in "opposite of dark" -->
 	<string name="preview">Previsualitzar</string>
 	
 	<string-array name="book_new_source">
-	    <item>Crear des de zero</item>
-	    <item>Crear des de còpia de seguretat</item>
-	    <item>Copiar d’un llibre existent</item>
-    </string-array>
+		<item>Crear des de zero</item>
+		<item>Crear des de còpia de seguretat</item>
+		<item>Copiar d’un llibre existent</item>
+	</string-array>
 
 	<string-array name="book_new_source_descriptions">
-	    <item/> <!-- Intentionally left empty -->
-	    <item/> <!-- Intentionally left empty -->
-	    <item>i, opcionalment, truncar en una data determinada</item>
-    </string-array>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>i, opcionalment, truncar en una data determinada</item>
+	</string-array>
 	
 	<string-array name="import_mode">
-        <item>Extractes descarregats d’entitats financeres</item>
-        <item>Dades exportades per part d’un altre programari</item>
-    </string-array>
-
+		<item>Extractes descarregats d’entitats financeres</item>
+		<item>Dades exportades per part d’un altre programari</item>
+	</string-array>
+	
 	<string-array name="import_mode_description">
-        <item>Emprat per extractes descarregats des de diverses entitats financeres, com ara extractes de final de més de l’American Express. Ambdós formats <b>QIF</b> i <b>OFX/QFX/OFS</b> estan suportats. L’arxiu o arxius d’importació no han d’incloure transferències entre comptes</item>
-        <item>Emprat per transferir dades des d’un altre programari de finances personals, com ara Microsoft® Money o Quicken®. Només el format <b>QIF</b> està suportat</item>
-    </string-array>
-
-    <string name="qif_ms_money_description">En funció de les classificacions i categories emprades, només podria ser llegible per part de Microsoft Money</string>
+		<item>Emprat per extractes descarregats des de diverses entitats financeres, com ara extractes de final de més de l’American Express. Ambdós formats <b>QIF</b> i <b>OFX/QFX/OFS</b> estan suportats. L’arxiu o arxius d’importació no han d’incloure transferències entre comptes</item>
+		<item>Emprat per transferir dades des d’un altre programari de finances personals, com ara Microsoft® Money o Quicken®. Només el format <b>QIF</b> està suportat</item>
+	</string-array>
+	
+	<string name="qif_ms_money_description">En funció de les classificacions i categories emprades, només podria ser llegible per part de Microsoft Money</string>
 	<string name="qif_generic_description">Llegible per tots els programaris que suportin el format <b>QIF</b></string>
-    <string name="csv_description">Llegible pels programaris de full de càlcul, com ara Microsoft® Excel o Google™ Docs. La primera fila exportada conté les capçaleres de les columnes, seguit d’una fila per cada transacció</string>
-
-    <string name="import_file_confirm_format">Vol importar ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="csv_description">Llegible pels programaris de full de càlcul, com ara Microsoft® Excel o Google™ Docs. La primera fila exportada conté les capçaleres de les columnes, seguit d’una fila per cada transacció</string>
+	
+	<string name="import_file_confirm_format">Vol importar ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
-        <item>Vol importar els ^1 arxius</item> <!-- This is a question, but the question mark will be added progrmatically -->
-        <item/> <!-- Not used -->
-    </string-array>
-
-    <string name="general">General</string>
-    <string name="starting_screen">Pantalla inicial</string>
-    <string name="negative_amount_format">Format d’imports negatius</string>
-    
-    <string name="show_currency_symbol">Mostrar el símbol de la divisa</string>
+		<item/> <!-- Not used -->
+		<item>Vol importar els ^1 arxius</item> <!-- This is a question, but the question mark will be added progrmatically -->
+		<item/> <!-- Not used -->
+	</string-array>
+	
+	<string name="general">General</string>
+	<string name="starting_screen">Pantalla inicial</string>
+	<string name="negative_amount_format">Format d’imports negatius</string>
+	
+	<string name="show_currency_symbol">Mostrar el símbol de la divisa</string>
 	<string-array name="show_currency_symbol_items">
 		<item>D’acord amb la divisa</item>
 		<item>Abans de l’import</item>
 		<item>Després de l’import</item>
 	</string-array>
 	
-    <string name="base_currency">Divisa</string>
-    <string name="space_between_symbol_and_amount">Espai entre el símbol i l’import</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
-    
-    <string name="password_time_out_period">Temps d’expiració de la contrasenya</string>
+	<string name="base_currency">Divisa</string>
+	<string name="space_between_symbol_and_amount">Espai entre el símbol i l’import</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+	
+	<string name="password_time_out_period">Temps d’expiració de la contrasenya</string>
 	<string-array name="n_seconds_format_plurals">
-        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
-        <item>^1 segons</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+		<item>^1 segons</item>
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
-        <item>^1 minut</item>
-        <item>^1 minuts</item>
-        <item/> <!-- Not used -->
+		<item>^1 minut</item>
+		<item>^1 minuts</item>
+		<item/> <!-- Not used -->
 	</string-array>
-    
-    <string name="set_button_behavior_format">Comportament del botó ^1</string>
+	
+	<string name="set_button_behavior_format">Comportament del botó ^1</string>
 	<string-array name="set_button_behavior_items">
 		<item>Estableix el nombre que es mostra actualment</item>
 		<item>Completa el càlcul i s’estableix el resultat</item>
 	</string-array>
-
-    <string name="confirmations_and_warnings">Confirmacions i advertències</string>
-
-    <string name="warn_if_no_category">Avisar si no hi ha categoria</string>
-    <string name="warn_if_no_category_description">Quan està seleccionat, es mostra una advertència quan no s’especifica categoria</string>
-    
-    <string name="warn_if_incorrect_category_type">Avisa si el tipus de categoria és incorrecte</string>
-    <string name="warn_if_incorrect_category_type_description">Quan està seleccionat, es mostra una advertència si s’ha especificat un tipus de categoria incorrecte</string>
-    
-    <string name="modification_confirmation">Modificació de la confirmació</string>
+	
+	<string name="confirmations_and_warnings">Confirmacions i advertències</string>
+	
+	<string name="warn_if_no_category">Avisar si no hi ha categoria</string>
+	<string name="warn_if_no_category_description">Quan està seleccionat, es mostra una advertència quan no s’especifica categoria</string>
+	
+	<string name="warn_if_incorrect_category_type">Avisa si el tipus de categoria és incorrecte</string>
+	<string name="warn_if_incorrect_category_type_description">Quan està seleccionat, es mostra una advertència si s’ha especificat un tipus de categoria incorrecte</string>
+	
+	<string name="modification_confirmation">Modificació de la confirmació</string>
 	<string-array name="modification_confirmation_items">
 		<item>Cap</item>
 		<item>Només conciliades</item>
 		<item>Tot</item>
 	</string-array>
 	
-    <string name="back_press_prompt">Preguntar en prémer el botó Enrere</string>
-    <string name="back_press_prompt_description">Quan està seleccionat, se li preguntarà si vol guardar els canvis quan premi el botó Enrere</string>
-    
-    <string name="new_payee_confirmation">Confirmació de nou beneficiari</string>
-    <string name="new_payee_confirmation_description">Quan està seleccionat, es mostarà una solicitut de confirmació abans de crear un nou beneficiari</string>
-    
-    <string name="duplicate_check_number">Duplicar el número de xec</string>
-    <string name="duplicate_check_number_description">Quan està seleccionat, es mostarà un avís si el número de xec ja havia estat emprat</string>
-    
-    <string name="field_with_initial_focus">Camp amb l’enfoc inicial</string>
-    
-    <string name="show_keyboard_automatically">Mostar el teclat automàticament</string>
+	<string name="back_press_prompt">Preguntar en prémer el botó Enrere</string>
+	<string name="back_press_prompt_description">Quan està seleccionat, se li preguntarà si vol guardar els canvis quan premi el botó Enrere</string>
+	
+	<string name="new_payee_confirmation">Confirmació de nou beneficiari</string>
+	<string name="new_payee_confirmation_description">Quan està seleccionat, es mostarà una solicitut de confirmació abans de crear un nou beneficiari</string>
+	
+	<string name="duplicate_check_number">Duplicar el número de xec</string>
+	<string name="duplicate_check_number_description">Quan està seleccionat, es mostarà un avís si el número de xec ja havia estat emprat</string>
+	
+	<string name="field_with_initial_focus">Camp amb l’enfoc inicial</string>
+	
+	<string name="show_keyboard_automatically">Mostar el teclat automàticament</string>
 	<string name="show_keyboard_automatically_description">Quan està seleccionat, es mostrarà el teclat emergent a l’afegir una nova transacció</string>
-	    
-    <string name="notes_in_transaction_window">Notes a la finestra de transacció</string>
-    <string name="notes_in_transaction_window_description">Quan està seleccionat, es pot editar una línia de notes a la finestra de transacció</string>
-    
-    <string name="new_category_in_transaction_window">Nova categoria a la finestra de transacció</string>
-    <string name="new_category_in_transaction_window_description">Quan està seleccionat, es podrà crear una nova categoria des de dins de la finestra de transacció</string>
-    
-    <string name="hide_labels">Amagar etiquetes</string>
-    <string name="hide_labels_description">Quan està seleccionat, les etiquetes a la finestra de transacció podran amagar-se per a tenir més espai</string>
-    
-    <string name="security">Seguretat</string>
-    
-    <string name="quick_entry_password">Contrasenya d’Entrada Ràpida</string>
-    <string name="quick_entry_password_description">Quan està seleccionat, el «widget» d’Entrada Ràpida demanarà la contrasenya, en cas d’haver-hi</string>
-    
-    <string name="backup_folder">Carpeta de còpies de seguretat</string>
-    
-    <string name="date_in_file_name">Data al nom de l’arxiu</string>
-    <string name="date_in_file_name_description">Quan està seleccionat, la data d’avui serà afegida al nom de l’arxiu en ser enviat</string>
-    
-    <string name="automatic_backup">Còpies de seguretat automàtiques</string>
-    <string name="automatic_backup_description">Quan està seleccionat, es faran còpies de seguretat automàticament d’aquest llibre</string>
-    
-    <string name="backup_how_often">Freqüència de les còpies de seguretat</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    
-    <string name="auto_backup_notify_description">Quan està seleccionat, es mostrarà una notificació després de l’operació de còpia de seguretat</string>
-    
+
+	<string name="notes_in_transaction_window">Notes a la finestra de transacció</string>
+	<string name="notes_in_transaction_window_description">Quan està seleccionat, es pot editar una línia de notes a la finestra de transacció</string>
+	
+	<string name="new_category_in_transaction_window">Nova categoria a la finestra de transacció</string>
+	<string name="new_category_in_transaction_window_description">Quan està seleccionat, es podrà crear una nova categoria des de dins de la finestra de transacció</string>
+	
+	<string name="hide_labels">Amagar etiquetes</string>
+	<string name="hide_labels_description">Quan està seleccionat, les etiquetes a la finestra de transacció podran amagar-se per a tenir més espai</string>
+	
+	<string name="security">Seguretat</string>
+	
+	<string name="quick_entry_password">Contrasenya d’Entrada Ràpida</string>
+	<string name="quick_entry_password_description">Quan està seleccionat, el «widget» d’Entrada Ràpida demanarà la contrasenya, en cas d’haver-hi</string>
+	
+	<string name="backup_folder">Carpeta de còpies de seguretat</string>
+	
+	<string name="date_in_file_name">Data al nom de l’arxiu</string>
+	<string name="date_in_file_name_description">Quan està seleccionat, la data d’avui serà afegida al nom de l’arxiu en ser enviat</string>
+	
+	<string name="automatic_backup">Còpies de seguretat automàtiques</string>
+	<string name="automatic_backup_description">Quan està seleccionat, es faran còpies de seguretat automàticament d’aquest llibre</string>
+	
+	<string name="backup_how_often">Freqüència de les còpies de seguretat</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	
+	<string name="auto_backup_notify_description">Quan està seleccionat, es mostrarà una notificació després de l’operació de còpia de seguretat</string>
+	
 	<string name="backed_up_book_format">Còpia de segurat del llibre ^1</string>
-    <string-array name="backed_up_books_format_plurals">
-        <item/> <!-- Not used -->
-        <item>S’han creat còpies de seguretat de ^1 llibres</item>
-        <item/> <!-- Not used -->
+	<string-array name="backed_up_books_format_plurals">
+		<item/> <!-- Not used -->
+		<item>S’han creat còpies de seguretat de ^1 llibres</item>
+		<item/> <!-- Not used -->
 	</string-array>
-
+	
 	<string-array name="book_exported_format_plurals">
-        <item>S’ha exportat ^1 transacció</item>
-        <item>S’han exportat ^1 transaccions</item>
-        <item/> <!-- Not used -->
+		<item>S’ha exportat ^1 transacció</item>
+		<item>S’han exportat ^1 transaccions</item>
+		<item/> <!-- Not used -->
 	</string-array>
-
+	
 	<string name="failed_to_back_up_book">La còpia de seguretat del llibre ha fallat</string>
 	<string name="no_space_left_on_sd_card">No queda espai a la targeta SD</string>
 	<string name="cannot_restore_newer_version">No es pot restaurar la còpia de seguretat degut a que va ser creada per una versió més recent de ^1.\n\nSi us plau, instaleu la versió més recent de ^1 i torneu a intentar-ho</string>
@@ -260,43 +262,43 @@
 	<string name="folder">Carpeta</string>	
 	<string name="external_storage">Emmagatzematge extern</string>	
 	<string name="path">Camí</string>	
-
-    <string name="qif_csv_date_order">Ordenació per data a QIF/CSV</string>
-
+	
+	<string name="qif_csv_date_order">Ordenació per data a QIF/CSV</string>
+	
 	<string name="comma">Coma</string>	
-    <string name="qif_csv_decimal_mark">QIF/CSV marca de decimals</string>
+	<string name="qif_csv_decimal_mark">QIF/CSV marca de decimals</string>
 	<string-array name="qif_csv_decimal_marks">
-        <item>Punt decimal</item>
-        <item>@string/comma</item>
-    </string-array>
-
-    <string name="csv_delimiter">Delimitador CSV</string>
-	<string-array name="csv_delimiters">
-        <item>@string/comma</item>
-        <item>Punt i coma</item>
-    </string-array>
-
-	<string name="qif_csv_encoding">Codificació QIF/CSV</string>
-    <string name="ofx_qfx_encoding">Codificació OFX/QFX/OFS</string>
-	<string-array name="encodings">
-        <item>@string/iso_8859_1</item>
-        <item>@string/utf_8</item>
-        <item>GBK (Xinés estàndar nacional)</item>
-        <item>Ciríl·lic (Windows)</item>
-        <item>Europa occidental (Windows)</item>
-        <item>Europa central (Windows)</item>
-        <item>UTF-16BE (Unicode)</item>
-        <item>UTF-16LE (Unicode)</item>
+		<item>Punt decimal</item>
+		<item>@string/comma</item>
 	</string-array>
-
-    <string name="maintain_entries">Mantenir entrades</string>
-    <string name="maintain_number_field_entries">Mantenir entrades de camps numèrics</string>
-    <string name="maintain_number_field_entries_description">Permet esborrar entrades de camps numèrics de les transaccions que no es fan servir més</string>
-
-    <string name="delete_entry_warning_format">L’entrada ^1 serà esborrada</string>
-    <string-array name="delete_entries_warning_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 entrades seran esborrades</item>
-        <item/> <!-- Not used -->
+	
+	<string name="csv_delimiter">Delimitador CSV</string>
+	<string-array name="csv_delimiters">
+		<item>@string/comma</item>
+		<item>Punt i coma</item>
+	</string-array>
+	
+	<string name="qif_csv_encoding">Codificació QIF/CSV</string>
+	<string name="ofx_qfx_encoding">Codificació OFX/QFX/OFS</string>
+	<string-array name="encodings">
+		<item>@string/iso_8859_1</item>
+		<item>@string/utf_8</item>
+		<item>GBK (Xinés estàndar nacional)</item>
+		<item>Ciríl·lic (Windows)</item>
+		<item>Europa occidental (Windows)</item>
+		<item>Europa central (Windows)</item>
+		<item>UTF-16BE (Unicode)</item>
+		<item>UTF-16LE (Unicode)</item>
+	</string-array>
+	
+	<string name="maintain_entries">Mantenir entrades</string>
+	<string name="maintain_number_field_entries">Mantenir entrades de camps numèrics</string>
+	<string name="maintain_number_field_entries_description">Permet esborrar entrades de camps numèrics de les transaccions que no es fan servir més</string>
+	
+	<string name="delete_entry_warning_format">L’entrada ^1 serà esborrada</string>
+	<string-array name="delete_entries_warning_format_plurals">
+		<item/> <!-- Not used -->
+		<item>^1 entrades seran esborrades</item>
+		<item/> <!-- Not used -->
 	</string-array>
 </resources>

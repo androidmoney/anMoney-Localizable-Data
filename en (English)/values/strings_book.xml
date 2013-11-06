@@ -1,304 +1,303 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
-    <string name="book">Book</string>
-    <string name="new_book">New book</string>
-    <string name="new_book_name">New book name</string>
-    <string name="rename_book">Rename book</string>
-    <string name="delete_book">Delete book</string>
-    <string name="share_book">Share book</string>
-    <string name="book_delete_warning_short_format">Book ^1 will be deleted</string>
-    <string name="all_data_will_be_lost">All data in this book will be permanently lost, if not backed up</string>
-    <string name="import_into_book">Import into book</string>
-    <string name="export_from_book">Export from book</string>
-    <string name="import_into_book_format">Import into book ^1</string>
-    <string name="no_books">You don’t have any books</string>
-    <string name="upgrading_book">Upgrading book</string>
-    <string name="upgrading_books">Upgrading books</string>
-    <string name="backup">Backup</string> <!-- Verb -->
-    <string name="backup_canceled">Backup cancelled</string>
-    <string name="backup_book">Backup book</string>
-    <string name="overwrite">Overwrite</string>
-    <string name="backup_name">Backup name</string>
-    <string name="auto_backup_name_format">^1 (^2 Auto)</string>
-    <string name="restore">Restore</string>
-    <string name="restored">Restored</string>
-    <string name="restore_canceled">Restore cancelled</string>
-    <string name="restore_book">Restore book</string>
-    <string name="restore_warning_format">Book ^1 will be overwritten and <b>all</b> its data will unrecoverably be destroyed</string>
-    <string name="select_backup_file_to_restore">Select backup file to restore</string>
-    <string name="select_backup_file_to_create_from">Select backup file to create from</string>
-    <string name="import_statement">Import statement</string> <!-- Import is a verb as in "import a statement" -->
-    <string name="no_sd_card_inserted">There is no SD card inserted</string>
-    <string name="select_files">Select files</string>
-    <string name="delete_file">Delete file</string>
-    <string name="delete_file_warning_format">File ^1 will be deleted</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+	<string name="book">Book</string>
+	<string name="new_book">New book</string>
+	<string name="new_book_name">New book name</string>
+	<string name="rename_book">Rename book</string>
+	<string name="delete_book">Delete book</string>
+	<string name="share_book">Share book</string>
+	<string name="book_delete_warning_short_format">Book ^1 will be deleted</string>
+	<string name="all_data_will_be_lost">All data in this book will be permanently lost, if not backed up</string>
+	<string name="import_into_book">Import into book</string>
+	<string name="export_from_book">Export from book</string>
+	<string name="import_into_book_format">Import into book ^1</string>
+	<string name="no_books">You don’t have any books</string>
+	<string name="upgrading_book">Upgrading book</string>
+	<string name="upgrading_books">Upgrading books</string>
+	<string name="backup">Backup</string> <!-- Verb -->
+	<string name="backup_canceled">Backup cancelled</string>
+	<string name="backup_book">Backup book</string>
+	<string name="overwrite">Overwrite</string>
+	<string name="backup_name">Backup name</string>
+	<string name="auto_backup_name_format">^1 (^2 Auto)</string>
+	<string name="restore">Restore</string>
+	<string name="restored">Restored</string>
+	<string name="restore_canceled">Restore cancelled</string>
+	<string name="restore_book">Restore book</string>
+	<string name="restore_warning_format">Book ^1 will be overwritten and <b>all</b> its data will unrecoverably be destroyed</string>
+	<string name="select_backup_file_to_restore">Select backup file to restore</string>
+	<string name="select_backup_file_to_create_from">Select backup file to create from</string>
+	<string name="import_statement">Import statement</string> <!-- Import is a verb as in "import a statement" -->
+	<string name="no_sd_card_inserted">There is no SD card inserted</string>
+	<string name="select_files">Select files</string>
+	<string name="delete_file">Delete file</string>
+	<string name="delete_file_warning_format">File ^1 will be deleted</string>
 	<string-array name="delete_files_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
-        <item>^1 selected files will be deleted</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 selected files will be deleted</item>
+		<item/> <!-- Not used -->
 	</string-array>
-    <string name="select_book">Select book</string>
-    <string name="select_import_file">Select file(s) to import</string>
-    <string name="not_specified_brackets">&lt;Not specified></string>
-    <string name="map_accounts">Map accounts</string>
-    <string name="configure_account_mappings">Configure account mappings</string>
-    <string name="account_required">Account required</string>
-    <string name="duplicate_name">Duplicate name</string>
-    <string name="options">Options</string>
-    <string name="select_options">Select import options</string>
-    <string name="remove_duplicates">Remove duplicates</string>
-    <string name="remove_duplicates_notes">While this should work correctly in the great majority of cases, there may be issues, especially if the accounts have amounts in different currencies. In these cases, matching is not possible. After import, please check that the balances are correct</string>
-    <string name="import_classes">Import classes</string>
-    <string name="ignore_memos">Ignore the memo field</string>
-    <string name="create_payees_in_app_name_format">Create payees in ^1</string>
-    <string name="contact_account">Contact account to create payees in</string> <!-- This is NOT a bank account, but the kind of account you use with e-mail, like a Google Account -->
-    <string name="select_import_mode">Select import mode</string>
-    <string name="export_file_format">Export file format</string>
-    <string name="mark_transactions_exported">Mark transactions as exported</string>
-    <string name="create_single_file">Create a single file</string>
-    <string name="no_transactions_matched_your_selection_criteria">No transactions matched your selection criteria.\n\nNo export file(s) have been created</string>
+	<string name="select_book">Select book</string>
+	<string name="select_import_file">Select file(s) to import</string>
+	<string name="not_specified_brackets">&lt;Not specified></string>
+	<string name="map_accounts">Map accounts</string>
+	<string name="configure_account_mappings">Configure account mappings</string>
+	<string name="account_required">Account required</string>
+	<string name="duplicate_name">Duplicate name</string>
+	<string name="options">Options</string>
+	<string name="select_options">Select import options</string>
+	<string name="remove_duplicates">Remove duplicates</string>
+	<string name="remove_duplicates_notes">While this should work correctly in the great majority of cases, there may be issues, especially if the accounts have amounts in different currencies. In these cases, matching is not possible. After import, please check that the balances are correct</string>
+	<string name="import_classes">Import classes</string>
+	<string name="ignore_memos">Ignore the memo field</string>
+	<string name="create_payees_in_app_name_format">Create payees in ^1</string>
+	<string name="contact_account">Contact account to create payees in</string> <!-- This is NOT a bank account, but the kind of account you use with e-mail, like a Google Account -->
+	<string name="select_import_mode">Select import mode</string>
+	<string name="export_file_format">Export file format</string>
+	<string name="mark_transactions_exported">Mark transactions as exported</string>
+	<string name="create_single_file">Create a single file</string>
+	<string name="no_transactions_matched_your_selection_criteria">No transactions matched your selection criteria.\n\nNo export file(s) have been created</string>
 	<string name="import_folder">Import folder</string>
 	<string name="export_folder">Export folder</string>
-    <string name="ask_to_view_imported_transaction">Would you like to view the imported transactions</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="tip">Tip</string>
-    <string name="user_guide">User’s guide</string>
+	<string name="ask_to_view_imported_transaction">Would you like to view the imported transactions</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string>
+	<string name="tip">Tip</string>
+	<string name="user_guide">User’s guide</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
-    <string name="whats_new">What’s new</string>
-    <string name="license">License</string>
-<!--     
-    <string name="accept_license">Accept license</string>
-    <string name="decline">Decline</string>
- -->    
-    <string name="thank_you">Thank you!</string>
-    <string name="password">Password</string>
-    <string name="old_password">Old password</string>
-    <string name="new_password">New password</string>
-    <string name="verify_password">Verify password</string>
-    <string name="enter_password">Enter password</string>
-    <string name="incorrect_password">Incorrect password. Please re-enter</string>
-    <string name="set_password">Set password</string>
-    <string name="password_set">Password set</string>
-    <string name="edit_password">Edit password</string>
-    <string name="remove_password">Remove password</string>
-    <string name="password_removed">Password removed</string>
-    <string name="remove_password_message">The password will be removed.\n\nYour data will be visible to anybody who may have access to your device</string>
-    <string name="password_has_not_been_changed">Password has not been changed</string>
-    <string name="passwords_dont_match">Passwords do not match</string>
-    <string name="case_sensitive">case sensitive</string>
-    <string name="disclaimer">Disclaimer</string>
-    <string name="password_disclaimer">Please read this disclaimer and check the box at end.\n\nNote that the password feature was designed as a way to provide privacy from “prying eyes.”  Due to the limitations of the platform, actual encryption of the data is not feasible and somebody with advanced skills could access your data even with a password present.\n\nIt is highly recommended that you protect your device with a lock pattern or PIN for additional security</string>
-    <string name="i_understand_the_limitations">I understand these limitations</string>
-    <string name="set_password_now_part1">Set a password now</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="whats_new">What’s new</string>
+	<string name="license">License</string>
+<!--
+	<string name="accept_license">Accept license</string>
+	<string name="decline">Decline</string>
+ -->
+	<string name="thank_you">Thank you!</string>
+	<string name="password">Password</string>
+	<string name="old_password">Old password</string>
+	<string name="new_password">New password</string>
+	<string name="verify_password">Verify password</string>
+	<string name="enter_password">Enter password</string>
+	<string name="incorrect_password">Incorrect password. Please re-enter</string>
+	<string name="set_password">Set password</string>
+	<string name="password_set">Password set</string>
+	<string name="edit_password">Edit password</string>
+	<string name="remove_password">Remove password</string>
+	<string name="password_removed">Password removed</string>
+	<string name="remove_password_message">The password will be removed.\n\nYour data will be visible to anybody who may have access to your device</string>
+	<string name="password_has_not_been_changed">Password has not been changed</string>
+	<string name="passwords_dont_match">Passwords do not match</string>
+	<string name="case_sensitive">case sensitive</string>
+	<string name="disclaimer">Disclaimer</string>
+	<string name="password_disclaimer">Please read this disclaimer and check the box at end.\n\nNote that the password feature was designed as a way to provide privacy from “prying eyes.” Due to the limitations of the platform, actual encryption of the data is not feasible and somebody with advanced skills could access your data even with a password present.\n\nIt is highly recommended that you protect your device with a lock pattern or PIN for additional security</string>
+	<string name="i_understand_the_limitations">I understand these limitations</string>
+	<string name="set_password_now_part1">Set a password now</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="set_password_now_part2_format">Even if you answer ^1, you will have the option to set a password at any time by selecting ^2 from the menu at the top of the screen</string>
-    <string name="folder_name_format">Folder name (use ^1 for subfolders)</string>
-    <string name="no_backup_files">No backup files found</string>
-    <string name="no_backup_files_new_instructions">If you are trying to create a book using an import file, please create a book from scratch first, then import into it</string>
-    <string name="remove_transactions">Remove transactions older than the date below</string>
-    <string name="book_to_make_copy_of">Book to make a copy of</string>
-    <string name="truncate_warning_format">All transactions prior to ^1 will unrecoverably be destroyed</string>
-    <string name="information_and_help">Information &amp; help</string>
-    <string name="discussion_forum">Discussion forum</string>
-    <string name="join_the_user_community_format">Join the ^1 users’ community</string>
-    <string name="contact_us">Contact us</string>
-    <string name="email_the_developers">Email the developers directly</string>
-    <string name="tap_to_display_import_settings_format">Tapping ^1 will display the import settings screen</string>
-    <string name="verify_import_settings">Please verify that the chosen default settings are, in fact, correct for the file you are importing. If everything looks good, press the <b>Back</b> arrow to continue with the import process</string>
-    <string name="change_settings_instructions_format">This message will not appear for subsequent imports, but you can change the settings at any time by tapping ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
-    <string name="bad_import_settings">The following setting(s) appear to be incorrect for the file you are trying to import</string>
-    <string name="qif_csv_encoding_explanation_format">Typically ^1 should be used for the languages in the list below, but some financial institutions may produce files where ^2 has to be selected for them to import properly.\n\nFor all other languages NOT on the list, ^2 should always be selected</string>
-    <string name="credits_legal">Credits &amp; legal</string>
-    <string name="contact_and_social">Contact &amp; social</string>
-    <string name="follow_us">Follow us</string>
-    <string name="add_us_to_circle">Add us to your circles and +1 us</string>
-    <string name="become_a_fan">Become a fan</string>
-    <string name="haptic_feedback">Haptic feedback</string>
-    <string name="haptic_feedback_description">If selected, vibrate when tapping the buttons</string>
+	<string name="folder_name_format">Folder name (use ^1 for subfolders)</string>
+	<string name="no_backup_files">No backup files found</string>
+	<string name="no_backup_files_new_instructions">If you are trying to create a book using an import file, please create a book from scratch first, then import into it</string>
+	<string name="remove_transactions">Remove transactions older than the date below</string>
+	<string name="book_to_make_copy_of">Book to make a copy of</string>
+	<string name="truncate_warning_format">All transactions prior to ^1 will unrecoverably be destroyed</string>
+	<string name="information_and_help">Information &amp; help</string>
+	<string name="discussion_forum">Discussion forum</string>
+	<string name="join_the_user_community_format">Join the ^1 users’ community</string>
+	<string name="contact_us">Contact us</string>
+	<string name="email_the_developers">Email the developers directly</string>
+	<string name="tap_to_display_import_settings_format">Tapping ^1 will display the import settings screen</string>
+	<string name="verify_import_settings">Please verify that the chosen default settings are, in fact, correct for the file you are importing. If everything looks good, press the <b>Back</b> arrow to continue with the import process</string>
+	<string name="change_settings_instructions_format">This message will not appear for subsequent imports, but you can change the settings at any time by tapping ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
+	<string name="bad_import_settings">The following setting(s) appear to be incorrect for the file you are trying to import</string>
+	<string name="qif_csv_encoding_explanation_format">Typically ^1 should be used for the languages in the list below, but some financial institutions may produce files where ^2 has to be selected for them to import properly.\n\nFor all other languages NOT on the list, ^2 should always be selected</string>
+	<string name="credits_legal">Credits &amp; legal</string>
+	<string name="contact_and_social">Contact &amp; social</string>
+	<string name="follow_us">Follow us</string>
+	<string name="add_us_to_circle">Add us to your circles and +1 us</string>
+	<string name="become_a_fan">Become a fan</string>
+	<string name="haptic_feedback">Haptic feedback</string>
+	<string name="haptic_feedback_description">If selected, vibrate when tapping the buttons</string>
 	<string name="default_book_name">My book</string>
 	<string name="color_theme">Colour theme</string>
-	<string name="dark">Dark</string>  <!-- As in "dark color theme" -->
+	<string name="dark">Dark</string> <!-- As in "dark color theme" -->
 	<string name="light">Light</string> <!-- As in "opposite of dark" -->
 	<string name="preview">Preview</string>
 	
 	<string-array name="book_new_source">
-	    <item>Create from scratch</item>
-	    <item>Create from backup</item>
-	    <item>Copy from existing book</item>
-    </string-array>
+		<item>Create from scratch</item>
+		<item>Create from backup</item>
+		<item>Copy from existing book</item>
+	</string-array>
 
 	<string-array name="book_new_source_descriptions">
-	    <item/> <!-- Intentionally left empty -->
-	    <item/> <!-- Intentionally left empty -->
-	    <item>and optionally truncate at a given date</item>
-    </string-array>
+		<item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
+		<item>and optionally truncate at a given date</item>
+	</string-array>
 	
 	<string-array name="import_mode">
-        <item>Statements downloaded from banks</item>
-        <item>Data exported by another software</item>
-    </string-array>
+		<item>Statements downloaded from banks</item>
+		<item>Data exported by another software</item>
+	</string-array>
 
 	<string-array name="import_mode_description">
-        <item>Used for statements downloaded from various financial institutions, such as a month-end statement from American Express. Both <b>QIF</b> and <b>OFX/QFX/OFS</b> formats are supported. The import file(s) must not contain transfers between accounts</item>
-        <item>Used for transferring data from another personal finance software, such as Microsoft® Money or Quicken®. Only the <b>QIF</b> format is supported</item>
-    </string-array>
+		<item>Used for statements downloaded from various financial institutions, such as a month-end statement from American Express. Both <b>QIF</b> and <b>OFX/QFX/OFS</b> formats are supported. The import file(s) must not contain transfers between accounts</item>
+		<item>Used for transferring data from another personal finance software, such as Microsoft® Money or Quicken®. Only the <b>QIF</b> format is supported</item>
+	</string-array>
 
-    <string name="qif_ms_money_description">Depending on the classifications and categories you use, may only be readable by Microsoft Money</string>
+	<string name="qif_ms_money_description">Depending on the classifications and categories you use, may only be readable by Microsoft Money</string>
 	<string name="qif_generic_description">Readable by all applications supporting the <b>QIF</b> format</string>
-    <string name="csv_description">Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction</string>
+	<string name="csv_description">Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs. The first row exported contains the column headers, followed by a row for each transaction</string>
 
-    <string name="import_file_confirm_format">Do you want to import ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="import_file_confirm_format">Do you want to import ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
-        <item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
-        <item/> <!-- Not used -->
-    </string-array>
+		<item/> <!-- Not used -->
+		<item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
+		<item/> <!-- Not used -->
+	</string-array>
 
-    <string name="general">General</string>
-    <string name="starting_screen">Starting screen</string>
-    <string name="negative_amount_format">Negative amount format</string>
-    
-    <string name="show_currency_symbol">Show currency symbol</string>
+	<string name="general">General</string>
+	<string name="starting_screen">Starting screen</string>
+	<string name="negative_amount_format">Negative amount format</string>
+
+	<string name="show_currency_symbol">Show currency symbol</string>
 	<string-array name="show_currency_symbol_items">
 		<item>According to the currency</item>
 		<item>Before the amount</item>
 		<item>After the amount</item>
 	</string-array>
 	
-    <string name="base_currency">Base currency</string>
-    <string name="space_between_symbol_and_amount">Space between the symbol and the amount</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
-    
-    <string name="password_time_out_period">Password time-out period</string>
+	<string name="base_currency">Base currency</string>
+	<string name="space_between_symbol_and_amount">Space between the symbol and the amount</string> <!-- This is a checkbox to indicate that the user wants a space put between the currency symbol and the amount -->
+
+	<string name="password_time_out_period">Password time-out period</string>
 	<string-array name="n_seconds_format_plurals">
-        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
-        <item>^1 seconds</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty as the seconds are always > 1 -->
+		<item>^1 seconds</item>
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
-        <item>^1 minute</item>
-        <item>^1 minutes</item>
-        <item/> <!-- Not used -->
+		<item>^1 minute</item>
+		<item>^1 minutes</item>
+		<item/> <!-- Not used -->
 	</string-array>
-    
-    <string name="set_button_behavior_format">^1 button behaviour</string>
+
+	<string name="set_button_behavior_format">^1 button behaviour</string>
 	<string-array name="set_button_behavior_items">
 		<item>Sets the currently displayed number</item>
 		<item>Completes calculation and sets its result</item>
 	</string-array>
 
-    <string name="confirmations_and_warnings">Confirmations &amp; warnings</string>
+	<string name="confirmations_and_warnings">Confirmations &amp; warnings</string>
 
-    <string name="warn_if_no_category">Warn, if no category</string>
-    <string name="warn_if_no_category_description">If selected, a warning is displayed when there is no category specified</string>
-    
-    <string name="warn_if_incorrect_category_type">Warn, if incorrect category type</string>
-    <string name="warn_if_incorrect_category_type_description">If selected, a warning is displayed if the wrong type of category is specified</string>
-    
-    <string name="modification_confirmation">Modification confirmation</string>
+	<string name="warn_if_no_category">Warn, if no category</string>
+	<string name="warn_if_no_category_description">If selected, a warning is displayed when there is no category specified</string>
+
+	<string name="warn_if_incorrect_category_type">Warn, if incorrect category type</string>
+	<string name="warn_if_incorrect_category_type_description">If selected, a warning is displayed if the wrong type of category is specified</string>
+
+	<string name="modification_confirmation">Modification confirmation</string>
 	<string-array name="modification_confirmation_items">
 		<item>None</item>
 		<item>Reconciled only</item>
 		<item>All</item>
 	</string-array>
-	
-    <string name="back_press_prompt">Back press prompt</string>
-    <string name="back_press_prompt_description">If selected, an ask-to-save prompt is shown when the back button is pressed</string>
-    
-    <string name="new_payee_confirmation">New payee confirmation</string>
-    <string name="new_payee_confirmation_description">If selected, a confirmation is shown before a new payee is created</string>
-    
-    <string name="duplicate_check_number">Duplicate cheque number</string>
-    <string name="duplicate_check_number_description">If selected, a warning is displayed if the cheque number had already been used</string>
-    
-    <string name="field_with_initial_focus">Field with initial focus</string>
-    
-    <string name="show_keyboard_automatically">Show the keyboard automatically</string>
+
+	<string name="back_press_prompt">Back press prompt</string>
+	<string name="back_press_prompt_description">If selected, an ask-to-save prompt is shown when the back button is pressed</string>
+
+	<string name="new_payee_confirmation">New payee confirmation</string>
+	<string name="new_payee_confirmation_description">If selected, a confirmation is shown before a new payee is created</string>
+
+	<string name="duplicate_check_number">Duplicate cheque number</string>
+	<string name="duplicate_check_number_description">If selected, a warning is displayed if the cheque number had already been used</string>
+
+	<string name="field_with_initial_focus">Field with initial focus</string>
+
+	<string name="show_keyboard_automatically">Show the keyboard automatically</string>
 	<string name="show_keyboard_automatically_description">If selected, the pop-up keyboard will be shown when adding a new transaction</string>
-	    
-    <string name="notes_in_transaction_window">Notes in transaction window</string>
-    <string name="notes_in_transaction_window_description">If selected, a single line note can be edited in the transaction window</string>
-    
-    <string name="new_category_in_transaction_window">New category in transaction window</string>
-    <string name="new_category_in_transaction_window_description">If selected, a new category can be created from within the transaction window</string>
-    
-    <string name="hide_labels">Hide labels</string>
-    <string name="hide_labels_description">If selected, labels in the transaction window can be hidden for more space</string>
-    
-    <string name="security">Security</string>
-    
-    <string name="quick_entry_password">Quick Entry password</string>
-    <string name="quick_entry_password_description">If selected, the Quick Entry widget will ask for the password, if any</string>
-    
-    <string name="backup_folder">Backup folder</string>
-    
-    <string name="date_in_file_name">Date in file name</string>
-    <string name="date_in_file_name_description">If selected, today’s date will be appended to the file name when sending</string>
-    
-    <string name="automatic_backup">Automatic backup</string>
-    <string name="automatic_backup_description">If selected, this book will be backed up automatically</string>
-    
-    <string name="backup_how_often">Backup how often</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    
-    <string name="auto_backup_notify_description">If selected, a notification will be displayed after the backup operation</string>
-    
+
+	<string name="notes_in_transaction_window">Notes in transaction window</string>
+	<string name="notes_in_transaction_window_description">If selected, a single line note can be edited in the transaction window</string>
+
+	<string name="new_category_in_transaction_window">New category in transaction window</string>
+	<string name="new_category_in_transaction_window_description">If selected, a new category can be created from within the transaction window</string>
+
+	<string name="hide_labels">Hide labels</string>
+	<string name="hide_labels_description">If selected, labels in the transaction window can be hidden for more space</string>
+
+	<string name="security">Security</string>
+
+	<string name="quick_entry_password">Quick Entry password</string>
+	<string name="quick_entry_password_description">If selected, the Quick Entry widget will ask for the password, if any</string>
+
+	<string name="backup_folder">Backup folder</string>
+
+	<string name="date_in_file_name">Date in file name</string>
+	<string name="date_in_file_name_description">If selected, today’s date will be appended to the file name when sending</string>
+
+	<string name="automatic_backup">Automatic backup</string>
+	<string name="automatic_backup_description">If selected, this book will be backed up automatically</string>
+
+	<string name="backup_how_often">Backup how often</string> <!-- This is a question, but the question mark will be added progrmatically -->
+
+	<string name="auto_backup_notify_description">If selected, a notification will be displayed after the backup operation</string>
+
 	<string name="backed_up_book_format">Backed up ^1</string>
-    <string-array name="backed_up_books_format_plurals">
-        <item/> <!-- Not used -->
-        <item>Backed up ^1 books</item>
-        <item/> <!-- Not used -->
+	<string-array name="backed_up_books_format_plurals">
+		<item/> <!-- Not used -->
+		<item>Backed up ^1 books</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
-        <item>Exported ^1 transaction</item>
-        <item>Exported ^1 transactions</item>
-        <item/> <!-- Not used -->
-    </string-array>
+		<item>Exported ^1 transaction</item>
+		<item>Exported ^1 transactions</item>
+		<item/> <!-- Not used -->
+	</string-array>
 
 	<string name="failed_to_back_up_book">Failed to backup book</string>
 	<string name="no_space_left_on_sd_card">There is no space left on the SD card</string>
 	<string name="cannot_restore_newer_version">Cannot restore the backup because it was created by a newer version of ^1.\n\nPlease install the latest version of ^1 and try again</string>
-		
+	
 	<string name="file">File</string>	
 	<string name="folder">Folder</string>	
 	<string name="external_storage">External storage</string>	
 	<string name="path">Path</string>	
 
-    <string name="qif_csv_date_order">QIF/CSV date order</string>
+	<string name="qif_csv_date_order">QIF/CSV date order</string>
 
 	<string name="comma">Comma</string>	
-    <string name="qif_csv_decimal_mark">QIF/CSV decimal mark</string>
+	<string name="qif_csv_decimal_mark">QIF/CSV decimal mark</string>
 	<string-array name="qif_csv_decimal_marks">
-        <item>Decimal point</item>
-        <item>@string/comma</item>
-    </string-array>
-
-    <string name="csv_delimiter">CSV delimiter</string>
-	<string-array name="csv_delimiters">
-        <item>@string/comma</item>
-        <item>Semicolon</item>
-    </string-array>
-
-	<string name="qif_csv_encoding">QIF/CSV encoding</string>
-    <string name="ofx_qfx_encoding">OFX/QFX/OFS encoding</string>
-	<string-array name="encodings">
-        <item>@string/iso_8859_1</item>
-        <item>@string/utf_8</item>
-        <item>GBK (Chinese national standard)</item>
-        <item>Cyrillic (Windows)</item>
-        <item>Western European (Windows)</item>
-        <item>Central European (Windows)</item>
-        <item>UTF-16BE (Unicode)</item>
-        <item>UTF-16LE (Unicode)</item>
+		<item>Decimal point</item>
+		<item>@string/comma</item>
 	</string-array>
 
-    <string name="maintain_entries">Maintain entries</string>
-    <string name="maintain_number_field_entries">Maintain number field entries</string>
-    <string name="maintain_number_field_entries_description">Allows you to delete no longer used transaction number field entries</string>
+	<string name="csv_delimiter">CSV delimiter</string>
+	<string-array name="csv_delimiters">
+		<item>@string/comma</item>
+		<item>Semicolon</item>
+	</string-array>
 
-    <string name="delete_entry_warning_format">Entry ^1 will be deleted</string>
-    <string-array name="delete_entries_warning_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 entries will be deleted</item>
-        <item/> <!-- Not used -->
-    </string-array>
+	<string name="qif_csv_encoding">QIF/CSV encoding</string>
+	<string name="ofx_qfx_encoding">OFX/QFX/OFS encoding</string>
+	<string-array name="encodings">
+		<item>@string/iso_8859_1</item>
+		<item>@string/utf_8</item>
+		<item>GBK (Chinese national standard)</item>
+		<item>Cyrillic (Windows)</item>
+		<item>Western European (Windows)</item>
+		<item>Central European (Windows)</item>
+		<item>UTF-16BE (Unicode)</item>
+		<item>UTF-16LE (Unicode)</item>
+	</string-array>
+
+	<string name="maintain_entries">Maintain entries</string>
+	<string name="maintain_number_field_entries">Maintain number field entries</string>
+	<string name="maintain_number_field_entries_description">Allows you to delete no longer used transaction number field entries</string>
+
+	<string name="delete_entry_warning_format">Entry ^1 will be deleted</string>
+	<string-array name="delete_entries_warning_format_plurals">
+		<item/> <!-- Not used -->
+		<item>^1 entries will be deleted</item>
+		<item/> <!-- Not used -->
+	</string-array>
 </resources>

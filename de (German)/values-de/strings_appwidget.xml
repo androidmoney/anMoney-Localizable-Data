@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="appwidget_warning_format">Anscheinend haben Sie ^1 auf der SD-Karte installiert.\n\n Das führt dazu, dass die Widgets verschwinden. Es wird empfohlen, ^1 zurück auf den internen Speicher Ihres Gerätes zu verschieben, falls sie die Widget weiterhin verwenden wollen</string>
+	<string name="appwidget_warning_format">Anscheinend haben Sie ^1 auf der SD-Karte installiert.\n\nDas führt dazu, dass die Widgets verschwinden. Es wird empfohlen, ^1 zurück auf den internen Speicher Ihres Gerätes zu verschieben, falls sie die Widget weiterhin verwenden wollen</string>
 
 	<string name="no_books_warning">Bitte erstellen Sie mindestens eine Mappe, bevor Sie das Widget einrichten</string>
 	<string name="no_books_and_accounts_warning">Bitte erstellen Sie mindestens eine Mappe/Konto, bevor Sie das Widget einrichten</string>

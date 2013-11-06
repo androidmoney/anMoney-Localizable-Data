@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="transactions">İşlemler</string>
+	<string name="view_transactions">İşlemleri görüntüle</string>
+	<string name="new_transaction">Yeni işlem</string>
+	<string name="edit_transaction">İşlem düzenle</string>
+	<string name="split_transaction">İşlemi böl</string>
+	<string name="delete_transaction">İşlemi sil</string>
+	<string name="accept_transaction">İşlemi kabul et</string> <!-- Accept as in "Accept a new transaction" -->
+	<string name="select">Seç</string>
+	<string name="accept">Kabul et</string>
+	<string name="accepted">Kabul edildi</string>
+	<string name="accept_canceled">Kabul et iptal edildi</string>
+	<string name="accept_transaction_all"><b>Tüm</b> işlemler kabul edilecek</string>
+	<string name="mark">İşaretle</string> <!-- Mark as "Mark a transaction reconciled/cleared/etc" -->
+	<string name="marked">İşaretlendi</string>
+	<string name="mark_canceled">İşaretleme iptal edildi</string>
+	<string name="mark_transaction">İşlemi işaretle</string>
+	<string-array name="mark_transactions_format_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 işlemini işaretle</item>
+		<item/> <!-- Not used -->
+	</string-array>
+	<string name="mark_transactions_all"><b>Tüm</b> işlemleri işaretle</string>
+	<string name="unreconciled1">Bağdaştırılmamış</string>
+	<string name="unreconciled2">@string/unreconciled1</string>
+	<string name="cleared1">Temizlenmiş</string>
+	<string name="cleared2">@string/cleared1</string>
+	<string name="reconciled1">Bağdaşık</string>
+	<string name="reconciled2">@string/reconciled1</string>
+	<string name="_void_verb">Boşaltılmış</string>
+	<string name="_void1">@string/_void_verb</string> <!-- This is an adjective as in "Void transaction" --> 
+	<string name="not_void1">Boşaltılmamış</string> <!-- This is an adjective as in "Not void transaction" -->
+	<string name="pending2">Askıda</string> <!--- As in it is a new transaction, and I need to review and accept it -->
+	<string name="exported_transaction">Dışa aktarılmış</string>
+	<string name="not_exported_transaction1">Dışa aktarılmamış</string>
+	<string name="not_exported_transaction2">@string/not_exported_transaction1</string>
+	<string name="edit_notes">Notları düzenle</string>
+	<string name="notes_created">Notlar oluşturuldu</string>
+	<string name="notes_edited">Notlar düzenlendi</string>
+	<string name="notes_deleted">Notlar silindi</string>
+	<string name="notes_creation_canceled">Not oluşturma iptal edildi</string>
+	<string name="flag_for_follow_up">Takip et için bayrakla</string>
+	<string name="edit_follow_up">Takip et düzenle</string>
+	<string name="make_recurring">Tekrarlayan yap</string>
+	<string name="follow_up2">Takip eden</string>
+	<string name="follow_up_by">Tarafından takip eden</string>
+	<string name="follow_up_created">Takip et oluşturuldu</string>
+	<string name="follow_up_edited">Takip et düzenlendi</string>
+	<string name="follow_up_deleted">Takip et silindi</string>
+	<string name="follow_up_creation_canceled">Takip et oluşturma iptal edildi</string>
+	<string name="go_to">Git</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
+	<string name="number">Numara</string>
+	<string name="transfer">Transfer</string>
+	<string name="transfers">Transferler</string>
+	<string name="transfer_account">Hesap transferi</string>
+	<string name="add">Ekle</string>
+	<string name="added">Eklendi</string>
+	<string name="add_canceled">Ekleme iptal edildi</string>
+	<string name="accept_and_edit">Kabul et Düzenle</string>
+	<string name="add_and_close">Ekle Kapat</string>
+	<string name="duplicate_copy_move">Klonla, kopyala ya da taşı</string>
+	<string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
+	<string name="duplicate_transaction">İşlemi klonla</string>
+	<string name="duplicate_in_current_account">Şimdiki hesaba klonla</string>
+	<string name="copy_to_another_account">Başka bir hesaba kopyala</string>
+	<string name="move_to_another_account">Başka bir hesaba taşı</string>
+	<string name="copy_transaction">İşlemi kopyala</string>
+	<string name="move_transaction">İşlemi taşı</string>
+	<string name="move_transactions">İşlemleri taşı</string>
+	<string name="do_not_duplicate_notes">Notları klonlama</string>
+	<string name="account_not_found">Hesap bulunamadı</string>
+	<string name="cannot_transfer_to_itself">Kendisine transfer edilemiyor</string>
+	<string name="cannot_copy_to_itself">Kendisine kopyalanamıyor ya da taşınamıyor</string>
+	<string name="copy_move_currency_warning">Hedef hesap başka bir para birimine sahip. Hedef hesapta işlem miktarını ayarlamak zorunda kalabilirsiniz</string>
+	<string name="all_transactions_hidden_by_filter">Tüm işlemler görüntüleme filtresi tarafından gizlendi</string>
+	<string name="show_number">Numarayı göster</string>
+	<string name="show_number_description">Varsa, numarayı göster</string>
+	<string name="show_notes">Notları göster</string>
+	<string name="show_notes_description">Varsa, notları göster</string>
+	<string name="classification_cannot_fit_warning_part1">İşlemler penceresinde, ekran boşluğu yetersizliğinden ötürü, kaydırma yapmadan tüm sınıflandırmaları göremeyeceksiniz</string>
+	<string name="classification_cannot_fit_warning_part2">Biraz ekran alanı oluşturmak için bazı etiketleri gizlemek ister misiniz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="classification_cannot_fit_warning_part3">Bu ayarı daha sonra istediğiniz zaman değiştirmeniz mümkün</string>
+	<string name="ask_to_edit_related_transaction_message_part1">Bu işlemin diğer tarafı bölünmüş olduğu için, orada düzenlemeniz gerekiyor</string>
+	<string name="ask_to_edit_related_transaction_message_part2">Diğer işlemi şimdi düzenlemek istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="transaction_modified_message">İşlem modifiye edilecek</string>
+	<string name="transaction_confirm_save_on_back_press_message_format">İşlem modifiye edildi.\n\nKaydetmek için ^1 düzenleme ekranına dönmek için, ^2 kaydetmeden çıkmak için, ^3 tıklayın</string>
+	<string name="split_confirm_save_on_back_press_message_format">Taksit modifiye edildi.\n\nKaydetmek için ^1 düzenleme ekranına dönmek için, ^2 kaydetmeden çıkmak için, ^3 tıklayın</string>
+	<string name="transaction_modified_reconciled_message">Bağdaşık bir işlem modifiye edilecek</string>
+	<string name="transaction_modified_related_reconciled_message">Bu işlemin bağdaşık olan kısmı, modifiye edilecek</string>
+	<string name="records_may_differ">Bu, kayıtlarınızın, finansal danışmanlık hizmetleri ile farklılık göstermesine neden olabilir</string>
+	<string name="missing_category_warning_message_format">Bir kategori belirlemeniz öncelikle önerilir. Kategori belirsizliği harcama raporlarının tutarsızlık göstermesine neden olabilir.\n\nİşlemi kategori belirlemeden kaydetmek için ^1 işlem düzenlemeye dönmek için ^2 tıklayın</string>
+	<string name="expense_category_given_for_income_message_format">^1 için bir harcama kategorisi belirlendi.\n\nOlduğu gibi bırakmak için ^2 işlem düzenlemeye dönmek için ^3 tıklayın</string> <!-- the ^1 parameter comes from amount1_description array -->
+	<string name="income_category_given_for_expense_message_format">^1 için bir gelir kategorisi belirlendi.\n\nOlduğu gibi bırakmak için ^2 işlem düzenlemeye dönmek için ^3 tıklayın</string> <!-- the ^2 parameter comes from amount2_description array -->
+	<string name="payee_not_found_format">^1 alacaklısı bulunamadı</string>
+	<string name="payer_not_found_format">^1 borçlusu bulunamadı</string>
+	<string name="would_you_like_to_create_it">Bir tane oluşturmak ister misiniz</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="amount_zero_warning_message_format">İşlemin miktarı sıfır.\n\nİşlem miktarını sıfır olarak bırakmak için ^1 Boşaltılmış işlem olarak giriş yapmak için ^2 tıklayın</string>
+	<string name="sum_of_splits_warning_message_format">Taksitlerin toplamı işlem miktarı ile uyuşmuyor.\n\nTaksitleri düzenlemek için ^1 tıklayın</string>
+	<string name="duplicate_number_message_format">Bu çek numarası ^1 tarihli bir işlemde kullanılmış.\n\nçek numarasını tekrar kullanmak için ^2 işlem düzenlemeye dönmek için ^3 tıklayın</string>
+	<string name="leave_zero">0 olarak kalsın</string>
+	<string name="credits">Krediler</string>
+	<string name="no_credits">Kredi yok</string>
+	<string name="deposits">Kazançlar</string>
+	<string name="no_deposits">Kazanç yok</string>
+	<string name="checks">Çekler</string> <!-- As in check book -->
+	<string name="no_checks">Çek yok</string> <!-- As in check book -->
+	<string name="charges">Bedeller</string>
+	<string name="no_charges">Bedel yok</string>
+	<string name="payments">Ödemeler</string>
+	<string name="no_payments">Ödeme yok</string>
+	<string name="checks_payments">Çek ödemeleri</string>
+	<string name="no_checks_payments">Çek ödemeleri yok</string>
+	<string name="deposits_payments">Kazanç ödemeleri</string>
+	<string name="no_deposits_payments">Kazanç ödemesi yok</string>
+	<string name="no_unreconciled_transactions">Bağdaşık işlem yok</string>
+	<string name="cleared_all_transactions">Tüm işlemler silindi</string>
+	<string name="next_check_number">Bir sonraki çek numarası</string>
+	<string name="cleared_transactions_color">Temizlenmiş işlem rengi</string> <!-- As in "color of cleared transactions" -->
+	<string name="reconciled_transactions_color">Bağdaşık işlemlerin rengi</string> <!-- As in "color of teconciled transactions" -->
+	<string name="upcoming_transactions_color">Yaklaşan işlemlerin rengi</string> <!-- As in "color of an upcoming recurring transactions" -->
+	<string name="text_filter">Metin filtresi</string>
+	<string name="profit_and_loss_statement">Kar zarar ekstresi</string>
+	<string name="transaction_type">İşlem tipi</string>
+	<string name="transaction_status">İşlem durumu</string>
+
+	<string name="full_screen_mode">Tam ekran modu</string>
+	<string name="full_screen_mode_description">İşaretlenirse daha çok işlem görünür olur</string>
+
+	<string-array name="amount1_labels">
+		<item>Ödeme</item>
+		<item>Harcama</item>
+		<item>Bedel</item>
+		<item>Ödeme</item>
+		<item>Artan</item>
+		<item>Azalan</item>
+		<item>Çekimsel</item>
+	</string-array>
+	<string-array name="amount1_description"> <!-- Used as ^1 in income_category_given_for_expense_message_format -->
+		<item>ödeme</item>
+		<item>harcama</item>
+		<item>bedel</item>
+		<item>ödeme</item>
+		<item>artan</item>
+		<item>azalan</item>
+		<item>çekimsel</item>
+	</string-array>
+	<string-array name="amount2_labels">
+		<item>Kazanç</item>
+		<item>Alınan</item>
+		<item>Kredi</item>
+		<item>Temel alındı</item>
+		<item>Azalan</item>
+		<item>Artan</item>
+		<item>Kazanç</item>
+	</string-array>
+	<string-array name="amount2_description"> <!-- Used as ^1 in expense_category_given_for_expense_message_format -->
+		<item>kazanç</item>
+		<item>alındı</item>
+		<item>kredi</item>
+		<item>temel alındı</item>
+		<item>azalan</item>
+		<item>artan</item>
+		<item>kazanç</item>
+	</string-array>
+
+	<string-array name="delete_transaction_warning_format_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 işlemi silinecek</item>
+		<item/> <!-- Not used -->
+	</string-array>
+	<string name="delete_transaction_warning_all"><b>Tüm</b> işlemler silinecek</string>
+	<string name="delete_transaction_warning_reconciled">Bağdaşık bir işlem silinecek</string>
+	<string-array name="delete_transaction_warning_reconciled_format_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 işlemden bağdaşıklarından en az biri silinecek</item>
+		<item/> <!-- Not used -->
+	</string-array>
+	<string name="accept_transaction_confirm_singular">İşlem kabul edilecek</string>
+	<string-array name="accept_transaction_confirm_format_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 seçili işlem kabul edilecek</item>
+		<item/> <!-- Not used -->
+	</string-array>
+</resources>

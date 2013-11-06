@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
 	<string name="estimated_indicator">~</string>
-    <string name="recurring_bills_and_deposits">Recurring bills &amp; deposits</string>
+	<string name="recurring_bills_and_deposits">Recurring bills &amp; deposits</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
-    <string name="recurring_bills_and_deposits_by_direction_order_format">Bills &amp; deposits by ^1 ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="recurring_bills_and_deposits_by_direction_order_format">Bills &amp; deposits by ^1 ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
 	<string name="view_recurring">View recurring</string>
 	<string name="new_recurring">New recurring</string>
 	<string name="enter">Enter</string>
@@ -17,7 +16,7 @@
 	<string name="enter_after_editing">Enter after editing</string>
 	<string name="enter_partially_after_editing">Enter partially after editing</string>
 	<string name="move_to_next_occurrence">Move to the next occurrence</string>
-	<string name="remain_on_this_occurrence_format">Remain on this occurrence, if entered amount is less than ^1</string>	    	    	
+	<string name="remain_on_this_occurrence_format">Remain on this occurrence, if entered amount is less than ^1</string>
 	<string name="edit_recurring">Edit recurring</string>
 	<string name="edit_occurrence">Edit occurrence</string>
 	<string name="entire_series">Entire series</string>
@@ -32,13 +31,13 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>Skipped ^1 occurrences</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Skip cancelled</string>
 	<string name="skip_which">Skip which</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="skip_one_occurrence_warning">Skip the upcoming occurrence</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="no_recurrings_format">You don’t have any recurring bills or deposits.\n\nTo create one:\n\n<li>^1</li>\n\n<li>Long-tap any transaction and tap ^2</li></string>
-    <string name="create_recurring_instructions_format">Tap ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
+	<string name="create_recurring_instructions_format">Tap ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Please create accounts and payees before adding recurring items</string>
 	<string name="specify_account">Please specify the account first</string>
 	<string name="account_and_amount">Account &amp; Amount</string>
@@ -47,7 +46,7 @@
 	<string name="auto_enter_and_reminder">Automatic entry &amp; Reminder</string>
 	<string name="pay_by_check">I pay this by cheque</string>
 	<string name="amount_is">Amount is</string>
-	<string name="fixed">Fixed</string> <!--  As in "fixed amount", NOT "fixed a problem" -->
+	<string name="fixed">Fixed</string> <!-- As in "fixed amount", NOT "fixed a problem" -->
 	<string name="estimated">Estimated</string>
 	<string name="estimated_amount_format">^1^2</string>
 	<string name="upcoming_upper">Upcoming</string> <!-- As in "upcoming transaction". This is a noun. -->
@@ -73,15 +72,15 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>last ^1</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>occurrence</item>
 		<item>occurrences</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
-    <string name="upcoming_date">Upcoming date</string> <!-- As in the "the date of the upcoming recurring instance" --> 
-    <string name="series_start_date">Series start date</string> <!-- As in the "the starting date of the entire recurring series" -->
+	<string name="upcoming_date">Upcoming date</string> <!-- As in the "the date of the upcoming recurring instance" --> 
+	<string name="series_start_date">Series start date</string> <!-- As in the "the starting date of the entire recurring series" -->
 	<string name="end_date_if_any">Inclusive end date, if any</string>
 	<string name="invalid_date">Invalid date</string>
 	<string name="repeat">Repeat</string>
@@ -91,22 +90,22 @@
 	<string-array name="every_day_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_1</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_week_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_1</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_month_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_1</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="every_year_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_1</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="never">Never</string>
 	<string name="day_upper">Day</string>
@@ -135,22 +134,22 @@
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
 		<item>days</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>week</item>
 		<item>weeks</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
 		<item>months</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_lower</item>
 		<item>years</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">If the date falls on the weekend</string>
@@ -160,12 +159,12 @@
 	<string-array name="overdue_plurals">
 		<item>^1 overdue</item>
 		<item>^1 overdue</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 overdue bill or deposit</item>
 		<item>^1 overdue bills or deposits</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -174,9 +173,9 @@
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Use today’s date for the transaction date</string>
 	<string-array name="enter_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
-        <item>^1 selected recurring items will be entered</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 selected recurring items will be entered</item>
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="skip_which_items">
@@ -191,71 +190,71 @@
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month">
-		<item>On the 1<sup><small>st</small></sup></item>
-		<item>On the 2<sup><small>nd</small></sup></item>
-		<item>On the 3<sup><small>rd</small></sup></item>
-		<item>On the 4<sup><small>th</small></sup></item>
-		<item>On the 5<sup><small>th</small></sup></item>
-		<item>On the 6<sup><small>th</small></sup></item>
-		<item>On the 7<sup><small>th</small></sup></item>
-		<item>On the 8<sup><small>th</small></sup></item>
-		<item>On the 9<sup><small>th</small></sup></item>
-		<item>On the 10<sup><small>th</small></sup></item>
-		<item>On the 11<sup><small>th</small></sup></item>
-		<item>On the 12<sup><small>th</small></sup></item>
-		<item>On the 13<sup><small>th</small></sup></item>
-		<item>On the 14<sup><small>th</small></sup></item>
-		<item>On the 15<sup><small>th</small></sup></item>
-		<item>On the 16<sup><small>th</small></sup></item>
-		<item>On the 17<sup><small>th</small></sup></item>
-		<item>On the 18<sup><small>th</small></sup></item>
-		<item>On the 19<sup><small>th</small></sup></item>
-		<item>On the 20<sup><small>th</small></sup></item>
-		<item>On the 21<sup><small>st</small></sup></item>
-		<item>On the 22<sup><small>nd</small></sup></item>
-		<item>On the 23<sup><small>rd</small></sup></item>
-		<item>On the 24<sup><small>th</small></sup></item>
-		<item>On the 25<sup><small>th</small></sup></item>
-		<item>On the 26<sup><small>th</small></sup></item>
-		<item>On the 27<sup><small>th</small></sup></item>
-		<item>On the 28<sup><small>th</small></sup></item>
-		<item>On the 29<sup><small>th</small></sup></item>
-		<item>On the 30<sup><small>th</small></sup></item>
-		<item>On the 31<sup><small>st</small></sup></item>
+		<item>On the 1st</item>
+		<item>On the 2nd</item>
+		<item>On the 3rd</item>
+		<item>On the 4th</item>
+		<item>On the 5th</item>
+		<item>On the 6th</item>
+		<item>On the 7th</item>
+		<item>On the 8th</item>
+		<item>On the 9th</item>
+		<item>On the 10th</item>
+		<item>On the 11th</item>
+		<item>On the 12th</item>
+		<item>On the 13th</item>
+		<item>On the 14th</item>
+		<item>On the 15th</item>
+		<item>On the 16th</item>
+		<item>On the 17th</item>
+		<item>On the 18th</item>
+		<item>On the 19th</item>
+		<item>On the 20th</item>
+		<item>On the 21st</item>
+		<item>On the 22nd</item>
+		<item>On the 23rd</item>
+		<item>On the 24th</item>
+		<item>On the 25th</item>
+		<item>On the 26th</item>
+		<item>On the 27th</item>
+		<item>On the 28th</item>
+		<item>On the 29th</item>
+		<item>On the 30th</item>
+		<item>On the 31st</item>
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month_and_on_the">
-		<item>On the 1<sup><small>st</small></sup> and on the</item>
-		<item>On the 2<sup><small>nd</small></sup> and on the</item>
-		<item>On the 3<sup><small>rd</small></sup> and on the</item>
-		<item>On the 4<sup><small>th</small></sup> and on the</item>
-		<item>On the 5<sup><small>th</small></sup> and on the</item>
-		<item>On the 6<sup><small>th</small></sup> and on the</item>
-		<item>On the 7<sup><small>th</small></sup> and on the</item>
-		<item>On the 8<sup><small>th</small></sup> and on the</item>
-		<item>On the 9<sup><small>th</small></sup> and on the</item>
-		<item>On the 10<sup><small>th</small></sup> and on the</item>
-		<item>On the 11<sup><small>th</small></sup> and on the</item>
-		<item>On the 12<sup><small>th</small></sup> and on the</item>
-		<item>On the 13<sup><small>th</small></sup> and on the</item>
-		<item>On the 14<sup><small>th</small></sup> and on the</item>
-		<item>On the 15<sup><small>th</small></sup> and on the</item>
-		<item>On the 16<sup><small>th</small></sup> and on the</item>
-		<item>On the 17<sup><small>th</small></sup> and on the</item>
-		<item>On the 18<sup><small>th</small></sup> and on the</item>
-		<item>On the 19<sup><small>th</small></sup> and on the</item>
-		<item>On the 20<sup><small>th</small></sup> and on the</item>
-		<item>On the 21<sup><small>st</small></sup> and on the</item>
-		<item>On the 22<sup><small>nd</small></sup> and on the</item>
-		<item>On the 23<sup><small>rd</small></sup> and on the</item>
-		<item>On the 24<sup><small>th</small></sup> and on the</item>
-		<item>On the 25<sup><small>th</small></sup> and on the</item>
-		<item>On the 26<sup><small>th</small></sup> and on the</item>
-		<item>On the 27<sup><small>th</small></sup> and on the</item>
-		<item>On the 28<sup><small>th</small></sup> and on the</item>
-		<item>On the 29<sup><small>th</small></sup> and on the</item>
-		<item>On the 30<sup><small>th</small></sup> and on the</item>
-		<item>On the 31<sup><small>st</small></sup> and on the</item>
+		<item>On the 1st and on the</item>
+		<item>On the 2nd and on the</item>
+		<item>On the 3rd and on the</item>
+		<item>On the 4th and on the</item>
+		<item>On the 5th and on the</item>
+		<item>On the 6th and on the</item>
+		<item>On the 7th and on the</item>
+		<item>On the 8th and on the</item>
+		<item>On the 9th and on the</item>
+		<item>On the 10th and on the</item>
+		<item>On the 11th and on the</item>
+		<item>On the 12th and on the</item>
+		<item>On the 13th and on the</item>
+		<item>On the 14th and on the</item>
+		<item>On the 15th and on the</item>
+		<item>On the 16th and on the</item>
+		<item>On the 17th and on the</item>
+		<item>On the 18th and on the</item>
+		<item>On the 19th and on the</item>
+		<item>On the 20th and on the</item>
+		<item>On the 21st and on the</item>
+		<item>On the 22nd and on the</item>
+		<item>On the 23rd and on the</item>
+		<item>On the 24th and on the</item>
+		<item>On the 25th and on the</item>
+		<item>On the 26th and on the</item>
+		<item>On the 27th and on the</item>
+		<item>On the 28th and on the</item>
+		<item>On the 29th and on the</item>
+		<item>On the 30th and on the</item>
+		<item>On the 31st and on the</item>
 	</string-array>
 	<string name="on_the_last_day_of_the_month">On the last day of the month</string>
 	<string-array name="on_the_nth_day_of_the_week_format">
@@ -297,13 +296,13 @@
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 days before</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 days before it is due</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string name="specify_custom_number_of_days">Specify custom number of days</string>

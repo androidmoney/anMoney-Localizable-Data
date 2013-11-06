@@ -2,26 +2,26 @@
 <resources>
 	<string name="appwidget_warning_format">Sembla que actualment té instal·lat ^1 a la targeta SD.\n\nAtès que això pot provocar que desapareguin els «widgets», és altament recomenable que torni a moure ^1 al dispositiu, si vol fer ús dels «widgets»</string>
 
-    <string name="no_books_warning">Si us plau, crei al menys un llibre abans de col·locar el «widget»</string>
-    <string name="no_books_and_accounts_warning">Si us plau, crei al menys un llibre i un compte abans de col·locar el «widget»</string>
-    <string name="no_accounts_warning">Si us plau, crei al menys un compte abans de col·locar el «widget»</string>
-    <string name="book_no_longer_exists_format">El llibre ^1 ja no existeix</string>
-    <string name="account_no_longer_exists">El compte ja no existeix</string>
-    <string name="report_no_longer_exists">El informe ja no existeix</string>
-    <string name="budget_no_longer_exists_format">El pressupost ^1 ja no existeix</string>
-    
-    <string name="quick_entry">Entrada ràpida</string>
-    <string name="app_name_quick_entry">anMoney — Entrada ràpida</string>
-    <string name="app_name_quick_entry_large">anMoney — Entrada ràpida (gran)</string>
-    <string name="app_name_quick_entry_small">anMoney — Entrada ràpida (petit)</string>
-    <string name="show_total">Mostrar el total del compte</string>
-    <string name="opacity">Opacitat</string>
+	<string name="no_books_warning">Si us plau, crei al menys un llibre abans de col·locar el «widget»</string>
+	<string name="no_books_and_accounts_warning">Si us plau, crei al menys un llibre i un compte abans de col·locar el «widget»</string>
+	<string name="no_accounts_warning">Si us plau, crei al menys un compte abans de col·locar el «widget»</string>
+	<string name="book_no_longer_exists_format">El llibre ^1 ja no existeix</string>
+	<string name="account_no_longer_exists">El compte ja no existeix</string>
+	<string name="report_no_longer_exists">El informe ja no existeix</string>
+	<string name="budget_no_longer_exists_format">El pressupost ^1 ja no existeix</string>
 
-    <string name="app_name_upcoming">anMoney — Properes</string>
+	<string name="quick_entry">Entrada ràpida</string>
+	<string name="app_name_quick_entry">anMoney — Entrada ràpida</string>
+	<string name="app_name_quick_entry_large">anMoney — Entrada ràpida (gran)</string>
+	<string name="app_name_quick_entry_small">anMoney — Entrada ràpida (petit)</string>
+	<string name="show_total">Mostrar el total del compte</string>
+	<string name="opacity">Opacitat</string>
 
-    <string name="app_name_budget">anMoney — Pressupost</string>
+	<string name="app_name_upcoming">anMoney — Properes</string>
 
-    <string name="app_name_report">anMoney — Informe</string>
+	<string name="app_name_budget">anMoney — Pressupost</string>
+
+	<string name="app_name_report">anMoney — Informe</string>
 
 	<string name="dash_clock_extension_description">Mostra factures i dipòsits vençuts, si n’hi ha.</string>
 </resources>

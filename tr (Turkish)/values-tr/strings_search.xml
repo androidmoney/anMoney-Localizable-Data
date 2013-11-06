@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="search">Ara</string>
+	<string name="search_transactions">İşlemleri ara</string>
+	<string name="no_matching_transactions">İşlem bulunamadı</string>
+</resources>

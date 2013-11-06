@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="notify_me_when_entered">M’avertir de la saisie sur la barre de notification</string>
+	<string name="notify_me_when_entered">M’avertir de la saisie sur la barre de notification</string>
 </resources>

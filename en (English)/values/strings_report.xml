@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools"
-    	   tools:locale="en">
-    	   
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+
 	<string name="report">Report</string>
-    <string name="reports">Reports</string>
+	<string name="reports">Reports</string>
 	<string name="view_report">View report</string>
 	<string name="view_reports">View reports</string>
 	<string name="report_canceled">Report cancelled</string>
@@ -14,19 +13,19 @@
 	<string name="custom_dates">Custom dates</string>
 	<string name="other">Other</string>
 	<string name="report_empty">There is no data to display</string>
-    <string name="report_settings_instructions_format">To change the settings for the report, tap ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
+	<string name="report_settings_instructions_format">To change the settings for the report, tap ^i at the top of the screen</string> <!-- ^i will be replaced by an image -->
 	<string name="reset_report_settings">The settings will be reset to their defaults</string>
 	<string name="settings_reset">Settings reset</string>
 	<string name="reset_canceled">Reset cancelled</string>
-    <string name="report_settings_tip_format">To change the settings for a report:\n\n<li>Long-tap on the report’s name and tap ^1</li>\n\n<li>Tap the icon at the top right corner of the screen while the report is displayed</li></string>
+	<string name="report_settings_tip_format">To change the settings for a report:\n\n<li>Long-tap on the report’s name and tap ^1</li>\n\n<li>Tap the icon at the top right corner of the screen while the report is displayed</li></string>
 	<string name="report_name">Report name</string>
 	<string name="all_reports">All reports</string>
 	<string name="favorite_reports">Favourite reports</string>
 	<string name="save_report_as">Save report as</string>
 	<string name="delete_report">Delete report</string>
-    <string name="rename_report">Rename report</string>
-    <string name="duplicate_report">Duplicate report</string>
-    <string name="delete_report_warning_format">Report ^1 will be permanently deleted</string>
+	<string name="rename_report">Rename report</string>
+	<string name="duplicate_report">Duplicate report</string>
+	<string name="delete_report_warning_format">Report ^1 will be permanently deleted</string>
 	<string name="report_type">Report type</string>
 	<string name="group">Group</string> <!-- This is a verb -->
 	<string name="do_not_group">Do not group</string>
@@ -36,7 +35,7 @@
 	<string name="day_p2"></string> <!-- Intentionally left empty -->
 	<string name="day_m2"></string> <!-- Intentionally left empty -->
 	<string name="select_report">Select report</string>
-    <string name="report_folder">Report folder</string>
+	<string name="report_folder">Report folder</string>
 	<string name="language">Language</string>
 	<string name="text_size">Text size</string>
 	<string name="text_size_sample">Ab</string>
@@ -69,10 +68,10 @@
 	<string name="create_settings_page">Create settings page</string>
 				
 	<string-array name="report_export_file_type">
-        <item>@string/csv</item>
-        <item>@string/pdf</item>
-        <item>Web page</item>
-    </string-array>
+		<item>@string/csv</item>
+		<item>@string/pdf</item>
+		<item>Web page</item>
+	</string-array>
 
 	<string-array name="report_export_file_type_description">
 		<item>Readable by spreadsheet applications, such as Microsoft® Excel or Google™ Docs</item>

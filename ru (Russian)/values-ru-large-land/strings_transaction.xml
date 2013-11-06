@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string-array name="amount1_labels">
-        <item>Платёж</item>
-        <item>Расход</item>
-        <item>Расход</item>
-        <item>Платёж</item>
-        <item>Увеличение</item>
-        <item>Уменьшение</item>
-        <item>Снятие</item>
-   </string-array>
+		<item>Платёж</item>
+		<item>Расход</item>
+		<item>Расход</item>
+		<item>Платёж</item>
+		<item>Увеличение</item>
+		<item>Уменьшение</item>
+		<item>Снятие</item>
+	</string-array>
 
 	<string-array name="amount2_labels">
-        <item>Пополнение</item>
-        <item>Приход</item>
-        <item>Пополнение</item>
-        <item>Поступление</item>
-        <item>Уменьшение</item>
-        <item>Увеличение</item>
-        <item>Пополнение</item>
-   </string-array>
+		<item>Пополнение</item>
+		<item>Приход</item>
+		<item>Пополнение</item>
+		<item>Поступление</item>
+		<item>Уменьшение</item>
+		<item>Увеличение</item>
+		<item>Пополнение</item>
+	</string-array>
 </resources>

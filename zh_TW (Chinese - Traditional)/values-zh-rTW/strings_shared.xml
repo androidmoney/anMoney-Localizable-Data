@@ -106,7 +106,7 @@
 	<string name="send_email">傳送電子郵件</string>
 	<string name="please_read">請閱讀</string>
 	<string name="rate_app_format">評分^1</string> <!-- ^1 is app name -->
-	<string name="please_rate_app_format">請用一點時間\n 為我們評分^1</string> <!-- ^1 is app name -->
+	<string name="please_rate_app_format">請用一點時間\n為我們評分^1</string> <!-- ^1 is app name -->
 	<string name="later_rate_description">一週後會再提醒您</string>
 	<string name="no_rate_description_format">您可以隨時在這裡評分^1</string> <!-- ^1 is "Settings" -->
 	<string name="task_killer_warning_format">關於“task killer”程式的警告:\n\n您的裝置每天將會「喚醒」一次以執行自動程序。因此程序只會持續幾秒鐘，它並不會對您裝置的電池壽命造成不利影響。\n\nTask killer程式有能力並將會防止此背景程序正確執行，因此不應該用在^1上面</string> <!-- ^1 is app name -->

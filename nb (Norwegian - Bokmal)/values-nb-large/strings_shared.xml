@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>     
+<resources>
 	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 etter ^2 ^3 ^4</string>
 </resources>

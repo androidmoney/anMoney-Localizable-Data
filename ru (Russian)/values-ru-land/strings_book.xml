@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="remove_transactions">Удалить транзакции старше даты справа</string>
+	<string name="remove_transactions">Удалить транзакции старше даты справа</string>
 </resources>

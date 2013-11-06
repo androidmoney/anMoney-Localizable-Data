@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="splits">Divisions</string>
-    <string name="split_canceled">Divisió cancel·lada</string>
-    <string name="new_split">Nova divisió</string>
-    <string name="edit_split">Editar divisió</string>
-    <string name="edit_splits">Editar divisions</string>
-    <string name="delete_split">Esborrar divisió</string>
+	<string name="splits">Divisions</string>
+	<string name="split_canceled">Divisió cancel·lada</string>
+	<string name="new_split">Nova divisió</string>
+	<string name="edit_split">Editar divisió</string>
+	<string name="edit_splits">Editar divisions</string>
+	<string name="delete_split">Esborrar divisió</string>
 	<string name="export_splits">Exportar divisions</string>
-    <string name="sum_of_splits">Suma de les divisions</string>
+	<string name="sum_of_splits">Suma de les divisions</string>
 	<string name="unassigned">No assignat</string>
 	<string name="transaction_total">Total de la transacció</string>
-    <string name="go_back_to_edit">Tornar a l’edició de les divisions</string>
-    <string name="unassigned_split_message_format">La suma de les divisions és ^1, mentres que el total de la transacció és ^2. Això deixa ^3 sense assignar, el que no està recomanat</string>
-    <string name="what_would_you_like_to_do">Què vol fer</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="set_the_total_format">Establir el total a ^1</string>
-    <string name="distribute_format">Distribuir els ^1 de forma equitativa</string>
-    <string name="leave_unassigned_format">Deixar els ^1 sense assignar</string>
-    <string name="distributed">Repartit</string>
+	<string name="go_back_to_edit">Tornar a l’edició de les divisions</string>
+	<string name="unassigned_split_message_format">La suma de les divisions és ^1, mentres que el total de la transacció és ^2. Això deixa ^3 sense assignar, el que no està recomanat</string>
+	<string name="what_would_you_like_to_do">Què vol fer</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="set_the_total_format">Establir el total a ^1</string>
+	<string name="distribute_format">Distribuir els ^1 de forma equitativa</string>
+	<string name="leave_unassigned_format">Deixar els ^1 sense assignar</string>
+	<string name="distributed">Repartit</string>
 </resources>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account">Compte</string>
-    <string name="accounts">Comptes</string>
-    <string name="all_accounts">Tots els comptes</string>
-    <string name="open_accounts">Comptes oberts</string>
-    <string name="liability">Passiu</string>
-    <string name="asset">Actiu</string>
+	<string name="account">Compte</string>
+	<string name="accounts">Comptes</string>
+	<string name="all_accounts">Tots els comptes</string>
+	<string name="open_accounts">Comptes oberts</string>
+	<string name="liability">Passiu</string>
+	<string name="asset">Actiu</string>
 <!-- <string name="associated_loan">Associated loan</string> -->
 <!-- <string name="associated_loan_if_any">Associated loan, if any</string> -->
 <!-- <string name="associated_reward_program">Associated reward program</string> -->
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
-    <string name="vehicle">Vehicle</string>
-    <string name="property">Propietat</string>
-    <string name="view_accounts">Mostrar comptes</string>
-    <string name="new_account">Nou compte</string>
-    <string name="edit_account">Editar compte</string>
-    <string name="balance_noun">Saldo</string>
-    <string name="balances_noun">Saldos</string>
-    <string name="adjust">Ajustar</string>
-    <string name="adjust_balance">Ajustar saldo</string>
+	<string name="vehicle">Vehicle</string>
+	<string name="property">Propietat</string>
+	<string name="view_accounts">Mostrar comptes</string>
+	<string name="new_account">Nou compte</string>
+	<string name="edit_account">Editar compte</string>
+	<string name="balance_noun">Saldo</string>
+	<string name="balances_noun">Saldos</string>
+	<string name="adjust">Ajustar</string>
+	<string name="adjust_balance">Ajustar saldo</string>
 	<string name="balance_adjusted">Saldo ajustat</string>
 	<string name="balance_adjustment_note">Ajust del saldo</string>
 	<string name="category_for_adjustment_transaction">Categoria per transacció d’ajust</string>
 	<string name="postpone">Posposar</string>
-    <string name="balance_verb">Conciliar</string>
-    <string name="balance_account">Conciliar compte</string>
-    <string name="balanced">Conciliat</string>
-    <string name="balance_postponed">Conciliació posposada</string>
-    <string name="balance_canceled">Conciliació cancel·lada</string>
+	<string name="balance_verb">Conciliar</string>
+	<string name="balance_account">Conciliar compte</string>
+	<string name="balanced">Conciliat</string>
+	<string name="balance_postponed">Conciliació posposada</string>
+	<string name="balance_canceled">Conciliació cancel·lada</string>
 	<string name="started_balancing_already">Ja ha començat a conciliar aquest compte</string>
 	<string name="postpone_balancing_warning">Posposar conciliació</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="account_balance_does_not_match_bank_warning_format">L’apunt de saldo inicial que heu introduït, ^1, no correspon a la suma de les transaccions previament concilades, ^2</string>
@@ -35,96 +35,96 @@
 	<string name="account_balance_does_not_match_fix">Intenteu arreglar-ho mitjançant:\n\n<li>Fent doble clic sobre l’extracte</li>\n<li>Marcant transaccions com a conciliades</li>\n<li>Marcant transaccions com a no conciliades</li>\n<li>Ajustant el saldo inicial</li></string>
 	<string name="left_to_reconcile">Deixat per a conciliar</string>
 	<string name="statement_balance">Saldo de la declaració</string>
-    <string name="statement_date">Data de la declaració</string>
-    <string name="statement_starting_balance">Declaració de saldo inicial</string>
-    <string name="statement_ending_balance">Declaració de saldo final</string>
-    <string name="amount_owed_last_month">Total deute el mes passat</string>
-    <string name="amount_owed_this_month">Total deute aquest mes</string>
+	<string name="statement_date">Data de la declaració</string>
+	<string name="statement_starting_balance">Declaració de saldo inicial</string>
+	<string name="statement_ending_balance">Declaració de saldo final</string>
+	<string name="amount_owed_last_month">Total deute el mes passat</string>
+	<string name="amount_owed_this_month">Total deute aquest mes</string>
 	<string name="service_charge_amount">Import de càrrec del servei</string>
-    <string name="service_charge_category">Categoria del càrrec de servei</string>
-    <string name="service_charge_notes_format">Càrrec de servei per al període de declaració que finalitza el ^1</string>
-    <string name="interest_earned_amount">Import d’interessos meritats</string>
-    <string name="interest_earned_category">Categoria dels interessos meritats</string>
-    <string name="interest_earned_notes_format">Interessos meritats per al període de declaració que finalitza el ^1</string>
-    <string name="interest_paid_amount">Import dels interessos abonats</string>
-    <string name="interest_paid_category">Categoria dels interessos abonats</string>
-    <string name="interest_paid_notes_format">Interessos abonats per al període de declaració que finalitza el ^1</string>
-    <string name="clear_all_transactions">Autoritzar totes les transaccions</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
-	<string name="clear_all_transactions_on_all_pages">Autoritzar totes les transaccions a totes les pàgines</string>  <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
-    <string name="export_account">Exportar compte</string>
-    <string name="delete_account">Esborrar compte</string>
-    <string name="close_account">Tancar compte</string>
-    <string name="reopen_account">Tornar a obrir compte</string>
-    <string name="repair_account">Reparar compte</string>
-    <string name="repaired">Reparat</string>
-    <string name="copy_account_number">Copiar el número de compte</string>
-    <string name="book_total">Total del llibre</string>
-    <string name="favorites_total">Total dels preferits</string>
+	<string name="service_charge_category">Categoria del càrrec de servei</string>
+	<string name="service_charge_notes_format">Càrrec de servei per al període de declaració que finalitza el ^1</string>
+	<string name="interest_earned_amount">Import d’interessos meritats</string>
+	<string name="interest_earned_category">Categoria dels interessos meritats</string>
+	<string name="interest_earned_notes_format">Interessos meritats per al període de declaració que finalitza el ^1</string>
+	<string name="interest_paid_amount">Import dels interessos abonats</string>
+	<string name="interest_paid_category">Categoria dels interessos abonats</string>
+	<string name="interest_paid_notes_format">Interessos abonats per al període de declaració que finalitza el ^1</string>
+	<string name="clear_all_transactions">Autoritzar totes les transaccions</string> <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+	<string name="clear_all_transactions_on_all_pages">Autoritzar totes les transaccions a totes les pàgines</string> <!-- This is a question, but the question mark will be added progrmatically. "Clear" as in Mark the transactions cleared -->
+	<string name="export_account">Exportar compte</string>
+	<string name="delete_account">Esborrar compte</string>
+	<string name="close_account">Tancar compte</string>
+	<string name="reopen_account">Tornar a obrir compte</string>
+	<string name="repair_account">Reparar compte</string>
+	<string name="repaired">Reparat</string>
+	<string name="copy_account_number">Copiar el número de compte</string>
+	<string name="book_total">Total del llibre</string>
+	<string name="favorites_total">Total dels preferits</string>
 	<string name="delete_account_warning_part1_format">El compte ^1 serà esborrat de forma permanent.\n\nDegut a que aquest compte es fa servir a transaccions, totes les transaccions relacionades seran igualment esborrades</string>
 	<string name="delete_account_warning_part2_format">Per amagar el compte, però salvar l’històric de les transaccions, en comptes d’això, toqui ^1 i tanqui el compte</string>
 	<string name="no_accounts">No té cap compte</string>
-    <string name="no_transactions_for_account">No hi ha transaccions en aquest compte</string>
-    <string name="account_type">Tipus de compte</string>
-    <string name="account_type_bank_first">Tipus de compte amb comptes bancaris en primer lloc</string>
-    <string name="account_type_cash_first">Tipus de compte amb efectiu en primer lloc</string>
-    <string name="account_name">Nom del compte</string>
-    <string name="abbreviation">Abreviatura</string>
-    <string name="abbr">Abrev</string>
-    <string name="type">Tipus</string>
-    <string name="favorite_account">Compte preferit</string>
-    <string name="favorite_accounts">Comptes preferits</string>
-    <string name="account_has_been_closed">Aquest compte ha estat tancat</string>
-    <string name="acquisition_date">Data d’adquisició</string>
-    <string name="credit_limit">Límit de crèdit</string>
-    <string name="interest_rate">Tipus d’interès</string>
-    <string name="minimum_balance">Mínim saldo</string>
-    <string name="date">Data</string>
-    <string name="make">Marca</string>
-    <string name="vehicle_make">Marca del vehicle</string>
-    <string name="year">Any</string>
-    <string name="model">Model</string>
-    <string name="vehicle_model">Model del vehicle</string>
-    <string name="vehicle_identification_number">Número d’identificació del vehicle (NIV)</string>
-    <string name="vin">NIV</string>
-    <string name="purchase_location">Lloc de compra</string>
-    <string name="location">Lloc</string>
-    <string name="warranty_information">Informació sobre la garantia</string>
-    <string name="type_details_about_warranty_information">Introdueixi els detalls de la garantia aquí</string>
-    <string name="warranty_expiration_date">Data de caducitat de la garantia</string>
-    <string name="manufacturer_web_address">Pàgina web del fabricant</string>
-    <string name="property_address">Adreça de la propietat</string>
-    <string name="closed">Tancat</string>
-    <string name="reopened">Tornat a obrir</string>
-    <string name="reopen_canceled">Tornar a obrir cancel·lat</string>
-    <string name="no_financial_institution_assigned">Cap institució financera assignada</string>
-    <string name="maximum_100">Màxim 100%</string>
-    <string name="must_be_in_future">Ha de ser en el futur</string> <!-- As in "The date supplied must be a future date" -->
-    <string name="must_be_in_past">Ha de ser en el passat</string> <!-- As in "The date supplied must be a past date" -->
-    <string name="invalid_year">No vàlid</string>
-    <string name="invalid_vin_number">Ha de tenir 17 lletres i/o dígits</string>
-    <string name="invalid_url">URL no vàlida</string>
-    <string name="opening_balance_warning_message">El compte ha conciliat transaccions.\n\nCanviar el saldo inicial pot causar diferències entre els seus registres i els de la institució financera</string>
-    <string name="no_exchange_rate_warning_message_format">No s’ha especificat cap taxa de canvi entre ^1 i ^2, el que pot comportar que el saldo del llibre no sigui acurat</string>
-    <string name="would_you_like_to_give_one_after_saving">Vol donar una després de desar els canvis</string>  <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="net_worth">Patrimoni net</string>
-    <string name="net_worth_over_time">Patrimoni net al llarg del temps / Previsió</string>
-    <string name="forecast">Previsió</string>
-    <string name="set_total_to_show">Establir total a mostrar</string>
+	<string name="no_transactions_for_account">No hi ha transaccions en aquest compte</string>
+	<string name="account_type">Tipus de compte</string>
+	<string name="account_type_bank_first">Tipus de compte amb comptes bancaris en primer lloc</string>
+	<string name="account_type_cash_first">Tipus de compte amb efectiu en primer lloc</string>
+	<string name="account_name">Nom del compte</string>
+	<string name="abbreviation">Abreviatura</string>
+	<string name="abbr">Abrev</string>
+	<string name="type">Tipus</string>
+	<string name="favorite_account">Compte preferit</string>
+	<string name="favorite_accounts">Comptes preferits</string>
+	<string name="account_has_been_closed">Aquest compte ha estat tancat</string>
+	<string name="acquisition_date">Data d’adquisició</string>
+	<string name="credit_limit">Límit de crèdit</string>
+	<string name="interest_rate">Tipus d’interès</string>
+	<string name="minimum_balance">Mínim saldo</string>
+	<string name="date">Data</string>
+	<string name="make">Marca</string>
+	<string name="vehicle_make">Marca del vehicle</string>
+	<string name="year">Any</string>
+	<string name="model">Model</string>
+	<string name="vehicle_model">Model del vehicle</string>
+	<string name="vehicle_identification_number">Número d’identificació del vehicle (NIV)</string>
+	<string name="vin">NIV</string>
+	<string name="purchase_location">Lloc de compra</string>
+	<string name="location">Lloc</string>
+	<string name="warranty_information">Informació sobre la garantia</string>
+	<string name="type_details_about_warranty_information">Introdueixi els detalls de la garantia aquí</string>
+	<string name="warranty_expiration_date">Data de caducitat de la garantia</string>
+	<string name="manufacturer_web_address">Pàgina web del fabricant</string>
+	<string name="property_address">Adreça de la propietat</string>
+	<string name="closed">Tancat</string>
+	<string name="reopened">Tornat a obrir</string>
+	<string name="reopen_canceled">Tornar a obrir cancel·lat</string>
+	<string name="no_financial_institution_assigned">Cap institució financera assignada</string>
+	<string name="maximum_100">Màxim 100%</string>
+	<string name="must_be_in_future">Ha de ser en el futur</string> <!-- As in "The date supplied must be a future date" -->
+	<string name="must_be_in_past">Ha de ser en el passat</string> <!-- As in "The date supplied must be a past date" -->
+	<string name="invalid_year">No vàlid</string>
+	<string name="invalid_vin_number">Ha de tenir 17 lletres i/o dígits</string>
+	<string name="invalid_url">URL no vàlida</string>
+	<string name="opening_balance_warning_message">El compte ha conciliat transaccions.\n\nCanviar el saldo inicial pot causar diferències entre els seus registres i els de la institució financera</string>
+	<string name="no_exchange_rate_warning_message_format">No s’ha especificat cap taxa de canvi entre ^1 i ^2, el que pot comportar que el saldo del llibre no sigui acurat</string>
+	<string name="would_you_like_to_give_one_after_saving">Vol donar una després de desar els canvis</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="net_worth">Patrimoni net</string>
+	<string name="net_worth_over_time">Patrimoni net al llarg del temps / Previsió</string>
+	<string name="forecast">Previsió</string>
+	<string name="set_total_to_show">Establir total a mostrar</string>
 	<string name="total_to_show">Total a mostrar</string>
-    <string name="selected_total">Total seleccionat</string>
+	<string name="selected_total">Total seleccionat</string>
 	<string name="entered_total">Total inserit</string>
 	<string name="balance_as_of_today">Saldo a dia d’avui</string>
 	<string name="cleared_total">Total autoritzat</string>
 	<string name="reconciled_total">Total conciliat</string>
 	<string name="filtered_total">Total filtrat</string>
 	<string name="default_cash_account_name">La meva caixa diaria</string>
-    <string name="default_checking_account_name">El meu compte actual</string>
-    <string name="default_savings_account_name">El meu compte d’estalvis</string>
-    <string name="default_credit_account_name">La meva targeta de crèdit</string>
-    <string name="color">Color</string>
-    <string name="projected_balance">Previst</string>
-    <string name="projected_balance_at_the_end_of_the_month">Saldo previst a final de mes</string>
-    <string name="at_months_end">A final de mes</string>
+	<string name="default_checking_account_name">El meu compte actual</string>
+	<string name="default_savings_account_name">El meu compte d’estalvis</string>
+	<string name="default_credit_account_name">La meva targeta de crèdit</string>
+	<string name="color">Color</string>
+	<string name="projected_balance">Previst</string>
+	<string name="projected_balance_at_the_end_of_the_month">Saldo previst a final de mes</string>
+	<string name="at_months_end">A final de mes</string>
 	<string name="projected_balance_on_the_nth_day_of_the_month_format">Saldo previst pel dia ^1 del mes</string>
 	<string name="total_for_format">Total pel dia ^1 del mes</string>
 	<string name="total_for_month">Total per mes</string>
@@ -136,17 +136,17 @@
 	<string name="show_option_format">Mostrar l’opció ^1</string>
 	<string name="show_closed">Mostar tancades</string>
 	
-    <string name="no_accounts_yet">Cap compte encara</string>
+	<string name="no_accounts_yet">Cap compte encara</string>
 	<string-array name="account_count_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 comptes</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item>^1 comptes</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="pending_count_plurals">
-        <item>^1 nova transacció</item>
-        <item>^1 noves transaccions</item>
-        <item/> <!-- Not used -->
+		<item>^1 nova transacció</item>
+		<item>^1 noves transaccions</item>
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="account_group_labels">
@@ -170,7 +170,7 @@
 	</string-array>
 
 	<string-array name="opening_balance_new_labels">
-	    <item>Saldo del compte</item>
+		<item>Saldo del compte</item>
 		<item>Preu de compra</item>
 		<item>Deute en aquest compte</item>
 		<item>Deute en aquesta targeta</item>
@@ -178,21 +178,21 @@
 
 	<string name="opening">Apertura</string> <!-- As in "Opening balance" -->
 	<string-array name="opening_balance_edit_labels">
-	    <item>Saldo d’apertura</item>
+		<item>Saldo d’apertura</item>
 		<item>Preu de compra original</item> <!-- of an asset -->
 		<item>Deute original d’aquest compte</item>
 		<item>Deute original d’aquesta targeta</item>
 	</string-array>
 
 	<string-array name="current_balance_edit_labels">
-	    <item>Saldo actual</item>
+		<item>Saldo actual</item>
 		<item>Valor actual</item> <!-- of an asset -->
 		<item>Deute actual d’aquest compte</item>
 		<item>Deute actual d’aquesta targeta</item>
 	</string-array>
 
 	<string-array name="account_type_names">
-	    <item>Bancari</item>
+		<item>Bancari</item>
 		<item>Efectiu / Altre</item>
 		<item>Targeta de Crèdit / Dèbit</item>
 		<item>Línia de crèdit</item>
@@ -206,7 +206,7 @@
 	</string-array>
 
 	<string-array name="default_account_names">
-	    <item>Banc</item>
+		<item>Banc</item>
 		<item>Efectiu</item>
 		<item>Targeta de crèdit</item>
 		<item>Línia de crèdit</item>
@@ -218,14 +218,14 @@
 		<item>Inversió</item>
 	</string-array>
 
-    <string name="show_account_numbers">Mostrar els números de compte</string>
-    <string name="show_account_numbers_description">Mostra els números de compte sota el nom, si n’hi ha</string>
+	<string name="show_account_numbers">Mostrar els números de compte</string>
+	<string name="show_account_numbers_description">Mostra els números de compte sota el nom, si n’hi ha</string>
 
-    <string name="use_abbreviations">Utilitzar abreviatures</string>
-    <string name="use_abbreviations_description">Mostra l’abreviatura del compte, en comptes del seu nom, si n’hi ha</string>
+	<string name="use_abbreviations">Utilitzar abreviatures</string>
+	<string name="use_abbreviations_description">Mostra l’abreviatura del compte, en comptes del seu nom, si n’hi ha</string>
 
-    <string name="show_group_totals">Mostrar totals per grup</string>
-    <string name="show_group_totals_description">Mostra el total a cadascun dels grups mostrats</string>
+	<string name="show_group_totals">Mostrar totals per grup</string>
+	<string name="show_group_totals_description">Mostra el total a cadascun dels grups mostrats</string>
 
 	<string-array name="account_list_status_filter_title_bar">
 		<item>@string/all_accounts</item>
@@ -241,21 +241,21 @@
 		<item/> <!-- Intentionally left empty -->
 	</string-array>
 
-    <string name="all_transactions">Totes les transaccions</string>
+	<string name="all_transactions">Totes les transaccions</string>
 	<string-array name="transaction_list_filter_title_bar">
-    	<item>@string/all_transactions</item>
+		<item>@string/all_transactions</item>
 		<item>@string/unreconciled2</item>
 		<item>@string/reconciled2</item>
 		<item>@string/cleared2</item>
 		<item>@string/pending2</item>
 		<item>@string/follow_up2</item>
-    	<item>@string/not_exported_transaction2</item>
+		<item>@string/not_exported_transaction2</item>
 	</string-array>
-    
-    <string name="display_order">Ordre de visualització</string>
-    <string name="entry_date">Data de registre</string>
-    <string-array name="transaction_list_sort_order_title_bar">
-    	<item>@string/date</item>
+
+	<string name="display_order">Ordre de visualització</string>
+	<string name="entry_date">Data de registre</string>
+	<string-array name="transaction_list_sort_order_title_bar">
+		<item>@string/date</item>
 		<item>@string/number</item>
 		<item>@string/payee</item>
 		<item>@string/amount</item>
@@ -265,8 +265,8 @@
 		<item/> <!-- Not unused -->
 		<item>@string/account</item>
 	</string-array>
-    
-    <string name="date_range">Rang de dates</string>
+
+	<string name="date_range">Rang de dates</string>
 	<string name="current_month">Mes actual</string>
 	<string name="previous_month">Mes anterior</string>
 	<string name="next_month">Proper mes</string>
@@ -349,5 +349,5 @@
 		<item/> <!-- Intentionally left empty -->
 	</string-array>
 	
-    <string name="display_grouping">Mostrar grups</string>
+	<string name="display_grouping">Mostrar grups</string>
 </resources>

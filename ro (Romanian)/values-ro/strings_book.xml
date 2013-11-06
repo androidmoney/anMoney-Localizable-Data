@@ -60,6 +60,8 @@
 	<string name="import_folder">Importă din director</string>
 	<string name="export_folder">Exportă în director</string>
     <string name="ask_to_view_imported_transaction">Doriţi să vedeţi tranzacţiile importate</string> <!-- This is a question, but the question mark will be added progrmatically -->
+<!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
+	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
     <string name="tip">Sfat</string>
     <string name="user_guide">Ghidul utilizatorului</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>

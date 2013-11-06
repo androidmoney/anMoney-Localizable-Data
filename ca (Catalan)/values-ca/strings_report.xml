@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="report">Informe</string>
-    <string name="reports">Informes</string>
+	<string name="reports">Informes</string>
 	<string name="view_report">Mostar informe</string>
 	<string name="view_reports">Mostar informes</string>
 	<string name="report_canceled">Informe cancel·lat</string>
@@ -12,19 +12,19 @@
 	<string name="custom_dates">Dates personalitzades</string>
 	<string name="other">Altre</string>
 	<string name="report_empty">No hi ha dades a mostrar</string>
-    <string name="report_settings_instructions_format">Per a canviar els paràmetres de l’informe, toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
+	<string name="report_settings_instructions_format">Per a canviar els paràmetres de l’informe, toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
 	<string name="reset_report_settings">Els paràmetres tornaran als seus valors per defecte</string>
 	<string name="settings_reset">Restablir paràmetres</string>
 	<string name="reset_canceled">Restablir cancel·lat</string>
-    <string name="report_settings_tip_format">Per a canviar els paràmetres d’un informe:\n\n<li>Toqui uns segons el nom de l’informe i toqui ^1</li>\n\n<li>Toqui la icona a la cantonada superior dreta de la pantalla mentres l’informe es mostra</li></string>
+	<string name="report_settings_tip_format">Per a canviar els paràmetres d’un informe:\n\n<li>Toqui uns segons el nom de l’informe i toqui ^1</li>\n\n<li>Toqui la icona a la cantonada superior dreta de la pantalla mentres l’informe es mostra</li></string>
 	<string name="report_name">Nom de l’informe</string>
 	<string name="all_reports">Tots els informes</string>
 	<string name="favorite_reports">Informes preferits</string>
 	<string name="save_report_as">Desar informe com a</string>
 	<string name="delete_report">Esborrar informe</string>
-    <string name="rename_report">Canviar el nom de l’informe</string>
-    <string name="duplicate_report">Duplicar informe</string>
-    <string name="delete_report_warning_format">L’informe ^1 serà esborrat de forma permanent</string>
+	<string name="rename_report">Canviar el nom de l’informe</string>
+	<string name="duplicate_report">Duplicar informe</string>
+	<string name="delete_report_warning_format">L’informe ^1 serà esborrat de forma permanent</string>
 	<string name="report_type">Tipus d’informe</string>
 	<string name="group">Agrupar</string> <!-- This is a verb -->
 	<string name="do_not_group">No agrupar</string>
@@ -34,7 +34,7 @@
 	<string name="day_p2"></string>
 	<string name="day_m2"></string>
 	<string name="select_report">Seleccionar informe</string>
-    <string name="report_folder">Carpeta d’informe</string>
+	<string name="report_folder">Carpeta d’informe</string>
 	<string name="language">Idioma</string>
 	<string name="text_size">Tamany del text</string>
 	<string name="text_size_sample">Ab</string>
@@ -67,10 +67,10 @@
 	<string name="create_settings_page">Crear pàgina de paràmetres</string>
 				
 	<string-array name="report_export_file_type">
-        <item>@string/csv</item>
-        <item>@string/pdf</item>
-        <item>Pàgina web</item>
-    </string-array>
+		<item>@string/csv</item>
+		<item>@string/pdf</item>
+		<item>Pàgina web</item>
+	</string-array>
 
 	<string-array name="report_export_file_type_description">
 		<item>Llegible per les aplicacions de full de càlcul, com ara Microsoft® Excel o Google™ Docs</item>

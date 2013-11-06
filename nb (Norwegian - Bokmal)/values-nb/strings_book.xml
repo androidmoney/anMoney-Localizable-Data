@@ -60,6 +60,8 @@
 	<string name="import_folder">Import-mappe</string>
 	<string name="export_folder">Eksport-mappe</string>
 	<string name="ask_to_view_imported_transaction">Ønsker du å se de importerte transaksjonene</string>
+<!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
+	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
 	<string name="tip">Tips</string>
 	<string name="user_guide">Brukermanual</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>

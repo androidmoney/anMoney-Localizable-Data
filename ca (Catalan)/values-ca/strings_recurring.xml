@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="estimated_indicator">~</string>
-    <string name="recurring_bills_and_deposits">Factures i dipòsits recurrents</string>
+	<string name="recurring_bills_and_deposits">Factures i dipòsits recurrents</string>
 
-    <string name="recurring_bills_and_deposits_by_direction_order_format">Factures i dipòsits per ^2 ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
+	<string name="recurring_bills_and_deposits_by_direction_order_format">Factures i dipòsits per ^2 ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
 	<string name="view_recurring">Mostrar recurrrents</string>
 	<string name="new_recurring">Nou recurrent</string>
 	<string name="enter">Enregistrar</string>
@@ -15,7 +15,7 @@
 	<string name="enter_after_editing">Enregistrar després d’editar</string>
 	<string name="enter_partially_after_editing">Enregistrar-ho parcialment després d’editar</string>
 	<string name="move_to_next_occurrence">Moure cap a la propera ocurrència</string>
-	<string name="remain_on_this_occurrence_format">Romandre en aquesta ocurrència, si la quantitat inserida és inferior a ^1</string>	    	    	
+	<string name="remain_on_this_occurrence_format">Romandre en aquesta ocurrència, si la quantitat inserida és inferior a ^1</string>
 	<string name="edit_recurring">Editar recurrència</string>
 	<string name="edit_occurrence">Editar ocurrència</string>
 	<string name="entire_series">Sèrie sensera</string>
@@ -30,13 +30,13 @@
 	<string-array name="skipped_occurrences_format_plurals">
 		<item/> <!-- Not used -->
 		<item>Saltades ^1 ocurrències</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="skip_canceled">Saltar cancel·lat</string>
 	<string name="skip_which">Saltar quina</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="skip_one_occurrence_warning">Saltar la propera ocurrència</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="no_recurrings_format">No té cap factura o dipòsit recurrent.\n\nPer a crear-ne un:\n\n<li>^1</li>\n\n<li>Toqui uns segons alguna transacció i després toqui ^2</li></string>
-    <string name="create_recurring_instructions_format">Toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
+	<string name="create_recurring_instructions_format">Toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Si us plau, crei comptes i beneficiaris abans d’afegir elements recurrents</string>
 	<string name="specify_account">Si us plau, especifiqui el compte en primer lloc</string>
 	<string name="account_and_amount">Compte i Import</string>
@@ -71,12 +71,12 @@
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
 		<item>les últimes ^1</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="based_part3_plurals">
 		<item>ocurrència</item>
 		<item>ocurrències</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="upcoming_date">Propera data</string>
 	<string name="series_start_date">Data d’inici de la sèrie</string>
@@ -132,22 +132,22 @@
 	<string-array name="day_plurals">
 		<item>@string/day_lower</item>
 		<item>dies</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="week_plurals">
 		<item>setmana</item>
 		<item>setmanes</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="month_plurals">
 		<item>@string/month_lower</item>
 		<item>mesos</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="year_plurals">
 		<item>@string/year_lower</item>
 		<item>anys</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
 	<string name="if_it_falls_on_a_weekend">Si la data cau en cap de setmana</string>
@@ -157,12 +157,12 @@
 	<string-array name="overdue_plurals">
 		<item>^1 endarrerit</item>
 		<item>^1 endarrerits</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
 		<item>^1 factura o dipòsit endarrerit</item>
 		<item>^1 factures o dipòsits endarrerits</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
@@ -171,9 +171,9 @@
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Fer servir la data d’avui a la transacció</string>
 	<string-array name="enter_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 elements recurrents seleccionats seran inserits</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="skip_which_items">
@@ -294,13 +294,13 @@
 	<string-array name="days_before_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 dies abans</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
 		<item/> <!-- Intenionally left empty -->
 		<item>^1 dies abans del venciment</item>
-        <item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 	
 	<string name="specify_custom_number_of_days">Especificar nombre de dies</string>

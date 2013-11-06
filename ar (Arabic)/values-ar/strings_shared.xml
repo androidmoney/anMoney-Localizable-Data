@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="two_items_dash_with_space_format">^2 – ^1</string>
-    <string name="two_items_dash_without_space_format">^2–^1</string>
-    <string name="percent_sign">٪</string>
-    <string name="percentage_format">^1٪</string>
+	<string name="two_items_dash_with_space_format">^2 – ^1</string>
+	<string name="two_items_dash_without_space_format">^2–^1</string>
+	<string name="percent_sign">٪</string>
+	<string name="percentage_format">^1٪</string>
 	<string name="plus_before_format">^1 +</string>
 </resources>
