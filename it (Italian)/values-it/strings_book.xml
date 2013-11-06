@@ -60,9 +60,8 @@
 	<string name="import_folder">Importa cartella</string>
 	<string name="export_folder">Esporta cartella</string>
 	<string name="ask_to_view_imported_transaction">Desideri visualizzare le transazioni importate</string>
-	<string name="import_same_time_warning">Se avete più di un conto da importare, assicurarsi che vengano importati contemporaneamente. Importare i conti singolarmente può creare delle transazioni duplicate e questo deve essere evitato</string> --> 
-	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
-		<string name="tip">Suggerimento</string>
+	<string name="import_same_time_warning">Se avete più di un conto da importare, assicurarsi che vengano importati contemporaneamente. Importare i conti singolarmente può creare delle transazioni duplicate e questo deve essere evitato</string> 
+	<string name="tip">Suggerimento</string>
 	<string name="user_guide">Guida per l’utente (Inglese)</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
 	<string name="whats_new">Novità</string>
