@@ -120,9 +120,9 @@
 	<string name="archiving">In archiviazione</string>
 	<string name="archiving_settings">Parametri per l’archiviazione</string>
 	<string name="more">Altro</string>
-<!-- New --> <string-array name="more_plurals"> <!-- As in "X more/further item(s)" -->
-		<item>^1 more</item>
-		<item>^1 more</item>
+	<string-array name="more_plurals"> <!-- As in "X more/further item(s)" -->
+		<item>^1 ulteriore</item>
+		<item>^1 ulteriori</item>
 		<item/> <!-- Not used -->
 	</string-array>
 	<string name="specify_options">Specifica le opzioni</string>
