@@ -120,6 +120,11 @@
 	<string name="archiving">Arkivering</string>
 	<string name="archiving_settings">Arkiveringsinnstillinger</string>
 	<string name="more">Mer</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 flere</item>
+		<item>^1 flere</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="specify_options">Angi eksportalternativer</string>
 	<string name="expand_all">Utvid alle</string>
 	<string name="all_expanded">Utvidet alle</string>

@@ -51,9 +51,9 @@
     <string name="follow_up_creation_canceled">Követés megszakítva</string>
     <string name="go_to">Menjen</string>
     <string name="number">Szám</string>
-    <string name="transfer">Átutalás</string>
-    <string name="transfers">Átutalások</string>
-    <string name="transfer_account">Átutalási számla</string>
+    <string name="transfer">Átvezetés</string>
+    <string name="transfers">Átvezetések</string>
+    <string name="transfer_account">Átvezetési számla</string>
     <string name="add">Hozzáadás</string>
     <string name="added">Hozzáadva</string>
     <string name="add_canceled">Hozzáadás megszakítva</string>
@@ -70,7 +70,7 @@
     <string name="move_transactions">Tranzakciók áthelyezése</string>
     <string name="do_not_duplicate_notes">Ne másolja a jegyzetet</string>
     <string name="account_not_found">Számla nem létezik</string>
-    <string name="cannot_transfer_to_itself">Nem utalhatja át magához</string>
+    <string name="cannot_transfer_to_itself">Nem vezetheti át magához</string>
     <string name="cannot_copy_to_itself">Nem másolhatja magához</string>
     <string name="copy_move_currency_warning">A célszámla alappénzneme különböző. Lehet, hogy állítania kell a tranzakció összegét a célszámlában</string>
     <string name="all_transactions_hidden_by_filter">A szűrő elrejtette az összes tranzakciót</string>

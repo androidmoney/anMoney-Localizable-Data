@@ -120,6 +120,11 @@
 	<string name="archiving">Arhivare</string>
 	<string name="archiving_settings">Setări arhivare</string>
     <string name="more">Mai mult</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 more</item>
+		<item>^1 more</item>
+		<item/> <!-- Not used -->
+	</string-array>
     <string name="specify_options">Specifică opţiunile</string>
 	<string name="expand_all">Extinde toate</string>
 	<string name="all_expanded">Toate au fost extinse</string>

@@ -60,8 +60,7 @@
 	<string name="import_folder">Carpeta de importación</string>
 	<string name="export_folder">Carpeta de exportación</string>
 	<string name="ask_to_view_imported_transaction">Quiere ver las transacciones importadas</string>
-<!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
-	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
+<!-- Verify --> <string name="import_same_time_warning">Si tiene más de una cuenta para importar, asegúrese de importarlas al mismo tiempo. Hacerlo uno a la vez puede crear transacciones duplicadas, y se debe evitar</string> 
 	<string name="tip">Consejo</string>
 	<string name="user_guide">Guía del usuario</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>

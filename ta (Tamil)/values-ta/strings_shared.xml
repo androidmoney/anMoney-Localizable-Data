@@ -120,6 +120,11 @@
 	<string name="archiving">காப்பகப்படுத்துதல்</string>
 	<string name="archiving_settings">காப்பகப்படுத்துதல் அமைப்புகள்</string>
     <string name="more">மேலும்</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 மேலும்</item>
+		<item>^1 மேலும்</item>
+		<item/> <!-- Not used -->
+	</string-array>
     <string name="specify_options">குறிப்பிட்ட தெரிவுகள்</string>
 	<string name="expand_all">எல்லாவற்றையும் விரிவுபடுத்து</string>
 	<string name="all_expanded">எல்லாம் விரிவுபடுத்தப்பட்டது</string>

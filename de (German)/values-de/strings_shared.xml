@@ -119,6 +119,11 @@
 	<string name="archiving">Archivierung</string>
 	<string name="archiving_settings">Archivierung - Einstellungen</string>
 	<string name="more">Mehr</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 weitere</item>
+		<item>^1 weitere</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="specify_options">Optionen festlegen</string>
 	<string name="expand_all">Alle expandieren</string>
 	<string name="all_expanded">Alle expandiert</string>

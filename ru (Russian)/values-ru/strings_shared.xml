@@ -120,6 +120,11 @@
 	<string name="archiving">Архивирование</string>
 	<string name="archiving_settings">Настройки архивирования</string>
     <string name="more">Ещё</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 more</item>
+		<item>^1 more</item>
+		<item>^1 more</item>
+	</string-array>
     <string name="specify_options">Укажите параметры</string>
     <string name="expand_all">Развернуть все</string>
 	<string name="all_expanded">Развёрнуто</string>

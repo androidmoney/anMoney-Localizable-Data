@@ -120,6 +120,11 @@
 	<string name="archiving">Arxivament</string>
 	<string name="archiving_settings">Configuració d’arxivat</string>
 	<string name="more">Més</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 més</item>
+		<item>^1 més</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="specify_options">Especificar options</string>
 	<string name="expand_all">Expandir tot</string>
 	<string name="all_expanded">Tot expandit</string>

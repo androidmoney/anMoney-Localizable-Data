@@ -120,6 +120,11 @@
 	<string name="archiving">Archiveren</string>
 	<string name="archiving_settings">Archivering instellingen</string>
     <string name="more">Meer</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 verder</item>
+		<item>^1 verder</item>
+		<item/> <!-- Not used -->
+	</string-array>
     <string name="specify_options">Specificeer opties</string>
 	<string name="expand_all">Klap alles uit</string>
 	<string name="all_expanded">Alles uitgeklapt</string>

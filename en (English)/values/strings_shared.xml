@@ -120,6 +120,11 @@
 	<string name="archiving">Archiving</string>
 	<string name="archiving_settings">Archiving settings</string>
 	<string name="more">More</string>
+	<string-array name="more_plurals"> <!-- As in "X more item(s)" --><!-- Please contact us if you are unsure about the plurals -->
+		<item>^1 more</item>
+		<item>^1 more</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="specify_options">Specify options</string>
 	<string name="expand_all">Expand all</string>
 	<string name="all_expanded">All expanded</string>
@@ -148,7 +153,7 @@
 
 	<string name="no_items">No items</string>
 	<string name="no_items_yet">No items yet</string>
-	<string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
+	<string-array name="items_format_plurals">
 		<item/> <!-- Not used -->
 		<item>^1 items</item>
 		<item/> <!-- Not used -->

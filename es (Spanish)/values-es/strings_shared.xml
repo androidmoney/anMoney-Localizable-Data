@@ -120,6 +120,11 @@
 	<string name="archiving">Registro histórico</string>
 	<string name="archiving_settings">Configuración del registro histórico</string>
 	<string name="more">Más</string>
+<!-- Verify --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 más</item>
+		<item>^1 más</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="specify_options">Especificar las opciones</string>
 	<string name="expand_all">Expandir todo</string>
 	<string name="all_expanded">Todo expandido</string>

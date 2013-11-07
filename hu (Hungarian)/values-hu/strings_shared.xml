@@ -120,6 +120,11 @@
 	<string name="archiving">Archiválás</string>
 	<string name="archiving_settings">Archiválás beállításai</string>
     <string name="more">Több</string>
+	<string-array name="more_plurals">
+		<item>^1 további</item>
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
     <string name="specify_options">Adja meg a beállításait</string>
 	<string name="expand_all">Összes kiterjesztése</string>
 	<string name="all_expanded">Összes kiterjesztve</string>

@@ -120,6 +120,11 @@
 	<string name="archiving">歸檔</string>
 	<string name="archiving_settings">歸檔設定</string>
     <string name="more">更多</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1更多</item>
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
     <string name="specify_options">指定選項</string>
 	<string name="expand_all">全部展開</string>
 	<string name="all_expanded">已全部展開</string>

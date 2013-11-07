@@ -120,6 +120,11 @@
 	<string name="archiving">Arşivleniyor</string>
 	<string name="archiving_settings">Arşivleme ayarları</string>
 	<string name="more">Daha fazla</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 more</item>
+		<item>^1 more</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="specify_options">Seçenekleri belirleyin</string>
 	<string name="expand_all">Tümünü genişlet</string>
 	<string name="all_expanded">Tumu genişletildi</string>
