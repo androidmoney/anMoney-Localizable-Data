@@ -17,8 +17,8 @@
 	<string name="mark_canceled">İşaretleme iptal edildi</string>
 	<string name="mark_transaction">İşlemi işaretle</string>
 	<string-array name="mark_transactions_format_plurals">
-		<item/> <!-- Intentionally left empty -->
 		<item>^1 işlemini işaretle</item>
+		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 	</string-array>
 	<string name="mark_transactions_all"><b>Tüm</b> işlemleri işaretle</string>
@@ -165,21 +165,21 @@
 	</string-array>
 
 	<string-array name="delete_transaction_warning_format_plurals">
-		<item/> <!-- Intentionally left empty -->
 		<item>^1 işlemi silinecek</item>
+		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 	</string-array>
 	<string name="delete_transaction_warning_all"><b>Tüm</b> işlemler silinecek</string>
 	<string name="delete_transaction_warning_reconciled">Bağdaşık bir işlem silinecek</string>
 	<string-array name="delete_transaction_warning_reconciled_format_plurals">
-		<item/> <!-- Intentionally left empty -->
 		<item>^1 işlemden bağdaşıklarından en az biri silinecek</item>
+		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 	</string-array>
 	<string name="accept_transaction_confirm_singular">İşlem kabul edilecek</string>
 	<string-array name="accept_transaction_confirm_format_plurals">
-		<item/> <!-- Intentionally left empty -->
 		<item>^1 seçili işlem kabul edilecek</item>
+		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 	</string-array>
 </resources>

@@ -18,6 +18,7 @@
 	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1=</string>
 	<string name="footnote_symbol">※</string>
+	<string name="ellipsis_start_format">……^1</string>
 	<string name="quarter_format">^2年第^1四半期</string> <!-- "Q1 2013" -->
     <string name="filter_by_order_format">^1を^2順に表示</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1を^3の^2で表示</string> <!-- Example: "All payees by decreasing date" -->

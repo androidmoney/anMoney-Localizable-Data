@@ -140,14 +140,14 @@
     
     <string name="no_accounts_yet">Henüz hesap yok</string>
 	<string-array name="account_count_format_plurals">
+        <item>^1 hesap</item>
         <item/> <!-- Not used -->
-        <item>^1 hesapları</item>
         <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="pending_count_plurals">
         <item>^1 yeni işlem</item>
-        <item>^1 yeni işlemler</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 

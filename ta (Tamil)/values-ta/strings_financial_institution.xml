@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="financial_institution">நிதி நிறுவனம்</string>
-    <string name="financial_institutions">நிதி நிறுவனகள்</string>
+    <string name="financial_institutions">நிதி நிறுவனங்கள்</string>
     <string name="financial_institution_bank_first">நிதி நிறுவனம் உடன் முதலில் வங்கி கணக்குகள்</string>
     <string name="financial_institution_cash_first">நிதி நிறுவனம் உடன் முதலில் ரொக்க கணக்குகள்</string>
     <string name="view_financial_institution">நிதி நிறுவனம் பார்வையிட</string>

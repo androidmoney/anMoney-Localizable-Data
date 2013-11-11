@@ -60,9 +60,8 @@
 	<string name="import_folder">Import-Ordner</string>
 	<string name="export_folder">Export-Ordner</string>
 	<string name="ask_to_view_imported_transaction">Möchten Sie die importierten Auszüge sehen</string>
-<!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
-	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
-		<string name="tip">Tipp</string>
+	<string name="import_same_time_warning">Wenn Sie mehr als ein Konto zu importieren haben, müssen Sie dies zur gleichen Zeit tun, sonst kann das zu doppelten Einträgen führen</string> 
+	<string name="tip">Tipp</string>
 	<string name="user_guide">Bedienungsanleitung (englisch)</string>
 
 	<string name="whats_new">Was ist neu</string>

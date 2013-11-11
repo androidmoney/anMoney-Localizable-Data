@@ -33,13 +33,13 @@
     <string name="delete_file">Dosyayı sil</string>
     <string name="delete_file_warning_format">^1 dosyası silinecek</string>
 	<string-array name="delete_files_warning_format_plurals">
-        <item/> <!-- Intentionally left empty -->
         <item>^1 seçili dosya silinecek</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     <string name="select_book">Kitap seç</string>
     <string name="select_import_file">İçe aktarma için dosya(lar) seç</string>
-<!-- New --> <string name="not_specified_brackets">&lt;Not specified></string>
+	<string name="not_specified_brackets">&lt;Belirtilmemiş></string>
     <string name="map_accounts">Hesapları haritala</string>
     <string name="configure_account_mappings">Hesap haritalama yapılandır</string>
     <string name="account_required">Hesap gerekiyor</string>
@@ -60,7 +60,7 @@
 	<string name="import_folder">Klasör içe aktar</string>
 	<string name="export_folder">Klasör dışa aktar</string>
     <string name="ask_to_view_imported_transaction">İçe alınan işlemleri görmek istermisiniz</string> <!-- This is a question, but the question mark will be added progrmatically -->
-<!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
+	<string name="import_same_time_warning">Eğer içe aktarma için birden fazla hesabınız varsa, bu işlemi hepsi için aynı zamanda yaptığınızdan emin olun. Ayrı zamanlarda yapmak, aynı işlemin birden fazla yer almasına neden olabilir ve bundan kaçınmak gerekir</string> 
 	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
     <string name="tip">İpucu</string>
     <string name="user_guide">Kullanıcı kılavuzu</string>
@@ -149,8 +149,8 @@
 
     <string name="import_file_confirm_format">^1 içe aktarmak istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-        <item/> <!-- Not used -->
         <item>^1 dosyalarını içe aktarmak istiyor musunuz</item> <!-- This is a question, but the question mark will be added progrmatically -->
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 
@@ -170,13 +170,13 @@
     
     <string name="password_time_out_period">Şifre süresi sonlandırma döngüsü</string>
 	<string-array name="n_seconds_format_plurals">
-        <item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 saniye</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="n_minutes_format_plurals">
         <item>^1 dakika</item>
-        <item>^1 dakika</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
     
@@ -243,14 +243,14 @@
     
 	<string name="backed_up_book_format">^1 yedeklendi</string>
     <string-array name="backed_up_books_format_plurals">
-        <item/> <!-- Not used -->
         <item>^1 kitapları yedeklendi</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="book_exported_format_plurals">
         <item>^1 işlemi dışa aktarıldı</item>
-        <item>^1 işlemler dışa aktarıldı</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 
@@ -280,14 +280,14 @@
 
 	<string name="qif_csv_encoding">QIF/CSV kodlama</string>
     <string name="ofx_qfx_encoding">OFX/QFX/OFS kodlama</string>
-<!-- New -->	<string-array name="encodings">
+	<string-array name="encodings">
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
-        <item>GBK (Chinese national standard)</item>
-        <item>Cyrillic (Windows)</item>
-        <item>Western European (Windows)</item>
-        <item>Central European (Windows)</item>
-        <item>UTF-16BE (Unicode)</item>
+		<item>GBK (Çin Ulusal Standartı)</item>
+		<item>Kiril (Windows)</item>
+        <item>Batı Avrupa (Windows)</item>
+        <item>Orta Avrupa(Windows)</item>
+		<item>UTF-16BE (Unicode)</item>
         <item>UTF-16LE (Unicode)</item>
 	</string-array>
 
@@ -297,8 +297,8 @@
 
     <string name="delete_entry_warning_format">^1 girdisi silinecek</string>
     <string-array name="delete_entries_warning_format_plurals">
-        <item/> <!-- Not used -->
         <item>^1 girdileri silinecek</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 </resources>

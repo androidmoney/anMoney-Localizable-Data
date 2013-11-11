@@ -40,8 +40,8 @@
     <string name="delete_class_no_subclass_warning_format">^1 sınıfı tümüyle silinecek</string>
     <string name="delete_category_with_subcategories_warning_format">^1 kategorisi ve <b>tüm alt kategorileri</b> tümüyle silinecek</string>
     <string name="delete_class_with_subclass_warning_format">^1 sınıfı ve <b>tüm alt sınıfları</b> tümüyle silinecek</string>
-<!-- New --> <string name="delete_subcategory_warning_format">Subcategory ^1 will be permanently deleted</string>
-<!-- New --> <string name="delete_subclass_warning_format">Subclass ^1 will be permanently deleted</string>
+	<string name="delete_subcategory_warning_format">Alt kategori ^1 tümüyle silinecek</string>
+	<string name="delete_subclass_warning_format">Alt sınıf ^1 tümüyle silinecek</string>
     <string name="delete_classification_warning_format">^1 sınıflandırması tümüyle silinecek. Sınıflandırmaya ait tüm işlemler kaldırılacak</string>
     <string name="default_categories_add_confirmation">Hazır kategoriler eklemek istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="default_categories_added">Hazır kategoriler eklendi</string>
@@ -90,13 +90,13 @@
 	<string name="no_categories_yet">Henüz kategoriler yok</string>
     <string name="no_classes_yet">Henüz sınıflar yok</string>
 	<string-array name="category_count_format_plurals">
-        <item/> <!-- Not used -->
         <item>^1 kategorileri</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="uncategorized_count_plurals">
         <item>^1 kategorilendirilmemiş işlem</item>
-        <item>^1 kategorilendirilmemiş işlemler</item>
+        <item/> <!-- Not used -->
         <item/> <!-- Not used -->
 	</string-array>
 

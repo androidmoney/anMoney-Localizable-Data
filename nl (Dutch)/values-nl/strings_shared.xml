@@ -18,7 +18,8 @@
 	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol">*</string>
-    <string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
+	<string name="ellipsis_start_format">…^1</string>
+	<string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
     <string name="filter_by_order_format">^1 door ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 door ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 door ^2 ^3 voor ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
@@ -120,9 +121,9 @@
 	<string name="archiving">Archiveren</string>
 	<string name="archiving_settings">Archivering instellingen</string>
     <string name="more">Meer</string>
-<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
-		<item>^1 verder</item>
-		<item>^1 verder</item>
+	<string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 meer</item>
+		<item>^1 meer</item>
 		<item/> <!-- Not used -->
 	</string-array>
     <string name="specify_options">Specificeer opties</string>

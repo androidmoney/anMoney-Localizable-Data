@@ -60,7 +60,7 @@
 	<string name="import_folder">Pasta de importação</string>
 	<string name="export_folder">Pasta de exportação</string>
     <string name="ask_to_view_imported_transaction">Você gostaria de ver as transações importadas</string>
-	<string name="import_same_time_warning">Se você tiver mais que uma conta para importar, certifique-se de importá-las ao mesmo tempo. Ao fazer uma a uma, transações podem ser duplicadas, e isso deve ser evitado</string> --> 
+	<string name="import_same_time_warning">Se você tiver mais que uma conta para importar, certifique-se de importá-las ao mesmo tempo. Ao fazer uma a uma, transações podem ser duplicadas, e isso deve ser evitado</string> 
     <string name="tip">Dica</string>
     <string name="user_guide">Manual do usuário</string>
 	<string name="user_guide_url">http://goo.gl/QutTB</string>

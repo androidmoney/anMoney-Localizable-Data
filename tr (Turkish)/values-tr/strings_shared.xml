@@ -11,13 +11,14 @@
 	<string name="colon_format">^1:</string>
 	<string name="two_part_slash_format">^1 / ^2</string>
 	<string name="two_part_comma_format">^1, ^2</string>
-<!-- New --> <string name="default_name_format">^1 No. ^2</string> <!-- "Book No. 2" -->
+	<string name="default_name_format">^1 No. ^2</string> <!-- "Book No. 2" -->
 	<string name="percent_sign">%</string>
 	<string name="percentage_format">^1%</string>
 	<string name="plus_after_format">^1+</string>
 	<string name="plus_before_format">+ ^1</string>
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+	<string name="ellipsis_start_format">…^1</string>
 	<string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
 	<string name="filter_by_order_format">^2 göre ^1</string> <!-- Example: "All accounts by name" -->
 	<string name="filter_by_direction_order_format">^1 göre ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
@@ -120,9 +121,9 @@
 	<string name="archiving">Arşivleniyor</string>
 	<string name="archiving_settings">Arşivleme ayarları</string>
 	<string name="more">Daha fazla</string>
-<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
-		<item>^1 more</item>
-		<item>^1 more</item>
+	<string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1 daha</item>
+        <item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 	</string-array>
 	<string name="specify_options">Seçenekleri belirleyin</string>
@@ -154,8 +155,8 @@
 	<string name="no_items">Herhangi bir öğe yok</string>
 	<string name="no_items_yet">Henüz herhangi bir öğe yok</string>
 	<string-array name="items_format_plurals">
-		<item/> <!-- Not used -->
 		<item>^1 öğe</item>
+		<item/> <!-- Not used -->
 		<item/> <!-- Not used -->
 	</string-array>
 

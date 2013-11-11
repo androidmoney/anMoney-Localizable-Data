@@ -48,7 +48,7 @@
 	<string name="page_format">Sayfa ^1</string>
 
 	<string name="page_size">Sayfa boyutu</string>
-<!-- New --> <string-array name="page_size_items">
+	<string-array name="page_size_items"> <!-- OK to leave in English -->
 		<item>A3</item>
 		<item>A4</item>
 		<item>A5</item>
