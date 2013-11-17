@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<name>澳元</name>
+		<iso4217>AUD</iso4217>
+	</record>
+	<record>
+		<name>波斯尼亞-黑塞哥維那可轉換馬克</name>
+		<iso4217>BAM</iso4217>
+	</record>
+	<record>
+		<name>加元</name>
+		<iso4217>CAD</iso4217>
+	</record>
+	<record>
+		<name>中非法郎</name>
+		<iso4217>XAF</iso4217>
+	</record>
+	<record>
+		<symbol>$</symbol>
+		<name>港元</name>
+		<iso4217>HKD</iso4217>
+	</record>
+	<record>
+		<name>紐西蘭元</name>
+		<iso4217>NZD</iso4217>
+	</record>
+	<record>
+		<name>多哥非洲共同體法郎</name>
+		<iso4217>XOF</iso4217>
+	</record>
+	<record>
+		<name>新加坡元</name>
+		<iso4217>SGD</iso4217>
+	</record>
+	<record>
+		<name>新台幣</name>
+		<iso4217>TWD</iso4217>
+	</record>
+	<record>
+		<name>美元</name>
+		<iso4217>USD</iso4217>
+	</record>
+	<record>
+		<name>太平洋法郎</name>
+		<iso4217>XPF</iso4217>
+	</record>
+</records>
+	

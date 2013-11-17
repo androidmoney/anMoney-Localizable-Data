@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="two_part_format_normal_width">^1 ^2</string>
+    <string name="two_part_format_full_width">^1^2</string>
+    <string name="sentence_end_period_format">^1。</string>
+    <string name="sentence_end_question_mark_format">^1？</string>
+    <string name="parantheses_format_normal_width">(^1)</string>
+    <string name="parantheses_format_full_width">（^1）</string>
+    <string name="two_items_dash_with_space_format">^1 ～ ^2</string>
+    <string name="two_items_dash_without_space_format">^1～^2</string>
+    <string name="colon_format">^1:</string>
+    <string name="two_part_slash_format">^1／^2</string>
+    <string name="two_part_comma_format">^1、^2</string>
+	<string name="default_name_format">^1編號^2</string> <!-- "Book No. 2" -->
+    <string name="percent_sign">%</string>
+    <string name="percentage_format">^1%</string>
+	<string name="plus_after_format">^1+</string>
+	<string name="plus_before_format">+ ^1</string>
+	<string name="equals_format">^1=</string>
+	<string name="footnote_symbol"><sup><small>*</small></sup></string>
+	<string name="ellipsis_start_format">……^1</string>
+	<string name="quarter_format">^2 ^1季</string> <!-- As in "Q1 2013" -->
+    <string name="filter_by_order_format">^1排序以^2</string> <!-- Example: "All accounts by name" -->
+    <string name="filter_by_direction_order_format">^1排序以^2^3</string> <!-- Example: "All payees by decreasing date" -->
+    <string name="filter_for_item_by_direction_order_for_date_range_format">^1排序以^2^3在^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+    <string name="_continue">繼續</string>
+	<string name="continue_question">繼續</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="home">主頁</string> <!-- Home screen -->
+	<string name="home_screen">首頁</string>
+    <string name="previous">前一頁</string>
+    <string name="next">後一頁</string>
+    <string name="_import">匯入</string> <!-- This is a verb -->
+    <string name="imported">已匯入</string>
+    <string name="import_canceled">已取消匯入</string>
+    <string name="export">匯出</string> <!-- This is a verb -->
+    <string name="export_canceled">已取消匯出</string>
+	<string name="import_export">匯入/匯出</string>
+    <string name="display_options">顯示選項</string>
+    <string name="add_favorite">加到我的最愛</string>
+    <string name="added_to_favorites">已加到我的最愛</string>
+    <string name="remove">移除</string>
+    <string name="remove_favorite">從我的最愛中移除</string>
+    <string name="removed_from_favorites">已從我的最愛中移除</string>
+    <string name="save">儲存</string> <!-- This is a verb -->
+    <string name="saved">已儲存</string>
+    <string name="save_canceled">已取消儲存</string>
+    <string name="canceled">已取消</string>
+    <string name="delete">刪除</string>
+    <string name="deleted">已刪除</string>
+    <string name="delete_canceled">已取消刪除</string>
+    <string name="create">建立</string>
+    <string name="created">已建立</string>
+    <string name="create_canceled">已取消建立</string>
+	<string name="create_what">建立什麼</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="edit">編輯</string>
+    <string name="edit_canceled">已取消編輯</string>
+	<string name="edit_which">編輯哪一個</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="copy">複製</string>
+    <string name="copied">已複製</string>
+    <string name="move">移動</string>
+    <string name="moved">已移動</string>
+    <string name="duplicate">複製</string>
+    <string name="duplicated">已複製</string>
+    <string name="rename">重新命名</string>
+    <string name="renamed">已重新命名</string>
+    <string name="rename_canceled">已取消重新命名</string>
+    <string name="link">連結</string>
+    <string name="linked">已連結</string>
+    <string name="combine">合併</string>
+    <string name="combined">已合併</string>
+    <string name="copy_to_clipboard">複製到剪貼簿</string>
+    <string name="set">設定</string> <!-- Set a value -->
+	<string name="share">分享</string>
+	<string name="share_canceled">已取消分享</string>
+    <string name="create_in_app_name_format">建立到^1</string> <!-- Create in Contacts -->
+    <string name="pick_from_app_name_format">選擇自^1</string> <!-- Pick from Contacts -->
+    <string name="do_not_ask_again">不要再詢問</string>
+    <string name="apply_to_all">套用到全部</string>
+	<string name="all_items">所有項目</string>
+    <string name="notes">備註</string>
+    <string name="no_notes">尚無備註</string>
+    <string name="required">必要</string>
+    <string name="name">姓名</string>
+    <string name="invalid_name">姓名無效</string>
+    <string name="name_exists">姓名已存在</string>
+    <string name="amount">金額</string>
+    <string name="start_date">開始日期</string>
+    <string name="end_date">結束日期</string>
+    <string name="must_be_less_than_format">必須 &lt; ^1</string>
+    <string name="must_be_greater_than_format">必須 > ^1</string>
+    <string name="reset">重設</string>
+    <string name="total">總共</string>
+    <string name="grand_total">累計</string> <!-- Grand total amount -->
+    <string name="average">平均</string> <!-- Average amount -->
+    <string name="export_file_name">匯出檔案名</string>
+    <string name="specify_export_file_name">指定匯出檔案名</string>
+    <string name="file_exists">檔案名稱已經存在</string>
+    <string name="folder_exists">資料夾名稱已經存在</string>
+    <string name="choose_another_name">選擇其他名稱</string>
+    <string name="will_be_overwritten">這將會被覆蓋</string>
+    <string name="calendar">日曆</string>
+    <string name="remind_me">提醒我</string>
+    <string name="add_as_a_contact">添加為聯繫人</string>
+    <string name="to_from_format">^1^2</string> <!-- To <account>, From <account> -->
+    <string name="to">致</string> <!-- To <account> -->
+    <string name="from">由</string> <!-- From <account> -->
+	<string name="send_email">傳送電子郵件</string>
+	<string name="please_read">請閱讀</string>
+	<string name="rate_app_format">評分^1</string> <!-- ^1 is app name -->
+	<string name="please_rate_app_format">請用一點時間\n為我們評分^1</string> <!-- ^1 is app name -->
+	<string name="later_rate_description">一週後會再提醒您</string>
+	<string name="no_rate_description_format">您可以隨時在這裡評分^1</string> <!-- ^1 is "Settings" -->
+	<string name="task_killer_warning_format">關於“task killer”程式的警告:\n\n您的裝置每天將會「喚醒」一次以執行自動程序。因此程序只會持續幾秒鐘，它並不會對您裝置的電池壽命造成不利影響。\n\nTask killer程式有能力並將會防止此背景程序正確執行，因此不應該用在^1上面</string> <!-- ^1 is app name -->
+	<string name="no_thanks">不用了，謝謝</string>
+	<string name="maybe_later">稍後再說</string>
+	<string name="unexpected_error_warning">anMoney發生未知的問題，需要強制關閉.\n\n請協助將錯誤報告電郵給我們，以便我們修正此問題。傳送電郵之前您可以修改內容。\n\n謝謝您的合作。</string>
+    <string name="unexpected_error_notification_ticker">未知的錯誤。請傳送錯誤報告。</string>
+    <string name="unexpected_error_notification_title">anMoney已強制關閉</string>
+    <string name="unexpected_error_notification_text">點擊這裡來傳送錯誤報告</string>
+    <string name="unexpected_error_comment">如方便，請描述發生問題時您執行的工作是什麼</string>
+	<string name="archiving">歸檔</string>
+	<string name="archiving_settings">歸檔設定</string>
+    <string name="more">更多</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+		<item>^1更多</item>
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
+    <string name="specify_options">指定選項</string>
+	<string name="expand_all">全部展開</string>
+	<string name="all_expanded">已全部展開</string>
+	<string name="collapse_all">全部摺疊</string>
+	<string name="all_collapsed">已全部摺疊</string>
+    <string name="postal_address">郵政地址</string>
+    <string name="postal_address_hint">街道\n鄉鎮\n郵遞區號</string> <!-- Replace this with locale specific fields -->
+    <string name="cannot_perform_sd_card_operation">此動作無法執行，可能您設備內沒有SD記憶卡，或者您的設備正在連接電腦，使記憶卡無法存取</string>
+    <string name="cannot_perform_file_system_operation_format">此動作無法執行，因內部存儲路徑（^1）無法存取</string>
+    <string name="please_correct_and_try_again">請修正及再試一次</string>
+    <string name="no_network_message_format">^1需要定期連接網路來進行授權驗證。\n\n請開啟網絡傳輸並再試一次。\n你可以在完成後關閉網絡連線。\n\n點擊^2設定^3</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen  -->
+    <string name="calculator">計算機</string>
+    <string name="only_in_full_version">僅限專業版本</string>
+    <string name="will_not_effect_transactions">這<b>不會</b>影響任何現有交易</string>
+    
+	<string name="free_limitations">購買專業版本以解除下列限制:\n\n
+	<li>沒有密碼保護</li>\n
+	<li>沒有自動備份資料</li>\n
+	<li>沒有自定義報告</li>\n
+	<li>只限QIF匯入</li>\n
+	<li>沒有整合聯絡人</li>\n
+	<li>最多2個銀行，1張信用卡，及1個現金帳戶</li>\n
+	<li>最多5個預算項目</li>\n
+	<li>最多3個經常性帳單或存款</li> 
+	</string>
+
+	<string name="no_items">沒有項目</string>
+    <string name="no_items_yet">尚未有項目</string>
+	<string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
+        <item>^1項目</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
+    
+    <string-array name="reminder_leads">
+        <item>不要提醒我</item>
+        <item>那一天</item>
+        <item>一日前</item>
+        <item>兩日前</item>
+        <item>一週前</item>
+        <item>兩週前</item>
+    </string-array>
+
+	<string-array name="nth_day_of_the_month">
+		<item>1日</item>
+		<item>2日</item>
+		<item>3日</item>
+		<item>4日</item>
+		<item>5日</item>
+		<item>6日</item>
+		<item>7日</item>
+		<item>8日</item>
+		<item>9日</item>
+		<item>10日</item>
+		<item>11日</item>
+		<item>12日</item>
+		<item>13日</item>
+		<item>14日</item>
+		<item>15日</item>
+		<item>16日</item>
+		<item>17日</item>
+		<item>18日</item>
+		<item>19日</item>
+		<item>20日</item>
+		<item>21日</item>
+		<item>22日</item>
+		<item>23日</item>
+		<item>24日</item>
+		<item>25日</item>
+		<item>26日</item>
+		<item>27日</item>
+		<item>28日</item>
+		<item>29日</item>
+		<item>30日</item>
+		<item>31日</item>
+	</string-array>
+
+    <string name="display_direction">顯示方向</string>
+	<string-array name="sort_direction_items">
+		<item>遞增</item>
+		<item>遞減</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>遞增</item>
+		<item>遞減</item>
+	</string-array>
+</resources>

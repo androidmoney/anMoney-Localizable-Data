@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>	
+    <string name="category_main_sub_separator">：</string>
+    <string name="category_main_sub_format">^1^2^3</string>
+    <string name="category">類別</string>
+    <string name="categories">@string/category</string>
+    <string name="subcategory">子類別</string>
+    <string name="classification">分類</string>
+    <string name="_class">類別</string>
+    <string name="subclass">子類別</string>
+    <string name="parent_category">父類型</string>  <!-- This is the main category that a subcategory belongs to -->
+    <string name="parent_class">父類別</string>  <!-- This is the main class that a subclass belongs to -->
+    <string name="edit_category">編輯類型</string>
+    <string name="edit_subcategory">編輯子類型</string>
+    <string name="edit_class">編輯類別</string>
+    <string name="edit_subclass">編輯子類別</string>
+    <string name="new_category">新增類型</string>
+    <string name="new_subcategory">新增子類型</string>
+    <string name="new_class">新增類別</string>
+    <string name="new_subclass">新增子類別</string>
+    <string name="delete_category">刪除類型</string>
+    <string name="delete_subcategory">刪除子類型</string>
+    <string name="delete_class">刪除分類</string>
+    <string name="delete_subclass">刪除子分類</string>
+    <string name="add_default_categories">加入預設類型</string>
+    <string name="add_classification">加入分類</string>
+    <string name="select_category">選擇類型</string>
+    <string name="select_class">選擇分類</string>
+    <string name="delete_classification">刪除分類</string>
+    <string name="rename_classification">重新命名分類</string>
+    <string name="select_classification">選擇分類</string>
+    <string name="enter_classification_name">輸入分類名稱</string>
+    <string name="enter_new_classification_name">輸入新分類名稱</string>
+    <string name="categories_and_classifications">類型及分類</string>
+    <string name="no_categories_expense">您沒有任何支出類型</string>
+    <string name="no_categories_income">您沒有任何收入類型</string>
+    <string name="no_classes">您沒有任何類別</string>
+    <string name="uncategorized_transactions">未分類的交易</string>
+    <string name="delete_category_no_subcategories_warning_format">類型^1將會被永久刪除</string>
+    <string name="delete_class_no_subclass_warning_format">分類^1將會被永久刪除</string>
+    <string name="delete_category_with_subcategories_warning_format">類型^1及<b>所有其子類型</b>均會被永久刪除</string>
+    <string name="delete_class_with_subclass_warning_format">分類^1及<b>所有其子分類</b>均會被永久刪除</string>
+    <string name="delete_subcategory_warning_format">子類型^1將會被永久刪除</string>
+    <string name="delete_subclass_warning_format">子分類^1將會被永久刪除</string>
+    <string name="delete_classification_warning_format">分類^1將會被永久刪除。所有交易將會刪除其相關分類資訊</string>
+    <string name="default_categories_add_confirmation">您是否想要加入預設類型</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="default_categories_added">預設類型已加入</string>
+    <string name="all_categories">所有類型</string>
+    <string name="expense">支出</string>
+    <string name="expenses">支出</string>
+    <string name="expense_categories">支出類型</string>
+    <string name="income">收入</string>
+    <string name="income_categories">收入類型</string>
+    <string name="savings">存款</string> <!-- As in "amount saved by budgeting" -->
+    <string name="category_name">類型名稱</string>
+    <string name="subcategory_name_lower">子類型名稱</string>
+    <string name="class_name">分類名稱</string>
+    <string name="subclass_name_lower">子分類名稱</string>
+    <string name="without_subcategory">沒有子類型</string>
+    <string name="without_subclass">沒有子分類</string>
+    <string name="cannot_be_zero">不能為0</string>
+    <string name="change_expense_warning">您是否要將此類型由支出轉為收入或其他類型</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="prepopulate">以預設類型填入</string>
+    <string name="short_categories">僅載入簡短類型列表（您可以隨時選擇載入詳細列表）</string>
+    <string name="view_categories">檢視類型</string>
+    <string name="category_not_found">找不到類型</string>
+    <string name="class_not_found">找不到分類</string>
+    <string name="total_income">總收入</string>
+    <string name="total_expense">總開支</string>
+	<string name="net">淨</string>
+    <string name="net_income">淨收入</string>
+    <string name="uncategorized">未分類</string>
+    <string name="income_uncategorized">未分類收入</string>
+    <string name="expense_uncategorized">未分類支出</string>
+    <string name="show_uncategorized">顯示未分類項目</string>
+    <string name="move_subcategory_to_another_category_warning">您是否需要移動此子類型到其他父類型</string> <!-- This is a question, but the question mark will be added progrmatically -->
+    <string name="show_zero_balance_categories">顯示所有餘額為零的類型</string>
+    <string name="show_zero_balance_items">顯示所有餘額為零的項目</string> <!-- "Items" refers to classification name -->
+    <string name="recategorize_category">將全部具有此類型的交易更改類型為</string>
+    <string name="reclassify_class">將全部具有此分類的交易更改分類為</string>
+	<string name="spending_by_category0">類型別支出</string>
+	<string name="spending_by_category1">類型別支出或^1</string>
+	<string name="spending_by_category2">類型別支出、^1或^2</string>
+	<string name="spending_by_category_over_time0">歷來類型別支出</string>
+	<string name="spending_by_category_over_time1">歷來類型別支出或^1</string>
+	<string name="spending_by_category_over_time2">歷來類型別支出^1或^2</string>
+<!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
+<!-- New --> <string name="last_account_used">The last account used</string>
+		
+	<string name="no_categories_yet">尚無類型</string>
+    <string name="no_classes_yet">尚無分類</string>
+	<string-array name="category_count_format_plurals">
+        <item>^1類型</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
+	<string-array name="uncategorized_count_plurals">
+        <item>^1多筆未歸類交易</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="default_classifications">
+		<item>家庭成員</item>
+		<item>屬性</item>
+		<item>計畫</item>
+		<item>愛好</item>
+		<item>假期</item>
+		<item>工作開支</item>
+		<item>其他</item>
+	</string-array>
+</resources>

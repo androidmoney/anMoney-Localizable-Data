@@ -61,7 +61,6 @@
 	<string name="export_folder">Klasör dışa aktar</string>
     <string name="ask_to_view_imported_transaction">İçe alınan işlemleri görmek istermisiniz</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="import_same_time_warning">Eğer içe aktarma için birden fazla hesabınız varsa, bu işlemi hepsi için aynı zamanda yaptığınızdan emin olun. Ayrı zamanlarda yapmak, aynı işlemin birden fazla yer almasına neden olabilir ve bundan kaçınmak gerekir</string> 
-	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
     <string name="tip">İpucu</string>
     <string name="user_guide">Kullanıcı kılavuzu</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>

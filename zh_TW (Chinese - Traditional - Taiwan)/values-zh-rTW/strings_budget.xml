@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="budget">預算</string>
+    <string name="view_budget">檢視預算</string>
+    <string name="edit_budget_item">編輯預算項目</string>
+    <string name="new_budget_item">新增預算項目</string>
+    <string name="over_budget">超出預算</string>
+    <string name="expenses_over_budget">支出超過預算</string>
+    <string name="within_budget">預算之內</string>
+    <string name="expenses_within_budget">支出在預算之內</string>
+    <string name="budgeted_amount">已編入預算</string>
+    <string name="actual_amount">實際</string>
+    <string name="remainder_amount">餘數</string>
+	<string name="budget_vs_actual">預算ＶＳ實際</string> <!-- This is a report name -->
+	<string name="budget_over_time">長期預算</string> <!-- This is a report name -->
+    <string name="recurring_bill_or_deposit_from">經常性帳單或存款來自於</string>
+    <string name="an_additional_amount_for_this_category">此類別的一筆追加金額</string>
+    <string name="an_additional_amount_for_this_class">此等級的一筆追加金額</string>
+    <string name="the_additional_amount_for_this_category">此類別的追加金額</string>
+    <string name="the_additional_amount_for_this_class">此等級的追加金額</string>
+    <string name="currently_daily_format">目前^1每日</string>
+    <string name="currently_weekly_format">目前^1每週</string>
+    <string name="currently_biweekly_format">目前^1隔週</string>
+    <string name="currently_monthly_format">目前^1每月</string>
+    <string name="currently_quarterly_format">目前^1每季</string>
+    <string name="currently_half_yearly_format">目前^1每半年</string>
+    <string name="currently_yearly_format">目前^1每年</string>
+    <string name="currently_custom_format">目前 自定義總共^1每年</string>
+    <string name="budget_no_categories_yet">設定預算之前，請建立類別</string>
+    <string name="budget_no_accounts_yet">設定預算之前，請建立帳戶</string>
+    <string name="select_budget_period">選擇預算週期以檢視</string>
+    <string name="all_others">其他</string>
+    <string name="all_other_spending">所有其他支出</string>
+    <string name="special_item">特別項目</string>
+    <string name="no_budget_items">您沒有任何預算項目</string>
+    <string name="customized_schedule">訂製化時間表</string> <!-- As in "Customized monthly budget amounts" -->
+	<string name="include_budget_items">包含預算項目</string> <!-- as in "Include budget items on report" -->
+</resources>

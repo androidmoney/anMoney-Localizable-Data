@@ -127,7 +127,7 @@
     <string name="projected_balance_at_the_end_of_the_month">உத்தேசிக்கப்பட்ட மாதயிறுதி மீதம்</string>
     <string name="at_months_end">மாத இறுதியில்</string>
 	<string name="projected_balance_on_the_nth_day_of_the_month_format">^1 ல் உத்தேசிக்கப்பட்ட மீதம்</string> <!-- ^1 is a date -->
-	<string name="total_for_format">^1 ல் கூடுதல்</string>  <!-- ^1 is a name -->
+	<string name="total_for_format">^1 ன் கூடுதல்</string>  <!-- ^1 is a name -->
 	<string name="total_for_month">மாத கூடுதல்</string>
 	<string name="period">காலம்</string>
 	<string name="total_for_period">காலத்தின் கூடுதல்</string>
