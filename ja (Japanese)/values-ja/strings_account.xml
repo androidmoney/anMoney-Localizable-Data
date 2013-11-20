@@ -118,6 +118,7 @@
 	<string name="cleared_total">クリア済みの合計</string>
 	<string name="reconciled_total">調整済みの合計</string>
 	<string name="filtered_total">フィルター適用分の合計</string>
+<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">現金口座</string>
 	<string name="default_checking_account_name">当座預金口座</string>
 	<string name="default_savings_account_name">普通預金口座</string>

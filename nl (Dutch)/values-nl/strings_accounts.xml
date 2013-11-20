@@ -118,6 +118,7 @@
 	<string name="cleared_total">Toegekend totaal</string>
 	<string name="reconciled_total">Gecontroleerde totaal</string>
 	<string name="filtered_total">Gefilterd totaal</string>
+<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">Mijn dagelijks kontant</string>
     <string name="default_checking_account_name">Mijn huidige rekening</string>
     <string name="default_savings_account_name">Mijn spaarrekening</string>

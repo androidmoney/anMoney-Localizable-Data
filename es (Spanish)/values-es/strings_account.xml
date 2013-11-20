@@ -118,6 +118,7 @@
 	<string name="cleared_total">Total compensado</string>
 	<string name="reconciled_total">Total conciliado</string>
 	<string name="filtered_total">Total filtrado</string>
+<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">Mi caja diaria</string>
 	<string name="default_checking_account_name">Mi cuenta corriente</string>
 	<string name="default_savings_account_name">Mi cuenta de ahorros</string>

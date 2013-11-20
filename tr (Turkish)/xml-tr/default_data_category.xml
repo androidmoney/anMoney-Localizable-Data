@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<records>
+	<record>
+		<mainCategory>Nafaka</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Otomobil</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+		<defaultForSample>2</defaultForSample>
+	</record>
+	<record>
+		<mainCategory>Otomobil</mainCategory>
+		<subcategory>Araç Ödemesi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Otomobil</mainCategory>
+		<subcategory>Yakıt</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Otomobil</mainCategory>
+		<subcategory>Bakım</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Banka Masrafları</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Banka Masrafları</mainCategory>
+		<subcategory>Faiz Ödemeleri</subcategory>
+		<expense>1</expense>
+		<defaultForInterestPaid>1</defaultForInterestPaid>
+	</record>
+	<record>
+		<mainCategory>Banka Masrafları</mainCategory>
+		<subcategory>Servis Ücretleri</subcategory>
+		<expense>1</expense>
+		<defaultForServiceCharge>1</defaultForServiceCharge>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Kablo / Uydu Yayını</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Cep Telefonu</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Elektrik</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Geri Dönüşüm / Çöp</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Sağlık Kulübü</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Apartman Aidatı</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Üyelik Aidatı</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Konut Kredisi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Doğal Gaz / Gaz</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Gazete</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Internet</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Diğer Kredi Ödemeleri</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Kira</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Öğrenci Kredisi Ödeme</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Sabit Telefon</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Aylık Ödemeler</mainCategory>
+		<subcategory>Su / Kanalizasyon</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Nakit Çekim</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Bağış</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Çocuk Bakımı</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Çocuklar / Oyuncaklar</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Çocuklar / Oyuncaklar</mainCategory>
+		<subcategory>Çocuk Desteği</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Çocuklar / Oyuncaklar</mainCategory>
+		<subcategory>Gündüz Bakım</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Giyim</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Kredi Kartı Ödemeleri / Transferler</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Dışarıda Akşam Yemeği</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Eğitim</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Eğitim</mainCategory>
+		<subcategory>Kitap</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Eğitim</mainCategory>
+		<subcategory>Harç</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Eğitim</mainCategory>
+		<subcategory>Ders Ücreti</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Eğlence</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Ödeme</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Yiyecek</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hediye</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Market</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+		<defaultForSample>1</defaultForSample>
+	</record>
+	<record>
+		<mainCategory>Sağlık Hizmetleri</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Sağlık Hizmetleri</mainCategory>
+		<subcategory>Dişçi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sağlık Hizmetleri</mainCategory>
+		<subcategory>Göz Sağlığı</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sağlık Hizmetleri</mainCategory>
+		<subcategory>Hastane</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sağlık Hizmetleri</mainCategory>
+		<subcategory>Hekim</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sağlık Hizmetleri</mainCategory>
+		<subcategory>Reçete</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<subcategory>Kitap / Dergi</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<subcategory>Kültürel Etkinlikler</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<subcategory>Eğlence</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<subcategory>Film / Video Kiralama</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<subcategory>Spor Etkinlikleri</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<subcategory>Spor Malzemeleri</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<subcategory>Bant / CD</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Hobi / Boş Vakit</mainCategory>
+		<subcategory>Oyuncak / Oyun</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Ev Geliştirme</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Ev</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Ev</mainCategory>
+		<subcategory>Mobilya</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Ev</mainCategory>
+		<subcategory>Ev Temizliği</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Ev</mainCategory>
+		<subcategory>Bahçe İşleri</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sigorta</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Sigorta</mainCategory>
+		<subcategory>Otomobil</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sigorta</mainCategory>
+		<subcategory>Sağlık</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sigorta</mainCategory>
+		<subcategory>Ev</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sigorta</mainCategory>
+		<subcategory>Hayat</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>İş Giderleri</mainCategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>İş Giderleri</mainCategory>
+		<subcategory>İadesiz</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>İş Giderleri</mainCategory>
+		<subcategory>İade</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Kredi</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Kredi</mainCategory>
+		<subcategory>Kredi Taksiti</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Kredi</mainCategory>
+		<subcategory>Konut Kredisi Taksiti</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Kredi</mainCategory>
+		<subcategory>Öğrenci Kredisi Taksiti</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Diğer</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+		<defaultForBalanceAdjustment>1</defaultForBalanceAdjustment>
+	</record>
+	<record>
+		<mainCategory>Konut / Kira</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Kişisel Bakım</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Evcil Hayvan Bakımı</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Evcil Hayvan Bakımı</mainCategory>
+		<subcategory>Yiyecek</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Evcil Hayvan Bakımı</mainCategory>
+		<subcategory>Malzemeler</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Evcil Hayvan Bakımı</mainCategory>
+		<subcategory>Veteriner</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Sabit Telefon / Cep Telefonu</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Hizmet / Üyelik</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Vergi</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Vergi</mainCategory>
+		<subcategory>ÖTV / KDV</subcategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Seyahat / Tatil</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Seyahat / Tatil</mainCategory>
+		<subcategory>Konaklama</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Seyahat / Tatil</mainCategory>
+		<subcategory>Yolculuk</subcategory>
+		<expense>1</expense>
+	</record>
+	<record>
+		<mainCategory>Kamu Hizmetleri</mainCategory>
+		<expense>1</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Yatırım Gelirleri</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Yatırım Gelirleri</mainCategory>
+		<subcategory>Sermaye Kazançları</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Yatırım Gelirleri</mainCategory>
+		<subcategory>Kar Payı</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Yatırım Gelirleri</mainCategory>
+		<subcategory>Faiz</subcategory>
+		<expense>0</expense>
+		<defaultForInterestEarned>1</defaultForInterestEarned>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Yatırım Gelirleri</mainCategory>
+		<subcategory>Vergi Muafiyeti</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Diğer Gelirleri</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Diğer Gelirler</mainCategory>
+		<subcategory>Çocuk Desteği</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Diğer Gelirler</mainCategory>
+		<subcategory>Çalışan Hissesi</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Diğer Gelirler</mainCategory>
+		<subcategory>Hediye Gelen</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Diğer Gelirler</mainCategory>
+		<subcategory>Alınan Kredi</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Diğer Gelirler</mainCategory>
+		<subcategory>Şans Oyunları</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Diğer Gelirler</mainCategory>
+		<subcategory>İşsizlik Maaşı</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Emekli Maaşı</mainCategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Ücret / Maaş</mainCategory>
+		<expense>0</expense>
+		<short>1</short>
+		<defaultForSample>3</defaultForSample>
+	</record>
+	<record>
+		<mainCategory>Ücret / Maaş</mainCategory>
+		<subcategory>İkramiye</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Ücret / Maaş</mainCategory>
+		<subcategory>Görev Ücreti</subcategory>
+		<expense>0</expense>
+	</record>
+	<record>
+		<mainCategory>Ücret / Maaş</mainCategory>
+		<subcategory>Brüt Ödeme</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Ücret / Maaş</mainCategory>
+		<subcategory>Net Ödeme</subcategory>
+		<expense>0</expense>
+		<short>1</short>
+	</record>
+	<record>
+		<mainCategory>Ücret / Maaş</mainCategory>
+		<subcategory>Fazla Mesai</subcategory>
+		<expense>0</expense>
+	</record>
+</records>

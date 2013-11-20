@@ -118,6 +118,7 @@
 	<string name="cleared_total">Elszámolt összeg</string>
 	<string name="reconciled_total">Egyeztetett összeg</string>
 	<string name="filtered_total">Szűrt összeg</string>
+	<string name="available_credit">Rendelkezésre álló hitel</string>
 	<string name="default_cash_account_name">Készpénzem</string>
     <string name="default_checking_account_name">Folyószámlám</string>
     <string name="default_savings_account_name">Takarékszámlám</string>

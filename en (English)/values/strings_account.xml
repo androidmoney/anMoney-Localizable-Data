@@ -119,6 +119,7 @@
 	<string name="cleared_total">Cleared total</string>
 	<string name="reconciled_total">Reconciled total</string>
 	<string name="filtered_total">Filtered total</string>
+	<string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">My Daily Cash</string>
 	<string name="default_checking_account_name">My Current Account</string>
 	<string name="default_savings_account_name">My Savings Account</string>

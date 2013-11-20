@@ -118,6 +118,7 @@
 	<string name="cleared_total">Abgeglichene Endsumme</string>
 	<string name="reconciled_total">Mit der Bank abgeglichene Endsumme</string>
 	<string name="filtered_total">Gefiltert total</string>
+<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">Meine täglichen Barmittel</string>
 	<string name="default_checking_account_name">Mein Girokonto</string>
 	<string name="default_savings_account_name">Mein Sparkonto</string>

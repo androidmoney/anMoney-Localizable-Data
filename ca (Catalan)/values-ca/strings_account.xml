@@ -117,6 +117,7 @@
 	<string name="cleared_total">Total autoritzat</string>
 	<string name="reconciled_total">Total conciliat</string>
 	<string name="filtered_total">Total filtrat</string>
+<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">La meva caixa diaria</string>
 	<string name="default_checking_account_name">El meu compte actual</string>
 	<string name="default_savings_account_name">El meu compte d’estalvis</string>

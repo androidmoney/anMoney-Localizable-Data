@@ -118,6 +118,7 @@
 	<string name="cleared_total">已清除之合計額</string>
 	<string name="reconciled_total">已對帳之合計額</string>
 <!-- New --> <string name="filtered_total">Filtered total</string>
+<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">我的每日現金</string>
     <string name="default_checking_account_name">我的常用帳戶</string>
     <string name="default_savings_account_name">我的儲蓄帳戶</string>
