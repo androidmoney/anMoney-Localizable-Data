@@ -195,8 +195,9 @@
 	<string name="warn_if_incorrect_category_type_description">Hvis valgt så vises en advarsel om kategoriens type ikke stemmer med betalingen</string>
 
 	<string name="modification_confirmation">Endringsbekreftelse</string>
+	<string name="none">Aldri</string>
 	<string-array name="modification_confirmation_items">
-		<item>Aldri</item>
+		<item>@string/none</item>
 		<item>Kun avstemte</item>
 		<item>Alle</item>
 	</string-array>

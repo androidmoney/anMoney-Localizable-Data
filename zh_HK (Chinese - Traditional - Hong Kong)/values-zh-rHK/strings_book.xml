@@ -195,8 +195,9 @@
     <string name="warn_if_incorrect_category_type_description">如勾選，在指定錯誤類別時會顯示警告訊息</string>
     
     <string name="modification_confirmation">修改確認</string>
-	<string-array name="modification_confirmation_items">
-		<item>無</item>
+	<string name="none">無</string>
+    <string-array name="modification_confirmation_items">
+		<item>@string/none</item>
 		<item>已對帳</item>
 		<item>所有</item>
 	</string-array>

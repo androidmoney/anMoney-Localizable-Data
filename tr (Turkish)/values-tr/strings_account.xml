@@ -119,7 +119,7 @@
 	<string name="cleared_total">Temizlenmiş toplam</string>
 	<string name="reconciled_total">Vadelendirilmiş toplam</string>
 	<string name="filtered_total">Filtrelenmiş toplam</string>
-<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
+<!-- New --> <string name="available_credit">Mevcut kredi</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">Günlük Nakitim</string>
     <string name="default_checking_account_name">Güncel Hesabım</string>
     <string name="default_savings_account_name">Birikim Hesabım</string>

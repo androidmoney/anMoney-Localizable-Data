@@ -194,8 +194,9 @@
     <string name="warn_if_incorrect_category_type_description">Se selecionado, um aviso é exibido se um tipo errado de categoria for informado</string>
     
     <string name="modification_confirmation">Confirmação de modificação</string>
-	<string-array name="modification_confirmation_items">
-		<item>Nenhum</item>
+	<string name="none">Nenhum</string>
+    <string-array name="modification_confirmation_items">
+		<item>@string/none</item>
 		<item>Somente reconciliadas</item>
 		<item>Todas</item>
 	</string-array>

@@ -195,8 +195,9 @@
 	<string name="warn_if_incorrect_category_type_description">Je-li zapnuto, bude zobrazeno varování je-li vybrána kategorie nesprávného typu</string>
 	
 	<string name="modification_confirmation">Potvrzování změn</string>
+	<string name="none">Neptat se</string>
 	<string-array name="modification_confirmation_items">
-		<item>Neptat se</item>
+		<item>@string/none</item>
 		<item>Jen odsouhlasené</item>
 		<item>Vždy</item>
 	</string-array>

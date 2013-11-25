@@ -118,7 +118,7 @@
 	<string name="cleared_total">Чистый баланс</string>
 	<string name="reconciled_total">Согласованный баланс</string>
 	<string name="filtered_total">Отфильтрованный баланс</string>
-<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
+	<string name="available_credit">Доступный лимит</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">Наличные</string>
     <string name="default_checking_account_name">Текущий счёт</string>
     <string name="default_savings_account_name">Депозит</string>

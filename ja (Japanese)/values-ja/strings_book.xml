@@ -195,8 +195,9 @@
     <string name="warn_if_incorrect_category_type_description">選択した場合、間違ったカテゴリータイプを指定すると警告が出ます</string>
     
     <string name="modification_confirmation">変更の確認</string>
-	<string-array name="modification_confirmation_items">
-		<item>なし</item>
+	<string name="none">なし</string>
+    <string-array name="modification_confirmation_items">
+		<item>@string/none</item>
 		<item>調整時のみ</item>
 		<item>すべて</item>
 	</string-array>

@@ -197,7 +197,8 @@
     <string name="warn_if_incorrect_category_type_description">Ha jelölt, figyelmeztet, ha egy rossz típusú kategória van megadva</string>
     
     <string name="modification_confirmation">Módosítási megerősítés</string>
-	<string-array name="modification_confirmation_items">
+	<string name="none">Semmit se</string>
+    <string-array name="modification_confirmation_items">
 		<item>Soha</item>
 		<item>Csak az egyeztetettnél</item>
 		<item>Összes</item>

@@ -195,8 +195,9 @@
     <string name="warn_if_incorrect_category_type_description">Dacă este selectat, un avertisment va fi afişat dacă un tip greşit de categorie este specificat</string>
     
     <string name="modification_confirmation">Confirmare modificare</string>
-	<string-array name="modification_confirmation_items">
-		<item>Nimic</item>
+	<string name="none">Nimic</string>
+    <string-array name="modification_confirmation_items">
+		<item>@string/none</item>
 		<item>Doar cele reconciliate</item>
 		<item>Toate</item>
 	</string-array>

@@ -195,8 +195,9 @@
 	<string name="warn_if_incorrect_category_type_description">Quan està seleccionat, es mostra una advertència si s’ha especificat un tipus de categoria incorrecte</string>
 	
 	<string name="modification_confirmation">Modificació de la confirmació</string>
+	<string name="none">Cap</string>
 	<string-array name="modification_confirmation_items">
-		<item>Cap</item>
+		<item>@string/none</item>
 		<item>Només conciliades</item>
 		<item>Tot</item>
 	</string-array>

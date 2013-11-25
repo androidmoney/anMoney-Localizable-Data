@@ -194,8 +194,9 @@
     <string name="warn_if_incorrect_category_type_description">இது தேர்வானால், தவறான வகைபாடு குறிப்பிடப்பட்டால் ஒரு எச்சரிக்கை காட்சியாகும்</string>
     
     <string name="modification_confirmation">மாற்றமைப்பு உறுதி செய்தல்</string>
-	<string-array name="modification_confirmation_items">
-		<item>எதுவுமில்லை</item>
+	<string name="none">எதுவுமில்லை</string>
+    <string-array name="modification_confirmation_items">
+		<item>@string/none</item>
 		<item>சமரசமானது மட்டும்</item>
 		<item>எல்லாம்</item>
 	</string-array>

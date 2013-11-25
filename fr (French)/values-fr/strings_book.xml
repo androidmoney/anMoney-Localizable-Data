@@ -195,8 +195,9 @@
 	<string name="warn_if_incorrect_category_type_description">Si l’option est sélectionnée, un avertissement s’affiche si le type de catégorie spécifié est incorrect</string>
 
 	<string name="modification_confirmation">Confirmation de modification</string>
+	<string name="none">Aucune</string>
 	<string-array name="modification_confirmation_items">
-		<item>Aucune</item>
+		<item>@string/none</item>
 		<item>Rapprochées uniquement</item>
 		<item>Toutes</item>
 	</string-array>

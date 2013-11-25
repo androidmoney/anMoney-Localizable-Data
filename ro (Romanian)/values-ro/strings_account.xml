@@ -118,7 +118,7 @@
 	<string name="cleared_total">Total soldat</string>
 	<string name="reconciled_total">Total reconciliat</string>
 <!-- New --> <string name="filtered_total">Total filtrat</string>
-<!-- New --> <string name="available_credit">Available credit</string> <!-- As in "the amount availble to spend on a credit card" -->
+<!-- New --> <string name="available_credit">Creditul disponibil</string> <!-- As in "the amount availble to spend on a credit card" -->
 	<string name="default_cash_account_name">Cash-ul meu zilnic</string>
     <string name="default_checking_account_name">Contul meu curent</string>
     <string name="default_savings_account_name">Contul meu de economii</string>

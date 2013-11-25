@@ -194,8 +194,9 @@
 	<string name="warn_if_incorrect_category_type_description">Wenn ausgewählt, wird Warnung ausgegeben wenn Kategorie-Typ nicht korrekt ist</string>
 
 	<string name="modification_confirmation">Bestätigung der Änderung</string>
+	<string name="none">Keine</string>
 	<string-array name="modification_confirmation_items">
-		<item>Keine</item>
+		<item>@string/none</item>
 		<item>Nur abgeglichen</item>
 		<item>Alle</item>
 	</string-array>

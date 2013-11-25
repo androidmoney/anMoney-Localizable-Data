@@ -194,8 +194,9 @@
     <string name="warn_if_incorrect_category_type_description">Если отмечено, при указании категории неправильного типа показывается предупреждение</string>
     
     <string name="modification_confirmation">Подтверждение изменения</string>
+	<string name="none">Не запрашивать</string>
     <string-array name="modification_confirmation_items">
-		<item>Не запрашивать</item>
+		<item>@string/none</item>
 		<item>Только согласованных транзакций</item>
 		<item>Всех транзакций</item>
 	</string-array>

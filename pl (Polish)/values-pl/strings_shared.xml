@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="two_part_format_normal_width">^1 ^2</string>
+	<string name="two_part_format_full_width">^1 ^2</string>
+	<string name="sentence_end_period_format">^1.</string>
+	<string name="sentence_end_question_mark_format">^1?</string>
+	<string name="parantheses_format_normal_width">(^1)</string>
+	<string name="parantheses_format_full_width">(^1)</string>
+	<string name="two_items_dash_with_space_format">^1 – ^2</string>
+	<string name="two_items_dash_without_space_format">^1–^2</string>
+	<string name="colon_format">^1:</string>
+	<string name="two_part_slash_format">^1 / ^2</string>
+	<string name="two_part_comma_format">^1, ^2</string>
+	<string name="default_name_format">^1 Nr ^2</string> <!-- "Book No. 2" -->
+	<string name="percent_sign">%</string>
+	<string name="percentage_format">^1%</string>
+	<string name="plus_after_format">^1+</string>
+	<string name="plus_before_format">+ ^1</string>
+	<string name="equals_format">^1 =</string>
+	<string name="footnote_symbol">*</string>
+	<string name="ellipsis_start_format">…^1</string>
+	<string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
+	<string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
+	<string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 by ^2 ^3 for ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+	<string name="_continue">Kontynuuj</string>
+	<string name="continue_question">Kontynuacja</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="home">Home</string> <!-- Home screen -->
+	<string name="home_screen">Ekran startowy</string>
+	<string name="previous">Poprzedni</string>
+	<string name="next">Następny</string>
+	<string name="_import">Import</string> <!-- This is a verb -->
+	<string name="imported">Zaimportowane</string>
+	<string name="import_canceled">Import anulowany</string>
+	<string name="export">Export</string> <!-- This is a verb -->
+	<string name="export_canceled">Export anulowany</string>
+	<string name="import_export">Import/export</string>
+	<string name="display_options">Opcje ekranu</string>
+	<string name="add_favorite">Dodaj do ulubionych</string>
+	<string name="added_to_favorites">Dodano do ulubionych</string>
+	<string name="remove">Usuń</string>
+	<string name="remove_favorite">Usuń z ulubionych</string>
+	<string name="removed_from_favorites">Usunięto z ulubionych</string>
+	<string name="save">Zapisz</string> <!-- This is a verb -->
+	<string name="saved">Zapisano</string>
+	<string name="save_canceled">Zapisywanie anulowane</string>
+	<string name="canceled">Anulowano</string>
+	<string name="delete">Usuń</string>
+	<string name="deleted">Usunięto</string>
+	<string name="delete_canceled">Usuwanie anulowane</string>
+	<string name="create">Utwórz</string>
+	<string name="created">Utworzono</string>
+	<string name="create_canceled">Tworzenie anulowane</string>
+	<string name="create_what">Co utworzyć</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="edit">Edycja</string>
+	<string name="edit_canceled">Edycja anulowana</string>
+	<string name="edit_which">Które utworzyć</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="copy">Kopiuj</string>
+	<string name="copied">Skopiowano</string>
+	<string name="move">Przesuń</string> <!-- Move an item -->
+	<string name="moved">Przesunięto</string>
+	<string name="duplicate">Zduplikuj</string>
+	<string name="duplicated">Zduplikowano</string>
+	<string name="rename">Zmień nazwę</string>
+	<string name="renamed">Zmieniono nazwę</string>
+	<string name="rename_canceled">Zmiana nazwy anulowana</string>
+	<string name="link">Powiąż</string>
+	<string name="linked">Powiązano</string>
+	<string name="combine">Połącz</string>
+	<string name="combined">Połączono</string>
+	<string name="copy_to_clipboard">Skopiuj do schowka</string>
+	<string name="set">Ustaw</string> <!-- Set a value -->
+	<string name="share">Podziel się</string>
+	<string name="share_canceled">Dzielenie się anulowane</string>
+	<string name="create_in_app_name_format">Utwórz w ^1</string> <!-- Create in Contacts -->
+	<string name="pick_from_app_name_format">Wybierz z ^1</string> <!-- Pick from Contacts -->
+	<string name="do_not_ask_again">Nie pytaj ponownie</string>
+	<string name="apply_to_all">Zastosuj do wszystkich</string>
+	<string name="all_items">Wszystko</string>
+	<string name="notes">Notatki</string> <!-- This is noun as in "I added some notes/comments" -->
+	<string name="no_notes">Nie ma jeszcze notatek</string>
+	<string name="required">Wymagane</string>
+	<string name="name">Imię</string>
+	<string name="invalid_name">Niepoprawne imię</string>
+	<string name="name_exists">Imię już istnieje</string>
+	<string name="amount">Kwota</string>
+	<string name="start_date">Data początkowa</string>
+	<string name="end_date">Data końcowa</string>
+	<string name="must_be_less_than_format">Musi być &lt; ^1</string>
+	<string name="must_be_greater_than_format">Musi być > ^1</string>
+	<string name="reset">Wyzeruj</string>
+	<string name="total">Całość</string>
+	<string name="grand_total">Całość łącznie</string> <!-- Grand total amount -->
+	<string name="average">Średnia</string> <!-- Average amount -->
+	<string name="export_file_name">Eksportuj nazwę pliku</string>
+	<string name="specify_export_file_name">Uszczegółów nazwę eksportowanego pliku</string>
+	<string name="file_exists">Plik o taiej nazwie już istnieje</string>
+	<string name="folder_exists">Katalog o takiej nazwie już istnieje</string>
+	<string name="choose_another_name">Wybierz inną nazwę</string>
+	<string name="will_be_overwritten">Zostanie nadpisane</string>
+	<string name="calendar">Kalendarz</string>
+	<string name="remind_me">Przypomnij</string>
+	<string name="add_as_a_contact">Dodaj jako kontakt</string>
+	<string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
+	<string name="to">Do</string> <!-- To <account> -->
+	<string name="from">Z</string> <!-- From <account> -->
+	<string name="send_email">Wyślij email</string>
+	<string name="please_read">Przeczytaj proszę</string>
+	<string name="rate_app_format">Oceń ^1</string> <!-- ^1 is app name -->
+	<string name="please_rate_app_format">Poświęć chwilę, by ocenić ^1</string> <!-- ^1 is app name -->
+	<string name="later_rate_description">Zostanie Ci przypomniane po około tygodniu</string>
+	<string name="no_rate_description_format">Możesz to zawsze zrobić z ^1 ekranu</string> <!-- ^1 is "Settings" -->
+	<string name="task_killer_warning_format">Ostrzeżenie o procesie “task killer” apps:\n\n Twoje urządzenie uruchomi się raz dziennie by przeprowadzić procesy automatyczne. Jako, że proces ten trwa jedynie kilka sekund, nie będzie miał on szkodliwego wpływu na żywotność baterii.\n\n Task killers mogą nie pozwolić procesowi w tle na poprawne działanie i nie powinny być z nim używane ^1</string> <!-- ^1 is app name -->
+	<string name="no_thanks">Dziękuję, nie</string>
+	<string name="maybe_later">Może później</string>
+	<string name="unexpected_error_warning"> Pojawił się niespodziewany błąd, zmuszając aplikację do zatrzymania się.\n\nPomóż nam, proszę, naproawić ten błąd poprzez wysłanie e-maila z raportem. Będziesz mieć szansę na edycję wiadomości zanim zostanie wysłana.\n\n Dziękujemy za współpracę.</string>
+	<string name="unexpected_error_notification_ticker">Niespodziewany błąd. Wyślij raport, proszę.</string>
+	<string name="unexpected_error_notification_title">anMoney się zatrzymał</string>
+	<string name="unexpected_error_notification_text">Dotknij tutaj, aby wysłać raport.</string>
+	<string name="unexpected_error_comment">Jeśli chcesz, to opisz co było robione, gdy problem się pojawił</string>
+	<string name="archiving">Archiwizacja</string>
+	<string name="archiving_settings">Ustawienia archiwizacji</string>
+	<string name="more">Więcej</string>
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" --><!-- Please contact us if you are unsure about the plurals -->
+		<item>^1 more</item>
+		<item>^1 more</item>
+		<item/> <!-- Not used -->
+	</string-array>
+	<string name="specify_options">Dookreśl opcje</string>
+	<string name="expand_all">Rozwiń wszytkie</string>
+	<string name="all_expanded">Wszystkie rozwinięto</string>
+	<string name="collapse_all">Zwiń wszystkie</string>
+	<string name="all_collapsed">Wszystkie zwinięto</string>
+	<string name="postal_address">Adres wysyłki</string>
+	<string name="postal_address_hint">Ulica\nMiasto\nKod pocztowy</string> <!-- Replace this with locale specific fields -->
+	<string name="cannot_perform_sd_card_operation">Operacja nie może być w tym momencie przeprowadzona, ponieważ brak jest karty SD w urządzeniu lub samo urządzenie jest podłączone do komputera, co powduje niedostepność karty.</string>
+	<string name="cannot_perform_file_system_operation_format">Operacja nie może być obecnie przeprowadzona, ponieważ ścieżka pamięci wewnętrznej (^1) jest niedostępna</string>
+	<string name="please_correct_and_try_again">Popraw, proszę, i spróbuj ponownie</string>
+	<string name="no_network_message_format">^1 wymaga okresowaego połączenia z siecią do weryfikacji licencji.\n\nWłącz, proszę, sieć i, gdy jesteś połaczony, spróbuj ponownie. Może wyłączyć sieć zaraz po weryfikacji.\n\nStuknięcie ^2 zabierze Cię do ^3 ustawień</string> <!-- ^1 is app name, ^2 is OK, ^3 is the title of settings screen -->
+	<string name="calculator">Kalkulator</string>
+	<string name="only_in_full_version">Wyłącznie w wersji PRO</string>
+	<string name="will_not_effect_transactions">To <b>not</b> wpłynie na bieżącą transkację</string>
+
+	<string name="free_limitations">Dokonaj zakupu wersji PRO by usunąć następujące ograniczenia :\n\n
+	<li>Brak hasła bezpieczeństwa</li>\n
+	<li>Brak kopii bezpieczeństwa Twoich danych</li>\n
+	<li>Brak osobistych raportów</li>\n
+	<li>Wyłączny import QIF</li>\n
+	<li>Brak integracji kontaktów</li>\n
+	<li>Najwyżej 2 banki, 1 karta kredytowa i jeden konto gotówkowe</li>\n
+	<li>Najwyżej 5 rzeczy w bidżecie</li>\n
+	<li>Najwyżej trzy powtarzającej się rachunki lub depozyty</li> 
+	</string>
+
+	<string name="no_items">Brak rzeczy</string>
+	<string name="no_items_yet">Brak jeszcze rzeczy</string>
+	<string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
+		<item/> <!-- Not used -->
+		<item>^1 rzecz</item>
+		<item/> <!-- Not used -->
+	</string-array>
+
+	<string-array name="reminder_leads">
+		<item>Nie przypominaj</item>
+		<item>Tamtego dnia</item>
+		<item>Dzień wcześniej</item>
+		<item>Dwa dni wcześniej</item>
+		<item>Tydzień wcześniej</item>
+		<item>Dwa tygodnie wcześniej</item>
+	</string-array>
+
+<!-- New --> <string-array name="nth_day_of_the_month">
+		<item>1st</item>
+		<item>2nd</item>
+		<item>3rd</item>
+		<item>4th</item>
+		<item>5th</item>
+		<item>6th</item>
+		<item>7th</item>
+		<item>8th</item>
+		<item>9th</item>
+		<item>10th</item>
+		<item>11th</item>
+		<item>12th</item>
+		<item>13th</item>
+		<item>14th</item>
+		<item>15th</item>
+		<item>16th</item>
+		<item>17th</item>
+		<item>18th</item>
+		<item>19th</item>
+		<item>20th</item>
+		<item>21st</item>
+		<item>22nd</item>
+		<item>23rd</item>
+		<item>24th</item>
+		<item>25th</item>
+		<item>26th</item>
+		<item>27th</item>
+		<item>28th</item>
+		<item>29th</item>
+		<item>30th</item>
+		<item>31st</item>
+	</string-array>
+
+	<string name="display_direction">Kierunek wyświetlania</string>
+	<string-array name="sort_direction_items">
+		<item>Wzrastająco</item>
+		<item>Malejąco</item>
+	</string-array>
+	<string-array name="sort_direction_title_bar">
+		<item>wzrastająco</item>
+		<item>malejąco</item>
+	</string-array>
+</resources>

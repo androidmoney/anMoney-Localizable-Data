@@ -194,8 +194,9 @@
 	<string name="warn_if_incorrect_category_type_description">If selected, a warning is displayed if the wrong type of category is specified</string>
 
 	<string name="modification_confirmation">Modification confirmation</string>
+	<string name="none">None</string>
 	<string-array name="modification_confirmation_items">
-		<item>None</item>
+		<item>@string/none</item>
 		<item>Reconciled only</item>
 		<item>All</item>
 	</string-array>
