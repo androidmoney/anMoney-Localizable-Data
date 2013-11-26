@@ -31,7 +31,8 @@
 	<string name="enter_classification_name">Entrer un nom de classification</string>
 	<string name="enter_new_classification_name">Entrer un nouveau nom de classification</string>
 	<string name="categories_and_classifications">Catégories et classifications</string>
-    <string name="no_categories_expense">Il n’existe aucune catégorie de dépenses</string>
+    <string name="no_categories">Il n’existe aucune catégorie</string>
+	<string name="no_categories_expense">Il n’existe aucune catégorie de dépenses</string>
     <string name="no_categories_income">Il n’existe aucune catégorie de recettes</string>
     <string name="no_classes">Vous n’avez défini aucune classe</string>
 	<string name="uncategorized_transactions">Transactions non catégorisées</string>

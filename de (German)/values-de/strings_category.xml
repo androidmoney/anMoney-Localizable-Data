@@ -31,6 +31,7 @@
 	<string name="enter_classification_name">Namen der Klassifikations eingeben</string>
 	<string name="enter_new_classification_name">Neuen Namen der Klassifikation eingeben</string>
 	<string name="categories_and_classifications">Kategorien &amp; Klassifikationen</string>
+	<string name="no_categories">Sie haben keine Kategorien</string>
 	<string name="no_categories_expense">Sie haben keine Ausgabe-Kategorien</string>
 	<string name="no_categories_income">Sie haben keine Einnahme-Kategorien</string>
 	<string name="no_classes">Sie haben keine Klassen</string>

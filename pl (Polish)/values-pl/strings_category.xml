@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="category_count_format_plurals">
+		<item>^1 category</item>
+		<item>^1 categories</item>
+		<item>^1 categories</item>
+	</string-array>
+	<string-array name="uncategorized_count_plurals">
+		<item>^1 uncategorised transaction</item>
+		<item>^1 uncategorised transactions</item>
+		<item>^1 uncategorised transactions</item>
+	</string-array>
+</resources>

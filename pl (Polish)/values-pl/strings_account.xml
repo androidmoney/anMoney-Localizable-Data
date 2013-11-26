@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="account_count_format_plurals">
+		<item>^1 account</item>
+		<item>^1 accounts</item>
+		<item>^1 accounts</item>
+	</string-array>
+
+	<string-array name="pending_count_plurals">
+		<item>^1 new transaction</item>
+		<item>^1 new transactions</item>
+		<item>^1 new transactions</item>
+	</string-array>
+</resources>

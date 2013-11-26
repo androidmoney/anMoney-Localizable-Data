@@ -32,6 +32,7 @@
     <string name="enter_classification_name">輸入分類名稱</string>
     <string name="enter_new_classification_name">輸入新分類名稱</string>
     <string name="categories_and_classifications">類型及分類</string>
+    <string name="no_categories">您沒有任何類別</string>
     <string name="no_categories_expense">您沒有任何支出類型</string>
     <string name="no_categories_income">您沒有任何收入類型</string>
     <string name="no_classes">您沒有任何類別</string>

@@ -32,6 +32,7 @@
 	<string name="enter_classification_name">Skriv inn klassifiseringen</string>
 	<string name="enter_new_classification_name">Skriv inn en ny klassifisering</string>
 	<string name="categories_and_classifications">Kategorier &amp; klassifiseringer</string>
+	<string name="no_categories">Du har ikke noen kategorier</string>
 	<string name="no_categories_expense">Du har ikke noen utgiftskategorier</string>
 	<string name="no_categories_income">Du har ikke noen inntektskategorier</string>
 	<string name="no_classes">Du har ingen klassifiseringer</string>

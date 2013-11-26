@@ -32,6 +32,7 @@
     <string name="enter_classification_name">Voer classificatie naam in</string>
     <string name="enter_new_classification_name">Voer nieuwe classificatie naam in</string>
     <string name="categories_and_classifications">Categorieen &amp; classificaties</string>
+    <string name="no_categories">Je hebt geen categorieen</string>
     <string name="no_categories_expense">Je hebt geen uitgave categorieen</string>
     <string name="no_categories_income">Je hebt geen inkomsten categorien</string>
     <string name="no_classes">Je hebt geen klassen</string>

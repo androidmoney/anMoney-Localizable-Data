@@ -31,6 +31,7 @@
 	<string name="enter_classification_name">Zadejte název zařazení</string>
 	<string name="enter_new_classification_name">Zadejte nový název zařazení</string>
 	<string name="categories_and_classifications">Kategorie a zařazení</string>
+	<string name="no_categories">Nemáte žádné kategorie</string>
 	<string name="no_categories_expense">Nemáte žádné kategorie výdajů</string>
 	<string name="no_categories_income">Nemáte žádné kategorie příjmů</string>
 	<string name="no_classes">Nemáte žádné třídy</string>

@@ -124,7 +124,7 @@
 <!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" --><!-- Please contact us if you are unsure about the plurals -->
 		<item>^1 more</item>
 		<item>^1 more</item>
-		<item/> <!-- Not used -->
+		<item>^1 more</item>
 	</string-array>
 	<string name="specify_options">Dookreśl opcje</string>
 	<string name="expand_all">Rozwiń wszytkie</string>
@@ -154,10 +154,10 @@
 
 	<string name="no_items">Brak rzeczy</string>
 	<string name="no_items_yet">Brak jeszcze rzeczy</string>
-	<string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
-		<item/> <!-- Not used -->
+<!-- New --> <string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
 		<item>^1 rzecz</item>
-		<item/> <!-- Not used -->
+		<item>^1 rzecz</item>
+		<item>^1 rzecz</item>
 	</string-array>
 
 	<string-array name="reminder_leads">

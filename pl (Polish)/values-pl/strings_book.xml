@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="delete_files_warning_format_plurals">
+		<item>^1 selected file will be deleted</item>
+		<item>^1 selected files will be deleted</item>
+		<item>^1 selected files will be deleted</item>
+	</string-array>
+
+	<string-array name="import_files_confirm_format_plurals">
+		<item>Do you want to import the ^1 file</item> <!-- This is a question, but the question mark will be added progrmatically -->
+		<item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
+		<item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
+	</string-array>
+
+	<string-array name="n_seconds_format_plurals">
+		<item>^1 second</item>
+		<item>^1 seconds</item>
+		<item>^1 seconds</item>
+	</string-array>
+
+	<string-array name="n_minutes_format_plurals">
+		<item>^1 minute</item>
+		<item>^1 minutes</item>
+		<item>^1 minutes</item>
+	</string-array>
+
+	<string-array name="backed_up_books_format_plurals">
+		<item>Backed up ^1 book</item>
+		<item>Backed up ^1 books</item>
+		<item>Backed up ^1 books</item>
+	</string-array>
+
+	<string-array name="book_exported_format_plurals">
+		<item>Exported ^1 transaction</item>
+		<item>Exported ^1 transactions</item>
+		<item>Exported ^1 transactions</item>
+	</string-array>
+
+	<string-array name="delete_entries_warning_format_plurals">
+		<item>^1 entry will be deleted</item>
+		<item>^1 entries will be deleted</item>
+		<item>^1 entries will be deleted</item>
+	</string-array>
+</resources>

@@ -31,6 +31,7 @@
     <string name="enter_classification_name">Adja meg az osztályozás nevét</string>
     <string name="enter_new_classification_name">Adja meg az új nevet</string>
     <string name="categories_and_classifications">Kategóriák és osztályozások</string>
+    <string name="no_categories">Nincsenek kategóriái</string>
     <string name="no_categories_expense">Nincsenek kiadási kategóriái</string>
     <string name="no_categories_income">Nincsenek jövedelmi kategóriái</string>
     <string name="no_classes">Nincsenek osztályai</string>

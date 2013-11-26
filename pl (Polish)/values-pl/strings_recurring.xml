@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="skipped_occurrences_format_plurals">
+		<item>Skipped ^1 occurrence</item>
+		<item>Skipped ^1 occurrences</item>
+		<item>Skipped ^1 occurrences</item>
+	</string-array>
+
+	<string-array name="based_part2_plurals">
+		<item>last ^1</item>
+		<item>last ^1</item>
+		<item>last ^1</item>
+	</string-array>
+	<string-array name="based_part3_plurals">
+		<item>occurrence</item>
+		<item>occurrences</item>
+		<item>occurrences</item>
+	</string-array>
+
+	<string-array name="every_day_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_week_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_month_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+	</string-array>
+	<string-array name="every_year_plurals">
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+		<item>@string/every_1</item>
+	</string-array>
+
+	<string-array name="day_plurals">
+		<item>day</item>
+		<item>days</item>
+		<item>days</item>
+	</string-array>
+	<string-array name="week_plurals">
+		<item>week</item>
+		<item>weeks</item>
+		<item>weeks</item>
+	</string-array>
+	<string-array name="month_plurals">
+		<item>@string/month_lower</item>
+		<item>months</item>
+		<item>months</item>
+	</string-array>
+	<string-array name="year_plurals">
+		<item>@string/year_lower</item>
+		<item>years</item>
+		<item>years</item>
+	</string-array>
+	
+	<string-array name="overdue_plurals">
+		<item>^1 overdue</item>
+		<item>^1 overdue</item>
+		<item>^1 overdue</item>
+	</string-array>
+	<string-array name="overdue_count_plurals">
+		<item>^1 overdue bill or deposit</item>
+		<item>^1 overdue bills or deposits</item>
+		<item>^1 overdue bills or deposits</item>
+	</string-array>
+
+	<string-array name="enter_warning_format_plurals">
+		<item>^1 selected recurring item will be entered</item>
+		<item>^1 selected recurring items will be entered</item>
+		<item>^1 selected recurring items will be entered</item>
+	</string-array>
+	
+	<string-array name="days_before_plurals">
+		<item>^1 day before</item>
+		<item>^1 days before</item>
+		<item>^1 days before</item>
+	</string-array>
+	
+	<string-array name="days_before_due_date_plurals">
+		<item>^1 day before it is due</item>
+		<item>^1 days before it is due</item>
+		<item>^1 days before</item>
+	</string-array>
+</resources>

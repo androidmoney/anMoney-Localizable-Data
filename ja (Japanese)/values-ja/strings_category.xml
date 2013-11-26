@@ -32,6 +32,7 @@
     <string name="enter_classification_name">分類名の入力</string>
     <string name="enter_new_classification_name">新規分類名の入力</string>
     <string name="categories_and_classifications">カテゴリーと分類</string>
+    <string name="no_categories">カテゴリーがありません</string>
     <string name="no_categories_expense">支出カテゴリーがありません</string>
     <string name="no_categories_income">収入カテゴリーがありません</string>
     <string name="no_classes">クラスがありません</string>

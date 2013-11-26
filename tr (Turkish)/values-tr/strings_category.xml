@@ -32,6 +32,7 @@
     <string name="enter_classification_name">Sınıflandırma adı gir</string>
     <string name="enter_new_classification_name">Yeni sınıflandırma adı gir</string>
     <string name="categories_and_classifications">Kategoriler &amp; sınıflandırmalar</string>
+    <string name="no_categories">Hiç bir kategoriniz yok</string>
     <string name="no_categories_expense">Hiç bir harcama kategoriniz yok</string>
     <string name="no_categories_income">Hiç bir gelir kategoriniz yok</string>
     <string name="no_classes">Hiç bir sınıfınız yok</string>

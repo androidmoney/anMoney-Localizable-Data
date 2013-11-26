@@ -33,6 +33,7 @@
 	<string name="enter_classification_name">Enter classification name</string>
 	<string name="enter_new_classification_name">Enter new classification name</string>
 	<string name="categories_and_classifications">Categories &amp; classifications</string>
+	<string name="no_categories">You don’t have any categories</string>
 	<string name="no_categories_expense">You don’t have any expense categories</string>
 	<string name="no_categories_income">You don’t have any income categories</string>
 	<string name="no_classes">You don’t have any classes</string>

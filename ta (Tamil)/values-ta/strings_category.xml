@@ -32,6 +32,7 @@
     <string name="enter_classification_name">பிரிவாக்கத்தின் பெயரை உள்ளிடு</string>
     <string name="enter_new_classification_name">புதிய பிரிவாக்கத்தின் பெயரை உள்ளிடு</string>
     <string name="categories_and_classifications">வகைபாடுகள் &amp; பிரிவாக்கங்கள்</string>
+    <string name="no_categories">நீங்கள் எந்த வகைபாடுகளையும் பெற்றிருக்கவில்லை</string>
     <string name="no_categories_expense">நீங்கள் எந்த செலவின வகைபாடுகளையும் பெற்றிருக்கவில்லை</string>
     <string name="no_categories_income">நீங்கள் எந்த வரவு வகைபாடுகளையும் பெற்றிருக்கவில்லை</string>
     <string name="no_classes">நீங்கள் எந்த பிரிவுகளையும்   பெற்றிருக்கவில்லை</string>

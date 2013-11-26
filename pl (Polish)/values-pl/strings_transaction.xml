@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="mark_transactions_format_plurals">
+		<item>Mark ^1 transaction</item>
+		<item>Mark ^1 transactions</item>
+		<item>Mark ^1 transactions</item>
+	</string-array>
+
+	<string-array name="delete_transaction_warning_format_plurals">
+		<item>^1 selected transaction will be deleted</item>
+		<item>^1 selected transactions will be deleted</item>
+		<item>^1 selected transactions will be deleted</item>
+	</string-array>
+
+	<string-array name="delete_transaction_warning_reconciled_format_plurals">
+		<item>^1 selected transaction will be deleted, at least one of which is reconciled</item>
+		<item>^1 selected transactions will be deleted, at least one of which is reconciled</item>
+		<item>^1 selected transactions will be deleted, at least one of which is reconciled</item>
+	</string-array>
+
+	<string-array name="accept_transaction_confirm_format_plurals">
+		<item>^1 selected transaction will be accepted</item>
+		<item>^1 selected transactions will be accepted</item>
+		<item>^1 selected transactions will be accepted</item>
+	</string-array>
+</resources>
