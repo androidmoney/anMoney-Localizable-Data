@@ -13,7 +13,6 @@
     <string name="account_balances">Számlaegyenlegek</string>
    	<string name="vehicle">Jármű</string>
     <string name="property">Ingatlan</string>
-    <string name="view_accounts">Számlák megtekintése</string>
     <string name="new_account">Új számla</string>
     <string name="edit_account">Számla módosítása</string>
     <string name="balance_noun">Egyenleg</string>

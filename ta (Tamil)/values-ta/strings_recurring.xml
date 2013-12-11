@@ -4,7 +4,6 @@
     <string name="recurring_bills_and_deposits">மறுநிகழ் கட்டணசீட்டுகள் &amp; வைப்புநிதிகள்</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
     <string name="recurring_bills_and_deposits_by_direction_order_format">கட்டணசீட்டுகள் &amp; வைப்பு நிதிகள் வழியாக ^1 ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
-	<string name="view_recurring">மறுநிகழ்வை பார்க்க</string>
 	<string name="new_recurring">புதிய மறுநிகழ்வு</string>
 	<string name="enter">உள்ளிடு</string>
 	<string name="entered">உள்ளிடப்பட்டது</string>

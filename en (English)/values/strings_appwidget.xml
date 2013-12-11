@@ -14,7 +14,6 @@
 	<string name="app_name_quick_entry">anMoney — Quick entry</string>
 	<string name="app_name_quick_entry_large">anMoney — Quick entry (large)</string>
 	<string name="app_name_quick_entry_small">anMoney — Quick entry (small)</string>
-	<string name="show_total">Show the account total</string>
 	<string name="opacity">Opacity</string>
 
 	<string name="app_name_upcoming">anMoney — Upcoming</string> <!-- as in Upcoming Bills -->

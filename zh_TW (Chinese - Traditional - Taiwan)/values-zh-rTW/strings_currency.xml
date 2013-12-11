@@ -13,7 +13,6 @@
     <string name="symbol">貨幣符號</string>
     <string name="symbol_required">需要貨幣符號</string>
     <string name="exchange_rate_required">需要匯率</string>
-    <string name="view_currencies">檢視貨幣</string>
     <string name="tap_to_modify_converted_amounts">點擊以修改轉換金額</string>
     <string name="currency_converter">貨幣換算器</string>
     <string name="invert">倒置</string>

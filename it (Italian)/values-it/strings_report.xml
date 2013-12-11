@@ -3,7 +3,6 @@
 	<string name="report">Resoconto</string>
     <string name="reports">Resoconti</string>
 	<string name="view_report">Visualizza resoconto</string>
-	<string name="view_reports">Visualizza resoconti</string>
 	<string name="report_canceled">Resoconto annullato</string>
 	<string name="export_report">Esporta resoconto</string>
 	<string name="report_exported">Esportato correttamente nella scheda di memoria SD</string>

@@ -4,7 +4,6 @@
 	<string name="recurring_bills_and_deposits">Faste regninger &amp; innskudd</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
 	<string name="recurring_bills_and_deposits_by_direction_order_format">Regninger &amp; innskudd etter ^1 ^2</string>
-	<string name="view_recurring">Vis faste transaksjoner</string>
 	<string name="new_recurring">Ny fast transaksjon</string>
 	<string name="enter">Bokfør</string>
 	<string name="entered">Bokført</string>

@@ -25,8 +25,6 @@
 	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 göre ^2 ^3 için ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
 	<string name="_continue">Devam</string>
 	<string name="continue_question">Devam edilsin mi</string><!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="home">Ana</string> <!-- Home screen -->
-	<string name="home_screen">Ana ekran</string>
 	<string name="previous">Önceki</string>
 	<string name="next">Sonraki</string>
 	<string name="_import">İçe aktar</string> <!-- This is a verb -->

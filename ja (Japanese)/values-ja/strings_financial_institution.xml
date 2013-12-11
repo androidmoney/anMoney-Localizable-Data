@@ -13,7 +13,6 @@
     <string name="add_financial_institution_as_a_contact">金融機関を連絡先に追加</string>
     <string name="financial_institution_exists">同じ名前の金融機関がすでに存在します</string>
     <string name="no_financial_institutions">金融機関は設定されていません</string>
-    <string name="view_financial_institutions">金融機関の表示</string>
     <string name="financial_institution_name">金融機関名</string>
     <string name="contact_exists">同じ名前の連絡先がすでに登録されています</string>
     <string name="link_financial_institution">この金融機関を登録済みの連絡先と関連づけますか</string> <!-- This is a question, but the question mark will be added progrmatically -->

@@ -62,7 +62,6 @@
 	<string name="change_expense_warning">Vol canviar aquesta categoria de despesa a ingrés, o a l’inrevés</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="prepopulate">Omplir amb les categories per defecte</string>
 	<string name="short_categories">Carregar només llista curta de categories (més tard tindrà l’opció de carregar la llista sencera)</string>
-	<string name="view_categories">Mostrar categories</string>
 	<string name="category_not_found">No s’ha trobat la categoria</string>
 	<string name="class_not_found">No s’ha trobat la classe</string>
 	<string name="total_income">Total ingressos</string>

@@ -4,7 +4,6 @@
 	<string name="recurring_bills_and_deposits">Fatture &amp; depositi ricorrenti</string>
 	
 	<string name="recurring_bills_and_deposits_by_direction_order_format">Fatture &amp; depositi per ^2 ^1</string>
-	<string name="view_recurring">Visualizza ricorrenza</string>
 	<string name="new_recurring">Nuova ricorrenza</string>
 	<string name="enter">Inserire</string>
 	<string name="entered">Inserito</string>

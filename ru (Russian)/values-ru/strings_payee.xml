@@ -30,7 +30,6 @@
     <string name="web_address">Сайт</string>
     <string name="select_account">Выберите счёт</string>
     <string name="open_web_page">Открыть сайт</string>
-    <string name="view_payees">Показать получателей</string>
     <string name="default_payee_name">Новый получатель</string>
     <string name="spending_by_payee">Расходы по получателям</string>
     <string name="all_payees_hidden_by_filter">Нет получателей, удовлетворяющих условиям фильтра</string>

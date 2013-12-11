@@ -3,7 +3,6 @@
 	<string name="report">Relatório</string>
     <string name="reports">Relatórios</string>
 	<string name="view_report">Ver relatório</string>
-	<string name="view_reports">Ver relatórios</string>
 	<string name="report_canceled">Relatório cancelado</string>
 	<string name="export_report">Exportar relatório</string>
 	<string name="report_exported">Exportado com sucesso para o cartão SD</string>

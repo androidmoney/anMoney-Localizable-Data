@@ -63,7 +63,6 @@
     <string name="change_expense_warning">您是否要將此類型由支出轉為收入或其他類型</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="prepopulate">以預設類型填入</string>
     <string name="short_categories">僅載入簡短類型列表（您可以隨時選擇載入詳細列表）</string>
-    <string name="view_categories">檢視類型</string>
     <string name="category_not_found">找不到類型</string>
     <string name="class_not_found">找不到分類</string>
     <string name="total_income">總收入</string>

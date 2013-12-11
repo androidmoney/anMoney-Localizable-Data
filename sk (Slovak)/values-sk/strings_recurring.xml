@@ -4,7 +4,6 @@
     <string name="recurring_bills_and_deposits">Opakujúce sa platby a vklady</string>
 
     <string name="recurring_bills_and_deposits_by_direction_order_format">Opakujúce sa platby a vklady ^1 podľa ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
-	<string name="view_recurring">Zobraziť opakujúce sa</string>
 	<string name="new_recurring">Nová opakujúca sa platba</string>
 	<string name="enter">Zadať</string>
 	<string name="entered">Zadané</string>

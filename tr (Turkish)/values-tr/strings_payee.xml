@@ -30,7 +30,6 @@
     <string name="web_address">Web adresi</string>
     <string name="select_account">Hesap seç</string>
     <string name="open_web_page">Web sayfasını aç</string>
-    <string name="view_payees">Alacaklı görüntüle</string>
     <string name="default_payee_name">Benim alacaklım</string>
 	<string name="spending_by_payee">Alacaklıya göre harcamalar</string>
     <string name="all_payees_hidden_by_filter">Tüm alacaklılar görüntüleme filtresi tarafından gizleniyor</string>

@@ -64,7 +64,6 @@
 	<string name="change_expense_warning">Do you want to change this category from expense to income, or vice versa</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="prepopulate">Populate with default categories</string>
 	<string name="short_categories">Load short category list only (you will have the option to load the full list later)</string>
-	<string name="view_categories">View categories</string>
 	<string name="category_not_found">Category not found</string>
 	<string name="class_not_found">Class not found</string>
 	<string name="total_income">Total income</string>

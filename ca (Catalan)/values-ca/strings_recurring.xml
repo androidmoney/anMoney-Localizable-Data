@@ -4,7 +4,6 @@
 	<string name="recurring_bills_and_deposits">Factures i dipòsits recurrents</string>
 
 	<string name="recurring_bills_and_deposits_by_direction_order_format">Factures i dipòsits per ^2 ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
-	<string name="view_recurring">Mostrar recurrrents</string>
 	<string name="new_recurring">Nou recurrent</string>
 	<string name="enter">Enregistrar</string>
 	<string name="entered">Enregistrat</string>

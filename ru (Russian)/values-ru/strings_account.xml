@@ -13,7 +13,6 @@
 	<string name="account_balances">Остатки по счетам</string>
 	<string name="vehicle">Транспортное средство</string>
     <string name="property">Недвижимость</string>
-    <string name="view_accounts">Показать счета</string>
     <string name="new_account">Новый счёт</string>
     <string name="edit_account">Изменить счёт</string>
     <string name="balance_noun">Баланс</string>

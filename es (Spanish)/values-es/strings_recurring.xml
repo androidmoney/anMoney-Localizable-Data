@@ -4,7 +4,6 @@
 	<string name="recurring_bills_and_deposits">Facturas &amp; depósitos recurrentes</string>
 
 	<string name="recurring_bills_and_deposits_by_direction_order_format">Cargos y depósitos por ^2 en orden ^1</string> <!-- Example: "Bills & deposits by decreasing date" -->	
-	<string name="view_recurring">Ver elementos recurrentes</string>
 	<string name="new_recurring">Nuevo elemento recurrente</string>
 	<string name="enter">Registrar</string>
 	<string name="entered">Registrado</string>

@@ -155,7 +155,6 @@
 	</string-array>
 
 	<string name="general">Général</string>
-	<string name="starting_screen">Écran de démarrage</string>
 	<string name="negative_amount_format">Format des montants négatifs</string>
 
 	<string name="show_currency_symbol">Afficher le symbole de la devise</string>

@@ -13,7 +13,6 @@
     <string name="add_financial_institution_as_a_contact">Fin. danş. rehber ögesi olarak ekle</string>
     <string name="financial_institution_exists">Bu isimle bir finansal danışmanlık zaten mevcut</string>
     <string name="no_financial_institutions">Hiç bir fianasal danışmanlık bilgisi yok</string>
-    <string name="view_financial_institutions">Finansal danışmanlık görüntüle</string>
     <string name="financial_institution_name">Finansal danışmanlık adı</string>
     <string name="contact_exists">Bu isimle bir rehber öğesi zaten mevcut</string>
     <string name="link_financial_institution">Bu finansal danışmanlığı mevcut rehber öğesi ile ilişkilendirmek istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->

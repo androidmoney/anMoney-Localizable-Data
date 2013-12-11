@@ -14,7 +14,6 @@
 	<string name="symbol">Symbol</string>
 	<string name="symbol_required">Symbol required</string>
 	<string name="exchange_rate_required">Exchange rate required</string>
-	<string name="view_currencies">View currencies</string>
 	<string name="tap_to_modify_converted_amounts">Tap to modify converted amounts</string>
 	<string name="currency_converter">Currency converter</string>
 	<string name="invert">Invert</string>

@@ -13,7 +13,6 @@
 	<string name="add_financial_institution_as_a_contact">Legg til fin. inst. som kontakt</string>
 	<string name="financial_institution_exists">En finansinstitusjon med det navnet eksisterer allerede</string>
 	<string name="no_financial_institutions">Du har ikke lagt til noen finansinstitusjoner</string>
-	<string name="view_financial_institutions">Vis finansinstitusjoner</string>
 	<string name="financial_institution_name">Navn på finansinstitusjon</string>
 	<string name="contact_exists">En kontakt eksisterer allerede med det navnet</string>
 	<string name="link_financial_institution">Ønsker du å koble denne finansinstitusjonen til den eksisterende kontakten</string>

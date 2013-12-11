@@ -14,7 +14,6 @@
     <string name="app_name_quick_entry">anMoney — Быстрый ввод</string>
     <string name="app_name_quick_entry_large">anMoney — Быстрый ввод (большой)</string>
     <string name="app_name_quick_entry_small">anMoney — Быстрый ввод (маленький)</string>
-    <string name="show_total">Показывать остаток по счёту</string>
     <string name="opacity">Прозрачность</string>
 
     <string name="app_name_upcoming">anMoney — Предстоящие</string>

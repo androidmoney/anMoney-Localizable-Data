@@ -62,7 +62,6 @@
     <string name="change_expense_warning">Действительно сделать доходную категорию расходной (или наоборот)</string>
     <string name="prepopulate">Заполнить стандартными категориями</string>
     <string name="short_categories">Загрузить короткий список (если захотите, вы сможете загрузить полный список позднее)</string>
-    <string name="view_categories">Показать категории</string>
     <string name="category_not_found">Категория не существует</string>
     <string name="class_not_found">Класс не существует</string>
 	<string name="total_income">Всего доходов</string>

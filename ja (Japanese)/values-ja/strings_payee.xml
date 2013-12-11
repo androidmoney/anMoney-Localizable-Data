@@ -30,7 +30,6 @@
     <string name="web_address">ウェブアドレス</string>
     <string name="select_account">口座の選択</string>
     <string name="open_web_page">ウェブページをオープン</string>
-    <string name="view_payees">支払先の表示</string>
 	<string name="default_payee_name">支払先</string>
 	<string name="spending_by_payee">支払先別の支出</string>
     <string name="all_payees_hidden_by_filter">すべての支払先がフィルターによって表示されていません</string>

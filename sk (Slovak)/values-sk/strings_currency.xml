@@ -13,7 +13,6 @@
     <string name="symbol">Symbol</string>
     <string name="symbol_required">Symbol je povinný</string>
     <string name="exchange_rate_required">Výmenný kurz je povinný</string>
-    <string name="view_currencies">Zobraziť meny</string>
     <string name="tap_to_modify_converted_amounts">Zvoľte pre úpravu prevedených súm</string>
     <string name="currency_converter">Prevod mien</string>
     <string name="invert">Obrátiť</string>

@@ -3,7 +3,6 @@
 	<string name="report">レポート</string>
     <string name="reports">レポート</string>
 	<string name="view_report">レポートの表示</string>
-	<string name="view_reports">レポートの表示</string>
 	<string name="report_canceled">キャンセルしました</string>
 	<string name="export_report">レポートのエクスポート</string>
 	<string name="report_exported">SDカードにエクスポートしました</string>

@@ -13,7 +13,6 @@
 	<string name="account_balances">Saldos de cuentas</string>
 	<string name="vehicle">Vehículo</string>
 	<string name="property">Inmueble</string>
-	<string name="view_accounts">Ver cuentas</string>
 	<string name="new_account">Nueva cuenta</string>
 	<string name="edit_account">Editar cuenta</string>
 	<string name="balance_noun">Saldo</string>

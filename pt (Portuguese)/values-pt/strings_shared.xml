@@ -25,8 +25,6 @@
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 por ^3 em ordem ^2 para ^4</string>
     <string name="_continue">Continuar</string>
 	<string name="continue_question">Continuar</string>
-    <string name="home">Início</string>
-    <string name="home_screen">Tela inicial</string>
     <string name="previous">Anterior</string>
     <string name="next">Seguinte</string>
     <string name="_import">Importar</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="budget">Rozpočet</string>
-	<string name="view_budget">Zobrazit rozpočet</string>
 	<string name="edit_budget_item">Upravit položku rozpočtu</string>
 	<string name="new_budget_item">Nová položka rozpočtu</string>
 	<string name="over_budget">Překročení rozpočtu</string>

@@ -3,7 +3,6 @@
     <string name="report">Jelentés</string>
     <string name="reports">Jelentések</string>
 	<string name="view_report">Jelentés megtekintése</string>
-	<string name="view_reports">Jelentések megtekintése</string>
 	<string name="report_canceled">Jelentés készítése megszakítva</string>
 	<string name="export_report">Jelentés exportálása</string>
 	<string name="report_exported">Exportálta a jelentést az SD-kártyára</string>

@@ -13,7 +13,6 @@
 	<string name="symbol">Symbol</string>
 	<string name="symbol_required">Symbol benötigt</string>
 	<string name="exchange_rate_required">Wechsellurs benötigt</string>
-	<string name="view_currencies">Währungen ansehen</string>
 	<string name="tap_to_modify_converted_amounts">Drücken, um umgerechnete Beträge zu ändern</string>
 	<string name="currency_converter">Währungsrechner</string>
 	<string name="invert">Umkehren</string>

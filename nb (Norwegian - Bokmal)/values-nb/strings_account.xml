@@ -14,7 +14,6 @@
 	<string name="account_balances">Kontobalanser</string>
 	<string name="vehicle">Kjøretøy</string>
 	<string name="property">Eiendom</string>
-	<string name="view_accounts">Vis kontoer</string>
 	<string name="new_account">Ny konto</string>
 	<string name="edit_account">Endre konto</string>
 	<string name="balance_noun">Saldo</string>

@@ -154,7 +154,6 @@
 	</string-array>
 	
     <string name="general">Geral</string>
-    <string name="starting_screen">Tela inicial</string>
     <string name="negative_amount_format">Formato valor negativo</string>
     
     <string name="show_currency_symbol">Mostrar símbolo de moeda</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="budget">Bilancio</string>
-    <string name="view_budget">Visualizza bilancio</string>
     <string name="edit_budget_item">Modifica voce del bilancio</string>
     <string name="new_budget_item">Nuova voce del bilancio</string>
     <string name="over_budget">Fuori bilancio</string>

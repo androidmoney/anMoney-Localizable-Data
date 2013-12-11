@@ -63,7 +63,6 @@
     <string name="change_expense_warning">Wil je deze categorie veranderen van uitgaven naar inkomen, of vice versa</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="prepopulate">Samenvoegen met categorieen</string>
     <string name="short_categories">Laad alleen korte categorie lijst (je hebt later de keus om de volledige lijst te laden)</string>
-    <string name="view_categories">Bekijk categorieen</string>
     <string name="category_not_found">Categorie niet gevonden</string>
     <string name="class_not_found">Klasse niet gevonden</string>
     <string name="total_income">Totaal inkomsten</string>

@@ -13,7 +13,6 @@
     <string name="symbol">記号</string>
     <string name="symbol_required">記号を入力</string>
     <string name="exchange_rate_required">為替レートを入力</string>
-    <string name="view_currencies">通貨の表示</string>
     <string name="tap_to_modify_converted_amounts">タップして変換金額を更新</string>
     <string name="currency_converter">通貨変換</string>
     <string name="invert">逆算</string>

@@ -154,7 +154,6 @@
 	</string-array>
 
 	<string name="general">Allgemein</string>
-	<string name="starting_screen">Startbildschirm</string>
 	<string name="negative_amount_format">Negatives Konten-Format</string>
 
 	<string name="show_currency_symbol">Zeige Währungssymbol</string>

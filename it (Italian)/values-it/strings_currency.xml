@@ -13,7 +13,6 @@
     <string name="symbol">Simbolo</string>
     <string name="symbol_required">Simbolo necessario</string>
     <string name="exchange_rate_required">Tasso di cambio necessario</string>
-    <string name="view_currencies">Visualizza valute</string>
     <string name="tap_to_modify_converted_amounts">Toccare per modificare gli importi convertiti</string>
     <string name="currency_converter">Convertitore di valuta</string>
     <string name="invert">Inverti</string>

@@ -155,7 +155,6 @@
     </string-array>
 
     <string name="general">General</string>
-    <string name="starting_screen">Ecranul de start</string>
     <string name="negative_amount_format">Format sumă negativă</string>
     
     <string name="show_currency_symbol">Arată simbolul valutei</string>

@@ -4,7 +4,6 @@
     <string name="recurring_bills_and_deposits">自動継続請求・入金</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
     <string name="recurring_bills_and_deposits_by_direction_order_format">自動継続請求・入金を^2の^1で表示</string> <!-- Example: "Bills & deposits by decreasing date" -->	
-	<string name="view_recurring">自動継続の表示</string>
 	<string name="new_recurring">自動継続の作成</string>
 	<string name="enter">入力</string>
 	<string name="entered">入力しました</string>

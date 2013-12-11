@@ -62,7 +62,6 @@
 	<string name="change_expense_warning">Möchten Sie diese Kategorie von Ausgabe in Einnahme oder vice versa ändern</string>
 	<string name="prepopulate">Mit Standard-Kategorien bestücken</string>
 	<string name="short_categories">Nur die kurze Kategorien-Liste laden (Sie haben später die Möglichkeit, die vollst. Liste zu laden)</string>
-	<string name="view_categories">Kategorien ansehen</string>
 	<string name="category_not_found">Kategorie gibt es nicht</string>
 	<string name="class_not_found">Klasse gibt es nicht</string>
 	<string name="total_income">Einkommen total</string>

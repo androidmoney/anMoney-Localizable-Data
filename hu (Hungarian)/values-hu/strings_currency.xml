@@ -13,7 +13,6 @@
     <string name="symbol">Jel</string>
     <string name="symbol_required">Jel kötelező</string>
     <string name="exchange_rate_required">Árfolyam kötelező</string>
-    <string name="view_currencies">Valuták megtekintése</string>
     <string name="tap_to_modify_converted_amounts">Érintse meg a konvertált összegek módosítához</string>
     <string name="currency_converter">Valutaátváltó</string>
     <string name="invert">Fordítsa\nmeg</string>

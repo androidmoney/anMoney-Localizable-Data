@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="budget">予算</string>
-    <string name="view_budget">予算の表示</string>
     <string name="edit_budget_item">予算項目の編集</string>
     <string name="new_budget_item">予算項目の追加</string>
     <string name="over_budget">予算超過</string>

@@ -25,8 +25,6 @@
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 по ^2 по ^3 за ^4</string>
     <string name="_continue">Продолжить</string>
 	<string name="continue_question">Продолжить</string>
-    <string name="home">Главное меню</string>
-	<string name="home_screen">@string/home</string>
     <string name="previous">Назад</string>
     <string name="next">Далее</string>
     <string name="_import">Импорт</string>

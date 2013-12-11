@@ -13,7 +13,6 @@
 	<string name="add_financial_institution_as_a_contact">Ajouter l’éts. fin. comme contact</string>
 	<string name="financial_institution_exists">Un établissement financier portant ce nom existe déjà</string>
     <string name="no_financial_institutions">Vous n’avez défini aucun établissement financier</string>
-	<string name="view_financial_institutions">Voir les établissements financiers</string>
 	<string name="financial_institution_name">Nom de l’établissement financier</string>
     <string name="contact_exists">Un contact portant ce nom existe déjà</string>
     <string name="link_financial_institution">Souhaitez-vous lier cet établissement financier au contact existant</string>	

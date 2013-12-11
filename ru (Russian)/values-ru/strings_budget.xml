@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="budget">Бюджет</string>
-    <string name="view_budget">Показать бюджет</string>
     <string name="edit_budget_item">Изменить элемент</string>
     <string name="new_budget_item">Новый элемент</string>
 	<string name="over_budget">Превышение бюджета</string>

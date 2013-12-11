@@ -62,7 +62,6 @@
     <string name="change_expense_warning">Trasformare questa categoria di spesa in entrata, o viceversa</string>
     <string name="prepopulate">Compilare con categorie predefinite</string>
     <string name="short_categories">Caricare solo la lista breve delle categorie (si avrà la possibilità di caricare l’elenco completo in seguito)</string>
-    <string name="view_categories">Visualizza categorie</string>
     <string name="category_not_found">Categoria inesistente</string>
     <string name="class_not_found">Classe inesistente</string>
 	<string name="total_income">Entrate totali</string>

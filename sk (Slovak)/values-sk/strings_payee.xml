@@ -30,7 +30,6 @@
     <string name="web_address">Webová adresa</string>
     <string name="select_account">Zvoľte účet</string>
     <string name="open_web_page">Otvoriť webovú stránku</string>
-    <string name="view_payees">Zobraziť príjemcu</string>
     <string name="default_payee_name">Predvolený príjemca</string>
 	<string name="spending_by_payee">Výdavky podľa príjemcu</string>
     <string name="all_payees_hidden_by_filter">Nastavenému filtru nevyhovuje žiadny príjemca</string>

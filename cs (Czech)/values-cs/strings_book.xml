@@ -155,7 +155,6 @@
 	</string-array>
 
 	<string name="general">Základní</string>
-	<string name="starting_screen">Úvodní obrazovka</string>
 	<string name="negative_amount_format">Zobrazení záporných částek</string>
 
 	<string name="show_currency_symbol">Zobrazit symbol měny</string>

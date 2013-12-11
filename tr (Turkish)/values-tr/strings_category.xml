@@ -63,7 +63,6 @@
     <string name="change_expense_warning">Bu kategoriyi harcamadan gelire ya da tam tersi olacak şekilde değiştirmek istiyor musunuz</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="prepopulate">Hazır kategori ile yerleşikleştir</string>
     <string name="short_categories">Sadece özet kategori listesini yükle (tüm listeyi sonra seçebileceksiniz)</string>
-    <string name="view_categories">Kategorileri görüntüle</string>
     <string name="category_not_found">Kategori bulunamadı</string>
     <string name="class_not_found">Sınıf bulunamadı</string>
     <string name="total_income">Gelir toplamı</string>

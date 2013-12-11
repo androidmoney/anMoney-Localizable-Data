@@ -14,7 +14,6 @@
     <string name="app_name_quick_entry">anMoneyクイック･エントリー</string>
     <string name="app_name_quick_entry_large">anMoneyクイック･エントリー（大）</string>
     <string name="app_name_quick_entry_small">anMoneyクイック･エントリー（小）</string>
-    <string name="show_total">口座の合計を表示</string>
     <string name="opacity">半透明</string>
     
     <string name="app_name_upcoming">anMoney予定</string> <!-- as in Upcoming Bills -->

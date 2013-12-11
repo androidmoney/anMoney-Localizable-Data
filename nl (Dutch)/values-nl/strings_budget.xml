@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
     <string name="budget">Budget</string>
-    <string name="view_budget">Bekijk budget</string>
     <string name="edit_budget_item">Bewerk budget item</string>
     <string name="new_budget_item">Nieuw budget item</string>
     <string name="over_budget">Resterend budget</string>

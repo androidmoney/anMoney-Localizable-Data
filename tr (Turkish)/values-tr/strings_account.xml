@@ -14,7 +14,6 @@
     <string name="account_balances">Hesap dengeleri</string>
     <string name="vehicle">Araç</string>
     <string name="property">Mülk</string>  <!-- As in "real estate" -->
-    <string name="view_accounts">Hesapları gör</string>
     <string name="new_account">Yeni hesap</string>
     <string name="edit_account">Hesap düzenle</string>
     <string name="balance_noun">Denge</string> <!-- Account balance -->

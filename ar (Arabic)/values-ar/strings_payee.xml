@@ -30,7 +30,6 @@
 	<string name="web_address">عنوان الشبكة</string>
 	<string name="select_account">اختيار حساب</string>
 	<string name="open_web_page">فتح صفحة على الشبكة</string>
-	<string name="view_payees">عرض المستفيدين</string>
 	<string name="default_payee_name">المستفيد الخاص</string>
 	<string name="spending_by_payee">الصرف بالمستفيد</string>
 	<string name="all_payees_hidden_by_filter">تم اخفاء جميع المستفيدين بواسطة فلتر العرض</string>

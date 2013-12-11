@@ -14,7 +14,6 @@
 	<string name="account_balances">Account balances</string>
 	<string name="vehicle">Vehicle</string>
 	<string name="property">Property</string> <!-- As in "real estate" -->
-	<string name="view_accounts">View accounts</string>
 	<string name="new_account">New account</string>
 	<string name="edit_account">Edit account</string>
 	<string name="balance_noun">Balance</string> <!-- Account balance -->

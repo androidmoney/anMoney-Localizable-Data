@@ -4,7 +4,6 @@
     <string name="recurring_bills_and_deposits">Запланированные операции</string>
 
     <string name="recurring_bills_and_deposits_by_direction_order_format">Операции по ^1 по ^2</string>	
-	<string name="view_recurring">Показать операции</string>
 	<string name="new_recurring">Новая операция</string>
 	<string name="enter">Записать</string>
 	<string name="entered">Записано</string>

@@ -3,7 +3,6 @@
 	<string name="report">Informe</string>
 	<string name="reports">Informes</string>
 	<string name="view_report">Mostar informe</string>
-	<string name="view_reports">Mostar informes</string>
 	<string name="report_canceled">Informe cancel·lat</string>
 	<string name="export_report">Exportar informe</string>
 	<string name="report_exported">L’informe s’ha exportat amb èxit a la targeta SD</string>

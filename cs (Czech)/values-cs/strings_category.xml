@@ -62,7 +62,6 @@
 	<string name="change_expense_warning">Chcete změnit typ kategorie z výdajové na příjmovou, nebo naopak</string>
 	<string name="prepopulate">Přidat výchozí kategorie</string>
 	<string name="short_categories">Nahrát jen krátký seznam kategorií (budete mít možnost nahrát úplný seznam později)</string>
-	<string name="view_categories">Zobrazit kategorie</string>
 	<string name="category_not_found">Kategorie nenalezena</string>
 	<string name="class_not_found">Třída nenalezena</string>
 	<string name="total_income">Příjmy celkem</string>

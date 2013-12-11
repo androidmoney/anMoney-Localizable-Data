@@ -62,7 +62,6 @@
 	<string name="change_expense_warning">Souhaitez-vous changer cette catégorie de dépenses en recettes, ou vice versa</string>
 	<string name="prepopulate">Pré-remplir avec les catégories par défaut</string>
 	<string name="short_categories">Charger uniquement la liste réduite des catégories (vous pourrez charger la liste complète plus tard)</string>
-	<string name="view_categories">Voir les catégories</string>
 	<string name="category_not_found">Cette catégorie n’existe pas</string>
 	<string name="class_not_found">Cette classe n’existe pas</string>
 	<string name="total_income">Total recettes</string>

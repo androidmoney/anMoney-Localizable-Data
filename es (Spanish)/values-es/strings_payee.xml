@@ -30,7 +30,6 @@
 	<string name="web_address">Sítio web</string>
 	<string name="select_account">Seleccionar la cuenta</string>
 	<string name="open_web_page">Abrir página web</string>
-	<string name="view_payees">Ver los beneficiarios</string>
 	<string name="default_payee_name">Mi beneficiario</string>
 	<string name="spending_by_payee">Gastos por beneficiario</string>
 	<string name="all_payees_hidden_by_filter">Todos los beneficiarios están ocultos por el filtro de visualización</string>

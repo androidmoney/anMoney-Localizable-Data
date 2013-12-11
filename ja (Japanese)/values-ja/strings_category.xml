@@ -63,7 +63,6 @@
     <string name="change_expense_warning">このカテゴリーを支出から収入に、あるいはその逆に変更しますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
     <string name="prepopulate">デフォルト・カテゴリーで事前設定</string>
     <string name="short_categories">短いカテゴリーリストのみロード（後で前リストをロードするオプションあり）</string>
-    <string name="view_categories">カテゴリーの表示</string>
     <string name="category_not_found">カテゴリーが見つかりません</string>
     <string name="class_not_found">クラスが見つかりません</string>
     <string name="total_income">総収入</string>

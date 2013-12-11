@@ -12,7 +12,6 @@
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
 	<string name="vehicle">Dopravní prostředek</string>
 	<string name="property">Majetek</string>
-	<string name="view_accounts">Zobrazit účty</string>
 	<string name="new_account">Nový účet</string>
 	<string name="edit_account">Upravit účet</string>
 	<string name="balance_noun">Zůstatek</string>

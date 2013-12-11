@@ -30,7 +30,6 @@
 	<string name="web_address">Adreça web</string>
 	<string name="select_account">Seleccionar compte</string>
 	<string name="open_web_page">Obrir pàgina web</string>
-	<string name="view_payees">Mostrar beneficiaris</string>
 	<string name="default_payee_name">El meu beneficiari</string>
 	<string name="spending_by_payee">Despesa per beneficiari</string>
 	<string name="all_payees_hidden_by_filter">Tots els beneficiaris han estat amagats pel filtre de visualització</string>

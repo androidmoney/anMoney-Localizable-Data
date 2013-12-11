@@ -5,7 +5,6 @@
 	<string name="recurring_bills_and_deposits">Recurring bills &amp; deposits</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
 	<string name="recurring_bills_and_deposits_by_direction_order_format">Bills &amp; deposits by ^1 ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
-	<string name="view_recurring">View recurring</string>
 	<string name="new_recurring">New recurring</string>
 	<string name="enter">Enter</string>
 	<string name="entered">Entered</string>

@@ -30,7 +30,6 @@
 	<string name="web_address">Nettadresse</string>
 	<string name="select_account">Velg konto</string>
 	<string name="open_web_page">Åpne nettside</string>
-	<string name="view_payees">Vis betalingskontakter</string>
 	<string name="default_payee_name">Min betalingskontakt</string>
 	<string name="spending_by_payee">Utgående per betalingskontakt</string>
 	<string name="all_payees_hidden_by_filter">Alle betalingskontaktene er skjult av visningsfilteret</string>

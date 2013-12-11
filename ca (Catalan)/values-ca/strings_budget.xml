@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="budget">Pressupost</string>
-	<string name="view_budget">Mostrar pressupost</string>
 	<string name="edit_budget_item">Editar element del pressupost</string>
 	<string name="new_budget_item">Nou element del pressupost</string>
 	<string name="over_budget">Fora de pressupost</string>

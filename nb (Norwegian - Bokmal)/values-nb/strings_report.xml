@@ -5,7 +5,6 @@
     <string name="report">Rapport</string>
 	<string name="reports">Rapporter</string>
 	<string name="view_report">Vis rapport</string>
-	<string name="view_reports">Vis rapporter</string>
 	<string name="report_canceled">Rapportering avbrutt</string>
 	<string name="export_report">Eksporter rapport</string>
 	<string name="report_exported">Eksporterte vellykket til minnekortet</string>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="budget">預算</string>
-    <string name="view_budget">檢視預算</string>
     <string name="edit_budget_item">編輯預算項目</string>
     <string name="new_budget_item">新增預算項目</string>
     <string name="over_budget">超出預算</string>

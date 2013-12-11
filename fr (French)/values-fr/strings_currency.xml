@@ -13,7 +13,6 @@
 	<string name="symbol">Symbole</string>
 	<string name="symbol_required">Symbole obligatoire</string>
 	<string name="exchange_rate_required">Taux de change obligatoire</string>
-	<string name="view_currencies">Voir les devises</string>
 	<string name="tap_to_modify_converted_amounts">Appuyez pour modifier les montants convertis</string>
 	<string name="currency_converter">Convertisseur de devises</string>
 	<string name="invert">Inverser</string>

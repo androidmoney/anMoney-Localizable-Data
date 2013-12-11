@@ -3,7 +3,6 @@
 	<string name="report">Rapor</string>
 	<string name="reports">Raporlar</string>
 	<string name="view_report">Rapor görüntüle</string>
-	<string name="view_reports">Raporları görüntüle</string>
 	<string name="report_canceled">Rapor iptal edildi</string>
 	<string name="export_report">Rapor dışa aktar</string>
 	<string name="report_exported">Hafıza Kartına başarıyla aktarıldı</string>

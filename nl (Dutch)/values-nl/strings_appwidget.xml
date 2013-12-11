@@ -14,7 +14,6 @@
     <string name="app_name_quick_entry">anMoney — Snel invoeren</string>
     <string name="app_name_quick_entry_large">anMoney — Snel invoeren (groot)</string>
     <string name="app_name_quick_entry_small">anMoney — Snel invoeren (klein)</string>
-    <string name="show_total">Totaal van de rekening laten zien</string>
 	<string name="opacity">Ondoorzichtigheid</string>
 
     <string name="app_name_upcoming">anMoney — Aanstaande</string> <!-- as in Upcoming Bills -->

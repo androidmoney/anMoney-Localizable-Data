@@ -30,7 +30,6 @@
     <string name="web_address">Honlap</string>
     <string name="select_account">Válasszon számlát/ákat</string>
     <string name="open_web_page">Weboldal megnyitása</string>
-    <string name="view_payees">Kedvezményezettek megtekintése</string>
     <string name="default_payee_name">Kedvezményezettem</string>
 	<string name="spending_by_payee">Költés kedvezményezettenként</string>
     <string name="all_payees_hidden_by_filter">A szűrő elrejtette az összes kedvezményezettet</string>

@@ -154,7 +154,6 @@ New        <string name="decline">Decline</string>
     </string-array>
 
     <string name="general">Algemeen</string>
-    <string name="starting_screen">Start scherm</string>
     <string name="negative_amount_format">Negatief bedrag formaat</string>
     
     <string name="show_currency_symbol">Muntsoort symbool laten zien</string>

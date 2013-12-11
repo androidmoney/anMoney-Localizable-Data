@@ -3,7 +3,6 @@
     <string name="report">அறிக்கை</string>
     <string name="reports">அறிக்கைகள்</string>
 	<string name="view_report">அறிக்கையை பார்க்க</string>
-	<string name="view_reports">அறிக்கைகளை பார்க்க</string>
     <string name="report_canceled">அறிக்கை இரத்து செய்யப்பட்டது</string>
 	<string name="export_report">அறிக்கையை ஏற்றுமதி செய்</string>
 	<string name="report_exported">வெற்றிகரமாக பதிவு அட்டைக்கு அறிக்கையை ஏற்றுமதி செய்யப்பட்டது</string>

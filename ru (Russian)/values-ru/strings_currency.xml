@@ -13,7 +13,6 @@
     <string name="symbol">Символ</string>
     <string name="symbol_required">Укажите символ</string>
     <string name="exchange_rate_required">Укажите курс обмена</string>
-    <string name="view_currencies">Показать валюты</string>
     <string name="tap_to_modify_converted_amounts">Нажмите для изменения сумм</string>
     <string name="currency_converter">Конвертер валют</string>
     <string name="invert">Обратить</string>

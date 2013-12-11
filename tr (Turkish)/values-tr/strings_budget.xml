@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
     <string name="budget">Bütçe</string>
-    <string name="view_budget">Bütçe görüntüle</string>
     <string name="edit_budget_item">Bütçe öğesini düzenle</string>
     <string name="new_budget_item">Yeni bütçe öğesi</string>
     <string name="over_budget">Bütçe sonu</string>

@@ -13,7 +13,6 @@
 	<string name="account_balances">Kontostände</string>
 	<string name="vehicle">KfZ</string>
 	<string name="property">Grund und Boden</string>
-	<string name="view_accounts">Konten ansehen</string>
 	<string name="new_account">Neues Konto</string>
 	<string name="edit_account">Konto ändern</string>
 	<string name="balance_noun">Saldo</string>

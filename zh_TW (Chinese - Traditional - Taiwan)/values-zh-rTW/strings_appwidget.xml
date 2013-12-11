@@ -14,7 +14,6 @@
     <string name="app_name_quick_entry">anMoney快速輸入</string>
     <string name="app_name_quick_entry_large">anMoney快速輸入（大型）</string>
     <string name="app_name_quick_entry_small">anMoney快速輸入（小型）</string>
-    <string name="show_total">顯示帳戶的合計總額</string>
     <string name="opacity">透明度</string>
 
     <string name="app_name_upcoming">anMoney近期</string> <!-- as in Upcoming Bills -->

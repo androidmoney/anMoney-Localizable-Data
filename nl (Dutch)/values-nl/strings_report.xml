@@ -3,7 +3,6 @@
 	<string name="report">Rapport</string>
     <string name="reports">Rapporten</string>
 	<string name="view_report">Bekijk rapport</string>
-	<string name="view_reports">Bekijk rapporten</string>
 	<string name="report_canceled">Rapport geannuleerd</string>
 	<string name="export_report">Export report</string>
 	<string name="report_exported">Succesvol geexporteerd naar de SD kaart</string>

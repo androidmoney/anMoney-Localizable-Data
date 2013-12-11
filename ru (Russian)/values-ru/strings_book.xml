@@ -154,7 +154,6 @@
     </string-array>
 
     <string name="general">Общие</string>
-    <string name="starting_screen">Стартовый экран</string>
     <string name="negative_amount_format">Формат отрицательных чисел</string>
     
     <string name="show_currency_symbol">Положение символа валюты</string>

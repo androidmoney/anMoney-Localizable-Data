@@ -13,7 +13,6 @@
     <string name="symbol">குறியீடு</string>
     <string name="symbol_required">குறியீடு தேவை</string>
     <string name="exchange_rate_required">பரிமாற்ற விகிதங்கள் தேவை</string>
-    <string name="view_currencies">நாணயங்களை பார்க்க</string>
     <string name="tap_to_modify_converted_amounts">மாற்றப்பட்டதொகைகளை திருத்தியமைக்க தொடவும்</string>
     <string name="currency_converter">நாணய  மாற்றி</string>
     <string name="invert">நேர்மாறாக்கு</string>

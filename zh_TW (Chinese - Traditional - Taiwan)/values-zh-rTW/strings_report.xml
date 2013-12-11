@@ -3,7 +3,6 @@
 	<string name="report">報告</string>
     <string name="reports">@string/report</string>
 	<string name="view_report">檢視報告</string>
-	<string name="view_reports">檢視報告</string>
 	<string name="report_canceled">報告已取消</string>
 	<string name="export_report">匯出報告</string>
 	<string name="report_exported">成功匯出到記憶卡</string>

@@ -4,7 +4,6 @@
     <string name="recurring_bills_and_deposits">Opérations récurrentes</string>
 
     <string name="recurring_bills_and_deposits_by_direction_order_format">Récurrences par ordre ^1 de ^2</string>	
-	<string name="view_recurring">Voir les récurrences</string>
 	<string name="new_recurring">Nouvelle récurrence</string>
 	<string name="enter">Saisir</string>
 	<string name="entered">Saisie</string>

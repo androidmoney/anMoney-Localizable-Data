@@ -155,7 +155,6 @@
 	</string-array>
 
 	<string name="general">Generelt</string>
-	<string name="starting_screen">Oppstartsskjerm</string>
 	<string name="negative_amount_format">Format for negative transaksjonsbeløp</string>
 
 	<string name="show_currency_symbol">Vis valutasymbol</string>

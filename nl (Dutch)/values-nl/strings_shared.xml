@@ -25,8 +25,6 @@
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 door ^2 ^3 voor ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="_continue">Doorgaan</string>
 	<string name="continue_question">Doorgaan</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="home">Start</string> <!-- Home screen -->
-	<string name="home_screen">Start scherm</string>
     <string name="previous">Vorige</string>
     <string name="next">Volgende</string>
     <string name="_import">Importeren</string> <!-- This is a verb -->

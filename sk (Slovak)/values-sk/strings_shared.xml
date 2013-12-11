@@ -25,8 +25,6 @@
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 ^2 podľa ^3 za ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="_continue">Pokračovať</string>
 	<string name="continue_question">Pokračovať</string> <!-- This is a question, but the question mark will be added progrmatically -->
-    <string name="home">Úvod</string>
-	<string name="home_screen">Domáca obrazovka</string>
     <string name="previous">Predchádzajúci</string>
     <string name="next">Ďalší</string>
     <string name="_import">Import</string>

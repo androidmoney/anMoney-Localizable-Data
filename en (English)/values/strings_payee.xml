@@ -30,7 +30,6 @@
 	<string name="web_address">Web address</string>
 	<string name="select_account">Select account</string>
 	<string name="open_web_page">Open web page</string>
-	<string name="view_payees">View payees</string>
 	<string name="default_payee_name">My payee</string>
 	<string name="spending_by_payee">Spending by payee</string>
 	<string name="all_payees_hidden_by_filter">All payees are hidden by the display filter</string>

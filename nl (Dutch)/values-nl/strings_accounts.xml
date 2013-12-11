@@ -14,7 +14,6 @@
     <string name="account_balances">Balans rekening</string>
     <string name="vehicle">Voertuig</string>
     <string name="property">Eigendom</string>  <!-- As in "real estate" -->
-    <string name="view_accounts">Bekijk rekeningen</string>
     <string name="new_account">Nieuwe rekening</string>
     <string name="edit_account">Rekening bewerken</string>
     <string name="balance_noun">Balans</string> <!-- Account balance -->

@@ -4,7 +4,6 @@
 	<string name="report">Report</string>
 	<string name="reports">Reports</string>
 	<string name="view_report">View report</string>
-	<string name="view_reports">View reports</string>
 	<string name="report_canceled">Report cancelled</string>
 	<string name="export_report">Export report</string>
 	<string name="report_exported">Successfully exported to the SD card</string>

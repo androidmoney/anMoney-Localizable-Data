@@ -13,7 +13,6 @@
     <string name="add_financial_institution_as_a_contact">Adicionar inst. fin. como contato</string>
     <string name="financial_institution_exists">Uma instituição financeira com este nome já existe</string>
     <string name="no_financial_institutions">Você não tem nenhum instituição financeira</string>
-    <string name="view_financial_institutions">Ver instituição financeira</string>
     <string name="financial_institution_name">Nome da instituiçãoo financeira</string>
     <string name="contact_exists">Um contato com este nome já existe</string>
     <string name="link_financial_institution">Você quer relacionar esta instituição financeira ao contato existente</string>    

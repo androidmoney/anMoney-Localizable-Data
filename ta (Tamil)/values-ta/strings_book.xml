@@ -154,7 +154,6 @@
     </string-array>
 
     <string name="general">பொதுவானது</string>
-    <string name="starting_screen">தொடக்கத் திரை</string>
     <string name="negative_amount_format">எதிர்மறை தொகை வடிவமைப்பு</string>
     
     <string name="show_currency_symbol">நாணயத்தின் குறியீடை காட்டு</string>

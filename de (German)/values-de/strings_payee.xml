@@ -30,7 +30,6 @@
 	<string name="web_address">Web-Adresse</string>
 	<string name="select_account">Wähle Konto</string>
 	<string name="open_web_page">Öffne Web-Seite</string>
-	<string name="view_payees">Empfänger ansehen</string>
 	<string name="default_payee_name">Mein Empfänger</string>
 	<string name="spending_by_payee">Ausgaben nach Empfänger</string>
 	<string name="all_payees_hidden_by_filter">Alle Empfänger sind durch den Ansichts-Filter versteckt</string>

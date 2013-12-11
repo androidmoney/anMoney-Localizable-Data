@@ -13,7 +13,6 @@
     <string name="account_balances">கணக்கு கையிருப்புகள்</string>
     <string name="vehicle">வாகனம்</string>
     <string name="property">சொத்து</string>
-    <string name="view_accounts">கணக்குகளை பார்வையிட</string>
     <string name="new_account">புதிய கணக்கு</string>
     <string name="edit_account">கணக்கை திருத்து</string>
     <string name="balance_noun">கையிருப்பு</string> <!-- Account balance -->

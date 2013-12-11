@@ -3,7 +3,6 @@
 	<string name="report">Report</string>
     <string name="reports">Reporty</string>
 	<string name="view_report">Zobraziť report</string>
-	<string name="view_reports">Zobraziť reporty</string>
 	<string name="report_canceled">Report zrušený</string>
 	<string name="export_report">Export reportu</string>
 	<string name="report_exported">Report úspešne exportovaný na pamäťovú kartu</string>

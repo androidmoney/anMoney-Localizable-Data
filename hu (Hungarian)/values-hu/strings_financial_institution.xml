@@ -13,7 +13,6 @@
     <string name="add_financial_institution_as_a_contact">Pénzintézet hozzáadása személyként</string>
     <string name="financial_institution_exists">Egy pénzintézet már létezik ezzel a névvel</string>
     <string name="no_financial_institutions">Nincsenek pénzintézetei</string>
-    <string name="view_financial_institutions">Pénzintézetek megtekintése</string>
     <string name="financial_institution_name">Pénzintézet neve</string>
     <string name="contact_exists">Egy személy már létezik ezzel a névvel</string>
     <string name="link_financial_institution">Szeretné hozzákapcsolni ezt a pénzintézetet a már meglévő személyhez</string>    

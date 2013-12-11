@@ -63,7 +63,6 @@
 	<string name="change_expense_warning">Ønsker du å endre kategorien fra en utgifts- til inntektskategori, eller omvendt</string>
 	<string name="prepopulate">Fyll inn med standardkategorier</string>
 	<string name="short_categories">Last kun kort kategoriliste (du vil få muligheten til å laste den fulle listen senere)</string>
-	<string name="view_categories">Vis kategorier</string>
 	<string name="category_not_found">Fant ikke kategorien</string>
 	<string name="class_not_found">Fant ikke klassen</string>
 	<string name="total_income">Total inntekt</string>

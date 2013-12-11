@@ -155,7 +155,6 @@
     </string-array>
 
     <string name="general">全般</string>
-    <string name="starting_screen">起動時画面</string>
     <string name="negative_amount_format">負数の表示形式</string>
     
     <string name="show_currency_symbol">通貨記号の位置</string>

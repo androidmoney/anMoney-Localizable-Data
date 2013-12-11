@@ -4,7 +4,6 @@
     <string name="recurring_bills_and_deposits">Terugkomende rekeningen &amp; stortingen</string>
 	<string name="recurring_bills_and_deposits_short">@string/recurring_bills_and_deposits</string>
     <string name="recurring_bills_and_deposits_by_direction_order_format">Rekeningen &amp; stortingen door ^1 ^2</string> <!-- Example: "Bills & deposits by decreasing date" -->	
-	<string name="view_recurring">Bekijk terugkomende</string>
 	<string name="new_recurring">Nieuwe terugkomende</string>
 	<string name="enter">Invoeren</string>
 	<string name="entered">Ingevoerd</string>

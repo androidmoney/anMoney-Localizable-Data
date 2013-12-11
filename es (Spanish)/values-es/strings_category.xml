@@ -63,7 +63,6 @@
 	<string name="change_expense_warning">Quieres cambiar esta categoría de gastos a ingresos, o viceversa</string>
 	<string name="prepopulate">Rellenar con las categorías predeterminadas</string>
 	<string name="short_categories">Cargar lista corta de categorías (tendrás la opción de cargar la lista completa más adelante)</string>
-	<string name="view_categories">Ver categorías</string>
 	<string name="category_not_found">La categoría no existe</string>
 	<string name="class_not_found">La clase no existe</string>
 	<string name="total_income">Total de ingresos</string>

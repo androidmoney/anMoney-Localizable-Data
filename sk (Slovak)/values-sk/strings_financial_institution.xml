@@ -13,7 +13,6 @@
     <string name="add_financial_institution_as_a_contact">Uložiť inštitúciu ako kontakt</string>
     <string name="financial_institution_exists">Finančná inštitúcia s týmto názvom už existuje</string>
     <string name="no_financial_institutions">Nemáte žiadne finančné inštitúcie</string>
-    <string name="view_financial_institutions">Zobraziť finančné inštitúcie</string>
     <string name="financial_institution_name">Názov finančnej inštitúcie</string>
     <string name="contact_exists">Kontakt s týmto názvom už existuje</string>
     <string name="link_financial_institution">Chcete prepojiť túto finančnú inštitúciu s existujúcim kontaktom</string> <!-- This is a question, but the question mark will be added progrmatically -->

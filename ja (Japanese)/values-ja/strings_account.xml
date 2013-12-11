@@ -13,7 +13,6 @@
     <string name="account_balances">口座差引残高</string>
     <string name="vehicle">自動車</string>
     <string name="property">不動産</string>
-    <string name="view_accounts">口座の表示</string>
     <string name="new_account">口座の作成</string>
     <string name="edit_account">口座の編集</string>
     <string name="balance_noun">差引残高</string> <!-- Account balance -->

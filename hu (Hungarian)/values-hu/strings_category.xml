@@ -62,7 +62,6 @@
     <string name="change_expense_warning">Szeretné ezt a kategóriát cserélni kiadásiról jövedelemire, vagy fordítva</string>
     <string name="prepopulate">Töltse be az alapkategóriákat</string>
     <string name="short_categories">Csak a rövid kategória listát töltse be (később lesz a lehetősége a teljes lista betöltésére)</string>
-    <string name="view_categories">Kategória megtekintése</string>
     <string name="category_not_found">Kategória nem létezik</string>
     <string name="class_not_found">Osztály nem létezik</string>
     <string name="total_income">Teljes jövedelem</string>

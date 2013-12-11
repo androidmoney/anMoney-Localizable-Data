@@ -30,7 +30,6 @@
     <string name="web_address">Web adres</string>
     <string name="select_account">Selecteer rekening</string>
     <string name="open_web_page">Open web pagina</string>
-    <string name="view_payees">Bekijk begunstigden</string>
     <string name="default_payee_name">Mijn begunstigden</string>
 	<string name="spending_by_payee">Uitgaven per begunstigde</string>
     <string name="all_payees_hidden_by_filter">Alle begunstigden zijn verborgen door het weergave filter</string>

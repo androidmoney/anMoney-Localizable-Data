@@ -13,7 +13,6 @@
     <string name="symbol">Symbool</string>
     <string name="symbol_required">Symbool verplicht</string>
     <string name="exchange_rate_required">Wisselkoers verplicht</string>
-    <string name="view_currencies">Bekijk valuta</string>
     <string name="tap_to_modify_converted_amounts">Raak aan om omgezette valuta toe te passen</string>
     <string name="currency_converter">Wisselkoers berekener</string>
     <string name="invert">Omkeren</string>

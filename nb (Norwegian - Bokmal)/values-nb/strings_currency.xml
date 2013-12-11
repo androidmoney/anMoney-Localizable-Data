@@ -13,7 +13,6 @@
 	<string name="symbol">Symbol</string>
 	<string name="symbol_required">Symbol er påkrevd</string>
 	<string name="exchange_rate_required">Valutakurs er påkrevd</string>
-	<string name="view_currencies">Vis valutaer</string>
 	<string name="tap_to_modify_converted_amounts">Trykk for å modifisere konverterte beløper</string>
 	<string name="currency_converter">Valutakonverterer</string>
 	<string name="invert">Invertér</string>

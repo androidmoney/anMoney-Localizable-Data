@@ -13,7 +13,6 @@
 	<string name="symbol">Símbol</string>
 	<string name="symbol_required">Símbol requerit</string>
 	<string name="exchange_rate_required">Tipus de canvi requerit</string>
-	<string name="view_currencies">Mostrar divises</string>
 	<string name="tap_to_modify_converted_amounts">Toqui per a modificar imports convertits</string>
 	<string name="currency_converter">Conversor de divises</string>
 	<string name="invert">Invertir</string>

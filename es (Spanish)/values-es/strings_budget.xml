@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="budget">Presupuesto</string>
-	<string name="view_budget">Visualizar presupuesto</string>
 	<string name="edit_budget_item">Editar ítem de presupuesto</string>
 	<string name="new_budget_item">Nuevo ítem de presupuesto</string>
 	<string name="over_budget">Presupuesto excedido</string>

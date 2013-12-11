@@ -154,7 +154,6 @@
 	</string-array>
 
     <string name="general">Genel</string>
-    <string name="starting_screen">Açılış ekranı</string>
     <string name="negative_amount_format">Eksi bakiye formatı</string>
     
     <string name="show_currency_symbol">Kur simgesini göster</string>

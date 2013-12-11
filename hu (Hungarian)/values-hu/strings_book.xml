@@ -155,7 +155,6 @@
 
 
 	<string name="general">Általános</string>
-    <string name="starting_screen">Első lap</string>
     <string name="negative_amount_format">Negatív összeg formátuma</string>
     
     <string name="show_currency_symbol">Pénznem mutatása</string>

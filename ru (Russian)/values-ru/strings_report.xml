@@ -3,7 +3,6 @@
     <string name="report">Отчёт</string>
     <string name="reports">Отчёты</string>
     <string name="view_report">Показать отчёт</string>
-    <string name="view_reports">Показать отчёты</string>
 	<string name="report_canceled">Отчёт отменён</string>
     <string name="export_report">Экспортировать отчёт</string>
     <string name="report_exported">Успешно экспортирован на карту SD</string>

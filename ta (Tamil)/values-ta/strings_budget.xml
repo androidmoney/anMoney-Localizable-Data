@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>     
     <string name="budget">திட்டஅறிக்கை</string>
-    <string name="view_budget">திட்டஅறிக்கையை பார்க்க</string>
     <string name="edit_budget_item">திட்டஅறிக்கை உறுப்புகளை திருத்த</string>
     <string name="new_budget_item">புதிய திட்டஅறிக்கை உறுப்பு</string>
     <string name="over_budget">திட்டமிட்டதைவிட அதிகம்</string>

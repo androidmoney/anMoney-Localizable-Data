@@ -4,7 +4,6 @@
 	<string name="recurring_bills_and_deposits">Wiederkehrende Rechnungen &amp; Einzahlungen</string>
 
 	<string name="recurring_bills_and_deposits_by_direction_order_format">Buchungs-Serien nach ^1 und ^2</string>	
-	<string name="view_recurring">Wiederkehrende Posten ansehen</string>
 	<string name="new_recurring">Neuanlage von wiederkehrenden Posten</string>
 	<string name="enter">Eingabe</string>
 	<string name="entered">Eingegeben</string>

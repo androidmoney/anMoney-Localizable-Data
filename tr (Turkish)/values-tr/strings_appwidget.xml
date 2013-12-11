@@ -14,7 +14,6 @@
     <string name="app_name_quick_entry">anMoney — Hızlı girdi</string>
     <string name="app_name_quick_entry_large">anMoney — Hızlı girdi (büyük)</string>
     <string name="app_name_quick_entry_small">anMoney — Hızlı girdi (küçük)</string>
-    <string name="show_total">Hesap toplamını göster</string>
     <string name="opacity">Saydamlık</string>
 
     <string name="app_name_upcoming">anMoney — Yaklaşan</string> <!-- as in Upcoming Bills -->

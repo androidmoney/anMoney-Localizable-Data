@@ -12,7 +12,6 @@
 <!-- <string name="associated_reward_program_if_any">Associated reward program, if any</string> -->
 	<string name="vehicle">Vehicle</string>
 	<string name="property">Propietat</string>
-	<string name="view_accounts">Mostrar comptes</string>
 	<string name="new_account">Nou compte</string>
 	<string name="edit_account">Editar compte</string>
 	<string name="balance_noun">Saldo</string>
