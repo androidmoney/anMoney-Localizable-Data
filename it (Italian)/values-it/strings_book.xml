@@ -57,8 +57,8 @@
 	<string name="mark_transactions_exported">Contrassegna transazioni come esportate</string>
 	<string name="create_single_file">Crea un singolo file</string>
 	<string name="no_transactions_matched_your_selection_criteria">Nessuna transazione corrisponde ai criteri selezionati.\n\nNon è stato creato alcun file(s) di esportazione</string>
-	<string name="import_folder">Importa cartella</string>
-	<string name="export_folder">Esporta cartella</string>
+	<string name="import_folder">Cartella importazione</string>
+	<string name="export_folder">Cartella esportazione</string>
 	<string name="ask_to_view_imported_transaction">Desideri visualizzare le transazioni importate</string>
 	<string name="import_same_time_warning">Se avete più di un conto da importare, assicurarsi che vengano importati contemporaneamente. Importare i conti singolarmente può creare delle transazioni duplicate e questo deve essere evitato</string> 
 	<string name="tip">Suggerimento</string>
@@ -91,7 +91,7 @@
 	<string name="i_understand_the_limitations">Ho compreso queste limitazioni</string>
 	<string name="set_password_now_part1">Impostare una password ora</string>
 	<string name="set_password_now_part2_format">Anche se rispondete ^1, si avrà la possibilità di impostare una password in qualsiasi momento selezionando ^2 dal menu nella parte superiore dello schermo</string>
-	<string name="folder_name_format">Nome cartella (usa ^1 per sottocartelle)</string>
+	<string name="folder_name_format">Nome cartella (utilizzare ^1 per sottocartelle)</string>
 	<string name="no_backup_files">Nessun file di backup trovato</string>
 	<string name="no_backup_files_new_instructions">Se si sta tentando di creare un registro utilizzando un file di importazione, si prega di creare prima un registro da zero e poi importarvi i dati</string>
 	<string name="remove_transactions">Rimuovere transazioni antecedenti la data qui sotto</string>
