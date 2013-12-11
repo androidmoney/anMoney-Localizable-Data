@@ -191,7 +191,7 @@
 	<string name="warn_if_no_category_description">Se selezionato, verrà visualizzato un avviso quando non è specificata alcuna categoria</string>
 
 	<string name="warn_if_incorrect_category_type">Avvisa, se il tipo di categoria è errata</string>
-	<string name="warn_if_incorrect_category_type_description">Se selezionato, verrà visualizzato un avviso se viene specificato il tipo sbagliato di categoria</string>
+	<string name="warn_if_incorrect_category_type_description">Se selezionato, verrà visualizzato un avviso qualora sia specificato il tipo di categoria errato</string>
 
 	<string name="modification_confirmation">Conferma modifica</string>
 	<string name="none">Nessuno</string>
@@ -202,13 +202,13 @@
 	</string-array>
 
 	<string name="back_press_prompt">Suggerimento pulsante indietro</string>
-	<string name="back_press_prompt_description">Se selezionato, viene visualizzato il suggerimento di richiesta di salvataggio quando viene premuto il pulsante indietro</string>
+	<string name="back_press_prompt_description">Se selezionato, verrà visualizzato il suggerimento di richiesta di salvataggio quando si preme il pulsante indietro</string>
 
 	<string name="new_payee_confirmation">Conferma nuovo beneficiario</string>
-	<string name="new_payee_confirmation_description">Se selezionato, viene mostrata una conferma prima della creazione di un nuovo beneficiario</string>
+	<string name="new_payee_confirmation_description">Se selezionato, verrà mostrata una conferma prima della creazione di un nuovo beneficiario</string>
 
 	<string name="duplicate_check_number">Duplicare il numero dell’assegno</string>
-	<string name="duplicate_check_number_description">Se selezionato, viene visualizzato un avviso se il numero di assegno era già stato utilizzato</string>
+	<string name="duplicate_check_number_description">Se selezionato, verrà visualizzato un avviso se il numero di assegno era già stato utilizzato</string>
 
 	<string name="field_with_initial_focus">Campo con focus iniziale</string>
 	
