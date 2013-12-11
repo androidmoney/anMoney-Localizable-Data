@@ -114,9 +114,9 @@
     <string name="deposits_payments">Depositi &amp; Pagamenti</string>
     <string name="no_deposits_payments">Nessun deposito o pagamento</string>
     <string name="no_unreconciled_transactions">Nessuna transazione non riconciliata</string>
-    <string name="cleared_all_transactions">Rimosse tutte le transazioni</string>
+    <string name="cleared_all_transactions">Tutte le transazioni rimosse</string>
     <string name="next_check_number">Prossimo numero assegno</string>
-    <string name="cleared_transactions_color">Rimuovi colore transazioni</string>
+    <string name="cleared_transactions_color">Colore transazioni rimosse</string>
     <string name="reconciled_transactions_color">Colore transazioni riconciliate</string>
 	<string name="upcoming_transactions_color">Colore transazioni in scadenza</string>
     <string name="text_filter">Testo del filtro</string>
