@@ -118,7 +118,7 @@
     <string name="unexpected_error_notification_title">anMoney si è interrotto</string>
     <string name="unexpected_error_notification_text">Tocca qui per inviare un report.</string>
     <string name="unexpected_error_comment">Se vuoi, si prega di descrivere le operazioni che stavi facendo quando si è verificato il problema</string>
-	<string name="archiving">In archiviazione</string>
+	<string name="archiving">Archiviazione</string>
 	<string name="archiving_settings">Parametri per l’archiviazione</string>
 	<string name="more">Altro</string>
 	<string-array name="more_plurals"> <!-- As in "X more/further item(s)" -->
