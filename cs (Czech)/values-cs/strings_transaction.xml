@@ -7,7 +7,7 @@
 	<string name="split_transaction">Rozdělit transakci</string>
 	<string name="delete_transaction">Smazat transakci</string>
 	<string name="accept_transaction">Přijmout transakci</string>
-	<string name="select">Zvolit</string>
+	<string name="select">Vybrat</string>
 	<string name="accept">Přijmout</string>
 	<string name="accepted">Přijato</string>
 	<string name="accept_canceled">Odmítnuto</string>
