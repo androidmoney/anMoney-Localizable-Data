@@ -119,10 +119,10 @@
 	<string name="archiving">Zálohování</string>
 	<string name="archiving_settings">Možnosti zálohování</string>
 	<string name="more">Další</string>
-<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+	<string-array name="more_plurals"> <!-- As in "X more item(s)" -->
 		<item>^1 další</item>
 		<item>^1 další</item>
-		<item>^1 další</item>
+		<item>^1 dalších</item>
 	</string-array>
 	<string name="specify_options">Upřesněte parametry</string>
 	<string name="expand_all">Rozbalit vše</string>
