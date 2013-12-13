@@ -14,7 +14,7 @@
     <string name="accept_transaction_all"><b>Tutte</b> le transazioni verranno accettate</string>
     <string name="mark">Contrassegna</string>
     <string name="marked">Contrassegnate</string>
-    <string name="mark_canceled">Contrassegna annullate</string>
+    <string name="mark_canceled">Contrassegna annullato</string>
     <string name="mark_transaction">Contrassegna transazione</string>
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
@@ -22,18 +22,18 @@
         <item/> <!-- Not used -->
 	</string-array>
     <string name="mark_transactions_all">Contrassegna <b>tutte</b> le transazioni</string>
-    <string name="unreconciled1">Non riconciliate</string>
+    <string name="unreconciled1">Non riconciliata</string>
 
-    <string name="cleared1">Rimosse</string>
+    <string name="cleared1">Rimossa</string>
 
-    <string name="reconciled1">Riconciliate</string>
+    <string name="reconciled1">Riconciliata</string>
 
     <string name="_void_verb">Revoca</string>
     <string name="_void1">Revocata</string>
 	<string name="not_void1">Non revocata</string>
 	<string name="pending2">In sospeso</string>
-	<string name="exported_transaction">Esportate</string>
-    <string name="not_exported_transaction1">Non esportate</string>
+	<string name="exported_transaction">Esportata</string>
+    <string name="not_exported_transaction1">Non esportata</string>
 
     <string name="edit_notes">Modifica note</string>
     <string name="notes_created">Note create</string>
