@@ -37,7 +37,7 @@
 	<string name="without_payee">Without payee</string>
 	<string name="no_payees_yet">No payees yet</string>
 	<string-array name="payee_count_format_plurals">
-		<item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 payees</item>
 		<item/> <!-- Not used -->
 	</string-array>

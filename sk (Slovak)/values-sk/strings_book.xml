@@ -32,8 +32,8 @@
     <string name="select_files">Vyberte súbory</string>
     <string name="delete_file">Zmazať súbor</string>
     <string name="delete_file_warning_format">Súbor ^1 bude zmazaný</string>
-	 <string-array name="delete_files_warning_format_plurals">
-        <item>^1 vybraný súbor bude odstránený</item>
+	<string-array name="delete_files_warning_format_plurals">
+		<item/> <!-- Intentionally left empty -->
         <item>^1 vybrané súbory budú odstránené</item>
         <item>^1 vybraných súborov bude odstránených</item>
     </string-array>
@@ -60,8 +60,7 @@
 	<string name="import_folder">Zložka pre import súborov</string>
 	<string name="export_folder">Zložka pre export súborov</string>
     <string name="ask_to_view_imported_transaction">Chcete zobraziť importované transakcie</string> <!-- This is a question, but the question mark will be added progrmatically -->
-<!-- New --> <!-- Please translate this <string name="import_same_time_warning">If you have more than one account to import, make sure you import them at the same time. Doing it one at a time may create duplicate transactions, and should be avoided</string> --> 
-	<string name="import_same_time_warning"></string> <!-- Left empty until translated --> 
+<!-- New --> <string name="import_same_time_warning">Ak sa chystáte importovať dáta viac než jedného účtu, určite vykonajte import súčasne. Postupným importom by mohlo dôjsť k duplikácii transakcií</string> 
     <string name="tip">Tip</string>
     <string name="user_guide">Užívateľska príručka</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
@@ -149,7 +148,7 @@
 
     <string name="import_file_confirm_format">Chcete importovať súbor ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-        <item>Importovať ^1 súbor</item>
+		<item/> <!-- Intentionally left empty -->
         <item>Importovať ^1 súbory</item>
         <item>Importovať ^1 súborov</item>
     </string-array>
@@ -169,7 +168,7 @@
     
     <string name="password_time_out_period">Limit pre vypršanie platnosti hesla</string>
 	<string-array name="n_seconds_format_plurals">
-        <item>^1 sekunda</item>
+		<item/> <!-- Intentionally left empty as the seconds are always > 1 -->
         <item>^1 sekundy</item>
         <item>^1 sekúnd</item>
     </string-array>
@@ -243,7 +242,7 @@
     
 	<string name="backed_up_book_format">^1 zálohované</string>
     <string-array name="backed_up_books_format_plurals">
-        <item>^1 kniha zálohovaná</item>
+		<item/> <!-- Intentionally left empty -->
         <item>^1 knihy zálohované</item>
         <item>^1 kníh zálohovaných</item>
     </string-array>
@@ -297,7 +296,7 @@
 
     <string name="delete_entry_warning_format">Záznam ^1 bude zmazaný</string>
     <string-array name="delete_entries_warning_format_plurals">
-        <item>^1 záznam bude zmazaný</item>
+		<item/> <!-- Intentionally left empty -->
         <item>^1 záznamy budú zmazané</item>
         <item>^1 záznamov bude zmazaných</item>
     </string-array>

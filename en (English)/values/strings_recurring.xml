@@ -28,7 +28,7 @@
 	<string name="skip_occurrence">Skip occurrence</string>
 	<string name="skipped">Skipped</string>
 	<string-array name="skipped_occurrences_format_plurals">
-		<item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
 		<item>Skipped ^1 occurrences</item>
 		<item/> <!-- Not used -->
 	</string-array>

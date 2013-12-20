@@ -33,7 +33,7 @@
 	<string name="delete_file">Smazat soubor</string>
 	<string name="delete_file_warning_format">Soubor ^1 bude smazán</string>
 	 <string-array name="delete_files_warning_format_plurals">
-		<item>^1 vybraný soubor bude odstraněn</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 vybrané soubory budou odstraněny</item>
 		<item>^1 vybraných souborů bude odstraněno</item>
 	</string-array>
@@ -60,7 +60,7 @@
 	<string name="import_folder">Složka pro import souborů</string>
 	<string name="export_folder">Složka pro export souborů</string>
 	<string name="ask_to_view_imported_transaction">Chcete zobrazit importované transakce</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="import_same_time_warning">Pokud se chystáte importovat data více než jednoho účtu, určitě proveďte import současně. Postupným importem by mohlo dojít k duplikaci transakcí.</string>
+	<string name="import_same_time_warning">Pokud se chystáte importovat data více než jednoho účtu, určitě proveďte import současně. Postupným importem by mohlo dojít k duplikaci transakcí</string> 
 	<string name="tip">Tip</string>
 	<string name="user_guide">Uživatelská příručka</string>
 	<string name="user_guide_url">http://goo.gl/fvjiq</string>
@@ -148,7 +148,7 @@
 
 	<string name="import_file_confirm_format">Chcete importovat soubor ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-		<item>Importovat ^1 soubor</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>Importovat ^1 soubory</item>
 		<item>Importovat ^1 souborů</item>
 	</string-array>
@@ -168,7 +168,7 @@
 
 	<string name="password_time_out_period">Limit pro vypršení hesla</string>
 	<string-array name="n_seconds_format_plurals">
-		<item>^1 sekunda</item>
+		<item/> <!-- Intentionally left empty as the seconds are always > 1 -->
 		<item>^1 sekundy</item>
 		<item>^1 sekund</item>
 	</string-array>
@@ -242,7 +242,7 @@
 
 	<string name="backed_up_book_format">^1 zálohováno</string>
 	<string-array name="backed_up_books_format_plurals">
-		<item>^1 kniha zálohována</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 knihy zálohovány</item>
 		<item>^1 knih zálohováno</item>
 	</string-array>
@@ -296,7 +296,7 @@
 
 	<string name="delete_entry_warning_format">Záznam ^1 bude smazán</string>
 	<string-array name="delete_entries_warning_format_plurals">
-		<item>^1 záznam bude smazán</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 záznamy budou smazány</item>
 		<item>^1 záznamů bude smazáno</item>
 	</string-array>

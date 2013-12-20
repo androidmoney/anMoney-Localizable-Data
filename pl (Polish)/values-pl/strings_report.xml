@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="report">Raport</string>
+	<string name="reports">Raporty</string>
+	<string name="view_report">Zobacz raport</string>
+	<string name="report_canceled">Raport anulowany</string>
+	<string name="export_report">Eksportuj raport</string>
+	<string name="report_exported">Wyeksportowano pomyślnie na kartę SD</string>
+	<string name="share_report">Udostępnij raport</string>
+	<string name="report_settings">Ustawienia raportu</string>
+	<string name="custom_dates">Własne daty</string>
+	<string name="other">Inne</string>
+	<string name="report_empty">Nie ma żadnych danych do wyświetlenia</string>
+	<string name="report_settings_instructions_format">Aby zmienić ustawienia dla raportu stuknij w ^i na górze ekranu</string> <!-- ^i will be replaced by an image -->
+	<string name="reset_report_settings">Ustawienia zostaną zresetowane do ich wartości domyslnych</string>
+	<string name="settings_reset">Resetowanie ustawień</string>
+	<string name="reset_canceled">Resetowanie anulowane</string>
+	<string name="report_settings_tip_format">Aby zmienić ustawienia dla raportu:\n\n<li>Stuknij i przytrzymaj nazwę raportu, a następnie stuknij ^1</li>\n\n<li>Stuknij ikonę w prawym górnym rogu ekranu gdy raport jest wyświetlany</li></string>
+	<string name="report_name">Nazwa raportu</string>
+	<string name="all_reports">Wszystkie raporty</string>
+	<string name="favorite_reports">Ulubione raporty</string>
+	<string name="save_report_as">Zapisz raport, jako</string>
+	<string name="delete_report">Usuń raport</string>
+	<string name="rename_report">Zmien nazwę raportu</string>
+	<string name="duplicate_report">Zduplikuj raport</string>
+	<string name="delete_report_warning_format">Raport ^1 zostanie definitywnie usunięty</string>
+	<string name="report_type">Typ raportu</string>
+	<string name="group">Zgrupuj</string> <!-- This is a verb -->
+	<string name="do_not_group">Nie grupuj</string>
+	<string name="day_0">Dzisiaj</string>
+	<string name="day_p1">jutro</string>
+	<string name="day_m1">Wczoraj</string>
+	<string name="day_p2"></string> <!-- Intentionally left empty -->
+	<string name="day_m2"></string> <!-- Intentionally left empty -->
+	<string name="select_report">Zaznacz raport</string>
+	<string name="report_folder">Folder raportu</string>
+	<string name="language">Język</string>
+	<string name="text_size">Rozmiar czcionki</string>
+	<string name="text_size_sample">Ab</string>
+		
+	<string name="chart_type">Typ wykresu</string>
+	<string name="text_report">Raport tekstowy</string>
+	<string name="pie_chart">Wykres kołowy</string>
+	<string name="line_chart">Wykres liniowy</string>
+	<string name="bar_chart">Wykres słupkowy</string>
+
+	<string name="page_format">Strona ^1</string>
+
+	<string name="page_size">Rozmiar strony</string>
+	<string-array name="page_size_items">
+		<item>A3</item>
+		<item>A4</item>
+		<item>A5</item>
+		<item>B5</item>
+<!-- New -->		<item>Letter</item>
+<!-- New -->		<item>Legal</item>
+<!-- New -->		<item>Tabloid</item>
+	</string-array>
+
+	<string name="page_orientation">Orientacja strony</string>
+	<string name="portrait">Portret</string>
+	<string name="landscape">Pejzaż</string>
+
+	<string name="amounts_on_charts">Pokaż kwoty na wykresie</string>
+	<string name="percentages_on_pie_charts">Pokaż procenty na wykresie kołowym</string>
+	<string name="create_settings_page">Utwórz stronę ustawień</string>
+				
+	<string-array name="report_export_file_type">
+		<item>@string/csv</item>
+		<item>@string/pdf</item>
+<!-- New -->		<item>Web page</item>
+	</string-array>
+
+	<string-array name="report_export_file_type_description">
+		<item>Odczytywalne za pomocą aplikacji tworzących arkusze kalkulacyjne, takich jak Microsoft® Excel lub Google™ Docs</item>
+		<item>Dopasowane do druku oraz tworzenia dokumentacji papierowej. Wymaga programu Adobe Reader albo innej przeglądarki plików PDF</item>
+		<item>Dopasowane do publikacji na stronach internetowych lub przeglądania za pomocą przeglądarek internetowych</item>
+	</string-array>
+
+	<string name="specify_format_to_share_as">Udostępnij w określonym formacie, jako</string>
+</resources>

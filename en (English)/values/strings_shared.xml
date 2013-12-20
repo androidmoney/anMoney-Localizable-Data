@@ -153,7 +153,7 @@
 	<string name="no_items">No items</string>
 	<string name="no_items_yet">No items yet</string>
 	<string-array name="items_format_plurals">
-		<item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 items</item>
 		<item/> <!-- Not used -->
 	</string-array>

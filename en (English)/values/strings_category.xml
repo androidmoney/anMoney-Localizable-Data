@@ -91,7 +91,7 @@
 	<string name="no_categories_yet">No categories yet</string>
 	<string name="no_classes_yet">No classes yet</string>
 	<string-array name="category_count_format_plurals">
-		<item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 categories</item>
 		<item/> <!-- Not used -->
 	</string-array>

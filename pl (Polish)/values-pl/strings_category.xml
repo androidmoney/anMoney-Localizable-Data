@@ -1,13 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="category_count_format_plurals">
-		<item>^1 category</item>
-		<item>^1 categories</item>
-		<item>^1 categories</item>
+
+	<string name="category_main_sub_separator">:</string>
+	<string name="category_main_sub_format">^1 ^2 ^3</string>
+	<string name="category">Kategoria</string>
+	<string name="categories">kategorie</string>
+	<string name="subcategory">Podkategorie</string>
+	<string name="classification">Classification</string>
+	<string name="_class">Klasy</string>
+	<string name="subclass">Podklasy</string>
+	<string name="parent_category">Kategoria nadrzędna</string> <!-- This is the main category that a subcategory belongs to -->
+	<string name="parent_class">Klasa nadrzędna</string> <!-- This is the main class that a subclass belongs to -->
+	<string name="edit_category">Edytuj kategorię</string>
+	<string name="edit_subcategory">Edytuj podkategorię</string>
+	<string name="edit_class">Edytuj klasę</string>
+	<string name="edit_subclass">Edytuj podklasę</string>
+	<string name="new_category">Nowa kategoria</string>
+	<string name="new_subcategory">Nowa podkategoria</string>
+	<string name="new_class">Nowa klasa</string>
+	<string name="new_subclass">Nowa podklasa</string>
+	<string name="delete_category">Usuń kategorię</string>
+	<string name="delete_subcategory">Usuń podkategorię</string>
+	<string name="delete_class">Usuń klasę</string>
+	<string name="delete_subclass">Usuń podklasę</string>
+	<string name="add_default_categories">Ustaw kategorię domyślną</string>
+	<string name="add_classification">Dodaj klasyfikację</string>
+	<string name="select_category">Wybierz kategorię</string>
+	<string name="select_class">Wybierz klasę</string>
+	<string name="delete_classification">Usuń klasyfikację</string>
+	<string name="rename_classification">Zmień nazwę klasyfikacji</string>
+	<string name="select_classification">Wybierz klasyfikację</string>
+	<string name="enter_classification_name">Wprowadź nazwę klasyfikacji</string>
+	<string name="enter_new_classification_name">Wprowadź nową nazwę klasyfikacji</string>
+	<string name="categories_and_classifications">Kategorie &amp; klasyfikacje</string>
+	<string name="no_categories_expense">Nie masz żadnych kategorii</string>
+	<string name="no_categories_expense">Nie masz żadnych kategorii wydatków</string>
+	<string name="no_categories_income">Nie masz żadnych kategorii przychodów</string>
+	<string name="no_classes">Nie masz żadnych klas</string>
+	<string name="uncategorized_transactions">Niesklasyfikowana transakcja</string>
+	<string name="delete_category_no_subcategories_warning_format">Kategoria ^1 zostanie permanentnie usunięta</string>
+	<string name="delete_class_no_subclass_warning_format">Klasa ^1 zostanie permanentnie usunięta</string>
+	<string name="delete_category_with_subcategories_warning_format">Kategoria ^1 i <b>wszystkie jej podkategorie</b> zostaną permanentnie usunięte</string>
+	<string name="delete_class_with_subclass_warning_format">Klasa ^1 i <b>wszystkie jej podklasy</b> zostaną permanentnie usunięte</string>
+	<string name="delete_subcategory_warning_format">Podkategoria ^1 zostanie permanentnie usunięta</string>
+	<string name="delete_subclass_warning_format">Podklasa ^1 zostanie permanentnie usunięta</string>
+	<string name="delete_classification_warning_format">Klasyfikacja ^1 zostanie permanentnie usunięta. Wszystkie klasyfikacje transakcji zostaną usunięte</string>
+	<string name="default_categories_add_confirmation">Chcesz dodać domyślne kategorie</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="default_categories_added">Kategorie domyślne zostały dodane</string>
+	<string name="all_categories">Wszystkie kategorie</string>
+	<string name="expense">Wydatek</string>
+	<string name="expenses">Wydatki</string>
+	<string name="expense_categories">Kategorie wydatku</string>
+	<string name="income">Przychód</string>
+	<string name="income_categories">Kategorie przychodu</string>
+	<string name="savings">Oszczędności</string> <!-- As in "amount saved by budgeting" -->
+	<string name="category_name">Nazwa kategorii</string>
+	<string name="subcategory_name_lower">Nazwa podkategorii</string>
+	<string name="class_name">Nazwa klasy</string>
+	<string name="subclass_name_lower">Nazwa podklasy</string>
+	<string name="without_subcategory">Bez podkategorii</string>
+	<string name="without_subclass">Bez podklasy</string>
+	<string name="cannot_be_zero">Nie może być 0</string>
+	<string name="change_expense_warning">Chcesz zmienić tę kategorię z wydatków na przychody lub na odwrót</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="prepopulate">Wypełnij kategoriami domyślnymi</string>
+	<string name="short_categories">Załaduj tylko krótką listę kategorii (będziesz mieć możliwość załadowania pełnej listy później)</string>
+	<string name="category_not_found">Kategoria nie odnzaleziona</string>
+	<string name="class_not_found">Klasa nie odnaleziona</string>
+	<string name="total_income">Przychód całkowity</string>
+	<string name="total_expense">Wydatki całkowite</string>
+	<string name="net">Netto</string>
+	<string name="net_income">Przychód netto</string>
+	<string name="uncategorized">Nieskategoryzowane</string>
+	<string name="income_uncategorized">Przychód nieskategoryzowany</string>
+	<string name="expense_uncategorized">Wydatek nieskategoryzowany</string>
+	<string name="show_uncategorized">Pokaż nieskategoryzowany</string>
+	<string name="move_subcategory_to_another_category_warning">Chcesz przenieść tę podkategorię pod inną kategorię</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="show_zero_balance_categories">Pokaż kategorie z saldem równym zero</string>
+	<string name="show_zero_balance_items">Pokaż elementy z zerowym saldem</string> <!-- "Items" refers to classification name -->
+	<string name="recategorize_category">Przekategoryzuj wszystkie transakcje z tą kategorią, jako</string>
+	<string name="reclassify_class">Przekategoryzuj wszystkie transakcje z tą klasą, jako</string>
+	<string name="spending_by_category0">Wydatek przez kategorię</string>
+	<string name="spending_by_category1">Wydatek przez kategorię lub ^1</string>
+	<string name="spending_by_category2">Wydatek przez kategorię, ^1 lub ^2</string>
+	<string name="spending_by_category_over_time0">Wydatek przez kategorię w czasie</string>
+	<string name="spending_by_category_over_time1">Wydatek przez kategorię lub ^1 w czasie</string>
+	<string name="spending_by_category_over_time2">Wydatek przez kategorię, ^1 lub ^2 w czasie</string>
+	<string name="assign_to_accounts">Przyporządkuj do tego konta/tych kont gdy prognozujesz</string> <!-- As in "Assign the category to these accounts when Forecasting". "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
+	<string name="last_account_used">Ostatnie użyte konto</string>
+			
+	<string name="no_categories_yet">Brak jeszcze kategorii</string>
+	<string name="no_classes_yet">Brak jeszcze klas</string>
+<!-- New Fix plurals -->	<string-array name="category_count_format_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 kategorie</item>
+		<item>^1 kategorie</item>
 	</string-array>
-	<string-array name="uncategorized_count_plurals">
-		<item>^1 uncategorised transaction</item>
-		<item>^1 uncategorised transactions</item>
-		<item>^1 uncategorised transactions</item>
+<!-- New Fix plurals -->	<string-array name="uncategorized_count_plurals">
+		<item>^1 nieskategoryzowana transakcja</item>
+		<item>^1 nieskategoryzowane transakcje</item>
+		<item>^1 nieskategoryzowane transakcje</item>
+	</string-array>
+
+	<string-array name="default_classifications">
+		<item>Członkowie rodziny</item>
+		<item>Własności</item>
+		<item>Projekty</item>
+		<item>Zainteresowania</item>
+		<item>Wakacje</item>
+		<item>Wydatki służbowe</item>
+		<item>Pozostałe</item>
 	</string-array>
 </resources>

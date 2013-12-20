@@ -148,7 +148,7 @@
 
 	<string name="import_file_confirm_format">Do you want to import ^1</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string-array name="import_files_confirm_format_plurals">
-		<item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
 		<item>Do you want to import the ^1 files</item> <!-- This is a question, but the question mark will be added progrmatically -->
 		<item/> <!-- Not used -->
 	</string-array>
@@ -242,7 +242,7 @@
 
 	<string name="backed_up_book_format">Backed up ^1</string>
 	<string-array name="backed_up_books_format_plurals">
-		<item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
 		<item>Backed up ^1 books</item>
 		<item/> <!-- Not used -->
 	</string-array>
@@ -296,7 +296,7 @@
 
 	<string name="delete_entry_warning_format">Entry ^1 will be deleted</string>
 	<string-array name="delete_entries_warning_format_plurals">
-		<item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 entries will be deleted</item>
 		<item/> <!-- Not used -->
 	</string-array>

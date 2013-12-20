@@ -138,7 +138,7 @@
 
 	<string name="no_accounts_yet">Dosud žádné účty</string>
 	<string-array name="account_count_format_plurals">
-		<item>^1 účet</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 účty</item>
 		<item>^1 účtů</item>
 	</string-array>

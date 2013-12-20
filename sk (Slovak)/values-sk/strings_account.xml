@@ -117,7 +117,7 @@
 	<string name="cleared_total">Úplne skontrolované</string>
 	<string name="reconciled_total">Úplne odsúhlasené</string>
 <!-- New --> <string name="filtered_total">Celkom vyhovuje</string>
-	<string name="available_credit">Voľný kredit</string>
+	<string name="available_credit">Dostupný kredit</string>
 	<string name="default_cash_account_name">Moja hotovosť</string>
     <string name="default_checking_account_name">Môj bežný účet</string>
     <string name="default_savings_account_name">Môj sporiaci účet</string>
@@ -139,7 +139,7 @@
 
     <string name="no_accounts_yet">Zatiaľ žiadne účty</string>
 	<string-array name="account_count_format_plurals">
-        <item>^1 účet</item>
+		<item/> <!-- Intentionally left empty -->
         <item>^1 účty</item>
         <item>^1 účtov</item>
     </string-array>

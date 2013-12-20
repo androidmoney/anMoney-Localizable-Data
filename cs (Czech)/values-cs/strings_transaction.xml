@@ -17,7 +17,7 @@
 	<string name="mark_canceled">Označní zrušeno</string>
 	<string name="mark_transaction">Označit transakci</string>
 	<string-array name="mark_transactions_format_plurals">
-		<item>Označit ^1 transakci</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>Označit ^1 transakce</item>
 		<item>Označit ^1 transakcí</item>
 	</string-array>
@@ -165,20 +165,20 @@
 	</string-array>
 
 	<string-array name="delete_transaction_warning_format_plurals">
-		<item>^1 vybraná transakce bude smazána</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 vybrané transakce budou smazány</item>
 		<item>^1 vybraných transakcí bude smazáno</item>
 	</string-array>
 	<string name="delete_transaction_warning_all"><b>Všechny</b> transakce budou smazány</string>
 	<string name="delete_transaction_warning_reconciled">Odsouhlasená transakce bude smazána</string>
 	<string-array name="delete_transaction_warning_reconciled_format_plurals">
-		<item>^1 vybraná transakce bude smazána, nejméně jedna z nich je odsouhlasená</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 vybrané transakce budou smazány, nejméně jedna z nich je odsouhlasená</item>
 		<item>^1 vybraných transakcí bude smazáno, nejméně jedna z nich je odsouhlasená</item>
 	</string-array>
 	<string name="accept_transaction_confirm_singular">Transakce bude přijata</string>
 	<string-array name="accept_transaction_confirm_format_plurals">
-		<item>^1 vybraná transakce bude přijata</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 vybrané transakce budou přijaty</item>
 		<item>^1 vybraných transakcí bude přijato</item>
 	</string-array>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="splits">Podział</string> <!-- This is a noun -->
+	<string name="split_canceled">Dzielenie anulowane</string> <!-- "Split" is a verb -->
+	<string name="new_split">Nowe dzielenie</string> <!-- "Split" here and below are nouns -->
+	<string name="edit_split">Edytuj dzielenie</string>
+	<string name="edit_splits">Edytuj dzielenia</string>
+	<string name="delete_split">Usuń dzielenia</string>
+	<string name="export_splits">Eksportuj dzielenia</string>
+	<string name="sum_of_splits">Suma dzieleń</string>
+	<string name="unassigned">Nieprzyporządkowane</string>
+	<string name="transaction_total">Transakcja całościowo</string>
+	<string name="go_back_to_edit">Wróć do edytowania dzielenia</string>
+	<string name="unassigned_split_message_format">Suma różnic wynosi ^1, gdy suma transakcji wynosi ^2. Pozostawia to ^3 nieprzyporządkowane, a nie jest to rekomendowane</string>
+	<string name="what_would_you_like_to_do">Co chciałbyś zrobić</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="set_the_total_format">Ustaw sumę całkowitą na ^1</string>
+	<string name="distribute_format">Rozdystrybuuj ^1 równomiernie</string>
+	<string name="leave_unassigned_format">Pozostaw ^1 nieprzydzielone</string>
+	<string name="distributed">Rozdystrybuowane</string>
+</resources>

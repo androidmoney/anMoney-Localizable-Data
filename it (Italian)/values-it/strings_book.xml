@@ -228,7 +228,7 @@
 	<string name="quick_entry_password">Immissione rapida della password</string>
 	<string name="quick_entry_password_description">Se selezionato, il widget di immissione rapida richiederà la password, qualora esista</string>
 
-	<string name="backup_folder">Backup cartella</string>
+	<string name="backup_folder">Cartella backup</string>
 
 	<string name="date_in_file_name">Data nel nome del file</string>
 	<string name="date_in_file_name_description">Se selezionato, in fase di creazione del resoconto verrà aggiunta la data odierna alla stringa di testo del nome del file</string>

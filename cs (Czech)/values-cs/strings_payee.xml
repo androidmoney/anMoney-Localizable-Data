@@ -37,7 +37,7 @@
 	<string name="without_payee">Bez příjemce</string>
 	<string name="no_payees_yet">Dosud žádní příjemci</string>
 	<string-array name="payee_count_format_plurals">
-		<item>^1 příjemce</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 příjemci</item>
 		<item>^1 příjemců</item>
 	</string-array>

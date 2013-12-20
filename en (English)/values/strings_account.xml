@@ -140,7 +140,7 @@
 
 	<string name="no_accounts_yet">No accounts yet</string>
 	<string-array name="account_count_format_plurals">
-		<item/> <!-- Not used -->
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 accounts</item>
 		<item/> <!-- Not used -->
 	</string-array>

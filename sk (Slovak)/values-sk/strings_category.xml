@@ -90,7 +90,7 @@
 	<string name="no_categories_yet">Zatiaľ žiadne kategórie</string>
     <string name="no_classes_yet">Zatiaľ žiadne triedy</string>
 	<string-array name="category_count_format_plurals">
-        <item>^1 kategória</item>
+		<item/> <!-- Intentionally left empty -->
         <item>^1 kategórie</item>
         <item>^1 kategórií</item>
     </string-array>

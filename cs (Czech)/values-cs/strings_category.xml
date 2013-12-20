@@ -89,7 +89,7 @@
 	<string name="no_categories_yet">Zatím žádné kategorie</string>
 	<string name="no_classes_yet">Zatím žádné třídy</string>
 	<string-array name="category_count_format_plurals">
-		<item>^1 kategorie</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 kategorie</item>
 		<item>^1 kategorií</item>
 	</string-array>

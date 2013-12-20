@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="search">Szukaj</string>
+	<string name="search_transactions">Szukaj transakcji</string>
+	<string name="no_matching_transactions">Żadnych pasujących transakcji</string>
+</resources>

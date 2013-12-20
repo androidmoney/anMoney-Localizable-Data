@@ -7,7 +7,7 @@
     <string name="split_transaction">Rozdeliť transakciu</string>
     <string name="delete_transaction">Zmazať transakciu</string>
     <string name="accept_transaction">Prijať transakciu</string>
-    <string name="select">Zvoliť</string>
+    <string name="select">Vybrať</string>
     <string name="accept">Prijať</string>
     <string name="accepted">Prijatá</string>
     <string name="accept_canceled">Odmietnutá</string>
@@ -17,7 +17,7 @@
     <string name="mark_canceled">Označnie zrušené</string>
     <string name="mark_transaction">Označiť transakciu</string>
 	<string-array name="mark_transactions_format_plurals">
-        <item>Označiť ^1 transakciu</item>
+		<item/> <!-- Intentionally left empty -->
         <item>Označiť ^1 transakcie</item>
         <item>Označiť ^1 transakcií</item>
     </string-array>
@@ -165,20 +165,20 @@
     </string-array>
 
 	<string-array name="delete_transaction_warning_format_plurals">
-        <item>^1 zvolená transakcia bude odstránená</item>
+		<item/> <!-- Intentionally left empty -->
         <item>^1 zvolené transakcie budú odstránené</item>
         <item>^1 zvolených transakcií bude odstránených</item>
     </string-array>
     <string name="delete_transaction_warning_all"><b>Všetky</b> transakcie budú zmazané</string>
 	<string name="delete_transaction_warning_reconciled">Odsúhlasená transakcia bude zmazaná</string>
     <string-array name="delete_transaction_warning_reconciled_format_plurals">
-        <item>^1 zvolená transakcia bude odstránena, najmenej jedna z nich je odsúhlasená</item>
+		<item/> <!-- Intentionally left empty -->
         <item>^1 zvolené transakcie budú odstránené, najmenej jedna z nich je odsúhlasená</item>
         <item>^1 zvolených transakcií bude odstránených, najmenej jedna z nich je odsúhlasená</item>
     </string-array>
 	<string name="accept_transaction_confirm_singular">Transakce bude přijata</string>
     <string-array name="accept_transaction_confirm_format_plurals">
-        <item>^1 zvolená transakcia bude prijatá</item>
+		<item/> <!-- Intentionally left empty -->
         <item>^1 zvolené transakcie budú prijaté</item>
         <item>^1 zvolených transakcií bude prijatých</item>
     </string-array>

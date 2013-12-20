@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="payee_count_format_plurals">
-		<item>^1 payee</item>
-		<item>^1 payees</item>
-		<item>^1 payees</item>
+	<string name="view_payee">Zobacz odbiorcę</string>
+	<string name="edit_payee">Edytuj odbiorcę</string>
+	<string name="new_payee">Nowy odbiorca</string>
+	<string name="call_payee">Nazwij odbiorcę</string>
+	<string name="delete_payee">Wykasuj odbiorcę</string>
+	<string name="delete_payee_warning_format">Odbiorca ^1 będzie permanentnie wykasowany</string>
+	<string name="delete_from_app_format">Wykasuj także z ^1</string> <!-- ^1 is replaced by the name of the Contacts app -->
+	<string name="add_payee_as_a_contact">Dodaj odbiorcę, jako kontakt</string>
+	<string name="payee">Odbiorca</string>
+	<string name="payer">Płatnik</string>
+	<string name="payees">Odbiorcy</string>
+	<string name="payee_required">Odbiorca wymagany</string>
+	<string name="payer_required">Płatnik wymagany</string>
+	<string name="call">Nazwij</string>
+	<string name="map_address">Adres na mapie</string> <!-- Show the address on the map -->
+	<string name="no_payees">Nie masz żadnych odbiorców</string>
+	<string name="payee_transaction_list_empty">Nie masz żadnych transakcji dla tego odbiorcy</string>
+	<string name="payee_exists">Odbiorca o takiej nazwie już istnieje</string>
+	<string name="combine_payees">Chciałbys połączyć dwóch odbiorców</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="payee_name">NAzwa odbiorcy</string>
+	<string name="link_payee">Chcesz dołączyć tego odbiorcę do już istniejącego kontaktu</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="account_number">Numer konta</string>
+	<string name="phone">Telefon</string>
+	<string name="phone_number">Numer telefonu</string>
+	<string name="email">Email</string>
+	<string name="email_address">Adres emailowy</string>
+	<string name="url">URL</string>
+	<string name="web_address">Adres sieciowy</string>
+	<string name="select_account">Wybierz konto</string>
+	<string name="open_web_page">Otwórz stronę www</string>
+	<string name="default_payee_name">Mój odbiorca</string>
+	<string name="spending_by_payee">Wydatki według płatników</string>
+	<string name="all_payees_hidden_by_filter">Wszyscy odbiorcy są ukryci za pomocą filtra wyświetlania</string>
+
+	<string name="without_payee">Bez odbiorcy</string>
+	<string name="no_payees_yet">Nie ma jeszcze żadnego odbiorcy</string>
+<!-- New Fix plurals -->	<string-array name="payee_count_format_plurals">
+		<item/> <!-- Intentionally left empty -->
+		<item>^1 odbiorcy</item>
+		<item>^1 odbiorcy</item>
+	</string-array>
+
+	<string name="all_payees">Wszyscy odbiorcy</string>
+	<string name="payees_in_open_accounts">Odbiorcy w otwartych kontach</string>
+	<string name="payees_in_closed_accounts_only">Tylko odbiorcy w zamkniętych kontach</string>
+	<string name="unused_payees">Nieużywani odbiorcy</string>
+	<string-array name="payee_list_filter_title_bar">
+		<item>@string/all_payees</item>
+		<item>@string/payees_in_open_accounts</item>
+		<item>@string/payees_in_closed_accounts_only</item>
+		<item>@string/unused_payees</item>
+	</string-array>
+
+	<string-array name="payee_list_order_title_bar">
+		<item>@string/date</item>
+		<item/> <!-- Not used -->
+		<item>@string/name</item>
+		<item>@string/amount</item>
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
 	</string-array>
 </resources>

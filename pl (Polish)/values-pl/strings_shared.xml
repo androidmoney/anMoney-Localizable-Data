@@ -19,10 +19,10 @@
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol">*</string>
 	<string name="ellipsis_start_format">…^1</string>
-	<string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
-	<string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
-	<string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
-	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 by ^2 ^3 for ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
+<!-- New --> <string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
+<!-- New --> <string name="filter_by_order_format">^1 by ^2</string> <!-- Example: "All accounts by name" -->
+<!-- New --> <string name="filter_by_direction_order_format">^1 by ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+<!-- New --> <string name="filter_for_item_by_direction_order_for_date_range_format">^1 by ^2 ^3 for ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
 	<string name="_continue">Kontynuuj</string>
 	<string name="continue_question">Kontynuacja</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="previous">Poprzedni</string>
@@ -108,18 +108,18 @@
 	<string name="please_rate_app_format">Poświęć chwilę, by ocenić ^1</string> <!-- ^1 is app name -->
 	<string name="later_rate_description">Zostanie Ci przypomniane po około tygodniu</string>
 	<string name="no_rate_description_format">Możesz to zawsze zrobić z ^1 ekranu</string> <!-- ^1 is "Settings" -->
-	<string name="task_killer_warning_format">Ostrzeżenie o procesie “task killer” apps:\n\n Twoje urządzenie uruchomi się raz dziennie by przeprowadzić procesy automatyczne. Jako, że proces ten trwa jedynie kilka sekund, nie będzie miał on szkodliwego wpływu na żywotność baterii.\n\n Task killers mogą nie pozwolić procesowi w tle na poprawne działanie i nie powinny być z nim używane ^1</string> <!-- ^1 is app name -->
+	<string name="task_killer_warning_format">Ostrzeżenie o procesie „task killer” apps:\n\nTwoje urządzenie uruchomi się raz dziennie by przeprowadzić procesy automatyczne. Jako, że proces ten trwa jedynie kilka sekund, nie będzie miał on szkodliwego wpływu na żywotność baterii.\n\n Task killers mogą nie pozwolić procesowi w tle na poprawne działanie i nie powinny być z nim używane ^1</string> <!-- ^1 is app name -->
 	<string name="no_thanks">Dziękuję, nie</string>
 	<string name="maybe_later">Może później</string>
 	<string name="unexpected_error_warning"> Pojawił się niespodziewany błąd, zmuszając aplikację do zatrzymania się.\n\nPomóż nam, proszę, naproawić ten błąd poprzez wysłanie e-maila z raportem. Będziesz mieć szansę na edycję wiadomości zanim zostanie wysłana.\n\n Dziękujemy za współpracę.</string>
 	<string name="unexpected_error_notification_ticker">Niespodziewany błąd. Wyślij raport, proszę.</string>
 	<string name="unexpected_error_notification_title">anMoney się zatrzymał</string>
-	<string name="unexpected_error_notification_text">Dotknij tutaj, aby wysłać raport.</string>
+	<string name="unexpected_error_notification_text">Stuknij tutaj, aby wysłać raport.</string>
 	<string name="unexpected_error_comment">Jeśli chcesz, to opisz co było robione, gdy problem się pojawił</string>
 	<string name="archiving">Archiwizacja</string>
 	<string name="archiving_settings">Ustawienia archiwizacji</string>
 	<string name="more">Więcej</string>
-<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" --><!-- Please contact us if you are unsure about the plurals -->
+<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
 		<item>^1 more</item>
 		<item>^1 more</item>
 		<item>^1 more</item>
@@ -152,8 +152,8 @@
 
 	<string name="no_items">Brak rzeczy</string>
 	<string name="no_items_yet">Brak jeszcze rzeczy</string>
-<!-- New --> <string-array name="items_format_plurals"> <!-- Please contact us if you are unsure about the plurals -->
-		<item>^1 rzecz</item>
+<!-- New Fix plurals --> <string-array name="items_format_plurals">
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 rzecz</item>
 		<item>^1 rzecz</item>
 	</string-array>
@@ -167,7 +167,7 @@
 		<item>Dwa tygodnie wcześniej</item>
 	</string-array>
 
-<!-- New --> <string-array name="nth_day_of_the_month">
+<!-- New fix all lines below -->	<string-array name="nth_day_of_the_month">
 		<item>1st</item>
 		<item>2nd</item>
 		<item>3rd</item>

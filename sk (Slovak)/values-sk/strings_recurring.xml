@@ -27,7 +27,7 @@
 	<string name="skip_occurrence">Vynechať toto uskutočnenie</string>
 	<string name="skipped">Vynechané</string>
 	<string-array name="skipped_occurrences_format_plurals">
-		<item>Vynechané ^1 uskutočnenie</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>Vynechané ^1 uskutočnení</item>
 		<item>Vynechaných ^1 uskutočnení</item>
 	</string-array>
@@ -68,7 +68,7 @@
 	<string name="based_part1">Závisí na</string>
 	<string name="based_part2_singular">posledný</string>
 	<string-array name="based_part2_plurals">
-		<item>posledný ^1</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>posledné ^1</item>
 		<item>posledných ^1</item>
 	</string-array>
@@ -171,7 +171,7 @@
 	</string-array>
 	<string name="use_todays_date_for_transaction_date">Použiť dnešný dátum pre dátum transakcie</string>
 	<string-array name="enter_warning_format_plurals">
-<!-- New --> <item>^1 vybraný trvalý príkaz bude vykonaný</item>
+		<item/> <!-- Intentionally left empty -->
 <!-- New --> <item>^1 vybrané trvalé príkazy budú vykonané</item>
 <!-- New --> <item>^1 vybraných trvalých přízkazů bude vykonané</item>
     </string-array>
@@ -292,13 +292,13 @@
 	</string-array>	
 	
 	<string-array name="days_before_plurals">
-		<item>^1 deň pred</item>
+		<item/> <!-- Intenionally left empty -->
 		<item>^1 dni pred</item>
 		<item>^1 dní pred</item>
 	</string-array>
 	
 	<string-array name="days_before_due_date_plurals">
-		<item>^1 deň pred dňom splatnosti</item>
+		<item/> <!-- Intenionally left empty -->
 		<item>^1 dni pred dňom splatnosti</item>
 		<item>^1 dní pred dňom splatnosti</item>
 	</string-array>

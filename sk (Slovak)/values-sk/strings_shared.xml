@@ -119,10 +119,10 @@
 	<string name="archiving">Zálohovanie</string>
 	<string name="archiving_settings">Možnosti zálohovania</string>
     <string name="more">Ďalší</string>
-<!-- New --> <string-array name="more_plurals"> <!-- As in "X more item(s)" -->
+	<string-array name="more_plurals"> <!-- As in "X more item(s)" -->
 		<item>^1 ďalšie</item>
 		<item>^1 ďalšie</item>
-		<item>^1 ďalšie</item>
+		<item>^1 ďalších</item>
 	</string-array>
     <string name="specify_options">Upresnite parametre</string>
 	<string name="expand_all">Rozbaliť všetko</string>
@@ -153,7 +153,7 @@
 	<string name="no_items">Žiadne záznamy</string>
     <string name="no_items_yet">Zatiľ žiadne záznamy</string>
 	<string-array name="items_format_plurals">
-        <item>^1 záznam</item>
+		<item/> <!-- Intentionally left empty -->
         <item>^1 záznamy</item>
         <item>^1 záznamov</item>
     </string-array>

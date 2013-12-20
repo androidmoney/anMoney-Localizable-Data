@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="financial_institution">Instytucja finansowa</string>
+	<string name="financial_institutions">Instytucje finansowe</string>
+	<string name="financial_institution_bank_first">Najpierw instytucja finansowa z kontami bankowymi</string>
+	<string name="financial_institution_cash_first">Najpierw instytucja finansowa z gotówką</string>
+	<string name="view_financial_institution">Zobacz instytucję finansowę</string>
+	<string name="edit_financial_institution">Edytuj instytucję finansową</string>
+	<string name="call_financial_institution">Nazwij instytucję finansową</string>
+	<string name="new_financial_institution">Nowa instytucja finansowa</string>
+	<string name="delete_financial_institution">Usuń instytucję finansową</string>
+	<string name="delete_financial_institution_warning_format">Instytucja finansowa ^1 będzie permanentnie wymazana oraz usunięta ze wszystkich kont</string>
+	<string name="add_financial_institution_as_a_contact">Dodaj instytucję finansową jako kontakt</string>
+	<string name="financial_institution_exists">Instytucja finansowa z taką nazwą już istnieje</string>
+	<string name="no_financial_institutions">Nie masz żadnych instytucji finansowych</string>
+	<string name="financial_institution_name">Nazwa instytucji finansowej</string>
+	<string name="contact_exists">Kontakt o takije nazwie już istnieje</string>
+	<string name="link_financial_institution">Chcesz dołączyć tę instytucję finansową do istniejącego kontaktu</string> <!-- This is a question, but the question mark will be added progrmatically -->
+	<string name="no_financial_institutions_yet">Nie ma jeszcze żadnej instytucji finansowej</string>
+</resources>

@@ -153,7 +153,7 @@
 	<string name="no_items">Žádné záznamy</string>
 	<string name="no_items_yet">Zatím žádné záznamy</string>
 	<string-array name="items_format_plurals">
-		<item>^1 záznam</item>
+		<item/> <!-- Intentionally left empty -->
 		<item>^1 záznamy</item>
 		<item>^1 záznamů</item>
 	</string-array>
