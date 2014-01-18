@@ -54,6 +54,7 @@
 	<string name="transfer">Transferència</string>
 	<string name="transfers">Transferències</string>
 	<string name="transfer_account">Compte de transferència</string>
+	<string name="show_transfers">Mostrar transferències</string>
 	<string name="add">Afegir</string>
 	<string name="added">Afegida</string>
 	<string name="add_canceled">Afegir cancel·lat</string>
@@ -73,7 +74,7 @@
 	<string name="cannot_transfer_to_itself">No es pot transferir a si mateix</string>
 	<string name="cannot_copy_to_itself">No es pot copiar/moure a si mateix</string>
 	<string name="copy_move_currency_warning">El compte de destí té una divisa diferent. Podria ser necessari ajustar la quantitat de la transacció en el compte de destí</string>
-	<string name="all_transactions_hidden_by_filter">Totes les transaccions estan ocultes pel filtre de visualització</string>
+	<string name="all_transactions_hidden_by_filter">Totes les transaccions estan ocultes pel filtre</string>
 	<string name="show_number">Mostrar número</string>
 	<string name="show_number_description">Mostar el número, en cas d’haver-hi</string>
 	<string name="show_notes">Mostrar notes</string>

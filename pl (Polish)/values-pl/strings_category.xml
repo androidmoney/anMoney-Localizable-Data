@@ -25,15 +25,13 @@
 	<string name="delete_subclass">Usuń podklasę</string>
 	<string name="add_default_categories">Ustaw kategorię domyślną</string>
 	<string name="add_classification">Dodaj klasyfikację</string>
-	<string name="select_category">Wybierz kategorię</string>
-	<string name="select_class">Wybierz klasę</string>
 	<string name="delete_classification">Usuń klasyfikację</string>
 	<string name="rename_classification">Zmień nazwę klasyfikacji</string>
 	<string name="select_classification">Wybierz klasyfikację</string>
 	<string name="enter_classification_name">Wprowadź nazwę klasyfikacji</string>
 	<string name="enter_new_classification_name">Wprowadź nową nazwę klasyfikacji</string>
 	<string name="categories_and_classifications">Kategorie &amp; klasyfikacje</string>
-	<string name="no_categories_expense">Nie masz żadnych kategorii</string>
+	<string name="no_categories">Nie masz żadnych kategorii</string>
 	<string name="no_categories_expense">Nie masz żadnych kategorii wydatków</string>
 	<string name="no_categories_income">Nie masz żadnych kategorii przychodów</string>
 	<string name="no_classes">Nie masz żadnych klas</string>
@@ -68,6 +66,7 @@
 	<string name="class_not_found">Klasa nie odnaleziona</string>
 	<string name="total_income">Przychód całkowity</string>
 	<string name="total_expense">Wydatki całkowite</string>
+<!-- New --> <string name="total_transfers">Transfery całkowite</string>
 	<string name="net">Netto</string>
 	<string name="net_income">Przychód netto</string>
 	<string name="uncategorized">Nieskategoryzowane</string>
@@ -87,6 +86,7 @@
 	<string name="spending_by_category_over_time2">Wydatek przez kategorię, ^1 lub ^2 w czasie</string>
 	<string name="assign_to_accounts">Przyporządkuj do tego konta/tych kont gdy prognozujesz</string> <!-- As in "Assign the category to these accounts when Forecasting". "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
 	<string name="last_account_used">Ostatnie użyte konto</string>
+<!-- New Fix -->	<string name="category_transaction_list_empty">Nie masz żadnych transakcji dla tego kategorii</string>
 			
 	<string name="no_categories_yet">Brak jeszcze kategorii</string>
 	<string name="no_classes_yet">Brak jeszcze klas</string>

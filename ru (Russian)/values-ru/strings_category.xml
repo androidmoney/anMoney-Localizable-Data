@@ -23,8 +23,6 @@
     <string name="delete_subclass">Удалить подкласс</string>
     <string name="add_default_categories">Добавить стандартные категории</string>
     <string name="add_classification">Добавить классификацию</string>
-    <string name="select_category">Выберите категорию</string>
-    <string name="select_class">Выберите класс</string>
     <string name="delete_classification">Удалить классификацию</string>
     <string name="rename_classification">Переименовать классификацию</string>
     <string name="select_classification">Выберите классификацию</string>
@@ -66,6 +64,7 @@
     <string name="class_not_found">Класс не существует</string>
 	<string name="total_income">Всего доходов</string>
 	<string name="total_expense">Всего расходов</string> 
+	<string name="total_transfers">Всего переводов</string>
 	<string name="net">Нетто</string>
 	<string name="net_income">Чистая прибыль</string>
 	<string name="uncategorized">Без категории</string>
@@ -85,6 +84,7 @@
 	<string name="spending_by_category_over_time2">Расходы по категориям, ^1 или ^2 по периодам</string>
 	<string name="assign_to_accounts">Счета для отнесения при Прогнозе</string>
 	<string name="last_account_used">Последний использованный счёт</string>
+<!-- New -->    <string name="category_transaction_list_empty">Нет транзакций по этой категории</string>
 	
     <string name="no_categories_yet">Нет категорий</string>
     <string name="no_classes_yet">Нет классов</string>

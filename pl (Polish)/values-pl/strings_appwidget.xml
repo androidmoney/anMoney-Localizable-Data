@@ -14,7 +14,6 @@
 	<string name="app_name_quick_entry">anMoney — Szybki wpis</string>
 	<string name="app_name_quick_entry_large">anMoney — Szybki wpis (duży)</string>
 	<string name="app_name_quick_entry_small">anMoney — Szybki wpis (mały)</string>
-	<string name="show_total">Pokaż całość konta</string>
 	<string name="opacity">Przezroczystość</string>
 
 	<string name="app_name_upcoming">anMoney — Nadchodzące</string> <!-- as in Upcoming Bills -->

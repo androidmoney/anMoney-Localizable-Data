@@ -54,6 +54,7 @@
 	<string name="transfer">Transferir</string>
 	<string name="transfers">Transferencias</string>
 	<string name="transfer_account">Transferencia de cuenta</string>
+	<string name="show_transfers">Mostrar las transferencias</string>
 	<string name="add">Agregar</string>
 	<string name="added">Agregar</string>
 	<string name="add_canceled">No se agregó</string>
@@ -73,7 +74,7 @@
 	<string name="cannot_transfer_to_itself">No se puede transferir a sí mismo</string>
 	<string name="cannot_copy_to_itself">No se puede copiar / mover a sí mismo</string>
 	<string name="copy_move_currency_warning">La cuenta de destino tiene una moneda base diferente. Puede que tengas que ajustar el valor de la transacción en la cuenta de destino</string>
-	<string name="all_transactions_hidden_by_filter">Todas las transacciones están ocultas por el filtro de presentación</string>
+	<string name="all_transactions_hidden_by_filter">Todas las transacciones están ocultas por el filtro</string>
 	<string name="show_number">Mostrar el número</string>
 	<string name="show_number_description">Muestra el número, si hay</string>
 	<string name="show_notes">Mostrar las notas</string>

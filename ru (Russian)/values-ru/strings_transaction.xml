@@ -54,6 +54,7 @@
     <string name="transfer">Перевод</string>
     <string name="transfers">Переводы</string>
     <string name="transfer_account">Второй счёт</string>
+    <string name="show_transfers">Показывать переводы</string>
     <string name="add">Добавить</string>
     <string name="added">Добавлено</string>
     <string name="add_canceled">Добавление отменено</string>

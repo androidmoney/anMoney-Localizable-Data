@@ -54,6 +54,7 @@
 	<string name="transfer">Transfer</string>
 	<string name="transfers">Transferler</string>
 	<string name="transfer_account">Hesap transferi</string>
+    <string name="show_transfers">Transferleri göster</string>
 	<string name="add">Ekle</string>
 	<string name="added">Eklendi</string>
 	<string name="add_canceled">Ekleme iptal edildi</string>
@@ -73,7 +74,7 @@
 	<string name="cannot_transfer_to_itself">Kendisine transfer edilemiyor</string>
 	<string name="cannot_copy_to_itself">Kendisine kopyalanamıyor ya da taşınamıyor</string>
 	<string name="copy_move_currency_warning">Hedef hesap başka bir para birimine sahip. Hedef hesapta işlem miktarını ayarlamak zorunda kalabilirsiniz</string>
-	<string name="all_transactions_hidden_by_filter">Tüm işlemler görüntüleme filtresi tarafından gizlendi</string>
+	<string name="all_transactions_hidden_by_filter">Tüm işlemler filtresi tarafından gizlendi</string>
 	<string name="show_number">Numarayı göster</string>
 	<string name="show_number_description">Varsa, numarayı göster</string>
 	<string name="show_notes">Notları göster</string>

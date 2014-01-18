@@ -2,5 +2,6 @@
 <resources>
 	<string name="search">Ara</string>
 	<string name="search_transactions">İşlemleri ara</string>
+<!-- New --> <string name="search_payees">Alacaklılar ara</string>
 	<string name="no_matching_transactions">İşlem bulunamadı</string>
 </resources>

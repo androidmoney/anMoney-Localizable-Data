@@ -22,6 +22,7 @@
 	<string name="quarter_format">Q^1 ^2</string>
 	<string name="filter_by_order_format">^1 etter ^2</string>
 	<string name="filter_by_direction_order_format">^1 etter ^2 ^3</string>
+	<string name="transactions_by_direction_date_format">Transaksjoner etter ^1 dato</string> <!-- Example: "Category by decreasing name" -->
 	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 etter ^2 ^3 for ^4</string>
 	<string name="_continue">Fortsett</string>
 	<string name="continue_question">Fortsette</string>
@@ -102,6 +103,7 @@
 	<string name="to_from_format">^1 ^2</string>
 	<string name="to">Til</string>
 	<string name="from">Fra</string>
+	<string name="to_from">Til/fra</string>
 	<string name="send_email">Send e-post</string>
 	<string name="please_read">Vennligst les</string>
 	<string name="rate_app_format">Vurder ^1</string>

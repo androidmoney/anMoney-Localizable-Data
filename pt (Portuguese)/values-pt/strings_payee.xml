@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="view_payee">Ver beneficiários</string>
+    <string name="view_payee">Ver beneficiário</string>
     <string name="edit_payee">Alterar beneficiário</string>
     <string name="new_payee">Novo beneficiário</string>
     <string name="call_payee">Chamar beneficiário</string>
@@ -10,7 +10,7 @@
     <string name="add_payee_as_a_contact">Adicione o beneficiário como contato</string>
     <string name="payee">Beneficiário</string>
     <string name="payer">Pagador</string>
-    <string name="payees">Beneficiário</string>
+    <string name="payees">Beneficiários</string>
     <string name="payee_required">Beneficiário obrigatório</string>
     <string name="payer_required">Pagador obrigatório</string>
     <string name="call">Chamar</string>
@@ -32,7 +32,7 @@
     <string name="open_web_page">Abrir página web</string>
     <string name="default_payee_name">Meu beneficiário</string>
 	<string name="spending_by_payee">Despesas por beneficiário</string>
-    <string name="all_payees_hidden_by_filter">Todos os beneficiários estão ocultos pelos filtros de tela</string>
+    <string name="all_payees_hidden_by_filter">Todos os beneficiários estão ocultos pelos filtros</string>
 
     <string name="without_payee">Sem beneficiário</string>
     <string name="no_payees_yet">Nenhum beneficiário ainda</string>

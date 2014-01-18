@@ -22,6 +22,7 @@
 	<string name="quarter_format">காலாண்டு^1 ^2</string> <!-- "Q1 2013" -->
 	<string name="filter_by_order_format">^1 வழி ^2</string> <!-- Example: "All accounts by name" -->
 	<string name="filter_by_direction_order_format">^1 வழி ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="transactions_by_direction_date_format">பரிவர்த்தனைகள் வழி ^1 நாள்</string> <!-- Example: "Category by decreasing date" -->
 	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 வழி ^2 ^3 ^4 க்காக</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="_continue">தொடர்</string>
 	<string name="continue_question">தொடர்</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -102,6 +103,7 @@
     <string name="to_from_format">^1 ^2</string> <!-- To <account>, from <account> -->
     <string name="to">இதற்கு</string> <!-- To <account> -->
     <string name="from">இதிலிருந்து</string> <!-- From <account> -->
+	<string name="to_from">இதற்/இதிலிருந்த</string>
 	<string name="send_email">மின்னஞ்சல் அனுப்பு</string>
 	<string name="please_read">தயவுசெய்து படி</string>
 	<string name="rate_app_format">^1 ஐ தகுதியிடு</string> <!-- ^1 is app name -->

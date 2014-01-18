@@ -32,7 +32,7 @@
     <string name="open_web_page">開啟網頁</string>
     <string name="default_payee_name">我的收款人</string>
 	<string name="spending_by_payee">收款人別支出</string>
-    <string name="all_payees_hidden_by_filter">所有收款人均被顯示過濾器隱藏</string>
+    <string name="all_payees_hidden_by_filter">所有收款人均被過濾器隱藏</string>
         
     <string name="without_payee">沒有收款人</string>
     <string name="no_payees_yet">還未有收款人</string>

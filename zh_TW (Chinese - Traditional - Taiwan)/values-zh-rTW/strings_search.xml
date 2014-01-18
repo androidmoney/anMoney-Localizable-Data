@@ -2,5 +2,6 @@
 <resources>
     <string name="search">搜尋</string>
     <string name="search_transactions">搜尋交易</string>
+<!-- New --> <string name="search_payees">搜尋 收款人</string>
     <string name="no_matching_transactions">無交易符合</string>
 </resources>

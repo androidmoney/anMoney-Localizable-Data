@@ -32,7 +32,7 @@
 	<string name="open_web_page">Otwórz stronę www</string>
 	<string name="default_payee_name">Mój odbiorca</string>
 	<string name="spending_by_payee">Wydatki według płatników</string>
-	<string name="all_payees_hidden_by_filter">Wszyscy odbiorcy są ukryci za pomocą filtra wyświetlania</string>
+	<string name="all_payees_hidden_by_filter">Wszyscy odbiorcy są ukryci za pomocą filtra</string>
 
 	<string name="without_payee">Bez odbiorcy</string>
 	<string name="no_payees_yet">Nie ma jeszcze żadnego odbiorcy</string>

@@ -32,7 +32,7 @@
 	<string name="open_web_page">فتح صفحة على الشبكة</string>
 	<string name="default_payee_name">المستفيد الخاص</string>
 	<string name="spending_by_payee">الصرف بالمستفيد</string>
-	<string name="all_payees_hidden_by_filter">تم اخفاء جميع المستفيدين بواسطة فلتر العرض</string>
+	<string name="all_payees_hidden_by_filter">تم اخفاء جميع المستفيدين بواسطة فلتر</string>
 
 	<string name="without_payee">بدون مستفيد</string>
 	<string name="no_payees_yet">لامستفيدين حاليا</string>	

@@ -23,8 +23,6 @@
 	<string name="delete_subclass">Esborrar subclasse</string>
 	<string name="add_default_categories">Afegir categories per defecte</string>
 	<string name="add_classification">Afegir classificació</string>
-	<string name="select_category">Seleccionar categoria</string>
-	<string name="select_class">Seleccionar classe</string>
 	<string name="delete_classification">Esborrar classificació</string>
 	<string name="rename_classification">Canviar nom a la classificació</string>
 	<string name="select_classification">Seleccionar classificació</string>
@@ -66,6 +64,7 @@
 	<string name="class_not_found">No s’ha trobat la classe</string>
 	<string name="total_income">Total ingressos</string>
 	<string name="total_expense">Total despeses</string>
+<!-- Mew --> <string name="total_transfers">Total transferències</string>
 	<string name="net">Net</string>
 	<string name="net_income">Ingressos nets</string>
 	<string name="uncategorized">Sense categoria</string>
@@ -85,6 +84,7 @@
 	<string name="spending_by_category_over_time2">Despeses per categoria, ^1 o ^2 del temps</string> <!-- This is a report name -->
 	<string name="assign_to_accounts">Assignar a aquests comptes quan es fa previsió</string>
 	<string name="last_account_used">L’últim compte emprat</string>
+	<string name="category_transaction_list_empty">Cap transacció d’aquest categoria</string>
 	
 	<string name="no_categories_yet">Cap categoria encara</string>
 	<string name="no_classes_yet">Cap classe encara</string>

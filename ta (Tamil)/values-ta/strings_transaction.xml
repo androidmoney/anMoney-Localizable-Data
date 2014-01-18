@@ -54,6 +54,7 @@
     <string name="transfer">பரிமாற்றம்</string>
     <string name="transfers">பரிமாற்றங்கள்</string>
     <string name="transfer_account">பரிமாற்றக் கணக்கு</string>
+    <string name="show_transfers">பரிமாற்றங்கள் காட்டு</string>
     <string name="add">சேர்க்க</string>
     <string name="added">சேர்க்கப்பட்டது</string>
     <string name="add_canceled">சேர்த்தல் இரத்துசெய்யப்பட்டது</string>
@@ -73,7 +74,7 @@
     <string name="cannot_transfer_to_itself">தானே பரிமாறிக்கொள்ள முடியாது</string>
     <string name="cannot_copy_to_itself">தானே நகல்/நகர்த்த முடியாது</string>
     <string name="copy_move_currency_warning">குறிப்பிட்ட கணக்கு மாறுபட்ட அடிப்படை நாணயத்தை கொண்டுள்ளது. குறிப்பிட்ட கணக்கின் பரிவர்த்தனை தொகையை நீங்கள் சரிசெய்ய வேண்டியிருக்கும்</string>
-    <string name="all_transactions_hidden_by_filter">எல்லா பரிவர்த்தனைகளும் காட்சி வடிகட்டியால் மறைக்கப்பட்டுள்ளது</string>
+    <string name="all_transactions_hidden_by_filter">எல்லா பரிவர்த்தனைகளும் வடிகட்டியால் மறைக்கப்பட்டுள்ளது</string>
     <string name="show_number">எண்ணை காட்டு</string>
     <string name="show_number_description">எண்ணை காட்சிப்படுத்து, அதுவும் ஒன்றாக இருந்தால்</string>
     <string name="show_notes">குறிப்புகளை காட்டு</string>

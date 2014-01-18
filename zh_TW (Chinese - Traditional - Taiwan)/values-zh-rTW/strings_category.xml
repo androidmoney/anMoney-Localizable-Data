@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>	
+<resources>
     <string name="category_main_sub_separator">：</string>
     <string name="category_main_sub_format">^1^2^3</string>
     <string name="category">類別</string>
@@ -24,8 +24,6 @@
     <string name="delete_subclass">刪除子分類</string>
     <string name="add_default_categories">加入預設類型</string>
     <string name="add_classification">加入分類</string>
-    <string name="select_category">選擇類型</string>
-    <string name="select_class">選擇分類</string>
     <string name="delete_classification">刪除分類</string>
     <string name="rename_classification">重新命名分類</string>
     <string name="select_classification">選擇分類</string>
@@ -67,7 +65,8 @@
     <string name="class_not_found">找不到分類</string>
     <string name="total_income">總收入</string>
     <string name="total_expense">總開支</string>
-	<string name="net">淨</string>
+<!-- New --> <string name="total_transfers">總轉帳</string>
+    <string name="net">淨</string>
     <string name="net_income">淨收入</string>
     <string name="uncategorized">未分類</string>
     <string name="income_uncategorized">未分類收入</string>
@@ -86,6 +85,7 @@
 	<string name="spending_by_category_over_time2">歷來類型別支出^1或^2</string>
 <!-- New --> <string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
 <!-- New --> <string name="last_account_used">The last account used</string>
+    <string name="category_transaction_list_empty">對此類別您沒有任何交易</string>
 		
 	<string name="no_categories_yet">尚無類型</string>
     <string name="no_classes_yet">尚無分類</string>

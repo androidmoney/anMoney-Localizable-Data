@@ -24,8 +24,6 @@
 	<string name="delete_subclass">Eliminar subclase</string>
 	<string name="add_default_categories">Añadir categorías predeterminadas</string>
 	<string name="add_classification">Añadir clasificación</string>
-	<string name="select_category">Seleccionar la categoría</string>
-	<string name="select_class">Seleccionar la clase</string>
 	<string name="delete_classification">Eliminar clasificación</string>
 	<string name="rename_classification">Renombrar la clasificación</string>
 	<string name="select_classification">Seleccionar la clasificación</string>
@@ -67,6 +65,7 @@
 	<string name="class_not_found">La clase no existe</string>
 	<string name="total_income">Total de ingresos</string>
 	<string name="total_expense">Total de gastos</string>
+<!-- New --> <string name="total_transfers">Total de transferencias</string>
 	<string name="net">Neto</string>
 	<string name="net_income">Ingresos netos</string>
 	<string name="uncategorized">Sin categorizar</string>
@@ -86,6 +85,7 @@
 	<string name="spending_by_category_over_time2">Gastos por categoría, ^1 or ^2 en el tiempo</string>
 <!-- Verify --> <string name="assign_to_accounts">Asigne a esta(s) cuenta(s) en la Estimación</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
 <!-- Verify --> <string name="last_account_used">La última cuenta usada</string>
+	<string name="category_transaction_list_empty">No tienes ninguna transacción para este categoría</string>
 
 	<string name="no_categories_yet">Aún no hay categorías</string>
 	<string name="no_classes_yet">Aún no hay clases</string>

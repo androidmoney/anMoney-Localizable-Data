@@ -2,5 +2,6 @@
 <resources>
     <string name="search">Hľadať</string>
     <string name="search_transactions">Hľadať transakcie</string>
+<!-- New --> <string name="search_payees">Hľadať príjemcovia</string>
     <string name="no_matching_transactions">Žiadne vyhovujúce transakcie</string>
 </resources>

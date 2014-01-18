@@ -52,8 +52,9 @@
     <string name="go_to">ジャンプ</string> <!-- Used on the menu to display a submenu where you can select an account/category to view -->
     <string name="number">番号</string>
     <string name="transfer">振り替え</string>
-    <string name="transfers">振り替え</string>
+    <string name="transfers">@string/transfer</string>
     <string name="transfer_account">振り替え先</string>
+    <string name="show_transfers">振り替えの表示</string>
     <string name="add">追加</string>
     <string name="added">追加しました</string>
     <string name="add_canceled">キャンセルしました</string>

@@ -32,7 +32,7 @@
     <string name="open_web_page">Web sayfasını aç</string>
     <string name="default_payee_name">Benim alacaklım</string>
 	<string name="spending_by_payee">Alacaklıya göre harcamalar</string>
-    <string name="all_payees_hidden_by_filter">Tüm alacaklılar görüntüleme filtresi tarafından gizleniyor</string>
+    <string name="all_payees_hidden_by_filter">Tüm alacaklılar filtresi tarafından gizleniyor</string>
         
     <string name="without_payee">Alacaklısız</string>
     <string name="no_payees_yet">Henüz alacaklı yok</string>

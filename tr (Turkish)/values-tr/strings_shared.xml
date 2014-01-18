@@ -22,6 +22,7 @@
 	<string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
 	<string name="filter_by_order_format">^2 göre ^1</string> <!-- Example: "All accounts by name" -->
 	<string name="filter_by_direction_order_format">^1 göre ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="transactions_by_direction_date_format">İşlemler göre ^1 tarih</string> <!-- Example: "Category by decreasing date" -->
 	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 göre ^2 ^3 için ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
 	<string name="_continue">Devam</string>
 	<string name="continue_question">Devam edilsin mi</string><!-- This is a question, but the question mark will be added progrmatically -->
@@ -100,8 +101,9 @@
 	<string name="remind_me">Bana hatırlat</string>
 	<string name="add_as_a_contact">Rehber öğesi ekle</string>
 	<string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
-	<string name="to">e</string> <!-- To <account> -->
-	<string name="from">den</string> <!-- From <account> -->
+	<string name="to">E</string> <!-- To <account> -->
+	<string name="from">Den</string> <!-- From <account> -->
+	<string name="to_from">E/den</string>
 	<string name="send_email">Eposta gönder</string>
 	<string name="please_read">Lütfen okuyunuz</string>
 	<string name="rate_app_format">^1 oyla</string> <!-- ^1 is app name -->

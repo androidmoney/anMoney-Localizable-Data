@@ -232,7 +232,7 @@
 	<string name="backup_folder">Dossier de sauvegarde</string>
 
 	<string name="date_in_file_name">Nom de fichier avec date</string>
-	<string name="date_in_file_name_description">Si l’option est sélectionnée, la date du jour sera ajoutée au nom du fichier lors de l’envoi</string>
+	<string name="date_in_file_name_description">Si l’option est sélectionnée, la date du jour sera ajoutée au nom du fichier lors d’un partage</string>
 	
 	<string name="automatic_backup">Sauvegarde automatique</string>
 	<string name="automatic_backup_description">Si l’option est sélectionnée, ce livre sera sauvegardé automatiquement</string>

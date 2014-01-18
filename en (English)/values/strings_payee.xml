@@ -32,7 +32,7 @@
 	<string name="open_web_page">Open web page</string>
 	<string name="default_payee_name">My payee</string>
 	<string name="spending_by_payee">Spending by payee</string>
-	<string name="all_payees_hidden_by_filter">All payees are hidden by the display filter</string>
+	<string name="all_payees_hidden_by_filter">All payees are hidden by the filter</string>
 
 	<string name="without_payee">Without payee</string>
 	<string name="no_payees_yet">No payees yet</string>

@@ -2,5 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
 	<string name="search">Search</string>
 	<string name="search_transactions">Search transactions</string>
+	<string name="search_payees">Search payees</string>
 	<string name="no_matching_transactions">No matching transactions</string>
 </resources>

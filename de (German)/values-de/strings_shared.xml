@@ -21,7 +21,8 @@
 	<string name="ellipsis_start_format">…^1</string>
 	<string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
 	<string name="filter_by_order_format">^1 nach ^2</string>
-	<string name="filter_by_direction_order_format">^1 und ^2 nach ^3</string>
+	<string name="filter_by_direction_order_format">^1 ^2 nach ^3</string>
+	<string name="transactions_by_direction_date_format">Transaktionen ^1 nach Datum</string> <!-- Example: "Category by decreasing name" -->
 	<string name="filter_for_item_by_direction_order_for_date_range_format">^1 und ^2 nach ^3 für ^4</string>
 	<string name="_continue">Weiter</string>
 	<string name="continue_question">Weiter</string>
@@ -101,6 +102,7 @@
 	<string name="to_from_format">^1 ^2</string>
 	<string name="to">Nach</string>
 	<string name="from">Von</string>
+	<string name="to_from">Nach/von</string>
 	<string name="send_email">Email senden</string>
 	<string name="please_read">Bitte lesen!</string>
 	<string name="rate_app_format">Rate ^1</string>

@@ -2,5 +2,6 @@
 <resources>
 	<string name="search">Søk</string>
 	<string name="search_transactions">Søk igjennom transaksjoner</string>
+<!-- New --> <string name="search_payees">Søk igjennom betalingskontakter</string>
 	<string name="no_matching_transactions">Ingen treff på transaksjoner</string>
 </resources>

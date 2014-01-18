@@ -22,6 +22,7 @@
 	<string name="quarter_format">^2 ^1季</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1排序以^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1排序以^2^3</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="transactions_by_direction_date_format">交易排序以^1日期</string> <!-- Example: "Category by decreasing date" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1排序以^2^3在^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="_continue">繼續</string>
 	<string name="continue_question">繼續</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -102,6 +103,7 @@
     <string name="to_from_format">^1^2</string> <!-- To <account>, From <account> -->
     <string name="to">致</string> <!-- To <account> -->
     <string name="from">由</string> <!-- From <account> -->
+	<string name="to_from">致／由</string>
 	<string name="send_email">傳送電子郵件</string>
 	<string name="please_read">請閱讀</string>
 	<string name="rate_app_format">評分^1</string> <!-- ^1 is app name -->

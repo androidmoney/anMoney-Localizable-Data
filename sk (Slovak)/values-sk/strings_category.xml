@@ -24,8 +24,6 @@
     <string name="delete_subclass">Odstrániť podtriedu</string>
     <string name="add_default_categories">Pridať východzie kategórie</string>
     <string name="add_classification">Pridať zaradenie</string>
-    <string name="select_category">Vyberte kategóriu</string>
-    <string name="select_class">Vybrať triedu</string>
     <string name="delete_classification">Odstrániť zaradenie</string>
     <string name="rename_classification">Premenovať zaradenie</string>
     <string name="select_classification">Vyberte zaradenie</string>
@@ -67,7 +65,8 @@
     <string name="class_not_found">Trieda nenájdená</string>
     <string name="total_income">Príjmy celkom</string>
     <string name="total_expense">Výdavky celkom</string>
-	<string name="net">Čistý</string>
+<!-- New --> <string name="total_transfers">Prevody celkom</string>
+    <string name="net">Čistý</string>
     <string name="net_income">Čistý príjem</string>
     <string name="uncategorized">Nezaradené</string>
     <string name="income_uncategorized">Nezaradené príjmy</string>
@@ -86,6 +85,7 @@
 	<string name="spending_by_category_over_time2">Výdavky podľa kategórie, ^1 alebo ^2 v priebehu času</string>
 <!-- New --> <string name="assign_to_accounts">Priradiť k týmto účtom pri tvorbe predpovede</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
 <!-- New --> <string name="last_account_used">Naposledy použitý účet</string>
+    <string name="category_transaction_list_empty">Pre tohto kategória nemáte žiadne transakcie</string>
 		
 	<string name="no_categories_yet">Zatiaľ žiadne kategórie</string>
     <string name="no_classes_yet">Zatiaľ žiadne triedy</string>

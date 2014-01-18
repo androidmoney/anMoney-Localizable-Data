@@ -24,8 +24,6 @@
     <string name="delete_subclass">Alt sınıf sil</string>
     <string name="add_default_categories">Hazır kategoriler ekle</string>
     <string name="add_classification">Sınıflandırma ekle</string>
-    <string name="select_category">Kategori seç</string>
-    <string name="select_class">Sınıf seç</string>
     <string name="delete_classification">Sınıflandırma sil</string>
     <string name="rename_classification">Sınıflandırmayı yeniden adlandır</string>
     <string name="select_classification">Sınıflandırma seç</string>
@@ -67,7 +65,8 @@
     <string name="class_not_found">Sınıf bulunamadı</string>
     <string name="total_income">Gelir toplamı</string>
     <string name="total_expense">Harcama toplamı</string>
-	<string name="net">Net</string>
+<!-- New --> <string name="total_transfers">Transferlerin toplamı</string>
+    <string name="net">Net</string>
     <string name="net_income">Net gelir</string>
     <string name="uncategorized">Kategorilendirilmemiş</string>
     <string name="income_uncategorized">Kategorilendirilmemiş gelir</string>
@@ -86,6 +85,7 @@
 	<string name="spending_by_category_over_time2">Süre sonu kategoriye göre harcama, ^1 ya da ^2</string>
 	<string name="assign_to_accounts">Tahmin oluştururken bu hesapları da devret</string> <!-- As in "Assign the category to these accounts when Forecasting".  "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
 	<string name="last_account_used">Son kullanılan hesap</string>
+    <string name="category_transaction_list_empty">Bu kategori kayıtlı hiç bir işlem yok</string>
 			
 	<string name="no_categories_yet">Henüz kategoriler yok</string>
     <string name="no_classes_yet">Henüz sınıflar yok</string>

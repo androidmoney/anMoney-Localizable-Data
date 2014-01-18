@@ -22,6 +22,7 @@
 	<string name="quarter_format">Q^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 по ^2</string>
     <string name="filter_by_direction_order_format">^1 по ^2 по ^3</string>
+	<string name="transactions_by_direction_date_format">Транзакции по ^1 по дате</string> <!-- Example: "Category by decreasing name" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 по ^2 по ^3 за ^4</string>
     <string name="_continue">Продолжить</string>
 	<string name="continue_question">Продолжить</string>
@@ -102,6 +103,7 @@
     <string name="to_from_format">^1 ^2</string>
     <string name="to">На счёт</string>
     <string name="from">Со счёта</string>
+	<string name="to_from">На/со счёт/a</string>
     <string name="send_email">Отправить email</string>
 	<string name="please_read">Прочтите пожалуйста</string>
 	<string name="rate_app_format">Оцените ^1</string>

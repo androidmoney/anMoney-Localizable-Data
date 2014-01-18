@@ -54,6 +54,7 @@
 	<string name="transfer">Overføring</string>
 	<string name="transfers">Overføringer</string>
 	<string name="transfer_account">Overføringskonto</string>
+	<string name="show_transfers">Vis overføringer</string>
 	<string name="add">Legg til</string>
 	<string name="added">La til</string>
 	<string name="add_canceled">Avbrøt tillegging</string>
@@ -73,7 +74,7 @@
 	<string name="cannot_transfer_to_itself">Kan ikke overføre fra og til samme konto</string>
 	<string name="cannot_copy_to_itself">Kan ikke kopiere/flytte til seg selv</string>
 	<string name="copy_move_currency_warning">Mottakerkontoen er i en annen valuta. Det er mulig at du må justere transaksjonsbeløpet der</string>
-	<string name="all_transactions_hidden_by_filter">Samtlige transaksjoner er skjult av visningsfilteret</string>
+	<string name="all_transactions_hidden_by_filter">Samtlige transaksjoner er skjult av filteret</string>
 	<string name="show_number">Vis nummer</string>
 	<string name="show_number_description">Viser nummeret, om det eksisterer</string>
 	<string name="show_notes">Vis notater</string>

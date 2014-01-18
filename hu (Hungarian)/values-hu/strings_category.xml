@@ -23,8 +23,6 @@
     <string name="delete_subclass">Alosztály törlése</string>
     <string name="add_default_categories">Alapkategóriák hozzáadása</string>
     <string name="add_classification">Osztályozás hozzáadása</string>
-    <string name="select_category">Válasszon kategóriát/ákat</string>
-    <string name="select_class">Válasszon osztályt/okat</string>
     <string name="delete_classification">Osztályozás törlése</string>
     <string name="rename_classification">Osztályozás átnevezése</string>
     <string name="select_classification">Válasszon egy osztályozást</string>
@@ -66,7 +64,8 @@
     <string name="class_not_found">Osztály nem létezik</string>
     <string name="total_income">Teljes jövedelem</string>
     <string name="total_expense">Teljes kiadás</string>
-	<string name="net">Nettó</string>
+    <string name="total_transfers">Teljes átvezetés</string>
+    <string name="net">Nettó</string>
     <string name="net_income">Nettó jövedelem</string>
     <string name="uncategorized">Kategória nélküli</string>
     <string name="income_uncategorized">Kategória nélküli jövedelem</string>
@@ -85,6 +84,7 @@
 	<string name="spending_by_category_over_time2">Költés kategória, ^1 vagy ^2 szerint idő alatt</string>
 	<string name="assign_to_accounts">Rendelje hozzá ezekhez a számlá(k)hoz, amikor készíti a Prognózist</string>
 	<string name="last_account_used">Az utoljára használt számláhóz</string>
+    <string name="category_transaction_list_empty">Nincsenek tranzakciói ezzel a kategóriával</string>
 		
 	<string name="no_categories_yet">Nincsenek még kategóriák</string>
     <string name="no_classes_yet">Nincsenek még osztályok</string>

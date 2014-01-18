@@ -2,5 +2,6 @@
 <resources>
     <string name="search">Поиск</string>
     <string name="search_transactions">Поиск транзакций</string>
+<!-- New --> <string name="search_payees">Поиск получателей</string>
     <string name="no_matching_transactions">Транзакции не найдены</string>
 </resources>

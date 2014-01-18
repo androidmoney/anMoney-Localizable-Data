@@ -24,8 +24,6 @@
     <string name="delete_subclass">サブクラスの削除</string>
     <string name="add_default_categories">デフォルト・カテゴリーの追加</string>
     <string name="add_classification">分類の追加</string>
-    <string name="select_category">カテゴリーの選択</string>
-    <string name="select_class">クラスの選択</string>
     <string name="delete_classification">分類の削除</string>
     <string name="rename_classification">分類名の変更</string>
     <string name="select_classification">分類の選択</string>
@@ -67,7 +65,8 @@
     <string name="class_not_found">クラスが見つかりません</string>
     <string name="total_income">総収入</string>
     <string name="total_expense">総支出</string>
-	<string name="net">ネット</string>
+<!-- New --> <string name="total_transfers">総振り替え</string>
+    <string name="net">ネット</string>
     <string name="net_income">純利益</string>
     <string name="uncategorized">カテゴリーなし</string>
     <string name="income_uncategorized">カテゴリーのない収入</string>
@@ -86,6 +85,7 @@
 	<string name="spending_by_category_over_time2">カテゴリー、^1または^2の支出の経時変化</string>
 	<string name="assign_to_accounts">予測時に割り当てる口座</string>
 	<string name="last_account_used">最後に利用した口座</string>
+    <string name="category_transaction_list_empty">このカテゴリーに関する取り引きはありません</string>
 	
 	<string name="no_categories_yet">カテゴリーがありません</string>
     <string name="no_classes_yet">クラスがありません</string>

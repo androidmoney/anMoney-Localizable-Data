@@ -32,7 +32,7 @@
 	<string name="open_web_page">Obrir pàgina web</string>
 	<string name="default_payee_name">El meu beneficiari</string>
 	<string name="spending_by_payee">Despesa per beneficiari</string>
-	<string name="all_payees_hidden_by_filter">Tots els beneficiaris han estat amagats pel filtre de visualització</string>
+	<string name="all_payees_hidden_by_filter">Tots els beneficiaris han estat amagats pel filtre</string>
 
 	<string name="without_payee">Sense beneficiari</string>
 	<string name="no_payees_yet">Cap beneficiari encara</string>

@@ -54,6 +54,7 @@
     <string name="transfer">轉帳</string>
     <string name="transfers">轉帳人</string>
     <string name="transfer_account">轉帳帳號</string>
+    <string name="show_transfers">顯示轉帳</string>
     <string name="add">加入</string>
     <string name="added">已加入</string>
     <string name="add_canceled">加入已取消</string>
@@ -73,7 +74,7 @@
     <string name="cannot_transfer_to_itself">無法轉移到自身</string>
     <string name="cannot_copy_to_itself">無法複製或移動到自身</string>
     <string name="copy_move_currency_warning">目標帳戶有不同的基礎貨幣，您可能需要調整目標帳戶的交易金額</string>
-    <string name="all_transactions_hidden_by_filter">所有交易都被顯示過濾器隱藏</string>
+    <string name="all_transactions_hidden_by_filter">所有交易都被過濾器隱藏</string>
     <string name="show_number">顯示數目</string>
     <string name="show_number_description">若有的話顯示數目</string>
     <string name="show_notes">顯示備註</string>

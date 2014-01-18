@@ -25,8 +25,6 @@
 	<string name="delete_subclass">Delete subclass</string>
 	<string name="add_default_categories">Add default categories</string>
 	<string name="add_classification">Add classification</string>
-	<string name="select_category">Select category</string>
-	<string name="select_class">Select class</string>
 	<string name="delete_classification">Delete classification</string>
 	<string name="rename_classification">Rename classification</string>
 	<string name="select_classification">Select classification</string>
@@ -68,6 +66,7 @@
 	<string name="class_not_found">Class not found</string>
 	<string name="total_income">Total income</string>
 	<string name="total_expense">Total expense</string>
+	<string name="total_transfers">Total transfers</string>
 	<string name="net">Net</string>
 	<string name="net_income">Net income</string>
 	<string name="uncategorized">Uncategorised</string>
@@ -87,6 +86,7 @@
 	<string name="spending_by_category_over_time2">Spending by category, ^1 or ^2 over time</string>
 	<string name="assign_to_accounts">Assign to the these account(s) when Forecasting</string> <!-- As in "Assign the category to these accounts when Forecasting". "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
 	<string name="last_account_used">The last account used</string>
+	<string name="category_transaction_list_empty">You don’t have any transactions for this category</string>
 			
 	<string name="no_categories_yet">No categories yet</string>
 	<string name="no_classes_yet">No classes yet</string>

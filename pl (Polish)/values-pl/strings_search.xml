@@ -2,5 +2,6 @@
 <resources>
 	<string name="search">Szukaj</string>
 	<string name="search_transactions">Szukaj transakcji</string>
+<!-- New --> <string name="search_payees">Szukaj odbiorcy</string>
 	<string name="no_matching_transactions">Żadnych pasujących transakcji</string>
 </resources>

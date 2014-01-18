@@ -32,7 +32,7 @@
     <string name="open_web_page">Apri pagina web</string>
     <string name="default_payee_name">Me stesso</string>
 	<string name="spending_by_payee">Spese per beneficiario</string>
-    <string name="all_payees_hidden_by_filter">Tutti i beneficiari sono nascosti dai filtri di visualizzazione</string>
+    <string name="all_payees_hidden_by_filter">Tutti i beneficiari sono nascosti dai filtri</string>
         
     <string name="without_payee">Senza beneficiario</string>
     <string name="no_payees_yet">Ancora nessun beneficiario</string>

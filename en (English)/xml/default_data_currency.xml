@@ -370,6 +370,7 @@
 		<iso4217>LTL</iso4217>
 		<iso3166>LT</iso3166>
 	</record>
+	<!-- TO-DO remove: joined the Eurozone on Jan 1, 2014 -->
 	<record>
 		<region>Latvia</region>
 		<name>Latvian lats</name>

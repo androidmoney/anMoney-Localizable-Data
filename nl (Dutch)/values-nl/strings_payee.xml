@@ -32,7 +32,7 @@
     <string name="open_web_page">Open web pagina</string>
     <string name="default_payee_name">Mijn begunstigden</string>
 	<string name="spending_by_payee">Uitgaven per begunstigde</string>
-    <string name="all_payees_hidden_by_filter">Alle begunstigden zijn verborgen door het weergave filter</string>
+    <string name="all_payees_hidden_by_filter">Alle begunstigden zijn verborgen door het filter</string>
         
     <string name="without_payee">Zonder begunstigde</string>
     <string name="no_payees_yet">Nog geen begunstigden</string>

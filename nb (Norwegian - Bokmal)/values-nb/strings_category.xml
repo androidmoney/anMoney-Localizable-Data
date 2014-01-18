@@ -24,8 +24,6 @@
 	<string name="delete_subclass">Fjern underklasse</string>
 	<string name="add_default_categories">Legg til standardkategorier</string>
 	<string name="add_classification">Legg til classification</string>
-	<string name="select_category">Velg kategori</string>
-	<string name="select_class">Velg klasse</string>
 	<string name="delete_classification">Fjern klassifiserin</string>
 	<string name="rename_classification">Endre klassifiseringens navn</string>
 	<string name="select_classification">Velg klassifisering</string>
@@ -67,6 +65,7 @@
 	<string name="class_not_found">Fant ikke klassen</string>
 	<string name="total_income">Total inntekt</string>
 	<string name="total_expense">Total utgift</string>
+<!-- new --> <string name="total_transfers">Total overføringene</string>
 	<string name="net">Netto</string>
 	<string name="net_income">Nettoinntekt</string>
 	<string name="uncategorized">Ukategorisert</string>
@@ -86,6 +85,7 @@
 	<string name="spending_by_category_over_time2">Bruk per kategori, ^1 eller ^2 over tid</string>
 	<string name="assign_to_accounts">Tilknytt til konto(ene) ved bruk av utsikter</string>
 	<string name="last_account_used">Sist brukte konto</string>
+<!-- New -->	<string name="category_transaction_list_empty">Ingen transaksjoner bokført på denne kategori</string>
 
 	<string name="no_categories_yet">Ingen kategorier ennå</string>
 	<string name="no_classes_yet">Ingen klasser ennå</string>

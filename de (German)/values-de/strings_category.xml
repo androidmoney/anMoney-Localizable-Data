@@ -23,8 +23,6 @@
 	<string name="delete_subclass">Unter-Klasse löschen</string>
 	<string name="add_default_categories">Standard-Kategorien hinzufügen</string>
 	<string name="add_classification">Klassifikation hinzufügen</string>
-	<string name="select_category">Kategorie auswählen</string>
-	<string name="select_class">Klasse auswählen</string>
 	<string name="delete_classification">Klassifikation löschen</string>
 	<string name="rename_classification">Klassifikation umbenennen</string>
 	<string name="select_classification">Klassifikation auswählen</string>
@@ -66,6 +64,7 @@
 	<string name="class_not_found">Klasse gibt es nicht</string>
 	<string name="total_income">Einkommen total</string>
 	<string name="total_expense">Ausgaben total</string>
+<!-- New --> <string name="total_transfers">Transfers total</string>
 	<string name="net">Netto</string>
 	<string name="net_income">Nettoeinkommen</string>
 	<string name="uncategorized">Unkategorisierte</string>
@@ -85,6 +84,7 @@
 	<string name="spending_by_category_over_time2">Ausgaben nach Kategorie, ^1 oder ^2 - Periodenaufstellung</string>
 	<string name="assign_to_accounts">Verweisen Sie auf die diese(s) Kont(en) bei der Prognose</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
 	<string name="last_account_used">Das zuletzt verwendete Konto</string>
+	<string name="category_transaction_list_empty">Sie haben keine Transaktionen für diese Kategorie</string>
 
 	<string name="no_categories_yet">Bisher keine Kategorien</string>
 	<string name="no_classes_yet">Bisher keine Klassen</string>

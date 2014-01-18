@@ -73,7 +73,7 @@
     <string name="cannot_transfer_to_itself">Nu poate fi transferat în el însuşi</string>
     <string name="cannot_copy_to_itself">Nu poate copiat/mutat în el însuşi</string>
     <string name="copy_move_currency_warning">Contul destinatar are altă monedă de bază. Trebuie să ajustezi suma tranzacţiei în contul destinatar</string>
-    <string name="all_transactions_hidden_by_filter">Toate tranzacţiile sunt ascunse datorită filtrului de afişare</string>
+    <string name="all_transactions_hidden_by_filter">Toate tranzacţiile sunt ascunse datorită filtrului</string>
     <string name="show_number">Arată număr</string>
     <string name="show_number_description">Afişeayă numărul, dacă acesta există</string>
     <string name="show_notes">Arată notele</string>

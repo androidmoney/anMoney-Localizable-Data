@@ -22,6 +22,7 @@
 	<string name="quarter_format">Q^1 ^2</string> <!-- "Q1 2013" -->
     <string name="filter_by_order_format">^1 door ^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1 door ^2 ^3</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="transactions_by_direction_date_format">Transacties door ^1 datum</string> <!-- Example: "Category by decreasing name" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^1 door ^2 ^3 voor ^4</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="_continue">Doorgaan</string>
 	<string name="continue_question">Doorgaan</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -102,6 +103,7 @@
     <string name="to_from_format">^1 ^2</string> <!-- To <account>, From <account> -->
     <string name="to">Naar</string> <!-- To <account> -->
     <string name="from">Van</string> <!-- From <account> -->
+	<string name="to_from">Naar/van</string>
 	<string name="send_email">Stuur email</string>
 	<string name="please_read">Lezen aub</string>
 	<string name="rate_app_format">Beoordeel ^1</string> <!-- ^1 is app name -->

@@ -54,6 +54,7 @@
 	<string name="transfer">Transfer</string>
 	<string name="transfers">Transfers</string>
 	<string name="transfer_account">Konto-Transfer</string>
+	<string name="show_transfers">Zeige Transfers</string>
 	<string name="add">Hinzufügen</string>
 	<string name="added">Hinzugefügt</string>
 	<string name="add_canceled">Hinzufügen abgebrochen</string>
@@ -73,7 +74,7 @@
 	<string name="cannot_transfer_to_itself">Kann nicht in sich selbst kopiert werden</string>
 	<string name="cannot_copy_to_itself">Kann nicht in sich selbst kopiert/verschoben werden</string>
 	<string name="copy_move_currency_warning">Das Zielkonto hat eine andere Basis-Währung. Sie müssen den Überweisungs-Betrag im Zielkonto gegebenenfalls angleichen</string>
-	<string name="all_transactions_hidden_by_filter">Alle Transaktionen sind durch den Ansichts-Filter versteckt</string>
+	<string name="all_transactions_hidden_by_filter">Alle Transaktionen sind durch den Filter versteckt</string>
 	<string name="show_number">Zeige Nummer</string>
 	<string name="show_number_description">Zeige die Nummer, falls eine existiert</string>
 	<string name="show_notes">Zeige Bemerkungen</string>

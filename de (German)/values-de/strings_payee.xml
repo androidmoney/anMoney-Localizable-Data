@@ -32,7 +32,7 @@
 	<string name="open_web_page">Öffne Web-Seite</string>
 	<string name="default_payee_name">Mein Empfänger</string>
 	<string name="spending_by_payee">Ausgaben nach Empfänger</string>
-	<string name="all_payees_hidden_by_filter">Alle Empfänger sind durch den Ansichts-Filter versteckt</string>
+	<string name="all_payees_hidden_by_filter">Alle Empfänger sind durch den Filter versteckt</string>
 
 	<string name="without_payee">Ohne empfänger</string>
 	<string name="no_payees_yet">Noch keine Empfänger</string>

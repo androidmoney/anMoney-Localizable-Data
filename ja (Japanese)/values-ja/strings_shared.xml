@@ -22,6 +22,7 @@
 	<string name="quarter_format">^2年第^1四半期</string> <!-- "Q1 2013" -->
     <string name="filter_by_order_format">^1を^2順に表示</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1を^3の^2で表示</string> <!-- Example: "All payees by decreasing date" -->
+	<string name="transactions_by_direction_date_format">取り引きを日付の^1で表示</string> <!-- Example: "Category by decreasing name" -->
     <string name="filter_for_item_by_direction_order_for_date_range_format">^4の^1を^3の^2で表示</string> <!-- Example: "All transactions by decreasing date for all dates" -->
     <string name="_continue">続ける</string>
 	<string name="continue_question">続けますか</string> <!-- This is a question, but the question mark will be added progrmatically -->
@@ -102,6 +103,7 @@
     <string name="to_from_format">^1^2</string> <!-- To <account>, From <account> -->
     <string name="to">振替先：</string> <!-- To <account> -->
     <string name="from">振替元：</string> <!-- From <account> -->
+	<string name="to_from">振替先／振替元：</string>
 	<string name="send_email">電子メールを送信</string>
 	<string name="please_read">必ずお読み下さい</string>
 	<string name="rate_app_format">^1の評価をお願いします</string> <!-- ^1 is app name -->

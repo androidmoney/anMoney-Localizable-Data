@@ -54,6 +54,7 @@
 	<string name="transfer">Převod</string>
 	<string name="transfers">Převody</string>
 	<string name="transfer_account">Druhý účet</string>
+	<string name="show_transfers">Zobrazit převody</string>
 	<string name="add">Přidat</string>
 	<string name="added">Přidáno</string>
 	<string name="add_canceled">Přidání zrušeno</string>

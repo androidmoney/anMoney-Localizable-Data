@@ -54,6 +54,7 @@
     <string name="transfer">Átvezetés</string>
     <string name="transfers">Átvezetések</string>
     <string name="transfer_account">Átvezetési számla</string>
+    <string name="show_transfers">Mutassa az átvezetéseket</string>
     <string name="add">Hozzáadás</string>
     <string name="added">Hozzáadva</string>
     <string name="add_canceled">Hozzáadás megszakítva</string>

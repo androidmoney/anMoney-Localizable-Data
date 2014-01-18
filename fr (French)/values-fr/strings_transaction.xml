@@ -54,6 +54,7 @@
 	<string name="transfer">Virement</string>
 	<string name="transfers">Virements</string>
 	<string name="transfer_account">Compte destinataire</string>
+	<string name="show_transfers">Montrer les virements</string>
 	<string name="add">Ajouter</string>
 	<string name="added">Ajouté</string>
 	<string name="add_canceled">Ajout annulé</string>
@@ -73,7 +74,7 @@
 	<string name="cannot_transfer_to_itself">Virement vers le même compte impossible</string>
 	<string name="cannot_copy_to_itself">Copie/Déplacement vers le même compte impossible</string>
 	<string name="copy_move_currency_warning">Le compte de destination utilise une devise différente. Vous devrez ajuster le montant de la transaction dans le compte de destination</string>
-	<string name="all_transactions_hidden_by_filter">Toutes les transactions sont masquées par le filtre d’affichage</string>
+	<string name="all_transactions_hidden_by_filter">Toutes les transactions sont masquées par le filtre</string>
 	<string name="show_number">Afficher le numéro</string>
 	<string name="show_number_description">Affiche le numéro, s’il y en a un</string>
 	<string name="show_notes">Afficher les notes</string>

@@ -24,8 +24,6 @@
     <string name="delete_subclass">Verwijder subklasse</string>
     <string name="add_default_categories">Voeg standaard categorieen toe</string>
     <string name="add_classification">Voeg classificatie toe</string>
-    <string name="select_category">Selecteer categorie</string>
-    <string name="select_class">Selecteer klasse</string>
     <string name="delete_classification">Verwijder classificatie</string>
     <string name="rename_classification">Hernoem classificatie</string>
     <string name="select_classification">Selecteer classificatie</string>
@@ -67,7 +65,8 @@
     <string name="class_not_found">Klasse niet gevonden</string>
     <string name="total_income">Totaal inkomsten</string>
     <string name="total_expense">Totaal uitgaven</string>
-	<string name="net">Netto</string>
+<!-- New --> <string name="total_transfers">Totaal transfers</string>
+    <string name="net">Netto</string>
     <string name="net_income">Netto inkomen</string>
     <string name="uncategorized">ongecategoriseerd</string>
     <string name="income_uncategorized">Ongecategoriseerd inkomek</string>
@@ -86,6 +85,7 @@
 	<string name="spending_by_category_over_time2">Uitgave per categorie, ^1 of ^2 door de tijd</string>
 	<string name="assign_to_accounts">Koppel al deze rekening(en) bij voorspellen</string> <!-- As in "Assign the category to these accounts when Forecasting".  "Forecasting" should be the same word as the Net Worth/Forecasting report's name -->
 	<string name="last_account_used">De laatste rekening gebruikt</string>
+    <string name="category_transaction_list_empty">Je hebt nog geen transactie voor deze categorie</string>
 
 	<string name="no_categories_yet">Nog geen categorieen</string>
     <string name="no_classes_yet">Nog geen klassen</string>

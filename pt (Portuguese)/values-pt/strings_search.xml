@@ -2,5 +2,6 @@
 <resources>
     <string name="search">Pesquisar</string>
     <string name="search_transactions">Pesquisar transações</string>
+<!-- New --> <string name="search_payees">Pesquisar beneficiários</string>
     <string name="no_matching_transactions">Nenhuma transação encontrada</string>
 </resources>

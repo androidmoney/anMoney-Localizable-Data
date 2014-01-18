@@ -32,7 +32,7 @@
 	<string name="open_web_page">Åpne nettside</string>
 	<string name="default_payee_name">Min betalingskontakt</string>
 	<string name="spending_by_payee">Utgående per betalingskontakt</string>
-	<string name="all_payees_hidden_by_filter">Alle betalingskontaktene er skjult av visningsfilteret</string>
+	<string name="all_payees_hidden_by_filter">Alle betalingskontaktene er skjult av filteret</string>
 
 	<string name="without_payee">Uten betalingskontakt</string>
 	<string name="no_payees_yet">Ingen betalingskontakter ennå</string>
