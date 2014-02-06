@@ -55,7 +55,7 @@
 	<string name="select_import_mode">Zvolte způsob importu</string>
 	<string name="export_file_format">Formát výstupního souboru</string>
 	<string name="mark_transactions_exported">Označit transakci jako exportovanou</string>
-	<string name="create_single_file">Vytvořit jeeden soubor</string>
+	<string name="create_single_file">Vytvořit jeden soubor</string>
 	<string name="no_transactions_matched_your_selection_criteria">Žádná transakce nevyhovuje parametrům výběru.\nExportní soubor nebyl vytvořen</string>
 	<string name="import_folder">Složka pro import souborů</string>
 	<string name="export_folder">Složka pro export souborů</string>

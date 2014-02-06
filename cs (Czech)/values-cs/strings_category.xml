@@ -64,7 +64,7 @@
 	<string name="class_not_found">Třída nenalezena</string>
 	<string name="total_income">Příjmy celkem</string>
 	<string name="total_expense">Výdaje celkem</string>
-<!-- New --> <string name="total_transfers">Převody celkem</string>
+	<string name="total_transfers">Převody celkem</string>
 	<string name="net">Čistý</string>
 	<string name="net_income">Čistý příjem</string>
 	<string name="uncategorized">Nezařazeno</string>
