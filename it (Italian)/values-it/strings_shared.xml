@@ -19,6 +19,7 @@
 	<string name="equals_format">^1 =</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
 	<string name="ellipsis_start_format">…^1</string>
+	<string name="ellipsis_end_format">^1…</string>
 	<string name="quarter_format">Trim.^1 ^2</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1 per ^2</string>
     <string name="filter_by_direction_order_format">^1 per ^3 ^2</string>

@@ -289,6 +289,7 @@
         <item>Europe centrale (Windows)</item>
         <item>UTF-16BE (Unicode)</item>
         <item>UTF-16LE (Unicode)</item>
+		<item>Grecque (Windows)</item>		
 	</string-array>
 
 	<string name="maintain_entries">Mémoriser les saisies</string>

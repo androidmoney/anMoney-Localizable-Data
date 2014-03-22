@@ -19,6 +19,7 @@
 	<string name="equals_format">^1=</string>
 	<string name="footnote_symbol"><sup><small>*</small></sup></string>
 	<string name="ellipsis_start_format">……^1</string>
+	<string name="ellipsis_end_format">^1……</string>
 	<string name="quarter_format">^2 ^1季</string> <!-- As in "Q1 2013" -->
     <string name="filter_by_order_format">^1排序以^2</string> <!-- Example: "All accounts by name" -->
     <string name="filter_by_direction_order_format">^1排序以^2^3</string> <!-- Example: "All payees by decreasing date" -->

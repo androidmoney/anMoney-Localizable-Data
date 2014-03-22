@@ -288,6 +288,7 @@ New        <string name="decline">Decline</string>
         <item>Centraal Europees (Windows)</item>
         <item>UTF-16BE (Unicode)</item>
         <item>UTF-16LE (Unicode)</item>
+		<item>Grieks (Windows)</item>		
 	</string-array>
 
     <string name="maintain_entries">Behoud invoering</string>

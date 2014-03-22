@@ -84,9 +84,9 @@
 	<string name="repeat">Opakovat</string>
 	<string name="every_1">Každý</string>
 	<string name="every_2">Každé</string>
-	<string name="every_3">Každých</string>
+ 	<string name="every_3">Každých</string>	
 
-	<string-array name="every_day_plurals">
+ 	<string-array name="every_day_plurals">
 		<item>@string/every_1</item>
 		<item>@string/every_2</item>
 		<item>@string/every_3</item>

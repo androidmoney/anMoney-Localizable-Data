@@ -287,6 +287,7 @@
 		<item>Sentral-europeisk (Windows)</item>
 		<item>UTF-16BE (Unicode)</item>
 		<item>UTF-16LE (Unicode)</item>
+		<item>Gresk (Windows)</item>		
 	</string-array>
 
 	<string name="maintain_entries">Oppretthold oppføringer</string>

@@ -283,11 +283,12 @@
         <item>@string/iso_8859_1</item>
         <item>@string/utf_8</item>
         <item>GBK (சீன தேசிய தரப்படுத்தப்பட்டது)</item>
-        <item>சிரிலிக் (வின்டோஸ்)</item>
-        <item>மேற்கு ஐரோப்பா (வின்டோஸ்)</item>
-        <item>மத்திய ஐரோப்பா (வின்டோஸ்)</item>
-        <item>UTF-16BE (ஒற்றை குறியீடு)</item>
-        <item>UTF-16LE (ஒற்றை குறியீடு)</item>
+        <item>சிரிலிக் (Windows)</item>
+        <item>மேற்கு ஐரோப்பா (Windows)</item>
+        <item>மத்திய ஐரோப்பா (Windows)</item>
+        <item>UTF-16BE (Unicode)</item>
+        <item>UTF-16LE (Unicode)</item>
+		<item>கிரேக்கம் (Windows)</item>		
 	</string-array>
 
     <string name="maintain_entries">பதிவுகளை பராமரிக்கவும்</string>
