@@ -181,71 +181,71 @@
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month">
-		<item>No 1<sup><small>°</small></sup></item>
-		<item>No 2<sup><small>°</small></sup></item>
-		<item>No 3<sup><small>°</small></sup></item>
-		<item>No 4<sup><small>°</small></sup></item>
-		<item>No 5<sup><small>°</small></sup></item>
-		<item>No 6<sup><small>°</small></sup></item>
-		<item>No 7<sup><small>°</small></sup></item>
-		<item>No 8<sup><small>°</small></sup></item>
-		<item>No 9<sup><small>°</small></sup></item>
-		<item>No 10<sup><small>°</small></sup></item>
-		<item>No 11<sup><small>°</small></sup></item>
-		<item>No 12<sup><small>°</small></sup></item>
-		<item>No 13<sup><small>°</small></sup></item>
-		<item>No 14<sup><small>°</small></sup></item>
-		<item>No 15<sup><small>°</small></sup></item>
-		<item>No 16<sup><small>°</small></sup></item>
-		<item>No 17<sup><small>°</small></sup></item>
-		<item>No 18<sup><small>°</small></sup></item>
-		<item>No 19<sup><small>°</small></sup></item>
-		<item>No 20<sup><small>°</small></sup></item>
-		<item>No 21<sup><small>°</small></sup></item>
-		<item>No 22<sup><small>°</small></sup></item>
-		<item>No 23<sup><small>°</small></sup></item>
-		<item>No 24<sup><small>°</small></sup></item>
-		<item>No 25<sup><small>°</small></sup></item>
-		<item>No 26<sup><small>°</small></sup></item>
-		<item>No 27<sup><small>°</small></sup></item>
-		<item>No 28<sup><small>°</small></sup></item>
-		<item>No 29<sup><small>°</small></sup></item>
-		<item>No 30<sup><small>°</small></sup></item>
-		<item>No 31<sup><small>°</small></sup></item>
+		<item>No 1º</item>
+		<item>No 2º</item>
+		<item>No 3º</item>
+		<item>No 4º</item>
+		<item>No 5º</item>
+		<item>No 6º</item>
+		<item>No 7º</item>
+		<item>No 8º</item>
+		<item>No 9º</item>
+		<item>No 10º</item>
+		<item>No 11º</item>
+		<item>No 12º</item>
+		<item>No 13º</item>
+		<item>No 14º</item>
+		<item>No 15º</item>
+		<item>No 16º</item>
+		<item>No 17º</item>
+		<item>No 18º</item>
+		<item>No 19º</item>
+		<item>No 20º</item>
+		<item>No 21º</item>
+		<item>No 22º</item>
+		<item>No 23º</item>
+		<item>No 24º</item>
+		<item>No 25º</item>
+		<item>No 26º</item>
+		<item>No 27º</item>
+		<item>No 28º</item>
+		<item>No 29º</item>
+		<item>No 30º</item>
+		<item>No 31º</item>
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month_and_on_the">
-		<item>No 1<sup><small>°</small></sup> e no</item>
-		<item>No 2<sup><small>°</small></sup> e no</item>
-		<item>No 3<sup><small>°</small></sup> e no</item>
-		<item>No 4<sup><small>°</small></sup> e no</item>
-		<item>No 5<sup><small>°</small></sup> e no</item>
-		<item>No 6<sup><small>°</small></sup> e no</item>
-		<item>No 7<sup><small>°</small></sup> e no</item>
-		<item>No 8<sup><small>°</small></sup> e no</item>
-		<item>No 9<sup><small>°</small></sup> e no</item>
-		<item>No 10<sup><small>°</small></sup> e no</item>
-		<item>No 11<sup><small>°</small></sup> e no</item>
-		<item>No 12<sup><small>°</small></sup> e no</item>
-		<item>No 13<sup><small>°</small></sup> e no</item>
-		<item>No 14<sup><small>°</small></sup> e no</item>
-		<item>No 15<sup><small>°</small></sup> e no</item>
-		<item>No 16<sup><small>°</small></sup> e no</item>
-		<item>No 17<sup><small>°</small></sup> e no</item>
-		<item>No 18<sup><small>°</small></sup> e no</item>
-		<item>No 19<sup><small>°</small></sup> e no</item>
-		<item>No 20<sup><small>°</small></sup> e no</item>
-		<item>No 21<sup><small>°</small></sup> e no</item>
-		<item>No 22<sup><small>°</small></sup> e no</item>
-		<item>No 23<sup><small>°</small></sup> e no</item>
-		<item>No 24<sup><small>°</small></sup> e no</item>
-		<item>No 25<sup><small>°</small></sup> e no</item>
-		<item>No 26<sup><small>°</small></sup> e no</item>
-		<item>No 27<sup><small>°</small></sup> e no</item>
-		<item>No 28<sup><small>°</small></sup> e no</item>
-		<item>No 29<sup><small>°</small></sup> e no</item>
-		<item>No 30<sup><small>°</small></sup> e no</item>
-		<item>No 31<sup><small>°</small></sup> e no</item>
+		<item>No 1º e no</item>
+		<item>No 2º e no</item>
+		<item>No 3º e no</item>
+		<item>No 4º e no</item>
+		<item>No 5º e no</item>
+		<item>No 6º e no</item>
+		<item>No 7º e no</item>
+		<item>No 8º e no</item>
+		<item>No 9º e no</item>
+		<item>No 10º e no</item>
+		<item>No 11º e no</item>
+		<item>No 12º e no</item>
+		<item>No 13º e no</item>
+		<item>No 14º e no</item>
+		<item>No 15º e no</item>
+		<item>No 16º e no</item>
+		<item>No 17º e no</item>
+		<item>No 18º e no</item>
+		<item>No 19º e no</item>
+		<item>No 20º e no</item>
+		<item>No 21º e no</item>
+		<item>No 22º e no</item>
+		<item>No 23º e no</item>
+		<item>No 24º e no</item>
+		<item>No 25º e no</item>
+		<item>No 26º e no</item>
+		<item>No 27º e no</item>
+		<item>No 28º e no</item>
+		<item>No 29º e no</item>
+		<item>No 30º e no</item>
+		<item>No 31º e no</item>
 	</string-array>
 	<string name="on_the_last_day_of_the_month">No último dia do mês</string>
 	<string-array name="on_the_nth_day_of_the_week_format">

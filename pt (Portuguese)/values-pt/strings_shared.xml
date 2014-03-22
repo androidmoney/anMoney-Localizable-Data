@@ -85,7 +85,7 @@
     <string name="name_exists">Nome já existente</string>
     <string name="amount">Valor</string>
     <string name="start_date">Data início</string>
-    <string name="end_date">Data  final</string>
+    <string name="end_date">Data final</string>
     <string name="must_be_less_than_format">Deve ser &lt; ^1</string>
     <string name="must_be_greater_than_format">Deve ser &gt; ^1</string>
     <string name="reset">Limpar</string>

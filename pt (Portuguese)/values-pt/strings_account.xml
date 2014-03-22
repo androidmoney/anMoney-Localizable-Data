@@ -253,7 +253,7 @@
     	<item>@string/not_exported_transaction2</item>
 	</string-array>
 
-    <string name="display_order">Display order</string>
+    <string name="display_order">Ordem de exibição</string>
     <string name="entry_date">Data entrada</string>
 	<string-array name="transaction_list_sort_order_title_bar">
 		<item>@string/date</item>

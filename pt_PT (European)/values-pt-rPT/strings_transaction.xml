@@ -1,65 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="transactions">Transações</string>
-    <string name="view_transactions">Ver transações</string>
-    <string name="new_transaction">Nova transação</string>
-    <string name="edit_transaction">Editar transação</string>
-    <string name="split_transaction">Dividir transação</string>
-    <string name="delete_transaction">Excluir transação</string>
-    <string name="accept_transaction">Aceitar transação</string>
-    <string name="select">Selecionar</string>
-    <string name="accept">Aceitar</string>
-    <string name="accepted">Aceitado</string>
-    <string name="accept_canceled">Aceitar cancelado</string>
-    <string name="accept_transaction_all"><b>Todas</b> as transações serão aceitas</string>
-    <string name="mark">Marcar</string>
-    <string name="marked">Marcado</string>
-    <string name="mark_canceled">Marcar cancelado</string>
-    <string name="mark_transaction">Marcar transação</string>
+    <string name="transactions">Transacções</string>
+    <string name="view_transactions">Ver transacções</string>
+    <string name="new_transaction">Nova transacção</string>
+    <string name="edit_transaction">Editar transacção</string>
+    <string name="split_transaction">Dividir transacção</string>
+    <string name="delete_transaction">Eliminar transacção</string>
+    <string name="accept_transaction">Aceitar transacção</string>
+    <string name="select">Seleccionar</string>
+    <string name="accepted">Aceite</string>
+    <string name="accept_transaction_all"><b>Todas</b> as transacções serão aceites</string>
+    <string name="mark_transaction">Marcar transacção</string>
 	<string-array name="mark_transactions_format_plurals">
         <item/> <!-- Intentionally left empty -->
-		<item>Marcar ^1 transações</item>
+		<item>Marcar ^1 transacções</item>
         <item/> <!-- Not used -->
 	</string-array>
-    <string name="mark_transactions_all">Marcar <b>todas</b> as transações</string>
-    <string name="unreconciled1">Não reconciliadas</string>
-
-    <string name="cleared1">Conferidas</string>
-
-    <string name="reconciled1">Reconciliadas</string>
-
-    <string name="_void_verb">Anular</string>
-    <string name="_void1">Anulada</string>
-	<string name="not_void1">Não anulada</string>
-    <string name="pending2">Pendente</string>
-	<string name="exported_transaction">Exportada</string>
-    <string name="not_exported_transaction1">Não exportada</string>
-
-    <string name="edit_notes">Editar notas</string>
-    <string name="notes_created">Notas criadas</string>
-    <string name="notes_edited">Notas editadas</string>
-    <string name="notes_deleted">Notas excluídas</string>
-    <string name="notes_creation_canceled">Criação de notas canceladas</string>
-    <string name="flag_for_follow_up">Sinalizar seguimento</string>
-    <string name="edit_follow_up">Editar seguimento</string>
-    <string name="make_recurring">Tornar recorrente</string>
-    <string name="follow_up2">Follow-up</string>
-    <string name="follow_up_by">Seguimento por</string>
-    <string name="follow_up_created">Seguimento criado</string>
-    <string name="follow_up_edited">Seguimento editado</string>
-    <string name="follow_up_deleted">Seguimento excluído</string>
-    <string name="follow_up_creation_canceled">Criação de seguimento cancelada</string>
-    <string name="go_to">Ir para</string>
-    <string name="number">Número</string>
-    <string name="transfer">Transferência</string>
-    <string name="transfers">Transferências</string>
-    <string name="transfer_account">Conta de transferência</string>
-    <string name="show_transfers">Mostrar transferências</string>
-    <string name="add">Registrar</string>
-    <string name="added">Registrado</string>
-    <string name="add_canceled">Registro cancelada</string>
-    <string name="accept_and_edit">Aceitar &amp; Editar</string>
-    <string name="add_and_close">Registrar &amp; Fechar</string>
+    <string name="mark_transactions_all">Marcar <b>todas</b> as transacções</string>
+    <string name="notes_deleted">Notas eliminadas</string>
+    <string name="flag_for_follow_up">Sinalizar acompanhamento</string>
+    <string name="edit_follow_up">Editar acompanhamento</string>
+    <string name="follow_up2">Acompanhar</string>
+    <string name="follow_up_by">Acompanhar através</string>
+    <string name="follow_up_created">Acompanhamento criado</string>
+    <string name="follow_up_edited">Acompanhamento editado</string>
+    <string name="follow_up_deleted">Acompanhamento excluído</string>
+    <string name="follow_up_creation_canceled">Criação de acompanhamento cancelada</string>
+    <string name="add">Registar</string>
+    <string name="added">Registado</string>
+    <string name="add_canceled">Registo cancelado</string>
+    <string name="accept_and_edit">Aceitar e editar</string>
+    <string name="add_and_close">Registar e fechar</string>
     <string name="duplicate_copy_move">Duplicar, copiar ou mover</string>
 
     <string name="duplicate_transaction">Duplicar transação</string>

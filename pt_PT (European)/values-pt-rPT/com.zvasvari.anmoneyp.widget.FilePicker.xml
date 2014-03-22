@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="FilePicker_open_folder">Abrir a pasta</string>
-	<string name="FilePicker_select_file">Marcar o arquivo</string>
-	<string name="FilePicker_deselect_file">Desmarcar o arquivo</string>
-	<string name="FilePicker_delete_file">Excluir o arquivo</string>
-	<string name="FilePicker_go_to_parent_folder">Ir para a pasta superior</string>
+	<string name="FilePicker_open_folder">Abrir pasta</string>
+	<string name="FilePicker_select_file">Seleccionar ficheiro</string>
+	<string name="FilePicker_deselect_file">Desmarcar ficheiro</string>
+	<string name="FilePicker_delete_file">Eliminar ficheiro</string>
 </resources>

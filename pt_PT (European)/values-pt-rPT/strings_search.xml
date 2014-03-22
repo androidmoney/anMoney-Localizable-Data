@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="search">Pesquisar</string>
-    <string name="search_transactions">Pesquisar transações</string>
-<!-- New --> <string name="search_payees">Pesquisar beneficiários</string>
-    <string name="no_matching_transactions">Nenhuma transação encontrada</string>
+    <string name="search_transactions">Pesquisar transacções</string>
+    <string name="no_matching_transactions">Não foi encontrada nenhuma transacção</string>
 </resources>

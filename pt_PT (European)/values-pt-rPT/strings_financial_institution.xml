@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="financial_institution">Instituição financeira</string>
-    <string name="financial_institutions">Instituições financeiras</string>
-    <string name="financial_institution_bank_first">Instituição financeira com contas bancárias primeiro</string>
-    <string name="financial_institution_cash_first">Instituição financeira com dinheiro primeiro</string>
-    <string name="view_financial_institution">Ver instituição financeira</string>
-    <string name="edit_financial_institution">Editar instituição financeira</string>
-    <string name="call_financial_institution">Chamar instituição financeira</string>
-    <string name="new_financial_institution">Nova instituição financeira</string>
-    <string name="delete_financial_institution">Excluir instituição financeira</string>
-    <string name="delete_financial_institution_warning_format">Instituição financeira ^1 será excluída de forma permanente e removida de todas as contas</string>
-    <string name="add_financial_institution_as_a_contact">Adicionar inst. fin. como contato</string>
-    <string name="financial_institution_exists">Uma instituição financeira com este nome já existe</string>
-    <string name="no_financial_institutions">Você não tem nenhum instituição financeira</string>
-    <string name="financial_institution_name">Nome da instituiçãoo financeira</string>
-    <string name="contact_exists">Um contato com este nome já existe</string>
-    <string name="link_financial_institution">Você quer relacionar esta instituição financeira ao contato existente</string>    
-    <string name="no_financial_institutions_yet">Nenhuma instituição financeira ainda</string>
+    <string name="call_financial_institution">Ligar a instituição financeira</string>
+    <string name="delete_financial_institution">Eliminar instituição financeira</string>
+    <string name="delete_financial_institution_warning_format">A instituição financeira ^1 será eliminada de forma permanente e removida de todas as contas</string>
+    <string name="add_financial_institution_as_a_contact">Adicionar instituição financeira como contacto</string>
+    <string name="financial_institution_exists">Já existe uma instituição financeira com esse nome</string>
+    <string name="no_financial_institutions">Você não tem nenhuma instituição financeira</string>
+    <string name="financial_institution_name">Nome da instituição financeira</string>
+    <string name="contact_exists">Já existe um contacto com esse nome</string>
+    <string name="link_financial_institution">Você deseja relacionar esta instituição financeira a um contacto existente</string>    
+    <string name="no_financial_institutions_yet">Ainda não possui nenhuma instituição financeira</string>
 </resources>

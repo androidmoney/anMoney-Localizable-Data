@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="budget">Orçamento</string>
-    <string name="edit_budget_item">Editar item do orçamento</string>
-    <string name="new_budget_item">Novo item de orçamento</string>
-    <string name="over_budget">Acima do orçamento</string>
-    <string name="expenses_over_budget">Despesas acima do orçamento</string>
-    <string name="within_budget">Dentro do orçamento</string>
-    <string name="expenses_within_budget">Despesas dentro do orçamento</string>
-    <string name="budgeted_amount">Orçado</string>
-    <string name="actual_amount">Gastos</string>
-    <string name="remainder_amount">Restante</string>
-	<string name="budget_vs_actual">Orçamento x Gastos</string>
-	<string name="budget_over_time">Orçamento ao longo do tempo</string>
-	<string name="recurring_bill_or_deposit_from">Conta ou depósito recorrente de</string>
-    <string name="an_additional_amount_for_this_category">Um valor adicional para esta categoria</string>
-    <string name="an_additional_amount_for_this_class">Um valor adicional para esta classe</string>
-    <string name="the_additional_amount_for_this_category">O valor adicional para esta categoria</string>
-    <string name="the_additional_amount_for_this_class">O valor adicional para esta classe</string>
-    <string name="currently_daily_format">atualmente ^1 diário</string>
-    <string name="currently_weekly_format">atualmente ^1 semanal</string>
+    <string name="over_budget">Orçamento ultrapassado</string>
+    <string name="currently_daily_format">actualmente ^1 diário</string>
+    <string name="currently_weekly_format">actualmente ^1 semanal</string>
 
-	<string name="currently_monthly_format">atualmente ^1 mensal</string>
-	<string name="currently_quarterly_format">atualmente ^1 triemestral</string>
-	<string name="currently_half_yearly_format">atualmente ^1 semestral</string>
-    <string name="currently_yearly_format">atualmente ^1 anual</string>
-    <string name="currently_custom_format">atualmente uma agenda personalizada totalizando ^1 anuais</string>
-    <string name="budget_no_categories_yet">Por favor crie categorias antes de organizar o orçamento</string>
-    <string name="budget_no_accounts_yet">Por favor crie contas antes de organizar o orçamento</string>
-    <string name="select_budget_period">Selecione o período do orçamento para visualizar</string>
-    <string name="all_others">Todos os outros</string>
-    <string name="all_other_spending">Todos os outros gastos</string>
-    <string name="special_item">Item especial</string>
-    <string name="no_budget_items">Você não tem nenhum item de orçamento</string>
-    <string name="customized_schedule">Agenda personalizada</string>
-	<string name="include_budget_items">Incluir itens do orçamento</string>
+	<string name="currently_monthly_format">actualmente ^1 mensal</string>
+	<string name="currently_quarterly_format">actualmente ^1 trimestral</string>
+	<string name="currently_half_yearly_format">actualmente ^1 semestral</string>
+    <string name="currently_yearly_format">actualmente ^1 anual</string>
+    <string name="currently_custom_format">actualmente uma agenda personalizada totalizando ^1 anuais</string>
+    <string name="select_budget_period">Seleccione o período do orçamento a visualizar</string>
 </resources>

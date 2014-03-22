@@ -1,279 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="estimated_indicator">~</string>
-    <string name="recurring_bills_and_deposits">Contas &amp; depósitos recorrentes</string>
+    <string name="recurring_bills_and_deposits">Contas e depósitos recorrentes</string>
 
-    <string name="recurring_bills_and_deposits_by_direction_order_format">Recorrentes por ^2 em ordem ^1</string>	
-	<string name="new_recurring">Nova recorrência</string>
-	<string name="enter">Registrar</string>
-	<string name="entered">Registrado</string>
-	<string name="enter_canceled">Registro cancelado</string>
-	<string name="enter_into_register">Registrar</string>
-	<string name="enter_into_register_warning">Por favor confirme que você quer registrar isto agora</string>
-	<string name="enter_now">Registrar agora</string>
-	<string name="enter_after_editing">Registrar após editar</string>
-	<string name="enter_partially_after_editing">Registrar parcialmente após editar</string>
-	<string name="move_to_next_occurrence">Mova para a próxima ocorrência</string>
-	<string name="remain_on_this_occurrence_format">Esta ocorrência permanece, se o valor registrado for menor que ^1</string>
-	<string name="edit_recurring">Alterar recorrência</string>
-	<string name="edit_occurrence">Alterar ocorrência</string>
-	<string name="entire_series">Série inteira</string>
-	<string name="edit_template_warning">Existe ocorrências futuras personalizadas.\n\nEditar a série eliminará estas personalizações</string>
-	<string name="delete_recurring">Excluir recorrência</string>
-	<string name="delete_question_format">Excluir ^1</string>
-	<string name="all_future_occurrences_will_be_deleted">Todas as futuras ocorrências serão eliminadas</string>
-	<string name="change_recurring_amount_format">Alterar o valor recorrente de ^1 para ^2</string>
-	<string name="skip">Ignorar</string>
-	<string name="skip_occurrence">Ignorar ocorrência</string>
-	<string name="skipped">Ignorado</string>
-	<string-array name="skipped_occurrences_format_plurals">
-		<item/> <!-- Not used -->
-		<item>^1 ocorrências ignoradas</item>
-        <item/> <!-- Not used -->
-	</string-array>
-	<string name="skip_canceled">Ignorar cancelado</string>
-	<string name="skip_which">Ignorar o quê</string>
-	<string name="skip_one_occurrence_warning">Ignorar a próxima ocorrência</string>
-	<string name="no_recurrings_format">Você não tem nenhuma conta ou depósito recorrente.\n\nPara criar uma:\n\n<li>^1</li>\n\n<li>Toque longo em qualquer transação e toque ^2</li></string>
-    <string name="create_recurring_instructions_format">Toque ^i no topo da tela</string>
-	<string name="recurring_no_accounts_yet">Por favor crie contas e beneficiários antes de adicionar itens recorrentes</string>
-	<string name="specify_account">Por favor especifique a conta primeiro</string>
-	<string name="account_and_amount">Conta &amp; Valor</string>
-	<string name="payee_and_category">Beneficiário &amp; Categoria</string>
-	<string name="auto_enter">Entrada automática</string>
-	<string name="auto_enter_and_reminder">Entrada automática &amp; Alertas</string>
-	<string name="pay_by_check">Eu pago isto com cheque</string>
-	<string name="amount_is">Valor é</string>
-	<string name="fixed">Fixo</string>
-	<string name="estimated">Estimado</string>
-	<string name="estimated_amount_format">^1^2</string>
-	<string name="upcoming_upper">Próximas</string>
-	<string name="upcoming_lower">próximas</string>
-	<string name="no_upcoming">Sem contas ou depósitos chegando</string>
-	<string name="no_upcoming_bills">Sem contas chegando</string>
-	<string name="no_upcoming_deposits">Sem depósitos chegando</string>
-	<string name="enter_automatically">Registrar automaticamente</string>
-	<string name="notify_me">Notifique-me</string>
-	<string name="cannot_auto_enter">Devido a possíveis taxas de câmbio flutuantes, depósitos ou contas recorrentes que envolvam transferências entre contas com diferentes moedas não serão registradas automaticamente.\n\nVocê terá que registrar esta transação manualmente e especificar a taxa de câmbio corrente</string>
-	<string name="entered_recurring_bill">Conta recorrente registrada</string>
-	<string name="entered_recurring_deposit">Depósito recorrente registrado</string>
-	<string name="notify_me_when_entered">Notifique-me na barra de alertas quando registrar</string>
-	<string name="the_last_day_of_the_month">O último dia do mês</string>
-	<string name="include_in_budget">Incluir no orçamento</string>
-	<string name="include_recurrings">Incluir itens recorrentes</string>
-	<string name="make_recurring_budget_question_part1">Você gostaria de fazer dessa série parte do seu orçamento</string>
-	<string name="make_recurring_budget_question_part2_format">Mesmo se você escolher ^1, você pode fazer isto mais tarde editando a série</string>
-			
-	<!-- These three below form a sentence -->
-	<string name="based_part1">Baseado em</string>
-	<string name="based_part2_singular">ocorrência anterior</string>
-	<string-array name="based_part2_plurals">
-		<item/> <!-- Intentionally left empty -->
-		<item>^1 ocorrências anteriores</item>
-        <item/> <!-- Not used -->
-	</string-array>
-	<string-array name="based_part3_plurals">
-		<item/> <!-- Intentionally left empty -->
-		<item/> <!-- Intentionally left empty -->
-        <item/> <!-- Not used -->
-	</string-array>
-	<string name="upcoming_date">Próxima data</string>
-	<string name="series_start_date">Data inicial</string>
-	<string name="end_date_if_any">Incluindo a data final, se houver</string>
-	<string name="invalid_date">Data inválida</string>
-	<string name="repeat">Repetir</string>
-	<string name="every_1">Cada</string>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<string name="never">Nunca</string>
-	<string name="day_upper">Dia</string>
-	<string name="day_lower">dia</string>
-	<string name="days_upper">Dias</string>
-	<string name="daily">Diariamente</string>
-	<string name="week_upper">Semana</string>
-	<string name="weeks_upper">Semanas</string>
-	<string name="weekly">Semanalmente</string>
+	<string name="enter">Registar</string>
+	<string name="entered">Registado</string>
+	<string name="enter_canceled">Registo cancelado</string>
+	<string name="enter_into_register">Registar</string>
+	<string name="enter_into_register_warning">Por favor confirme que deseja registar isto agora</string>
+	<string name="enter_now">Registar agora</string>
+	<string name="enter_after_editing">Registar após editar</string>
+	<string name="enter_partially_after_editing">Registar parcialmente após editar</string>
+	<string name="move_to_next_occurrence">Mover para a próxima ocorrência</string>
+	<string name="remain_on_this_occurrence_format">Esta ocorrência permanecerá, se o valor registado for inferior a ^1</string>
+	<string name="edit_template_warning">Existem ocorrências futuras personalizadas.\n\nAo editar a série eliminará essas personalizações</string>
+	<string name="delete_recurring">Eliminar recorrência</string>
+	<string name="delete_question_format">Eliminar ^1</string>
+	<string name="all_future_occurrences_will_be_deleted">Todas as ocorrências futuras serão eliminadas</string>
+	<string name="skipped">Ignorada</string>
+	<string name="skip_which">O que ignorar</string>
+	<string name="no_recurrings_format">Você não tem nenhuma conta ou depósito recorrente.\n\nPara criar uma:\n\n<li>^1</li>\n\n<li>Faça um toque longo em qualquer transacção e toque ^2</li></string>
+    <string name="create_recurring_instructions_format">Toque ^i no topo do ecrã</string>
+	<string name="specify_account">Por favor especifique primeiro a conta</string>
+	<string name="account_and_amount">Conta e valor</string>
+	<string name="payee_and_category">Beneficiário e categoria</string>
+	<string name="auto_enter_and_reminder">Entrada automática e alertas</string>
+	<string name="pay_by_check">Eu pago isto por cheque</string>
+	<string name="amount_is">O valor é</string>
+	<string name="no_upcoming">Sem pagamentos ou depósitos próximos</string>
+	<string name="no_upcoming_bills">Sem pagamentos próximos</string>
+	<string name="no_upcoming_deposits">Sem depósitos próximos</string>
+	<string name="enter_automatically">Registar automaticamente</string>
+	<string name="cannot_auto_enter">Devido às taxas de câmbio flutuantes, os depósitos ou pagamentos recorrentes que envolvam transferências entre contas com diferentes moedas, não serão registadas automaticamente.\n\nVocê terá que registar essas transacções manualmente e especificar qual a taxa de câmbio corrente</string>
+	<string name="entered_recurring_bill">Conta recorrente registada</string>
+	<string name="entered_recurring_deposit">Depósito recorrente registado</string>
+	<string name="notify_me_when_entered">Notifique-me na barra de alertas quando registar</string>
+	<string name="make_recurring_budget_question_part1">Gostaria que essa série fizesse parte do seu orçamento</string>
+	<string name="make_recurring_budget_question_part2_format">Mesmo caso escolha ^1, você pode fazer isso mais tarde editando a série</string>
+	<string name="if_it_falls_on_a_weekend">Se a data coincidir com o fim de semana</string>
+	<string name="skip_weekends">Saltar fins de semana</string>
 
-	
-	<string name="month_upper">Mês</string>
-	<string name="month_lower">mês</string>
-	<string name="months_upper">Meses</string>
-	<string name="monthly">Mensalmente</string>
-	<string name="twice_a_month">Duas vezes por mês</string>
-	<string name="quarter_upper">Trimestre</string>
-	<string name="quarters_upper">Trimestres</string>
-	<string name="quarterly">Trimestralmente</string>
-	<string name="half_year">Semestre</string>
-	<string name="half_yearly">Semestralmente</string>
-	<string name="year_upper">Ano</string>
-	<string name="year_lower">ano</string>
-	<string name="years_upper">Anos</string>
-	<string name="yearly">Anualmente</string>
-	<string-array name="day_plurals">
-		<item>@string/day_lower</item>
-		<item>dias</item>
-        <item/> <!-- Not used -->
-	</string-array>
-	<string-array name="week_plurals">
-		<item>semana</item>
-		<item>semanas</item>
-        <item/> <!-- Not used -->
-	</string-array>
-	<string-array name="month_plurals">
-		<item>@string/month_lower</item>
-		<item>meses</item>
-        <item/> <!-- Not used -->
-	</string-array>
-	<string-array name="year_plurals">
-		<item>@string/year_lower</item>
-		<item>anos</item>
-        <item/> <!-- Not used -->
-	</string-array>
-	<string name="every_n_period_format">^1 ^2 ^3</string> <!-- ^1: Every ^2: number ^3: days/months/weeks/years -->
-	<string name="if_it_falls_on_a_weekend">Se a data cair no final de semana</string>
-	<string name="skip_weekends">Pular finais de semana</string>
-
-	<string name="overdue_count_format">^1/^2</string>
 	<string-array name="overdue_plurals">
-		<item>^1 vencida</item>
-		<item>^1 vencidas</item>
+		<item>^1 vencido</item>
+		<item>^1 vencidos</item>
         <item/> <!-- Not used -->
 	</string-array>
 	<string-array name="overdue_count_plurals">
-		<item>^1 conta ou depósito vencido</item>
-		<item>^1 contas ou depósitos vencidos</item>
+		<item>^1 pagamento ou depósito vencido</item>
+		<item>^1 pagamentos ou depósitos vencidos</item>
         <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="enter_into_register_fixed_amount_items">
 		<item>@string/enter_now</item>
-		<item>Alterar transação primeiro</item>
+		<item>Alterar primeiro a transacção</item>
 	</string-array>
-	<string name="use_todays_date_for_transaction_date">Use a data de hoje para a data da transação</string>
+	<string name="use_todays_date_for_transaction_date">Utilize a data de hoje como sendo a data da transacção</string>
 	<string-array name="enter_warning_format_plurals">
         <item/> <!-- Intentionally left empty -->
-		<item>^1 itens recorrentes selecionados serão registrados</item>
+		<item>Serão registados ^1 itens recorrentes seleccionados</item>
         <item/> <!-- Not used -->
-	</string-array>
-	
-	<string-array name="skip_which_items">
-		<item>Próxima ocorrência</item>
-		<item>Todas as ocorrências vencidas</item>
 	</string-array>
 
 	<string-array name="workday_adjustment_methods">
 		<item>Fazer nada</item>
-		<item>Mover para o dia de semana anterior</item>
-		<item>Move para o próximo dia de semana</item>
+		<item>Mover para um dia da semana anterior</item>
+		<item>Mover para um dia da próxima semana</item>
 	</string-array>
 
-	<string-array name="on_the_nth_day_of_the_month">
-		<item>No 1<sup><small>°</small></sup></item>
-		<item>No 2<sup><small>°</small></sup></item>
-		<item>No 3<sup><small>°</small></sup></item>
-		<item>No 4<sup><small>°</small></sup></item>
-		<item>No 5<sup><small>°</small></sup></item>
-		<item>No 6<sup><small>°</small></sup></item>
-		<item>No 7<sup><small>°</small></sup></item>
-		<item>No 8<sup><small>°</small></sup></item>
-		<item>No 9<sup><small>°</small></sup></item>
-		<item>No 10<sup><small>°</small></sup></item>
-		<item>No 11<sup><small>°</small></sup></item>
-		<item>No 12<sup><small>°</small></sup></item>
-		<item>No 13<sup><small>°</small></sup></item>
-		<item>No 14<sup><small>°</small></sup></item>
-		<item>No 15<sup><small>°</small></sup></item>
-		<item>No 16<sup><small>°</small></sup></item>
-		<item>No 17<sup><small>°</small></sup></item>
-		<item>No 18<sup><small>°</small></sup></item>
-		<item>No 19<sup><small>°</small></sup></item>
-		<item>No 20<sup><small>°</small></sup></item>
-		<item>No 21<sup><small>°</small></sup></item>
-		<item>No 22<sup><small>°</small></sup></item>
-		<item>No 23<sup><small>°</small></sup></item>
-		<item>No 24<sup><small>°</small></sup></item>
-		<item>No 25<sup><small>°</small></sup></item>
-		<item>No 26<sup><small>°</small></sup></item>
-		<item>No 27<sup><small>°</small></sup></item>
-		<item>No 28<sup><small>°</small></sup></item>
-		<item>No 29<sup><small>°</small></sup></item>
-		<item>No 30<sup><small>°</small></sup></item>
-		<item>No 31<sup><small>°</small></sup></item>
-	</string-array>
-
-	<string-array name="on_the_nth_day_of_the_month_and_on_the">
-		<item>No 1<sup><small>°</small></sup> e no</item>
-		<item>No 2<sup><small>°</small></sup> e no</item>
-		<item>No 3<sup><small>°</small></sup> e no</item>
-		<item>No 4<sup><small>°</small></sup> e no</item>
-		<item>No 5<sup><small>°</small></sup> e no</item>
-		<item>No 6<sup><small>°</small></sup> e no</item>
-		<item>No 7<sup><small>°</small></sup> e no</item>
-		<item>No 8<sup><small>°</small></sup> e no</item>
-		<item>No 9<sup><small>°</small></sup> e no</item>
-		<item>No 10<sup><small>°</small></sup> e no</item>
-		<item>No 11<sup><small>°</small></sup> e no</item>
-		<item>No 12<sup><small>°</small></sup> e no</item>
-		<item>No 13<sup><small>°</small></sup> e no</item>
-		<item>No 14<sup><small>°</small></sup> e no</item>
-		<item>No 15<sup><small>°</small></sup> e no</item>
-		<item>No 16<sup><small>°</small></sup> e no</item>
-		<item>No 17<sup><small>°</small></sup> e no</item>
-		<item>No 18<sup><small>°</small></sup> e no</item>
-		<item>No 19<sup><small>°</small></sup> e no</item>
-		<item>No 20<sup><small>°</small></sup> e no</item>
-		<item>No 21<sup><small>°</small></sup> e no</item>
-		<item>No 22<sup><small>°</small></sup> e no</item>
-		<item>No 23<sup><small>°</small></sup> e no</item>
-		<item>No 24<sup><small>°</small></sup> e no</item>
-		<item>No 25<sup><small>°</small></sup> e no</item>
-		<item>No 26<sup><small>°</small></sup> e no</item>
-		<item>No 27<sup><small>°</small></sup> e no</item>
-		<item>No 28<sup><small>°</small></sup> e no</item>
-		<item>No 29<sup><small>°</small></sup> e no</item>
-		<item>No 30<sup><small>°</small></sup> e no</item>
-		<item>No 31<sup><small>°</small></sup> e no</item>
-	</string-array>
-	<string name="on_the_last_day_of_the_month">No último dia do mês</string>
-	<string-array name="on_the_nth_day_of_the_week_format">
-		<item>Na primeira ^1</item>
-		<item>Na segunda ^1</item>
-		<item>Na terceira ^1</item>
-		<item>Na quarta ^1</item>
-	</string-array>
-
+	<string name="fiscal_year">Ano fiscal</string>
 	
-	
-	
-	
-	
-	
-	
-	
-	<string name="on_the_last_day_of_the_week_format">Na última ^1</string>
-
-	<string name="work_week">Semana de trabalho</string>
-	<string name="period_end_day_of_the_month">Período final do mês</string>
-	<string name="fiscal_year">Exercício fiscal</string>
-	
-	<string name="time_of_reminder">Hora dos alertas</string>
-	<string name="reminder_hour_of_day_change_warning">Por favor note que os alertas existentes, se houver, <b>não</b> serão alterados. Para fazer isto, acesse o calendário de seu dispositivo e edite os alertas lá.\n\nO novo tempo será usado para qualquer novo alerta assim como alertas de contas e depósitos recorrentes</string>
+	<string name="reminder_hour_of_day_change_warning">Tenha em atenção que os alertas existentes(caso existam), <b>não</b> serão alterados. Para os alterar, aceda ao calendário do seu dispositivo e edite lá esses alertas.\n\nO novo horário será utilizado para qualquer novo alerta incluindo alertas de contas e depósitos recorrentes</string>
 
 	<string-array name="auto_enter_days_before">
-		<item>Não registrar automaticamente</item>
+		<item>Não registar automaticamente</item>
 		<item>Na data de vencimento</item>
 		<item>Um dia antes do vencimento</item>
 		<item>Dois dias antes do vencimento</item>
@@ -284,17 +83,5 @@
 		<item>Um mês antes do vencimento</item>
 	</string-array>	
 
-	<string-array name="days_before_plurals">
-		<item/> <!-- Intenionally left empty -->
-		<item>^1 dias antes</item>
-        <item/> <!-- Not used -->
-	</string-array>
-	
-	<string-array name="days_before_due_date_plurals">
-		<item/> <!-- Intenionally left empty -->
-		<item>^1 dias antes do vencimento</item>
-        <item/> <!-- Not used -->
-	</string-array>
-
-	<string name="specify_custom_number_of_days">Especifique um número personalizado de dias</string>
+	<string name="specify_custom_number_of_days">Especifique o número personalizado de dias</string>
 </resources>
