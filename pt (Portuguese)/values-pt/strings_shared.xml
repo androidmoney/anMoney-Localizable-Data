@@ -128,7 +128,7 @@
 		<item/> <!-- Not used -->
 	</string-array>
     <string name="specify_options">Especifique as opções</string>
-	<string name="expand_all">Expandir todos</string>
+	<string name="expand_all">Expandir todas</string>
 	<string name="all_expanded">Todas expandidas</string>
 	<string name="collapse_all">Recolher todas</string>
 	<string name="all_collapsed">Todas recolhidas</string>
