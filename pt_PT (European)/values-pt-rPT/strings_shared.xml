@@ -4,9 +4,9 @@
     <string name="display_options">Opções de ecrã</string>
     <string name="add_favorite">Adicionar aos favoritos</string>
     <string name="added_to_favorites">Adicionado aos favoritos</string>
-    <string name="remove">Eliminar</string>
-    <string name="remove_favorite">Eliminar dos favoritos</string>
-    <string name="removed_from_favorites">Eliminado dos favoritos</string>
+    <string name="remove">Remover</string>
+    <string name="remove_favorite">Remover dos favoritos</string>
+    <string name="removed_from_favorites">Removido dos favoritos</string>
     <string name="save">Guardar</string>
     <string name="saved">Guardado</string>
     <string name="save_canceled">Guardar cancelado</string>
