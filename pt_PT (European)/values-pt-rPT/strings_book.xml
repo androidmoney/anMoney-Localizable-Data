@@ -46,7 +46,7 @@
     <string name="case_sensitive">Sensível a maiúsculas</string>
     <string name="password_disclaimer">Por favor leia este aviso e sinalize-o no final.\n\nTenha atenção que a senha foi implementada como sendo uma forma de fornecer privacidade contra “olhos curiosos”.  Devido à limitação da plataforma, a actual encriptação dos dados não é confiável e alguém com conhecimentos avançados conseguirá aceder aos seus dados mesmo com a senha presente.\n\nÉ altamente recomendável que você proteja o seu dispositivo com um bloqueio Padrão ou PIN para uma segurança adicional</string>
     <string name="i_understand_the_limitations">Eu entendo e aceito estas limitações</string>
-    <string name="set_password_now_part1">Definira agora uma senha</string>
+    <string name="set_password_now_part1">Definir agora uma senha</string>
 	<string name="set_password_now_part2_format">Mesmo que responda ^1, você terá a opção de fazer isto a qualquer momento dando um toque longo no nome do livro e tocando ^2 no menu existente no topo do ecrã</string>
     <string name="folder_name_format">Nome da pasta (utilize ^1 para as sub-pastas)</string>
     <string name="no_backup_files">Não foi encontrado nenhum arquivo de backup</string>

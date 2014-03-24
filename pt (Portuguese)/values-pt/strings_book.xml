@@ -17,7 +17,7 @@
     <string name="backup">Backup</string>
     <string name="backup_canceled">Backup cancelado</string>
     <string name="backup_book">Backup de livro</string>
-    <string name="overwrite">Substituído</string>
+    <string name="overwrite">Substituir</string>
     <string name="backup_name">Nome do backup</string>
     <string name="auto_backup_name_format">^1 (^2 Auto)</string>
     <string name="restore">Restaurar</string>
