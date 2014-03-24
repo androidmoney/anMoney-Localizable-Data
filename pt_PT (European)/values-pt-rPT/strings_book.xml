@@ -92,6 +92,7 @@
     </string-array>
 
     <string name="qif_ms_money_description">Dependendo das classificações e categorias que você utiliza, poderá ser lido somente pelo Microsoft Money</string>
+		<string name="qif_generic_description">Poderá ser lido por todas as aplicações que suportem o formato <b>QIF</b></string>
 	<string name="csv_description">Lido por tabelas, tais como o Microsoft® Excel ou o Google™ Docs. A primeira linha exportada contêm o cabeçalho, seguida por uma linha para cada transacção</string>
 
     <string name="import_file_confirm_format">Deseja importar ^1</string>
