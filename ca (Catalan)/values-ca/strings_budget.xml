@@ -10,7 +10,7 @@
 	<string name="budgeted_amount">Pressupostat</string>
 	<string name="actual_amount">Reial</string>
 	<string name="remainder_amount">Resta</string>
-	<string name="budget_vs_actual">Pressupost vs. Reial</string> <!-- This is a report name -->
+	<string name="budget_vs_actual">Pressupost vs. reial</string> <!-- This is a report name -->
 	<string name="budget_over_time">Pressupost a través del temps</string> <!-- This is a report name -->
 	<string name="recurring_bill_or_deposit_from">Factura o dipòsit recurrent des de</string>
 	<string name="an_additional_amount_for_this_category">Una quantitat addicional per a aquesta categoria</string>

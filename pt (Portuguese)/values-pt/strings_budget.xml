@@ -10,7 +10,7 @@
     <string name="budgeted_amount">Orçado</string>
     <string name="actual_amount">Gastos</string>
     <string name="remainder_amount">Restante</string>
-	<string name="budget_vs_actual">Orçamento x Gastos</string>
+	<string name="budget_vs_actual">Orçamento x gastos</string>
 	<string name="budget_over_time">Orçamento ao longo do tempo</string>
 	<string name="recurring_bill_or_deposit_from">Conta ou depósito recorrente de</string>
     <string name="an_additional_amount_for_this_category">Um valor adicional para esta categoria</string>

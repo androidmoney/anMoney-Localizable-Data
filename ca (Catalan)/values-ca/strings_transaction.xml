@@ -110,9 +110,9 @@
 	<string name="no_charges">Cap càrrec</string>
 	<string name="payments">Pagaments</string>
 	<string name="no_payments">Cap pagament</string>
-	<string name="checks_payments">Xecs i Pagaments</string>
+	<string name="checks_payments">Xecs i pagaments</string>
 	<string name="no_checks_payments">Cap xec o pagament</string>
-	<string name="deposits_payments">Dipòsits i Pagaments</string>
+	<string name="deposits_payments">Dipòsits i pagaments</string>
 	<string name="no_deposits_payments">Cap dipòsit o pagament</string>
 	<string name="no_unreconciled_transactions">Cap transacció sense conciliar</string>
 	<string name="cleared_all_transactions">Totes les transaccions autoritzades</string>

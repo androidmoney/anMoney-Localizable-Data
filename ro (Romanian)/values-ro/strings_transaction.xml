@@ -109,9 +109,9 @@
     <string name="no_charges">Fără costuri</string>
     <string name="payments">Plăţi</string>
     <string name="no_payments">Fără plăţi</string>
-    <string name="checks_payments">Cecuri &amp; Plăţi</string>
+    <string name="checks_payments">Cecuri &amp; plăţi</string>
     <string name="no_checks_payments">Fără cecuri sau plăţi</string>
-    <string name="deposits_payments">Depozite &amp; Plăţi</string>
+    <string name="deposits_payments">Depozite &amp; plăţi</string>
     <string name="no_deposits_payments">Fără depozite sau plăţi</string>
     <string name="no_unreconciled_transactions">Fără tranzacţii nereconciliate</string>
     <string name="cleared_all_transactions">Toate tranzacţiile au fost soldate</string>

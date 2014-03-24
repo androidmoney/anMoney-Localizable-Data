@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="symbol_required">Símbolo (obrigatório)</string>
+    <string name="exchange_rate_required">Taxa de câmbio (obrigatório)</string>
     <string name="tap_to_modify_converted_amounts">Toque para alterar os totais convertidos</string>
 	<string name="save_exchange_rate">Guardar taxa de câmbio</string>
     <string name="used_currencies">Moedas utilizadas</string>

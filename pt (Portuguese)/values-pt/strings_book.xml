@@ -225,8 +225,8 @@
     
     <string name="security">Segurança</string>
     
-    <string name="quick_entry_password">Senha de entrada rápida</string>
-    <string name="quick_entry_password_description">Se selecionado, o widget de entrada rápida pedirá uma senha, se houver</string>
+    <string name="quick_entry_password">Senha de Entrada Rápida</string>
+    <string name="quick_entry_password_description">Se selecionado, o widget de Entrada Rápida pedirá uma senha, se houver</string>
     
     <string name="backup_folder">Pasta de backup</string>
     

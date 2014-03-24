@@ -29,12 +29,12 @@
     <string name="add_as_a_contact">Adicionar como contacto</string>
     <string name="send_email">Enviar e-mail</string>
 	<string name="rate_app_format">Avaliar ^1</string>
-	<string name="please_rate_app_format">Por favor disponibilize algum tempo\npara avaliar ^1</string>
+	<string name="please_rate_app_format">Por favor disponibilize algum tempo\npara avaliar o ^1</string>
 	<string name="later_rate_description">Será relembrado aproximadamente dentro de uma semana</string>
 	<string name="no_rate_description_format">Poderá fazer isto a qualquer momento a partir do ^1 ecrã</string>
 	<string name="task_killer_warning_format">Aviso da aplicação “eliminar tarefas”:\n\nO seu aparelho irá “despertar” uma vez por dia para executar um processo automático. Uma vez que este processamento dura só alguns segundos, não terá um efeito negativo na vida útil da bateria do seu dispositivo.\n\nO eliminar tarefas poderá e irá prevenir que esse processo em segundo plano se execute correctamente e assim não deveria ser utilizado com ^1</string>
 	<string name="unexpected_error_warning">Ocorreu um erro inesperado, forçando o encerramento do anMoney.\n\nPor favor, ajude-nos a corrigir isto enviando-nos um relatório do erro. Você terá a oportunidade de editar o e-mail antes de o enviar.\n\nObrigado pela sua colaboração.</string>
-    <string name="unexpected_error_notification_title">o anMoney parou</string>
+    <string name="unexpected_error_notification_title">O anMoney parou</string>
     <string name="unexpected_error_comment">Se assim o desejar, por favor descreva o que estava a fazer quando ocorreu o erro</string>
 	<string name="archiving_settings">Definições de backup</string>
     <string name="postal_address_hint">Rua\nBairro\nCP</string>
@@ -49,7 +49,7 @@
 	<li>Sem relatórios personalizados</li>\n
 	<li>Só importa ficheiros em formato QIF</li>\n
 	<li>Sem integração com os contactos</li>\n
-	<li>No máximo 2 contas de banco, 1 conta de crédito e 1 conta dinheiro</li>\n
+	<li>No máximo 2 contas bancárias, 1 conta de crédito e 1 conta dinheiro</li>\n
 	<li>No máximo 5 itens no orçamento</li>\n
 	<li>No máximo 3 contas recorrentes ou depósitos</li> 
 	</string>

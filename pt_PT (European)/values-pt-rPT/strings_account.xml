@@ -11,11 +11,10 @@
     <string name="service_charge_category">Categoria da taxa de serviço</string>
     <string name="service_charge_notes_format">Taxa de serviço, período termina em ^1</string>
     <string name="interest_earned_notes_format">Juros obtidos período termina em ^1</string>
-    <string name="interest_paid_amount">Valor dos juros pagos</string>
-    <string name="interest_paid_category">Categoria de juros pagos</string>
     <string name="interest_paid_notes_format">Juros pagos período termina em ^1</string>
 	<string name="clear_all_transactions">Apurar todas as transacções</string>
 	<string name="clear_all_transactions_on_all_pages">Apurar todas as transacções em todas as páginas</string>
+    <string name="delete_account">Eliminar conta</string>
 	<string name="delete_account_warning_part1_format">A conta ^1 será eliminada de forma permanente.\n\Se esta conta estiver a sendo utilizada em transacções, todas as transacções relacionadas serão eliminadas também</string>
 	<string name="delete_account_warning_part2_format">Para ocultar a conta, mas guardar o histórico de transacções, toque em ^1 e feche a conta</string>
 	<string name="no_accounts">Você não possui nenhuma conta</string>
@@ -24,12 +23,12 @@
     <string name="abbreviation">Abreviatura</string>
     <string name="vehicle_identification_number">Número de identificação do veículo (VIN)</string>
     <string name="vin">VIN</string>
+    <string name="warranty_information">Informações da garantia</string>
     <string name="type_details_about_warranty_information">Registe aqui os detalhes da garantia</string>
     <string name="closed">Fechada</string>
     <string name="reopened">Reaberta</string>
     <string name="must_be_in_future">Necessita de ser no futuro</string>
     <string name="must_be_in_past">Necessita de ser no passado</string>
-    <string name="invalid_year">Inválido</string>
     <string name="invalid_vin_number">Necessita de ter 17 letras e/ou dígitos</string>
     <string name="invalid_url">URL inválido</string>
     <string name="opening_balance_warning_message">Esta conta possui transacções reconciliadas.\n\nAo alterar o saldo inicial poderá causar divergências entre os seus dados e os da instituição financeira</string>
@@ -50,14 +49,14 @@
 
     <string name="no_accounts_yet">Ainda sem contas</string>
 
-	<string-array name="pending_count_plurals">
+   	<string-array name="pending_count_plurals">
         <item>^1 nova transacção</item>
         <item>^1 novas transacções</item>
         <item/> <!-- Not used -->
 	</string-array>
 
 	<string-array name="account_group_labels">
-		<item>Contas de banco</item>
+		<item>Contas bancárias</item>
 		<item>Contas de dinheiro</item>
 		<item>Contas de crédito</item>
 		<item>Contas de investimento</item>
@@ -67,10 +66,10 @@
 	</string-array>
 
 	<string-array name="total_for_account_group_labels">
-		<item>Total contas de banco</item>
-		<item>Total contas de dinheiro</item>
-		<item>Total contas de crédito</item>
-		<item>Total contas de investimento</item>
+		<item>Total das contas bancárias</item>
+		<item>Total das contas de dinheiro</item>
+		<item>Total das contas de crédito</item>
+		<item>Total das contas de investimento</item>
 		<!-- <item>Total for loans and liabilities</item> -->
 		<item>Total outros passivos</item>
 		<item>Total outros activos</item>
@@ -92,7 +91,7 @@
               
 	<string-array name="account_type_names">
 	    <item>Banco</item>
-		<item>Dinheiro / Outros</item>
+		<item>Dinheiro / outros</item>
 		<item>Cartão de débito / crédito</item>
 		<item>Linha de crédito</item>
 		<item>Empréstimo</item>

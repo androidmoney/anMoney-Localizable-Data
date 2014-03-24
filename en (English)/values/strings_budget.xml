@@ -10,7 +10,7 @@
 	<string name="budgeted_amount">Budgeted</string>
 	<string name="actual_amount">Actual</string>
 	<string name="remainder_amount">Remainder</string>
-	<string name="budget_vs_actual">Budget vs. Actual</string> <!-- This is a report name -->
+	<string name="budget_vs_actual">Budget vs. actual</string> <!-- This is a report name -->
 	<string name="budget_over_time">Budget over time</string> <!-- This is a report name -->
 	<string name="recurring_bill_or_deposit_from">Recurring bill or deposit from</string>
 	<string name="an_additional_amount_for_this_category">An additional amount for this category</string>

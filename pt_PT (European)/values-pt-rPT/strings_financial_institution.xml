@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="call_financial_institution">Ligar a instituição financeira</string>
+    <string name="call_financial_institution">Ligar à instituição financeira</string>
     <string name="delete_financial_institution">Eliminar instituição financeira</string>
     <string name="delete_financial_institution_warning_format">A instituição financeira ^1 será eliminada de forma permanente e removida de todas as contas</string>
-    <string name="add_financial_institution_as_a_contact">Adicionar instituição financeira como contacto</string>
+    <string name="add_financial_institution_as_a_contact">Adicionar inst. fin. como contacto</string>
     <string name="financial_institution_exists">Já existe uma instituição financeira com esse nome</string>
-    <string name="no_financial_institutions">Você não tem nenhuma instituição financeira</string>
+    <string name="no_financial_institutions">Você não possui nenhuma instituição financeira</string>
     <string name="financial_institution_name">Nome da instituição financeira</string>
     <string name="contact_exists">Já existe um contacto com esse nome</string>
     <string name="link_financial_institution">Você deseja relacionar esta instituição financeira a um contacto existente</string>    

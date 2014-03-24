@@ -10,7 +10,7 @@
     <string name="budgeted_amount">Terv</string>
     <string name="actual_amount">Tényleges</string>
     <string name="remainder_amount">Maradék</string>
-	<string name="budget_vs_actual">Terv kontra Tényleges</string>
+	<string name="budget_vs_actual">Terv kontra tényleges</string>
 	<string name="budget_over_time">Költségvetés idő alatt</string>
     <string name="recurring_bill_or_deposit_from">@string/recurring_bills_and_deposits</string>
     <string name="an_additional_amount_for_this_category">Egy további összeg ebben a kategóriában</string>

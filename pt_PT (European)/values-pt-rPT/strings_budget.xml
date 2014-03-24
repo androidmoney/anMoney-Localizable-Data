@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="over_budget">Orçamento ultrapassado</string>
+	<string name="budget_vs_actual">Orçamento vs gastos</string>
     <string name="currently_daily_format">actualmente ^1 diário</string>
     <string name="currently_weekly_format">actualmente ^1 semanal</string>
 
@@ -10,4 +11,5 @@
     <string name="currently_yearly_format">actualmente ^1 anual</string>
     <string name="currently_custom_format">actualmente uma agenda personalizada totalizando ^1 anuais</string>
     <string name="select_budget_period">Seleccione o período do orçamento a visualizar</string>
+    <string name="no_budget_items">Você não possui nenhum item de orçamento</string>
 </resources>

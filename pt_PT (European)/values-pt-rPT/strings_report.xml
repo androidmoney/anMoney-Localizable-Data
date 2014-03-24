@@ -3,15 +3,17 @@
 	<string name="share_report">Partilhar relatório</string>
 	<string name="report_settings">Definições do relatório</string>
 	<string name="report_empty">Não existem dados para mostrar</string>
-    <string name="report_settings_instructions_format">Para alterar as definições do relatório, toque ^i no topo do ecrã</string>
-	<string name="reset_report_settings">As definições serão redefinidas para seus valores padrão</string>
+    <string name="report_settings_instructions_format">Para alterar as definições do relatório, toque em ^i no topo do ecrã</string>
+	<string name="reset_report_settings">As definições serão redefinidas para os seus valores padrão</string>
 	<string name="settings_reset">Redefinir definições</string>
 	<string name="reset_canceled">Redefinição cancelada</string>
-	<string name="report_settings_tip_format">Para alterar as definições de um relatório:\n\n<li>Faça um toque longo no nome do relatório e toque ^1</li>\n\n<li>Toque no ícone no canto superior direito do ecrã enquanto o relatório é mostrado</li></string>
+	<string name="report_settings_tip_format">Para alterar as definições de um relatório:\n\n<li>Faça um toque longo no nome do relatório e toque em ^1</li>\n\n<li>Toque no ícone no canto superior direito do ecrã enquanto o relatório é mostrado</li></string>
+	<string name="save_report_as">Guardar relatório como</string>
 	<string name="delete_report">Eliminar relatório</string>
     <string name="delete_report_warning_format">o relatório ^1 será eliminado de forma permanente</string>
 	<string name="report_type">Tipo de relatório</string>
-	<string name="select_report">Seleccione o relatório</string>
+	<string name="group">Agrupar por</string>
+	<string name="select_report">Seleccionar relatório</string>
 
 	<string name="text_report">Relatório em texto</string>
 	<string name="pie_chart">Gráfico tipo queijo</string>
@@ -36,5 +38,5 @@
 		<item>Adequado para publicar na web ou para visualizar num browser</item>
 	</string-array>
 
-	<string name="specify_format_to_share_as">Especifique o formato a ser utilizado na partilha</string>
+	<string name="specify_format_to_share_as">Especifique qual o formato a ser utilizado na partilha</string>
 </resources>

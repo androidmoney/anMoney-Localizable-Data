@@ -10,7 +10,7 @@
     <string name="budgeted_amount">Stimato</string>
 	<string name="actual_amount">Reale</string>
     <string name="remainder_amount">Residuo</string>
-	<string name="budget_vs_actual">Stimato vs. Reale</string> <!-- This is a report name -->
+	<string name="budget_vs_actual">Stimato vs. reale</string> <!-- This is a report name -->
 	<string name="budget_over_time">Bilancio nel tempo</string>
     <string name="recurring_bill_or_deposit_from">Spese ricorrenti o depositi da</string>
     <string name="an_additional_amount_for_this_category">Un importo supplementare per questa categoria</string>

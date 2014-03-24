@@ -10,7 +10,7 @@
 	<string name="budgeted_amount">Presupuestado</string>
 	<string name="actual_amount">Actual</string>
 	<string name="remainder_amount">Restante</string>
-	<string name="budget_vs_actual">Presupuestado vs. Actual</string>
+	<string name="budget_vs_actual">Presupuestado vs. actual</string>
 	<string name="budget_over_time">Presupuesto a través del tiempo</string>
 	<string name="recurring_bill_or_deposit_from">Cargo o depósito recurrente desde</string>
 	<string name="an_additional_amount_for_this_category">Un importe adicional para esta categoría</string>

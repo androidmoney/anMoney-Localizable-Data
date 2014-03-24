@@ -10,7 +10,7 @@
 	<string name="budgeted_amount">Zbudżetowane</string>
 	<string name="actual_amount">Aktualne</string>
 	<string name="remainder_amount">Przypomnienie</string>
-	<string name="budget_vs_actual">Budżet vs. Aktualne</string> <!-- This is a report name -->
+	<string name="budget_vs_actual">Budżet vs. aktualne</string> <!-- This is a report name -->
 	<string name="budget_over_time">Budżet w czasie</string> <!-- This is a report name -->
 	<string name="recurring_bill_or_deposit_from">Powtarzający się rachunek lub wpłata z</string>
 	<string name="an_additional_amount_for_this_category">Dodatkowa kwota dla tej kategorii</string>

@@ -172,7 +172,7 @@
 	</record>
 	<record>
 		<region>México</region>
-		<name>Peso mexicano</name>
+		<name>Peso Mexicano</name>
 		<iso4217>MXN</iso4217>
 	</record>
 	<record>
@@ -212,7 +212,7 @@
 	</record>
 	<record>
 		<region>Noruega</region>
-		<name>Coroa norueguesa</name>
+		<name>Coroa Norueguesa</name>
 		<iso4217>NOK</iso4217>
 	</record>
 	<record>
@@ -312,7 +312,7 @@
 	</record>
 	<record>
 		<region>Estados Unidos</region>
-		<name>Dólar norte-americano</name>
+		<name>Dólar Norte-americano</name>
 		<iso4217>USD</iso4217>
 	</record>
 	<record>
@@ -418,7 +418,7 @@
 	</record>
 	<record>
 		<region>Paraguai</region>
-		<name>Guarani paraguaio</name>
+		<name>Guarani Paraguaio</name>
 		<iso4217>PYG</iso4217>
 	</record>
 	<record>
@@ -438,7 +438,7 @@
 	</record>
 	<record>
 		<region>Tunísia</region>
-		<name>Dinar Tunisiano</name>
+		<name>Dinar Tunisino</name>
 		<iso4217>TND</iso4217>
 	</record>
 	<record>

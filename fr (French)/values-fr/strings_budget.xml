@@ -10,7 +10,7 @@
     <string name="budgeted_amount">Budgetisé</string>
 	<string name="actual_amount">Réel</string>
     <string name="remainder_amount">Reste</string>
-	<string name="budget_vs_actual">Budget et Réel comparés</string>
+	<string name="budget_vs_actual">Budget et réel comparés</string>
 	<string name="budget_over_time">Budget au fil du temps</string>
 	<string name="recurring_bill_or_deposit_from">Paiement ou dépôt récurrent de</string>
 	<string name="an_additional_amount_for_this_category">Un montant supplémentaire pour cette catégorie</string>

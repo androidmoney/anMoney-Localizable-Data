@@ -16,7 +16,11 @@
     <string name="select_classification">Seleccionar classificação</string>
     <string name="enter_classification_name">Introduza o nome da classificação</string>
     <string name="enter_new_classification_name">Introduza o novo nome da classificação</string>
-    <string name="categories_and_classifications">Categorias e Classificações</string>
+    <string name="categories_and_classifications">Categorias e classificações</string>
+    <string name="no_categories">Você não possui nenhuma categoria</string>
+    <string name="no_categories_expense">Você não possui nenhuma categoria de despesas</string>
+    <string name="no_categories_income">Você não possui nenhuma categoria de receitas</string>
+    <string name="no_classes">Você não possui nenhuma classe</string>
     <string name="uncategorized_transactions">Transacções sem categoria</string>
     <string name="delete_category_no_subcategories_warning_format">A categoria ^1 será eliminada de forma permanente</string>
     <string name="delete_class_no_subclass_warning_format">A classe ^1 será eliminada de forma permanente</string>
@@ -26,8 +30,8 @@
     <string name="delete_subclass_warning_format">A sub-classe ^1 será eliminada de forma permanente</string>
     <string name="delete_classification_warning_format">A classificação ^1 será eliminada de forma permanente. Todas as transacções terão as suas classificações removidas</string>
     <string name="default_categories_add_confirmation">Deseja adicionar categorias padrão (não faça isto se já organizou as suas categorias)</string>
-    <string name="subcategory_name_lower">nome da sub-categoria</string>
-    <string name="subclass_name_lower">nome da sub-classe</string>
+    <string name="subcategory_name_lower">Nome da sub-categoria</string>
+    <string name="subclass_name_lower">Nome da sub-classe</string>
     <string name="without_subcategory">Sem sub-categoria</string>
     <string name="without_subclass">Sem sub-classe</string>
     <string name="cannot_be_zero">Não pode ser zero</string>
@@ -46,15 +50,10 @@
 	<string name="spending_by_category_over_time1">Gastos por categoria ou ^1 ao longo do tempo</string>
 	<string name="spending_by_category_over_time2">Gastos por categoria, ^1 ou ^2 ao longo do tempo</string>
 	<string name="assign_to_accounts">Atribuir a esta(s) conta(s) na Previsão</string> <!-- Forecasting should be the same word as in the Net Worth / Forecasting report's name -->
-    <string name="category_transaction_list_empty">Você não tem transacções para esta categoria</string>
+    <string name="category_transaction_list_empty">Você não tem nenhuma transacção para esta categoria</string>
 		
 	<string name="no_categories_yet">Ainda sem categorias</string>
     <string name="no_classes_yet">Ainda sem classes</string>
-	<string-array name="category_count_format_plurals">
-        <item/> <!-- Not used -->
-        <item>^1 categorias</item>
-        <item/> <!-- Not used -->
-	</string-array>
 	<string-array name="uncategorized_count_plurals">
         <item>^1 transacção sem categoria</item>
         <item>^1 transacções sem categoria</item>

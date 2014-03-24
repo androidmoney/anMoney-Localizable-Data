@@ -110,9 +110,9 @@
 	<string name="no_charges">Sin gastos</string>
 	<string name="payments">Pagos</string>
 	<string name="no_payments">Sin pagos</string>
-	<string name="checks_payments">Cheques &amp; Pagos</string>
+	<string name="checks_payments">Cheques &amp; pagos</string>
 	<string name="no_checks_payments">Sin cheques ni pagos</string>
-	<string name="deposits_payments">Depósitos &amp; Pagos</string>
+	<string name="deposits_payments">Depósitos &amp; pagos</string>
 	<string name="no_deposits_payments">Sin depósitos ni pagos</string>
 	<string name="no_unreconciled_transactions">Sin transacciones no conciliadas</string>
 	<string name="cleared_all_transactions">Todas las transacciones autorizadas</string>

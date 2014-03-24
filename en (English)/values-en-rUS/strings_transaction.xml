@@ -7,7 +7,7 @@
 	<string name="duplicate_number_message_format">A transaction dated ^1 is already using this check number.\n\nTap ^2 to reuse the check number, or ^3 to go back to editing the transaction</string>
 	<string name="checks">Checks</string>
 	<string name="no_checks">No checks</string>
-	<string name="checks_payments">Checks &amp; Payments</string>
+	<string name="checks_payments">Checks &amp; payments</string>
 	<string name="no_checks_payments">No checks or payments</string>
 	<string name="next_check_number">Next check number</string>
 	<string name="cleared_transactions_color">Cleared transactions color</string>

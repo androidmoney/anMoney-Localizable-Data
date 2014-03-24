@@ -110,7 +110,7 @@
     <string name="no_charges">Nincsenek költségek</string>
     <string name="payments">Kifizetések</string>
     <string name="no_payments">Nincsenek kifizetések</string>
-    <string name="checks_payments">Csekkek és Kifizetések</string>
+    <string name="checks_payments">Csekkek és kifizetések</string>
     <string name="no_checks_payments">Nincsenek csekkek vagy kifizetések</string>
     <string name="deposits_payments">Betétek és kifizetések</string>
     <string name="no_deposits_payments">Nincsenek betétek vagy kifizetések</string>

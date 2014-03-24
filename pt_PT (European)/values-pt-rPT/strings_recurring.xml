@@ -18,11 +18,11 @@
 	<string name="all_future_occurrences_will_be_deleted">Todas as ocorrências futuras serão eliminadas</string>
 	<string name="skipped">Ignorada</string>
 	<string name="skip_which">O que ignorar</string>
-	<string name="no_recurrings_format">Você não tem nenhuma conta ou depósito recorrente.\n\nPara criar uma:\n\n<li>^1</li>\n\n<li>Faça um toque longo em qualquer transacção e toque ^2</li></string>
-    <string name="create_recurring_instructions_format">Toque ^i no topo do ecrã</string>
+	<string name="no_recurrings_format">Você não tem nenhuma conta ou depósito recorrente.\n\nPara criar uma:\n\n<li>^1</li>\n\n<li>Faça um toque longo em qualquer transacção e toque em ^2</li></string>
+    <string name="create_recurring_instructions_format">Toque em ^i no topo do ecrã</string>
 	<string name="specify_account">Por favor especifique primeiro a conta</string>
-	<string name="account_and_amount">Conta e valor</string>
-	<string name="payee_and_category">Beneficiário e categoria</string>
+	<string name="account_and_amount">Conta e Valor</string>
+	<string name="payee_and_category">Beneficiário e Categoria</string>
 	<string name="auto_enter_and_reminder">Entrada automática e alertas</string>
 	<string name="pay_by_check">Eu pago isto por cheque</string>
 	<string name="amount_is">O valor é</string>
@@ -35,7 +35,25 @@
 	<string name="entered_recurring_deposit">Depósito recorrente registado</string>
 	<string name="notify_me_when_entered">Notifique-me na barra de alertas quando registar</string>
 	<string name="make_recurring_budget_question_part1">Gostaria que essa série fizesse parte do seu orçamento</string>
-	<string name="make_recurring_budget_question_part2_format">Mesmo caso escolha ^1, você pode fazer isso mais tarde editando a série</string>
+	<string name="make_recurring_budget_question_part2_format">Mesmo caso escolha ^1, você poderá fazer isto mais tarde editando a série</string>
+			
+	<string name="end_date_if_any">Incluir a data final (se houver)</string>
+	<string name="every_1">A cada</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<string name="if_it_falls_on_a_weekend">Se a data coincidir com o fim de semana</string>
 	<string name="skip_weekends">Saltar fins de semana</string>
 
@@ -69,7 +87,7 @@
 
 	<string name="fiscal_year">Ano fiscal</string>
 	
-	<string name="reminder_hour_of_day_change_warning">Tenha em atenção que os alertas existentes(caso existam), <b>não</b> serão alterados. Para os alterar, aceda ao calendário do seu dispositivo e edite lá esses alertas.\n\nO novo horário será utilizado para qualquer novo alerta incluindo alertas de contas e depósitos recorrentes</string>
+	<string name="reminder_hour_of_day_change_warning">Tenha em atenção que os alertas existentes (caso existam), <b>não</b> serão alterados. Para os alterar, aceda ao calendário do seu dispositivo e edite lá esses alertas.\n\nO novo horário será utilizado para qualquer novo alerta incluindo alertas de contas e depósitos recorrentes</string>
 
 	<string-array name="auto_enter_days_before">
 		<item>Não registar automaticamente</item>

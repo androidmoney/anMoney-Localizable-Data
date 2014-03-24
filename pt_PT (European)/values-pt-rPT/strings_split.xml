@@ -2,6 +2,7 @@
 <resources>
     <string name="delete_split">Eliminar divisão</string>
 	<string name="transaction_total">Total da transacção</string>
+    <string name="go_back_to_edit">Voltar atrás para editar as divisões</string>
     <string name="unassigned_split_message_format">A soma das divisões é ^1, enquanto o total da transacção é ^2. Isto deixa ^3 sem atribuição, o que não é recomendado</string>
     <string name="what_would_you_like_to_do">O que é que você gostaria de fazer</string>
     <string name="set_the_total_format">Actualizar o total para ^1</string>

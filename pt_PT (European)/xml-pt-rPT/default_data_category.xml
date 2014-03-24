@@ -104,7 +104,7 @@
 	</record>
 	<record>
 		<mainCategory>Moradia</mainCategory>
-		<subcategory>Aluguel</subcategory>
+		<subcategory>Aluguer</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -116,13 +116,13 @@
 	</record>
 	<record>
 		<mainCategory>Moradia</mainCategory>
-		<subcategory>Eletrodomésticos</subcategory>
+		<subcategory>Electrodomésticos</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Moradia</mainCategory>
-		<subcategory>Energia Elétrica</subcategory>
+		<subcategory>Energia Eléctrica</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -156,7 +156,7 @@
 	</record>
 	<record>
 		<mainCategory>Moradia</mainCategory>
-		<subcategory>Reforma &amp; Manutenção</subcategory>
+		<subcategory>Reforma e Manutenção</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -178,13 +178,13 @@
 	</record>
 	<record>
 		<mainCategory>Moradia</mainCategory>
-		<subcategory>Telefone Celular</subcategory>
+		<subcategory>Telemóvel</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Moradia</mainCategory>
-		<subcategory>Tv a Cabo</subcategory>
+		<subcategory>TvCabo</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -195,17 +195,17 @@
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Academia</subcategory>
+		<subcategory>Ginásio</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Balada</subcategory>
+		<subcategory>Concertos</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Brinquedo / Jogo</subcategory>
+		<subcategory>Brinquedos/Jogos</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -220,18 +220,18 @@
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Esporte</subcategory>
+		<subcategory>Desporto</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Evento</subcategory>
+		<subcategory>Eventos Vários</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Filme</subcategory>
+		<subcategory>Filmes</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -242,19 +242,19 @@
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Livro &amp; Revista</subcategory>
+		<subcategory>Livros e Revistas</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Passeio</subcategory>
+		<subcategory>Passeios</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Diversão</mainCategory>
-		<subcategory>Viagem</subcategory>
+		<subcategory>Viagens</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -270,7 +270,7 @@
 	</record>
 	<record>
 		<mainCategory>Educação</mainCategory>
-		<subcategory>Livro</subcategory>
+		<subcategory>Livros</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -293,7 +293,7 @@
 	</record>
 	<record>
 		<mainCategory>Educação</mainCategory>
-		<subcategory>Xerox</subcategory>
+		<subcategory>Fotocópias</subcategory>
 		<expense>1</expense>
 	</record>
 
@@ -304,7 +304,7 @@
 	</record>
 	<record>
 		<mainCategory>Empregados</mainCategory>
-		<subcategory>FGTS/INSS</subcategory>
+		<subcategory>Impostos</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -328,18 +328,18 @@
 	</record>
 	<record>
 		<mainCategory>Geral</mainCategory>
-		<subcategory>Documento</subcategory>
+		<subcategory>Documentos</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
 		<mainCategory>Geral</mainCategory>
-		<subcategory>Empréstimo</subcategory>
+		<subcategory>Empréstimos</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Geral</mainCategory>
-		<subcategory>Perda</subcategory>
+		<subcategory>Perdas</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -372,42 +372,42 @@
 	</record>
 	<record>
 		<mainCategory>Igreja</mainCategory>
-		<subcategory>Oferta</subcategory>
+		<subcategory>Ofertas</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 
 	<record>
-		<mainCategory>Petshop</mainCategory>
+		<mainCategory>Animais Estimação</mainCategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Petshop</mainCategory>
+		<mainCategory>Animais Estimação</mainCategory>
 		<subcategory>Acessórios</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Petshop</mainCategory>
+		<mainCategory>Animais Estimação</mainCategory>
 		<subcategory>Comida/Ração</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Petshop</mainCategory>
+		<mainCategory>Animais Estimação</mainCategory>
 		<subcategory>Higiene</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Petshop</mainCategory>
-		<subcategory>Vacina</subcategory>
+		<mainCategory>Animais Estimação</mainCategory>
+		<subcategory>Vacinas</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
-		<mainCategory>Petshop</mainCategory>
+		<mainCategory>Animais Estimação</mainCategory>
 		<subcategory>Veterinário</subcategory>
 		<expense>1</expense>
 		<short>1</short>
@@ -426,19 +426,19 @@
 	</record>
 	<record>
 		<mainCategory>Saúde</mainCategory>
-		<subcategory>Hospital</subcategory>
+		<subcategory>Consultas</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Saúde</mainCategory>
-		<subcategory>Medicamento</subcategory>
+		<subcategory>Medicamentos</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Saúde</mainCategory>
-		<subcategory>Oculista</subcategory>
+		<subcategory>Exames</subcategory>
 		<expense>1</expense>
 	</record>
 	<record>
@@ -478,7 +478,7 @@
 	</record>
 	<record>
 		<mainCategory>Transporte</mainCategory>
-		<subcategory>Aluguel de Veículo</subcategory>
+		<subcategory>Aluguer de Veículos</subcategory>
 		<expense>1</expense>
 		<short>1</short>
 	</record>
@@ -507,12 +507,12 @@
 	</record>
 	<record>
 		<mainCategory>Salário</mainCategory>
-		<subcategory>Bônus</subcategory>
+		<subcategory>Extras</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
 		<mainCategory>Salário</mainCategory>
-		<subcategory>Comissão</subcategory>
+		<subcategory>Comissões</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
@@ -534,26 +534,26 @@
 	</record>
 	<record>
 		<mainCategory>Salário</mainCategory>
-		<subcategory>Reembolso</subcategory>
+		<subcategory>Reembolsos</subcategory>
 		<expense>0</expense>
 	</record>
 
 	<record>
-		<mainCategory>Aposentadoria</mainCategory>
+		<mainCategory>Reforma</mainCategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Aposentadoria</mainCategory>
+		<mainCategory>Reforma</mainCategory>
 		<subcategory>Auxílio Doença</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Aposentadoria</mainCategory>
+		<mainCategory>Reforma</mainCategory>
 		<subcategory>Previdência Privada</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
-		<mainCategory>Aposentadoria</mainCategory>
+		<mainCategory>Reforma</mainCategory>
 		<subcategory>Previdência Social</subcategory>
 		<expense>0</expense>
 		<short>1</short>
@@ -584,13 +584,13 @@
 	</record>
 	<record>
 		<mainCategory>Outras Receitas</mainCategory>
-		<subcategory>Aluguel Recebido</subcategory>
+		<subcategory>Alugueres Recebidos</subcategory>
 		<expense>0</expense>
 		<short>1</short>
 	</record>
 	<record>
 		<mainCategory>Outras Receitas</mainCategory>
-		<subcategory>Dinheiro Achado</subcategory>
+		<subcategory>Dinheiro Encontrado</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
@@ -607,7 +607,7 @@
 	</record>
 	<record>
 		<mainCategory>Outras Receitas</mainCategory>
-		<subcategory>Loteria</subcategory>
+		<subcategory>Lotaria</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
@@ -617,12 +617,12 @@
 	</record>
 	<record>
 		<mainCategory>Outras Receitas</mainCategory>
-		<subcategory>Restituição IR</subcategory>
+		<subcategory>Restituição IRS</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
 		<mainCategory>Outras Receitas</mainCategory>
-		<subcategory>Seguro Desemprego</subcategory>
+		<subcategory>Subsidio Desemprego</subcategory>
 		<expense>0</expense>
 	</record>
 	<record>
