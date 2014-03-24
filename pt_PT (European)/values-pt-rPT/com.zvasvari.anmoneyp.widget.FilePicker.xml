@@ -4,4 +4,5 @@
 	<string name="FilePicker_select_file">Seleccionar ficheiro</string>
 	<string name="FilePicker_deselect_file">Desmarcar ficheiro</string>
 	<string name="FilePicker_delete_file">Eliminar ficheiro</string>
+	<string name="FilePicker_go_to_parent_folder">Ir para a pasta superior</string>
 </resources>
