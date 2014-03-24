@@ -34,7 +34,7 @@
 	<string name="export_folder">Pasta para exportação</string>
     <string name="ask_to_view_imported_transaction">Gostaria de ver as transacções importadas</string>
 	<string name="import_same_time_warning">Se você tiver mais do que uma conta para importar, certifique-se que as importa ao mesmo tempo. Ao fazer uma a uma, as transacções poderão ser duplicadas, e isso deverá ser evitado</string> 
-    <string name="user_guide">Manual do Utilizador</string>
+    <string name="user_guide">Manual do utilizador</string>
     <string name="enter_password">Introduza a senha</string>
     <string name="incorrect_password">Senha incorrecta. Por favor, introduza-a novamente</string>
     <string name="set_password">Definir senha</string>
@@ -53,7 +53,7 @@
     <string name="no_backup_files_new_instructions">Se está a tentar criar um livro utilizando um ficheiro importado, por favor crie um livro na página inicial e, então importe o ficheiro</string>
     <string name="remove_transactions">Remover as transacções anteriores à seguinte data</string>
     <string name="truncate_warning_format">Todas as transacções que pertencerem a ^1 serão eliminadas sem hipótese de serem recuperadas</string>
-    <string name="information_and_help">Informações e Ajuda</string>
+    <string name="information_and_help">Informações e ajuda</string>
     <string name="join_the_user_community_format">Participe ^1 comunidade de utilizadores</string>
     <string name="contact_us">Fale connosco</string>
     <string name="email_the_developers">Enviar um e-mail directamente aos programadores</string>
@@ -62,8 +62,8 @@
     <string name="change_settings_instructions_format">Esta mensagem não irá aparecer nas próximas importações, mas você poderá alterar essa configuração a qualquer momento tocando ^i no topo do ecrã</string>
     <string name="bad_import_settings">A(s) seguinte(s) sentença(s) parece(m) estar incorrecta(s) no ficheiro que você está a tentar importar</string>
     <string name="qif_csv_encoding_explanation_format">Geralmente deverá ser utilizado ^1 para os idiomas presentes na lista abaixo, mas algumas instituições financeiras poderão produzir ficheiros onde o ^2 necessita de ser seleccionado para que os mesmos sejam importados de forma correcta.\n\nPara todos os outros idiomas NÃO listados, o ^2 deverá ser sempre seleccionado</string>
-    <string name="credits_legal">Créditos e Direitos</string>
-    <string name="contact_and_social">Contactos e Redes Sociais</string>
+    <string name="credits_legal">Créditos e direitos</string>
+    <string name="contact_and_social">Contactos e redes sociais</string>
 	<string name="add_us_to_circle">Adicione-nos aos seus círculos e dê-nos +1</string>
     <string name="haptic_feedback">Resposta táctil</string>
     <string name="haptic_feedback_description">Se seleccionado, o dispositivo vibra ao tocar nos botões</string>
