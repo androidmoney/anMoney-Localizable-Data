@@ -18,7 +18,7 @@
 	<string name="edit_recurring">Alterar recorrência</string>
 	<string name="edit_occurrence">Alterar ocorrência</string>
 	<string name="entire_series">Série inteira</string>
-	<string name="edit_template_warning">Existe ocorrências futuras personalizadas.\n\nEditar a série eliminará estas personalizações</string>
+	<string name="edit_template_warning">Existem ocorrências futuras personalizadas.\n\nEditar a série eliminará estas personalizações</string>
 	<string name="delete_recurring">Excluir recorrência</string>
 	<string name="delete_question_format">Excluir ^1</string>
 	<string name="all_future_occurrences_will_be_deleted">Todas as futuras ocorrências serão eliminadas</string>

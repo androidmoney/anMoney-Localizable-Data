@@ -40,7 +40,7 @@
     <string name="statement_ending_balance">Entrada de saldo final</string>
     <string name="amount_owed_last_month">Valor negativo no último mês</string>
     <string name="amount_owed_this_month">Valor negativo este mês</string>
-	<string name="service_charge_amount">Valor de taxa de serviço</string>
+	<string name="service_charge_amount">Valor da taxa de serviço</string>
     <string name="service_charge_category">Categoria de taxa de serviço</string>
     <string name="service_charge_notes_format">Taxa de serviço período finalizando em ^1</string>
     <string name="interest_earned_amount">Valor dos juros obtidos</string>

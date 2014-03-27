@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="asset">Activo</string>
-    <string name="adjust_balance">Ajustar saldo</string>
+	<string name="adjust_balance">Ajustar o saldo</string>
 	<string name="account_balance_does_not_match_bank_warning_format">O saldo inicial que você indicou, ^1, não corresponde ao saldo das transacções anteriores, ^2</string>
 	<string name="account_balance_does_not_match_credit_warning_format">O saldo negativo que você indicou, ^1, não corresponde ao saldo das transacções anteriores, ^2</string>
 	<string name="account_balance_does_not_match_fix">Tente corrigir assim:\n\n<li>Verifique novamente a entrada</li>\n<li>Marque as transacções como reconciliadas</li>\n<li>Marque as transacções como não reconciliadas</li>\n<li>Ajuste o saldo inicial</li></string>
@@ -40,6 +40,7 @@
 	<string name="total_to_show">Total no ecrã</string>
     <string name="selected_total">Total seleccionado</string>
 	<string name="entered_total">Total registado</string>
+	<string name="default_cash_account_name">Meu dinheiro diário</string>
     <string name="default_checking_account_name">Minha conta actual</string>
     <string name="projected_balance">Previsto</string>
     <string name="projected_balance_at_the_end_of_the_month">Saldo previsto para o final do mês</string>
