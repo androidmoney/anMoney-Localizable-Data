@@ -18,7 +18,7 @@
     <string name="balance_noun">Saldo</string>
     <string name="balances_noun">Saldos</string>
     <string name="adjust">Ajustar</string>
-    <string name="adjust_balance">Ajuste o saldo</string>
+    <string name="adjust_balance">Ajustar o saldo</string>
 	<string name="balance_adjusted">Saldo ajustado</string>
 	<string name="balance_adjustment_note">Ajuste de saldo</string>
 	<string name="category_for_adjustment_transaction">Categoria para ajustes de saldo</string>
@@ -40,7 +40,7 @@
     <string name="statement_ending_balance">Entrada de saldo final</string>
     <string name="amount_owed_last_month">Valor negativo no último mês</string>
     <string name="amount_owed_this_month">Valor negativo este mês</string>
-	<string name="service_charge_amount">Valor de taxa de serviço</string>
+	<string name="service_charge_amount">Valor da taxa de serviço</string>
     <string name="service_charge_category">Categoria de taxa de serviço</string>
     <string name="service_charge_notes_format">Taxa de serviço período finalizando em ^1</string>
     <string name="interest_earned_amount">Valor dos juros obtidos</string>
@@ -118,7 +118,7 @@
 	<string name="reconciled_total">Total reconciliado</string>
 	<string name="filtered_total">Total filtrado</string>
 	<string name="available_credit">Crédito disponível</string> <!-- As in "the amount availble to spend on a credit card" -->
-	<string name="default_cash_account_name">Meu caixa diário</string>
+	<string name="default_cash_account_name">Meu dinheiro diário</string>
     <string name="default_checking_account_name">Minha conta atual</string>
     <string name="default_savings_account_name">Minha conta poupança</string>
     <string name="default_credit_account_name">Meu cartão de crédito</string>
