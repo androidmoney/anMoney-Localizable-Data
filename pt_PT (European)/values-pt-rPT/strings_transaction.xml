@@ -31,7 +31,7 @@
     <string name="added">Registado</string>
     <string name="add_canceled">Registo cancelado</string>
     <string name="accept_and_edit">Aceitar e editar</string>
-    <string name="add_and_close">Registar e pechar</string>
+    <string name="add_and_close">Registar e fechar</string>
 
     <string name="duplicate_transaction">Duplicar transacção</string>
     <string name="duplicate_in_current_account">Duplicar na conta actual</string>
