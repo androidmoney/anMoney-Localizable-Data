@@ -80,7 +80,7 @@
 	</string-array>
 
 	<string-array name="workday_adjustment_methods">
-		<item>Fazer nada</item>
+		<item>Não fazer nada</item>
 		<item>Mover para um dia da semana anterior</item>
 		<item>Mover para um dia da próxima semana</item>
 	</string-array>
