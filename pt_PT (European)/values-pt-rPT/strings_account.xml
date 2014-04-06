@@ -36,7 +36,7 @@
     <string name="would_you_like_to_give_one_after_saving">Gostaria de atribuir uma após guardar</string>
     <string name="net_worth">Património líquido</string>
     <string name="net_worth_over_time">Património líquido ao longo do tempo / Previsão</string>
-    <string name="set_total_to_show">Configure o total</string>
+    <string name="set_total_to_show">Configurar o total</string>
 	<string name="total_to_show">Total no ecrã</string>
     <string name="selected_total">Total seleccionado</string>
 	<string name="entered_total">Total registado</string>
