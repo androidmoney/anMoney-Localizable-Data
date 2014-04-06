@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">Még ha megérinti a ^1-et is, akkor is még később módoshitja a sorozatot</string>
 			
 	<!-- These three below form a sentence -->
-	<string name="based_part1">Az</string>
+	<string-array name="based_part1_plurals">
+		<item>Az</item>
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">utolsó</string>
 	<string-array name="based_part2_plurals">
 		<item>utolsó ^1</item>

@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">Aún si presionas ^1, puedes hacer esto luego mediante la edición de la serie</string>
 
 	<!-- These three below form a sentence -->
-	<string name="based_part1">Con base en</string>
+	<string-array name="based_part1_plurals">
+		<item>Con base en</item>
+		<item>Con base en</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">occurrencia anterior</string>
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->

@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">Selv om du velger ^1, så kan du gjøre dette senere ved å redigere serien</string>
 	
 	<!-- These three below form a sentence -->	
-	<string name="based_part1">Basert på de</string>
+	<string-array name="based_part1_plurals">
+		<item>Basert på de</item>
+		<item>Basert på de</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">siste</string>
 	<string-array name="based_part2_plurals">
 		<item/>

@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">^1をタップしてもあとでシリーズを編集できます</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 
 	<!-- These three below form a sentence -->
-	<string name="based_part1">取り引き実績から（</string>
+	<string-array name="based_part1_plurals">
+		<item>取り引き実績から（</item>
+		<item/> <!-- Not used -->
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">過去</string>
 	<string-array name="based_part2_plurals">
 		<item>過去^1</item>

@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">Mesmo se você escolher ^1, você pode fazer isto mais tarde editando a série</string>
 			
 	<!-- These three below form a sentence -->
-	<string name="based_part1">Baseado em</string>
+	<string-array name="based_part1_plurals">
+		<item>Baseado na</item>
+		<item>Baseado nas</item>
+        <item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">ocorrência anterior</string>
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->
@@ -175,77 +179,77 @@
 	</string-array>
 
 	<string-array name="workday_adjustment_methods">
-		<item>Fazer nada</item>
-		<item>Mover para o dia de semana anterior</item>
-		<item>Move para o próximo dia de semana</item>
+		<item>Não fazer nada</item>
+		<item>Mover para um dia de semana anterior</item>
+		<item>Mover para um dia da próxima semana</item>
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month">
-		<item>No 1º</item>
-		<item>No 2º</item>
-		<item>No 3º</item>
-		<item>No 4º</item>
-		<item>No 5º</item>
-		<item>No 6º</item>
-		<item>No 7º</item>
-		<item>No 8º</item>
-		<item>No 9º</item>
-		<item>No 10º</item>
-		<item>No 11º</item>
-		<item>No 12º</item>
-		<item>No 13º</item>
-		<item>No 14º</item>
-		<item>No 15º</item>
-		<item>No 16º</item>
-		<item>No 17º</item>
-		<item>No 18º</item>
-		<item>No 19º</item>
-		<item>No 20º</item>
-		<item>No 21º</item>
-		<item>No 22º</item>
-		<item>No 23º</item>
-		<item>No 24º</item>
-		<item>No 25º</item>
-		<item>No 26º</item>
-		<item>No 27º</item>
-		<item>No 28º</item>
-		<item>No 29º</item>
-		<item>No 30º</item>
-		<item>No 31º</item>
+		<item>No 1º dia</item>
+		<item>No 2º dia</item>
+		<item>No 3º dia</item>
+		<item>No 4º dia</item>
+		<item>No 5º dia</item>
+		<item>No 6º dia</item>
+		<item>No 7º dia</item>
+		<item>No 8º dia</item>
+		<item>No 9º dia</item>
+		<item>No 10º dia</item>
+		<item>No 11º dia</item>
+		<item>No 12º dia</item>
+		<item>No 13º dia</item>
+		<item>No 14º dia</item>
+		<item>No 15º dia</item>
+		<item>No 16º dia</item>
+		<item>No 17º dia</item>
+		<item>No 18º dia</item>
+		<item>No 19º dia</item>
+		<item>No 20º dia</item>
+		<item>No 21º dia</item>
+		<item>No 22º dia</item>
+		<item>No 23º dia</item>
+		<item>No 24º dia</item>
+		<item>No 25º dia</item>
+		<item>No 26º dia</item>
+		<item>No 27º dia</item>
+		<item>No 28º dia</item>
+		<item>No 29º dia</item>
+		<item>No 30º dia</item>
+		<item>No 31º dia</item>
 	</string-array>
 
 	<string-array name="on_the_nth_day_of_the_month_and_on_the">
-		<item>No 1º e no</item>
-		<item>No 2º e no</item>
-		<item>No 3º e no</item>
-		<item>No 4º e no</item>
-		<item>No 5º e no</item>
-		<item>No 6º e no</item>
-		<item>No 7º e no</item>
-		<item>No 8º e no</item>
-		<item>No 9º e no</item>
-		<item>No 10º e no</item>
-		<item>No 11º e no</item>
-		<item>No 12º e no</item>
-		<item>No 13º e no</item>
-		<item>No 14º e no</item>
-		<item>No 15º e no</item>
-		<item>No 16º e no</item>
-		<item>No 17º e no</item>
-		<item>No 18º e no</item>
-		<item>No 19º e no</item>
-		<item>No 20º e no</item>
-		<item>No 21º e no</item>
-		<item>No 22º e no</item>
-		<item>No 23º e no</item>
-		<item>No 24º e no</item>
-		<item>No 25º e no</item>
-		<item>No 26º e no</item>
-		<item>No 27º e no</item>
-		<item>No 28º e no</item>
-		<item>No 29º e no</item>
-		<item>No 30º e no</item>
-		<item>No 31º e no</item>
+		<item>No 1º dia e no</item>
+		<item>No 2º dia e no</item>
+		<item>No 3º dia e no</item>
+		<item>No 4º dia e no</item>
+		<item>No 5º dia e no</item>
+		<item>No 6º dia e no</item>
+		<item>No 7º dia e no</item>
+		<item>No 8º dia e no</item>
+		<item>No 9º dia e no</item>
+		<item>No 10º dia e no</item>
+		<item>No 11º dia e no</item>
+		<item>No 12º dia e no</item>
+		<item>No 13º dia e no</item>
+		<item>No 14º dia e no</item>
+		<item>No 15º dia e no</item>
+		<item>No 16º dia e no</item>
+		<item>No 17º dia e no</item>
+		<item>No 18º dia e no</item>
+		<item>No 19º dia e no</item>
+		<item>No 20º dia e no</item>
+		<item>No 21º dia e no</item>
+		<item>No 22º dia e no</item>
+		<item>No 23º dia e no</item>
+		<item>No 24º dia e no</item>
+		<item>No 25º dia e no</item>
+		<item>No 26º dia e no</item>
+		<item>No 27º dia e no</item>
+		<item>No 28º dia e no</item>
+		<item>No 29º dia e no</item>
+		<item>No 30º dia e no</item>
+		<item>No 31º dia e no</item>
 	</string-array>
 	<string name="on_the_last_day_of_the_month">No último dia do mês</string>
 	<string-array name="on_the_nth_day_of_the_week_format">

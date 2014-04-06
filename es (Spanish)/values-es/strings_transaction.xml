@@ -121,7 +121,7 @@
 	<string name="reconciled_transactions_color">Color de transacciones conciliadas</string>
 <!-- Verify --> <string name="upcoming_transactions_color">Color de transacciones futuras</string>
 	<string name="text_filter">Filtro de texto</string>
-	<string name="profit_and_loss_statement">Declaración de Ganancias &amp; Pérdidas</string>
+	<string name="profit_and_loss_statement">Declaración de ganancias &amp; pérdidas</string>
 	<string name="transaction_type">Tipo de transacción</string>
 	<string name="transaction_status">Estado de la transacción</string>
 

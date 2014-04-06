@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">即使您點擊^1，您稍後仍可透過編輯此系列達成此動作</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 		
 	<!-- These three below form a sentence -->
-	<string name="based_part1">基於</string>
+	<string-array name="based_part1_plurals">
+		<item>基於</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">持續</string>
 	<string-array name="based_part2_plurals">
 		<item>持續^1</item>

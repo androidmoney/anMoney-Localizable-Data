@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">Zelfs als je toetst ^1, kan je dit later doen door de serie te bewerken</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 		
 	<!-- These three below form a sentence -->
-	<string name="based_part1">Gebaseerd op de laatste</string>
+	<string-array name="based_part1_plurals">
+		<item>Gebaseerd op de laatste</item>
+		<item>Gebaseerd op de laatste</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">laatste</string>
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->

@@ -79,12 +79,6 @@
         <item/> <!-- Not used -->
 	</string-array>
 
-	<string-array name="workday_adjustment_methods">
-		<item>Fazer nada</item>
-		<item>Mover para um dia da semana anterior</item>
-		<item>Mover para um dia da próxima semana</item>
-	</string-array>
-
 	<string name="fiscal_year">Ano fiscal</string>
 	
 	<string name="reminder_hour_of_day_change_warning">Tenha em atenção que os alertas existentes (caso existam), <b>não</b> serão alterados. Para os alterar, aceda ao calendário do seu dispositivo e edite lá esses alertas.\n\nO novo horário será utilizado para qualquer novo alerta incluindo alertas de contas e depósitos recorrentes</string>

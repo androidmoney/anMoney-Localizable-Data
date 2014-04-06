@@ -171,37 +171,37 @@
     </string-array>
 
 	<string-array name="nth_day_of_the_month">
-		<item>1º</item>
-		<item>2º</item>
-		<item>3º</item>
-		<item>4º</item>
-		<item>5º</item>
-		<item>6º</item>
-		<item>7º</item>
-		<item>8º</item>
-		<item>9º</item>
-		<item>10º</item>
-		<item>11º</item>
-		<item>12º</item>
-		<item>13º</item>
-		<item>14º</item>
-		<item>15º</item>
-		<item>16º</item>
-		<item>17º</item>
-		<item>18º</item>
-		<item>19º</item>
-		<item>20º</item>
-		<item>21º</item>
-		<item>22º</item>
-		<item>23º</item>
-		<item>24º</item>
-		<item>25º</item>
-		<item>26º</item>
-		<item>27º</item>
-		<item>28º</item>
-		<item>29º</item>
-		<item>30º</item>
-		<item>31º</item>
+		<item>1º dia</item>
+		<item>2º dia</item>
+		<item>3º dia</item>
+		<item>4º dia</item>
+		<item>5º dia</item>
+		<item>6º dia</item>
+		<item>7º dia</item>
+		<item>8º dia</item>
+		<item>9º dia</item>
+		<item>10º dia</item>
+		<item>11º dia</item>
+		<item>12º dia</item>
+		<item>13º dia</item>
+		<item>14º dia</item>
+		<item>15º dia</item>
+		<item>16º dia</item>
+		<item>17º dia</item>
+		<item>18º dia</item>
+		<item>19º dia</item>
+		<item>20º dia</item>
+		<item>21º dia</item>
+		<item>22º dia</item>
+		<item>23º dia</item>
+		<item>24º dia</item>
+		<item>25º dia</item>
+		<item>26º dia</item>
+		<item>27º dia</item>
+		<item>28º dia</item>
+		<item>29º dia</item>
+		<item>30º dia</item>
+		<item>31º dia</item>
 	</string-array>
 
     <string name="display_direction">Ordenação</string>

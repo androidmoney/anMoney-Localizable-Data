@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">^1 a tıklasanız bile, bunu daha sonra serileri düzenleyerek yapabilirsiniz</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 		
 	<!-- These three below form a sentence -->
-	<string name="based_part1">Son</string>
+	<string-array name="based_part1_plurals">
+		<item>Son</item>
+        <item/> <!-- Not used -->
+        <item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">sefere göre</string>
 	<string-array name="based_part2_plurals">
 		<item>son ^1</item>

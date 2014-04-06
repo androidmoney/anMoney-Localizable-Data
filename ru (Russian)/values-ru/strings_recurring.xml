@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">Даже если вы ответите ^1, вы сможете сделать это позднее изменив серию</string>
 			
 	<!-- These three below form a sentence -->
-	<string name="based_part1">На основе</string>
+	<string-array name="based_part1_plurals">
+		<item>На основе</item>
+		<item>На основе</item>
+		<item>На основе</item>
+	</string-array>
 	<string name="based_part2_singular">прошлой</string>
 	<string-array name="based_part2_plurals">
 	    <item>^1 прошлой</item>

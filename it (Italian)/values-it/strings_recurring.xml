@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">Anche se si tocca ^1, puoi farlo successivamente modificando la serie</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 
 	<!-- These three below form a sentence -->
-	<string name="based_part1">Basato</string>
+	<string-array name="based_part1_plurals">
+		<item>Basato</item>
+		<item>Basato</item>
+		<item/> <!-- Not used -->
+	</string-array>
 	<string name="based_part2_singular">sull’ultimo</string>
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->

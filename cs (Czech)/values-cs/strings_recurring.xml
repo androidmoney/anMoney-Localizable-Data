@@ -65,7 +65,11 @@
 	<string name="make_recurring_budget_question_part2_format">I když zvolíte ^1, můžet nastavení kdykoli změnit úpravou trvalého příkazu</string> <!-- see "make_account_budget_question_part2" in accounts.xml for the wording -->
 
 	<!-- These three below form a sentence -->
-	<string name="based_part1">Závisí na</string>
+	<string-array name="based_part1_plurals">
+		<item>Závisí na</item>
+		<item>Závisí na</item>
+		<item>Závisí na</item>
+	</string-array>
 	<string name="based_part2_singular">poslední</string>
 	<string-array name="based_part2_plurals">
 		<item/> <!-- Intentionally left empty -->

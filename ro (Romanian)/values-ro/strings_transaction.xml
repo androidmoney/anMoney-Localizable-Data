@@ -120,7 +120,7 @@
     <string name="reconciled_transactions_color">Culoare tranzacţii reconciliate</string>
 <!-- New --> <string name="upcoming_transactions_color">Upcoming transactions colour</string> <!-- As in "color of an upcoming recurring transactions" -->
     <string name="text_filter">Filtru text</string>
-    <string name="profit_and_loss_statement">Extras de cont Profit &amp; Pierdere</string>
+    <string name="profit_and_loss_statement">Extras de cont profit &amp; pierdere</string>
 	<string name="transaction_type">Tip tranzacţie</string>
 	<string name="transaction_status">Stare tranzacţie</string>
 
