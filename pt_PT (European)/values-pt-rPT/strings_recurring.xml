@@ -24,7 +24,7 @@
 	<string name="account_and_amount">Conta e valor</string>
 	<string name="payee_and_category">Beneficiário e categoria</string>
 	<string name="auto_enter_and_reminder">Entrada automática e alertas</string>
-	<string name="pay_by_check">Eu pago isto por cheque</string>
+	<string name="pay_by_check">Pagamento por cheque</string>
 	<string name="amount_is">O valor é</string>
 	<string name="no_upcoming">Sem pagamentos ou depósitos próximos</string>
 	<string name="no_upcoming_bills">Sem pagamentos próximos</string>
