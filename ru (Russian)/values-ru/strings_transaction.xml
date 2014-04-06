@@ -59,7 +59,7 @@
     <string name="added">Добавлено</string>
     <string name="add_canceled">Добавление отменено</string>
     <string name="accept_and_edit">Принять и изменть</string>
-    <string name="add_and_close">Добавить и Закрыть</string>
+    <string name="add_and_close">Добавить и закрыть</string>
     <string name="duplicate_copy_move">Дублировать, скопировать, переместить</string>
     
     <string name="duplicate_transaction">Дублировать транзакцию</string>

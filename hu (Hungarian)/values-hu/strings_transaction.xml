@@ -58,8 +58,8 @@
     <string name="add">Hozzáadás</string>
     <string name="added">Hozzáadva</string>
     <string name="add_canceled">Hozzáadás megszakítva</string>
-    <string name="accept_and_edit">Elfogadás és Módosítás</string>
-    <string name="add_and_close">Hozzáadás és Becsukás</string>
+    <string name="accept_and_edit">Elfogadás és módosítás</string>
+    <string name="add_and_close">Hozzáadás és becsukás</string>
     <string name="duplicate_copy_move">Duplikálás, másolás vagy áthelyezés</string>
     <string name="duplicate_copy_move_short">Duplikálás/másolás/áthelyezés</string>
     <string name="duplicate_transaction">Tranzakció duplikálása</string>

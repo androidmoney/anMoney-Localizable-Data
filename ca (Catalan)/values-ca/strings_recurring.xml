@@ -38,10 +38,10 @@
 	<string name="create_recurring_instructions_format">Toqui ^i a la part superior de la pantalla</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Si us plau, crei comptes i beneficiaris abans d’afegir elements recurrents</string>
 	<string name="specify_account">Si us plau, especifiqui el compte en primer lloc</string>
-	<string name="account_and_amount">Compte i Import</string>
-	<string name="payee_and_category">Beneficiari i Categoria</string>
+	<string name="account_and_amount">Compte i import</string>
+	<string name="payee_and_category">Beneficiari i categoria</string>
 	<string name="auto_enter">Enregistrament automàtic</string>
-	<string name="auto_enter_and_reminder">Enregistrament automàtic i Recordatori</string>
+	<string name="auto_enter_and_reminder">Enregistrament automàtic i recordatori</string>
 	<string name="pay_by_check">Es paga a través de xec</string>
 	<string name="amount_is">L’import és</string>
 	<string name="fixed">Fix</string>

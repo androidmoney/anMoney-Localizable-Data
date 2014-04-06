@@ -38,10 +38,10 @@
     <string name="create_recurring_instructions_format">Toets ^i bovenaan in het scherm</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Maak eerst een rekening en een begunstigde voor je terugkomende betalingen toevoegd</string>
 	<string name="specify_account">Specificeer eerst de rekening</string>
-	<string name="account_and_amount">Rekening &amp; Bedrag</string>
-	<string name="payee_and_category">Begunstigde &amp; Categorie</string>
+	<string name="account_and_amount">Rekening &amp; bedrag</string>
+	<string name="payee_and_category">Begunstigde &amp; categorie</string>
 	<string name="auto_enter">Automatisch toevoegen</string>
-	<string name="auto_enter_and_reminder">Automatische toevoeging &amp; Herrinnering</string>
+	<string name="auto_enter_and_reminder">Automatische toevoeging &amp; herrinnering</string>
 	<string name="pay_by_check">Ik betaal dit per cheque</string>
 	<string name="amount_is">Bedrag is</string>
 	<string name="fixed">Vast</string>

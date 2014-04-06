@@ -57,8 +57,8 @@
     <string name="add">Adaugă</string>
     <string name="added">Adăugat</string>
     <string name="add_canceled">Adăugare anulată</string>
-    <string name="accept_and_edit">Acceptă &amp; Editează</string>
-    <string name="add_and_close">Adaugă &amp; Închide</string>
+    <string name="accept_and_edit">Acceptă &amp; editează</string>
+    <string name="add_and_close">Adaugă &amp; închide</string>
     <string name="duplicate_copy_move">Fă un duplicat, copiază sau mută</string>
 
     <string name="duplicate_transaction">Fă un duplicat tranzacţia</string>

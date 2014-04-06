@@ -58,8 +58,8 @@
 	<string name="add">Dodaj</string>
 	<string name="added">Dodane</string>
 	<string name="add_canceled">Dodawanie anulowane</string>
-	<string name="accept_and_edit">Zaakceptuj &amp; Edytuj</string>
-	<string name="add_and_close">Dodaj &amp; Zamknij</string>
+	<string name="accept_and_edit">Zaakceptuj &amp; edytuj</string>
+	<string name="add_and_close">Dodaj &amp; zamknij</string>
 	<string name="duplicate_copy_move">Zduplikuj, skopiuj lub przenieś</string>
 	<string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
 	<string name="duplicate_transaction">Zduplikuj transakcję</string>

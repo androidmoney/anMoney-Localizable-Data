@@ -58,8 +58,8 @@
 	<string name="add">Afegir</string>
 	<string name="added">Afegida</string>
 	<string name="add_canceled">Afegir cancel·lat</string>
-	<string name="accept_and_edit">Acceptar i Editar</string>
-	<string name="add_and_close">Afegir i Tancar</string>
+	<string name="accept_and_edit">Acceptar i editar</string>
+	<string name="add_and_close">Afegir i tancar</string>
 	<string name="duplicate_copy_move">Duplicar, copiar o moure</string>
 	<string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
 	<string name="duplicate_transaction">Duplicar transacció</string>

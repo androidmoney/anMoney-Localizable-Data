@@ -39,7 +39,7 @@
 	<string name="recurring_no_accounts_yet">Prosím vytvorte účty a príjemcov pred zadaním opakujúcich sa platieb</string>
 	<string name="specify_account">Najprv prosím vyberte účet</string>
 	<string name="account_and_amount">Účet a suma</string>
-	<string name="payee_and_category">Príjemca a Kategória</string>
+	<string name="payee_and_category">Príjemca a kategória</string>
 	<string name="auto_enter">Automatické uskutočnenie</string>
 	<string name="auto_enter_and_reminder">Automatické uskutočnenie a pripomínanie</string>
 	<string name="pay_by_check">Budem platiť šekom</string>

@@ -58,8 +58,8 @@
 	<string name="add">Hinzufügen</string>
 	<string name="added">Hinzugefügt</string>
 	<string name="add_canceled">Hinzufügen abgebrochen</string>
-	<string name="accept_and_edit">Annehmen &amp; Editieren</string>
-	<string name="add_and_close">Hinzufügen &amp; Schließen</string>
+	<string name="accept_and_edit">Annehmen &amp; editieren</string>
+	<string name="add_and_close">Hinzufügen &amp; schließen</string>
 	<string name="duplicate_copy_move">Duplizieren, kopieren oder verschieben</string>
 	<string name="duplicate_copy_move_short">Duplizieren oder verschieben</string>
 	<string name="duplicate_transaction">Transaktion duplizieren</string>

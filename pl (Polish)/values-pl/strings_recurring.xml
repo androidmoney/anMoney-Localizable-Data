@@ -39,10 +39,10 @@
 	<string name="create_recurring_instructions_format">Stuknij ^i na górze ekranu</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Utwórz, proszę, konta oraz płatników przed dodaniem jakichkolwiek elementów powtarzających się</string>
 	<string name="specify_account">Określ, proszę, najpierw konto</string>
-	<string name="account_and_amount">Konto &amp; Kwota</string>
-	<string name="payee_and_category">Płatnik &amp; Kategoria</string>
+	<string name="account_and_amount">Konto &amp; kwota</string>
+	<string name="payee_and_category">Płatnik &amp; kategoria</string>
 	<string name="auto_enter">Wprowadzenie automatyczne</string>
-	<string name="auto_enter_and_reminder">Wprowadznie automatyczne &amp; Przypominacz</string>
+	<string name="auto_enter_and_reminder">Wprowadznie automatyczne &amp; przypominacz</string>
 	<string name="pay_by_check">Płacę czekiem</string>
 	<string name="amount_is">Kwota jest</string>
 	<string name="fixed">Stała</string> <!-- As in "fixed amount", NOT "fixed a problem" -->

@@ -58,8 +58,8 @@
 	<string name="add">Ekle</string>
 	<string name="added">Eklendi</string>
 	<string name="add_canceled">Ekleme iptal edildi</string>
-	<string name="accept_and_edit">Kabul et Düzenle</string>
-	<string name="add_and_close">Ekle Kapat</string>
+	<string name="accept_and_edit">Kabul et düzenle</string>
+	<string name="add_and_close">Ekle kapat</string>
 	<string name="duplicate_copy_move">Klonla, kopyala ya da taşı</string>
 	<string name="duplicate_copy_move_short">@string/duplicate_copy_move</string>
 	<string name="duplicate_transaction">İşlemi klonla</string>

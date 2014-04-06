@@ -21,8 +21,8 @@
 	<string name="no_recurrings_format">Você não tem nenhuma conta ou depósito recorrente.\n\nPara criar uma:\n\n<li>^1</li>\n\n<li>Faça um toque longo em qualquer transacção e toque em ^2</li></string>
     <string name="create_recurring_instructions_format">Toque em ^i no topo do ecrã</string>
 	<string name="specify_account">Por favor especifique primeiro a conta</string>
-	<string name="account_and_amount">Conta e Valor</string>
-	<string name="payee_and_category">Beneficiário e Categoria</string>
+	<string name="account_and_amount">Conta e valor</string>
+	<string name="payee_and_category">Beneficiário e categoria</string>
 	<string name="auto_enter_and_reminder">Entrada automática e alertas</string>
 	<string name="pay_by_check">Eu pago isto por cheque</string>
 	<string name="amount_is">O valor é</string>

@@ -38,10 +38,10 @@
     <string name="create_recurring_instructions_format">Ekranın üstündeki ^i e tıklayın</string> <!-- ^i will be replaced by an image -->
 	<string name="recurring_no_accounts_yet">Lütfen tekrarlayan öğeler eklemeden önce hesap ve alacaklı oluşturun</string>
 	<string name="specify_account">Lütfen önce hesabı belirleyin</string>
-	<string name="account_and_amount">Hesap &amp; Miktar</string>
-	<string name="payee_and_category">Alacaklı &amp; Kategori</string>
+	<string name="account_and_amount">Hesap &amp; miktar</string>
+	<string name="payee_and_category">Alacaklı &amp; kategori</string>
 	<string name="auto_enter">Otomatik girdi</string>
-	<string name="auto_enter_and_reminder">Otomatik girdi &amp; Hatırlatıcı</string>
+	<string name="auto_enter_and_reminder">Otomatik girdi &amp; hatırlatıcı</string>
 	<string name="pay_by_check">Bunu çekle ödüyorum</string>
 	<string name="amount_is">Miktar</string>
 	<string name="fixed">Sabit</string> <!--  As in "fixed amount", NOT "fixed a problem" -->

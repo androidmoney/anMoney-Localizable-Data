@@ -39,9 +39,9 @@
 	<string name="recurring_no_accounts_yet">Prosím vytvořte účty a příjemce před zadáním trvalých příkazů</string>
 	<string name="specify_account">Nejprve prosím vyberte účet</string>
 	<string name="account_and_amount">Účet a částka</string>
-	<string name="payee_and_category">Příjemce a Kategorie</string>
+	<string name="payee_and_category">Příjemce a kategorie</string>
 	<string name="auto_enter">Automatické provedení</string>
-	<string name="auto_enter_and_reminder">Automatické provedení a Připomínání</string>
+	<string name="auto_enter_and_reminder">Automatické provedení a připomínání</string>
 	<string name="pay_by_check">Budu platit šekem</string>
 	<string name="amount_is">Částka je</string>
 	<string name="fixed">Pevná</string>

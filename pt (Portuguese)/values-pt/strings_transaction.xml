@@ -58,8 +58,8 @@
     <string name="add">Registrar</string>
     <string name="added">Registrado</string>
     <string name="add_canceled">Registro cancelada</string>
-    <string name="accept_and_edit">Aceitar &amp; Editar</string>
-    <string name="add_and_close">Registrar &amp; Fechar</string>
+    <string name="accept_and_edit">Aceitar &amp; editar</string>
+    <string name="add_and_close">Registrar &amp; fechar</string>
     <string name="duplicate_copy_move">Duplicar, copiar ou mover</string>
 
     <string name="duplicate_transaction">Duplicar transação</string>

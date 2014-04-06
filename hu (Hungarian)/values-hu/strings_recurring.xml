@@ -38,10 +38,10 @@
 	<string name="create_recurring_instructions_format">Érintse meg a ^i -ot a képernyő tetején</string>
 	<string name="recurring_no_accounts_yet">Kérjük, elöször hozzon létre számlákat és kedvezményezetteket</string>
 	<string name="specify_account">Kérjük, először adja meg a számlát</string>
-	<string name="account_and_amount">Számla és Összeg</string>
-	<string name="payee_and_category">Kedvezményezett és Kategória</string>
+	<string name="account_and_amount">Számla és összeg</string>
+	<string name="payee_and_category">Kedvezményezett és kategória</string>
 	<string name="auto_enter">Automatikus beírás</string>
-	<string name="auto_enter_and_reminder">Automatikus beírás és Emlékeztető</string>
+	<string name="auto_enter_and_reminder">Automatikus beírás és emlékeztető</string>
 	<string name="pay_by_check">Ezt csekkel fizetem</string>
 	<string name="amount_is">Az összeg</string>
 	<string name="fixed">Állandó</string>
