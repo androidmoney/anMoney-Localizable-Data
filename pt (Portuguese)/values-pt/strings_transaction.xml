@@ -180,7 +180,7 @@
 	<string name="accept_transaction_confirm_singular">Transação será aceita</string>
     <string-array name="accept_transaction_confirm_format_plurals">
         <item/> <!-- Intentionally left empty -->
-        <item>^1 transações selecionadas serão aceitas</item>
+        <item>^1 transações selecionadas serão aceites</item>
         <item/> <!-- Not used -->
 	</string-array>
 </resources>
