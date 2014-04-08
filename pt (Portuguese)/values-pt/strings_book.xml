@@ -236,7 +236,7 @@
     <string name="automatic_backup">Backup automático</string>
     <string name="automatic_backup_description">Se selecionado, este livro fará um backup automático</string>
     
-    <string name="backup_how_often">Freqüência de backup</string>
+    <string name="backup_how_often">Frequência de backup</string>
     
     <string name="auto_backup_notify_description">Se selecionado, um aviso será exibido após a operação de backup</string>
     
